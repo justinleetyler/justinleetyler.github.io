@@ -43,7 +43,8 @@
 
 <h2>My Kindle Books</h2>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for subjects.." title="Type in a subject">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for author.." title="Type in a author">
+<input type="text" id="myTitle" onkeyup="myFunction1()" placeholder="Search for title.." title="Type in a title">
 
 <table id="myTable">
   <tr class="header">
@@ -93,6 +94,25 @@ function myFunction() {
   tr = table.getElementsByTagName("tr");
   for (i = 0; i < tr.length; i++) {
     td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+  
+  function myFunction1() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myTitle");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
     if (td) {
       txtValue = td.textContent || td.innerText;
       if (txtValue.toUpperCase().indexOf(filter) > -1) {
