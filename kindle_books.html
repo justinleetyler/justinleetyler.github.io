@@ -55,49 +55,16 @@
 
 <h2>My Kindle Books</h2>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for author.." title="Type in a author">
-<input type="text" id="myTitle" onkeyup="myFunction1()" placeholder="Search for title.." title="Type in a title">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for title.." title="Type in a title">
+<input type="text" id="myAuthor" onkeyup="myFunction1()" placeholder="Search for author.." title="Type in a author">
 
 <table id="myTable">
   <tr class="header">
-    <th style="width:60%;">Author</th>
-    <th style="width:40%;">Title</th>
+    <th style="width:60%;">Title</th>
+    <th style="width:40%;">Author</th>
     <th style="width:40%;">Subject</th>
   </tr>
-  <tr>
-    <td>Wright, Michael</td>
-    <td>Jesus today</td>
-    <td>232</td>
-  </tr>
-  <tr>
-    <td>Rice, Morgan</td>
-    <td>Transmission</td>
-  </tr>
-  <tr>
-    <td>Mercer, Salvador</td>
-    <td>Lunar discovery</td>
-  </tr>
-  <tr>
-    <td>Greer, John Michael</td>
-    <td>The Gnostic Celtic Chruch</td>
-  </tr>
-  <tr>
-    <td>Wood Jr.</td>
-    <td>The Pantheist world view</td>
-  </tr>
-  <tr>
-    <td>McWhinney, Edward</td>
-    <td>Governor General and the Prime Ministers</td>
-  </tr>
-  <tr>
-    <td>Hodgson, Jim</td>
-    <td>Apprentice quest</td>
-  </tr>
-  <tr>
-    <td>Eckhart, Daniel Martin</td>
-    <td>The champ</td>
-  </tr>
-  <tr><td>The Reason Revolution: Atheism, Secular Humanism, and the Collapse of Religion </td><td> Dan Dana</td></tr>
+<tr><td>The Reason Revolution: Atheism, Secular Humanism, and the Collapse of Religion </td><td> Dan Dana</td></tr>
 <tr><td>Everything Flows: Towards a Processual Philosophy of Biology </td><td> Nicholson</td></tr>
 <tr><td>National geographic: Is Anybody there </td><td> Andrew Clarke</td></tr>
 <tr><td>365 Tao: Daily Meditations </td><td> Ming-Dao Deng</td></tr>
@@ -704,9 +671,9 @@ function myFunction() {
   
   function myFunction1() {
   var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("myTitle");
+  input = document.getElementById("myAuthor");
   filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
+  table = document.getElementById("myAuthor");
   tr = table.getElementsByTagName("tr");
   for (i = 0; i < tr.length; i++) {
     td = tr[i].getElementsByTagName("td")[1];
