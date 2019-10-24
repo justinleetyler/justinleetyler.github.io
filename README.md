@@ -1,4 +1,5 @@
-MDwiki
-======
+# Change history
 
-See http://www.mdwiki.info/ for more documentation and details.
+date | change
+=============
+20191023|updated index
