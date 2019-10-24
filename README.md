@@ -1,5 +1,5 @@
 # Change history
 
-|date | change|
---------------------
+|date    | change      |
+|--------|             |
 |20191023|updated index|
