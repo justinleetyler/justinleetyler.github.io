@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0" findaidstatus="finished">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for American Fur Company records, <date encodinganalog="Date">1803-1849.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00038</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">American Fur Company.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">American Fur Company records, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1803-1849.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">4 boxes, 2 wallets, 23 volumes, 3 large manuscripts, 43 microfilm reels</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Cash books, daybooks, inventories, journals, ledgers, letterbooks and settlement books. Burton holds originals relating to the fur trade at Mackinac, 1803-1806 and 1817-1843. Collection contains microfilm copies and photostats of other original material held at: Mackinac Island, Supervisor of Park and Harbor Commission; the National Archives of Canada, Montreal; the New York Historical Society; Library of Congress; Carnegie Public Library; and Sault Ste. Marie, Mich.</abstract>
+    </did>
+    <originalsloc encodinganalog="535">
+      <p>blotters, Montreal and Michilimackinac (1817-1834), ledgers and invoices, Mackinac (1817-1834)National Archives of Canada, Montreal</p>
+    </originalsloc>
+    <originalsloc encodinganalog="535">
+      <p>correspondence of Ramsay Crooks, president from 1834-1846, collated with calendar, letterbooks (1834-1847), bound vols. and papers including invoices blotters, furs and skins shipments (1827-1847), letters received (1833-1849)New York Historical Society, papers of the New York office.</p>
+    </originalsloc>
+    <originalsloc encodinganalog="535">
+      <p>letterbooks (1816-1838)Astor House at Mackinac Island.</p>
+    </originalsloc>
+    <originalsloc encodinganalog="535">
+      <p>letterbooks (1820-1825), ledgers (1822-1826, 1834-1851, 1866), daybook (1830)Mackinac Island, Supervisor of Park and Harbor Commission.</p>
+    </originalsloc>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Chartered by John Astor in 1808. Astor withdrew his interest in 1834 and in 1864 the company was sold to the North Western Fur Company.</p>
+    </bioghist>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Crooks, Ramsay, -- 1787-1859 -- Correspondence.</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">American Fur Company.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">Fort Mackinac (Mackinac Island, Mich.) -- Commerce.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Fur trade -- Northwest, Old.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Fur trade -- Great Lakes Region (North America)</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Fur trade -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Fur trade -- Michigan -- Mackinac Island.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Business records -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Microfilm -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Letterbook, 21 Jun 1820- 29 Jul 1825</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Ledger, Amer. Fur Co., Northern Dept., 1834-47</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Ledger, 1835-51</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Ledger, 1866</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Ledger, 1822-26</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Daybook, 17 Jun 1830-16 Sep 1830*</unittitle></did></c01>
+<c01 level="file"><did><container type="Reel">69</container><unittitle> Letterbook, 1-2 Oct 1821*</unittitle></did></c01>
+<c01 level="series"><did><unittitle>Papers relating to the fur trade at Mackinac,</unittitle><unitdate> 1803-1806, 1817-1843</unitdate></did>
+
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle> D3 1817-19 Daybook, Montreal</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>M5 1827	Memorandum book of goods required for Upper Mississippi outfit (16 pp.].</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I6 1829	Inventory of goods remaining in American Fur Co's retail store, Mackinac</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I7 1823-24 Daybook for Lac du Flambeau, listing trader's accounts, merchandise on hand, furs received.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I6 1827	Inventory of goods remaining in American Fur Co's retail store, Mackinac.</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>A list of goods for the Upper Mississippi trade, including a list of real estate at Mackinac and Prairie du Chien.</p></scopecontent></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I7 1828-29 Invoice of sundries delivered John Holliday for Lake Superior outfit, Mackinac.</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>Invoice for 23 Aug 1828 signed Robert Stuart.</p></scopecontent></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I6 1827	Furs packed, Mackinac 22 Jun 1827.</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>An inventory of furs received and packed at Mackinac, from Grand River, Upper Mississippi, Green Bay, Prairie due Chien and Chicago.</p></scopecontent></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>I7 1818-20 Invoice book, Lockwood outfit, [Prairie du Chief?].</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>Kept by James Henry Lockwood, agent at Prairie du Chien, relating to outfits for the Missouri and Upper Mississippi trade, at Yancton, Lead Mines, River La Roche, River St. Peter's, River St. Croix, and Black River, the traders being J. B. Mayrand, Duncan Campbell, Augustin Roque, Antoine Felix, and others.</p></scopecontent></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle> C2 1830-36 Cash book B ... Old concern, [Mackinac], Jun 1830-Nov 1836.</unittitle></did>
+<odd><head>General note</head><p>Cash book A is lacking</p></odd></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle> I6 1834	Blotter Inventory, [Mackinac].</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle> L4 1803-06 Petty debts [ledger], Michilimackinac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle> D3 1804-05 Daybook, Mackinac</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>L4 1817-18 Settlement book, AFC, (Mackinacl 45 p.</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>Ledger listing employees, their wages, and merchandise advanced to them at Fond du Lac, Mackinac, Grand River, Illinois River, St. Jean, Green Bay, St. Joseph, and Mississippi River.</p></scopecontent></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>J8 1821-29 Journal C, Michilimackinac, 516 p.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>L5 1823-30 Letterbook A, AFC Northern Dept., Mackinac, 474 p.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>L4 1827	Ledger, Michilimackinac, Apr-Jul 1827, 102 p.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>B6 1827	Blotter invoice, Northern Dept. Mackinac</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-1</container><unittitle>L4 1827-30 Ledger, retail store, C. AFC, Northern Dept., Mackinac, 617 [27] pp.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-2</container><unittitle>L4 1827-30 Ledger, retail store, C. AFC, Northern Dept., Mackinac, 617 (271 pp. cont.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-2</container><unittitle>L4 1828-43 Ledger, Mackinac, 244 19J pp.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">89-2</container><unittitle>L5 1835-38 Letterbook, Sault Ste. Marie, 165 pp.</unittitle></did></c02>
+</c01>
+
+<c01 level="series"><did><unittitle>Papers relating to the fur trade</unittitle><unitdate>1817-1834</unitdate></did>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle> 1817-18	Blotter,	Montreal and Michilimackinac</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1819-34	Blotter,	Michilimackinac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1827-32	Blotter,	Michilimackinac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1817-19	Blotter,	Montreal and Michilimackinac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1819	Blotter,	Michilimackinac</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1827-34	Ledger,	Mackinac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1817-34	Ledger,	Macktnac.</unittitle></did></c02>
+<c02 level="file"><did><container type="Reel">91-2</container><unittitle>1830-34	Invotces outward, Mackinac</unittitle></did></c02></c01>
+
+<c01 level="subseries"><did><unittitle>Papers of the New York Historical Society, New York Office</unittitle></did>
+<scopecontent><head>Scope and content note</head><p>Principally the correspondence of Ramsey Crooks, president from 1834-1846. Collated with a calendar. The calendar was published in Vol. III for the American Historical Association's Annual Report for the year of 1944. A copy of the calendar is also in Boxes 1-3.</p></scopecontent>
+<c02 level="file"><did><container type="Reel">	96- 1	</container><unittitle>	Letterbook v.	1-3	</unittitle><unitdate>		1834-36 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 2	</container><unittitle>	Letterbook v.	3-5	</unittitle><unitdate>		1836-37 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 3	</container><unittitle>	Letterbook v.	6-8	</unittitle><unitdate>		1837-38 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 4	</container><unittitle>	Letterbook v.	8-10 	</unittitle><unitdate>		1838-39 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 5	</container><unittitle>	Letterbook v. 11-13 		</unittitle><unitdate>		1839-40 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 6	</container><unittitle>	Letterbook v. 13-16 		</unittitle><unitdate>		1840-41 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 7	</container><unittitle>	Letterbook v. 16-18 		</unittitle><unitdate>		1841-42 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 8	</container><unittitle>	Letterbook v. 18-21 		</unittitle><unitdate>		1842-43 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96- 9	</container><unittitle>	Letterbook v. 22-24 		</unittitle><unitdate>		1843-45 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	10	</container><unittitle>	Letterbook v. 24-26 		</unittitle><unitdate>		1845-47 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	11	</container><unittitle>	Bound vols. and papers, including invoices inward, v. 1-2 Orders outwards, v. 2-3 Orders outwards, New co. v. 1		</unittitle><unitdate>		1827-34	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	12	</container><unittitle>	Orders outward, New co. v.1		</unittitle><unitdate>		1834-47 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	12	</container><unittitle>	Store book, v. 2-6 		</unittitle><unitdate>		1838-44 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	13	</container><unittitle>	Packing book, v. 1-5 		</unittitle><unitdate>		1835-47 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	12	</container><unittitle>	Blotter, v. 1		</unittitle><unitdate>		1835-36 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	14	</container><unittitle>	Blotter, v. 2-6 		</unittitle><unitdate>		1836-39 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	15	</container><unittitle>	Blotter, v. 6-1.1 		</unittitle><unitdate>		1839-41 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	16	</container><unittitle>	Blotter, v. 11-13 		</unittitle><unitdate>		1841-46 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	16	</container><unittitle>	Receiving book v. 1-3 		</unittitle><unitdate>		1834-39 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	17	</container><unittitle>	Receiving book v. 3-6 		</unittitle><unitdate>		1838-47 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	18	</container><unittitle>	Receiving book, v. 6 		</unittitle><unitdate>		1842-47 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	18	</container><unittitle>	Shipments, v. 1-4 		</unittitle><unitdate>		1835-37 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	18	</container><unittitle>	Furs and Skins, v. 1 		</unittitle><unitdate>		1835-37 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	18	</container><unittitle>	Furs and Skins, v. 2 		</unittitle><unitdate>		1836-39 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	18	</container><unittitle>	Lading		</unittitle><unitdate>		1834-36	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	19	</container><unittitle>	Sales and Accts. Current, v. 1-2		</unittitle><unitdate>		1834-36	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	20	</container><unittitle>	Accts. Current, v.2-3 		</unittitle><unitdate>		1834-36	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	21	</container><unittitle>	Memorandum, v. 1-4 		</unittitle><unitdate>		1835-42 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	21	</container><unittitle>	Western outfit, v. 1-7 		</unittitle><unitdate>		1835-43	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	21	</container><unittitle>	Cash books		</unittitle><unitdate>		1835-43	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	21	</container><unittitle>	Miscellaneous Papers List of inventories, Northern Dept.		</unittitle><unitdate>		1835-43	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	22	</container><unittitle>	List of inventories, Northern Dept. 		</unittitle><unitdate>			</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	22	</container><unittitle>	Treaties (printed] 		</unittitle><unitdate>			</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	22	</container><unittitle>	Letters received 		</unittitle><unitdate>		1833-35 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	23	</container><unittitle>	Letters received 		</unittitle><unitdate>		1835-36 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	24	</container><unittitle>	Letters received 		</unittitle><unitdate>		1836-37 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	25	</container><unittitle>	Letters received 		</unittitle><unitdate>		1837	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	26	</container><unittitle>	Letters received 		</unittitle><unitdate>		1837-38 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	27	</container><unittitle>	Letters received 		</unittitle><unitdate>		1838-39 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	28	</container><unittitle>	Letters received 		</unittitle><unitdate>		1839 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	29	</container><unittitle>	Letters received 		</unittitle><unitdate>		1839-40 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	30	</container><unittitle>	Letters received 		</unittitle><unitdate>		1840 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	31	</container><unittitle>	Letters received 		</unittitle><unitdate>		1840-41 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	32	</container><unittitle>	Letters received 		</unittitle><unitdate>		1841 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	33	</container><unittitle>	Letters received 		</unittitle><unitdate>		1841-1842 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	34	</container><unittitle>	Letters received 		</unittitle><unitdate>		1842	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	35	</container><unittitle>	Letters received 		</unittitle><unitdate>		1842-44 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	36	</container><unittitle>	Letters received 		</unittitle><unitdate>		1844-1846 	</unitdate></did>	</c02>
+<c02 level="file"><did><container type="Reel">	96-	37	</container><unittitle>	Letters received		</unittitle><unitdate>		1846-49	</unitdate></did>	</c02></c01>
+<c01 level="file"><did><container type="Reel">89</container><unittitle>				Letter books, Mackinac.		</unittitle>	<unitdate>	1816-1938	</unitdate></did></c01>	
+
+
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for Joseph Campau papers,
+                    <date encodinganalog="Date">1800-1863.</date>
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Joseph Campau papers</unittitle>
+            <unitid>00397</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 linear ft.</extent>
+            </physdesc>
+            <unitdate>1800-1863.</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains the business papers of this prominent Detroit landowner.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <physfacet encodinganalog="300$b">(1 wallet, 5 volumes)</physfacet></physdesc>
+            <origination label="creator">
+                <persname source="ingest">Campau, Joseph,1769-1863.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Born in Detroit on Feb. 25, 1769, Joseph Campau was a trader with Native Americans when still a boy. He increased his fortunes by dealing in real estate until he retired from active work in 1837. Among the positions he held in early Detroit, Campau was a prominent politician, trustee of the Village of Detroit, assessor, appraiser, overseer of the poor and city treasurer. He served as captain and major of the militia. He died in Detroit in 1863.</p>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Restrictions</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref5">
+            <head>Other finding aids note</head>
+            <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+        </otherfindaid>
+        <controlaccess>
+            <famname source="ingest">Campau, Joseph, -- 1769-1863 -- Archives</famname>
+            <corpname source="ingest">Detroit (Mich.) -- Officials and Employees.</corpname>
+            <genreform source="lcsh">Business records -- aat</genreform>
+            <geogname source="lcsh">Detroit (Mich.) -- History -- 19th century.</geogname>
+            <subject source="lcsh">Indians of North America -- Michigan.</subject>
+            <genreform source="lcsh">Journals. -- aat</genreform>
+            <genreform source="lcsh">Notebooks. -- aat</genreform>
+            <subject source="lcsh">Ojibwa Indians -- Treaties.</subject>
+            <subject source="lcsh">Real property -- Michigan -- Detroit.</subject>
+            <geogname source="lcsh">Saginaw River Valley (Mich.) -- History.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>D3: Day Book, 184 -1842</unittitle>
+                    <container type="Volume">1</container>
+                </did>
+            </c01>
+            <c01 id="ref7" level="item">
+                <did>
+                    <unittitle>J8: Journals, 1800- 1802</unittitle>
+                    <container type="Volume">2</container>
+                </did>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>1820-1833</unittitle>
+                        <container type="Volume">3</container>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>1841-1858</unittitle>
+                        <container type="Volume">4</container>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>1843-1853</unittitle>
+                        <container type="Volume">5</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>L2: Land Book, 1859</unittitle>
+                    <container type="Wallet"></container>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>M5: Saginaw Treaty, 1810-1813</unittitle>
+                    <container type="Wallet"></container>
+                </did>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>1819</unittitle>
+                        <container type="Wallet"></container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>N8: Notebook (vocabulary), 1844</unittitle>
+                    <container type="Volume"></container>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>R4: Rent Book, 1855-1863</unittitle>
+                    <container type="Volume"></container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

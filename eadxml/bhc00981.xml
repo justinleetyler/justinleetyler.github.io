@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Frederick Bellinger papers, <date encodinganalog="Date">1960-1998.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00981</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Bellinger, Frederick</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Frederick Bellinger papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1960-1998.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">3.5 linear ft. </extent>
+        <extent encodinganalog="300$b">(7 boxes, 1 large manuscripts)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">The collection documents the work of Frederick Bellinger with the Cantata Academy, Cranbrook schools, Bell Chorale of Pontiac and Christ Church Dearborn through a compilation of programs, program posters, and photographs. Also included in the collection are 5 cassette tapes, a scrapbook and a video tape.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Frederick Bellinger, born in Rushville, Indiana, was the son of Reverend Martin Luther Jones and Annie Mae Battle Bellinger. Frederick fell in love with music, especially choral music, at the age of twelve. At that time he began singing lessons at the Detroit Institute of Musical Arts. He also studied with Josephine Hanell Love and Nellie Beatrice Hugher Ebersole. At Hutchins Intermediate (Junior High) he took part in memorable musical productions such as H. M. S. Captain Pinafore. He continued in his music and graduated from Cass Technical High School in Detroit, Michigan. Additional formal education includes a B. A. Degree in Elementary and Secondary Music Education from Philander Smith College, Little Rock Arkansas. While attending Philander Smith College, he traveled with the Philander Smith Collegiate Choir to different states promoting the college. His graduate work was done at Indiana State Teachers College, Terre Haute. Indiana and Michigan State University, Lansing Michigan. Frederick began his teaching career in Florida where he taught several years in Lake City. Later he returned to Pontiac, Michigan where he taught in the Pontiac Public Schools and founded his own choral organization, the Bell Chorale. The Bell Chorale was made up of people from the community and all walks of life. They performed, at times under the auspices of the Pontiac Parks and Recreation Department, performing at numerous community affairs held at schools and other occasions such as Ground breaking ceremonies, memorial services, special services for organizations such as the Urban League, sorority sponsored programs, and scholarship benefit programs in the Pontiac and Detroit areas. Gilbert Jackson was the accompanist for the Bell Chorale. During the 1960s and 1970s, Frederick was active with the Wayne State University Opera Workshop and Celeste Cole Opera Workshop appearing often as Tenor Soloist in the productions. In the 1970s he appeared as guest soloist with the Detroit Symphony. During this period as a member of the Kenneth Jewell Chorale Tenor section, Frederick was soloist and on occasion Assistant Director. The Kenneth Jewell Chorale performed with area orchestras including the Detroit Symphony Orchestra, the Dearborn Symphony Orchestra, Plymouth Symphony Orchestra, and choirs such as Interlochen Academy Choir, Rackham Symphony Choir and Cantata Academy. Kenneth Jewell Concerts were given throughout the Detroit area at churches, on college and university campuses, at conferences, festivals and an important participant of series such as Bach at Cranbrook and Music at Westminster Series. In 1970, Frederick, after teaching music in Pontiac Public Schools, began teaching at Cranbrook Schools, Bloomfield, Michigan where he taught for 30 years. An editorial by Josh Steinman and Emily Bate states that Mr. "B", as he was lovingly addressed on campus, was known to push students to excel, while having understanding and compassion for their needs outside of class, and me producing consistently remarkable ensembles. Frederick Bellinger joined Cantata Academy under Conductor, Arthur Stephan as a chorus member while singing with the Kenneth Jewell Chorale. In the mid 1960s he soon became Vocal Soloist and the Assistant Conductor. In the 1971-1972 season, he was appointed Music Director and Conductor of Cantata Academy. Under his direction Cantata Academy continued to grow in number and had done at least 12 European Concert tours. Programs ranging from classical and sacred to popular and secular. In 1991, celebrating the 30th Anniversary of Cantata Academy, Peter Beerwerth, the Consulate General of the Federal Republic of Germany wrote a congratulatory letter to Frederick and the Cantata Academy. Beerwerth noted over the years, through the German tours, Cantata developed contacts with a sizable number of German Choirs. Thereby, playing an active role in the cultural exchange between the two countries. Most of Cantata Academy concerts included a segment of Negro Spirituals. During Frederick's soloist period, he would often sing "This Little Light of Mine" during a concert at or near the end. He lived this song with great commitment, love and passion. Throughout his life Frederick was an avid supporter of public and private school musical activities, out-of-town choirs, local choir concerts, local and visiting artists, area churches, the Detroit Symphony Orchestra, the Detroit Opera House, and music associations to which he belonged. Prior to his passing on May 28, 2000 Frederick Bellinger was Conductor Emeritus of Cantata Academy, Choral Vocalist Instructor at Cranbrook schools, Bloomfield Hills Michigan, Choirmaster at Christ Church Dearborn, a member of the American Guild of Organists, the Association of Anglican Musicians, the Michigan School Vocal Association, and the Omega Psi Phi Faternity.</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Bellinger, Frederick -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Cantata Academy.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Music -- Michigan -- Societies, etc.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Musicians -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box:File">		1.1	</container><unittitle>	Activities as a Teacher/Mentor			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		1.2	</container><unittitle>	Awards/Recognition/Certificates, etc.			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		1.3	</container><unittitle>	Associations			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		1.4	</container><unittitle>	The Bell Chorale			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		1.5	</container><unittitle>	Cantata Academy 1960s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		1.6	</container><unittitle>	Cantata Academy 1970s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.1	</container><unittitle>	Cantata Academy 1980s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.2	</container><unittitle>	Cantata Academy 1980s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.3	</container><unittitle>	Cantata Academy Program Posters, Newspaper Articles			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.4	</container><unittitle>	Correspondence/Communication 1960s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.5	</container><unittitle>	Correspondence 1970 — 1990, Congratulatory Notices, Press Articles			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.6	</container><unittitle>	Correspondence/Press Reviews/related Materials 1970s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		2.7	</container><unittitle>	Correspondence/Communication 1980s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.1	</container><unittitle>	Cranbrook Educational Community			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.2	</container><unittitle>	Education — German Assignments			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.3	</container><unittitle>	Events Attended/Supported 1960s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.4	</container><unittitle>	Events Attended/Supported 1970s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.5	</container><unittitle>	Events Attended/Supported 1980s			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.6	</container><unittitle>	Kenneth Jewell Chorale/Rackham Symphony Choir — Programs Posters			</unittitle></did>	</c01>	
+<c01 level="file"><did><container type="Box:File">		3.7	</container><unittitle>	Music Director and Conductor 1990s			</unittitle></did>	</c01>	
+<c01 level="series"><did><unittitle>Photos			</unittitle></did>		
+<c02 level="file"><did><container type="Box:File">		4.1	</container><unittitle>	Andorf Choir at Chene Park Detroit, Michigan			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.2	</container><unittitle>	Andorf/Prague			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.3	</container><unittitle>	Cantata Academy 1976 — 1977			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.4	</container><unittitle>	Cantata Academy Tour 1989			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.5	</container><unittitle>	Christ Church Dearborn ( Frederick Directing Parish Choir			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.6	</container><unittitle>	Cranbrook			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.7	</container><unittitle>	Egge/Schdc/Saltzburg			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.8	</container><unittitle>	Erkrath, Germany/Bad Gahopgastcin			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.9	</container><unittitle>	Euro — Tour IX			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.10	</container><unittitle>	Euro — Tour XII 1997			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.11	</container><unittitle>	Friends and Family			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.12	</container><unittitle>	Frederick's birthday on Longfellow (friends, Cantata Members and family in attendance)			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.13	</container><unittitle>	Kreuzwertheim, Germany			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.14	</container><unittitle>	Kreuzwertheim 1991			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.15	</container><unittitle>	Kreuzwerthcirn 1993 Tour			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.16	</container><unittitle>	Miscellaneous			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.17	</container><unittitle>	Salzburg, Prague, Kreuzwertheim 1991			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box:File">		4.18	</container><unittitle>	Tamsweg, Austria			</unittitle></did>	</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">		5.1	</container><unittitle>	Press 1960s and Related Communication			</unittitle></did>		</c01>
+<c01 level="file"><did><container type="Box:File">		5.2	</container><unittitle>	Wayne State University Workshop/Celeste Cole Workshop			</unittitle></did>		</c01>
+<c01 level="file"><did><container type="Box:File">		5.3	</container><unittitle>	Josh White 45 RPM Record			</unittitle></did>		</c01>
+<c01 level="file"><did><container type="Box">		5	</container><unittitle>	Books:	Romeo ET Juliette Vocal Score		</unittitle></did>		
+<c02 level="file"><did><container type="Box">		5	</container><unittitle>	The Oxford Book of English Madrigals			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">		5	</container><unittitle>	Yale Glee Club Series — Traditional Spirituals			</unittitle></did>	</c02>	</c01>
+<c01 level="file"><did><container type="Box">		6	</container><unittitle>	3 Cassette Tapes: Cantata Holiday Recording Repertoire			</unittitle></did>		</c01>
+<c01 level="file"><did><container type="Box">		6	</container><unittitle>	2 Cassette Tapes: The Cantata Academy at Metropolitan United Methodist Church VHS Video Cantata Academy			</unittitle></did>		</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

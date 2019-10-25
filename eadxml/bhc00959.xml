@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+    
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>
+                    
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Thomas Gage papers</unittitle>
+            <unitid>00959</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.2 Linear feet</extent>
+                <extent>(1 wallet, 1 large manuscript) </extent>
+            </physdesc>
+            <unitdate normal="1761/1771" type="inclusive">1763-1761</unitdate>
+            <langmaterial id="ref7" label="Language of Materials note">In English.</langmaterial>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Bradstreet, John , 1711-1774 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="naf" role="Correspondent (crp)">Gage, Thomas , 1721-1787 </persname>
+            </origination>
+            <origination label="creator">
+                <persname rules="aacr" source="local" role="Correspondent (crp)">Stephenson, Capt.</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Letters are maily about military and Indian affairs.</p>
+        </scopecontent>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Second son of Viscount Gage, born in 1721. Lt. 48 foot regt. 1741; gen. 1782, was with Braddock at Monongahela, 1775; with Abercrombie at Ticonderoga, 1758; with Amherst at Montreal, 1760. From 1760-63 military gov. of Montreal; from 1763-72 commander-in-chief Brit. forces in North America; 1774 gov. of Mass. 1775 commander-in-chief in N. Am., but resigned and returned to England, where he died, Apr. 2, 1789. He married Margaret Kembal (from Dict. Can Biog.) (blue index cards</p>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref6">
+            <head>Other Finding Aids note</head>
+            <p>White index cards available in the Burton Historical Collection.</p>
+        </otherfindaid>
+        <controlaccess>
+            <persname rules="aacr" source="naf">Pontiac, Ottawa Chief, d. 1769</persname>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Indians of North America</subject>
+        </controlaccess>
+        <dsc/>
+    </archdesc>
+</ead>

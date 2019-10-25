@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for Douglass and Walker records, 1836-1844.
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:53-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Douglass and Walker records</unittitle>
+            <unitid>00762</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.0 linear ft.</extent>
+            </physdesc>
+            <unitdate>1836-1844.</unitdate>
+            <abstract id="ref2" label="Abstract">The business was chiefly concerned with collections, disputes over property, contracts, etc. All the partners were prominent as lawyers and as citizens. The papers consist of letters received and are confined to strictly legal matters.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <physfacet encodinganalog="300$b">(4 boxes)</physfacet></physdesc>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>Henry N. Walker came to Detroit from New York in 1834, studied law, and in 1836 became a member of the law firm of Farnsworth and Bates. In 1836 the firm became known as Bates &amp; Walker, and in 1840, Douglas &amp; Walker.</p>
+        </bioghist>
+        <arrangement id="ref4">
+            <head>Arrangement note</head>
+            <p>Chronologically.</p>
+        </arrangement>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref6">
+            <head>Other Finding Aids note</head>
+            <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+        </otherfindaid>
+        <controlaccess>
+            <corpname source="ingest">Bates, Douglass &amp; Walker.</corpname>
+            <corpname source="ingest">Douglas &amp; Walker (Detroit, Mich.)</corpname>
+            <corpname source="ingest">Farnsworth and Bates (Detroit, Mich.)</corpname>
+            <famname source="ingest">Walker, Henry N. -- (Henry Nelson), -- 1811-1886.</famname>
+            <genreform source="lcsh">Correspondence -- aat</genreform>
+            <subject source="lcsh">Deeds -- Michigan -- Detroit.</subject>
+            <geogname source="lcsh">Detroit (Mich.) -- History -- 19th century.</geogname>
+            <subject source="lcsh">Law firms -- Michigan -- Detroit.</subject>
+            <subject source="lcsh">Law offices -- Records and correspondence.</subject>
+            <subject source="lcsh">Lawyers -- Michigan -- Detroit.</subject>
+            <genreform source="lcsh">Legal correspondence. -- aat</genreform>
+            <genreform source="lcsh">Legal documents. -- aat</genreform>
+            <subject source="lcsh">Real property -- Michigan -- Detroit.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>BOX 1: 1836-1840</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>BOX 2: 1841</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>BOX 3: 1842</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>BOX 4: 1843-1845</unittitle>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

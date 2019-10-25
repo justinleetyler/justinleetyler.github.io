@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for William Pickett Harris, Jr. papers
+                    
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:54-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>William Pickett Harris, Jr. papers</unittitle>
+            <unitid>01129</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>5.0 Linear feet</extent>
+                <extent>(10 boxes, 1 volume, 1 large manuscript) </extent>
+            </physdesc>
+            <unitdate>1642-1971</unitdate>
+            <langmaterial id="ref3" label="Language of Materials note">In English.</langmaterial>
+            <origination label="creator">
+                <persname rules="aacr" source="naf">Harris, William P. , (William Pickett)</persname>
+            </origination>
+        </did>
+        <bioghist id="ref2">
+            <head>Biographical/Historical note</head>
+            <p>Born in Detroit on July 13, 1897 to William Pickett and Sarah McGraw Harris, William Pickett Harris Jr. lived in Grosse Pointe Park. He was an investment banker and married Elsie Stivers Smith in 1923. Of their three children, their daughter Julie became famous as an award-winning actress. Mr. Harris retired as Associate Curator of Mammals from the University of Michigan Museum of Zoology. His hobby was genealogy and this collection represents his work on his and his wife's family. William Harris Jr. died in Grosse Pointe on April 7, 1972.</p>
+        </bioghist>
+        <arrangement id="ref4">
+            <head>Arrangement note</head>
+            <p>Series; Arranged into three series: I. Miscellaneous Families &amp; Materials. II. Family Histories. III. Family Genealogies</p>
+        </arrangement>
+        <accessrestrict id="ref5">
+            <head>Conditions Governing Access note</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <acqinfo id="ref6">
+            <head>Immediate Source of Acquisition note</head>
+            <p>01129</p>
+        </acqinfo>
+        <scopecontent id="ref7">
+            <head>Scope and Contents note</head>
+            <p>This genealogy collection focuses mainly on the Harris, Pickett, Alston, McGraw and Simpson families. A complete list of all family names is included at the the Finding Aid. Also included are two rare books owned by family members, dated: 1642 and 1663.</p>
+        </scopecontent>
+        <controlaccess>
+            <famname rules="aacr" source="naf">Alston family</famname>
+            <famname rules="aacr" source="naf">Harris family</famname>
+            <persname rules="aacr" source="naf">Harris, William P. , (William Pickett)</persname>
+            <famname rules="aacr" source="naf">McGraw family</famname>
+            <famname rules="aacr" source="naf">Pickett family</famname>
+            <famname rules="aacr" source="naf">Simpson family</famname>
+            <genreform source="aat">Clippings (information artifacts)</genreform>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Family papers</genreform>
+            <genreform source="aat">Genealogies</genreform>
+            <genreform source="aat">Photocopies</genreform>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Zoology</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Miscellaneous Families &amp; Materials</unittitle>
+                </did>
+                <odd id="ref8">
+                    <head>General note</head>
+                    <p>This section contains charts, correspondence and notes of Mr. Harris concerning many of the families and their connections with each other. It also contains publications and research materials of general genealogical interest.</p>
+                </odd>
+                <c02 id="ref13" level="subseries">
+                    <did>
+                        <unittitle>BOX 1</unittitle>
+                    </did>
+                    <c03 id="ref14" level="item">
+                        <did>
+                            <unittitle>1:1 Ancestral Tablets (bound volume)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="item">
+                        <did>
+                            <unittitle>1:2 Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="item">
+                        <did>
+                            <unittitle>1:3 Correspondence, 1938-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="item">
+                        <did>
+                            <unittitle>1:4 1962-1966</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="item">
+                        <did>
+                            <unittitle>1:5 1967-1971; n. d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="item">
+                        <did>
+                            <unittitle>1:6 Newspaper Clippings &amp; Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="item">
+                        <did>
+                            <unittitle>1:7 Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="item">
+                        <did>
+                            <unittitle>1:8 Publications</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref22" level="subseries">
+                    <did>
+                        <unittitle>BOX 2</unittitle>
+                    </did>
+                    <c03 id="ref23" level="item">
+                        <did>
+                            <unittitle>2:1 Publications—The Alabama Review/Alabama Historical Quarterly, 1930-1958</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>2:2 American Genealogist, 1966-1970</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>2:3 Buxtorf, Johannis, Thesaurus Grammaticus Linguae Sanctae Hebraeae, 1663</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>2:4 New England Historical &amp; Genealogical Register, 1951-1952</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>2:5 New York Genealogical &amp; Biographical Record, 1953-1972</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref28" level="subseries">
+                    <did>
+                        <unittitle>BOX 3</unittitle>
+                    </did>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>3:1 Publications—Prayer Books</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>3:2 Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>3:3 Genealogical Research (notebook)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Family Histories</unittitle>
+                </did>
+                <odd id="ref10">
+                    <head>General note</head>
+                    <p>The compilation of families in this section was prepared by Mrs. Janice A. Beebe of Brighton, Michigan, under the direction of Miss Lucy Mary Kellogg, from material collected by Mr. Hams. This portion of the collection has been microfilmed and is available in the Burton Historical Collection, BHC #1223. The originals are included here. Alphabetical listings of family names follow the folder of Charts.</p>
+                </odd>
+                <c02 id="ref32" level="subseries">
+                    <did>
+                        <unittitle>BOX 3 (continued)</unittitle>
+                    </did>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>3:4 Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>3:5 Alston</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>3:6 Bolton - Dickson</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>3:7 Drew - Haines</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>3:8 Harris</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>3:9 Hart - Peck</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref39" level="subseries">
+                    <did>
+                        <unittitle>BOX 4</unittitle>
+                    </did>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>4:1 Pickett</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>4:2 Raiford - Rogers</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>4:3 Scott - Temple</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>4:4 Thornfield - Williams</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Family Genealogies</unittitle>
+                </did>
+                <odd id="ref63">
+                    <head>General note</head>
+                    <p>This section contains Mr. Harris' research materials, correspondence, photographs, notes and other genealogy material dealing with each family.</p>
+                </odd>
+                <c02 id="ref44" level="subseries">
+                    <did>
+                        <unittitle>BOX 4 (continued)</unittitle>
+                    </did>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>4:5 Alston Family—"Alston Genealogy"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>4:6 Charts &amp; Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>4:7 Correspondence, 1960-1964</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>4:8 Correspondence, 1967-1969</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>4:9 Correspondence, Christine Bergen, 1961-1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>4:10 Correspondence, Gladys Costello, 1960</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref51" level="subseries">
+                    <did>
+                        <unittitle>BOX 5</unittitle>
+                    </did>
+                    <c03 id="ref52" level="item">
+                        <did>
+                            <unittitle>5:1 Alston Family—Correspondence, Gladys Costello, 1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="item">
+                        <did>
+                            <unittitle>5:2 1960-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>5:3 1962-1963; 1968; n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>5:4 Historical Documents, 1790-1799</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>5:5 Research Materials &amp; Newspaper Clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>5:6 "History of Moore County"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>5:7 Alston-Williams-Boddie-Hilliard Society, 1958-1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>5:8 Boddie Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>5:9 Dickson Family—Research Materials &amp; Historical Document, 1765</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>5:10 Haines Family—Historical Documents, 1873</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="item">
+                        <did>
+                            <unittitle>5:11 Haines/Hart/Palmer Families (notebook)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref64" level="subseries">
+                    <did>
+                        <unittitle>BOX 6</unittitle>
+                    </did>
+                    <c03 id="ref65" level="item">
+                        <did>
+                            <unittitle>6:1 Haines/Hart/Palmer Families—Research Materials &amp; Correspondence, 1969-1970</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="item">
+                        <did>
+                            <unittitle>6:2 Harris Family—Charts &amp; Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="item">
+                        <did>
+                            <unittitle>6:3 Correspondence, 1933-1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="item">
+                        <did>
+                            <unittitle>6:4 Chiles &amp; Laura Harris, 1948-1971</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="item">
+                        <did>
+                            <unittitle>6:5 Harris Family---Descendants of John Harris; Correspondence &amp; Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="item">
+                        <did>
+                            <unittitle>6:6 Harris Family of Block Island; Correspondence, 1948-1971, and Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="item">
+                        <did>
+                            <unittitle>6:7 "The Harris Family of England and America"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="item">
+                        <did>
+                            <unittitle>6:8 "Harris Family Records" (bound volume), by J. Montgomery Seaver</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="item">
+                        <did>
+                            <unittitle>6:9 Historical Documents, 1806-1888</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="item">
+                        <did>
+                            <unittitle>6:10 Diary, Samuel S. Harris, 1862-1864</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref75" level="subseries">
+                    <did>
+                        <unittitle>BOX 7</unittitle>
+                    </did>
+                    <c03 id="ref76" level="item">
+                        <did>
+                            <unittitle>7:1 Harris Family--Miscellaneous Items</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="item">
+                        <did>
+                            <unittitle>7:2 Newspaper Clippings, 1888-1960s; &amp; Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="item">
+                        <did>
+                            <unittitle>7:3 Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="item">
+                        <did>
+                            <unittitle>7:4 Scrapbook, War of 1898/Items from Scrapbook, 1893-1900</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="item">
+                        <did>
+                            <unittitle>7:5 Second Line</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="item">
+                        <did>
+                            <unittitle>7:6 "Some Buckinghamshire Harrises in the 1400s and 1500s"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="item">
+                        <did>
+                            <unittitle>7:7 "Three Scraps of Genealogical Evidence"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="item">
+                        <did>
+                            <unittitle>7:8 Trinity Episcopal Church, Bay City, 1880-1954</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref84" level="subseries">
+                    <did>
+                        <unittitle>BOX 8</unittitle>
+                    </did>
+                    <c03 id="ref85" level="item">
+                        <did>
+                            <unittitle>8:1 Harris Family—William Pickett Harris Jr.; Biographical Material</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="item">
+                        <did>
+                            <unittitle>8:2 Harris/Alston Families</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="item">
+                        <did>
+                            <unittitle>8:3 Hart/Haines/Moody Families</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="item">
+                        <did>
+                            <unittitle>8:4 McGraw Family Correspondence, 1949-1971; &amp; Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="item">
+                        <did>
+                            <unittitle>8:5 Historical Materials &amp; Documents, 1849-1900</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="item">
+                        <did>
+                            <unittitle>8:6 Diaries of Sarah McGraw, 1862-[ 1865]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="item">
+                        <did>
+                            <unittitle>8:7 Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="item">
+                        <did>
+                            <unittitle>8:8 Research Materials &amp; Notes</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref93" level="subseries">
+                    <did>
+                        <unittitle>BOX 9</unittitle>
+                    </did>
+                    <c03 id="ref94" level="item">
+                        <did>
+                            <unittitle>9:1 McKeithen Family—Research Materials &amp; Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="item">
+                        <did>
+                            <unittitle>9:2 Pickett Fancily--Correspondence, 1931-1971; Notes &amp; Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="item">
+                        <did>
+                            <unittitle>9:3 Historical Materials &amp; Documents, 1854-1906</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="item">
+                        <did>
+                            <unittitle>9:4 Johannis Bisselii, Petri de Victoria, 1642 (book owned by A.J. Pickett)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="item">
+                        <did>
+                            <unittitle>9:5 Individuals</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="item">
+                        <did>
+                            <unittitle>9:6 Albert James Pickett</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="item">
+                        <did>
+                            <unittitle>9:7 Newspaper Clippings &amp; Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="item">
+                        <did>
+                            <unittitle>9:8 Pickett Family—"The Picketts"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="item">
+                        <did>
+                            <unittitle>9:9 Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="item">
+                        <did>
+                            <unittitle>9:10 Pitts Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="item">
+                        <did>
+                            <unittitle>9:11 Raiford Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref105" level="subseries">
+                    <did>
+                        <unittitle>BOX 10</unittitle>
+                    </did>
+                    <c03 id="ref106" level="item">
+                        <did>
+                            <unittitle>10:1 Ramsey Family----Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="item">
+                        <did>
+                            <unittitle>10:2 Robinson Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="item">
+                        <did>
+                            <unittitle>10:3 Simpson Family—Correspondence, 1933-1970; n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="item">
+                        <did>
+                            <unittitle>10:4 Notes &amp; Charts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="item">
+                        <did>
+                            <unittitle>10:5 Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="item">
+                        <did>
+                            <unittitle>10:6 Research Materials &amp; Newspaper Clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>10:7 Simpson/Bolton Family (notebook)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>10:8 Smith Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="item">
+                        <did>
+                            <unittitle>10:9 Temple Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>10:10 Van Cortlandt Family—"The Family Collections at Van Cortlandt Manor" (bound volume)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="item">
+                        <did>
+                            <unittitle>10:11 Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="item">
+                        <did>
+                            <unittitle>10:12 Viele Fancily—Correspondence, 1949-1951; &amp; Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="item">
+                        <did>
+                            <unittitle>10:13 Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="item">
+                        <did>
+                            <unittitle>10:14 Williams Family—Research Materials</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="item">
+                        <did>
+                            <unittitle>10:15 Willys/Willes Family Research Materials</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref121" level="subseries">
+                    <did>
+                        <unittitle>VOLUME</unittitle>
+                    </did>
+                    <c03 id="ref122" level="item">
+                        <did>
+                            <unittitle>"The Alstons and Allstons of North and South Carolina", by Joseph A. Groves (photocopy)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref123" level="subseries">
+                    <did>
+                        <unittitle>LMS : Family/Pedigree Charts</unittitle>
+                    </did>
+                    <c03 id="ref124" level="item">
+                        <did>
+                            <unittitle>Harris, Samuel Smith (3)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="item">
+                        <did>
+                            <unittitle>Dickson/Dixon</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>Land Records, William Harris, 1826 (2)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="item">
+                        <did>
+                            <unittitle>Maps:</unittitle>
+                        </did>
+                        <c04 id="ref128" level="item">
+                            <did>
+                                <unittitle>-Clanton Sheet, Alabama</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref129" level="item">
+                            <did>
+                                <unittitle>-Montgomery Quadrangle, Alabama</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref130" level="item">
+                            <did>
+                                <unittitle>-Wetumpka Quadrangle, Alabama</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref131" level="item">
+                            <did>
+                                <unittitle>-Laurens County, Georgia</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref132" level="item">
+                            <did>
+                                <unittitle>-Lincoln County, Georgia</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref133" level="item">
+                            <did>
+                                <unittitle>-Madison County, Tennessee</unittitle>
+                            </did>
+                        </c04>
+                        <c04 id="ref134" level="item">
+                            <did>
+                                <unittitle>-Westover Quadrangle, Tennessee</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

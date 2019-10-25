@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for Robert H. Clancy papers, 1929-1932
+                    
+                </titleproper>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Nov. 29, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Robert H. Clancy papers</unittitle>
+            <unitid>00493</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>4.0 large manuscript</extent>
+                <extent>(8 boxes, 1 wallet, 1 large manuscript) </extent>
+            </physdesc>
+            <unitdate normal="1929/1932" type="inclusive">1929-1932</unitdate>
+            <physloc id="ref6" label="Location note">Level A, B, B2n</physloc>
+        </did>
+        <bioghist id="ref1">
+            <head>Biographical/Historical note</head>
+            <p>Born in Detroit, Mich., March 14, 1882. Was a newspaper reporter and held various public and private offices including U.S. representative from Michigan's 1st district to the Sixty-eighth Congress, as a Democrat (March 4, 1923-March 3, 1925), and to the Seventieth, Seventy-first, and Seventy-second Congresses as Republican (March 4, 1927-March 3, 1933).</p>
+        </bioghist>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisition</head>
+            <p>00493</p>
+        </acqinfo>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>Papers and correspondence relating to problems during his 1929-1932 term of office, including the Wet &amp; Dry Border Patrol Act of 1930, and other legislation on veterans, auto tax, copyright, immigration and labor, and on political campaigns.</p>
+        </scopecontent>
+        <prefercite id="ref4">
+            <head>Preferred Citation</head>
+            <p>Robert H. Clancy papers, Burton Historical Collection, Detroit Public Library.</p>
+        </prefercite>
+        <odd id="ref5">
+            <head>General Note</head>
+            <p>See finding aid for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest" role=" ">Clancy, Robert H.,  (Robert Henry), 1882-1962 -- Form subdivision--Archives; </persname>
+            <corpname source="ingest" role=" ">United States. Congress. House.</corpname>
+            <genreform source="aat">Correspondence</genreform>
+            <subject source="lcsh">Emigration and immigration</subject>
+            <subject source="lcsh">Political campaigns--Michigan</subject>
+            <subject source="lcsh">Prohibition</subject>
+            <geogname source="lcsh">United States--Politics and government</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="subseries">
+                <did>
+                    <unittitle>Box 1</unittitle>
+                </did>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>Radio must Not Be Wrecked</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>Veterans' Political Association - Soldiers' Home</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>Hudson Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Border Patrol, August, 1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Border Patrol - Telegrams - Friday June 20, 1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry Border Patrol Act 1930 - Hudson Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Border Patrol</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - May, 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Port Huron Bridge Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Theater &amp; Education Tax Telegram - Admission Tax</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Sales Tax - 1932 - Meredith</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Border Patrol</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Hudson Border Patrol - Hudson Bill 1</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="subseries">
+                <did>
+                    <unittitle>Box 2</unittitle>
+                </did>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Border Patrol</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>Detroit River Protests - Wet &amp; Dry</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Detroit River Protests - Clippings</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - Prohibition Shootings - Coast Guard Shootings</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - Smith Case- Look Case</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - Suthard plus McNabb Combined</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Political Adv. Expenses 1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - Correspondence &amp; Clippings</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>Prohibition - Rust Letters - Maguire Letters - Oldam Letters</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>Representative Hudson</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Try - Collins - Ratcliffe - Bishop Cannon (Holsaple)</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref35" level="subseries">
+                <did>
+                    <unittitle>Box 3</unittitle>
+                </did>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Reapportionment File for Detroit</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Wet &amp; Dry - March 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="item">
+                    <did>
+                        <unittitle>American Medical Ass. Report &amp; Resolution</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="item">
+                    <did>
+                        <unittitle>Padlocking</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Anti-Saloon League I - Reapportionment</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>-- II - Prohibition</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>Auto Tax - February - 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Republican Campaign text book - 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Detroit Street Guide 1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Municipal Manual City of Detroit 1930.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>Memo Book - 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>Bonus Speech - July 16 - l932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Campaign (after-Primary)</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref49" level="subseries">
+                <did>
+                    <unittitle>Box 4</unittitle>
+                </did>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>Campaign September 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>Location of Polling Places; 17-19-21st Wards 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Veterans Legislation V Bonus etc.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Veterans Legislation V New Johnson Bill etc.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Veterans Inc. Robert Byers. Legislation</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>Merchant Marine</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Motion Picture Industry - Sirovich Copyright Bills</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>Vocational Education</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Bonus File</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Vets Economy Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Spanish War Veterans</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>Border Shooting - Fish Appeal Case-Wet - Dry</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Sales Tax - Malt Tax</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Tax Legislation</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref64" level="subseries">
+                <did>
+                    <unittitle>Box 5</unittitle>
+                </did>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Tax Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>Unemployment - Wagner Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>Immigration January 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>Back Hoover- Hoover - Moratorium</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Hoovers Loan Bonus</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Auto Tax - January 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref71" level="item">
+                    <did>
+                        <unittitle>Auto Tax - 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref72" level="item">
+                    <did>
+                        <unittitle>Auto Tax - Telegrams</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref73" level="item">
+                    <did>
+                        <unittitle>Garner Relief Bill</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref74" level="subseries">
+                <did>
+                    <unittitle>Box 6</unittitle>
+                </did>
+                <c02 id="ref75" level="item">
+                    <did>
+                        <unittitle>Personal Papers</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref76" level="item">
+                    <did>
+                        <unittitle>Glass - Steagall Bill - Banking</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref77" level="item">
+                    <did>
+                        <unittitle>750. Automobile Purchase Price Bonus - April 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref78" level="item">
+                    <did>
+                        <unittitle>Architects</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref79" level="item">
+                    <did>
+                        <unittitle>Labor Anti-Injunction Bill and against Anti-Injunction Bill</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref80" level="item">
+                    <did>
+                        <unittitle>Immigration &amp; Pension Blanks - Naturalization</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref81" level="item">
+                    <did>
+                        <unittitle>Information on Teaching in the U. S. or its possessions</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref82" level="item">
+                    <did>
+                        <unittitle>Immigration Visa</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref83" level="item">
+                    <did>
+                        <unittitle>Wst - Dry - Gajeski.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="item">
+                    <did>
+                        <unittitle>Detroit River Shootings - July 1931</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref85" level="subseries">
+                <did>
+                    <unittitle>Box 7</unittitle>
+                </did>
+                <c02 id="ref86" level="item">
+                    <did>
+                        <unittitle>Nomination Petitions 1930</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref87" level="item">
+                    <did>
+                        <unittitle>Federal Bldg.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="item">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref89" level="item">
+                    <did>
+                        <unittitle>Economy Letters</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="item">
+                    <did>
+                        <unittitle>Bonus - Fiat money</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref91" level="item">
+                    <did>
+                        <unittitle>Demands for Bonus - Jan.-February 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref92" level="item">
+                    <did>
+                        <unittitle>Bonus (A) Complaints (B) Bonus Army</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref93" level="item">
+                    <did>
+                        <unittitle>Campaign November 1932</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref94" level="item">
+                    <did>
+                        <unittitle>Letters from Organizations &amp; Posts</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref95" level="item">
+                    <did>
+                        <unittitle>Campaign 1932</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref96" level="subseries">
+                <did>
+                    <unittitle>Box 8</unittitle>
+                </did>
+                <c02 id="ref97" level="item">
+                    <did>
+                        <unittitle>Nomination - Petitions</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref98" level="item">
+                    <did>
+                        <unittitle>Applications and appointments to West Point</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref99" level="item">
+                    <did>
+                        <unittitle>Applications to Naval Academy &amp; Appointments</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref100" level="item">
+                    <did>
+                        <unittitle>Bonus - 2 year loan period</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref101" level="item">
+                    <did>
+                        <unittitle>Opposed to Salary Cuts</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref102" level="item">
+                    <did>
+                        <unittitle>Pro-Anti-Bonus Bills</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref103" level="item">
+                    <did>
+                        <unittitle>V. F. W. Post Office</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref104" level="item">
+                <did>
+                    <unittitle>LMS/Clancy, Robert H.</unittitle>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

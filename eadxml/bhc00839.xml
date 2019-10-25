@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Emerson and Beals Company records, <date encodinganalog="Date">1862-1875.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00839</unitid>
+      <origination>
+        <persname encodinganalog="700" source="lcnaf" role="creator" rules="AACR2R">Emerson, Alfred.</persname>
+      </origination>
+      <origination>
+        <persname encodinganalog="700" source="lcnaf" role="creator" rules="AACR2R">Beals, Lewis C.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Emerson and Beals Company records, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1862-1875.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">0.5 linear ft. </extent>
+        <extent encodinganalog="300$b">(2 wallets)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">This collection contains deeds and insurance policies, chiefly for Niagara County, New York, for Alfred Emerson and Lewis C. Beals.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Chronologically.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Emerson, Alfred, -- Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Beals, Lewis C. -- Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Emerson and Beals Company, -- Archives</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Deeds -- New York (State) -- Niagara County.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Insurance policies -- New York (State) -- Niagara County.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Legal documents -- New York (State) -- Niagara County.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Legal Documents. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Wallet">1</container><unitdate>1862-1869.</unitdate></did></c01>
+<c01 level="file"><did><container type="Wallet">2</container><unitdate>1870-1875.</unitdate></did></c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for Detroit (Mich.). Historic Designation Advisory Board records
+                    
+                </titleproper>
+                <subtitle>1970-1999</subtitle>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Oct. 21, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Detroit (Mich.). Historic Designation Advisory Board records</unittitle>
+            <unitid>00701</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>3.2 Linear feet</extent>
+                <extent>(2 boxes, 1 wallet, 2 volumes, 2 microfilm reels) </extent>
+            </physdesc>
+            <unitdate normal="1970/1999" type="inclusive">1970-1999</unitdate>
+            <langmaterial id="ref4" label="Language of Materials">In English.</langmaterial>
+            <physloc id="ref7" label="Location note">Level A, B, B1M. Microfilm no. 1076</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role=" ">Detroit (Mich.). Historic Designation Advisory Board.</corpname>
+            </origination>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>Reports of historic sites in the City of Detroit.</p>
+        </scopecontent>
+        <acqinfo id="ref5">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00701</p>
+        </acqinfo>
+        <odd id="ref6">
+            <head>General Note</head>
+            <p>See finding aids for complete listing.</p>
+        </odd>
+        <odd id="ref38">
+            <head>Related/Analytical Title</head>
+            <p>Faces, Places and Automobiles: A Historical-Master Plan for Southwest Detroit (Phase 1); Detroit Archives. Historic Designation Advisory Board records, 1970-1999.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">Historic buildings--Michigan--Detroit</subject>
+            <subject source="lcsh">Historic preservation--Michigan--Detroit</subject>
+            <subject source="lcsh">Labor--History</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="subseries">
+                <did>
+                    <unittitle>BOX 1</unittitle>
+                </did>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>"The Engine Works"</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>List of Detroit's Local History Districts Engine House No. 11</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>Berry Subdivision Historic District David Mackenzie House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="item">
+                    <did>
+                        <unittitle>Campbell Symington House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>St. Albertus Roman Catholic Church Breitmeyer-Tobin Building</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>Church of our Savior</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>Scarab Club</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>Turkel-Benbow House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>Trinity Lutheran Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="item">
+                    <did>
+                        <unittitle>Trinity Episcopal Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>Brush Park Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>Palms Apartments</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>First Unitarian/Universalist Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>Arden Park-East Boston Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="item">
+                    <did>
+                        <unittitle>East Ferry Avenue Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>Sweetest Heart of Mary Roman Catholic Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>Trowbridge House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="item">
+                    <did>
+                        <unittitle>St. John's-St. Luke Evangelical Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="item">
+                    <did>
+                        <unittitle>Trumbull Avenue Presbyterian Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="item">
+                    <did>
+                        <unittitle>New Center Area Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="item">
+                    <did>
+                        <unittitle>Women's Exchange Building</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="item">
+                    <did>
+                        <unittitle>Parker House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="item">
+                    <did>
+                        <unittitle>West Village Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="item">
+                    <did>
+                        <unittitle>State Savings Bank Building</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="item">
+                    <did>
+                        <unittitle>St. Josaphat Roman Catholic Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="item">
+                    <did>
+                        <unittitle>McGregor Carriage House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="item">
+                    <did>
+                        <unittitle>Most Holy Trinity Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="item">
+                    <did>
+                        <unittitle>Frank H. Beard School</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="item">
+                    <did>
+                        <unittitle>Atkinson Avenue Historic District</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref39" level="subseries">
+                <did>
+                    <unittitle>BOX 2</unittitle>
+                </did>
+                <c02 id="ref40" level="item">
+                    <did>
+                        <unittitle>Croul-Palms House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="item">
+                    <did>
+                        <unittitle>Peterboro-Charlotte Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="item">
+                    <did>
+                        <unittitle>East Frederick Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="item">
+                    <did>
+                        <unittitle>Corktown Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="item">
+                    <did>
+                        <unittitle>Chalfonte Apartments</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref45" level="item">
+                    <did>
+                        <unittitle>Globe Tobacco Building</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="item">
+                    <did>
+                        <unittitle>Lee Burt House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="item">
+                    <did>
+                        <unittitle>St. Charles Borromeo Roman Catholic Parish</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref48" level="item">
+                    <did>
+                        <unittitle>Alexander Chapoton House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref49" level="item">
+                    <did>
+                        <unittitle>Cass Avenue Methodist Episcopal Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="item">
+                    <did>
+                        <unittitle>D.M. Ferry &amp; Co. Superintendent's House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref51" level="item">
+                    <did>
+                        <unittitle>St. John C.M.E. Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref52" level="item">
+                    <did>
+                        <unittitle>Madison-Harmonie Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref53" level="item">
+                    <did>
+                        <unittitle>Oakman Blvd. Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref54" level="item">
+                    <did>
+                        <unittitle>Greater Shiloh Baptist Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="item">
+                    <did>
+                        <unittitle>St. Stanislaus Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="item">
+                    <did>
+                        <unittitle>Woodbridge Farm Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="item">
+                    <did>
+                        <unittitle>East Kirby Avenue Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref58" level="item">
+                    <did>
+                        <unittitle>Hubbard Farms Historic District</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="item">
+                    <did>
+                        <unittitle>Little Rock Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="item">
+                    <did>
+                        <unittitle>Art Center Music School</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="item">
+                    <did>
+                        <unittitle>St. Cyprian Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="item">
+                    <did>
+                        <unittitle>Zion Lutheran Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref63" level="item">
+                    <did>
+                        <unittitle>Philetus W. Norris House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="item">
+                    <did>
+                        <unittitle>Bethel-New Harmony Church</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="item">
+                    <did>
+                        <unittitle>Maheras Park</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="item">
+                    <did>
+                        <unittitle>St. Anne's Parish Complex</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref67" level="item">
+                    <did>
+                        <unittitle>West Corktown Addition to Corktown</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref68" level="item">
+                    <did>
+                        <unittitle>B'nai Moshe-St. Paul A.M.E. Zion</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="item">
+                    <did>
+                        <unittitle>Moses W. Field House</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref70" level="item">
+                    <did>
+                        <unittitle>Russell Woods Historic District</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Detroit Institute of Technology records,<date encodinganalog="Date">1910-1982.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00713</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">Detroit Institute of Technology.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Detroit Institute of Technology records,</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1910-1982.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">43.7 linear ft.</extent>
+        <extent encodinganalog="300$b">(40 boxes, 79 volumes)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Consists mainly of reports, correspondence and publications of various parts of the university. Includes original brochures and flyers from the Detroit Technical Institute, catalogs, the student newspaper Technonian (1826-1981), the yearbook under its various names of Detroit Technonian, Panorama, Technorama (1930-1977) and catalogs. Also information on buildings used by the university including the Kresge headquarters, Colony Club and old YMCA.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>The Detroit Institute of Technology began in 1877 as part of the Detroit YMCA, at first offering night classes only, chiefly business classes to men in the area. In 1891, the school was known as the Young Men's Christian Association Institute. Five years later the school was incorporated as Detroit Technical Institute and 1918 was reorganized with the Colleges of Business Administration and Engineering, and the name changed to Detroit Institute of Technology. Women were first admitted to the school during World War II. The school closed in 1981.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Organized into the following series: I. Administration; II. Faculty; III. Finance; IV. Publicity; V. Students; VI. Photographs.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <prefercite encodinganalog="524" id="a18">
+      <p>Detroit Institute of Technology Collection, Burton Historical Collection, Detroit Public Library.</p>
+    </prefercite>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Detroit Institute of Technology, -- Archives.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Detroit Technical Institute., -- Archives.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Young Men's Christian Association (Detroit, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Technical institutes -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Universities and colleges -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Detroit (Mich.) -- Buildings, structures, etc.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Business records. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Business correspondence. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+	<c01 level="series"><did><unittitle>	Series I: Administration							</unittitle></did>				
+	<c02 level="subseries"><did><unittitle>	Subseries A: Accreditation							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	1:1	</container><unittitle>	Higher Education General Information Survey (HEGIS), 1970-1971					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:2	</container><unittitle>	HEGIS, 1971-1972					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:3	</container><unittitle>	REGIS, 1973					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:4	</container><unittitle>	REGIS, 1974-1976					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:5	</container><unittitle>	REGIS, 1978-1979					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:6	</container><unittitle>	HEGIS, 1979-1981					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:7	</container><unittitle>	Michigan Commission on College Accreditation, 1950					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:8	</container><unittitle>	Michigan Commission on College Accreditation, 1953					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:9	</container><unittitle>	Michigan Commission on College Accreditation, 1955					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	1:10	</container><unittitle>	Michigan Commission on College Accreditation, 1961-1962					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:1	</container><unittitle>	North Central Association of Colleges and Secondary Schools,	Correspondence, 1962-1979				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:2	</container><unittitle>	North Central Association,	Handbooks				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:3	</container><unittitle>	North Central Association,	Instructions				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:4	</container><unittitle>	North Central Association,	Reports, 1956-57				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:5	</container><unittitle>	North Central Association,	Reports, 1961				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:6	</container><unittitle>	North Central Association,	Reports, 1962-63				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:7	</container><unittitle>	North Central Association,	Reports, 1964-65				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:8	</container><unittitle>	North Central Association,	Reports, 1965-66				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:9	</container><unittitle>	North Central Association,	Reports, 1967-68				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:10	</container><unittitle>	North Central Association,	Reports, 1968-69				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:11	</container><unittitle>	North Central Association,	Reports, 1970				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	2:12	</container><unittitle>	North Central Association,	Reports, 1971-73				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:1	</container><unittitle>	North Central Association,	Reports, 1974				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:2	</container><unittitle>	North Central Association,	Reports, 1977-78				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:3	</container><unittitle>	North Central Association,	Reports, 1980				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:4	</container><unittitle>	North Central Association,	Self-Study, 1953				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:5	</container><unittitle>	North Central Association,	Self-Study, 1973				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:6	</container><unittitle>	North Central Association,	Self-Study, 1974				</unittitle></did>		</c03>	</c02>	
+	<c02 level="subseries"><did><unittitle>	Subseries B: Board of Trustees							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	3:7	</container><unittitle>	Meetings, 29 March 1976					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	3:8	</container><unittitle>	Meetings, Annual, 1958-1961					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:1	</container><unittitle>	Meetings,	Annual, 1962-1963				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:2	</container><unittitle>	Meetings,	Annual, 1964-1971				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:3	</container><unittitle>	Meetings,	Annual, 1972				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:4	</container><unittitle>	Meetings,	Annual, 1973				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:5	</container><unittitle>	Meetings,	Annual, 1974				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:6	</container><unittitle>	Meetings,	Annual, 1975				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:7	</container><unittitle>	Meetings,	Annual, 1975-76; 1980				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:8	</container><unittitle>	Meetings,	Educational Policy Committee, 1964; 1966; 1973-1974				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:9	</container><unittitle>	Meetings,	Executive Committee, 1958-60				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	4:10	</container><unittitle>	Meetings,	Executive Committee, 1961-63				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:1	</container><unittitle>	Meetings,	Executive	Committee,	1964-65		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:2	</container><unittitle>	Meetings,	Executive	Committee,	1966-69		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:3	</container><unittitle>	Meetings,	Executive	Committee,	1971-72		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:4	</container><unittitle>	Meetings,	Executive	Committee,	1973		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:5	</container><unittitle>	Meetings,	Executive	Committee,	1974		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	5:6	</container><unittitle>	Meetings,	Executive	Committee,	1975		</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:1	</container><unittitle>	Meetings,	Organization, 1958-59				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:2	</container><unittitle>	Meetings,	Organization, 1960-64				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:3	</container><unittitle>	Meetings,	Organization, 1966-75				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:4	</container><unittitle>	Meetings,	Retreat, 1974-75				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:5	</container><unittitle>	Meetings,	Special, 1958-67				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:6	</container><unittitle>	Members,	1947-66				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:7	</container><unittitle>	Members,	1967-78				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:8	</container><unittitle>	Members,	Bogan, B.W.				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:9	</container><unittitle>	Members,	Dykstra, John				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:10	</container><unittitle>	Members,	Harder, Del S.				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:11	</container><unittitle>	Members,	Harder, Del S., Correspondence, 1959-65				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	6:12	</container><unittitle>	Members,	Harder, Del S., Correspondence, 1966-69; 1973-75				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:1	</container><unittitle>	Miscellaneous					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:2	</container><unittitle>	Miscellaneous,	Finance Committee				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:3	</container><unittitle>	President's	Reports, 1955; 1961;	1969; 1972-73;	1975		</unittitle></did>		</c03>	</c02>	
+	<c02 level="subseries"><did><unittitle>	Subseries C: Miscellaneous							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	7:4	</container><unittitle>	Administrative Council, 1964; 1967-68					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:5	</container><unittitle>	Administrative Council, 1968-69					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:6	</container><unittitle>	Administrative Council, 1969-70					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:7	</container><unittitle>	Administrative Council, 1970-71					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:8	</container><unittitle>	Administrative Council, 1971-72					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:9	</container><unittitle>	Administrative Council, 1973-1975					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:10	</container><unittitle>	Association of Independent Colleges and Universities of Michigan (AICUM)					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	7:11	</container><unittitle>	AICUM, Brochures					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:1	</container><unittitle>	By-Laws					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:2	</container><unittitle>	Correspondence, 1962-1981					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:3	</container><unittitle>	Correspondence, Memos, 1968-1981					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:4	</container><unittitle>	D.I.T./M.I.T. (Massachusetts Institute of Technology) Workshop, 1971					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:5	</container><unittitle>	M.I.T. Overview, 1974-75					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:6	</container><unittitle>	M.I.T. Coordinator Evaluation Report, 1975-76					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:7	</container><unittitle>	M.I.T. Task Force, 1978					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:8	</container><unittitle>	Presidents					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:9	</container><unittitle>	Retention Task Force					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:10	</container><unittitle>	Retention Task Force, Memos					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:11	</container><unittitle>	State of Michigan Department of Education					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:12	</container><unittitle>	State of Michigan Department of Education, Brochures					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	8:13	</container><unittitle>	Occupational Safety Standards Commission					</unittitle></did>		</c03>	</c02>	
+	<c02 level="subseries"><did><unittitle>	Subseries D: Reports							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	9:1	</container><unittitle>	Ad-Hoc Sub-Committee on Athletics, 1965					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:2	</container><unittitle>	Basic Institutional Data Forms, 1980					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	:3	</container><unittitle>	Data Bank, 1973-74					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:4	</container><unittitle>	E.C.P.D.					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:5	</container><unittitle>	Educational Ad-Hoc Committee, 1970					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:6	</container><unittitle>	Goals and Objectives					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:7	</container><unittitle>	Goals and Objectives, Academy for Educational Development					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:8	</container><unittitle>	Goals and Objectives, Long-Range Plan, 1965; 1974					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:9	</container><unittitle>	Miscellaneous					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:10	</container><unittitle>	Proceedings of the Conference on Education in Computer Technology, 1972					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:11	</container><unittitle>	Progress Reports, 1959-1967					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:12	</container><unittitle>	Progress Reports, 1972; 1974-1976					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:13	</container><unittitle>	Study of Classroom Utilization, 1961					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:14	</container><unittitle>	Task Force, 1969					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	9:15	</container><unittitle>	Victor Weingarten Report, 1970					</unittitle></did>		</c03>	</c02>	</c01>
+	<c01 level="series"><did><unittitle>	Series II: Faculty 							</unittitle></did>				
+	<scopecontent><head>Scope and Contents note</head><p>	Faculty and staff reports, committees, memos and publications are included here. Items on various departments are also in this series.		</p></scopecontent>									
+	<c02 level="subseries"><did><unittitle>	Subseries A: Committees/General Faculty Council Subseries B: Departments							</unittitle></did>				
+	<c03 level="subseries">	<did><unittitle>	Committees:							</unittitle></did>				
+	<c04 level="file"><did><container type="Box:File">	10:1	</container><unittitle>	Academic Affairs,	1962-1965				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:2	</container><unittitle>	Academic Affairs,	1965-66				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:3	</container><unittitle>	Academic Affairs,	1966-1968				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:4	</container><unittitle>	Academic Affairs,	1968-1970				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:5	</container><unittitle>	Academic Affairs,	1972-1974				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:6	</container><unittitle>	Academic Council,	1974-75				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:7	</container><unittitle>	Educational Policy					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:8	</container><unittitle>	Faculty Affairs					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:9	</container><unittitle>	Faculty Classification Criteria					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:10	</container><unittitle>	Faculty Meetings,	1933-1941				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:11	</container><unittitle>	Staff Conference	Minutes, 1923-26				</unittitle></did>		</c04>		</c03>
+	<c03 level="subseries">	<did><unittitle>	General Faculty Council:							</unittitle></did>
+	<c04 level="file"><did><container type="Box:File">	10:12	</container><unittitle>	Constitutions					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:13	</container><unittitle>	Minutes, 1956-1959					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	10:14	</container><unittitle>	Minutes, 1960					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:1	</container><unittitle>	Minutes,	1961				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:2	</container><unittitle>	Minutes,	1962-1964				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:3	</container><unittitle>	Minutes,	1965-66				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:4	</container><unittitle>	Minutes,	1967-1970				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:5	</container><unittitle>	Minutes,	1971-1973				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:6	</container><unittitle>	Minutes,	1974-75				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:7	</container><unittitle>	Standing	Committees				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:8	</container><unittitle>	Standing	Committees, Curriculum Committee, 1958-1966 				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	11:9	</container><unittitle>	Standing	Committees, Curriculum Committee, 1967-1975				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	12:1	</container><unittitle>	Standing	Committees,	Library Committee,	1959-1973		</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	12:2	</container><unittitle>	Standing	Comittees,	Public Information	Services Committee, 1958-1971		</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	12:3	</container><unittitle>	Standing	Committees,	Steering Committee,	1959-1965		</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	12:4	</container><unittitle>	Standing	Committees,	Ste-ring Committee,	1966-1969		</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	12:5	</container><unittitle>	Standing	Committees,	Ste-ring Committee,	1970-1974		</unittitle></did>		</c04>	</c03>	</c02>
+													
+	<c02 level="subseries"><did><unittitle>	Subseries B: Departments							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	12:6	</container><unittitle>	Arts and Sciences					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:7	</container><unittitle>	Directories					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:8	</container><unittitle>	Engineering					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:9	</container><unittitle>	Library					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:10	</container><unittitle>	Miscellaneous					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:11	</container><unittitle>	Revised Curricula, 1980-81					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	12:12	</container><unittitle>	Schedules of Classes					</unittitle></did>			</c03>	</c02>
+	<c02 level="subseries"><did><unittitle>	Subseries C: Miscellaneous							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	13:1	</container><unittitle>	American Association of University Professors (AAUP)					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:2	</container><unittitle>	AAUP, Bulletins					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:3	</container><unittitle>	AAUP, Correspondence					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:4	</container><unittitle>	AAUP, D.I.T. Chapter					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:5	</container><unittitle>	American Federation of Teachers and Michigan Federation of Teachers					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:6	</container><unittitle>	Applicants/Job Postings					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:7	</container><unittitle>	Benefits					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:8	</container><unittitle>	Correspondence, 1962-1978					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:9	</container><unittitle>	Faculty Wives Club, 1936-37					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:10	</container><unittitle>	Reports					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	13:11	</container><unittitle>	Requirements					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:1	</container><unittitle>	Society of Manufacturing Engineers					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:2	</container><unittitle>	Strike, 1963					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:3	</container><unittitle>	Tenure					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:4	</container><unittitle>	Testing					</unittitle></did>			</c03>	</c02>
+	<c02 level="subseries"><did><unittitle>	Subseries D:		Publications					</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	14:5	</container><unittitle>	Catalogs					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:6	</container><unittitle>	Faculty Bulletin, 1960-62					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:7	</container><unittitle>	Handbooks, 1958-1969					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:8	</container><unittitle>	Handbooks, 1970					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	14:9	</container><unittitle>	Miscellaneous					</unittitle></did>			</c03>	</c02></c01>
+	<c01 level="series"><did><unittitle>	Series III: Finance							</unittitle></did>				
+	<scopecontent><head>Scope and Contents note</head><p>	Material concerning financial aid for students, faculty salaries and other financial matters are cont :d in this series. As i.s on Gifts and Grants lists all those received from 1974 to 1981.									</p></scopecontent>
+	<c02 level="file"><did><container type="Box:File">	15:1	</container><unittitle>	Collective Bargaining					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:2	</container><unittitle>	Financial Aid and Tuition					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:3	</container><unittitle>	Financial Statements					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:4	</container><unittitle>	Miscellaneous					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:5	</container><unittitle>	Purchases					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:6	</container><unittitle>	Salaries					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:7	</container><unittitle>	Title I: Higher Education Act of 1965,Information Bulletins and Correspondence					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	15:8	</container><unittitle>	Title I:	Higher Education Act of 1965, Proposals				</unittitle></did>	</c02>
+	<c02 level="subseries"><did><unittitle>	Gifts and Grants:							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	15:9	</container><unittitle>	Gifts and Grants, 1974, A-C					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	15:10	</container><unittitle>	Gifts and Grants, 1974, D-F					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:1	</container><unittitle>	Gifts	and Grants,	1974, P-Z			</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:2	</container><unittitle>	Gifts	and Grants,	Alumni			</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:3	</container><unittitle>	Gifts	and Grants,	1975-76,	A-C		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:4	</container><unittitle>	Gifts	and Grants,	1975-76,	D-H		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:5	</container><unittitle>	Gifts	and Grants,	1975-76,	J-N		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:6	</container><unittitle>	Gifts	and Grants,	1975-76,	O-R		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:7	</container><unittitle>	Gifts	and Grants,	1975-76,	S-Y		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	16:8	</container><unittitle>	Gifts	and Grants,	1979-80			</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:1	</container><unittitle>	Correspondence					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:2	</container><unittitle>	Correspondence, Jan. 1981					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:3	</container><unittitle>	Correspondence, Feb. 1981 #1					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:4	</container><unittitle>	Correspondence, Feb. 1981 #2					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:5	</container><unittitle>	Correspondence, March 1981 #1					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:6	</container><unittitle>	Correspondence, March 1981 #2					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:7	</container><unittitle>	Correspondence, April-Dec. 1981					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:8	</container><unittitle>	Miscellaneous					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:9	</container><unittitle>	Monthly Analysis, 1974-75					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:10	</container><unittitle>	Monthly Analysis, 1975-1978					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:11	</container><unittitle>	National Register Grant Data					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:12	</container><unittitle>	Pledges, 1976-77					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:13	</container><unittitle>	Proposals					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:14	</container><unittitle>	Special Reports					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	17:15	</container><unittitle>	Title XX					</unittitle></did>			</c03>	</c02></c01>
+													
+	<c01 level="series"><did><unittitle>	Series IV: Publici							</unittitle></did>				
+	<scopecontent><head>Scope and Contents note</head><p>	The oldest items in the collection are contained in this series, with catalogs dating from 1910 and flyers advertising Detroit Technical Institute. Other items include materials on the various anniversary celebrations, particularly the 75th in 1966. Information on the different buildings used by the university, such as the old Kresge Headquarters, are also here, as well as the history of the school and special events.											</p></scopecontent>
+	<c02 level="file"><did><container type="Box:File">	18:1	</container><unittitle>	Anniversary	Celebrations				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:2	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Acknowledgments				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:3	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Faculty Committee				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:4	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Planning				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:5	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Publicity				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:6	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Speakers				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:7	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Arts and Sciences 	Dept.			</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:8	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Arts and Sciences 	Dept., Planning	1		</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:9	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, Business Admin. 	Dept .			</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:10	</container><unittitle>	Anniversary Celebrations, 75th Anniversary,	1966, College of 	Engineering			</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:11	</container><unittitle>	Awards and Honors, Citations					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:12	</container><unittitle>	Awards and Honors, Inauguration of the Academic Chair at D.I.T. honoring A. Vernon Jannotta, 1961					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:13	</container><unittitle>	Buildings, Colony Club					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:14	</container><unittitle>	Buildings, Colony Club, History					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:15	</container><unittitle>	Buildings, Kresge, Dedication					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	18:16	</container><unittitle>	Buildings, Kresge, Ideas					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	Buildings,	</container><unittitle>	Kresge Dedication Guest Books 1 and 2					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:1	</container><unittitle>	Calendars of Events					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:2	</container><unittitle>	History, Detroit Institute of Technology					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:3	</container><unittitle>	History, Detroit Technical Institute					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:4	</container><unittitle>	Miscellaneous					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:5	</container><unittitle>	Songs					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:6	</container><unittitle>	Special Events					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:7	</container><unittitle>	Special Events, Annual Concert, 1962					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	19:8	</container><unittitle>	Special Events, Drama/Music Productions					</unittitle></did>			</c02>
+<c02 level="subseries"><did><unittitle>		Subseries A: Newspaper Clippings and Press Releases							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	19:9	</container><unittitle>	Newspaper Clippings, 1946;1950;1958;1968					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	19:10	</container><unittitle>	Newspaper Clippings, 1970-1975					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:1	</container><unittitle>	Newspaper Clippings, Jan.-May 1976					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:2	</container><unittitle>	Newspaper Clippings, June-Dec. 1976					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:3	</container><unittitle>	Newspaper Clippings, 1977-1982; Undated					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:4	</container><unittitle>	Press Releases, 1963; 1969-71; 1974-76; 1978-80; Undated					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:5	</container><unittitle>	Press Releases and Newspaper Clippings, 1948-49					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:6	</container><unittitle>	Press Releases and Newspaper Clippings, Jan-June 1949					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	20:7	</container><unittitle>	Press Releases and Newspaper Clippings, Sept.-Dec. 1949					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:1	</container><unittitle>	Press	Releases	and	Newspaper Clippings,	1950	</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:2	</container><unittitle>	Press	Releases	and	Newspaper Clippings,	1959;	</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:3	</container><unittitle>	Press	Releases	and	Newspaper Clippings,	1962	</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:4	</container><unittitle>	Press	Releases	and	Newspaper Clippings,	1963-69	</unittitle></did>			</c03>	</c02>
+<c02 level="subseries"><did><unittitle>		Subseries B: University Publications							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	21:5	</container><unittitle>	Annual Reports					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:6	</container><unittitle>	Brochures					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	21:7	</container><unittitle>	Brochures, Degrees and Programs					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	22:1	</container><unittitle>	Catalogs	and	Bulletins,	1910-18		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	22:2	</container><unittitle>	Catalogs	and	Bulletins,	1920-30		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	22:3	</container><unittitle>	Catalogs	and	Bulletins,	1931-40		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	22:4	</container><unittitle>	Catalogs	and	Bulletins,	1940-49		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	22:5	</container><unittitle>	Catalogs	and	Bulletins,	1950-56		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	23:1	</container><unittitle>	Catalogs	and	Bulletins,	1957-60		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	23:2	</container><unittitle>	Catalogs	and	Bulletins,	1960-64		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	23:3	</container><unittitle>	Catalogs	and	Bulletins,	1965-71		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	23:4	</container><unittitle>	Catalogs	and	Bulletins,	1971-74		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	23:5	</container><unittitle>	Catalogs	and	Bulletins,	1974-77		</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:1	</container><unittitle>	Newsletters,	D.I.T. NewsBriefs				</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:2	</container><unittitle>	Newsletters,	D.I.T. Newsletter				</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:3	</container><unittitle>	Newsletters,	Inside D.I.T.				</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:4	</container><unittitle>	Newsletters,	News of the Institute				</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:5	</container><unittitle>	Newsletters,	The Open Forum				</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	24:6	</container><unittitle>	Newsletters,	Technonian Newsletter				</unittitle></did>			</c03>	</c02></c01>
+	<c01 level="series"><did><unittitle>	Series V: Students							</unittitle></did>				
+	<scopecontent><head>Scope and Contents note</head><p>	Though no student records are included in this collection, there is a nearly complete collection of student newspapers dating from 1926 through 1981, and yearbooks from 1930 to 1977. Commencement programs from 1912 through 1980 are also contained here.											</p></scopecontent>
+	<c02 level="file"><did><container type="Box:File">	24:7	</container><unittitle>	Activities					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:8	</container><unittitle>	Commencement,	1912;	1922-29			</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:9	</container><unittitle>	Commencement,	1930-39				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:10	</container><unittitle>	Commencement,	1940-49				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:11	</container><unittitle>	Commencement,	1950-59				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:12	</container><unittitle>	Commencement,	1960-64				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:13	</container><unittitle>	Commencement,	1965-69				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:14	</container><unittitle>	Commencement,	1970-72				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	24:15	</container><unittitle>	Corrmencement,	1973-78; 1980				</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:1	</container><unittitle>	Commencement Addresses					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:2	</container><unittitle>	Commencement Committee					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:3	</container><unittitle>	Correspondence					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:4	</container><unittitle>	Employment/Career Counseling/Work Study					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:5	</container><unittitle>	Enrollment					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:6	</container><unittitle>	Foreign Students					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:7	</container><unittitle>	Graduates and Alumni					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:8	</container><unittitle>	Organizations					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:9	</container><unittitle>	Organizations, Constitutions					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:10	</container><unittitle>	Organizations, Senior Class Organization (SENCO), 1975-76					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:11	</container><unittitle>	Sports					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:12	</container><unittitle>	Sports, Lance "Ike" Bundy					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:13	</container><unittitle>	Student-Faculty Planning Committee					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:14	</container><unittitle>	Student Personnel Committee					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:15	</container><unittitle>	Student Publications Board					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:16	</container><unittitle>	Student Review Board Meetings					</unittitle></did>			</c02>	
+	<c02 level="file"><did><container type="Box:File">	25:17	</container><unittitle>	Surveys					</unittitle></did>			</c02>
+<c02 level="subseries"><did><unittitle>		Publications:							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	26:1	</container><unittitle>	Fiction/Poetry, "Ascent"					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:2	</container><unittitle>	Fiction/Poetry, "Literary Horizons", 1973					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:3	</container><unittitle>	Fiction/Poetry, N.S.P. Poetry Workshop					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:4	</container><unittitle>	Handbooks					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:5	</container><unittitle>	Miscellaneous Clippings and Flyers					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:6	</container><unittitle>	Newsletters					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:7	</container><unittitle>	Technonian Newspaper, 1951-56					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:8	</container><unittitle>	Technonian Newspaper, 1973-75					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="Box:File">	26:9	</container><unittitle>	Technonian Newspaper, 1978-81					</unittitle></did>			</c03>	
+	<c03 level="file"><did><container type="LMS"></container><unittitle>	Technonian Newspaper					</unittitle></did>				
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 6-10: Vol.6, 18 Dec 1931 only 							</unittitle></did>
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 7, 1932-33 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 8, 1933-34 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 9, 1934-35 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 10, 1935-36							</unittitle></did>		</c05>		</c04>
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>Vol. 11-14: Vol. 11, 1936-37 							</unittitle></did>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 12, 1937-38 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 13, 1938-39 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 14, 1939-40							</unittitle></did>		</c05>		</c04>
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 15-19: Vol. 15, 1940-41 							</unittitle></did>
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 16, 1941-42 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 17, 1942-43 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 18, 1943-44							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 19, 23 Oct 1944 only							</unittitle></did>		</c05>		</c04>
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 20-23; 1950-51							</unittitle></did>			
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 20, 26 Feb 1946 only							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 21, 1946-47 (Nos. 3 and 8 only)							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 22, 1947-48 							</unittitle></did>		</c05>		</c04>
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 23, 1948-49 Vol. 1950							</unittitle></did>
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 1951							</unittitle></did></c05>		</c04>	
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 43-44: Vol. 43, 1967 							</unittitle></did>			
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 44, 1968-69							</unittitle></did>		</c05>	</c04>
+	<c04 level="subseries"><did><container type="LMS"></container><unittitle>	Vol. 45-48: Vol. 45, 1969-70 (includes "Enlightener", Volume 45,Nos. 8-10) 							</unittitle></did>
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 46, 1970-71							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 47, 1971-72 							</unittitle></did>		</c05>		
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	Vol. 48, 1972-73							</unittitle></did>		</c05>		</c04>
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Miscellaneous: Vol. 1975-77							</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Awards, Associated Collegiate Press of N.S.P.A., 1941-1945							</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Booklet, "The Future is This Way"							</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Resolution, State of Michigan, 1975							</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	D.I.T. Record album cover							</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Class Pictures, 1953-64							</unittitle></did>		</c04>	</c03>	</c02></c01>
+	<c01 level="series"><did><unittitle>	Series VI: Photographs							</unittitle></did>				
+	<scopecontent><head>Scope and Contents note</head><p>	Photographs of all phases of university life</p></scopecontent>										
+<c02 level="subseries"><did><unittitle>		Subseries A:		Buildings					</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	27:1	</container><unittitle>	Classrooms					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:2	</container><unittitle>	Dedication					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:3	</container><unittitle>	Engineering Bldg.					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:4	</container><unittitle>	Exteriors					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:5	</container><unittitle>	Interiors					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:6	</container><unittitle>	Kresge Bldg.					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	27:7	</container><unittitle>	Library					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:1	</container><unittitle>	Park Ave. Bldg.					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:2	</container><unittitle>	Reconstruction					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:3	</container><unittitle>	Student Union					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:4	</container><unittitle>	Various buildings					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:5	</container><unittitle>	YMCA					</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>		Subseries B:		Commencements/Convocations					</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	28:6	</container><unittitle>	Commencement,	1959				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:7	</container><unittitle>	Commencement,	1960,	Part 1			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:8	</container><unittitle>	Commencement,	1960,	Part 2			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:9	</container><unittitle>	Commencement,	1961				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	28:10	</container><unittitle>	Commencement,	1962				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:1	</container><unittitle>	Commencement,	1964				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:2	</container><unittitle>	Commencement,	1966,	3 June			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:3	</container><unittitle>	Commencement,	1967				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:4	</container><unittitle>	Commencement,	1967,	Proofs			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:5	</container><unittitle>	Commencement,	1968				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:6	</container><unittitle>	Commencement,	1969				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:7	</container><unittitle>	Commencement,	1970,	1972			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:8	</container><unittitle>	Commencement,	1973				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:9	</container><unittitle>	Commencement,	1975				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:10	</container><unittitle>	Commencement, 1978, 31 May					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	29:11	</container><unittitle>	Commencement, 1979, June					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:1	</container><unittitle>	Commencements, Undated #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:2	</container><unittitle>	Commencements, Undated #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:3	</container><unittitle>	Commencements, Undated #3					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:4	</container><unittitle>	Commencements, Undated #4					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:5	</container><unittitle>	Convocation, Arts and Sciences, 12 May 1966 #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:6	</container><unittitle>	Convocation, Arts and Sciences, 12 May 1966 #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:7	</container><unittitle>	Convocation, Business Administration, 14 Apr 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:8	</container><unittitle>	Convocation, Engineering, 21 Mar 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:9	</container><unittitle>	Convocation, Honors, 3 June 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:10	</container><unittitle>	Convocation, Honors, June 1977					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:1	</container><unittitle>	Commencements, Undated #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:2	</container><unittitle>	Commencements, Undated #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:3	</container><unittitle>	Commencements, Undated #3					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:4	</container><unittitle>	Commencements, Undated #4					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:5	</container><unittitle>	Convocation, Arts and Sciences, 12 May 1966 #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:6	</container><unittitle>	Convocation, Arts and Sciences, 12 May 1966 #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:7	</container><unittitle>	Convocation, Business Administration, 14 Apr 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:8	</container><unittitle>	Convocation, Engineering, 21 Mar 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:9	</container><unittitle>	Convocation, Honors, 3 June 1966					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	30:10	</container><unittitle>	Convocation, Honors, June 1977					</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>		Subseries C:		Departments and Staff					</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	31:1	</container><unittitle>	Accounting Office					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:2	</container><unittitle>	Administration, Dewey Barich					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:3	</container><unittitle>	Administration, Dewey Barich, Inauguration, 28 Feb 1959 #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:4	</container><unittitle>	Administration, Dewey Barich, Inauguration, 28 Feb 1959 #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:5	</container><unittitle>	Administration, Dewey Barich, Recognition Dinner, 1976					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:6	</container><unittitle>	Administration, President's Conferences					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:7	</container><unittitle>	Administration, Trustees Brunch, June 1979					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:8	</container><unittitle>	Faculty and Staff (includes Faculty Strike)					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:9	</container><unittitle>	Health Services					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:10	</container><unittitle>	Laboratories					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	31:11	</container><unittitle>	Occupational Safety, Health and Education					</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>		Subseries D:		Miscellaneous					</unittitle></did>				
+<c03 level="subseries">	<did><unittitle>	Identified:							</unittitle></did>				
+	<c04 level="file"><did><container type="Box:File">	32:1	</container><unittitle>	Bob Reynolds TV-Radio Show					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:2	</container><unittitle>	Education Society, Detroit Industrial Tour, 1961					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:3	</container><unittitle>	Ford Times Collection of America					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:4	</container><unittitle>	Henry Ford Article					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:5	</container><unittitle>	Historical Photos					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:6	</container><unittitle>	IBM					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:7	</container><unittitle>	ICOP					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:8	</container><unittitle>	Miscellaneous, Identified					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:9	</container><unittitle>	Tacom Group, DAC, April 1972					</unittitle></did>		</c04>	</c03>	
+<c03 level="subseries">	<did><unittitle>	Unidentified:							</unittitle></did>				
+	<c04 level="file"><did><container type="Box:File">	32:10	</container><unittitle>	Colored photos					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	32:11	</container><unittitle>	Individuals					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:1	</container><unittitle>	Miscellaneous,	Unidentified/Dated				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:2	</container><unittitle>	Miscellaneous,	Unidentified/Dated,	September 1968			</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:3	</container><unittitle>	Miscellaneous,	Unidentified/Undated #1				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:4	</container><unittitle>	Miscellaneous,	Unidentified/Undated #2				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:5	</container><unittitle>	Miscellaneous,	Unidentified/Undated #3				</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:6	</container><unittitle>	Proof Sheets					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:7	</container><unittitle>	Speakers					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:8	</container><unittitle>	Special Events/Dinners #1					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:9	</container><unittitle>	Special Events/Dinners #2					</unittitle></did>		</c04>		
+	<c04 level="file"><did><container type="Box:File">	33:10	</container><unittitle>	Tours					</unittitle></did>		</c04>	</c03>	</c02>
+<c02 level="subseries"><did><unittitle>		Subseries E: Special Events							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	34:1	</container><unittitle>	AED Report Dinner, 15 Mar 1968					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:2	</container><unittitle>	Anniversaries, 75th, Cobo Hall, 10 Oct 1966 #1					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:3	</container><unittitle>	Anniversaries, 75th, Cobo Hall, 10 Oct 1966 #2					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:4	</container><unittitle>	Anniversaries, 75th, Telephone Campaign					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:5	</container><unittitle>	Anniversaries, 80th, 28 Oct 1971					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:6	</container><unittitle>	Arthur S. Flemming Luncheon, 27 Oct 1960					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:7	</container><unittitle>	Brick Luncheon, Kresge Bldg., 11 Apr 1973					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:8	</container><unittitle>	Chandler Luncheon, 1959					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:9	</container><unittitle>	Concert, 1962					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:10	</container><unittitle>	D.I.T./M.I.T. Announcement, 10 June 1971					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:11	</container><unittitle>	D.I.T. Service Day, 22 Sept 1975					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:12	</container><unittitle>	Fundraiser, $13.5 Million Kick-Off, 1 Mar 1972					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:13	</container><unittitle>	Miscellaneous					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	34:14	</container><unittitle>	Newcomer Dinner, 14 Dec 1971					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:1	</container><unittitle>	Old D.I.T.	Dances and Banquets				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:2	</container><unittitle>	Open House,	1964				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:3	</container><unittitle>	Open House,	1968				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:4	</container><unittitle>	Open House and Dedication,	28 and 29 May 1974 #1				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:5	</container><unittitle>	Open House and Dedication,	28 and 29 May 1974 #2				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:6	</container><unittitle>	Presentation of Honorary Doctoral Degree to Mr.	Herrick,	June 1980			</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:7	</container><unittitle>	Press Conference,	1 Mar 1966				</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:8	</container><unittitle>	Spring Festival,	1967				</unittitle></did>		</c03>	</c02>	
+<c02 level="subseries"><did><unittitle>		Subseries F: Students and Alumni							</unittitle></did>				
+	<c03 level="file"><did><container type="Box:File">	36:1	</container><unittitle>	Activities					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:2	</container><unittitle>	Alumni, Detroit Press Club, April 1972					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:3	</container><unittitle>	Alumni, Engineering					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:4	</container><unittitle>	Alumni, Ford D.I.T. Alumni Meeting					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:5	</container><unittitle>	Concerned Citizens for Action					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:6	</container><unittitle>	Co-op Students					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:7	</container><unittitle>	Fraternities					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:8	</container><unittitle>	Miscellaneous					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:9	</container><unittitle>	President's "Rap" Session, 1973					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:10	</container><unittitle>	Protest					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:11	</container><unittitle>	R.O.T.C.					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:12	</container><unittitle>	Sports					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	35:13	</container><unittitle>	Sports, James Garza Resolution Presentation					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:14	</container><unittitle>	Technonian Staff					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="Box:File">	36:15	</container><unittitle>	Veterans					</unittitle></did>		</c03>		
+	<c03 level="file"><did><container type="LMS"> </container><unittitle>Class Pictures, 1953, 1955-56, 1958-59, 1963-64							</unittitle></did>		</c03></c02>
+													</c01>
+													
+													
+	<c01 level="series"><did><container type="Volume"></container><unittitle>	Bound Volumes							</unittitle></did>				
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian Newspaper: 1926-31 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1952-53 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1956-57 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1957-58 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1958-59 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1959-60 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1960-61 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1961-62 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1962-63 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1963-64 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1964-45 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	1965-66							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Vol. 42: 1966-67							</unittitle></did>		</c02>	</c01>	
+	<c01 level="series"><did><container type="Volume"></container><unittitle>	Notebooks							</unittitle></did>				
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Administration:							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Administrative Council Minutes, July 1959-May 1960 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Administrative Council Minutes, June 1960-Dec 1961 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Administrative Council Minutes, Jan 1962-Sept 1963 							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Basic Institutional Data, 26 Jan 1971							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	D.I.T. Need Survey							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Institutional Profile, Nov 1970							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Institutional Self-Study, June 1959							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Long-Range Planning Handbook, 9 Apr 1974							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	North Central Association of Colleges and Secondary Schools, Forms A-G, 24 Nov 1965							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Report to the North Central Association of Colleges and Schools, Commission on Institutions of Higher Education, March 1979 Self-Study of D.I.T., Final Report, June 1960 Self-Study of D.I.T., July 1962							</unittitle></did>		</c02>		
+	<c02 level="item"><did><container type="Volume"></container><unittitle>	Self-Study Interim Report, July 1961							</unittitle></did>		</c02>		
+													
+	<c02 level="subseries"><did><container type="Volume"></container><unittitle>	Faculty:							</unittitle></did>				
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Curriculum Committee /Student-Faculty Planning Committee/Student Personnel Committee /Commencement Committee							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Faculty Classification Criteria Corrmittee							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Faculty Minutes							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Michigan Federation of Teachers/Academic Deans Meeting Minutes/Educational Policy Committee of Board of Trustees/New Faculty Orientation Committee Minutes, Heads of Departments, Arts and Sciences							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Miscellaneous Committees							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Scrapbook of Director of Education (Press Clippings), 1911-1914							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Tenure Policy Committee/Self-Study Committee/Trimester Committee/Faculty Research Committee							</unittitle></did>		</c03>	</c02>	
+													
+	<c02 level="subseries"><did><container type="Volume"></container><unittitle>	Publicity:							</unittitle></did>				
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Newspaper Clippings, 1971-74							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Newspaper Clippings, 1974 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Newspaper Clippings, 1975 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Newspaper Clippings, 1977 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Newspaper Clippings, 1978							</unittitle></did>		</c03>	</c02>	
+													
+	<c02 level="subseries"><did><container type="Volume"></container><unittitle>	Students:							</unittitle></did>				
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Class Pictures, D.I.T., 1922-49							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Class Pictures, Evening High School, 1926-48 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Class Pictures, College of Engineering, 1926-49 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Class Pictures, College of Liberal Arts, 1930-49 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Commencement, 1974							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Comnencement, 1975							</unittitle></did>		</c03>	</c02>	
+													
+	
+	<c02 level="subseries"><did><container type="Volume"></container><unittitle>	Yearbooks:							</unittitle></did>				
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Techemoiltan. 1930							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1931							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1932 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1934 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1935 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1936 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Detroit Technonian, 1937 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1938							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Memories of January 1939 							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1939							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Prism, 1951							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Prism, 1952							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Escutcheon, 1953							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Tech Tribute, 1954							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1955							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1956							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1957							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1958							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Panorama, 1959							</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1960					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1961					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1962					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1963					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1964					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1965					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1966					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1967					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1968					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1969					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1970					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1971					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1972					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1973					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1974					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1975					</unittitle></did>		</c03>		
+	<c03 level="item"><did><container type="Volume"></container><unittitle>	Technorama,		1977					</unittitle></did>		</c03>	</c02>	</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for Detroit Adventure records
+                    
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Detroit Adventure records</unittitle>
+            <unitid>00662</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>20.0 Linear feet</extent>
+                <extent>(27 boxes, 1 wallet, 37 volumes, 1 large manuscript) </extent>
+            </physdesc>
+            <unitdate>1958-1980</unitdate>
+            <langmaterial id="ref6" label="Language of Materials">In English.</langmaterial>
+            <origination label="creator">
+                <corpname source="ingest" role=" ">Detroit Adventure.</corpname>
+            </origination>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement</head>
+            <p>Organised into three series: I. Organizational papers -- II. Participating organizations --- III. Programs. Series;</p>
+        </arrangement>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00662</p>
+        </acqinfo>
+        <accessrestrict id="ref4">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Detroit Adventure, a coordinating arts council, was founded in 1959 to strengthen the cultural activities of its member institutions. Up to twenty-six cultural and educational institutions comprised Detroit Adventure.</p>
+        </bioghist>
+        <controlaccess>
+            <subject source="lcsh">Arts publicity</subject>
+            <genreform source="aat">Business records</genreform>
+            <subject source="lcsh">Non-profit organziations--Michigan--Detroit</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Organization Papers</unittitle>
+                </did>
+                <odd id="ref18">
+                    <head>General note</head>
+                    <p>Detroit Adventure began in 1959 with a group of cultural institutions. Lists of these organizations are included in Box 1. Also contained in this series are newsletters, correspondence, financial papers, minutes of meetings, membership and personnel. See also Volumes for more Financial Papers and Minutes of Meetings.</p>
+                </odd>
+                <c02 id="ref21" level="subgrp">
+                    <did>
+                        <unittitle>Box 1</unittitle>
+                        <container type="Box">1</container>
+                    </did>
+                    <c03 id="ref22" level="item">
+                        <did>
+                            <unittitle>Biographical Material</unittitle>
+                            <container type="File">1</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="item">
+                        <did>
+                            <unittitle>Committees—Detroit Adventure Committee, 1965</unittitle>
+                            <container type="File">2</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>Events of the Month Committee, 1965-1966</unittitle>
+                            <container type="File">3</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>Expanded Communication Committee, 1973</unittitle>
+                            <container type="File">4</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>General Correspondence, 1960-1964</unittitle>
+                            <container type="File">5</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>General Correspondence, 1965-1969</unittitle>
+                            <container type="File">6</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>General Correspondence, 1970</unittitle>
+                            <container type="File">7</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>General Correspondence, 1971</unittitle>
+                            <container type="File">8</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>General Correspondence, 1972-1979; undated.</unittitle>
+                            <container type="File">9</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>Lists</unittitle>
+                            <container type="File">10</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>Address Labels</unittitle>
+                            <container type="File">11</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>Board of Trustees—Members &amp; Committees, 1962-1979</unittitle>
+                            <container type="File">12</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>Delegates</unittitle>
+                            <container type="File">13</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>Sculpture List, 1966</unittitle>
+                            <container type="File">14</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>Newsletters, 1964-1973</unittitle>
+                            <container type="File">15</container>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>"Journal of the Archives of American Art", 1965-1966</unittitle>
+                            <container type="File">16</container>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref38" level="series">
+                    <did>
+                        <unittitle>box 2</unittitle>
+                    </did>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>Newsletters—"DAC News", Golden Anniversary Issue, April 1965</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>Newspaper Clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>Photographs, 1959</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>Photographs, 1960</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>Photographs, 1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>Photographs, 1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>Photographs, 1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>McGregor Conference, 1959-1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>Metropolitan Opera Association</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref49" level="series">
+                    <did>
+                        <unittitle>box 3</unittitle>
+                    </did>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>Photographs, undated</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="item">
+                        <did>
+                            <unittitle>Portraits</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="item">
+                        <did>
+                            <unittitle>Press Releases, 1962-1978; n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="item">
+                        <did>
+                            <unittitle>Printed Material</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>Publicity, 1963-1964</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>Special Projects, 1965-1967.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>Telephone Advertising, 1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>Reports, 1961-1969; n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>Detroit Adventure/Wayne State University, 1979</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>Slide Presentation, 1973-1975 (see also: Box 26)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>Statistics</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>TV Schedules, 1974-1977</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="subseries">
+                        <did>
+                            <unittitle>box 4</unittitle>
+                            <container type="Box">4</container>
+                        </did>
+                        <c04 id="ref63" level="item">
+                            <did>
+                                <unittitle>Accounts Payable/Expense Ledger, 1977-1980</unittitle>
+                                <container type="Item">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref64" level="item">
+                            <did>
+                                <unittitle>Accounts Receivable/Dated Ledger Sheets, 1973-1980</unittitle>
+                                <container type="Item">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref65" level="item">
+                            <did>
+                                <unittitle>Duplicating Services, 1976-1980</unittitle>
+                                <container type="Item">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref66" level="item">
+                            <did>
+                                <unittitle>Invoices, 1965</unittitle>
+                                <container type="Item">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref67" level="item">
+                            <did>
+                                <unittitle>invoices, 1966</unittitle>
+                                <container type="Item">5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref68" level="item">
+                            <did>
+                                <unittitle>Mail Service, 1973-1980</unittitle>
+                                <container type="Item">6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref69" level="item">
+                            <did>
+                                <unittitle>Teller's Reports, 1966</unittitle>
+                                <container type="Item">7</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref70" level="item">
+                            <did>
+                                <unittitle>Teller's reports, 1967</unittitle>
+                                <container type="Item">8</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref71" level="subgrp">
+                        <did>
+                            <unittitle>box 5</unittitle>
+                            <container type="Box">5</container>
+                        </did>
+                        <c04 id="ref72" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1968</unittitle>
+                                <container type="File">1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref73" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1969</unittitle>
+                                <container type="File">2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref74" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1971-1972</unittitle>
+                                <container type="File">3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref75" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1973-1974</unittitle>
+                                <container type="File">4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref76" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1975-1976</unittitle>
+                                <container type="File">5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref77" level="file">
+                            <did>
+                                <unittitle>Teller's Reports, 1977-1978</unittitle>
+                                <container type="File">6</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref78" level="subgrp">
+                        <did>
+                            <unittitle>box 6</unittitle>
+                        </did>
+                        <c04 id="ref79" level="file">
+                            <did>
+                                <unittitle>Administrative Heads of Institutions, 1969-1970</unittitle>
+                                <container type="File">6:1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref80" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1967-1969</unittitle>
+                                <container type="File">6:2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref81" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1970-1971</unittitle>
+                                <container type="File">6:3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref82" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1972-1973</unittitle>
+                                <container type="File">6:4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref83" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1975-1976</unittitle>
+                                <container type="File">6:5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref84" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1977-1978</unittitle>
+                                <container type="File">6:6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref85" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1979</unittitle>
+                                <container type="File">6:7</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref86" level="file">
+                            <did>
+                                <unittitle>Board of Trustees, 1980</unittitle>
+                                <container type="File">6:8</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref87" level="file">
+                            <did>
+                                <unittitle>Delegates (Participating Institutions), 1972</unittitle>
+                                <container type="File">6:9</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref88" level="item">
+                            <did>
+                                <unittitle>Delegates (Participating Institutions), 1973</unittitle>
+                                <container type="File">6:10</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref89" level="item">
+                            <did>
+                                <unittitle>Delegates (Participating Institutions), 1974</unittitle>
+                                <container type="File">6:11</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref90" level="file">
+                            <did>
+                                <unittitle>Delegates (Participating Institutions), 1975</unittitle>
+                                <container type="File">6:12</container>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref91" level="subgrp">
+                        <did>
+                            <unittitle>box 7</unittitle>
+                        </did>
+                        <c04 id="ref92" level="file">
+                            <did>
+                                <unittitle>Delegates, 1976</unittitle>
+                                <container type="File">7:1</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref93" level="file">
+                            <did>
+                                <unittitle>Delegates, 1977</unittitle>
+                                <container type="File">7:2</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref94" level="file">
+                            <did>
+                                <unittitle>Delegates, 1978</unittitle>
+                                <container type="File">7:3</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref95" level="file">
+                            <did>
+                                <unittitle>Delegates, 1979-1980</unittitle>
+                                <container type="File">7:4</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref96" level="file">
+                            <did>
+                                <unittitle>Executive Committee, 1972-1973</unittitle>
+                                <container type="File">7:5</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref97" level="item">
+                            <did>
+                                <unittitle>Executive Committee, 1975-1976</unittitle>
+                                <container type="File">7:6</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref98" level="file">
+                            <did>
+                                <unittitle>Executive Committee, 1977-1980</unittitle>
+                                <container type="File">7:7</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref99" level="file">
+                            <did>
+                                <unittitle>Miscellaneous Meetings, 1964-1975</unittitle>
+                                <container type="File">7:8</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref100" level="item">
+                            <did>
+                                <unittitle>Participating Institutions, 1962-1964</unittitle>
+                                <container type="File">7:9</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref101" level="item">
+                            <did>
+                                <unittitle>Participating Institutions, 1965</unittitle>
+                                <container type="File">7:10</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref102" level="file">
+                            <did>
+                                <unittitle>Participating Institutions, 1966-1967</unittitle>
+                                <container type="File">7:11</container>
+                            </did>
+                        </c04>
+                        <c04 id="ref103" level="file">
+                            <did>
+                                <unittitle>Participating Institutions, 1968-1969</unittitle>
+                                <container type="File">7:12</container>
+                            </did>
+                        </c04>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref8" level="series">
+                <did>
+                    <unittitle>Participating Institutions</unittitle>
+                </did>
+                <odd id="ref19">
+                    <head>General note</head>
+                    <p>Participating Institutions—also known as "Delegates"—were the members of Detroit Adventure. This series contains material on all the participating institutions, as well as affiliate members.</p>
+                </odd>
+                <c02 id="ref10" level="series">
+                    <did>
+                        <unittitle>Wayne State University</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="series">
+                    <did>
+                        <unittitle>WSU—Division of Urban Extension (D.U.E.)</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref9" level="series">
+                <did>
+                    <unittitle>Programs</unittitle>
+                </did>
+                <odd id="ref20">
+                    <head>General note</head>
+                    <p>The organization's calendar of events is included in this series, along with the many programs and projects it sponsored. Among the more notable were: Conversations in the Arts, Day in the Arts, poetry workshops, Excursions in Music, May (Arts) Odyssey, Noel Night, and the American Revolution Bicentennial. Also contained in this series are Audio-Visual Materials. More information on programs may be found in Volumes: Scrapbooks and Loose-leaf Binders.</p>
+                </odd>
+                <c02 id="ref12" level="series">
+                    <did>
+                        <unittitle>Calendars of Events</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref13" level="series">
+                    <did>
+                        <unittitle>American Revolution Bicentennial</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="series">
+                    <did>
+                        <unittitle>Excursions in Music</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="series">
+                    <did>
+                        <unittitle>May/Arts Odyssey</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="series">
+                    <did>
+                        <unittitle>Noel Night</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="series">
+                    <did>
+                        <unittitle>Audio/Visual Materials</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

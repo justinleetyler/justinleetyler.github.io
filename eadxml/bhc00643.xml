@@ -1,0 +1,2744 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for DeLand family papers
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Oct. 1, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>DeLand family papers</unittitle>
+            <unitid>00643</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>7.0 Linear feet</extent>
+                <extent>(16 boxes, 2 volumes, 3 large manuscripts) </extent>
+            </physdesc>
+            <unitdate normal="1816/1984" type="inclusive">1816-1984</unitdate>
+            <langmaterial id="ref7" label="Language of Materials">In English.</langmaterial>
+            <physloc id="ref9" label="Location note">Level A, B, 24 N</physloc>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement</head>
+            <p>Correspondence; Alphabetically</p>
+        </arrangement>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>Diaries, correspondence, and photographs of three generations of the DeLand family, early settlers of Jackson County, Mich. Information about Charles and James DeLand's service in the 1st Mich. Sharpshooters and local history of the county.</p>
+        </scopecontent>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00643</p>
+        </acqinfo>
+        <bioghist id="ref5">
+            <head>Biographical/Historical note</head>
+            <p>Prominent in Jackson county politics and civic affairs, over the years the DeLand family received military and civilian appointments from Governor Lewis Cass, William Woodbridge, and President Andrew Johnson. An ardent abolitionist and friend of Horace Greeley, William R. DeLand help slaves escape to freedom, his home serving as a station on the Underground railroad. William founded the city of Jackson, served as a judge, and established the First Congregational Church in Jackson, Mich. He and his sons Charles and James, owned and operated a Jackson newspaper called the American Citizen. The DeLand family's editorial policy was anti-slavery and promoted Republican party politics. In the Civil War Charles and James both joined and fought with the First Michigan Sharpshooters Regiment. Charles finished the Civil War with a rank of Brevet Brigadier General and James with a rank of Brevet Major. Gertrude, the daughter of James S. Deland, married Stephen Michael Cotter and lived in Detroit. She was an avid collector of family history and active in numerous clubs: the Detroit Society for Genealogical Research, the Historic Memorials Society, and the Daughters of the American Revolution.</p>
+        </bioghist>
+        <accessrestrict id="ref6">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <odd id="ref8">
+            <head>General Note</head>
+            <p>See finding aid for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <persname source="ingest" role=" ">Cotter, Gertrude</persname>
+            <persname source="ingest" role=" ">Cotter, Stephen Michael</persname>
+            <famname source="ingest" role=" ">DeLand family -- Form subdivision--Archives; </famname>
+            <persname source="ingest" role=" ">DeLand, Charles</persname>
+            <persname source="ingest" role=" ">DeLand, James</persname>
+            <persname source="ingest" role=" ">DeLand, William R.</persname>
+            <corpname source="ingest" role=" ">United States. Army. Michigan Sharpshooters Regiment, 1st (1863-1865).</corpname>
+            <subject source="lcsh">Abolitionists</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <genreform source="aat">Diaries</genreform>
+            <genreform source="aat">Family papers</genreform>
+            <geogname source="lcsh">Jackson County (Mich.)</geogname>
+            <genreform source="aat">Photographs</genreform>
+            <subject source="lcsh">Underground Railroad</subject>
+            <geogname source="lcsh">United States--Personal narratives--History--Civil War, 1861-1865</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref514" level="series">
+                <did>
+                    <unittitle>Inventory Listing</unittitle>
+                </did>
+                <c02 id="ref26" level="subseries">
+                    <did>
+                        <unittitle>Box 2</unittitle>
+                    </did>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Jan - Feb 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Mar - May 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Jun - Aug 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Sep - Dec 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Jan - May 1893</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Jul - Sep 1893</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Jun - Dec 1894</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, 1896 - 1902</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, 1930 - 1931</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>Correspondence of Stephen M. Cotter, 1901 - 1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>Correspondence of Jessie DeLand Crary, 1893-1944</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>Correspondence of Charles V. DeLand, 1855-1867</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>Correspondence of Dell Whelan DeLand, 1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>Correspondence of Hooker A. DeLand, Apr 1862</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>Correspondence of James R. DeLand, 1816-1822</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>Correspondence of James S. DeLand, 1864-1866</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>Correspondence of James S. DeLand, 1867-1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gaylord DeLand, n.d.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref25" level="subseries">
+                    <did>
+                        <unittitle>Box 1</unittitle>
+                    </did>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, Apr - Dec 1891</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, 1889-1891.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="item">
+                        <did>
+                            <unittitle>Correspondence from the scrapbook of Gertrude Deland Cotter, "Soliloquy of a Widow." n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter 1949-1955</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter 1947-1948</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref18" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter 1942-1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref17" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter 1929-1941</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude Deland Cotter 1905-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude DeLand Cotter May-Nov 1905</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="item">
+                        <did>
+                            <unittitle>Correspondence: Gertrude DeLand cotter Jan - May 1904</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="item">
+                        <did>
+                            <unittitle>Correspondence of Gertrude DeLand Cotter 1890-1903</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref12" level="item">
+                        <did>
+                            <unittitle>Correspondence of Deland S. Cotter 1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref11" level="item">
+                        <did>
+                            <unittitle>Correspondence of Constance Cotter 1927 - 1978</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="item">
+                        <did>
+                            <unittitle>Correspondence of [Victor F.] Clarke, 28 Nov 1915</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref36" level="subseries">
+                    <did>
+                        <unittitle>Box 3</unittitle>
+                    </did>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>Correspondence of James S. DeLand, 1901-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>Correspondence of James S. DeLand, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>Correspondence of John DeLand, 1868</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>Correspondence of Josephine V. DeLand [later Mrs. Peleg Oatman], 1858-1865</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>Correspondence of Mary Green Keith DeLand [Mrs. William R. DeLand], 1848-1873</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="item">
+                        <did>
+                            <unittitle>Correspondence of Mary Parker DeLand [Mrs. James S. DeLand], 1903</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="item">
+                        <did>
+                            <unittitle>Correspondence of Nettie Ellison DeLand [Mrs. Parker R. DeLand], 1923</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="item">
+                        <did>
+                            <unittitle>Correspondence of Sarah Ann DeLand [Mrs. Thomas J. Kendrick], 1822-1868</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>Correspondence of Semantha Hooker DeLand [Mrs. James R. DeLand], 1852</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>Correspondence of William R. DeLand, 1810-1876</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>Correspondence of William R. DeLand, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>Correspondence-of Dorothy Cotter Salzman, 1927-1983</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>Correspondence of Bessie M. West [DeLand genealogy], 1945-1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>Correspondence, unknown, 1882-1941</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>Correspondence of DeLand family friends, 1815-1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>Correspondence, miscellaneous, 1861</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref71" level="subseries">
+                    <did>
+                        <unittitle>Box 4</unittitle>
+                    </did>
+                    <c03 id="ref62" level="item">
+                        <did>
+                            <unittitle>Diary of Constance DeLand Cotter, 1923-1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1888</unittitle>
+                        </did>
+                        <c04 id="ref77" level="subseries">
+                            <did>
+                                <unittitle>Box 5</unittitle>
+                            </did>
+                            <c05 id="ref78" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1864</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref79" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1865</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref80" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1866-1867</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref81" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1867</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref82" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1869</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref83" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1870</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref84" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1871</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref85" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1872</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref86" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1873</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref87" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1874-1875</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref88" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1875</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref89" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, 1876</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref90" level="item">
+                                <did>
+                                    <unittitle>Diary of William R. DeLand, strays, 1864-73</unittitle>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref64" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1897-1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1898-1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1933</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1941-1942</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1943-1944</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="item">
+                        <did>
+                            <unittitle>Diary of Gertrude DeLand Cotter, 1957-1958</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="item">
+                        <did>
+                            <unittitle>Diary of William R. DeLand, 1860-1861</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="item">
+                        <did>
+                            <unittitle>Diary of William R. DeLand, 1861-1862</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="item">
+                        <did>
+                            <unittitle>Diary of William R. DeLand, 1862</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="item">
+                        <did>
+                            <unittitle>Diary of William R. DeLand, 1863-1864</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref91" level="subseries">
+                    <did>
+                        <unittitle>Box 6</unittitle>
+                    </did>
+                    <c03 id="ref92" level="item">
+                        <did>
+                            <unittitle>Works by Deland, Gertrude DeLand Cotter, 1892</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="item">
+                        <did>
+                            <unittitle>Works by Deland, C. V. DeLand, 1871-1937</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="item">
+                        <did>
+                            <unittitle>Works by Deland, author unknown, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="item">
+                        <did>
+                            <unittitle>Works by Deland, Gertrude DeLand Cotter, 1892-3</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="item">
+                        <did>
+                            <unittitle>Works by Deland, Ruby R. Taylor [later Mrs. Charles Deland], n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="item">
+                        <did>
+                            <unittitle>Activities - Interests, 1864-1957</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="item">
+                        <did>
+                            <unittitle>Activities - Interests, 1900-1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="item">
+                        <did>
+                            <unittitle>Activities - Education, c. 1866</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="item">
+                        <did>
+                            <unittitle>Business and Financial, Bentley DeLand, C.V. DeLand, and DeLand S. Cotter, 1862-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="item">
+                        <did>
+                            <unittitle>Business and Financial, Gertrude DeLand Cotter, 1905-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="item">
+                        <did>
+                            <unittitle>Business and Financial, Gertrude DeLand Cotter, 1930-1952</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="item">
+                        <did>
+                            <unittitle>Business and Financial, Stephen M. Cotter and C. V. DeLand, 1857-1930</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="subseries">
+                    <did>
+                        <unittitle>Box 7</unittitle>
+                    </did>
+                    <c03 id="ref105" level="item">
+                        <did>
+                            <unittitle>Business and Financial, James S. DeLand, 1854-1913</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="item">
+                        <did>
+                            <unittitle>Business and Financial, William R. DeLand, 1830-1845</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="item">
+                        <did>
+                            <unittitle>Business and Financial, William R. DeLand and Dorothy Cotter Salzman, 1845-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="item">
+                        <did>
+                            <unittitle>Business and Financial, DeLand Family Friends, 1913-1947</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="item">
+                        <did>
+                            <unittitle>Account Books of Gertrude DeLand Cotter, 1877-1890</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="item">
+                        <did>
+                            <unittitle>Account Books of James S.DeLand, 1858-1859</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="item">
+                        <did>
+                            <unittitle>Notes on social and school activities, Gertrude DeLand Cotter, 1861-1864</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>Account Books of James S.DeLand, 1861-1862</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>Account Books of James S.DeLand, 1876-1877</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref114" level="subseries">
+                    <did>
+                        <unittitle>Box 8</unittitle>
+                    </did>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>Account Books of William R. DeLand, 1833-1846</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="item">
+                        <did>
+                            <unittitle>Account Books of William R. DeLand, 1855-1856</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="item">
+                        <did>
+                            <unittitle>History of Jackson, Michigan. Early records, 1837-1873</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="item">
+                        <did>
+                            <unittitle>History of Jackson, Michigan.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="item">
+                        <did>
+                            <unittitle>Newspaper clippings 1867-1937</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="item">
+                        <did>
+                            <unittitle>History of Jackson, Michigan. Newspaper clippings, c. 1943-1954</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="item">
+                        <did>
+                            <unittitle>History of Jackson, Michigan. Magazines and programs, 1928-1940</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="item">
+                        <did>
+                            <unittitle>History of Jackson, Michigan. Farmers club, 1888-1937</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="item">
+                        <did>
+                            <unittitle>Jackson, Michigan. DeLand Newspapers, 1858-1905</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="item">
+                        <did>
+                            <unittitle>Jackson, Michigan. DeLand Newspapers, 1849</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="item">
+                        <did>
+                            <unittitle>Jackson, Michigan. DeLand Newspapers, n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>Jackson, Michigan. DeLand Newspapers, 1905-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="item">
+                        <did>
+                            <unittitle>Genealogy - Clarke Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="item">
+                        <did>
+                            <unittitle>Genealogy - Cotter Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="item">
+                        <did>
+                            <unittitle>Genealogy - Crary Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="item">
+                        <did>
+                            <unittitle>Genealogy - Dailey Family</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref131" level="subseries">
+                    <did>
+                        <unittitle>BOX 9</unittitle>
+                    </did>
+                    <c03 id="ref132" level="item">
+                        <did>
+                            <unittitle>Genealogy - DeLand Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="item">
+                        <did>
+                            <unittitle>Genealogy - DeLand Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="item">
+                        <did>
+                            <unittitle>Genealogy - DeLand Family Coat of Arms</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="item">
+                        <did>
+                            <unittitle>Genealogy - DeLand Family - Visitors Register for Gertrude DeLand Cotter's funeral, 1 Apr 1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="item">
+                        <did>
+                            <unittitle>Genealogy - Gourley Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="item">
+                        <did>
+                            <unittitle>Genealogy - Hooker Green to Salzman Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="item">
+                        <did>
+                            <unittitle>Genealogy - Genealogical charts, DeLand and related families</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="item">
+                        <did>
+                            <unittitle>Photographs, unidentified</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="item">
+                        <did>
+                            <unittitle>Photographs, unidentified</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, newspaper. Penny Clarke, Gertrude D. Cotter, James S. DeLand.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Barridge - Beach</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Blair - Blake</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Blake - Browning</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Buckley - Burridge</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Burroughs - Burton</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Cass - Clark</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, B. Cotter - D. Cotter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, DeLand Cotter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Mr. &amp; Mrs. DeLand Cotter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Gertrude DeLand Cotter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, M. Cotter - S. Cotter</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref153" level="subseries">
+                    <did>
+                        <unittitle>BOX 10</unittitle>
+                    </did>
+                    <c03 id="ref154" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Charles Crary - Paul Crary</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Dailey - DeLand</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Mary E. DeLand - Mary G. DeLand</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, P. DeLand - W. DeLand</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Deusen - Donovan</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Elder - Laughin</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Luce - Newell</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Josephine DeLand Oatman</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="item">
+                        <did>
+                            <unittitle>Identified Photographs,</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, O-tash-gua-ban-o - Parker</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Pipper - Rockwell</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Salzman - G. Smith</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Lucy DeLand Smith - Chas. B. Ulrich</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Gus VanCleur - Rose R. Willer</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="item">
+                        <did>
+                            <unittitle>Identified Photographs, Wilmorth - Wolf</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref169" level="subseries">
+                    <did>
+                        <unittitle>BOX 11</unittitle>
+                    </did>
+                    <c03 id="ref170" level="item">
+                        <did>
+                            <unittitle>Identified Photographs of places and things. Burridge, Cotter home; White Sewing Co.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="item">
+                        <did>
+                            <unittitle>Identified Photographs of places and things. James S. DeLand carriage, DeLand homesteads</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="item">
+                        <did>
+                            <unittitle>Identified Photographs of places and things. Dailey citizen office, Jackson, MI</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="item">
+                        <did>
+                            <unittitle>Photographs, unidentified.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref174" level="subseries">
+                    <did>
+                        <unittitle>Box 12: Photographs, Album #1 and #2</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref175" level="subseries">
+                    <did>
+                        <unittitle>Box 13: Photographs, Album #2 and #3</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref176" level="subseries">
+                    <did>
+                        <unittitle>Box 14</unittitle>
+                    </did>
+                    <c03 id="ref177" level="item">
+                        <did>
+                            <unittitle>Photographs, Album #3 and #4</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="item">
+                        <did>
+                            <unittitle>First Michigan Sharpshooters. Newspaper Clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="item">
+                        <did>
+                            <unittitle>First Michigan Sharpshooters. Notes, clippings, reunion ribbons.</unittitle>
+                        </did>
+                        <c04 id="ref183" level="subseries">
+                            <did>
+                                <unittitle>Box 15</unittitle>
+                            </did>
+                            <c05 id="ref184" level="item">
+                                <did>
+                                    <unittitle>Scrapbook -Bessie West's Washington trip. [1926]</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref185" level="item">
+                                <did>
+                                    <unittitle>Scrapbook -Bessie West's West Indies trip. [1926]</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref186" level="item">
+                                <did>
+                                    <unittitle>Scrapbook -Bessie West's New England trip. [1926]</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref187" level="item">
+                                <did>
+                                    <unittitle>Thomas Carlyle -Interview, 1872.</unittitle>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref180" level="item">
+                        <did>
+                            <unittitle>Charles G. Conn. Member First Michigan Sharpshooters</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="item">
+                        <did>
+                            <unittitle>William R. DeLand - Taxes- North Brookfield, Mass., 1852</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="item">
+                        <did>
+                            <unittitle>List of Scholars - Wysox School. Wysox Penn., 1819.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref188" level="subseries">
+                    <did>
+                        <unittitle>Box 16</unittitle>
+                    </did>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>Travel Diary -Bessie West's England trip. [1929]</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="item">
+                        <did>
+                            <unittitle>Travel Diary -Bessie West's Plymouth, Mass. trip.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="item">
+                        <did>
+                            <unittitle>Pocket Bible - Civil War era - James S. DeLand.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="item">
+                        <did>
+                            <unittitle>Scrapbook -DeLand Family. [c.1859 - c.1873].</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref193" level="subseries">
+                    <did>
+                        <unittitle>Bible - James S. Deland</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref194" level="subseries">
+                    <did>
+                        <unittitle>Bible - Hazard Family</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref195" level="subseries">
+                    <did>
+                        <unittitle>Folder I (1830-1922)</unittitle>
+                    </did>
+                    <c03 id="ref196" level="item">
+                        <did>
+                            <unittitle>Certificate of Appointment: William R. DeLand as Justice of the Peace by Lewis Cass. 1830</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="item">
+                        <did>
+                            <unittitle>Certificate of Appointment: William R. DeLand as Notary Public by William Woodbridge. 1840</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="item">
+                        <did>
+                            <unittitle>Seating Chart -Michigan House of Representatives, C. V. DeLand clerk. 1859</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="item">
+                        <did>
+                            <unittitle>Lithograph -Camp Douglas -Prisoner of War facility Chicago, Illinois. Commanding Camp -Col. C. V. DeLand. 1864</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="item">
+                        <did>
+                            <unittitle>Certificate of Appointment: James S. DeLand, rank of Major Brevet by Pres. Andrew Johnson. 1866</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="item">
+                        <did>
+                            <unittitle>Diplomas -Detroit Central High School. Constance and Dorothy DeLand Cotter. 1922</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref202" level="subseries">
+                    <did>
+                        <unittitle>Folder II (1913 - 1928) Photographs</unittitle>
+                    </did>
+                    <c03 id="ref203" level="item">
+                        <did>
+                            <unittitle>Charles Conn. 1913</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="item">
+                        <did>
+                            <unittitle>Detroit Central High School -Graduation. 1922</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="item">
+                        <did>
+                            <unittitle>Reunion Dinner -25th, USS Yosemite Crew. 1923</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="item">
+                        <did>
+                            <unittitle>Mt. Vernon, VA -Constance &amp; Gertrude Cotter. 1928</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref207" level="subseries">
+                    <did>
+                        <unittitle>Folder III</unittitle>
+                    </did>
+                    <c03 id="ref208" level="item">
+                        <did>
+                            <unittitle>Genealogy -Family Tree. DeLand Family</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref209" level="item">
+                        <did>
+                            <unittitle>Newspaper -Death of Pres. Lincoln -Front page of Detroit Advertiser and Tribune, 15 Apr 1865</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref513" level="series">
+                <did>
+                    <unittitle>Index: Civil War and Spanish-American War Era Photos</unittitle>
+                </did>
+                <c02 id="ref515" level="item">
+                    <did>
+                        <unittitle>9-14a Andersonville Prison</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref516" level="item">
+                    <did>
+                        <unittitle>12-20a Andress, Capt. Edwin</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref517" level="item">
+                    <did>
+                        <unittitle>13-3e Babbitt, Capt.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref518" level="item">
+                    <did>
+                        <unittitle>9-14a Buckley, George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref519" level="item">
+                    <did>
+                        <unittitle>12-18e Burnside, Gen. A. E.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref520" level="item">
+                    <did>
+                        <unittitle>12-14d Cadet</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref521" level="item">
+                    <did>
+                        <unittitle>13-6e Chamberlain, Miss. [Nurse].</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref522" level="item">
+                    <did>
+                        <unittitle>13-10b Conn, Charles G. 2nd Lt.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref523" level="item">
+                    <did>
+                        <unittitle>13-la DeLand, Carleton</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref524" level="item">
+                    <did>
+                        <unittitle>10-2d DeLand, Capt. Charles Victor</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref525" level="item">
+                    <did>
+                        <unittitle>10-2c DeLand, Col. Charles Victor</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref526" level="item">
+                    <did>
+                        <unittitle>10-3b DeLand, [Capt?] James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref527" level="item">
+                    <did>
+                        <unittitle>13-6d DeLand, Capt James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref528" level="item">
+                    <did>
+                        <unittitle>13-10b DeLand, [Sergeant Major?] James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref529" level="item">
+                    <did>
+                        <unittitle>12-17c Muscian. Lt. with coronet</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref530" level="item">
+                    <did>
+                        <unittitle>10-9a O-task-qua-ban-o, Leon</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref531" level="item">
+                    <did>
+                        <unittitle>13-14a Pierson, Ed</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref532" level="item">
+                    <did>
+                        <unittitle>10-10a Piper, Maj. John</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref533" level="item">
+                    <did>
+                        <unittitle>14-30 Reunion -Civil War Veterans</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref534" level="item">
+                    <did>
+                        <unittitle>11-5f Sailor, flat hat.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref535" level="item">
+                    <did>
+                        <unittitle>10-11d Skinner, Lt. Prescott M.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref536" level="item">
+                    <did>
+                        <unittitle>12-20e Smith, Maj. DeWitt C.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref537" level="item">
+                    <did>
+                        <unittitle>10-12d Sweet, Brig. Gen. B. J.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref538" level="item">
+                    <did>
+                        <unittitle>13-4a Taylor, Capt.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref539" level="item">
+                    <did>
+                        <unittitle>10-13b Vreeland, Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref540" level="item">
+                    <did>
+                        <unittitle>12-21e [unknown. perhaps in uniform]</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref210" level="series">
+                <did>
+                    <unittitle>Index: General Photos</unittitle>
+                </did>
+                <c02 id="ref211" level="item">
+                    <did>
+                        <unittitle>12-20 Andress, Capt Edwin V.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="item">
+                    <did>
+                        <unittitle>13-3 Babbitt, Capt.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="item">
+                    <did>
+                        <unittitle>13-3 Babbitt, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref214" level="item">
+                    <did>
+                        <unittitle>13-11 Baker, Fanny</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="item">
+                    <did>
+                        <unittitle>10-11 Bailey, Grace Stone</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="item">
+                    <did>
+                        <unittitle>14-2 Ball, James</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref217" level="item">
+                    <did>
+                        <unittitle>9-11 Beach, [ ? ]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="item">
+                    <did>
+                        <unittitle>13-11 Beebe, John E.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref219" level="item">
+                    <did>
+                        <unittitle>14-3 Bingham, Florence</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref220" level="item">
+                    <did>
+                        <unittitle>13-11 Blackman, Clara</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref221" level="item">
+                    <did>
+                        <unittitle>13-13 Blackman, Frank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref222" level="item">
+                    <did>
+                        <unittitle>13-13 Blackman, Horace</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="item">
+                    <did>
+                        <unittitle>13-4 Blackman, Horace [children]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="item">
+                    <did>
+                        <unittitle>12-19 Blackman, Mrs. Horace</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref225" level="item">
+                    <did>
+                        <unittitle>13-10 Blackman, Lyman</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref226" level="item">
+                    <did>
+                        <unittitle>9-12 Blair, Mrs. Ida</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref227" level="item">
+                    <did>
+                        <unittitle>14-3 Blake, Katherine</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref228" level="item">
+                    <did>
+                        <unittitle>12-17 Blake, Mr. W. H</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref229" level="item">
+                    <did>
+                        <unittitle>12-17 Blake, Mrs. W. H.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref230" level="item">
+                    <did>
+                        <unittitle>9-12 Blake, A. J.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref231" level="item">
+                    <did>
+                        <unittitle>9-13 Blake, Anna A.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref232" level="item">
+                    <did>
+                        <unittitle>11-3 Blue Bath, Minn.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref233" level="item">
+                    <did>
+                        <unittitle>14-7 Beckwith, Dr.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref234" level="item">
+                    <did>
+                        <unittitle>12-17 Beman, Martin</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref235" level="item">
+                    <did>
+                        <unittitle>14-2 Brophy, Stephen W.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref236" level="item">
+                    <did>
+                        <unittitle>9-13 Browning, Mr. and Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref237" level="item">
+                    <did>
+                        <unittitle>9-14 Buckley, George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref238" level="item">
+                    <did>
+                        <unittitle>12-18 Burnside, General A. E.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref239" level="item">
+                    <did>
+                        <unittitle>9-11 Burridge, Charles W.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref240" level="item">
+                    <did>
+                        <unittitle>11-1 Burridge, Charles W. [Home]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref241" level="item">
+                    <did>
+                        <unittitle>9-15 Burroughs, Hattie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref242" level="item">
+                    <did>
+                        <unittitle>9-15 Burton, Mr. &amp; Mrs. Mary Cotter</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref243" level="item">
+                    <did>
+                        <unittitle>14-8 Cady, G. V. Lloyd</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="item">
+                    <did>
+                        <unittitle>12-21 Caidwater, Miss Dutton Smith</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="item">
+                    <did>
+                        <unittitle>13-10 Carmen, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="item">
+                    <did>
+                        <unittitle>12-17 Caroing, Jannice</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref247" level="item">
+                    <did>
+                        <unittitle>14-12 Case, Eva</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref248" level="item">
+                    <did>
+                        <unittitle>13-7 Case, Levan</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref249" level="item">
+                    <did>
+                        <unittitle>14-3 Case, Elizabeth</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref250" level="item">
+                    <did>
+                        <unittitle>9-16 Case, Elizabeth "Bess"</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref251" level="item">
+                    <did>
+                        <unittitle>14-13 Case, [Elizabeth?] "Bess"</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref252" level="item">
+                    <did>
+                        <unittitle>13-6 Chamberlain, Miss</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref253" level="item">
+                    <did>
+                        <unittitle>12-17 Chancy. New Kirk Dante</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref254" level="item">
+                    <did>
+                        <unittitle>13-10 Chapman, George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref255" level="item">
+                    <did>
+                        <unittitle>13-15 Chapman, Julie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref256" level="item">
+                    <did>
+                        <unittitle>14-13 Charles, Mary</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref257" level="item">
+                    <did>
+                        <unittitle>12-20 Clarke, Del DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref258" level="item">
+                    <did>
+                        <unittitle>13-3 Clarke, Del DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref259" level="item">
+                    <did>
+                        <unittitle>9-16 Clark, Lizzie A.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref260" level="item">
+                    <did>
+                        <unittitle>14-11 Clayton, Mary</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref261" level="item">
+                    <did>
+                        <unittitle>13-10 Conn, Charles G.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref262" level="item">
+                    <did>
+                        <unittitle>14-14 Correl, Edith</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref263" level="item">
+                    <did>
+                        <unittitle>11-1 Cotter Home [Detroit]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref264" level="item">
+                    <did>
+                        <unittitle>9-17 Cotter, Billie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref265" level="item">
+                    <did>
+                        <unittitle>14-6 Cotter, Constance DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref266" level="item">
+                    <did>
+                        <unittitle>9-17 Cotter, DeLand Stephen</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref267" level="item">
+                    <did>
+                        <unittitle>9-18 Cotter, DeLand Stephen</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref268" level="item">
+                    <did>
+                        <unittitle>14-6 Cotter, Dorothy</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref269" level="item">
+                    <did>
+                        <unittitle>9-20 Cotter, Gertrude DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref270" level="item">
+                    <did>
+                        <unittitle>13-12 Cotter, Gertrude DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref271" level="item">
+                    <did>
+                        <unittitle>14-6 Cotter, Gertrude DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref272" level="item">
+                    <did>
+                        <unittitle>14-3 Cotter, Gertrude DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref273" level="item">
+                    <did>
+                        <unittitle>9-21 Cotter, Michael</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref274" level="item">
+                    <did>
+                        <unittitle>14-3 Cotter, Nell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref275" level="item">
+                    <did>
+                        <unittitle>14-6 Cotter, Stephen M.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref276" level="item">
+                    <did>
+                        <unittitle>11-1 Cotter, Stephen Michael [Office]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref277" level="item">
+                    <did>
+                        <unittitle>11-10 [Cotter, Stephen Michael] [Office]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref278" level="item">
+                    <did>
+                        <unittitle>11-7 [Cotter, Stephen] Mike [Office gang)</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref279" level="item">
+                    <did>
+                        <unittitle>14-5 Cotter, Stephen Michael</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref280" level="item">
+                    <did>
+                        <unittitle>9-21 Cotter, Stephen Michael</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref281" level="item">
+                    <did>
+                        <unittitle>9-19 Cotter, Mr. &amp; Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref282" level="item">
+                    <did>
+                        <unittitle>14-3 Cotter, Mrs. Stephen Michael</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref283" level="item">
+                    <did>
+                        <unittitle>10-1 Crary, Charles</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref284" level="item">
+                    <did>
+                        <unittitle>14-5 Crary, DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref285" level="item">
+                    <did>
+                        <unittitle>10-1 Crary, Jessie DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref286" level="item">
+                    <did>
+                        <unittitle>12-18 Crary, Jessie DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref287" level="item">
+                    <did>
+                        <unittitle>14-5 Crary, Jessie DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref288" level="item">
+                    <did>
+                        <unittitle>10-1 Crary, Margaret</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref289" level="item">
+                    <did>
+                        <unittitle>10-1 Crary, Margaret</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref290" level="item">
+                    <did>
+                        <unittitle>14-5 Crary, Margaret</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref291" level="item">
+                    <did>
+                        <unittitle>10-1 Crary, Paul</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref292" level="item">
+                    <did>
+                        <unittitle>14-5 Crary, Paul</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref293" level="item">
+                    <did>
+                        <unittitle>14-5 Crary, Robert</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref294" level="item">
+                    <did>
+                        <unittitle>11-2 Cygnet Sailboat, L. Yacht Club</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref295" level="item">
+                    <did>
+                        <unittitle>10-2 Dailey, Elizabeth D.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref296" level="item">
+                    <did>
+                        <unittitle>14-11 Davison, Florence</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref297" level="item">
+                    <did>
+                        <unittitle>14-9 Davidson, William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref298" level="item">
+                    <did>
+                        <unittitle>11-2 DeLand Homestead [Mass.]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref299" level="item">
+                    <did>
+                        <unittitle>13-8 DeLand, [unknown]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref300" level="item">
+                    <did>
+                        <unittitle>14-7 DeLand, Mr. &amp; Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref301" level="item">
+                    <did>
+                        <unittitle>13-6 DeLand, Alice McCann</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref302" level="item">
+                    <did>
+                        <unittitle>10-2 DeLand, C. M.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref303" level="item">
+                    <did>
+                        <unittitle>13-1 DeLand, Carleton</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref304" level="item">
+                    <did>
+                        <unittitle>10-2 DeLand, Capt. Charles Victor</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref305" level="item">
+                    <did>
+                        <unittitle>10-2 DeLand, Col. Charles Victor</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref306" level="item">
+                    <did>
+                        <unittitle>12-20 DeLand, Mrs. Charles Victor</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref307" level="item">
+                    <did>
+                        <unittitle>10-2 DeLand, Cora</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref308" level="item">
+                    <did>
+                        <unittitle>13-9 DeLand, Donna</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref309" level="item">
+                    <did>
+                        <unittitle>13-8 DeLand, F. N.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref310" level="item">
+                    <did>
+                        <unittitle>13-9 DeLand, Frank O.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref311" level="item">
+                    <did>
+                        <unittitle>14-13 Deland, Gertrude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref312" level="item">
+                    <did>
+                        <unittitle>14-14 DeLand, Gertrude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref313" level="item">
+                    <did>
+                        <unittitle>14-14 DeLand, Gertrude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref314" level="item">
+                    <did>
+                        <unittitle>14-16 DeLand, Gertrude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref315" level="item">
+                    <did>
+                        <unittitle>12-21 DeLand, Mr. Hooker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref316" level="item">
+                    <did>
+                        <unittitle>12-21 DeLand, Mrs. Hooker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref317" level="item">
+                    <did>
+                        <unittitle>10-2 DeLand, Howard</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref318" level="item">
+                    <did>
+                        <unittitle>10-3 DeLand, James</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref319" level="item">
+                    <did>
+                        <unittitle>11-2 DeLand, James S. [carriage]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref320" level="item">
+                    <did>
+                        <unittitle>13-6 DeLand, James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref321" level="item">
+                    <did>
+                        <unittitle>13-10 DeLand, James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref322" level="item">
+                    <did>
+                        <unittitle>14-4 DeLand, James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref323" level="item">
+                    <did>
+                        <unittitle>14-6 DeLand, James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref324" level="item">
+                    <did>
+                        <unittitle>10-9 DeLand, Mrs. James S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref325" level="item">
+                    <did>
+                        <unittitle>10-3 DeLand, James S. [III?}</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref326" level="item">
+                    <did>
+                        <unittitle>13-8 DeLand, Lucy</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref327" level="item">
+                    <did>
+                        <unittitle>10-3 DeLand, Mary G. K.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref328" level="item">
+                    <did>
+                        <unittitle>14-14 DeLand, P. R.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref329" level="item">
+                    <did>
+                        <unittitle>14-15 DeLand, P. R.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref330" level="item">
+                    <did>
+                        <unittitle>14-16 DeLand, P. R.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref331" level="item">
+                    <did>
+                        <unittitle>10-4 DeLand, Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref332" level="item">
+                    <did>
+                        <unittitle>13-5 DeLand, Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref333" level="item">
+                    <did>
+                        <unittitle>13-13 DeLand, Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref334" level="item">
+                    <did>
+                        <unittitle>14-6 DeLand, Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref335" level="item">
+                    <did>
+                        <unittitle>10-4 DeLand, Mr. &amp; Mrs. Parker R.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref336" level="item">
+                    <did>
+                        <unittitle>13-8 DeLand, Perry</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref403" level="item">
+                    <did>
+                        <unittitle>14-15 [Deland?], Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref404" level="item">
+                    <did>
+                        <unittitle>10-4 DeLand, Wayne</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref405" level="item">
+                    <did>
+                        <unittitle>10-4 DeLand, William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref406" level="item">
+                    <did>
+                        <unittitle>13-7 DeLand, William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref407" level="item">
+                    <did>
+                        <unittitle>11-2 DeLand, William R. [Home]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref408" level="item">
+                    <did>
+                        <unittitle>10-3 DeLand, Mrs. William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref409" level="item">
+                    <did>
+                        <unittitle>13-7 DeLand, Mrs. William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref410" level="item">
+                    <did>
+                        <unittitle>13-16 DeLand, Mrs. William [friend]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref411" level="item">
+                    <did>
+                        <unittitle>12-17 Dell, Otis</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref412" level="item">
+                    <did>
+                        <unittitle>10-5 Deusen, Kettie van</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref413" level="item">
+                    <did>
+                        <unittitle>10-5 Diane, Dora</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref414" level="item">
+                    <did>
+                        <unittitle>14-9 Dixon, Calvin</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref415" level="item">
+                    <did>
+                        <unittitle>14-4 Donovan, Alliee</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref337" level="item">
+                    <did>
+                        <unittitle>10-5 Donovan, Homer</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref338" level="item">
+                    <did>
+                        <unittitle>14-4 Donovan, Homer</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref339" level="item">
+                    <did>
+                        <unittitle>10-5 Donovan, Mabel</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref340" level="item">
+                    <did>
+                        <unittitle>10-5 Donovan, Sarah Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref341" level="item">
+                    <did>
+                        <unittitle>10-5 Donovan, William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref342" level="item">
+                    <did>
+                        <unittitle>13-14 Dwight, Mrs. David</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref343" level="item">
+                    <did>
+                        <unittitle>13-11 Eberhart, Hattie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref344" level="item">
+                    <did>
+                        <unittitle>10-6 Elder, Bammie S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref345" level="item">
+                    <did>
+                        <unittitle>14-9 Elliott, Grace</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref346" level="item">
+                    <did>
+                        <unittitle>14-13 Ellison, Nettie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref347" level="item">
+                    <did>
+                        <unittitle>13-4 Ferguson, Mrs. George [son]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref348" level="item">
+                    <did>
+                        <unittitle>13-5 Ferguson, Mrs. George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref349" level="item">
+                    <did>
+                        <unittitle>12-19 Foster, Rev.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref350" level="item">
+                    <did>
+                        <unittitle>13-15 Fuller, Mr. Jacob D.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref351" level="item">
+                    <did>
+                        <unittitle>13-15 Fuller, Mrs. Eveline M.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref352" level="item">
+                    <did>
+                        <unittitle>13-16 Gillespie, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref353" level="item">
+                    <did>
+                        <unittitle>14-9 Gum, Milo D.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref354" level="item">
+                    <did>
+                        <unittitle>14-13 Hawley, Julia</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref355" level="item">
+                    <did>
+                        <unittitle>14-4 Heath, [ ? }</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref356" level="item">
+                    <did>
+                        <unittitle>10-6 Henypie, Matilda</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref357" level="item">
+                    <did>
+                        <unittitle>13-14 Higgins, John</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref358" level="item">
+                    <did>
+                        <unittitle>10-6 Higley, Emma</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref359" level="item">
+                    <did>
+                        <unittitle>13-2 Holland, Mr. James</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref360" level="item">
+                    <did>
+                        <unittitle>13-2 Holland, Mrs. James</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref361" level="item">
+                    <did>
+                        <unittitle>13-2 Holland, Nellie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref362" level="item">
+                    <did>
+                        <unittitle>14-11 Hudson, Belle</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref363" level="item">
+                    <did>
+                        <unittitle>10-6 Hudson, Dr. Lance</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref364" level="item">
+                    <did>
+                        <unittitle>10-6 Hume, Margaret</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref365" level="item">
+                    <did>
+                        <unittitle>14-2 James, [ ? ]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref366" level="item">
+                    <did>
+                        <unittitle>13-1 John, Mrs. Little</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref367" level="item">
+                    <did>
+                        <unittitle>10-6 Jones, Myrtle</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref368" level="item">
+                    <did>
+                        <unittitle>13-15 Kingman, Helen</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref369" level="item">
+                    <did>
+                        <unittitle>13-1 Kingman, Mary</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref370" level="item">
+                    <did>
+                        <unittitle>10-6 Knapp, Molly DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref371" level="item">
+                    <did>
+                        <unittitle>13-3 Latimer, Mr. George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref372" level="item">
+                    <did>
+                        <unittitle>13-3 Latimer, Mrs. George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref373" level="item">
+                    <did>
+                        <unittitle>10-6 Laughlin, Russell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref374" level="item">
+                    <did>
+                        <unittitle>14-12 Lewis, Carrie Swartout</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref375" level="item">
+                    <did>
+                        <unittitle>14-12 Lewis, Dick</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref376" level="item">
+                    <did>
+                        <unittitle>14-10 Lewis, Mae</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref377" level="item">
+                    <did>
+                        <unittitle>14-15 Linsey, Agnes</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref378" level="item">
+                    <did>
+                        <unittitle>13-9 Loff, John W. B.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref379" level="item">
+                    <did>
+                        <unittitle>11-2 Long Lake</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref380" level="item">
+                    <did>
+                        <unittitle>11-6 [Long Lake]?</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref381" level="item">
+                    <did>
+                        <unittitle>11-6 [Long Lake Yacht Club]?</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref382" level="item">
+                    <did>
+                        <unittitle>11-2 [Long]? Lake Yacht Club.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref383" level="item">
+                    <did>
+                        <unittitle>14-12 Long, Eva Case</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref384" level="item">
+                    <did>
+                        <unittitle>13-16 Lowell, Sarah</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref385" level="item">
+                    <did>
+                        <unittitle>10-7 Luce, Gov. Cyrus G.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref386" level="item">
+                    <did>
+                        <unittitle>13-12 Luff, Jim [daughter]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref387" level="item">
+                    <did>
+                        <unittitle>13-12 Luff, Jim [son]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref388" level="item">
+                    <did>
+                        <unittitle>13-5 McCann, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref389" level="item">
+                    <did>
+                        <unittitle>10-7 McClory, Kate</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref390" level="item">
+                    <did>
+                        <unittitle>12-18 McComb, Auntie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref391" level="item">
+                    <did>
+                        <unittitle>10-7 McKnight, Maude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref392" level="item">
+                    <did>
+                        <unittitle>14-4 McIntyre, [ ? ]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref393" level="item">
+                    <did>
+                        <unittitle>12-18 Mahan, Rev. Asa</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref394" level="item">
+                    <did>
+                        <unittitle>12-18 Mahan, Mrs. Asa</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref395" level="item">
+                    <did>
+                        <unittitle>14-11 Merriman, Mimie Blair</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref396" level="item">
+                    <did>
+                        <unittitle>13-8 Miller, R. B.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref397" level="item">
+                    <did>
+                        <unittitle>10-6 Moon, Mimmie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref398" level="item">
+                    <did>
+                        <unittitle>14-3 Monahan, Miss</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref399" level="item">
+                    <did>
+                        <unittitle>12-19 Monteith, Rev. John</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref400" level="item">
+                    <did>
+                        <unittitle>12-19 Monteith, Mrs. John</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref401" level="item">
+                    <did>
+                        <unittitle>13-4 Moulton, Mr. &amp; Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref402" level="item">
+                    <did>
+                        <unittitle>13-5 Moulton, Carrie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref416" level="item">
+                    <did>
+                        <unittitle>13-6 Moulton, Norm</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref417" level="item">
+                    <did>
+                        <unittitle>13-6 Moulton, Mrs. Norm</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref418" level="item">
+                    <did>
+                        <unittitle>10-6 Myers, Marie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref419" level="item">
+                    <did>
+                        <unittitle>10-6 Muffet, William</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref420" level="item">
+                    <did>
+                        <unittitle>14-8 Noyes, C. E.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref421" level="item">
+                    <did>
+                        <unittitle>10-7 Newell, Frannie Cobb</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref422" level="item">
+                    <did>
+                        <unittitle>11-3 Newspaper Office -Daily Citizen, Jackson, MI</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref423" level="item">
+                    <did>
+                        <unittitle>10-7 Oatman, Josephine DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref424" level="item">
+                    <did>
+                        <unittitle>13-7 O'Donnell, James [Congressman]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref425" level="item">
+                    <did>
+                        <unittitle>13-7 O'Donnell, Maggie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref426" level="item">
+                    <did>
+                        <unittitle>10-8 Oatman, Josephine DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref427" level="item">
+                    <did>
+                        <unittitle>13-1 Oatman, Josephine DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref428" level="item">
+                    <did>
+                        <unittitle>10-9a O-tash-gua-ban-o, Leon</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref429" level="item">
+                    <did>
+                        <unittitle>10-9 Parker, Charles</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref430" level="item">
+                    <did>
+                        <unittitle>10-9 Parker, Dr. Frank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref431" level="item">
+                    <did>
+                        <unittitle>13-4 Parker, Dr. Frank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref432" level="item">
+                    <did>
+                        <unittitle>10-9 Parker, Hanna D.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref433" level="item">
+                    <did>
+                        <unittitle>14-9 Parker, James H.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref434" level="item">
+                    <did>
+                        <unittitle>10-9 Parker, Nell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref435" level="item">
+                    <did>
+                        <unittitle>13-13 Pembroke, Mr. D. S.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref436" level="item">
+                    <did>
+                        <unittitle>13-13 Pembroke, Mrs. Kit</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref437" level="item">
+                    <did>
+                        <unittitle>13-14 Pierson, Ed</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref438" level="item">
+                    <did>
+                        <unittitle>10-10 Piper, Maj. John</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref439" level="item">
+                    <did>
+                        <unittitle>13-16 Rawson, Jennie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref440" level="item">
+                    <did>
+                        <unittitle>14-12 Ray, Allie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref441" level="item">
+                    <did>
+                        <unittitle>14-13 Ray, Charles</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref442" level="item">
+                    <did>
+                        <unittitle>14-13 [Ray?], Emma</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref443" level="item">
+                    <did>
+                        <unittitle>14-11 Richardson, Clara Russell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref444" level="item">
+                    <did>
+                        <unittitle>10-10 Rixford, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref445" level="item">
+                    <did>
+                        <unittitle>10-10 Roath, Eva</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref446" level="item">
+                    <did>
+                        <unittitle>13-9 Rockwell, E.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref447" level="item">
+                    <did>
+                        <unittitle>10-10 Rockwell, Mrs. Edward</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref448" level="item">
+                    <did>
+                        <unittitle>13-9 Rockwell, Mrs. E[dward]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref449" level="item">
+                    <did>
+                        <unittitle>14-4 Rockwell, E. W.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref450" level="item">
+                    <did>
+                        <unittitle>13-12 Rockwell, Lydia</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref451" level="item">
+                    <did>
+                        <unittitle>10-10 Rockwell, Dora Parker</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref452" level="item">
+                    <did>
+                        <unittitle>10-10 Rockwell, Nell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref453" level="item">
+                    <did>
+                        <unittitle>10-10 Rockwell, Semantha DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref454" level="item">
+                    <did>
+                        <unittitle>13-1 Rockwell, Semantha DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref455" level="item">
+                    <did>
+                        <unittitle>13-12 Rockwell, Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref456" level="item">
+                    <did>
+                        <unittitle>13-12 Rockwell, Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref457" level="item">
+                    <did>
+                        <unittitle>14-11 Russell, Clara A.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref458" level="item">
+                    <did>
+                        <unittitle>12-20 Russel, Cora DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref459" level="item">
+                    <did>
+                        <unittitle>13-3 Russell, Cora DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref460" level="item">
+                    <did>
+                        <unittitle>14-4 Russell, Cora DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref461" level="item">
+                    <did>
+                        <unittitle>14-3 Salzman, Constance</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref462" level="item">
+                    <did>
+                        <unittitle>10-11 Salzman, Dorothy DeLand Cotter</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref463" level="item">
+                    <did>
+                        <unittitle>14-6 Salzman, Dorothy DeLand Cotter</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref464" level="item">
+                    <did>
+                        <unittitle>14-5 Savigne, Agnes</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref465" level="item">
+                    <did>
+                        <unittitle>14-5 Savigne, [ ? ]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref466" level="item">
+                    <did>
+                        <unittitle>10-11 Schaffer, Gertrude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref467" level="item">
+                    <did>
+                        <unittitle>12-21 Second, Harmonie DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref468" level="item">
+                    <did>
+                        <unittitle>10-11 Sharp, Mrs. Howard</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref469" level="item">
+                    <did>
+                        <unittitle>10-11 Skinner, Prescott M.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref470" level="item">
+                    <did>
+                        <unittitle>12-20 Smith, Major DeWitt C.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref471" level="item">
+                    <did>
+                        <unittitle>10-11 Smith, Grace</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref472" level="item">
+                    <did>
+                        <unittitle>10-11 Smith, Frances Julia</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref473" level="item">
+                    <did>
+                        <unittitle>13-2 Smith, Frank</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref474" level="item">
+                    <did>
+                        <unittitle>10-12 Smith, Lucy DeLand</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref475" level="item">
+                    <did>
+                        <unittitle>10-12 Smith, Maude</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref476" level="item">
+                    <did>
+                        <unittitle>14-13 Smith, Worline</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref477" level="item">
+                    <did>
+                        <unittitle>11-8 Steamboat-Paddlewheel</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref478" level="item">
+                    <did>
+                        <unittitle>14-4 Stebbins, Cortland</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref479" level="item">
+                    <did>
+                        <unittitle>14-4 Stebbins, Stowel</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref480" level="item">
+                    <did>
+                        <unittitle>13-5 Stewart, Mrs. Sheldon</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref481" level="item">
+                    <did>
+                        <unittitle>10-12 Stone, Fred J.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref482" level="item">
+                    <did>
+                        <unittitle>10-12 Sweet, Brig. Gen. B. J.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref483" level="item">
+                    <did>
+                        <unittitle>13-4 Taylor, Capt.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref484" level="item">
+                    <did>
+                        <unittitle>13-11 Thompson, Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref485" level="item">
+                    <did>
+                        <unittitle>13-2 Thurber, Mrs. George</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref486" level="item">
+                    <did>
+                        <unittitle>12-17 Trenlin</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref487" level="item">
+                    <did>
+                        <unittitle>10-12 Trumbul, [Mr. &amp; Mrs.] John &amp; Nell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref488" level="item">
+                    <did>
+                        <unittitle>10-12 Ulrich, Charles B.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref489" level="item">
+                    <did>
+                        <unittitle>14-7 Ulrich, Charles B.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref490" level="item">
+                    <did>
+                        <unittitle>10-13 VanCleur, Gus</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref491" level="item">
+                    <did>
+                        <unittitle>14-12 Vreeland, Leola</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref492" level="item">
+                    <did>
+                        <unittitle>10-13 Vreeland, Tom</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref493" level="item">
+                    <did>
+                        <unittitle>14-10 Weeks, Pearl</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref494" level="item">
+                    <did>
+                        <unittitle>10-13 Wesch, Frederic</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref495" level="item">
+                    <did>
+                        <unittitle>10-13 Wesch, J. F.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref496" level="item">
+                    <did>
+                        <unittitle>10-14 Wesseel, DeWitt</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref497" level="item">
+                    <did>
+                        <unittitle>12-17 West, Nellie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref498" level="item">
+                    <did>
+                        <unittitle>11-1 White Sewing Machine Co. [Detroit?]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref499" level="item">
+                    <did>
+                        <unittitle>11-10 White Sewing Machine Co. [Detroit?]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref500" level="item">
+                    <did>
+                        <unittitle>11-7 White Sewing Machine Co. [Detroit?]</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref501" level="item">
+                    <did>
+                        <unittitle>10-13 Willer, Rose R.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref502" level="item">
+                    <did>
+                        <unittitle>10-14 Wilmorth, Mrs.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref503" level="item">
+                    <did>
+                        <unittitle>14-14 Winchell, Fay</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref504" level="item">
+                    <did>
+                        <unittitle>14-8 Winchere, Fay</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref505" level="item">
+                    <did>
+                        <unittitle>14-8 Wisch, Jacob F.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref506" level="item">
+                    <did>
+                        <unittitle>10-14 Wolf, Mattie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref507" level="item">
+                    <did>
+                        <unittitle>13-15 Wright, David F.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref508" level="item">
+                    <did>
+                        <unittitle>14-10 [ ? ], Ouie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref509" level="item">
+                    <did>
+                        <unittitle>14-10 [ ? ], Edith</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref510" level="item">
+                    <did>
+                        <unittitle>14-10 [ ? ], Edna</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref511" level="item">
+                    <did>
+                        <unittitle>14-10 [ ? ], Mamie</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref512" level="item">
+                    <did>
+                        <unittitle>14-10 [ ? ], Garlie</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

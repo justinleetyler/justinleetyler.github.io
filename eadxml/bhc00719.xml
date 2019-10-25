@@ -1,0 +1,3419 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for the Detroit Rotary Club Records
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Oct. 2, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:53-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Detroit Rotary Club Records</unittitle>
+            <unitid>00719</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>26.0 Linear feet</extent>
+                <extent>(44 boxes, 1 large manuscript, 14 volumes, 1 film reel (16 mm), 3 film reels, (8 mm), 2 sound cassettes, 3 sound tape reels) </extent>
+            </physdesc>
+            <unitdate normal="1910/1999" type="inclusive">1910-1999.</unitdate>
+            <langmaterial id="ref8" label="Language of Materials">In English.</langmaterial>
+            <physloc id="ref681" label="Location note">Level A, Level B, B6m</physloc>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement</head>
+            <p>Organized into the following series: I. Background and history; II. Board of directors; III. Members; IV. Projects and programs; V. Public relations.</p>
+        </arrangement>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00719</p>
+        </acqinfo>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Detroit Rotary began in 1910 with a membership of 15. By 1940 membership was over 400.</p>
+        </bioghist>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>Papers, newsletters, correspondence and other materials. Formats include film and sound tapes, audio cassettes and slides.</p>
+        </scopecontent>
+        <prefercite id="ref6">
+            <head>Preferred Citation</head>
+            <p>Detroit Rotary Club papers, Burton Historical Collection, Detroit Public Library.</p>
+        </prefercite>
+        <accessrestrict id="ref7">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <odd id="ref9">
+            <head>General Note</head>
+            <p>See finding aids for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest" role=" ">Detroit Rotary Club. -- Form subdivision--Archives; </corpname>
+            <subject source="lcsh">Associations, institutions, etc.--Michigan--Detroit.</subject>
+            <genreform source="aat">Business correspondence</genreform>
+            <genreform source="aat">Business records</genreform>
+            <subject source="lcsh">Voluntarism--Michigan--Detroit.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Series I: Background and History</unittitle>
+                </did>
+                <odd id="ref15">
+                    <head>General note</head>
+                    <p>This section includes not only description and background of the Rotary Club, but material concerning the Detroit club specifically, such as the building lease and insurance papers. It also includes guidelines and policies.</p>
+                </odd>
+                <c02 id="ref16" level="subseries">
+                    <did>
+                        <unittitle>BOX 1</unittitle>
+                        <container type="Box">1</container>
+                    </did>
+                    <c03 id="ref18" level="item">
+                        <did>
+                            <unittitle>1:1 Background &amp; History, 1910-1993</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="item">
+                        <did>
+                            <unittitle>1:2 Club Territory</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="item">
+                        <did>
+                            <unittitle>1:3 Factsheets</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="item">
+                        <did>
+                            <unittitle>1:4 Guidelines for Rotary Chairmen</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="item">
+                        <did>
+                            <unittitle>1:5 Insurance</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="item">
+                        <did>
+                            <unittitle>1:6 Leases</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>1:7 Plans &amp; Objectives, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>1:8 Proposed Enactments, 1992</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>1:9 Traditions &amp; Practices</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref11" level="series">
+                <did>
+                    <unittitle>Series II: Board of Directors</unittitle>
+                </did>
+                <odd id="ref27">
+                    <head>General note</head>
+                    <p>The Board of Directors, supporting the Club President, manage the affairs of the Rotary Club. Included in this section are general correspondence, minutes of board meetings and reports.</p>
+                </odd>
+                <c02 id="ref17" level="subseries">
+                    <did>
+                        <unittitle>BOX 1 continued</unittitle>
+                    </did>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>1:10 Correspondence, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>1:11 Correspondence, 1989</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>1:12 Correspondence, 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>1:13 Correspondence, 1991</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>1:14 Reports</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>1:15 Reports--Club Activities, 1930-57</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>1:16 Reports--Summary of Club Plans &amp; Objectives, 1958-93</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>1:17 Reports--Monthly Contribution Reports, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>1:18 Reports--Paul Harris Fellows, 1989-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="item">
+                        <did>
+                            <unittitle>1:19 Reports--Paul Harris Sustaining Members, July 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="item">
+                        <did>
+                            <unittitle>1:20 Reports--Paul Harris Sustaining Members, September-November 1990</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref39" level="subseries">
+                    <did>
+                        <unittitle>BOX 2: Minutes of Meetings-1918-45</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref40" level="subseries">
+                    <did>
+                        <unittitle>BOX 3: 1945-66</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="subseries">
+                    <did>
+                        <unittitle>BOX 4: 1966-75</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref42" level="subseries">
+                    <did>
+                        <unittitle>BOX 5: 1975-91</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Series III: Members</unittitle>
+                </did>
+                <odd id="ref43">
+                    <head>General note</head>
+                    <p>Arranged alphabetically, the files on members include those people who either resigned from the Detroit club, died or were terminated. Also included in this series are directories and rosters. *Includes Obituary</p>
+                </odd>
+                <c02 id="ref44" level="subseries">
+                    <did>
+                        <unittitle>BOX 6</unittitle>
+                    </did>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>6:1 Abbott, Carl S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>6:2 Abood, Douglas S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>6:3 Addison, Benjamin C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>6:4 Aley, John D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>6:5 Allen, Lee H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>6:6 Anderson, David C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="item">
+                        <did>
+                            <unittitle>6:7 Anderson, Earl A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="item">
+                        <did>
+                            <unittitle>6:8 Angove, Gary S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="item">
+                        <did>
+                            <unittitle>6:9 Anthony, James R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>6:10 Anton, William</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>6:11 Arnold, Kirkwood G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>6:12 Auch, Frederick J. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>6:13 Aulich, Rick</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>6:14 Axelson, Glen</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>6:15 Baker, Deane</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>6:16 *Baker, George</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>6:17 Baker, Peter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="item">
+                        <did>
+                            <unittitle>6:18 Balan, Jerry</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="item">
+                        <did>
+                            <unittitle>6:19 *Ballard, Raymond A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="item">
+                        <did>
+                            <unittitle>6:20 Banas, Thomas P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref65" level="item">
+                        <did>
+                            <unittitle>6:21 Banfield, William S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref66" level="item">
+                        <did>
+                            <unittitle>6:22 Bankwitz, Keith</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref67" level="item">
+                        <did>
+                            <unittitle>6:23 Baranska, Dennis E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref68" level="item">
+                        <did>
+                            <unittitle>6:24 Bauer, John W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref69" level="item">
+                        <did>
+                            <unittitle>6:25 Bauer, Julius E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref70" level="item">
+                        <did>
+                            <unittitle>6:26 Baugh, Everett L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="item">
+                        <did>
+                            <unittitle>6:27 Becker, Bryan A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="item">
+                        <did>
+                            <unittitle>6:28 Beckett, Eileen</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="item">
+                        <did>
+                            <unittitle>6:29 Beckwith, Dirk</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref74" level="item">
+                        <did>
+                            <unittitle>6:30 *Bennett, Francis P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="item">
+                        <did>
+                            <unittitle>6:31 *Benson, Halge G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="item">
+                        <did>
+                            <unittitle>6:32 Bernard, Walter V. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="item">
+                        <did>
+                            <unittitle>6:33 Berns, Patrick J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref78" level="item">
+                        <did>
+                            <unittitle>6:34 Bickerstaff, Jeffrey</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref79" level="item">
+                        <did>
+                            <unittitle>6:35 Bidinnger, G. William</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="item">
+                        <did>
+                            <unittitle>6:36 Black, W. Brian</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref81" level="item">
+                        <did>
+                            <unittitle>6:37 Blake, E. Keith</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref82" level="item">
+                        <did>
+                            <unittitle>6:38 Bledsoe, Gordon P.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref83" level="subseries">
+                    <did>
+                        <unittitle>BOX 7</unittitle>
+                    </did>
+                    <c03 id="ref84" level="item">
+                        <did>
+                            <unittitle>7:1 Boardman, Bruce M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="item">
+                        <did>
+                            <unittitle>7:2 *Bobbio, Joseph S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="item">
+                        <did>
+                            <unittitle>7:3 *Bockstanz, John N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref87" level="item">
+                        <did>
+                            <unittitle>7:4 *Boos, Peter</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="item">
+                        <did>
+                            <unittitle>7:5 Bossier, Maurice A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="item">
+                        <did>
+                            <unittitle>7:6 *Bott, L. George</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="item">
+                        <did>
+                            <unittitle>7:7 Bowes, Robert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="item">
+                        <did>
+                            <unittitle>7:8 Boyd, Charles E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="item">
+                        <did>
+                            <unittitle>7:9 Boyer, Daniel C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="item">
+                        <did>
+                            <unittitle>7:10 Boyle, Frank J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="item">
+                        <did>
+                            <unittitle>7:11 Brink, Bill O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="item">
+                        <did>
+                            <unittitle>7:12 Broder, Paul</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="item">
+                        <did>
+                            <unittitle>7:13 Brooks, Arthur B. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="item">
+                        <did>
+                            <unittitle>7:14 Brown, Bonnie E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="item">
+                        <did>
+                            <unittitle>7:15 Brown, Harry W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="item">
+                        <did>
+                            <unittitle>7:16 Brown, Lester</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="item">
+                        <did>
+                            <unittitle>7:17 *Brown, Richard W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref101" level="item">
+                        <did>
+                            <unittitle>7:18 Brown, Russell Charles</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="item">
+                        <did>
+                            <unittitle>7:18 Brown, Russell Charles</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="item">
+                        <did>
+                            <unittitle>7:19 Browne, Lucius Oliver</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="item">
+                        <did>
+                            <unittitle>7:20 Bruce, Thomas B. III</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="item">
+                        <did>
+                            <unittitle>7:21 Buchholz, Lloyd G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="item">
+                        <did>
+                            <unittitle>7:22 Burch, James</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="item">
+                        <did>
+                            <unittitle>7:23 Burke, Preston</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="item">
+                        <did>
+                            <unittitle>7:24 Burkharadt, John C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref109" level="item">
+                        <did>
+                            <unittitle>7:25 Burkhardt, Thomas R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref110" level="item">
+                        <did>
+                            <unittitle>7:26 Burns, Lawrence J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="item">
+                        <did>
+                            <unittitle>7:27 Butler, William G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>7:28 Callahan, Melinda</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>7:29 Callewaert, Albert H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="item">
+                        <did>
+                            <unittitle>7:30 Capp, Benjamin A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>7:31 Carey, Raymond J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="item">
+                        <did>
+                            <unittitle>7:32 Carney, Arthur B. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref117" level="item">
+                        <did>
+                            <unittitle>7:33 Carpentier, Armand P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref118" level="item">
+                        <did>
+                            <unittitle>7:34 Carrillo, Gabriel</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref119" level="item">
+                        <did>
+                            <unittitle>7:35 *Carritte, John P. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref120" level="item">
+                        <did>
+                            <unittitle>7:36 Cartmill, George E. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref121" level="item">
+                        <did>
+                            <unittitle>7:37 Carroll, Raymond 0.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="item">
+                        <did>
+                            <unittitle>7:38 Carvalho, Michael P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="item">
+                        <did>
+                            <unittitle>7:39 Chalat, Ned I.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="item">
+                        <did>
+                            <unittitle>7:40 Champane, Dean J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref125" level="item">
+                        <did>
+                            <unittitle>7:41 Chandler, W. Robert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref126" level="item">
+                        <did>
+                            <unittitle>7:42 *Chisholm, C. Harry</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref127" level="item">
+                        <did>
+                            <unittitle>7:43 Chope, Joseph E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref128" level="item">
+                        <did>
+                            <unittitle>7:44 Chouinard, John E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref129" level="item">
+                        <did>
+                            <unittitle>7:45 Chronic, Dale E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="item">
+                        <did>
+                            <unittitle>7:46 Chudik, Anthony A. (Chludzinski)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref131" level="subseries">
+                    <did>
+                        <unittitle>BOX 8</unittitle>
+                    </did>
+                    <c03 id="ref132" level="item">
+                        <did>
+                            <unittitle>8:1 Cius, Julius J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="item">
+                        <did>
+                            <unittitle>8:2 *Clark, David C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="item">
+                        <did>
+                            <unittitle>8:3 Clark, James</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="item">
+                        <did>
+                            <unittitle>8:4 Cleary, Timothy M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="item">
+                        <did>
+                            <unittitle>8:5 Colwell, Cary</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="item">
+                        <did>
+                            <unittitle>8:6 Connell, Richard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="item">
+                        <did>
+                            <unittitle>8:7 Constand, Thomas</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="item">
+                        <did>
+                            <unittitle>8:8 Cortada, Rafael L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="item">
+                        <did>
+                            <unittitle>8:9 Cota, John F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="item">
+                        <did>
+                            <unittitle>8:10 Coughlin, James F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="item">
+                        <did>
+                            <unittitle>8:11 *Covey, William W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="item">
+                        <did>
+                            <unittitle>8:12 Coyle, R. Gerald</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="item">
+                        <did>
+                            <unittitle>8:13 Creutz, William A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref145" level="item">
+                        <did>
+                            <unittitle>8:14 Crites, Chesley J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="item">
+                        <did>
+                            <unittitle>8:15 Cullen, Calvin H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="item">
+                        <did>
+                            <unittitle>8:16 Curry, Otis</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="item">
+                        <did>
+                            <unittitle>8:17 Cusmano, J. Joyce</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="item">
+                        <did>
+                            <unittitle>8:18 Czekiel, Stephen M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="item">
+                        <did>
+                            <unittitle>8:19 Darby, Charles D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="item">
+                        <did>
+                            <unittitle>8:20 Davis, Donald W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="item">
+                        <did>
+                            <unittitle>8:21 Davis, Robert W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="item">
+                        <did>
+                            <unittitle>8:22 Decraene, Robert G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="item">
+                        <did>
+                            <unittitle>8:23 DeOrlow, Harold S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="item">
+                        <did>
+                            <unittitle>8:24 Dewar, Thomas G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="item">
+                        <did>
+                            <unittitle>8:25 DiBartolomeo, Richard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="item">
+                        <did>
+                            <unittitle>8:26 Diggles, Patrick Cavanaugh</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="item">
+                        <did>
+                            <unittitle>8:27 Dillon, Joseph F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref159" level="item">
+                        <did>
+                            <unittitle>8:28 Duker, Paul A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref160" level="item">
+                        <did>
+                            <unittitle>8:29 Dunham, John W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="item">
+                        <did>
+                            <unittitle>8:30 Dunlap, Stanley R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="item">
+                        <did>
+                            <unittitle>8:31 Dupont, Norman</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="item">
+                        <did>
+                            <unittitle>8:32 Durham, D. Anthony</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="item">
+                        <did>
+                            <unittitle>8:33 Easlick, David K.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="item">
+                        <did>
+                            <unittitle>8:34 Eddings, John R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="item">
+                        <did>
+                            <unittitle>8:35 Edgecomb, Diane J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="item">
+                        <did>
+                            <unittitle>8:36 Edmiston, Edward R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="item">
+                        <did>
+                            <unittitle>8:37 Edwards, James A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="item">
+                        <did>
+                            <unittitle>8:38 Edwards, Roy H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="item">
+                        <did>
+                            <unittitle>8:39 Eisbrenner, Ray D.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref171" level="subseries">
+                    <did>
+                        <unittitle>BOX 9</unittitle>
+                    </did>
+                    <c03 id="ref172" level="item">
+                        <did>
+                            <unittitle>9:1 Eldred, Robert L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="item">
+                        <did>
+                            <unittitle>9:2 Eppens, Alfred John</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="item">
+                        <did>
+                            <unittitle>9:3 *Erickson, Ralph W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="item">
+                        <did>
+                            <unittitle>9:4 Erkfitz, James H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="item">
+                        <did>
+                            <unittitle>9:5 Fagge, Ralph D. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="item">
+                        <did>
+                            <unittitle>9:6 Fair, Louis Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="item">
+                        <did>
+                            <unittitle>9:7 Farnen, Mark Robert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="item">
+                        <did>
+                            <unittitle>9:8 Fauver, John W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="item">
+                        <did>
+                            <unittitle>9:10 Fenech, Harold B.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="item">
+                        <did>
+                            <unittitle>9:11 Fitzpatrick, Stephen A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="item">
+                        <did>
+                            <unittitle>9:12 Fortney, Robert C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="item">
+                        <did>
+                            <unittitle>9:13 *Fortney, Robert R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="item">
+                        <did>
+                            <unittitle>9:14 *Fraser, John D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="item">
+                        <did>
+                            <unittitle>9:14 *Fraser, John D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="item">
+                        <did>
+                            <unittitle>9:15 Freeman, H. Blair</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="item">
+                        <did>
+                            <unittitle>9:16 Frenkel, Marvin A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="item">
+                        <did>
+                            <unittitle>9:17 Fritz, Michael H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>9:18 Fuchs, Albert L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref190" level="item">
+                        <did>
+                            <unittitle>9:19 Fuerstenau, William J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="item">
+                        <did>
+                            <unittitle>9:20 Gaffey, Cynthia H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="item">
+                        <did>
+                            <unittitle>9:21 Gail, Maxwell T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="item">
+                        <did>
+                            <unittitle>9:22 Gaither, Bruce C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="item">
+                        <did>
+                            <unittitle>9:23 Gallagher, Gary Michael</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref195" level="item">
+                        <did>
+                            <unittitle>9:24 Gardner, Terry</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref196" level="item">
+                        <did>
+                            <unittitle>9:25 Gardner, Walter J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="item">
+                        <did>
+                            <unittitle>9:26 Gehlert, Guy</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="item">
+                        <did>
+                            <unittitle>9:27 Gehlert, John R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="item">
+                        <did>
+                            <unittitle>9:28 Gelling, J. Clarke</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="item">
+                        <did>
+                            <unittitle>9:29 *George, Edwin Ordell</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="item">
+                        <did>
+                            <unittitle>9:30 Gerisch, Robert A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="item">
+                        <did>
+                            <unittitle>9:31 Getz, Robert Jay</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="item">
+                        <did>
+                            <unittitle>9:32 *Gideon, Gordon L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="item">
+                        <did>
+                            <unittitle>9:33 Gillary, John G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="item">
+                        <did>
+                            <unittitle>9:34 Givens, Leonard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref206" level="item">
+                        <did>
+                            <unittitle>9:35 Glanz, Edward F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref207" level="item">
+                        <did>
+                            <unittitle>9:36 Gleason, David H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref208" level="item">
+                        <did>
+                            <unittitle>9:37 Grady, E. Daniel</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="item">
+                        <did>
+                            <unittitle>9:38 Graham, Sterling E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="item">
+                        <did>
+                            <unittitle>9:39 Greenauer, John P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="item">
+                        <did>
+                            <unittitle>9:40 *Greene, Walter R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="item">
+                        <did>
+                            <unittitle>9:41 Gregor, Amos F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="item">
+                        <did>
+                            <unittitle>9:42 Greimel, Raymond J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="item">
+                        <did>
+                            <unittitle>9:43 Griffis, J. Craig</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="item">
+                        <did>
+                            <unittitle>9:44 Groustra, John H.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref209" level="subseries">
+                    <did>
+                        <unittitle>BOX 10</unittitle>
+                    </did>
+                    <c03 id="ref217" level="item">
+                        <did>
+                            <unittitle>10:1 Guidice, Gerald J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="item">
+                        <did>
+                            <unittitle>10:2 Guittard, Stephen W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="item">
+                        <did>
+                            <unittitle>10:3 Hamilton, Timothy L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="item">
+                        <did>
+                            <unittitle>10:4 Hall, Donald R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="item">
+                        <did>
+                            <unittitle>10:5 Hall, Marie</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="item">
+                        <did>
+                            <unittitle>10:6 Hammel, David J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="item">
+                        <did>
+                            <unittitle>10:7 Hannon, James R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="item">
+                        <did>
+                            <unittitle>10:8 Hanson, lee C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="item">
+                        <did>
+                            <unittitle>10:9 Hargrave-Thomas, Basil</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref226" level="item">
+                        <did>
+                            <unittitle>10:10 *Hargrave-Thomas, J. Nevill</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref227" level="item">
+                        <did>
+                            <unittitle>10:11 Harkaway, Cynthia J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="item">
+                        <did>
+                            <unittitle>10:12 Harms, Thomas J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="item">
+                        <did>
+                            <unittitle>10:13 Harness, Don K.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref230" level="item">
+                        <did>
+                            <unittitle>10:14 Harness, J. King</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="item">
+                        <did>
+                            <unittitle>10:15 Harrold, Joseph W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="item">
+                        <did>
+                            <unittitle>10:16 Hartmus, John A. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref233" level="item">
+                        <did>
+                            <unittitle>10:17 Harvey, Clarence</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="item">
+                        <did>
+                            <unittitle>10:18 Hatt, Fritz</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref235" level="item">
+                        <did>
+                            <unittitle>10:19 Hawkinson, Roy E..</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref236" level="item">
+                        <did>
+                            <unittitle>10:20 Hayduk, Mark S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref237" level="item">
+                        <did>
+                            <unittitle>10:21 *Hayes, Raymond E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref238" level="item">
+                        <did>
+                            <unittitle>10:22 Hazlett, Timothy J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref239" level="item">
+                        <did>
+                            <unittitle>10:23 *Hedke, Richard C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref240" level="item">
+                        <did>
+                            <unittitle>10:24 Helganz, Arthur J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref241" level="item">
+                        <did>
+                            <unittitle>10:25 Henz, Richard F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref242" level="item">
+                        <did>
+                            <unittitle>10:26 Higgins, Clifford H. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref243" level="item">
+                        <did>
+                            <unittitle>10:27 *Hileman, W. Ralph</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref244" level="item">
+                        <did>
+                            <unittitle>10:28 Himelhoch, Charles S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref245" level="item">
+                        <did>
+                            <unittitle>10:29 Himes, William Frederick</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref246" level="item">
+                        <did>
+                            <unittitle>10:30 Holloway, Guy L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref247" level="item">
+                        <did>
+                            <unittitle>10:31 Horne, John M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="item">
+                        <did>
+                            <unittitle>10:32 Horner, Albert O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="item">
+                        <did>
+                            <unittitle>10:33 Housley, Charles E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="item">
+                        <did>
+                            <unittitle>10:34 *Howe, Leo J. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="item">
+                        <did>
+                            <unittitle>10:35 Hubbard, Paul L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="item">
+                        <did>
+                            <unittitle>10:36 Hummel, John O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="item">
+                        <did>
+                            <unittitle>10:37 Hurley, Calvin S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="item">
+                        <did>
+                            <unittitle>10:38 *Ives, Harlem B.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref255" level="item">
+                    <did>
+                        <unittitle>BOX 11</unittitle>
+                    </did>
+                    <c03 id="ref256" level="item">
+                        <did>
+                            <unittitle>11:1 Janus, Joseph J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="item">
+                        <did>
+                            <unittitle>11:2 Jenkins, Curtis S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="item">
+                        <did>
+                            <unittitle>11:3 Jenkins, Phillip T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="item">
+                        <did>
+                            <unittitle>11:4 Jenkins, Read</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="item">
+                        <did>
+                            <unittitle>11:5 Jimson, Kenneth A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="item">
+                        <did>
+                            <unittitle>11:6 *Johnston, G. Riford</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="item">
+                        <did>
+                            <unittitle>11:7 *Kafarski, Henry A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="item">
+                        <did>
+                            <unittitle>11:8 Kahler, Michael C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="item">
+                        <did>
+                            <unittitle>11:9 *Kales, Robert Gray</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="item">
+                        <did>
+                            <unittitle>11:10 Kaniut, Diane A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="item">
+                        <did>
+                            <unittitle>11:11 Karpen, patrick N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="item">
+                        <did>
+                            <unittitle>11:12 Kemp, M. Scott</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="item">
+                        <did>
+                            <unittitle>11:13 *Keydel, Kurt R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="item">
+                        <did>
+                            <unittitle>11:14 Klingler, Kathy C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="item">
+                        <did>
+                            <unittitle>11:15 Knight, Edward</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="item">
+                        <did>
+                            <unittitle>11:16 Korb, Jack L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="item">
+                        <did>
+                            <unittitle>11:17 Kowalski, Ronald</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="item">
+                        <did>
+                            <unittitle>11:18 Kozowicz, Paul F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="item">
+                        <did>
+                            <unittitle>11:19 Kramer, James F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="item">
+                        <did>
+                            <unittitle>11:20 *Kresge, Stanley S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="item">
+                        <did>
+                            <unittitle>11:21 Kubit, Kenneth H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="item">
+                        <did>
+                            <unittitle>11:22 Kuhlman, Henry A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="item">
+                        <did>
+                            <unittitle>11:23 Kurtz, James H. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="item">
+                        <did>
+                            <unittitle>11:24 Ladyka, William J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="item">
+                        <did>
+                            <unittitle>11:25 Laird, Edward H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="item">
+                        <did>
+                            <unittitle>11:26 Laitner, Robert F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="item">
+                        <did>
+                            <unittitle>11:27 *Laitner, W. William</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="item">
+                        <did>
+                            <unittitle>11:28 Lang, Charles J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="item">
+                        <did>
+                            <unittitle>11:29 Lang, Terry O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="item">
+                        <did>
+                            <unittitle>11:30 Lasko, William J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="item">
+                        <did>
+                            <unittitle>11:31 *Lau, Donald</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="item">
+                        <did>
+                            <unittitle>11:32 LaVergne, Theodore T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="item">
+                        <did>
+                            <unittitle>11:33 Lederman, Martin J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="item">
+                        <did>
+                            <unittitle>11:34 Leech, Virgil J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="item">
+                        <did>
+                            <unittitle>11:35 *Lehman, Ira A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="item">
+                        <did>
+                            <unittitle>11:36 Lehman, John H. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="item">
+                        <did>
+                            <unittitle>11:37 *Leonard, J. Paul</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref293" level="subseries">
+                    <did>
+                        <unittitle>BOX 12</unittitle>
+                    </did>
+                    <c03 id="ref294" level="item">
+                        <did>
+                            <unittitle>12:1 Lepper, David</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="item">
+                        <did>
+                            <unittitle>12:2 Lester, Donald G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="item">
+                        <did>
+                            <unittitle>12:3 Lockhart, Daborah</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="item">
+                        <did>
+                            <unittitle>12:4 Lockwood, Cristina D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="item">
+                        <did>
+                            <unittitle>12:5 Lore, John S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="item">
+                        <did>
+                            <unittitle>12:6 Ludington, Dana E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="item">
+                        <did>
+                            <unittitle>12:7 Luskin, Evan R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="item">
+                        <did>
+                            <unittitle>12:8 Lutheran, Joseph J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="item">
+                        <did>
+                            <unittitle>12:9 Lytle, Christopher</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="item">
+                        <did>
+                            <unittitle>12:10 MacAdam, Carolyn</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="item">
+                        <did>
+                            <unittitle>12:11 MacDonell, Kenneth C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="item">
+                        <did>
+                            <unittitle>12:12 *MacGregor, Byron</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="item">
+                        <did>
+                            <unittitle>12:13 Maclnnes, John D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="item">
+                        <did>
+                            <unittitle>12:14 MacQueen, Linda</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="item">
+                        <did>
+                            <unittitle>12:15 Mancuso, Vincent S. III</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="item">
+                        <did>
+                            <unittitle>12:16 Manion, E. William</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="item">
+                        <did>
+                            <unittitle>12:17 Mantese, Gerard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="item">
+                        <did>
+                            <unittitle>12:18 Marowske, Robert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref312" level="item">
+                        <did>
+                            <unittitle>12:19 *Marr, Sherman S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref313" level="item">
+                        <did>
+                            <unittitle>12:20 Marquart, Robert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref314" level="item">
+                        <did>
+                            <unittitle>12:21 Mathieson, J. Douglas</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref315" level="item">
+                        <did>
+                            <unittitle>12:22 Maynard, Horace S. III</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref316" level="item">
+                        <did>
+                            <unittitle>12:23 *Maynard, Howard N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref317" level="item">
+                        <did>
+                            <unittitle>12:24 Maynard, John D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref318" level="item">
+                        <did>
+                            <unittitle>12:25 *McAlpine, John R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref319" level="item">
+                        <did>
+                            <unittitle>12:26 McBride, W. Michael</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref320" level="item">
+                        <did>
+                            <unittitle>12:27 McBride, Wayne L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref321" level="item">
+                        <did>
+                            <unittitle>12:28 McCann, Timothy</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref322" level="item">
+                        <did>
+                            <unittitle>12:29 McCracken, Harold M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref323" level="item">
+                        <did>
+                            <unittitle>12:30 McCray, J. Calvin</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref324" level="item">
+                        <did>
+                            <unittitle>12:31 McDevitt, Karen</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref325" level="item">
+                        <did>
+                            <unittitle>12:32 McDonnell, Patrick J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref326" level="item">
+                        <did>
+                            <unittitle>12:33 McGuire, Hugh J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref327" level="item">
+                        <did>
+                            <unittitle>12:34 *McHale, Christopher P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref328" level="item">
+                        <did>
+                            <unittitle>12:35 McIntosh, John A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref329" level="item">
+                        <did>
+                            <unittitle>12:36 *McKeown, Alfred H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref330" level="item">
+                        <did>
+                            <unittitle>12:37 *McKnight, Robert H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref331" level="item">
+                        <did>
+                            <unittitle>12:38 Mercier, Michael</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref332" level="item">
+                        <did>
+                            <unittitle>12:39 Merritt-Cummings, Annette</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref333" level="item">
+                        <did>
+                            <unittitle>12:40 Meyer, Milton O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref334" level="item">
+                        <did>
+                            <unittitle>12:41 Michalich, Michael R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref335" level="item">
+                        <did>
+                            <unittitle>12:42 Miller, Richard L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref336" level="item">
+                        <did>
+                            <unittitle>12:43 Millman, Stanley</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref337" level="item">
+                        <did>
+                            <unittitle>12:44 Mnich, Michael J.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref338" level="subseries">
+                    <did>
+                        <unittitle>BOX 13</unittitle>
+                    </did>
+                    <c03 id="ref339" level="item">
+                        <did>
+                            <unittitle>13:1 *Moffett, George D. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref340" level="item">
+                        <did>
+                            <unittitle>13:2 Monforton, Roger D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref341" level="item">
+                        <did>
+                            <unittitle>13:3 Morgan, Lynn T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref342" level="item">
+                        <did>
+                            <unittitle>13:4 Morison, James B.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref343" level="item">
+                        <did>
+                            <unittitle>13:5 Morrow, Willam A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref344" level="item">
+                        <did>
+                            <unittitle>13:6 Mortensen, Ralph A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref345" level="item">
+                        <did>
+                            <unittitle>13:7 Motoligin, Louise</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref346" level="item">
+                        <did>
+                            <unittitle>13:8 Mozema, Susan d'Olive</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref347" level="item">
+                        <did>
+                            <unittitle>13:9 Muller, George H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref348" level="item">
+                        <did>
+                            <unittitle>13:10 Munis, Nestor O.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref349" level="item">
+                        <did>
+                            <unittitle>13:11 Murray, Colette M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref350" level="item">
+                        <did>
+                            <unittitle>13:12 Neblett, Thomas R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref351" level="item">
+                        <did>
+                            <unittitle>13:13 Nicholson, Donald</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref352" level="item">
+                        <did>
+                            <unittitle>13:14 Nicholson, Thomas</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref353" level="item">
+                        <did>
+                            <unittitle>13:15 Nielsen, Torkild</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref354" level="item">
+                        <did>
+                            <unittitle>13:16 *Ogur, Lee J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref355" level="item">
+                        <did>
+                            <unittitle>13:17 Olson, John M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref356" level="item">
+                        <did>
+                            <unittitle>13:18 Onwueabuna. Michael N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref357" level="item">
+                        <did>
+                            <unittitle>13:19 Orr, James</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref358" level="item">
+                        <did>
+                            <unittitle>13:20 Otto, Jack L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref359" level="item">
+                        <did>
+                            <unittitle>13:21 Owens, Barbara</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref360" level="item">
+                        <did>
+                            <unittitle>13:22 Page, Joseph F. III</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref361" level="item">
+                        <did>
+                            <unittitle>13:23 Parrent, Charles F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref362" level="item">
+                        <did>
+                            <unittitle>13:24 Patamia, Rocco</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref363" level="item">
+                        <did>
+                            <unittitle>13:25 Paterson, Hamilton H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref364" level="item">
+                        <did>
+                            <unittitle>13:26 Patterson, W. Calvin</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref365" level="item">
+                        <did>
+                            <unittitle>13:27 *Pehrson, Ralph S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref366" level="item">
+                        <did>
+                            <unittitle>13:28 Pesendorfer, Michael</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref367" level="item">
+                        <did>
+                            <unittitle>13:29 Peterson, Noel L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref368" level="item">
+                        <did>
+                            <unittitle>13:30 Pfleiderer, Arthur B.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref369" level="item">
+                        <did>
+                            <unittitle>13:31 Pierce, Daniel J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref370" level="item">
+                        <did>
+                            <unittitle>13:32 Pingston, Howard Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref371" level="item">
+                        <did>
+                            <unittitle>13:33 Piotrowski, Harold J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref372" level="item">
+                        <did>
+                            <unittitle>13:34 Pitz, Peter E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref373" level="item">
+                        <did>
+                            <unittitle>13:35 Porter, Jerry C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref374" level="item">
+                        <did>
+                            <unittitle>13:36 Prange, Loren G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref375" level="item">
+                        <did>
+                            <unittitle>13:37 Praven, B.J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref376" level="item">
+                        <did>
+                            <unittitle>13:38 Pruett, William D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref377" level="item">
+                        <did>
+                            <unittitle>13:39 Pugsley, James F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref378" level="item">
+                        <did>
+                            <unittitle>13:40 Quarles, Ernest W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref379" level="item">
+                        <did>
+                            <unittitle>13:41 *Quinn, William T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref380" level="item">
+                        <did>
+                            <unittitle>13:42 Raisch, Robert S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref381" level="item">
+                        <did>
+                            <unittitle>13:43 Raymond, Lawrence B.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref382" level="item">
+                        <did>
+                            <unittitle>13:44 Rice, Philip M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref383" level="item">
+                        <did>
+                            <unittitle>13:45 Richey, David E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref384" level="item">
+                        <did>
+                            <unittitle>13:46 Rizza, Giuseppe</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref385" level="subseries">
+                    <did>
+                        <unittitle>BOX 14</unittitle>
+                    </did>
+                    <c03 id="ref386" level="item">
+                        <did>
+                            <unittitle>14:1 Roberts, Seymour M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref387" level="item">
+                        <did>
+                            <unittitle>14:2 Robertson, John J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref388" level="item">
+                        <did>
+                            <unittitle>14:3 Rogers, David</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref389" level="item">
+                        <did>
+                            <unittitle>14:4 Rohn, Fred A. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref390" level="item">
+                        <did>
+                            <unittitle>14:5 Roma, Daniel N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref391" level="item">
+                        <did>
+                            <unittitle>14:6 Rosenthal, Richard W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref392" level="item">
+                        <did>
+                            <unittitle>14:7 Roth, Nicholas P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref393" level="item">
+                        <did>
+                            <unittitle>14:8 Rudolph, Jay</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref394" level="item">
+                        <did>
+                            <unittitle>14:9 Rust, Charles S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref395" level="item">
+                        <did>
+                            <unittitle>14:10 Rutherford, Jon P.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref396" level="item">
+                        <did>
+                            <unittitle>14:11 Sajdak, Robert A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref397" level="item">
+                        <did>
+                            <unittitle>14:12 Salo, Todd A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref398" level="item">
+                        <did>
+                            <unittitle>14:13 Scharff, Robert W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref399" level="item">
+                        <did>
+                            <unittitle>14:14 Schoffner, Lawrence</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref400" level="item">
+                        <did>
+                            <unittitle>14:15 Schroth, James L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref401" level="item">
+                        <did>
+                            <unittitle>14:16 Schultes, John C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref402" level="item">
+                        <did>
+                            <unittitle>14:17 Schulz, George L.W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref403" level="item">
+                        <did>
+                            <unittitle>14:18 Schupholm, Paull</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref404" level="item">
+                        <did>
+                            <unittitle>14:19 Seagram, David M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref405" level="item">
+                        <did>
+                            <unittitle>14:20 Seichter, Frank S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref406" level="item">
+                        <did>
+                            <unittitle>14:21 Sejnost, Richard L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref407" level="item">
+                        <did>
+                            <unittitle>14:22 Sellers, Dale I.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref408" level="item">
+                        <did>
+                            <unittitle>14:23 Senchuk, Albert R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref409" level="item">
+                        <did>
+                            <unittitle>14:24 Seringer, Thomas J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref410" level="item">
+                        <did>
+                            <unittitle>14:25 Sharpe, Ernest W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref411" level="item">
+                        <did>
+                            <unittitle>14:26 Shoop, Richard C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref412" level="item">
+                        <did>
+                            <unittitle>14:27 Shotwell, Christopher C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref413" level="item">
+                        <did>
+                            <unittitle>14:28 Simon, Philip R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref414" level="item">
+                        <did>
+                            <unittitle>14:29 Sisson, Franklin G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref415" level="item">
+                        <did>
+                            <unittitle>14:30 *Skillman, William M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref416" level="item">
+                        <did>
+                            <unittitle>14:31 Smith, Ben S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref417" level="item">
+                        <did>
+                            <unittitle>14:32 Smith, Charles D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref418" level="item">
+                        <did>
+                            <unittitle>14:33 Smith, Eberle M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref419" level="item">
+                        <did>
+                            <unittitle>14:34 Smith, John A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref420" level="item">
+                        <did>
+                            <unittitle>14:35 Smith, John W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref421" level="item">
+                        <did>
+                            <unittitle>14:36 Smith, Leonard W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref422" level="item">
+                        <did>
+                            <unittitle>14:37 Smith, Lloyd E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref423" level="item">
+                        <did>
+                            <unittitle>14:38 *Smith, Robert K.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref424" level="item">
+                        <did>
+                            <unittitle>14:39 Smith, Roberta 0.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref425" level="item">
+                        <did>
+                            <unittitle>14:40 Sobieski, John M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref426" level="item">
+                        <did>
+                            <unittitle>14:41 Spacht, Cleatus A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref427" level="item">
+                        <did>
+                            <unittitle>14:42 Stacey, Michael T.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref428" level="item">
+                        <did>
+                            <unittitle>14:43 Stachura, Walter F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref429" level="item">
+                        <did>
+                            <unittitle>14:44 Stamper, Dannie</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref430" level="item">
+                        <did>
+                            <unittitle>14:45 Stanczyk, Boleslaus I.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref431" level="item">
+                        <did>
+                            <unittitle>14:46 Stanton, Pamela E.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref432" level="subseries">
+                    <did>
+                        <unittitle>BOX 15</unittitle>
+                    </did>
+                    <c03 id="ref433" level="item">
+                        <did>
+                            <unittitle>15:1 Stapleton, Terrance</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref434" level="item">
+                        <did>
+                            <unittitle>15:2 Stavale, Michael G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref435" level="item">
+                        <did>
+                            <unittitle>15:3 Stein, Paul L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref436" level="item">
+                        <did>
+                            <unittitle>15:4 Steinbach, Albert</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref437" level="item">
+                        <did>
+                            <unittitle>15:5 Stella, William J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref438" level="item">
+                        <did>
+                            <unittitle>15:6 Stevens, Briran V.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref439" level="item">
+                        <did>
+                            <unittitle>15:7 Stevens, Mark</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref440" level="item">
+                        <did>
+                            <unittitle>15:8 Stevenson, Barbara M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref441" level="item">
+                        <did>
+                            <unittitle>15:9 Stevenson, Howard</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref442" level="item">
+                        <did>
+                            <unittitle>15:10 Stinebaugh, Scott E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref443" level="item">
+                        <did>
+                            <unittitle>15:11 Straus, Richard M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref444" level="item">
+                        <did>
+                            <unittitle>15:12 Stroughter, Theodric</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref445" level="item">
+                        <did>
+                            <unittitle>15:13 Sullivan, S.D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref446" level="item">
+                        <did>
+                            <unittitle>15:14 Sweatman, Philip</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref447" level="item">
+                        <did>
+                            <unittitle>15:15 Tabor, Amson C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref448" level="item">
+                        <did>
+                            <unittitle>15:16 Taliaferro, William M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref449" level="item">
+                        <did>
+                            <unittitle>15:17 Tellerico, Frank W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref450" level="item">
+                        <did>
+                            <unittitle>15:18 Thayer, Roy D. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref451" level="item">
+                        <did>
+                            <unittitle>15:19 Thomas, Edward S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref452" level="item">
+                        <did>
+                            <unittitle>15:20 Thomas, Ralph</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref453" level="item">
+                        <did>
+                            <unittitle>15:21 Till, Kevin E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref454" level="item">
+                        <did>
+                            <unittitle>15:22 Thompson, Larry L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref455" level="item">
+                        <did>
+                            <unittitle>15:23 *Touscany, Amond H. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref457" level="item">
+                        <did>
+                            <unittitle>15:24 Travis, William E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref458" level="item">
+                        <did>
+                            <unittitle>15:25 Trebilcott, James J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref459" level="item">
+                        <did>
+                            <unittitle>15:26 Trebing, David M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref460" level="item">
+                        <did>
+                            <unittitle>15:27 Trix, Herbert Phelps</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref461" level="item">
+                        <did>
+                            <unittitle>15:28 *Valassis, Raymond N.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref462" level="item">
+                        <did>
+                            <unittitle>15:29 VanCreveld, Albert H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref463" level="item">
+                        <did>
+                            <unittitle>15:30 VanderKloot, Keitha J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref464" level="item">
+                        <did>
+                            <unittitle>15:31 *VanDegrift, Thomas C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref465" level="item">
+                        <did>
+                            <unittitle>15:32 VanHorne, Pieter H.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref466" level="item">
+                        <did>
+                            <unittitle>15:33 Vaughan, Terence D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref467" level="item">
+                        <did>
+                            <unittitle>15:34 Virk, Muhammad</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref468" level="item">
+                        <did>
+                            <unittitle>15:35 *Visser, John Arthur</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref469" level="item">
+                        <did>
+                            <unittitle>15:36 Wade, Douglas S.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref470" level="item">
+                        <did>
+                            <unittitle>15:37 Wagner, Thomas L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref471" level="item">
+                        <did>
+                            <unittitle>15:38 Walley, Mark</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref472" level="item">
+                        <did>
+                            <unittitle>15:39 Wallich, Edward F.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref473" level="item">
+                        <did>
+                            <unittitle>15:40 Ward, Gregg M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref474" level="item">
+                        <did>
+                            <unittitle>15:41 Ward, Oliver G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref475" level="item">
+                        <did>
+                            <unittitle>15:42 Watson, Norman R.</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref476" level="subseries">
+                    <did>
+                        <unittitle>BOX 16</unittitle>
+                    </did>
+                    <c03 id="ref477" level="item">
+                        <did>
+                            <unittitle>16:1 Webb, James W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref478" level="item">
+                        <did>
+                            <unittitle>16:2 Webb, Jervis C.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref479" level="item">
+                        <did>
+                            <unittitle>16:3 Webster, Kenneth W.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref480" level="item">
+                        <did>
+                            <unittitle>16:4 *Wellman, Eugene K.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref481" level="item">
+                        <did>
+                            <unittitle>16:5 Welsh, Gary J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref482" level="item">
+                        <did>
+                            <unittitle>16:6 Wettlaufer, Harry L. Jr.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref483" level="item">
+                        <did>
+                            <unittitle>16:7 Whitfield, Russell L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref484" level="item">
+                        <did>
+                            <unittitle>16:8 Wigley, John R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref485" level="item">
+                        <did>
+                            <unittitle>16:9 Wiley, J. Steven</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref486" level="item">
+                        <did>
+                            <unittitle>16:10 Williams, Donald A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref487" level="item">
+                        <did>
+                            <unittitle>16:11 Williams, Herman R.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref488" level="item">
+                        <did>
+                            <unittitle>16:12 Williams, Michael G.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref489" level="item">
+                        <did>
+                            <unittitle>16:13 Wilson, Stanley L.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref490" level="item">
+                        <did>
+                            <unittitle>16:14 Wisecarver, William D.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref491" level="item">
+                        <did>
+                            <unittitle>16:15 *Wolfe, Charles J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref492" level="item">
+                        <did>
+                            <unittitle>16:16 Wong, Pamela A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref493" level="item">
+                        <did>
+                            <unittitle>16:17 Woods, Thomas M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref494" level="item">
+                        <did>
+                            <unittitle>16:18 Wright, Russell M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref495" level="item">
+                        <did>
+                            <unittitle>16:19 Wunderlich, Robert E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref496" level="item">
+                        <did>
+                            <unittitle>16:20 Young, John M.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref497" level="item">
+                        <did>
+                            <unittitle>16:21 Yuhn, Robert E.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref498" level="item">
+                        <did>
+                            <unittitle>16:22 Zannoth, Robert Frank</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref499" level="item">
+                        <did>
+                            <unittitle>16:23 Ziecik, Michael J.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref500" level="item">
+                        <did>
+                            <unittitle>16:24 Zimmerman, Kent A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref501" level="item">
+                        <did>
+                            <unittitle>16:25 Zimmerman, Rodney A.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref502" level="item">
+                        <did>
+                            <unittitle>16:26 Members--Attendance, 1991-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref503" level="item">
+                        <did>
+                            <unittitle>16:27 Members--Committee Chairmen</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref504" level="item">
+                        <did>
+                            <unittitle>16:28 Members--Interim Roster, 1984-85</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref505" level="item">
+                        <did>
+                            <unittitle>16:29 Members--Mailing List</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref506" level="item">
+                        <did>
+                            <unittitle>16:30 Members--Resignations</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref507" level="item">
+                        <did>
+                            <unittitle>16:31 Members--Roster Changes, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref508" level="subseries">
+                    <did>
+                        <unittitle>BOX 17: Rosters, 1914-49</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref509" level="subseries">
+                    <did>
+                        <unittitle>BOX 18: Rosters, 1949-70</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref510" level="subseries">
+                    <did>
+                        <unittitle>BOX 20: Rosters, 1970-88</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref511" level="subseries">
+                    <did>
+                        <unittitle>BOX 21: Rosters, 1990-91; Directories, 1971-96</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref512" level="series">
+                <did>
+                    <unittitle>Series IV: Projects and Programs</unittitle>
+                </did>
+                <odd id="ref513">
+                    <head>General note</head>
+                    <p>This series includes projects, programs, events and campaigns of the Detroit Rotary Club. Also placed in this series are Conferences and Conventions of Rotary International, plus Detroit Rotary Committees. Grants and Scholarships are also included here. (For information and files on the PolioPlus Campaign, see Committees.)</p>
+                </odd>
+                <c02 id="ref514" level="subseries">
+                    <did>
+                        <unittitle>BOX 21</unittitle>
+                    </did>
+                    <c03 id="ref515" level="item">
+                        <did>
+                            <unittitle>21:1 Grants</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref516" level="item">
+                        <did>
+                            <unittitle>21:2 Scholarships</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref517" level="subseries">
+                        <did>
+                            <unittitle>Subseries A: Projects</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref518" level="item">
+                        <did>
+                            <unittitle>21:3 Miscellaneous Projects, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref519" level="item">
+                        <did>
+                            <unittitle>21:4 Project Enterprise, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref520" level="item">
+                        <did>
+                            <unittitle>21:5 Rotary Seed Corn Disaster Aid Project, 1986</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref521" level="subseries">
+                        <did>
+                            <unittitle>Subseries B: Programs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref522" level="item">
+                        <did>
+                            <unittitle>21:6 Anniversaries, 75th, 1985</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref523" level="item">
+                        <did>
+                            <unittitle>21:7 Anniversaries, 85th, 1996</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref524" level="item">
+                        <did>
+                            <unittitle>21:8 Buy-A-Car-Now Campaign, 1975</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref525" level="item">
+                        <did>
+                            <unittitle>21:9 Group Study Exchange Program, 1989-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref526" level="item">
+                        <did>
+                            <unittitle>21:10 International Day, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref527" level="item">
+                        <did>
+                            <unittitle>21:11 Mentoring Program</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref528" level="item">
+                        <did>
+                            <unittitle>21:12 Power of Positive Schooling Program, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref529" level="item">
+                        <did>
+                            <unittitle>21:13 President Elect Training Seminar (P.E.T.S.), 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref530" level="item">
+                        <did>
+                            <unittitle>21:14 Windsor Raceway Event, 1991</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref531" level="subseries">
+                        <did>
+                            <unittitle>Subseries C: Conferences and Convention</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref532" level="item">
+                        <did>
+                            <unittitle>21:15 District 640 Conference, 1974, Registration Forms</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref533" level="subseries">
+                    <did>
+                        <unittitle>BOX 22</unittitle>
+                    </did>
+                    <c03 id="ref534" level="item">
+                        <did>
+                            <unittitle>22:1 District 640 Conference, Huron, Ohio, 1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref535" level="item">
+                        <did>
+                            <unittitle>22:2 Conference, Toronto, 1981</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref536" level="item">
+                        <did>
+                            <unittitle>22:3 24th Annual Presidents-Elect &amp; Executive Secretaries Conference, 1982-83</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref537" level="subseries">
+                        <did>
+                            <unittitle>Conventions</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref538" level="item">
+                        <did>
+                            <unittitle>22:4 Miscellaneous Conventions, 1932-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref539" level="item">
+                        <did>
+                            <unittitle>22:5 Detroit, 1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref540" level="item">
+                        <did>
+                            <unittitle>22:6 Detroit, 1982</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref541" level="item">
+                        <did>
+                            <unittitle>22:7 Birmingham, England, 1984</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref542" level="item">
+                        <did>
+                            <unittitle>22:8 Detroit Proposal, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref543" level="item">
+                        <did>
+                            <unittitle>22:9 Philadelphia, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref544" level="item">
+                        <did>
+                            <unittitle>22:10 Detroit Proposal, 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref545" level="item">
+                        <did>
+                            <unittitle>22:11 Portland, Oregon, 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref546" level="item">
+                        <did>
+                            <unittitle>22:12 Windsor, 1996</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref547" level="item">
+                        <did>
+                            <unittitle>22:13 Detroit, 1998</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref548" level="otherlevel">
+                    <did>
+                        <unittitle>Convention Proceedings:</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref549" level="subseries">
+                    <did>
+                        <unittitle>BOX 23: 1919-24</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref550" level="subseries">
+                    <did>
+                        <unittitle>BOX 24: 1926-31</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref551" level="subseries">
+                    <did>
+                        <unittitle>BOX 25: 1932-38</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref552" level="subseries">
+                    <did>
+                        <unittitle>BOX 26: 1940-51</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref553" level="subseries">
+                    <did>
+                        <unittitle>BOX 27: 1952-65</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref554" level="subseries">
+                    <did>
+                        <unittitle>BOX 28: 1966-80</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref555" level="otherlevel">
+                    <did>
+                        <unittitle>Subseries D: Committees</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref556" level="subseries">
+                    <did>
+                        <unittitle>BOX 29</unittitle>
+                    </did>
+                    <c03 id="ref557" level="item">
+                        <did>
+                            <unittitle>29:1 Committee Reports, 1938</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref558" level="item">
+                        <did>
+                            <unittitle>29:2 Committee Reports, 1991-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref559" level="subseries">
+                        <did>
+                            <unittitle>Committees</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref560" level="item">
+                        <did>
+                            <unittitle>29:3 Ad Hoc, 1988.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref561" level="item">
+                        <did>
+                            <unittitle>29:4 Attendance, 1987-88</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref562" level="item">
+                        <did>
+                            <unittitle>29:5 Attendance, 1989-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref563" level="item">
+                        <did>
+                            <unittitle>29:6 Attendance, 1991-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref564" level="item">
+                        <did>
+                            <unittitle>29:7 Badge, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref565" level="item">
+                        <did>
+                            <unittitle>29:8 Boat, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref566" level="item">
+                        <did>
+                            <unittitle>29:9 Bowling, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref567" level="item">
+                        <did>
+                            <unittitle>29:10 Cheer, 1989-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref568" level="item">
+                        <did>
+                            <unittitle>29:11 Children's Health, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref569" level="item">
+                        <did>
+                            <unittitle>29:12 Community Service, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref570" level="item">
+                        <did>
+                            <unittitle>29:13 Community Service, 1989</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref571" level="item">
+                        <did>
+                            <unittitle>29:14 Community.Service, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref572" level="item">
+                        <did>
+                            <unittitle>29:15 Detroit Foundation Drive, 1983-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref573" level="item">
+                        <did>
+                            <unittitle>29:16 Detroit Foundation, 1990</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref574" level="item">
+                        <did>
+                            <unittitle>29:17 Detroit Foundation, 1991</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref575" level="subseries">
+                    <did>
+                        <unittitle>BOX 30</unittitle>
+                    </did>
+                    <c03 id="ref576" level="item">
+                        <did>
+                            <unittitle>30:1 Detroit Foundation, 1992</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref577" level="item">
+                        <did>
+                            <unittitle>30:2 District Conference, 1956; 1988-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref578" level="item">
+                        <did>
+                            <unittitle>30:3 District Conference, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref579" level="item">
+                        <did>
+                            <unittitle>30:4 District Governor's Golf Outing, 1987-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref580" level="item">
+                        <did>
+                            <unittitle>30:5 Dreggs, 1985-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref581" level="item">
+                        <did>
+                            <unittitle>30:6 Environmental, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref582" level="item">
+                        <did>
+                            <unittitle>30:7 Extension, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref583" level="item">
+                        <did>
+                            <unittitle>30:8 Finance &amp; Budget, 1988-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref584" level="item">
+                        <did>
+                            <unittitle>30:9 Finance &amp; Budget, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref585" level="item">
+                        <did>
+                            <unittitle>30:10 Fireside, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref586" level="item">
+                        <did>
+                            <unittitle>30:11 Dick Hedke Award, 1975-76</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref587" level="subseries">
+                    <did>
+                        <unittitle>BOX 31</unittitle>
+                    </did>
+                    <c03 id="ref588" level="item">
+                        <did>
+                            <unittitle>31:1 Dick Hedke Award, 1988-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref589" level="item">
+                        <did>
+                            <unittitle>31:2 Hospitality, 198 -92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref590" level="item">
+                        <did>
+                            <unittitle>31:3 Interact Club, 1992</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref591" level="item">
+                        <did>
+                            <unittitle>31:4 International Rotary Foundation, 1985-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref592" level="item">
+                        <did>
+                            <unittitle>31:5 International Rotary Foundation, 1991-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref593" level="item">
+                        <did>
+                            <unittitle>31:6 International Service, 1988-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref594" level="item">
+                        <did>
+                            <unittitle>31:7 International Service, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref595" level="item">
+                        <did>
+                            <unittitle>31:8 Invocation, 1988-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref596" level="item">
+                        <did>
+                            <unittitle>31:9 Kresge Award, 1987-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref597" level="item">
+                        <did>
+                            <unittitle>31:10 Kresge Fund, 1987-89</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref598" level="item">
+                        <did>
+                            <unittitle>31:11 Membership, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref599" level="item">
+                        <did>
+                            <unittitle>31:12 Membership, 1989-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref600" level="item">
+                        <did>
+                            <unittitle>31:13 Membership Development, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref601" level="subseries">
+                    <did>
+                        <unittitle>BOX 32</unittitle>
+                    </did>
+                    <c03 id="ref602" level="item">
+                        <did>
+                            <unittitle>32:1 Membership Retention &amp; Orientation, 1989-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref603" level="item">
+                        <did>
+                            <unittitle>32:2 Music, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref604" level="item">
+                        <did>
+                            <unittitle>32:3 Nominating, 1991</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref605" level="item">
+                        <did>
+                            <unittitle>32:4 Picnic, 1987-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref606" level="item">
+                        <did>
+                            <unittitle>32:5 PolioPlus, 1986-88</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref607" level="item">
+                        <did>
+                            <unittitle>32:6 PolioPlus, 1990-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref608" level="item">
+                        <did>
+                            <unittitle>32:7 PolioPlus--District Focus Newsletter, 1987-88</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref609" level="item">
+                        <did>
+                            <unittitle>32:8 PolioPlus--Records of Subscriptions, 1988</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref610" level="item">
+                        <did>
+                            <unittitle>32:9 President's Ball, 1987-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref611" level="item">
+                        <did>
+                            <unittitle>32:10 Program, 1989-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref612" level="item">
+                        <did>
+                            <unittitle>32:11 Program, 1991-92</unittitle>
+                        </did>
+                        <c04 id="ref616" level="subseries">
+                            <did>
+                                <unittitle>BOX 33</unittitle>
+                            </did>
+                            <c05 id="ref617" level="item">
+                                <did>
+                                    <unittitle>33:1 Rotary International Scholarships, 1988-92</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref618" level="item">
+                                <did>
+                                    <unittitle>33:2 Rotoscope, 1987-91</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref619" level="item">
+                                <did>
+                                    <unittitle>33:3 Sargeant-at-Arms, 1990-91</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref620" level="item">
+                                <did>
+                                    <unittitle>33:4 Special Events, 1988-91</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref621" level="item">
+                                <did>
+                                    <unittitle>33:5 Vocational Service, 1980-89</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref622" level="item">
+                                <did>
+                                    <unittitle>33:6 Vocational Service, 1990-91</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref623" level="item">
+                                <did>
+                                    <unittitle>33:7 Vocational Service, 1992</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref624" level="item">
+                                <did>
+                                    <unittitle>33:8 Youth Exchange, 1988-91</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref625" level="item">
+                                <did>
+                                    <unittitle>33:9 Youth Service, 1988</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref626" level="item">
+                                <did>
+                                    <unittitle>33:10 Youth Service, 1989</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref627" level="item">
+                                <did>
+                                    <unittitle>33:11 Youth Service, 1990-91</unittitle>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref613" level="item">
+                        <did>
+                            <unittitle>32:12 Roster, 1988-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref614" level="item">
+                        <did>
+                            <unittitle>32:13 Rotoract, 1988-90</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref615" level="item">
+                        <did>
+                            <unittitle>32:14 Rotary Information, 1988-91</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Series V: Public Relations</unittitle>
+                </did>
+                <odd id="ref628">
+                    <head>General note</head>
+                    <p>Publicity, publications and general correspondence for the Detroit Rotary Club are contained in this series. Also included are miscellaneous audiotapes and sheet music.</p>
+                </odd>
+                <c02 id="ref629" level="series">
+                    <did>
+                        <unittitle>Box 32 (continued)</unittitle>
+                    </did>
+                    <c03 id="ref630" level="item">
+                        <did>
+                            <unittitle>33:12 Awards</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref631" level="item">
+                        <did>
+                            <unittitle>33:13 Catalogs</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref632" level="subseries">
+                    <did>
+                        <unittitle>BOX 34</unittitle>
+                    </did>
+                    <c03 id="ref633" level="item">
+                        <did>
+                            <unittitle>34:1 Correspondence, 1917-38</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref634" level="item">
+                        <did>
+                            <unittitle>34:2 Correspondence, 1940-91</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref635" level="item">
+                        <did>
+                            <unittitle>34:3 Correspondence--Donation Letters, 1966-67</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref636" level="item">
+                        <did>
+                            <unittitle>34:4 Correspondence--Donation Letters, 1968-69</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref637" level="item">
+                        <did>
+                            <unittitle>34:5 Correspondence--Donation Letters, 1970-72</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref638" level="item">
+                        <did>
+                            <unittitle>34:6 Donations, 1991-92</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref639" level="item">
+                        <did>
+                            <unittitle>34:7 Newspaper Clippings, 1955-57</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref640" level="item">
+                        <did>
+                            <unittitle>34:8 Newspaper/Rotoscope Clippings</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref641" level="item">
+                        <did>
+                            <unittitle>34:9 Photographs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref642" level="item">
+                        <did>
+                            <unittitle>34:10 Press Releases &amp; Correspondence</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref643" level="item">
+                        <did>
+                            <unittitle>34:11 Rotoscope Material</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref644" level="otherlevel">
+                    <did>
+                        <unittitle>Subseries A: Music</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref645" level="subseries">
+                    <did>
+                        <unittitle>BOX 35</unittitle>
+                    </did>
+                    <c03 id="ref646" level="item">
+                        <did>
+                            <unittitle>35:1 Choral Arrangements</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref647" level="item">
+                        <did>
+                            <unittitle>35:2 Christmas Carols</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref648" level="item">
+                        <did>
+                            <unittitle>35:3 Sheet Music &amp; Song Sheets</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref649" level="item">
+                        <did>
+                            <unittitle>35:4 Sheet Music and Song Books</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref650" level="subseries">
+                    <did>
+                        <unittitle>BOX 36: Sheet Music and Song Books</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref651" level="otherlevel">
+                    <did>
+                        <unittitle>Subseries- Rotoscope Newsletters</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref652" level="subseries">
+                    <did>
+                        <unittitle>BOX 37: 1915-23</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref653" level="subseries">
+                    <did>
+                        <unittitle>BOX 38: 1924-30</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref654" level="subseries">
+                    <did>
+                        <unittitle>BOX 39: 1931-43</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref672" level="item">
+                    <did>
+                        <unittitle>16 mm film: "The Great Adventure", 1955</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref655" level="subseries">
+                    <did>
+                        <unittitle>BOX 40: 1944-49; 1953-55; 1959-64</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref656" level="subseries">
+                    <did>
+                        <unittitle>BOX 41: 1975-86</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref657" level="subseries">
+                    <did>
+                        <unittitle>BOX 42: 1987-96</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref658" level="otherlevel">
+                    <did>
+                        <unittitle>Subseries C: Scrapbooks</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref659" level="subseries">
+                    <did>
+                        <unittitle>BOX 43: Scrapbooks, 1930-31; 1931-36; 1933-34; 1936-41; 1941-44</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref660" level="subseries">
+                    <did>
+                        <unittitle>BOX 44: Newspaper Clippings from Scrapbooks, 1924; 1929; 1934; 1940-45; 1946-49; 1950; 1950-54</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref661" level="subseries">
+                    <did>
+                        <unittitle>LMS: Newspaper Clippings from Scrapbooks, 1948-55</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref662" level="subseries">
+                    <did>
+                        <unittitle>Bound Volumes:</unittitle>
+                    </did>
+                    <c03 id="ref663" level="item">
+                        <did>
+                            <unittitle>Receipts &amp; Disbursements, 1915-23; 1923-29; 1929-34; 1934-38; 1941-45; 1945-47; 1953-56</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref664" level="item">
+                        <did>
+                            <unittitle>Cash Book, 1911-15</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref665" level="item">
+                        <did>
+                            <unittitle>Student Loans, 1928-72</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref666" level="subseries">
+                    <did>
+                        <unittitle>Notebooks</unittitle>
+                    </did>
+                    <c03 id="ref667" level="item">
+                        <did>
+                            <unittitle>Traditions &amp; Practices, 1991</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref668" level="item">
+                        <did>
+                            <unittitle>Committee Leaflets</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref669" level="item">
+                        <did>
+                            <unittitle>Dick Hedke Award, 1989</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref670" level="item">
+                        <did>
+                            <unittitle>Dick Hedke Reports, 1990-91</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref671" level="subseries">
+                    <did>
+                        <unittitle>Films</unittitle>
+                    </did>
+                    <c03 id="ref673" level="item">
+                        <did>
+                            <unittitle>8 mm film: "Feature Story--Dwayne Riley, WWJ-TV, Rotary Show Rehearsal, June 16, 1965"</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref674" level="item">
+                        <did>
+                            <unittitle>8 mm film: "Rotary Bowling League" (2 reels)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref675" level="subseries">
+                    <did>
+                        <unittitle>Cassette Tapes: Rotary Sing-A-Long (2 tapes)</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref676" level="subseries">
+                    <did>
+                        <unittitle>Reel-to-reel tapes</unittitle>
+                    </did>
+                    <c03 id="ref678" level="item">
+                        <did>
+                            <unittitle>Recorded Music</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref679" level="item">
+                        <did>
+                            <unittitle>640 District Conference, May 1974 (2 reels)</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref680" level="subseries">
+                    <did>
+                        <unittitle>Slides: "Most Important Man" (2 carousels)</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

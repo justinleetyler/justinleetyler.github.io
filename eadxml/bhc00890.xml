@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for First Baptist Church records, <date encodinganalog="Date">1827-1927.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00890</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">First Baptist Church (Detroit, Mich.)</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">First Baptist Church records, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1827-1927.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">14.6 linear ft. </extent>
+        <extent encodinganalog="300$b">(4 wallets, 46 volumes).</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Includes correspondence, registers, treasurers' records, clerks registers, record books, records of subscriptions to Baptist periodicals for church members, catalogue of members, sunday school records, minutes and records of the Board of Deacons, Board of Trustees, General Efficiency Committee, and related groups including the Women's Union, W.A.S. (Welcome All Strangers) Society, Woman's Mission Circle, Ladies Benevolent Society, Ladies Aid Society, and Women Aid society. Also includes records for Green Ave. Baptist Church and North Baptist Church.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Founded 1827.</p>
+    </bioghist>
+    <odd encodinganalog="500" id="a5">
+      <head>General note</head>
+      <p>See finding aid for complete listing.</p>
+    </odd>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">First Baptist Church (Detroit, Mich.) -- Archives</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Green Ave. Baptist Church (Detroit, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">North Baptist Church (Detroit, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Baptists -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Church records -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Financial records -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Clippings (information artifacts) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Minutes -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Registers (lists) -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="series"><did><unittitle>			Inventory (First Baptist Church)		</unittitle></did>						
+<c02 level="file"><did><unitid>		</unitid><unittitle>	Inventory, correspondence, and miscellanea.	</unittitle><unitdate>	1885-1927	</unitdate><physdesc><physfacet>	1 wallet.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	A1	</unitid><unittitle>	Treasurer's records.	</unittitle><unitdate>	1872-1895	</unitdate><physdesc><physfacet>	10 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes of meetings of the First Baptist Church and Society.	</unittitle><unitdate>	1875-1906.	</unitdate><physdesc><physfacet>	3 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes, etc. of the W.A.S. Society.	</unittitle><unitdate>	1876-1882.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes of the Board of Deacons.	</unittitle><unitdate>	1879-1918.	</unitdate><physdesc><physfacet>	4 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes of the General Efficiency Committee.	</unittitle><unitdate>	1900-1903.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes of the Women's Baptist Union.	</unittitle><unitdate>	1908-1922.	</unitdate><physdesc><physfacet>	3 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Records of the Clerk.	</unittitle><unitdate>	1827-1914.	</unitdate><physdesc><physfacet>	4 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Records of the First Baptist Church and Society.	</unittitle><unitdate>	1833-1844.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Record books of the Woman's Society.	</unittitle><unitdate>	1899-1912.	</unitdate><physdesc><physfacet>	3 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Record of subscriptions to Baptist periodicals by members.	</unittitle><unitdate>	1914-1930.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Catalog of Members.	</unittitle><unitdate>	1827-1895.	</unitdate><physdesc><physfacet>	2 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Sunday – School roll.	</unittitle><unitdate>	1893-1902.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			</c01>
+<c01 level="series"><did><unittitle>			Inventory (North Church)		</unittitle></did>						
+<c02 level="file"><did><unitid>		</unitid><unittitle>	Correspondence, letters of dismission, letters of admission, and miscellanea.	</unittitle><unitdate>	1894-1912	</unitdate><physdesc><physfacet>	1 wallet.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	L4	</unitid><unittitle>	Ledger.	</unittitle><unitdate>	1900-1901.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Secretary's Minute books of the Ladies Aid Society.	</unittitle><unitdate>	1893-1912.	</unitdate><physdesc><physfacet>	2 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minutes of the Meetings of the Board of Trustees.	</unittitle><unitdate>	1893-1912.	</unitdate><physdesc><physfacet>	2 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	M6	</unitid><unittitle>	Minute book of the Women's Missionary Society.	</unittitle><unitdate>	1904-1911.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Record book.	</unittitle><unitdate>	1888-1890.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Clerk's records.	</unittitle><unitdate>	1890-1912.	</unitdate><physdesc><physfacet>	3 volumes.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R2	</unitid><unittitle>	Record book of the Women's Society.	</unittitle><unitdate>	1912-1914.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	R5	</unitid><unittitle>	Report of the Finance Committee.	</unittitle><unitdate>	1906-1908.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			
+<c02 level="file"><did><unitid>	SB	</unitid><unittitle>	Scrapbook.	</unittitle><unitdate>	1904-1905.	</unitdate><physdesc><physfacet>	1 volume.	</physfacet></physdesc></did></c02>			</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

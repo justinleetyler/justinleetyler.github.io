@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Divie Bethune Duffield papers,<date encodinganalog="Date"> 1759-1890.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit and produced using the Archivists' Toolkit
+                        <date era="ce" calendar="gregorian" normal="2003">2003</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00784</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Duffield, D. Bethune(Divie Bethune),1821-1891.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Divie Bethune Duffield papers,</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1759-1890.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">30 linear ft.</extent>
+        <physfacet encodinganalog="300$b"> (40 boxes 32 wallets 100 volumes 12 large manuscripts)</physfacet>
+      </physdesc>
+      <abstract encodinganalog="520$a">Contains legal papers, correspondence of the Bethune and Graham families, monthly list of interments at Elmwood Cemetery (1872-1883).</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Detroit lawyer, member of the Detroit Board of Education (1847-1869), called the "Father of the High School."Born in Carlistle, Penn. on Aug. 29, 1821, Divie Bethune Duffield moved with his parents to Philadelphia in 1835. He graduated from Yale University in 1840 and Yale Law School in 1841. He had come to Detroit in 1839, and was admitted to the Michigan Bar in 1843. Duffield became city attorney in 1847. As a member of the Detroit Board of Education from 1847 to 1869, he was called "Father of the High School". Duffield was the author of several poems. He died in Detroit on Mar 12, 1891.</p>
+    </bioghist>
+    <odd encodinganalog="500" id="a5">
+      <head>General note</head>
+      <p>Description based on entry in: Guide to the manuscripts in the Burton Historical Collection / compiled by Bernice Cox Sprenger. Detroit, Mich. : the Burton Historical Collection, Detroit Public Library, 1985.</p>
+    </odd>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Collection indexed in card file in library.</p>
+    </otherfindaid>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Duffield, D. Bethune -- (Divie Bethune), -- 1821-1891.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Graham family</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Elmwood Cemetery (Detroit, Mich.)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Yale University -- Alumni and alumnae.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Education -- Michigan -- Detroit</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Financial records. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Cash books. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Diaries. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box">	1	</container><unittitle>	Correspondence, 1759-1797			</unittitle></did>					
+<c02 level="file"><did><container type="Box">	2	</container><unittitle>	1798-1807			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	3	</container><unittitle>	1808-1819			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	4	</container><unittitle>	1820-1825			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	5	</container><unittitle>	1826-1850			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	6	</container><unittitle>	1851-1858			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	7	</container><unittitle>	1859-1867; Civil War Letters; Golden Wedding, 1867			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	8	</container><unittitle>	1868-1876			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	9	</container><unittitle>	1877 January-September			</unittitle></did>					
+<c03 level="file"><did><container type="Box">	10	</container><unittitle>	October-December - 1878 January-July			</unittitle></did>		</c03>	</c02>		
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	1878 August-December - 1879			</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Box">	12	</container><unittitle>	Correspondence, 1880			</unittitle></did>					
+<c02 level="file"><did><container type="Box">	13	</container><unittitle>	1881-1882			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	14	</container><unittitle>	1883-1918			</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Box">	14	</container><unittitle>	Genealogy			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	15	</container><unittitle>	B46 D5 Religious Writings, 1794-1799			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	16	</container><unittitle>	G7B Originals and Transcripts of Graham Letters, 1767-1795			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	17	</container><unittitle>	L55 1850-1883			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	18	</container><unittitle>	Legal Files			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	19	</container><unittitle>	Papers relating to legal and personal business			</unittitle></did>					
+<c02 level="file"><did><container type="Box">	19	</container><unittitle>	ZA13 - ZB953			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	20	</container><unittitle>	ZC16 - ZC88			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	21	</container><unittitle>	ZC883 - ZD93			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	22	</container><unittitle>	ZE 19 - Z154			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	23	</container><unittitle>	ZE48 Elmwood Cemetery Records			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	24	</container><unittitle>	ZT95 - ZZ42			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	25	</container><unittitle>	ZJ15-ZL91			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	26	</container><unittitle>	ZM178 - ZM58zs			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	27	</container><unittitle>	ZM6 - ZS617			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	28 - 29	</container><unittitle>	Z - ZP322			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Box">	30	</container><unittitle>	ZS633 - ZT857			</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Box">	31	</container><unittitle>	1884-1887			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	32	</container><unittitle>	1888-1906			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Box">	33 - 40 	</container><unittitle>	Unsorted Legal Papers			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	C2		1886			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	C5 Cash Books, 1843-1848 					</unittitle></did>					
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1844-1851 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1848-1855 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1851-1855 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1855-1858 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1855-1862 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1858-1864 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1865-1869 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1868-1874 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1874-1892 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1874-1878					</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	D3 Day Books, 1856-1861					</unittitle></did>					
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1861-1865					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1865-1873					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1874-1883					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1882-1887					</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	D33 Daily Journals, 1866 					</unittitle></did>					
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1878					</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	D5 Diaries, 1876 					</unittitle></did>					
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1877 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1879 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1880 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1881 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1882 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1883 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1884 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1885					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1886 (2 Volumes) 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1887 (2 Volumes) 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1888 (2 Volumes) 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1889					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1890					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1891 (2 Volumes) 					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1892					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1893					</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="Volume"></container><unittitle>	1894					</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZM6J8					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZP1L5		P.F.U. Rubber Company, 1905-1908			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZR54L5		Letter Book			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZR6/D5		1828-1850			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZS6L4		Ledger, 1864-1868			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Volume"></container><unittitle>	ZS14		1881			</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	L61/L55/P7					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	M5 Genealogy Notes					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZA3 - ZT9					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZB3R2 1864-1872; ZC28; ZC4; 13 1880 					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZB3 2 wallets					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZB3C3 1864-1881 					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZE5D33 1853 ZR54 Legal Papers					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZH26 English Testimony (8 wallets)					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZM5r - ZM5rM 					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZM5rO (2 wallets) Z89 - ZS92					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZR54 Accounts (2 wallets)					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZR54 L2 (4 wallets)					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZR54 L55 Algonac-Montreal					</unittitle></did>					
+<c02 level="file"><did><container type="Wallet"></container><unittitle>	Mt. Clemens-Windsor					</unittitle></did>			</c02>	</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZR6 D5 Root Diary, 1828-1850					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="Wallet"></container><unittitle>	ZD4/R2 1886-1890					</unittitle></did>				</c01>	
+<c01 level="file"><did><container type="LMS"></container><unittitle>	LMS Elmwood Cemetery					</unittitle></did>					
+<c02 level="file"><did><container type="LMS">	1	</container><unittitle>	1871-1873			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	2	</container><unittitle>	1874			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	3	</container><unittitle>	1875			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	4	</container><unittitle>	1876			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	5	</container><unittitle>	1877			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	6	</container><unittitle>	1878			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	7	</container><unittitle>	1879			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	8	</container><unittitle>	1880			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	9	</container><unittitle>	1881			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	10	</container><unittitle>	1882			</unittitle></did>			</c02>		
+<c02 level="file"><did><container type="LMS">	11	</container><unittitle>	1883			</unittitle></did>			</c02>	</c01>	
+
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for Henry Dearborn correspondence
+                    
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Henry Dearborn correspondence</unittitle>
+            <unitid>00635</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>0.1 Linear feet</extent>
+                <extent>(1 microfilm reel) </extent>
+            </physdesc>
+            <unitdate normal="1805/1815" type="inclusive">1805-1815.</unitdate>
+            <langmaterial id="ref5" label="Language of Materials">In English.</langmaterial>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Barker, Daniel, Lieut.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="crp">Clinton, Dewit.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Dearborn, Henry, 1751-1829.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Eustis, W.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Greenup, Christopher, 1750-1818</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Hamtramck, John Francis, 1756-1803</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Hull, William, 1753-1825.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Kinsburg, Jacob.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Morrison, James, 1755-1823.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Smith, John, of Ohio.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Wilkinson, James, 1757-1825.</persname>
+            </origination>
+            <origination label="creator">
+                <persname source="ingest" role="crp">Woodward, Augustus B.,  (Augustus Brevoort), d. 1827</persname>
+            </origination>
+        </did>
+        <scopecontent id="ref1">
+            <head>Scope and Contents note</head>
+            <p>Letters of General Dearborn, one-time Secretary of War; also customs reports, Army paymaster records.</p>
+        </scopecontent>
+        <acqinfo id="ref2">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00635</p>
+        </acqinfo>
+        <accessrestrict id="ref3">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Son of Simon and Sarah (Marston) Dearborn, born in Hampton, New Hampshire, February 23, 1751. Became a physician; fought at Bunker Hill; taken prisoner while on Arnold expedition to Quebec; was exchanged and fought throughout revolution, after which he settled in Kennebec County, Maine was in Congress, 1793-1797; in 1801 Jefferson appointed him Secretary of War. 1809 resigned to become collector of port of Boston, January, 1812, Major General, U.S.A. His incompetence caused havoc in Lake regions. Honorably discharged June 15, 1815. In 1822 went as minister to Portugal. Married three times: Mary Bartlett, 1771: Dorcas Osgood Marble, 1780: Sarah Bowdoin, 1813. Died, June 6, 1829. (Dict. Am. Biog.) (Blue index cards)</p>
+        </bioghist>
+        <controlaccess>
+            <corpname source="ingest" role=" ">United States. Army.</corpname>
+            <corpname source="ingest" role=" ">United States. War Dept. Office of the Paymaster General.</corpname>
+            <corpname source="ingest" role=" ">United States. War Dept.</corpname>
+            <genreform source="aat">Microfilms</genreform>
+            <genreform source="aat">Military records</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>Letter Book.</unittitle>
+                    <container type="Volume">1</container>
+                    <unitdate>June 19, 1814 - May 15, 1815.</unitdate>
+                </did>
+                <scopecontent id="ref7">
+                    <head>Scope and Contents note</head>
+                    <p>Headquarters, Military District no. 1, Boston.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>Letter to Lt. Col. John F. Hamtramck, 1st Regt. Infy. [Detroit]</unittitle>
+                    <physdesc>
+                        <extent>2 p. handwritten signed</extent>
+                    </physdesc>
+                    <unitdate>November 4, 1801</unitdate>
+                </did>
+                <scopecontent id="ref9">
+                    <head>Scope and Contents note</head>
+                    <p>Re time of arrival of Gen. Lyman who has been appointed Indian agent at Detroit.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>Letter to Maj. Jacob Kinsburg, Fort Wilkinson, Ga. War dept.</unittitle>
+                    <physdesc>
+                        <extent>2 p. handwritten</extent>
+                    </physdesc>
+                    <unitdate>November 16, 1802.</unitdate>
+                </did>
+                <scopecontent id="ref11">
+                    <head>Scope and Contents note</head>
+                    <p>Enclosing contracts for supplies for the State of Georgia.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Letter to Maj. Jacob Kinsbury, Fort Wilkinson, Georgia. War Dept.</unittitle>
+                    <physdesc>
+                        <extent>1 p. handwritten (letter book copy) </extent>
+                    </physdesc>
+                    <unitdate>November 16, 1802</unitdate>
+                </did>
+                <scopecontent id="ref13">
+                    <head>Scope and Contents note</head>
+                    <p>Referring to the contract for the supply of rations.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Letter to Maj. Jacob Kinsbury, Fort Wilkinson, Georgia. War Dept.</unittitle>
+                    <physdesc>
+                        <extent>1 p. handwritten (letter book copy) </extent>
+                    </physdesc>
+                    <unitdate>January 4, 1803</unitdate>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>Acknowledging receipt of contract for supplies</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Letter from Lt. Col. Jacob Kinsbury, Fort Wilkinson, Georgia. War Dept.</unittitle>
+                    <physdesc>
+                        <extent>1 l. handwritten (letter book copy) </extent>
+                    </physdesc>
+                    <unitdate>May 213, 1803</unitdate>
+                </did>
+                <scopecontent id="ref17">
+                    <head>Scope and Contents note</head>
+                    <p>Notifying Kinsbury of his promotion to Lieutenant Colonel.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref20" level="item">
+                <did>
+                    <unittitle>Report</unittitle>
+                    <physdesc>
+                        <extent>1 l. handwritten signed.</extent>
+                    </physdesc>
+                    <unitdate>circa 1805</unitdate>
+                </did>
+                <scopecontent id="ref19">
+                    <head>Scope and Contents note</head>
+                    <p>On the bill for the relief of Chloe Shannan and Israel Ruland.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref22" level="item">
+                <did>
+                    <unittitle>Contract between Henry Dearborn, Secretary of War, and John Smith of the State of Ohio.</unittitle>
+                    <physdesc>
+                        <extent>3 p. handwritten (letter book copy) </extent>
+                    </physdesc>
+                    <unitdate>June 9, 1806</unitdate>
+                </did>
+                <scopecontent id="ref21">
+                    <head>Scope and Contents note</head>
+                    <p>Agreement for the inventory of rations supplied.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref24" level="item">
+                <did>
+                    <unittitle>Letter to Lieut. Danie Baker. War Dept.</unittitle>
+                    <physdesc>
+                        <extent>1 l. handwritten signed.</extent>
+                    </physdesc>
+                    <unitdate>November 19, 1806</unitdate>
+                </did>
+                <scopecontent id="ref23">
+                    <head>Scope and Contents note</head>
+                    <p>Commission promoting Daniel Baker to rank of First Lieutenant.</p>
+                </scopecontent>
+            </c01>
+            <c01 id="ref26" level="item">
+                <did>
+                    <unittitle>Letter to Gov. Hull. War dept., Feb. 17, 1807.</unittitle>
+                    <physdesc>
+                        <extent>1 l. handwritten copy</extent>
+                    </physdesc>
+                    <unitdate>1807 February 17</unitdate>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>regarding the military reserve</p>
+                </scopecontent>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

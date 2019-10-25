@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Dutilh Family papers, <date encodinganalog="Date">1755-1875.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00799</unitid>
+      <unittitle encodinganalog="245$a" type="collection">Dutilh Family papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1755-1875.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">32 linear ft. </extent>
+        <extent encodinganalog="300$b">(64 boxes, 2 large manuscript, 2 microfilm reels)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">The effect on trade conditions of the French and American revolutions, difficulties with Great Britain culminating in the Embargo Act, emigrants selling their services for a term of years in return for passage to America, and plans for construction of slave dwellings are some of the subjects of interest.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English, French, Spanish, German, and Dutch.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Etienne Dutilh established the firm of Etienne Dutilh &amp; Company on Oct. 19, 1789. Etienne Dutilh was in Rotterdam in 1771; in London in 1777; and in Philadelphia in 1789, where on October 19 he established the firm of Etienne Dutilh and Company. In 1755 the members of the family were in France and Holland, and soon afterward in England, Smyrna, and the West Indies.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Chronologically</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Dutilh Family.</famname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">United States -- Economic conditions -- History -- 18th century.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">United States -- Economic conditions -- 1865-1918.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">United States -- Social conditions -- To 1865.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">United States -- Social conditions -- 1865-1918.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Personal correspondence. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box">	1:	</container><unittitle>	Correspondence, 1755 — 1782 June			</unittitle></did>		
+<c02 level="file"><did><container type="Box">	2:	</container><unittitle>	1782 July — 1784 May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	3:	</container><unittitle>	1784 May — 1785 July			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	4:	</container><unittitle>	1785 August — 1786 May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	5:	</container><unittitle>	1786 June-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	6:	</container><unittitle>	1787 January-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	7:	</container><unittitle>	July-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	8:	</container><unittitle>	1788 January-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	9:	</container><unittitle>	July-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	10:	</container><unittitle>	1789 January-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	11:	</container><unittitle>	July-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	12:	</container><unittitle>	1790 January-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	13:	</container><unittitle>	July-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	14:	</container><unittitle>	1791 January-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	15:	</container><unittitle>	September —1792 March			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	16:	</container><unittitle>	April-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	17:	</container><unittitle>	September-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	18: 	</container><unittitle>	1793 January-March			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	19: 	</container><unittitle>	April-May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	20: 	</container><unittitle>	June-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	21: 	</container><unittitle>	September-October			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	22: 	</container><unittitle>	November-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	23: 	</container><unittitle>	1794 January-February			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	24: 	</container><unittitle>	March-April			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	25: 	</container><unittitle>	May-July			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	26: 	</container><unittitle>	August-October			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	27:	</container><unittitle>1794 November-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	28:	</container><unittitle>	1795 January-March			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	29:	</container><unittitle>	April-May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	30:	</container><unittitle>	June-July			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	31:	</container><unittitle>	August-September			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	32:	</container><unittitle>	October-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	33:	</container><unittitle>	1796 January-April			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	34:	</container><unittitle>	May-September			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	35:	</container><unittitle>	October-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	36:	</container><unittitle>	1797 January-April			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	37:	</container><unittitle>	May-September			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	38:	</container><unittitle>	June-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	39:	</container><unittitle>	September-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	40:	</container><unittitle>	1798 January-April			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	41:	</container><unittitle>	May-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	42:	</container><unittitle>	September-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	43:	</container><unittitle>	1799 January-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	44:	</container><unittitle>	September-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	45:	</container><unittitle>	1800 January-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	46:	</container><unittitle>	July-October			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	47:	</container><unittitle>	November-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	48:	</container><unittitle>1801 January-May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	49:	</container><unittitle>	June-August			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	50:	</container><unittitle>	September-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	51:	</container><unittitle>	1802 January-March			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	52:	</container><unittitle>	April-June			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	53:	</container><unittitle>	July-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	54:	</container><unittitle>	1803 January-May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	55:	</container><unittitle>	June-December			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	56:	</container><unittitle>	1804 — 1805 January-May			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	57:	</container><unittitle>	April-September			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	58:	</container><unittitle>	October-December — 1806 February			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	59:	</container><unittitle>	1806 March-September			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	60:	</container><unittitle>	October-December — 1807			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	61:	</container><unittitle>	1808-1810			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	62:	</container><unittitle>	1811-1824			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	63:	</container><unittitle>	1825 — Not Dated			</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="Box">	64:	</container><unittitle>	Not Dated			</unittitle></did>	</c02>	</c01>
+<c01 level="file"><did><container type="Box">	64:	</container><unittitle>	R2: General Prescription and Recipe Book, 1914-1875.			</unittitle></did>		</c01>
+<c01 level="file"><did><container type="LMS"></container><unittitle>Miscellaneous documents</unittitle></did>
+<c02 level="file"><did><container type="LMS">Folder 1</container><unittitle>1784-1795</unittitle></did></c02>
+<c02 level="file"><did><container type="LMS">Folder 2</container><unittitle>1799-1810</unittitle></did></c02></c01>
+
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Ray Girardin papers,<date encodinganalog="Date">1962-1968</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">01005</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Girardin, Ray</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Ray Girardin papers,</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1962-1968</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">5.5 linear ft.</extent>
+        <extent encodinganalog="300$b">(11 boxes, 1 large manuscript)</extent>
+      </physdesc>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>White index cards filed in the Burton Historical Collection.</p>
+    </otherfindaid>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Girardin, Ray -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Detroit (mich.) -- Race relations.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">African Americans -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Riots -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Biographies -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Invitations -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Speeches -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="subseries"><did><container type="Box">		</container><unittitle>	Biography		</unittitle></did>					
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Bethel A.M.E. Church - Speech of Mayor Janes Cavanagh May 17; 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Conferences - First National Conference on Crime Control March 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Conferences - International Association of Chiefs of Police October 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Conferences - Najor Cities Police Adr instrators April 30, 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Conferences - White House Conference - "To Fulfill these Rights" June 1, 1966		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Correspondence - Congratulations on Appointment as Police Cornissioner 1964		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	Correspondence - December 1963 - March 1964		</unittitle></did>			</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="Box">		</container><unittitle>	Correspondence		</unittitle></did>					
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	April - December 1964		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	January - June 1965		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	January - June 1966		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	1	</container><unittitle>	July - December 1966		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	2	</container><unittitle>	April - December 1964		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	2	</container><unittitle>	January - June 1965		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	2	</container><unittitle>	July - Demember  1965		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	2	</container><unittitle>	July - Demember 1966		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	3	</container><unittitle>	January - June 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	3	</container><unittitle>	July - Demember 1967		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	3	</container><unittitle>	1968		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	3	</container><unittitle>	Retirement		</unittitle></did>			</c02>		
+<c02 level="subseries"><did><container type="Box">	3	</container><unittitle>	Detroit Police Officers Association		</unittitle></did>			</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="Box">		</container><unittitle>	Detroit Riot - 1967				</unittitle></did>			
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Activity Log, Headquarters				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Command Post July 23 - August 7, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Appearance of the City of Detroit - Before the President's Commission on Civil Disorder August 15, 1967.				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Correspondence with Mayor James Cavanagh regarding response of Police Department during the civil disturbance - October 20, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Detective Division July 22-23, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	The Detroit Police Department and the Detroit Civil Disorder - December 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>	Disorder log - July 23, 1967 - 10:45 A.M. - 11 :58 P.M. 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>		July 24, 1967 - 12:00 A.M. - 11:58 P.M.			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>		July 24, 1967 - 11:58 P.M. - July 26, 1967 11:56 P.M.			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	4	</container><unittitle>		July 27, 1967 - 12:00 A.M. - August 2, 1967 9:32 A.M.			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	5	</container><unittitle>	Final Report of Cyrus R. Vance concerning the Detroit Riots, September 12, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	5	</container><unittitle>	Fire Department - Civil Disturbance - July 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	5	</container><unittitle>	Injuries and fatalities				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	5	</container><unittitle>	Investigation of the shooting of M. Dalton - July 26, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	5	</container><unittitle>	Mayor Jerome Cavanagh report to the people - March 6, 1968 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Mayor's Development Team Report - October 26, 1967 - Vol. 1				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>		October 26,1967 - Vol. 2A			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Mayor's Development Team Report - October 26, 1967 - Vol.2A				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>		October 26, 1967 - Vol.2B			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Misdemeanor Riot Cases - July 23-31, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	National Advisory Commission on Civil Disorders Report 1968 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Photographs				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Senate Permanent Subcorrittee on Investigations - testimony by City of Detroit - March 21, 1968 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	6	</container><unittitle>	Statistical Report on the Civil Disorder occurring in Detroit - July 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	Fireams Legislation - July 18, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	Ford Motor Company Community Service Awards 1967				</unittitle></did>	</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="Box">		</container><unittitle>	Invitations				</unittitle></did>			
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	January - April 1964				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	May-August 1964				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	September - December 1964				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	7	</container><unittitle>	January - March 1965				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	April - June 1965				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	July - September 1965				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	October - Deterber 1965 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	January - May 1966				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	May - June 1966				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	8	</container><unittitle>	July - October 1966				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	9	</container><unittitle>	November 9, 1966				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	9	</container><unittitle>	January - March 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	9	</container><unittitle>	April - June 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	9	</container><unittitle>	June - October 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	9	</container><unittitle>	October - December 1968				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	10	</container><unittitle>	January - April 1968				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	10	</container><unittitle>	Nay - December 1968				</unittitle></did>	</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="Box">	10	</container><unittitle>	Photographs				</unittitle></did>		</c01>	
+<c01 level="subseries"><did><container type="Box">	10	</container><unittitle>	Police Department				</unittitle></did>		</c01>	
+<c01 level="subseries"><did><container type="Box">	10	</container><unittitle>	Progress Report 1962-1965				</unittitle></did>		</c01>	
+<c01 level="subseries"><did><container type="Box">	10	</container><unittitle>	Traffic Court Cureau 1967				</unittitle></did>		</c01>	
+<c01 level="subseries"><did><container type="Box">	10	</container><unittitle>	Red Cross- 1964-1965				</unittitle></did>		</c01>	
+										
+<c01 level="subseries"><did><container type="Box">		</container><unittitle>		Speeches			</unittitle></did>			
+<c02 level="subseries"><did><container type="Box">	10	</container><unittitle>		American Newspaper Guild - July 1965			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	10	</container><unittitle>		Economic Club of Detroit - June 5, 1967			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	International Institute Forum - March 5, 1967 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	Peoples Comiunity arch - March 28, 1966 				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	Safe Streets Crime Control - March 9, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	Safe Streets and Crime Control - March 9, 1967				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>		03/23/67			</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	Research material				</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>	by Joseph D. johraan				</unittitle></did>	</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="Box">	11	</container><unittitle>	Works				</unittitle></did>			
+<c02 level="subseries"><did><container type="Box">	11	</container><unittitle>		After the Riots: Force Won't Settle Anything -September 23, 1967				</unittitle></did>	</c02>	</c01>	
+										
+<c01 level="subseries"><did><container type="LMS">		</container><unittitle>	Oversized Manuscripts				</unittitle></did>		</c01>	
+<c01 level="subseries"><did><container type="LMS">		</container><unittitle>	Photographs - Ray Girardin and Hubert Locke				</unittitle></did>			
+<c02 level="subseries"><did><container type="LMS">		</container><unittitle>				Ray Girardin and Holy Trinity Church		</unittitle></did>	</c02>		
+<c02 level="subseries"><did><container type="LMS">		</container><unittitle>				Ray Girardin unidentified man		</unittitle></did>	</c02>	</c01>	
+<c01 level="subseries"><did><container type="Film">		</container><unittitle>Salute to Detroit Police Centennial - May 11, 1965		</unittitle></did>			</c01>
+    </dsc>
+  </archdesc>
+</ead>

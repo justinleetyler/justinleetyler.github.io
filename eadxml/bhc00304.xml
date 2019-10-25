@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Henry Billings Brown family papers, <date encodinganalog="Date">1855-1913.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00304</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Brown, Henry Billings, 1836-1913.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Henry Billings Brown family papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1855-1913.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">0.5 linear ft. </extent>
+        <extent encodinganalog="300$b">(1 box, 1 large manuscript)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Includes diaries and expense books, catalog of his library.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>U.S. Supreme Court Justice and U.S. Circuit judge for District of Eastern Michigan.</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Brown, Henry Billings, 1836-1913 -- Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Billings family.</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">United States. -- Supreme Court.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <geogname source="lcsh" rules="scm" role="subject" encodinganalog="651">United States -- History -- Civil War, 1861-1865.</geogname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Judges -- United States.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Diaries -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Financial records -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><unittitle>Correspondence, Civil War passes, etc. </unittitle><unitdate>1899-1913.</unitdate></did></c01>
+<c01 level="file"><did><unittitle>Diaries, </unittitle><unitdate>1855, 1858-1875.</unitdate></did><physdesc><head>Physical Description</head><p>19 v.</p></physdesc></c01>
+<c01 level="file"><did><unittitle>Library catalogue. </unittitle><unitdate></unitdate></did><physdesc><head>Physical Description</head><p>1 v.</p></physdesc></c01>
+<c01 level="file"><did><unittitle>Notebook recording expenses, Washington, </unittitle><unitdate>1904-1911.</unitdate></did></c01>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Malcolm Wallace Bingay papers, <date encodinganalog="Date">1930-1963.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00195</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Bingay, Malcolm Wallace, 1884-1953.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Malcolm Wallace Bingay papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1930-1963</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">1.3 linear ft. </extent>
+        <extent encodinganalog="300$b">(2 boxes, 1 volume). </extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">This collection of the Detroit Free Press columnist features correspondence, articles, stories and speeches. It contains autographed letters of numerous celebrities, most notably J. Edgar Hoover, Ty Cobb and Michigan Governor Kim Sigler.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Malcolm Bingay began his newspaper career as a teenager. He served as sports editor for the Detroit News from 1906-1910, and as city editor from 1910-1914. Mr. Bingay was promoted to managing editor in 1914 and was sent to manage the London, England bureau of the Detroit News in 1925. After returning to Detroit he joined the Detroit Free Press in 1930 as editorial director. As a columnist for the Detroit Free Press, he authored two daily features, "Good Morning" and "Iffy the Dopester". Mr. Bingay received an honorary Doctor of Letters degree from Wayne University in 1932, and Olivet College made him a Doctor of Laws in 1946. In his own profession of journalism, Mr. Bingay won the coveted Pulitzer Prize for a series of medical articles which were cited for their sharp insight and brilliant style. As a direct result of that honor, the Wayne County Medical Society named Mr. Bingay to the Detroit Medical Hall of Fame and conferred upon him an honorary membership. In April, 1945, Mr. Bingay was one of a group of twelve law makers and seventeen publishers and editors to see first-hand evidence of Nazi atrocities in Europe, visiting a number of concentration camps in German. Malcolm Bingay died in Detroit in August, 1953.</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use as of Dec. 26, 2006.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Bingay, Malcolm Wallace, -- 1884-1953 -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Journalists -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Clippings (information artifacts) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Signatures (names) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Speeches -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box:File">	1:1	</container><unittitle>	Articles ---Not Dated		</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	1:2	</container><unittitle>	Henry Ford, 1938-1947		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:3	</container><unittitle>	Old Trinity--St. Patrick's Day Column, 1953-1961		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:4	</container><unittitle>	on Detroit, 1930-1947		</unittitle></did>		</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">	1:5	</container><unittitle>	Articles and Correspondence, 1931-1935		</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	1:6	</container><unittitle>	1937-1938		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:7	</container><unittitle>	1939-1940		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:8	</container><unittitle>	1941		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:9	</container><unittitle>	1942-1943		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:10	</container><unittitle>	1944		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:11	</container><unittitle>	1945, January-June		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:12	</container><unittitle>	July-December		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	1:13	</container><unittitle>	1945-1946, with Bobbs-Merrill re. pre-publication of"Detroit is my Home Town"		</unittitle></did>		</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">	1:14	</container><unittitle>	Correspondence, 1946		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:1	</container><unittitle>	Correspondence, 1946, re. "Detroit is my Home Town ", April		</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	2:2	</container><unittitle>	May		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	2:3	</container><unittitle>	June-December		</unittitle></did>		</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">	2:4	</container><unittitle>	Articles and Correspondence, 1947		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:5	</container><unittitle>	Correspondence, 1948		</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	2:6	</container><unittitle>	1949,	January-June	</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	2:7	</container><unittitle>	July-December		</unittitle></did>		</c02>	
+<c02 level="file"><did><container type="Box:File">	2:8	</container><unittitle>	1950		</unittitle></did>		</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">	2:9	</container><unittitle>	Articles and Correspondence, 1951-1952		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:10	</container><unittitle>	Correspondence, 1953		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:11	</container><unittitle>	Biographical Data		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:12	</container><unittitle>	Lists		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:13	</container><unittitle>	Newspaper Clippings, 1932-1944		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:14	</container><unittitle>	Speeches, 1933-1946		</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	2:15	</container><unittitle>	Stories and Plays, 1937-1963		</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	2:16	</container><unittitle>	Iffy the Dopester , 1941-1945		</unittitle></did>			
+<c03 level="file"><did><container type="Box:File">	2:17	</container><unittitle>	Baseball's Troubadour		</unittitle></did>	</c03>	</c02>	</c01>
+
+    </dsc>
+  </archdesc>
+</ead>

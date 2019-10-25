@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for John Francis Hamtramck papers,
+                    <date encodinganalog="Date">1876-1858.</date>
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:54-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>John Francis Hamtramck papers,</unittitle>
+            <unitid>01113</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <physdesc>
+                <extent>1.5 linear ft.</extent>
+            </physdesc>
+            <unitdate>1876-1858.</unitdate>
+            <abstract id="ref2" label="Abstract">Papers contain originals and photostats of correspondence, accounts, military papers, family genealogies and other items relating to the settlement of the estate of Hamtramck's first wife and to Hamtramck's private business enterprises.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <physfacet encodinganalog="300$b">(3 boxes, 2 large manuscripts, 4 microfilm reels)</physfacet></physdesc>
+            <origination label="creator">
+                <persname source="ingest">Hamtramck, John Francis,1756-1803.</persname>
+            </origination>
+        </did>
+        <accessrestrict id="ref3">
+            <head>Restrictions</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref4">
+            <head>Other finding aids note</head>
+            <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+        </otherfindaid>
+        <controlaccess>
+            <famname source="ingest">Clark, William.</famname>
+            <famname source="ingest">Hamtramck, John Francis, -- 1756-1803 -- Archives.</famname>
+            <famname source="ingest">Thomas, Jesse Burgess, -- 1777-1853.</famname>
+            <corpname source="ingest">United States. -- Army. -- Michigan Engineers and Mechanics Regiment, 1st (1861-1865)</corpname>
+            <genreform source="lcsh">Business records. -- aat</genreform>
+            <genreform source="lcsh">Correspondence. -- aat</genreform>
+            <geogname source="lcsh">Fort Wayne (Ind.)</geogname>
+            <genreform source="lcsh">Genealogies. -- aat</genreform>
+            <subject source="lcsh">Mexican War, 1846-1848.</subject>
+            <genreform source="lcsh">Military records. -- aat</genreform>
+            <geogname source="lcsh">Osage Tribe, Oklahoma.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref5" level="file">
+                <did>
+                    <unittitle>Correspondence,</unittitle>
+                    <container type="Box">1</container>
+                    <unitdate>1776-1807</unitdate>
+                </did>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle></unittitle>
+                        <container type="Box">2</container>
+                        <unitdate>1808-1858</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref7" level="file">
+                <did>
+                    <unittitle>Photostats from Wayne Papers</unittitle>
+                    <container type="Box">3</container>
+                </did>
+            </c01>
+            <c01 id="ref8" level="file">
+                <did>
+                    <unittitle>Accounts,</unittitle>
+                    <container type="LMS">Folder 1</container>
+                    <unitdate>1797-1804</unitdate>
+                </did>
+            </c01>
+            <c01 id="ref9" level="file">
+                <did>
+                    <unittitle>Photostats</unittitle>
+                    <container type="LMS">Folder 2</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

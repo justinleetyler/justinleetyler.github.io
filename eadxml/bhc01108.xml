@@ -1,0 +1,1420 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+ 
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Hammond Building Company records, 1855-1985
+                    
+                </titleproper>
+                <sponsor>Detroit Public Library</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Nov. 23, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:54-0400</date>
+            </creation>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hammond Building Company records</unittitle>
+            <unitid>01108</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>39.0 Linear feet</extent>
+                <extent>(14 boxes, 56 volumes, 3 large manuscript) </extent>
+            </physdesc>
+            <unitdate normal="1855/1985" type="inclusive">1855-1985.</unitdate>
+            <langmaterial id="ref7" label="Language of Materials">In English.</langmaterial>
+            <physloc id="ref9" label="Location note">Level A</physloc>
+            <origination label="creator">
+                <corpname source="ingest" role=" ">Hammond Building Company (Detroit, Mich.).</corpname>
+            </origination>
+        </did>
+        <arrangement id="ref2">
+            <head>Arrangement</head>
+            <p>Organized into four series: I. Organizational records. II. Land holdings. III. Family/Personal papers. IV. Fame Land Corporation.</p>
+        </arrangement>
+        <accessrestrict id="ref3">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use as of Feb. 8, 2008.</p>
+        </accessrestrict>
+        <acqinfo id="ref4">
+            <head>Immediate Source of Acquisition</head>
+            <p>01108</p>
+        </acqinfo>
+        <scopecontent id="ref5">
+            <head>Scope and Contents note</head>
+            <p>This collection consists of papers from the Hammond Building Company, the George H. Hammond Estate Company, Hammond Standish &amp; Company and Fame Land Corporation. Papers include accounts, properties owned by the Hammond Building Co., financial records and organizational papers.</p>
+        </scopecontent>
+        <bioghist id="ref6">
+            <head>Biographical/Historical note</head>
+            <p>In 1886, George H. Hammond, a wealthy Detroit meat packer, opened what the Detroit Free Press boasted as "a huge enterprise...George H. Hammond &amp; Co. will build in Detroit, the largest oleomargarine factory in the country." Born in Massachusetts around 1838, Hammond became the builder of Detroit's first skyscraper, the Hammond Building. In 1870, Hammond built the first successful refrigerated boxcar, packing it with ice from the Detroit River and sending a shipment of beef to Boston. By 1885, the Hammond Standish &amp; Company meat-packing house was using 800 refrigerated boxcars and were delivering three carloads of meat a week to the Atlantic seaboard. Hammond married Ellen Barry and they had eight children. Among those who went into the family business were sons George, Charles and Edward, and daughter Florence. Florence married Edward A. Skae, who acted as secretary-treasurer of the Hammond Building Co. In 1920, Hammond Standish &amp; Company was listed in the Detroit City Directory as a Beef and Pork Packing House. Charles F. Hammond was president and treasurer. At the same time, Edward Hammond was president of the Hammond Building Company, with his sister Florence working as secretary and treasurer. Historian W. Hawkins Ferry, in The Buildings of Detroit, describes Detroit's pride when the Hammond Building was completed: "In 1890 Detroit was astir with excitement over the completion of its first skyscraper, the Hammond Building, which stood on the southeast corner of Fort and Griswold Streets. To celebrate the opening a tightrope walker was hired to walk from the roof of the ten story structure to the tower of the City Hall across Fort Street..." Though George H. Hammond died before his namesake building was erected, a Chicago architect, Harry W.J. Edbrooke, was able to persuade Mrs. Hammond to hire him to create the skyscraper. In 1956 the Hammond Building was torn down to make room for the new National Bank of Detroit.</p>
+        </bioghist>
+        <odd id="ref8">
+            <head>General Note</head>
+            <p>See finding aid for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <corpname source="ingest" role=" ">Fame Land Corporation (Metamora, Mich.).</corpname>
+            <corpname source="ingest" role=" ">George H. Hammond Estate Company.</corpname>
+            <famname source="ingest" role=" ">Hammond Family</famname>
+            <corpname source="ingest" role=" ">Hammond Standish &amp; Company.</corpname>
+            <persname source="ingest" role=" ">Hammond, George H.</persname>
+            <genreform source="aat">Business records</genreform>
+            <subject source="lcsh">Construction industry</subject>
+            <genreform source="aat">Correspondence</genreform>
+            <geogname source="lcsh">Detroit (Mich.)--Buildings, structures, etc.</geogname>
+            <genreform source="aat">Financial records</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref10" level="series">
+                <did>
+                    <unittitle>Organizational Records</unittitle>
+                </did>
+                <odd id="ref22">
+                    <head>General note</head>
+                    <p>Information, drawings, specifications and proposals for the Hammond Building itself are contained in this series, as well as material on the company, such as bylaws, contracts and legal papers.</p>
+                </odd>
+                <c02 id="ref23" level="subseries">
+                    <did>
+                        <unittitle>BOX 1</unittitle>
+                    </did>
+                    <c03 id="ref24" level="item">
+                        <did>
+                            <unittitle>1:1 Appraisals of Hammond Building, 1945-1948</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="item">
+                        <did>
+                            <unittitle>1:2 Bids &amp; Proposals, 1890-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="item">
+                        <did>
+                            <unittitle>1:3 -- Elevators, 1893-1914</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="item">
+                        <did>
+                            <unittitle>1:4 -- Fire Escapes, 1911</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="item">
+                        <did>
+                            <unittitle>1:5 Building Permits, 1897-1901</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="item">
+                        <did>
+                            <unittitle>1:6 Bylaws &amp; Certificates of Resolution, 1906-1955</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref30" level="item">
+                        <did>
+                            <unittitle>1:7 -- Contracts &amp; Agreements, 1891-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref31" level="item">
+                        <did>
+                            <unittitle>1:8 -- Bids, etc., 1896-1905</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref32" level="item">
+                        <did>
+                            <unittitle>1:9 -- 1908-1909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="item">
+                        <did>
+                            <unittitle>1:10 Dissolution of Company, 1954-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="item">
+                        <did>
+                            <unittitle>1:11 Employees</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="item">
+                        <did>
+                            <unittitle>1:12 Hammond Building Specifications</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="item">
+                        <did>
+                            <unittitle>1:13 Hammond, Standish &amp; Company, 1901</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref38" level="subseries">
+                    <did>
+                        <unittitle>BOX 2</unittitle>
+                    </did>
+                    <c03 id="ref39" level="item">
+                        <did>
+                            <unittitle>2:1 Inspection Certificates Boiler Inspectors, 1890-1909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="item">
+                        <did>
+                            <unittitle>2:2 -- Public Lighting Commission, 1897-1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="item">
+                        <did>
+                            <unittitle>2:3 Inspection Reports, 1890-1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="item">
+                        <did>
+                            <unittitle>2:4 Insurance Papers, 1910-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="item">
+                        <did>
+                            <unittitle>2:5 -- Fidelity &amp; Casualty Company, 1896-1919</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref44" level="item">
+                        <did>
+                            <unittitle>2:6 Legal Papers, 1897-1956; Not Dated</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref45" level="item">
+                        <did>
+                            <unittitle>2:7 Lists/Notes/Miscellaneous</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref46" level="item">
+                        <did>
+                            <unittitle>2:8 Material from Volumes (see also LMS Folder 1)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref47" level="item">
+                        <did>
+                            <unittitle>2:9 -- Superior Land Company</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="item">
+                        <did>
+                            <unittitle>2:10 Newspaper Clippings, 1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="item">
+                        <did>
+                            <unittitle>2:11 Specifications &amp; Drawings, 1896-n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="item">
+                        <did>
+                            <unittitle>2:12 Summaries of the Hammond Building, 1921</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref11" level="otherlevel">
+                    <did>
+                        <unittitle>Sub-series A: Correspondence</unittitle>
+                    </did>
+                    <odd id="ref52">
+                        <head>General note</head>
+                        <p>Among the letters in this section are those written to Miss Mollie R. Cummings. She was the company cashier. Correspondence is arranged alphabetically by the writer. Sec also Volumes: Letter Book, 1918-1928.</p>
+                    </odd>
+                </c02>
+                <c02 id="ref51" level="subseries">
+                    <did>
+                        <unittitle>BOX 3</unittitle>
+                    </did>
+                    <c03 id="ref54" level="item">
+                        <did>
+                            <unittitle>3:1 A, 1910-1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="item">
+                        <did>
+                            <unittitle>3:2 B, 1910-1953</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="item">
+                        <did>
+                            <unittitle>3:3 C, 1910-1953</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="item">
+                        <did>
+                            <unittitle>3:4 Consumers Cooler Company, 191 1-1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="item">
+                        <did>
+                            <unittitle>3:5 Cummings, Miss Mollie R., 1910-1917</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref59" level="item">
+                        <did>
+                            <unittitle>3:6 D, 1892-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref60" level="item">
+                        <did>
+                            <unittitle>3:7 E-F, 1909-1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="item">
+                        <did>
+                            <unittitle>3:8 G, 1910-1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="item">
+                        <did>
+                            <unittitle>3:9 Guardian Savings &amp; Trust Company/Guardian Tnist Co., 1913-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="item">
+                        <did>
+                            <unittitle>3:10 H, 1910-1953</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="item">
+                        <did>
+                            <unittitle>3:11 I-L, 1893-1934</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref77" level="subseries">
+                    <did>
+                        <unittitle>BOX 4</unittitle>
+                    </did>
+                    <c03 id="ref129" level="item">
+                        <did>
+                            <unittitle>4:1 M, 1910-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref130" level="item">
+                        <did>
+                            <unittitle>4:2 N-O, 1909-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref131" level="item">
+                        <did>
+                            <unittitle>4:3 Nicol-Ford &amp; Company, 1925-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="item">
+                        <did>
+                            <unittitle>4:4 P, 1910-1923</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="item">
+                        <did>
+                            <unittitle>4:5 R, 1911-1952</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref134" level="item">
+                        <did>
+                            <unittitle>4:6 S, 1911-1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref135" level="item">
+                        <did>
+                            <unittitle>4:7 T, 1908-1918</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref136" level="item">
+                        <did>
+                            <unittitle>4:8 U-V, 1901-1952</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref137" level="item">
+                        <did>
+                            <unittitle>4:9 W-Z, 1909-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref138" level="item">
+                        <did>
+                            <unittitle>4:10 Wayne County &amp; Home Savings Bank, 1914-1927</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref139" level="item">
+                        <did>
+                            <unittitle>4:11 Westinghouse Electric &amp; Manufacturing Company, 1910-1911</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref12" level="otherlevel">
+                        <did>
+                            <unittitle>Sub-series B: George H. Hammond Estate Company</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref141" level="item">
+                        <did>
+                            <unittitle>4:12 Invoices &amp; Statements, 1889-n.d.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref142" level="item">
+                        <did>
+                            <unittitle>4:13 Ledger, 1888-1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="item">
+                        <did>
+                            <unittitle>4:14 Probate Office Petition, 1893</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="item">
+                        <did>
+                            <unittitle>4:15 Receipts, 1882-1886</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref82" level="subseries">
+                    <did>
+                        <unittitle>BOX 5</unittitle>
+                    </did>
+                    <c03 id="ref83" level="item">
+                        <did>
+                            <unittitle>5:1 Receipts, 1887</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="item">
+                        <did>
+                            <unittitle>5:2 1889</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="item">
+                        <did>
+                            <unittitle>5:3 1890-1891</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref13" level="otherlevel">
+                        <did>
+                            <unittitle>Sub-series C: Financial Records</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref86" level="item">
+                        <did>
+                            <unittitle>5:4 Mutual Gas Company, 1886-1887</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref88" level="item">
+                        <did>
+                            <unittitle>5:5 Bank Books, 1953-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="item">
+                        <did>
+                            <unittitle>5:6 Bills of Sale, Receipts, etc.</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="item">
+                        <did>
+                            <unittitle>5:7 Charges to Tenants, 1917</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="item">
+                        <did>
+                            <unittitle>5:8 Detroit Trust Company Reorganization, 1933-1943</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="item">
+                        <did>
+                            <unittitle>5:9 Income Tax - Capital Stock Tax Returns, 1919-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref93" level="item">
+                        <did>
+                            <unittitle>5:10 Correspondence, 1920-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref94" level="item">
+                        <did>
+                            <unittitle>5:11 Notes</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref95" level="item">
+                        <did>
+                            <unittitle>5:12 Returns, 1917-1920</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="item">
+                        <did>
+                            <unittitle>5:13 1921</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="item">
+                        <did>
+                            <unittitle>5:14 1922-1925</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref98" level="item">
+                        <did>
+                            <unittitle>5:15 1926-1930</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref99" level="item">
+                        <did>
+                            <unittitle>5:16 Notes</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref100" level="subseries">
+                    <did>
+                        <unittitle>BOX 6</unittitle>
+                    </did>
+                    <c03 id="ref101" level="item">
+                        <did>
+                            <unittitle>6:1 Receipts &amp; Agreements, 1897-1952</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref102" level="item">
+                        <did>
+                            <unittitle>6:2 -- Bennett, Smith &amp; Co., 1925-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref103" level="item">
+                        <did>
+                            <unittitle>6:3 Stockholders, 1931-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref104" level="item">
+                        <did>
+                            <unittitle>6:4 Vouchers, 1886-1887</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref105" level="item">
+                        <did>
+                            <unittitle>6:5 -- 1891-1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref106" level="item">
+                        <did>
+                            <unittitle>6:6 -- 1909, December 3-13</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref107" level="item">
+                        <did>
+                            <unittitle>6:7 -- 13-31</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref108" level="item">
+                        <did>
+                            <unittitle>6:8 -- 1910, January 6-10</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref109" level="subseries">
+                    <did>
+                        <unittitle>BOX 7: Vouchers</unittitle>
+                    </did>
+                    <c03 id="ref110" level="item">
+                        <did>
+                            <unittitle>7:1 1910, January 10-25</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref111" level="item">
+                        <did>
+                            <unittitle>7:2 February 5-10</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref112" level="item">
+                        <did>
+                            <unittitle>7:3 -- 11</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref113" level="item">
+                        <did>
+                            <unittitle>7:4 -- 14-28</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref114" level="item">
+                        <did>
+                            <unittitle>7:5 March</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref115" level="item">
+                        <did>
+                            <unittitle>7:6 April 1-16</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref116" level="item">
+                        <did>
+                            <unittitle>7:7 -- 16-22</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Land Holdings</unittitle>
+                </did>
+                <odd id="ref117">
+                    <head>General note</head>
+                    <p>This series contains the company's accounts and properties, including abstracts of title for a number of them.</p>
+                </odd>
+                <c02 id="ref15" level="otherlevel">
+                    <did>
+                        <unittitle>Sub-series A: Accounts</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref146" level="subseries">
+                    <did>
+                        <unittitle>BOX 8</unittitle>
+                    </did>
+                    <c03 id="ref147" level="item">
+                        <did>
+                            <unittitle>8:1 Abegglen, Albert &amp; Johanna, 1908-1913</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="item">
+                        <did>
+                            <unittitle>8:2 Casgrain, Annie K. et al, 1901-1907</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="item">
+                        <did>
+                            <unittitle>8:3 Dalton, Laurence &amp; Hannah, 1892-1906</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="item">
+                        <did>
+                            <unittitle>8:4 Howard, John P., 1887</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="item">
+                        <did>
+                            <unittitle>8:5 Wallace, Ellen L., 1885-1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="item">
+                        <did>
+                            <unittitle>8:6 Watkins, Ralph, 1938-1941</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="item">
+                        <did>
+                            <unittitle>8:7 Williams, John Constantine, 1869-1909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref16" level="otherlevel">
+                        <did>
+                            <unittitle>Sub-series B: Skinner Engine Company</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="item">
+                        <did>
+                            <unittitle>8:8 1910-1920</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref155" level="item">
+                        <did>
+                            <unittitle>8:9 Correspondence, 1909-1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref156" level="item">
+                        <did>
+                            <unittitle>8:10 1911-1919</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref157" level="item">
+                        <did>
+                            <unittitle>8:11 Invoices, 1909-1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref158" level="item">
+                        <did>
+                            <unittitle>8:12 Specifications/Agreements</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref17" level="otherlevel">
+                    <did>
+                        <unittitle>Sub-series C: Property</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref159" level="subseries">
+                    <did>
+                        <unittitle>BOX 9</unittitle>
+                    </did>
+                    <c03 id="ref160" level="item">
+                        <did>
+                            <unittitle>9:1 Abstract Sheets, A-W</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="item">
+                        <did>
+                            <unittitle>9:2 Abstracts of Title</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="item">
+                        <did>
+                            <unittitle>9:3 -- Hammond's Subdivision, Lot 51, Private Claim (P.C.) 30</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="item">
+                        <did>
+                            <unittitle>9:4 -- Hammond's &amp; Rich's Subdivision, P.C. 47</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="item">
+                        <did>
+                            <unittitle>9:5 -- P.C. 47 &amp; 583</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="item">
+                        <did>
+                            <unittitle>9:6 -- B.E. Taylor's Golf &amp; Country Club Subdivision</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="item">
+                        <did>
+                            <unittitle>9:7 Land Records, 1889-1909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="item">
+                        <did>
+                            <unittitle>9:8 Mortgages &amp; Leases, 1887-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="item">
+                        <did>
+                            <unittitle>9:9 Bellevue Desnoyers Subdivision, Lot 80, 1889- E 909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="item">
+                        <did>
+                            <unittitle>9:10 Cass Farm Subdivision, 1871-1911</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="item">
+                        <did>
+                            <unittitle>9:11 L. Chapaton Farm Subdivision, 1895-1908</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="item">
+                        <did>
+                            <unittitle>9:12 Dearborn, 1910-1923</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="item">
+                        <did>
+                            <unittitle>9:13 Detroit Garages, 1927-1936</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="item">
+                        <did>
+                            <unittitle>9:14 Stockholder Material, 1928-1938</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref174" level="subseries">
+                    <did>
+                        <unittitle>BOX 10</unittitle>
+                    </did>
+                    <c03 id="ref175" level="item">
+                        <did>
+                            <unittitle>10:1 Fitchburg, Massachusetts, 1872-1921</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="item">
+                        <did>
+                            <unittitle>10:2 -- Correspondence, 1898-1936</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="item">
+                        <did>
+                            <unittitle>10:3 Forsyth Farm, 1862-1911</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="item">
+                        <did>
+                            <unittitle>10:4 Grosse Pointe, 1889-1910</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref179" level="item">
+                        <did>
+                            <unittitle>10:5 -- 1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref180" level="item">
+                        <did>
+                            <unittitle>10:6 Joseph Campau Farm Subdivision, 1889-1908</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="item">
+                        <did>
+                            <unittitle>10:7 Labrosse Farm, 1886-1905</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="item">
+                        <did>
+                            <unittitle>10:8 Perrin's Subdivision, Grosse Pointe, 1892-1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="item">
+                        <did>
+                            <unittitle>10:9 R.L. Polk Building, 1925-91934</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="item">
+                        <did>
+                            <unittitle>10:10 B.E. Taylors Golf &amp; Country Club, 1937-1955 (see also Box 9:6 &amp; LMS Folder 2)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref185" level="item">
+                        <did>
+                            <unittitle>10:11 -- Powers of Attorney, 1937-1945</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref186" level="item">
+                        <did>
+                            <unittitle>10:12 Thompson Farm, 1855-1906</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="item">
+                        <did>
+                            <unittitle>10:13 Winders Subdivision, 1866-1902</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref189" level="item">
+                        <did>
+                            <unittitle>10:14 Woodward Avenue &amp; Boulevard, 1909</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref19" level="otherlevel">
+                        <did>
+                            <unittitle>Sub-series D: Sweeney-Huston Company Building/Detroit Recreation Company</unittitle>
+                        </did>
+                        <odd id="ref191">
+                            <head>General note</head>
+                            <p>The Sweeney-Huston Stores &amp; Amusement Building Company changed its name to Recreation Company, also known as the Detroit Recreation Company. Blueprints for the Memoranda of Changes may be found in Box 14.</p>
+                        </odd>
+                    </c03>
+                    <c03 id="ref190" level="item">
+                        <did>
+                            <unittitle>10:15 1916-1922</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref192" level="item">
+                        <did>
+                            <unittitle>10:16 Financial Papers, 1923; 1940-1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref193" level="item">
+                        <did>
+                            <unittitle>10:17 Statements, 1928-1931</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref194" level="item">
+                        <did>
+                            <unittitle>10:18 Memoranda of Changes, #1-6, 1916-1917</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref195" level="subseries">
+                    <did>
+                        <unittitle>BOX 11</unittitle>
+                    </did>
+                    <c03 id="ref196" level="item">
+                        <did>
+                            <unittitle>11:1 Memoranda of Changes, #7-20, 1916-1917</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref197" level="item">
+                        <did>
+                            <unittitle>11:2 Mortgages/Leases, 1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref198" level="item">
+                        <did>
+                            <unittitle>11:3 -- 1917</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref199" level="item">
+                        <did>
+                            <unittitle>11:4 -- 1922-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref200" level="item">
+                        <did>
+                            <unittitle>11:5 -- 1928-1950</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref201" level="item">
+                        <did>
+                            <unittitle>11:6 -- John Christy, 1935-1937</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref202" level="item">
+                        <did>
+                            <unittitle>11:7 Mortgage (Second), 1922</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref203" level="item">
+                        <did>
+                            <unittitle>11:8 Specifications, 1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref204" level="item">
+                        <did>
+                            <unittitle>11:9 -- for Building Work</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref205" level="item">
+                        <did>
+                            <unittitle>11:10 -- Revised</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Family/Personal Papers</unittitle>
+                </did>
+                <odd id="ref206">
+                    <head>General note</head>
+                    <p>Because the company was such a family concern, there is some overlap in the correspondence and receipts with this series and Series 1: Organizational Records. Family/Personal Papers contain household receipts and expenses. Many well-known Detroit vendors were used by the well-to-do Hammond and Skae families, including laundries, dressmakers, jewelers, caterers, hardware, grocery orders, etc. for Ellen (Mrs. George H.) Hammond and Florence Hammond Skae. Letterhead and receipts for such turn-of-the-century companies as The Michigan Telephone Company, F.J. Schwankovsky Music Co., Goodyear Rubber House and D.M. Ferry &amp; Co. Seedmen are included. In her personal life, Florence Hammond (Mrs. Edward A.) Skae was an extensive traveler, sailing often with her children to Europe and Japan. She served as president of the League of Catholic Women. She was also co-owner ol'the West Bloomfield Recreation Company.</p>
+                </odd>
+                <c02 id="ref207" level="subseries">
+                    <did>
+                        <unittitle>BOX 12</unittitle>
+                    </did>
+                    <c03 id="ref209" level="item">
+                        <did>
+                            <unittitle>12:1 Ellen Hammond—Estate, 1898-1911</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref210" level="item">
+                        <did>
+                            <unittitle>12:2 -- Itemized Financial Statements, 1889-1891</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref211" level="item">
+                        <did>
+                            <unittitle>12:3 George H. Hammond, 1885-1914</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref212" level="item">
+                        <did>
+                            <unittitle>12:4 Ellen Skae Phelan, 1984-1985 (see also Fame Land Corporation)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref213" level="item">
+                        <did>
+                            <unittitle>12:5 Edward A. Skae -- Receipts, 1925-1928; 1935</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref214" level="item">
+                        <did>
+                            <unittitle>12:6 -- Florence Hammond (Mrs. E.A.) Skae—Appraisals, 1924-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref215" level="item">
+                        <did>
+                            <unittitle>12:7 -- Correspondence, C-D, 1924-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref216" level="item">
+                        <did>
+                            <unittitle>12:8 -- F-L, 1910-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref217" level="item">
+                        <did>
+                            <unittitle>12:9 -- M-P, 1910-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref218" level="item">
+                        <did>
+                            <unittitle>12:10 -- Packard Motor Car Company, 1926-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref219" level="item">
+                        <did>
+                            <unittitle>12:11 -- Peninsular State Bank, 1926-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref220" level="item">
+                        <did>
+                            <unittitle>12:12 -- Pontiac Commercial &amp; Savings 1925-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref221" level="item">
+                        <did>
+                            <unittitle>12:13 -- R-W, 1910-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref222" level="item">
+                        <did>
+                            <unittitle>12:14 -- Receipts, A-F, 1928-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref223" level="item">
+                        <did>
+                            <unittitle>12:15 -- G-P, 1924-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref224" level="item">
+                        <did>
+                            <unittitle>12:16 -- R-S, 1924-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref225" level="item">
+                        <did>
+                            <unittitle>12:17 -- T-W, 1924-1929</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref226" level="subseries">
+                    <did>
+                        <unittitle>BOX 13</unittitle>
+                    </did>
+                    <c03 id="ref227" level="item">
+                        <did>
+                            <unittitle>13:1 Janet Skae—Correspondence/Receipts, 1927-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref228" level="item">
+                        <did>
+                            <unittitle>13:2 Correspondence—General, 1913-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref229" level="item">
+                        <did>
+                            <unittitle>13:3 Telegrams, 1910-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref20" level="otherlevel">
+                        <did>
+                            <unittitle>Sub-series A: Receipts</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref231" level="item">
+                        <did>
+                            <unittitle>13:4 1896-1897</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref232" level="item">
+                        <did>
+                            <unittitle>13:5 1925-1927</unittitle>
+                        </did>
+                        <c04 id="ref236" level="subseries">
+                            <did>
+                                <unittitle>BOX 13 (Continued)</unittitle>
+                            </did>
+                            <c05 id="ref237" level="item">
+                                <did>
+                                    <unittitle>13:8 1961-1962</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref238" level="item">
+                                <did>
+                                    <unittitle>13:9 Financial Records, 1963-1984</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref239" level="item">
+                                <did>
+                                    <unittitle>13:10 Lapeer County Bank &amp; Trust, 1970-1982</unittitle>
+                                </did>
+                            </c05>
+                            <c05 id="ref240" level="item">
+                                <did>
+                                    <unittitle>13:11 Skaphe Hill Farm, 1963</unittitle>
+                                </did>
+                            </c05>
+                        </c04>
+                    </c03>
+                    <c03 id="ref233" level="item">
+                        <did>
+                            <unittitle>13:6 1928-1929</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref234" level="item">
+                        <did>
+                            <unittitle>13:7 Warehouse, 1923-1924</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref21" level="series">
+                <did>
+                    <unittitle>Fame Land Corporation</unittitle>
+                </did>
+                <odd id="ref235">
+                    <head>General note</head>
+                    <p>In a related collection, the Fame Land Corporation of Metamora, Lapeer County, was run by Florence Hammond Skae's daughter, Ellen. Born on June 10, 1905, Ellen Skae married James J. Phelan. They had four daughters. Ellen Skae Phelan was a one-time Republican Party leader and Detroit-area clubwoman. She served as chairman of the Republican Party's 8`h Congressional District in Michigan's Thumb area as a representative on the State Central Committee. Mrs. Phelan was a member of the Detroit Club, Village Club of Birmingham, Sigma Gamma Association, Country Club of Detroit and the Economic Club of Detroit. She also served as a member of the Lapeer County Board of Canvassers and the Dryden Board of Education. One of her daughters, Mary Meade Fuger, became director of the Women's Resource Center in Grand Rapids. Besides the Fame Land Corporation, James and Ellen Phelan were owners of Skaphe Hill Farm in Metamora. Ellen Skae Phelan died in Metamora on February 10, 1985. See LMS Folder 3 for more material on Fame Land Corporation.</p>
+                </odd>
+                <c02 id="ref242" level="subseries">
+                    <did>
+                        <unittitle>LMS BOX 14: Blueprints, Sweeney-Huston Company—Memoranda of Changes</unittitle>
+                    </did>
+                    <c03 id="ref243" level="item">
+                        <did>
+                            <unittitle>Folder 1: Material from Scrapbook, 1895-1898</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref241" level="subseries">
+                    <did>
+                        <unittitle>LMS Folder 1: Printing Block, Hammond Building, not dated</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref244" level="subseries">
+                    <did>
+                        <unittitle>LMS Folder 2: B.E. Taylor's Golf&amp; Country Club Subdivision #2, Plat Maps, 1926</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref245" level="subseries">
+                    <did>
+                        <unittitle>LMS Folder 3: Fame Land Corporation, Plat Maps of Survey, 1948; 1969</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref246" level="subseries">
+                    <did>
+                        <unittitle>Volumes</unittitle>
+                    </did>
+                    <odd id="ref312">
+                        <head>General note</head>
+                        <p>See also Material from Volumes (Box 2:8)</p>
+                    </odd>
+                    <c03 id="ref247" level="item">
+                        <did>
+                            <unittitle>Account Book:</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref248" level="item">
+                        <did>
+                            <unittitle>-- 1932-1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref249" level="item">
+                        <did>
+                            <unittitle>-- 1954-1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref250" level="item">
+                        <did>
+                            <unittitle>Bowling, Billiard &amp; Bar Account Book, 1953-1954</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref251" level="item">
+                        <did>
+                            <unittitle>Car Book, 1878-1881</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref252" level="item">
+                        <did>
+                            <unittitle>Cash Books</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref253" level="item">
+                        <did>
+                            <unittitle>-- 1892-1894</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref254" level="item">
+                        <did>
+                            <unittitle>-- 1898</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref255" level="item">
+                        <did>
+                            <unittitle>-- 1905-1907</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref256" level="item">
+                        <did>
+                            <unittitle>Check Registers</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref257" level="item">
+                        <did>
+                            <unittitle>-- 1935-1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref258" level="item">
+                        <did>
+                            <unittitle>-- 1948-1951</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref259" level="item">
+                        <did>
+                            <unittitle>Detroit Recreation Company</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref260" level="item">
+                        <did>
+                            <unittitle>-- Minutes of Meetings, 1923-1935</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref261" level="item">
+                        <did>
+                            <unittitle>-- Articles of Incorporation/Minutes of Regular, Board &amp; Stockholders Meetings, 1935-1945</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref262" level="item">
+                        <did>
+                            <unittitle>-- *Articles of incorporation/Minutes of Regular &amp; Board Meetings, 1935-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref263" level="item">
+                        <did>
+                            <unittitle>Hammond Building Company</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref264" level="item">
+                        <did>
+                            <unittitle>-- *Articles of Association/Minutes, 1905-1926</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref265" level="item">
+                        <did>
+                            <unittitle>-- *Minutes of Meetings, 1951-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref266" level="item">
+                        <did>
+                            <unittitle>Invoice Books</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref267" level="item">
+                        <did>
+                            <unittitle>-- 1890</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref268" level="item">
+                        <did>
+                            <unittitle>-- 1895</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref269" level="item">
+                        <did>
+                            <unittitle>-- 1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref270" level="item">
+                        <did>
+                            <unittitle>James A. Jones Insurance Company, 1898-1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref271" level="item">
+                        <did>
+                            <unittitle>Journals</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref272" level="item">
+                        <did>
+                            <unittitle>-- No, 1, 1906-1920</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref273" level="item">
+                        <did>
+                            <unittitle>-- 1871-1873</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref274" level="item">
+                        <did>
+                            <unittitle>-- 1873-1877</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref275" level="item">
+                        <did>
+                            <unittitle>-- 1874-1875</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref276" level="item">
+                        <did>
+                            <unittitle>-- 1875-1876</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref277" level="item">
+                        <did>
+                            <unittitle>-- 1876-1878</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref278" level="item">
+                        <did>
+                            <unittitle>-- 1878-1880</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref279" level="item">
+                        <did>
+                            <unittitle>-- 1880-1881</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref280" level="item">
+                        <did>
+                            <unittitle>-- 1881</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref281" level="item">
+                        <did>
+                            <unittitle>-- *1926-1934</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref282" level="item">
+                        <did>
+                            <unittitle>-- *1933-1935</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref283" level="item">
+                        <did>
+                            <unittitle>-- 1954-1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref284" level="item">
+                        <did>
+                            <unittitle>-- General Journal 1953-1964</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref285" level="item">
+                        <did>
+                            <unittitle>Ledgers</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref286" level="item">
+                        <did>
+                            <unittitle>-- No. 1, 1906-1923</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref287" level="item">
+                        <did>
+                            <unittitle>-- No. 2, 1910-1912</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref288" level="item">
+                        <did>
+                            <unittitle>-- No. 3, 1913-1916</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref289" level="item">
+                        <did>
+                            <unittitle>-- No. 4, 1917-1918</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref290" level="item">
+                        <did>
+                            <unittitle>-- 1869-1871</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref291" level="item">
+                        <did>
+                            <unittitle>-- 1871-1873</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref292" level="item">
+                        <did>
+                            <unittitle>-- 1873-1877</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref293" level="item">
+                        <did>
+                            <unittitle>-- 1874-1875</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref294" level="item">
+                        <did>
+                            <unittitle>-- 1875-1876</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref295" level="item">
+                        <did>
+                            <unittitle>-- 1876-1877</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref296" level="item">
+                        <did>
+                            <unittitle>-- 1878-1880</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref297" level="item">
+                        <did>
+                            <unittitle>-- 1880-1881</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref298" level="item">
+                        <did>
+                            <unittitle>-- 1881</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref299" level="item">
+                        <did>
+                            <unittitle>-- General Ledger, 1931-1935</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref300" level="item">
+                        <did>
+                            <unittitle>-- Transfer Ledger, 1947-1953</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref301" level="item">
+                        <did>
+                            <unittitle>Letter Book, 1918-1928</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref302" level="item">
+                        <did>
+                            <unittitle>List of Special 400 Names, American Union Life Insurance Company, 1898-1899</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref303" level="item">
+                        <did>
+                            <unittitle>Monthly Statements, 1927-1933</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref304" level="item">
+                        <did>
+                            <unittitle>Parking Survey, 1941</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref305" level="item">
+                        <did>
+                            <unittitle>Receipt Book, 1940-1946</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref306" level="item">
+                        <did>
+                            <unittitle>*Scrapbook, 1895-1898 (see also LMS: Folder 1)</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref307" level="item">
+                        <did>
+                            <unittitle>Stock Certificates</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref308" level="item">
+                        <did>
+                            <unittitle>-- *Common Stock Certificates, 1905-1955</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref309" level="item">
+                        <did>
+                            <unittitle>-- Hammond Estate Company Stock Certificates, 1906-1920</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref310" level="item">
+                        <did>
+                            <unittitle>*Superior Land Company, 1891-1905</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref311" level="item">
+                        <did>
+                            <unittitle>Voucher Register, 1947-1951</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding aid for Mary L. Bell papers
+                    
+                </titleproper>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+                <date>Sept. 04, 2009</date>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:51-0400</date>
+            </creation>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Mary L. Bell papers</unittitle>
+            <unitid>00175</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.0 Linear feet</extent>
+                <extent>(2 boxes, 1 large manuscript, 1 extra large manuscript) </extent>
+            </physdesc>
+            <unitdate normal="1934/1991" type="inclusive">1934-1991</unitdate>
+            <langmaterial id="ref5" label="Language of Materials">In English.</langmaterial>
+            <origination label="creator">
+                <persname source="ingest" role=" ">Bell, Mary L.</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref1">
+            <head>Immediate Source of Acquisiton</head>
+            <p>00175</p>
+        </acqinfo>
+        <accessrestrict id="ref2">
+            <head>Restrictions on Access</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <scopecontent id="ref3">
+            <head>Scope and Contents note</head>
+            <p>This collection relates to Dr. Haley and Mary Bell's activities in broadcasting, civic affairs, and dentistry.</p>
+        </scopecontent>
+        <bioghist id="ref4">
+            <head>Biographical/Historical note</head>
+            <p>Mary Bell was president of Bell Broadcasting Company of Detroit. She cofounded the company with her late husband, Dr. Haley Bell, in 1956. When their station, WCHB, went on the air, it was the third black-owned station in the country. Mrs. Bell graduated from Walden University and is a native of Nashville, Tennessee. She was active in many organizations, including the National Council of Negro women, the Women's Economic Club of Detroit, the NAACP, and the YMCA. (Blue index card)</p>
+        </bioghist>
+        <odd id="ref6">
+            <head>General Note</head>
+            <p>See finding aids for complete listing.</p>
+        </odd>
+        <controlaccess>
+            <subject source="lcsh">African American women executives</subject>
+            <subject source="lcsh">Broadcasting</subject>
+            <subject source="lcsh">Dentistry</subject>
+            <geogname source="lcsh">Detroit (Mich.)--Social life and customs.</geogname>
+            <genreform source="aat">Photographs.</genreform>
+            <genreform source="aat">Plaques (flat objects)</genreform>
+            <genreform source="aat">Scrapbooks</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref7" level="series">
+                <did>
+                    <unittitle>Box One</unittitle>
+                </did>
+                <odd id="ref26">
+                    <head>General note</head>
+                    <p>Level A: B26N</p>
+                </odd>
+                <c02 id="ref8" level="item">
+                    <did>
+                        <unittitle>1. Award presented to Mary Bell by Detroit Club of the National Association of Negro Business and Professional Women's Clubs, 1985.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref9" level="item">
+                    <did>
+                        <unittitle>2. Booker T. Washington Business Association Plaque presented to Dr. Haley Bell, 1961.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref10" level="item">
+                    <did>
+                        <unittitle>3. Plaque presented to Dr. Haley Bell by Meharry Medical College, 1973.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref11" level="item">
+                    <did>
+                        <unittitle>4. Plaque presented to Mary Bell by NAACP, 1978.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref12" level="series">
+                <did>
+                    <unittitle>Box Two</unittitle>
+                    <container type="Box">2</container>
+                </did>
+                <odd id="ref27">
+                    <head>General note</head>
+                    <p>Level A: B26N</p>
+                </odd>
+                <c02 id="ref13" level="item">
+                    <did>
+                        <unittitle>1. Key to the city of Detroit presented to Dr. Haley Bell, 1958.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref14" level="item">
+                    <did>
+                        <unittitle>2. Miscellaneous photographs</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref15" level="item">
+                    <did>
+                        <unittitle>3. Photograph: Dr. Haley Bell</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref16" level="item">
+                    <did>
+                        <unittitle>4. Scrapbook items</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref17" level="item">
+                    <did>
+                        <unittitle>5. Plaque presented to Mary Bell by B.A.R.T., 1991.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Large Box (LMS)</unittitle>
+                </did>
+                <odd id="ref28">
+                    <head>General note</head>
+                    <p>Level A: B26N</p>
+                </odd>
+                <c02 id="ref19" level="item">
+                    <did>
+                        <unittitle>1. Resolution, city of Hamtramck, Michigan, honoring Dr. Haley Bell, 1965.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="item">
+                    <did>
+                        <unittitle>2. Life Membership plaque (Mary Bell), National Council of Negro Women, n.d.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="item">
+                    <did>
+                        <unittitle>3. Golden Heritage Life membership plaque, NAACP, presented to Bell Broadcasting Company, 1981.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="item">
+                    <did>
+                        <unittitle>4. Motown Records Special Achievement Award presented to Dr. Haley Bell, 1973.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref23" level="series">
+                <did>
+                    <unittitle>Large Manuscript Folder (LMS)</unittitle>
+                </did>
+                <odd id="ref29">
+                    <head>General note</head>
+                    <p>Level B</p>
+                </odd>
+                <c02 id="ref24" level="item">
+                    <did>
+                        <unittitle>1. Photograph: National Dental Association, Twenty-First annual session, July 10-13, 1934.</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="item">
+                    <did>
+                        <unittitle>2. Special tribute to Mrs. Haley (Mary) Bell, State of Michigan, 79th Legislature, November 21, 1978.</unittitle>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

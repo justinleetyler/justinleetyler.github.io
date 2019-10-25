@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Nellie H. Ebersole papers, <date encodinganalog="Date">1884-1990</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00810</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Ebersole, Nellie H., 1898-1991</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Nellie H. Ebersole papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1884-1990</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">6.9 linear ft. </extent>
+        <extent encodinganalog="300$b">(13 boxes, 2 wallets, 1 extra large manuscript)</extent>
+      </physdesc>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>A native of New Hudson, Michigan, Dr. Nellie Huger Ebersole was the Music Director for the Detroit Council of Churches for twenty-five years. She and her husband, Prof. Amos S. Ebersole, were the directors of the Art Center Music School in Detroit. A licensed Methodist minister, Nellie Huger Ebersole held degrees from Eastern Michigan University, the Chicago Training School, and Union Theological Seminary in New York. In 1931, Dr. Ebersole founded the Waldenwood Summer School of Sacred Music in Hartland, Michigan. She joined Metropolitan Methodist Church in the early 1970's after years of service at Trinity Methodist Church in Highland Park. Her students include George Shirley, soloist with the Metropolitan Opera in New York City, and Hugh Downs, commentator on "20/20", a news program on the ABC television network. Her honors include: Executive Director of the 3,000 voice choir which sang in Briggs Stadium for the 250th anniversary of the city of Detroit; Detroit's "Woman of the Year" for 1954, and the following citations from the Michigan legislature: Senate Concurrent Resolution No. 609 (in 1982), and a "Special Tribute", dated January 17, 1992. (from reading room file, BHC)</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Ebersole, Nellie H., -- 1898-1991 -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Guild of Church Musicians.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Huger family</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Wade family</famname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Musicians -- Michigan -- Detroti</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Biographies -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Clippings (information artifacts) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Church records -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Genealogies -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+													
+													
+<c01 level="file"><did><container type="box">	1:</container><unittitle>Biography												</unittitle></did>	
+<c02 level="file"><did><container type="file">	1:</container><unittitle> Huger family papers: genealogy						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2:</container><unittitle> Huger family papers: correspondence,ca. 1800's-1919						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3:</container><unittitle> Huger family papers: correspondence, 1920-1928						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Huger family papers: correspondence, 1929-1910's						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Huger family papers: correspondence, n.d.						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Huger family papers: letters of condolence						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Huger family papers: Melvina Huger memorial -1						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8:</container><unittitle> Huger family papers: Melvina Huger memorial -2						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	1A:</container><unittitle> Biography						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Huger family papers: Pearl Huger 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2: </container><unittitle>Huger family papers: George Huger -1 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3:</container><unittitle> Huger family papers: George Huger -2 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4:</container><unittitle>Huger family papers: Robert Huger 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Huger family papers: Margeurite Huger Fluelling						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Huger family papers: Leslie Huger 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7: </container><unittitle>Huger family papers: Correspondence re A.M. Wade and Wade family						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8:</container><unittitle> Huger family papers: Wade family papers 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9:</container><unittitle> Huger family papers: songs, poems 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10: </container><unittitle>School papers, ca. 1908-1916 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11: </container><unittitle>School papers, ca. 1920-1921 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	12:</container><unittitle> School papers, ca. 1921-1931 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	13: </container><unittitle>Correspondence, 1926-1988 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	14:</container><unittitle> Miscellaneous correspondence 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	15:</container><unittitle> Condolences						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	2:</container><unittitle> Biography						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Appreciation						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2:</container><unittitle> Women of Achievement exhibit 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3:</container><unittitle> Who's Who						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4: </container><unittitle>Letters of recommendation 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5: </container><unittitle>Chicago Training School -1 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Chicago Training School -2 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7:</container><unittitle> W.P.A.						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8: </container><unittitle>Birthday greetings, 1982 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9: </container><unittitle>Birthday greetings, 1983 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10: </container><unittitle>Wedding						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11: </container><unittitle>Wedding anniversary						</unittitle></did>		</c02>	</c01>			
+													
+													
+<c01 level="subseries"><did><container type="box">	3: </container><unittitle>Biography						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Christmas letters, 1944-1969 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2: </container><unittitle>Christmas letters, 1970-1990; Christmas greetings						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3: </container><unittitle>Amos Ebersole: correspondence, 1923-1955						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4: </container><unittitle>Amos Ebersole: correspondence, n.d.; genealogy 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5: </container><unittitle>Amos Ebersole: letters to Nellie -1 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6: </container><unittitle>Amos Ebersole: letters to Nellie -2 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7: </container><unittitle>Amos Ebersole: memorial, miscellanea 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8:</container><unittitle> Amos Ebersole: music programs, certificates, diplomas						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8A:</container><unittitle> Amos Ebersole: school records Church Work						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9:</container><unittitle> Bethlehem Presbyterian Church 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10:</container><unittitle> Boulevard Temple Church						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11:</container><unittitle> East Grand Boulevard M.E. Church 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	12: </container><unittitle>First English Lutheran Church						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	13: </container><unittitle>First English Evangelical Lutheran Church						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	4:</container><unittitle> Church Work						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Highland Park Congregational Church 2: St. Mark's Methodist Church 3: St. Paul's Cathedral						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Guild of Church Musicians: Constitution, history, rosters						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5: </container><unittitle>Guild of Church Musicians: Board minutes: 1940's-1950's						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Guild of Church Musicians: Board minutes: 1960's						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Guild of Church Musicians: Board minutes: 1971-73, n.d.; miscellaneous administrative papers						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8:</container><unittitle> Guild of Church Musicians: Correspondence, 1930's-1950's, n.d. 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9:</container><unittitle> Guild of Church Musicians: Conferences, workshops, 1941-1961 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10:</container><unittitle> Guild of Church Musicians: Newsletters 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11:</container><unittitle> Guild of Church Musicians: Programs, clippings, excerpts						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	5:</container><unittitle> Musical Activities and Topics						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Alma College School of Sacred Music, St. Thomas, Ontario						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2: </container><unittitle>Chafes, Julius						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3: </container><unittitle>Choral, sacred music programs -1 </unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">4: </container><unittitle>Choral, sacred music programs -2 </unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">5: </container><unittitle>Christmas carol festivals						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6: </container><unittitle>Christmas choral programs						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7: </container><unittitle>Church music workshop, Michigan State University						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	8: </container><unittitle>Close, Alice McFarland 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9: </container><unittitle>Cole, Joseph						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10:</container><unittitle> Dedication services						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11: </container><unittitle>Detroit Conservatory of Music						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	12:</container><unittitle> Detroit Institute of Musical Art: Programs, excerpts						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	6:</container><unittitle> Musical Activities and Topics						</unittitle></did>						
+<c02 level="file"><did><container type="file">	1:</container><unittitle> Detroit Public Library music collections 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	2:</container><unittitle> Detroit Round Table of Catholics, Jews, and Protestants -1						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	3: </container><unittitle>Detroit Round Table of Catholics, Jews. and Protestants -2						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Detroit's 250th birthday						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Detroit's 250th birthday hymns						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	6: </container><unittitle>Golden Jubilee chorus						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Hartland, Mich.: clippings, excerpts 8: Miscellaneous musical programs						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	9:</container><unittitle> Organ programs						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	10: </container><unittitle>Radio repertoire, Detroit. Council of Churches						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	11:</container><unittitle> Waldenwoods: brochures and miscellanea 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	12:</container><unittitle> Waldenwoods: clippings and miscellanea 						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	13: </container><unittitle>Waldenwoods: letters of appreciation .						</unittitle></did>		</c02>				
+<c02 level="file"><did><container type="file">	14:</container><unittitle> Waldenwoods: rosters						</unittitle></did>		</c02>	</c01>			
+													
+<c01 level="subseries"><did><container type="box">	7: </container><unittitle>Miscellaneous	Subjects		</unittitle></did>										
+<c02 level="file"><did><container type="file">		1:	</container><unittitle>African-American music								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		2:	</container><unittitle>Ashram								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		3:</container><unittitle>	Ashram, Saugatuck, Mich.								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		4:</container><unittitle>	Brotherhood								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		5:</container><unittitle>	Clippings and miscellanea								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		6:	</container><unittitle>Detroit friends								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		7:	</container><unittitle>Detroit musicians								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		8:</container><unittitle>	Detroit's 250th anniversary								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		9:	</container><unittitle>Famous friends								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		9A:</container><unittitle>	Farnum, C.B.								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		10:</container><unittitle>	Fullerton,	C.A.							</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		11:</container><unittitle>	Jessye, Eva								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		11A:</container><unittitle> Jones, Charles Stanley									</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		12:</container><unittitle>	Jones, E. Stanley								</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		13:</container><unittitle>	Michigan Federation of Music	Clubs:					Bulletin:	1930's	</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		14:</container><unittitle>	Michigan Federation of Music	Clubs:					Bulletin:	1940's	</unittitle></did>	</c02>	
+<c02 level="file"><did><container type="file">		15:	</container><unittitle>Michigan Federation of Music	Clubs:4					Bulletin:	1950's	</unittitle></did>	</c02>	</c01>
+													
+<c01 level="file"><did><container type="box">	8: </container><unittitle> Miscellaneous	Subjects	</unittitle></did>											
+<c02 level="file"><did><container type="file">		1:</container><unittitle>	Michigan Federation of Music	Clubs: Directory: 1931-1934				</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	2:</container><unittitle> Michigan Federation of Music Clubs: Directory: 1935-1941							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	3:</container><unittitle> Mother's Day							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Orchestra Hall - Art Center Music School 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	4A:</container><unittitle> Pease, Rollin							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Plymouth, Mich.							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Homer Rodeheaver: brochures							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Homer Rodeheaver: correspondence, 1920's 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	8: </container><unittitle>Homer Rodeheaver: correspondence, 1930's 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	9: </container><unittitle>Homer Rodeheaver: correspondence, 1940's 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	10:</container><unittitle> Homer Rodeheaver: correspondence, n.d.							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	10A: </container><unittitle>Smith, H. Augustine							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	11:</container><unittitle> Photographs: Amos Ebersole							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	12:</container><unittitle> Photographs: Little Church of the Air; The Church at the Crossroads							</unittitle></did>		</c02>	</c01>		
+													
+<c01 level="file"><did><container type="box">	9: </container><unittitle>Photographs							</unittitle></did>					
+<c02 level="file"><did><container type="file">	1:</container><unittitle> Miscellaneous photographs 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	2:</container><unittitle> Miscellaneous photographs 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	3:</container><unittitle> Pictures of famous friends 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Portraits							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Miscellaneous photographs and postcards 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Miscellaneous photographs 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Loose items from scrapbooks and photograph albums							</unittitle></did>		</c02>	</c01>		
+													
+<c01 level="file"><did><container type="box">	10</container><unittitle>Two photograph albums		</unittitle></did></c01>										
+<c01 level="file"><did><container type="box">	11:</container><unittitle> Scrapbook, ca. 1906-1929 Scrapbook, ca. 1930's	</unittitle></did></c01>
+<c01 level="file"><did><container type="box">	12</container><unittitle></unittitle></did>					
+<c02 level="file"><did><container type="file">	1: </container><unittitle>Heidelberg College catalog, 1926-27 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	2: </container><unittitle>Notebooks, scrapbooks							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	3:</container><unittitle>Plymouth, Michigan High School Alumni Directory, 1931							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	4:</container><unittitle> Goshen College (Indiana) yearbook, 1921 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	5:</container><unittitle> Chicago Training School yearbook, 1922 							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	6:</container><unittitle> Plymouth, Michigan High School yearbook, 1917							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	7:</container><unittitle> Plymouth, Michigan High School yearbook, 1916							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	8:</container><unittitle> Plymouth, Michigan High School yearbook, 1915							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	9:</container><unittitle> History, Chicago Training School							</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="file">	</container><unittitle>Printed Material: "Who's Who Today in the Musical World", 1938							</unittitle></did>		</c02>			</c01>
+<c01 level="subseries"><did><unittitle>		Papers: Amos Ebersole certificates, diplomas						</unittitle></did>
+<c02 level="file"><did><container type="LMS">	</container><unittitle>		Nellie Huger Ebersole diploma					</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="LMS">		</container><unittitle>	Tributes from Michigan State Legislature Music manuscripts					</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="LMS">		</container><unittitle>	Newspaper excerpts					</unittitle></did>		</c02>		</c01>	
+<c01 level="subseries"><did><unittitle>		Photographs:						</unittitle></did>			
+<c02 level="file"><did><container type="LMS">	</container><unittitle>		Highland Park Congregational Church Junior Choir					</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="LMS"></container><unittitle>			Sacred Music Conference, Winona Lake, Indiana, 1929					</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="LMS"></container><unittitle>			Winona School of Sacred Music, Winona Lake, Indiana, 1935					</unittitle></did>		</c02>			
+<c02 level="file"><did><container type="LMS">	</container><unittitle>		20th School of Sacred Music, Waldenwoods, 1950					</unittitle></did>		</c02>	</c01>		
+
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Engineering Society of Detroit records,<date encodinganalog="Date">1887-1971</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00844</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">Engineering Society of Detroit.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Engineering Society of Detroit records,</unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1887-1971</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">37 linear ft.</extent>
+        <extent encodinganalog="300$b">(42 boxes, 54 volumes, 1 large manuscript)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Correspondence, constitution and by-laws, financial records, minutes, periodicals.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Founded 1895 to promote growth of engineering and allied arts.</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Engineering Society of Detroit -- Archives.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Engineers -- Michigan -- Detroit -- Societies, etc.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Bylaws (administrative records) -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Constitutions -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Financial records -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Membership lists -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Minutes -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Publications -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Reports -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box">1</container><unittitle>	Michigan Engineering Society - Articles of Association, Constitution and By-laws 1887</unittitle></did>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Historical Sketches of M.E.S.</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle> Constitution and By-laws, 1931</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Board of Directors Meetings, Minutes, Feb. 1929 - Feb. 1932</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Board of Directors, Correspondence, 1926-29</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Board of Directors, Correspondence, 1930-36</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Board of Directors, Correspondence, 1926-32</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">1</container><unittitle>Advisory Council, 1928</unittitle></did>
+<c03 level="file"><did><unittitle>1929</unittitle></did></c03>
+<c03 level="file"><did><unittitle>1930</unittitle></did></c03>
+<c03 level="file"><did><unittitle>1932</unittitle></did></c03>
+<c03 level="file"><did><unittitle>1932</unittitle></did></c03>
+<c03 level="file"><did><unittitle>1933</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">2</container><unittitle>Michigan Engineering Convention, 1925, Business Meeting Minutes, Feb. 5, 1925</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">2</container><unittitle> Grand Rapids Convention, Business Meeting, Minutes, Oct. 29, 1925</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">2</container><unittitle>Annual Convention, Nov. 18-19, 1926, Olds Hotel, Lansing, Mich.</unittitle></did>
+<c03 level="file"><did><container type="Box">2</container><unittitle>Nov. 10-11-12, 1927, Hotel Hayes, Jackson, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle>Jan.31, Feb.1-2,1929, Pantlind Hotel, Grand Rapids, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle>1930, Report of Executive Secretary, Ann Arbor, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle>Feb.16-17,1931, Hotel Bancroft, Saginaw, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle> Feb.22-23, 1932, Columbia Hotel, Kalama7oo, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle> Feb.9-10,19331 Olds Hotel, Lansing, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle> Feb.9-10,1934, Pantlind Hotel, Grand Rapids, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">2</container><unittitle>Feb.17-18,1936, Ann Arbor, Mich.</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">2</container><unittitle> Houghton, Copper Country Trip, Sept., 1927</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">2</container><unittitle> Northern Convention, Sept. 1928 Michigan Engineering Society - Traverse City trip, Sept. 1929</unittitle></did></c02>
+
+<c02 level="file"><did><container type="Box">3</container><unittitle>Michigan Engineering Conference - Report, Feb.4-5,1926, Puller Hotel, Detroit, Mich. </unittitle></did>
+<c03 level="file"><did><container type="Box">3</container><unittitle> Report, Feb.3-4+,1927, Hotel Statler, Detroit, Mich.</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle>1927, Finance File</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle> Report, Jan.27-28,1928, Hotel Statler, Detroit, Mich. </unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle>1928, Correspondence, 1926 - June 1927</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle> 1928, Correspondence, July - Dec. 1927</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle> 1928, Correspondence, 1928</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle> Jan. 27-28,1928, Registration Committee</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle>1928, General Committee Meetings, Minutes, 1927</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">3</container><unittitle> 1928, Finance File</unittitle></did></c03></c02>
+
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineer, Correspondence 1926-27</unittitle></did>
+<c03 level="file"><did><container type="Box">4</container><unittitle>1928-36</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Registration of Architects, Engineers and Surveyors, 1926-31</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - Legislation, Court of Patent Appeals, Court of Custom Appeals, 1926-31</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - Classification of Contractors, 1927-28</unittitle></did>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Traffic Signs, Signals, and Markings Recommendati.ons, 1929</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - Publicity Committee, 1928, 29, 31</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Engineers Speakers' Bureau, 1931</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Life Memberships, Committee Report, Correspondence, 1927-31</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - Committee Report on Committees, 1934 </unittitle></did>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Committee Chairmen, 1935</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> George H. Fenkel Promotes Welfare of M.E.S., 1930-31</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle>  Michigan Engineering Society - Dues, 1931-32</unittitle></did>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Membership Committee, 1932-36 </unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Membership Applications, 1936</unittitle></did></c03>
+<c03 level="file"><did><container type="Box">4</container><unittitle> Invoices, 1934-36</unittitle></did></c03></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - American Engineering Council, Membership Regulations, 1930-31</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - American Engineering Council, Membership in, 1935</unittitle></did></c02>
+<c02 level="file"><did><container type="Box">4</container><unittitle> Michigan Engineering Society - American Engineering Council, News Letters, 1954-36</unittitle></did></c02>
+
+<c02 level="file"><did><container type="Box">	5	</container><unittitle>	The Michigan Engineer, vol. 26-34, 1907-1916				</unittitle></did>		
+<c03 level="file"><did><container type="Box">	6	</container><unittitle>		Vol. 35, 1917; vol. 44, July 1926; vol. 55, Feb. 1936			</unittitle></did>	</c03>	</c02>
+<c02 level="file"><did><container type="Box">	6	</container><unittitle>	Detroit Engineering Society – Minutes, vol. 2, May 18, 1803-April 24, 1908				</unittitle></did>		
+<c03 level="file"><did><container type="Box">	6	</container><unittitle>		Vol. 3, May 6, 1908-April 21, 1911			</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	6	</container><unittitle>		Vol. 4, May 1, 1911-April 5, 1913			</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	7	</container><unittitle>		Vol. 5, April 18, 1913-April 5, 1915			</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	7	</container><unittitle>		Vol. 6, April 5, 1915, April 15, 1916			</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	7	</container><unittitle>		Vol. 7, April 15, 1916-April 21, 1917			</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	7	</container><unittitle>		Vol. 8, April 22, 1917-April 27, 1918			</unittitle></did>	</c03>
+<c03 level="file"><did><container type="Box">	8	</container><unittitle>		Vol. 9, April 18, 1913-April 5, 1915	</unittitle></did>	</c03>	
+<c03 level="file"><did><container type="Box">	8	</container><unittitle>		Vol. 10, April 20, 1919-April 23, 1920		</unittitle></did>	</c03>
+<c03 level="file"><did><container type="Box">	8	</container><unittitle>		Vol. 11, April 24, 1920-April 29, 1922		</unittitle></did>	</c03>	</c02>
+<c02 level="file"><did><container type="Box">	8</container><unittitle>	v. 12, April 30, 1921-April 29, 1922			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	9</container><unittitle>	v. 13, April 30, 1922-April 28, 1923			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	9</container><unittitle>	v. 14, May 1, 1923-Apirl 26, 1924			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	9</container><unittitle>	April 30, 1924-April 15, 1925			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	9</container><unittitle>	April 24, 1925-April 14, 1926			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	April 21, 1926-April 27, 1929			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	April 27 1929-April 30, 1931			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	April 30, 1931-March 26, 1934			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	April 30, 1931-March 26, 1934			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Presidents, 1895-1936			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Membership list, May 1914			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Constitution and bylaws, 1924			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Annual Reports, 1914-1924			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Announcements, 1914-31			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Ledger sheets, 1917-31			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Finances, 1924-26			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Taxes, 1925, 1929-1936			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	10	</container><unittitle>	Checkbook receipts, July 1930-31			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Book orders, receipts, 1933-37			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Membership Count, 1923-34			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Membership Applications, 1935			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Committee on Concrete, 1925			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Michigan Committee on Engineering and Employment, 1933			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	American Engineering Council, Correspondence, 1932-1932			</unittitle></did>				
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1933-1936		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		Committees, 1936		</unittitle> </did></c03>			</c02>
+<c02 level="file"><did><container type="Box">	11	</container><unittitle>	Conference of Engineering Societies Secretaries -- 1925 Washington Dc.			</unittitle>	</did>
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1936, Detroit, Mich.		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1927, Cleveland, Ohio		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1928		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1929, Chicago, Ill.		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>		1934, Washington Dc.		</unittitle>	</did></c03>			</c02>
+<c02 level="file"><did><container type="Box">	12	</container><unittitle>	First Mortgage, Correspondence, 1930-1934			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	12	</container><unittitle>	Second Mortgage Bonds, Correspondence.			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	12	</container><unittitle>	Alexandrine Avenue Property, Questionnairs conerning disposition, 1924.			</unittitle>	</did></c02>			
+<c02 level="file"><did><container type="Box">	12	</container><unittitle>	United Engineering Society, Proposed Organization, 1932-36			</unittitle>	</did>
+<c03 level="file"><did><container type="Box">	12	</container><unittitle>		Subcommittee of Organization Committee, Minutes, 1932-33		</unittitle>	</did></c03>	</c02>		
+<c02 level="file"><did><container type="Box">	13	</container><unittitle>	Mortgage bonds			</unittitle></did>		</c02>		
+<c02 level="file"><did><container type="Box">	13	</container><unittitle>	Articles of Incorporation, 1936			</unittitle></did>		</c02>		
+<c02 level="file"><did><container type="Box">	13	</container><unittitle>	Board of Directors Minutes -- July, 1937-June, 1938			</unittitle>	</did>			
+<c03 level="file"><did><container type="Box">	14	</container><unittitle>		July 1937-June 1938		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	14	</container><unittitle>		July 1938-June 1939		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	14	</container><unittitle>		July 1939-June 1940		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	14	</container><unittitle>		July 1940-June 1941		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	15	</container><unittitle>		July 1941-June 1942		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	15	</container><unittitle>		July 1941-June 1943		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	15	</container><unittitle>		July 1943-June 1944		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	15	</container><unittitle>		July 1944-June 1945		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	15	</container><unittitle>		July 1945-June 1946		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	16	</container><unittitle>		July 1946-June 1947		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	16	</container><unittitle>		July 1947-June 1948		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	16	</container><unittitle>		June 1948-June 1949		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	16	</container><unittitle>		July 1949-June 1950		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	17	</container><unittitle>		July 1950-June 1951		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	17	</container><unittitle>		July 1950-June 1951		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	17	</container><unittitle>		July 1951-June 1952		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	17	</container><unittitle>		July 1952-June 1953		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	18	</container><unittitle>		July 1953-1954		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	18	</container><unittitle>		1954-1955		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	18	</container><unittitle>		1955-1956		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	19	</container><unittitle>		1956-1957		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	19	</container><unittitle>		1957-1958		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	19	</container><unittitle>		1958-1959		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	20	</container><unittitle>		1959-1960		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	20	</container><unittitle>		1960-1961		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	20	</container><unittitle>		1961-1962		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	21	</container><unittitle>		1962-1963		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	21	</container><unittitle>		1963-1964		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	21	</container><unittitle>		1964-1965		</unittitle>	</did></c03>			
+<c03 level="file"><did><container type="Box">	22	</container><unittitle>		1965-1966		</unittitle>	</did></c03>	</c02>		
+<c02 level="file"><did><container type="Box">	22	</container><unittitle>	Board Minutes Index -- 1962-1963			</unittitle></did>				
+<c03 level="file"><did><container type="Box">	22	</container><unittitle>		1964-1971, A-M		</unittitle>	</did></c03>		
+<c04 level="file"><did><container type="Box">	22	</container><unittitle>			N-Z	</unittitle>	</did></c04>	</c03>	</c02>	
+<c02 level="file"><did><container type="Box">	23	</container><unittitle>	Board Project, Special Meetings, Minutes, Hotel Statler, Dec. 6, 1938			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Rackham Education Memorial, Advisory Committee, 1927-39			</unittitle>				
+<c03 level="file"><did><container type="Box">		</container><unittitle>		Equipment Lists, 1915-1940		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">		</container><unittitle>		Specifications, 1940		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">		</container><unittitle>		Cornerstone Ceremony, Dec. 20, 1940		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">		</container><unittitle>		Dedicatory Excercises, Jan. 28, 1942		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Horace H. Rackham and Mary A. Rackham Fund, 1940.			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Metropolitan Planning Conference, Oct. 21-22, 1938			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Detroit Yacht Club. Annual Meeting minutes -- June 17, 1940			</unittitle>				
+<c03 level="file"><did><container type="Box">		</container><unittitle>		06/09/41		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	E.L. Bandt Memorial, Jan. 1944			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Cooley-Dow Portrait Committee, 1940			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Deloss Walker, Speaker, Minutes, May 23, 19??			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Lord Halifax, Speaker, Minutes, Nov. 4, 1941			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Membership Count, April 1940			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Membership, Classification Breakdown, 1953			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Membership, Geographical Distribution, 1947, 49, 56			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Membership Attitude Study, Nov. 1968			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Membership, Committee Rosters, 1969-70			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Training Program Booklets, 1955-1956			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Nomination Committee Procedure, 1961			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Programs, Proposed Development, 1963			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Financial Examination, 1962			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Engineers Refresher Course, Part I			</unittitle>				
+<c03 level="file"><did><container type="Box">		</container><unittitle>		Part II		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Collateral Log, March-Dec. 1969			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Seventy-Fifth anniversary material			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	The Foundation, misc. corespondence, 1957			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Detroit Engineer, Readership Coverage, 1955			</unittitle>	</did>			
+<c03 level="file"><did><container type="Box">		</container><unittitle>		misc. correspondence, 1957		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">		</container><unittitle>		story possibilitites, 1968		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">		</container><unittitle>	Friendship Committee, 1952-1966			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	25	</container><unittitle>	News Releases, 1957-1964			</unittitle>	</did>			
+<c03 level="file"><did><container type="Box">	25	</container><unittitle>		1965-1968		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	25	</container><unittitle>		Feb. - June 1969		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	25	</container><unittitle>		Newspaper Clippings, 1916-1964		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	25	</container><unittitle>		Announcements, 1932-1967		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	25	</container><unittitle>		Junior Section - Minutes, Records of Executive Secretary, 1954-1955		</unittitle>				
+<c04 level="file"><did><container type="Box">	25	</container><unittitle>			1955-1956	</unittitle>	</did></c04>			
+<c04 level="file"><did><container type="Box">	26	</container><unittitle>			1956-1957	</unittitle>	</did></c04>			
+<c04 level="file"><did><container type="Box">	26	</container><unittitle>			1957-1958	</unittitle>	</did></c04>			
+<c04 level="file"><did><container type="Box">	26	</container><unittitle>			1958-1959	</unittitle>	</did></c04>	</c03>		
+<c03 level="file"><did><container type="Box">	26	</container><unittitle>		Publicity Committee, Operating Manual, 196?-		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">	27	</container><unittitle>	Dues cards, 1936-60, A-L			</unittitle>				
+<c03 level="file"><did><container type="Box">	28	</container><unittitle>		M-Z		</unittitle>	</did></c03>		
+<c02 level="file"><did><container type="Box">	29	</container><unittitle>	Yearbook, 1912-1913; 1913-1914; 1916; 1920			</unittitle>				
+<c02 level="file"><did><container type="Box">	29	</container><unittitle>	Membership direcotry, 1930			</unittitle>				
+<c03 level="file"><did><container type="Box">	29	</container><unittitle>		1938, 1950		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">	29	</container><unittitle>	Memberhip Roster by Company Affiliation, Sept. 1963			</unittitle>				
+<c03 level="file"><did><container type="Box">	29	</container><unittitle>		1966, 1967-68, 1968-69, 1971		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">	29	</container><unittitle>	Bulletin, no. 11-115, Jan. 1915-Jan 1924			</unittitle>	</did></c02></c01>
+<c01 level="file"><did><container type="Box">	30	</container><unittitle>	The Foundation. vol. 1-15, Oct. 1936 Dec. 1950. Inclusive.			</unittitle>				
+<c02 level="file"><did><container type="Box">	31	</container><unittitle>		vol. 15, no.5-vol.21, no.10; Jan. 1951-June 1957.		</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Box">	31	</container><unittitle>	Detroit Engineer, vol. 22, no. 1-vol. 24, no. 4; Sept. 1957-Dec. 1959. Inclusive.			</unittitle>				
+<c02 level="file"><did><container type="Box">	32	</container><unittitle>		vol. 24, no. 5-vol. 30; Jan. 1960-June 1966. Inclusive.		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	33	</container><unittitle>		vol. 31-vol. 35; Sept. 1966-Oct. 1971. Not Inclusive.		</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Box">	34	</container><unittitle>	Associated Technical Societies of Detroit - Constitution and Bylaws -- 1921			</unittitle>				
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	1922			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	1923			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	1924			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	1925			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	Council, Correspondence, 1924-29			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	Council Meetings Minutes, Jan. 4, 1932 - Jun. 1, 1936.			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	Finance, 1921-26			</unittitle>				
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		1927-36		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		Bulletin, Statement of Revenue and Expenses, 1927-28		</unittitle>	</did></c03>	</c02>	
+<c02 level="file"><did><container type="Box">	34	</container><unittitle>	Associated Technical Societies of Detroit - Dues, Correspondence, 1929-36			</unittitle>				
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		Public Works Administration, 19??		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		American City Planning Institute, 1933		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		National Technical Assoication Detroit Branch, 1935		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		Engineering Foundation Representatives, 1927		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	34	</container><unittitle>		Programs, 1934-35		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Committees, 1925-34		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Oil Committee, Sepcifications, Reports, 1924-1926		</unittitle>				
+<c04 level="file"><did><container type="Box">	35	</container><unittitle>			1927-32	</unittitle>	</did></c04>	</c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Sewage Disposal Committee, 1925-26		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Citizens' Committee, 1925-31		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Governmental Committee, detroit Board of Commerce, 1924-33		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Minicipal Committee, Rapid Transit, Co-ordinated Rail and Coach Service, 1925		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Minicipal Committee, 1927-31		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Minicipal Airport Hanger Committee, 1929		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Committee on Professional Ethics, 1932-33		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Education Committee, Engineering Education at the College of the City of Detroit, 1927		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>			Selection and Guidance Subcommittee, 1935-36	</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>			Misc., 1925-30	</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Committee on Reclassifying U.S. Patents, 1933		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Advisory Committee on Intellectual Workers,  1929		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Executive Committee, 1928-34		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Planning and Promotion Committee, 1934		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Salary and Wage Committee, 1933		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Committee on Bearing Value of Soils, 1927		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Temple Topographic Mapping Bill, 1925-26		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Detroit City Airport, 1933		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		Surplus Clothing Resolution 1933		</unittitle>	</did></c03>		
+<c03 level="file"><did><container type="Box">	35	</container><unittitle>		House resolutions 5880, 5881, 6187, 1931-32		</unittitle>	</did></c03>	</c02>	</c01>
+<c01 level="file"><did><container type="Box">	36	</container><unittitle>	American Society of Engineers, Detroit Section - Misc. Records, 1926-1939			</unittitle>				
+<c02 level="file"><did><container type="Box">	37	</container><unittitle>		1939-1942		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	38	</container><unittitle>		1942-1946		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Semi-Annual meeting, committee correspondence, tours, budget, 1937.			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Semi-Annual meeting, committee correspondence, program and scope, 1937.			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Junior Membership Mailing List, 1935			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Publicity Committee Report, 1940-41			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Convention Literature, 1939-37			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Fiftieth Anniversary Program 1939			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Traffic Survey Report, Department of Police, Detroit, Mich., Sept. 29, 1927			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Engineering Societies Personal Services, Inc. - Positions Available bulletin, Sept. 1963-March 1964			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Technocracy Articles, 1932-33			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Box">	39	</container><unittitle>	Engineers' Council for Professional Development - Annual Reports, 1933-34			</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Box">	40	</container><unittitle>	Journal of the Association of Engineering Societes - vol. 32, Jan.-June 1904; vol. 33, July-Dec. 1904, vol. 34, Jan.-June 1905.			</unittitle>				
+<c02 level="file"><did><container type="Box">	41	</container><unittitle>				</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Box">	41	</container><unittitle>	The Bulletin, vol.3, no.1 - vol. 7, no. 12, Jan. 1924-Dec 1928.			</unittitle>				</c01>
+<c01 level="file"><did><container type="Box">	41	</container><unittitle>	A.T.S. Review, vol. , no.1 - vol. 11, no 12, Jan. 1929-Dec. 1932			</unittitle>				</c01>
+<c01 level="file"><did><container type="Box">	41	</container><unittitle>	A.E.C. Bulletin, vol. 4, no. 1- vol. 6, no. 3, Jan. 1925-July 1925. not incl.			</unittitle>				</c01>
+										
+<c01 level="file"><did><container type="Volume">		Detroit Engineering Society, Budget and Expenditures Comparative Statements, 1923-24				</unittitle>				</c01>
+<c01 level="file"><did><container type="Volume">		ESD News, Sept. 1968-Nov. 1969 (inclusive)				</unittitle>				</c01>
+<c01 level="file"><did><container type="Volume">		Distribution Tables of Technical Engineers in U.S. Industries Miscellaneous newspapers clippings.				</unittitle>				</c01>
+<c01 level="file"><did><container type="Volume">		Photographs of past presidents of the Detroit Engineering Society, 1897-1932, incomplete.				</unittitle>				</c01>
+<c01 level="file"><did><container type="Volume">		Photographs of A.S.M.E. presentation of honorary membership to Henry Ford				</unittitle>				</c01>
+<c01 level="file"><did><container type="Volume">		Photographs of Horace H. Rockham Building during construction.				</unittitle>				</c01>
+										
+<c01 level="file"><did><container type="Volume">	Cashbooks	</container><unittitle>	C2 1923-1926			</unittitle>				
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1924-1930			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1924-1932			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1924-1933			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1925-1932			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1925-1935			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1926-1929			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1927-1940			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1928-1932			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1929-1935			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1930-1932			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1933-1935			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1935-1936			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	C2 1936			</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Volume">	Daybooks	</container><unittitle>	D3 1965-1966			</unittitle>				</c01>
+										
+<c01 level="file"><did><container type="Volume">	Journals	</container><unittitle>	J8 1911-1915			</unittitle>				
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	J8 1915-1925			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	J8 1924-1927			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	J8 1927-1930			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	Asssociated Technical Societies 1929- 1933			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>		1932-1933		</unittitle>	</did></c02>	</c01>
+										
+<c01 level="file"><did><container type="Volume">	Ledgers	</container><unittitle>	L4 1924-1933			</unittitle>				
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	L4 1925-1927			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	L4 1925-1933			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	L4 1927-1933			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	L4 1927-1936			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	L4 1942-1962			</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Volume">	Record Books	</container><unittitle>	R2	Michigan Engineering Society - Constitution, Membership, Proceedings 1880-1889		</unittitle>				
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Michigan Engineering Society - Dues, Cashbook 1888-1907		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Affiliated Societies Dues 1924-1928		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>		1924-1932		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Membership Dues 1925-1926		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Record on the Bulletin 1925-1930		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Cashbook and dues 1925-1933		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Michigan Engineering Conferences, 1926-1930		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Affilieated Societies Dues, 1927-1933		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R2	Dow Dinner - Golf Receipts, 1931-1932		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R3	Membership register, 1923-1925		</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	R3	Member and Visitor Register, 1923-1927		</unittitle>	</did></c02>	</c01>
+<c01 level="file"><did><container type="Volume">	Scrapbooks	</container><unittitle>	SB 1930-1932			</unittitle>				
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1936-1939			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1936-1949			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1941-1944			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1951-1958			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1958-1963			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1963-1967			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB 1968-1971			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	SB Membership Portraits			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	Record of the American Engineers' War Memorial in the Tower of the Louvian Library			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	Springwells - Pennsylvania Tunnels and Junction Works 1926-1930			</unittitle>	</did></c02>	
+<c02 level="file"><did><container type="Volume">		</container><unittitle>	State of Michigan Supreme Court. The Engineering Society of Detroit and the kac'kham Engineering Foundation vs. The City of Detroit. Record on Appeal vol. 1 1943			</unittitle>	</did></c02>	</c01>
+
+
+    </dsc>
+  </archdesc>
+</ead>

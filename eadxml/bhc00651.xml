@@ -1,0 +1,592 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Francis Morse Dent papers, <date encodinganalog="Date">1886-1976.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00651</unitid>
+      <unitid encodinganalog="099" label="Call Number:">Dent, Francis M.</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Dent, Francis Morse, 1894-1964.</persname>
+      </origination>
+      <origination>
+        <persname encodinganalog="700" source="lcnaf" role="creator" rules="AACR2R">Romney, George W., 1907-1995. crp</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Francis Morse Dent papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1886-1976.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">1 </extent>
+        <dimensions encodinganalog="300$f">large mansucript</dimensions>
+      </physdesc>
+      <physdesc>
+        <extent encodinganalog="300$a">33 </extent>
+        <dimensions encodinganalog="300$f">boxes</dimensions>
+      </physdesc>
+      <abstract encodinganalog="520$a">Papers in this collection include personal and business materials, such as biographical data, organizations and legal cases of Dent and the Dent family. Of particular interest is an autographed letter from Governor George Romney to Clottee Dent, 1965.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Francis Morse Dent was born in Rome, Georgia on Feb. 19, 1894, the son of Thomas Marshal Dent and Ella M. (Daniels). Both parents were college graduates. His father was one of the first graduates of Atlanta University in 1800 and finished Howard University Law School in 1884. His mother was a graduate of Spelman College in Atlanta, Georgia. Francis M. Dent's education included a high school diploma from M Street High School, Washington DC and a bachelor's degree from Amherst College in 1916. He moved to Detroit in 1919 and graduated from Detroit College of Law in 1923, the same year he was admitted to the Michigan Bar. During World War I, Mr. Dent served as a First Lieutenant in the U.S. Army, 368th Infantry, with the American Expeditionary Forces. He and his first wife, Grace, had one daughter, Grace Frances. They divorced in 1950. He and Clottee Y. Macklie married in 1951. Mr. Dent was active in numerous organizations, most particularly Omega Psi Phi Fraternity, in which he had a life membership. He was a recipient of the prestigious Award of Merit. Mr. Dent ran as a candidate for the Michigan State Senate from the 3rd District in 1930. He died on Dec. 4, 1964.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Organized into two series: I. Personal Papers.  II. Business papers</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Dent, Francis Morse, -- 1894-1964 -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Dent family. -- Archives</famname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Omega Psi Phi Fraternity.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Amherst College -- Alumni and alumnae.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Detroit College of Law -- Alumni and alumnae.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">United States. -- Army. -- Infantry Division, 368th.</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Lawyers -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Political candidates -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">World War, 1914-1918.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Family papers. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Business records. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+															
+	<c01 level="series"><did><unittitle>	Series I: Personal Papers						</unittitle></did>							
+	<scopecontent><head>Scope and Contents note</head><p>	Personal Papers contain correspondence, family items and organizations, such as American Legion, Tom Phillips Post 184, and Omega Psi Phi Fraternity. Mr. Dent remained active in university life long after his 1916 graduation from Amherst College in the alumni association.				</p></scopecontent>									
+	<c02 level="file"><did><container type="Box:File">		1:1	</container><unittitle>	Biographical Material, 1919-1964			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		1:2	</container><unittitle>	Campaign for State Senate, 1930			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		1:3	</container><unittitle>	Correspondence, 1917-1948			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		1:4	</container><unittitle>	1952-1964			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		1:5	</container><unittitle>	Birthday Cards			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		1:6	</container><unittitle>	Christmas Cards, Folder 1			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		1:7	</container><unittitle>	Folder 2			</unittitle></did>			</c04>	</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		2:1	</container><unittitle>	Correspondence—Christmas Cards, 1964			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		2:2	</container><unittitle>	Get-well Cards, 1964			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		2:3	</container><unittitle>	Greeting Cards/Invitations/Postcards/Announcements			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		2:4	</container><unittitle>	Sympathy Cards, 1964—Folder 1			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		2:5	</container><unittitle>	Folder 2			</unittitle></did>			</c04>	</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		2:6	</container><unittitle>	Deed re. Washington Property, 1886-1942			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		3:1	</container><unittitle>	Family Papers			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		3:2	</container><unittitle>	Clottee Macklin Dent (wife), 1938-1972			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		3:3	</container><unittitle>	Ella M. Dent (mother), 1886-1958			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		3:4	</container><unittitle>	Home at 650 East Boston Blvd., 1945-1966			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		3:5	</container><unittitle>	Abstract and Deeds, 1945-1956			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		3:6	</container><unittitle>	Legal Papers, 1930-196.5			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		3:7	</container><unittitle>	Notebooks			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		3:8	</container><unittitle>	Photographs, 1889-1959			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		3:9	</container><unittitle>	Publications, 1934-1960			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		4:1	</container><unittitle>	Publications—The American Negro Academy Occasional Papers, 18921924			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		4:2	</container><unittitle>	School Books			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		4:3	</container><unittitle>	Recipe Books			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		4:4	</container><unittitle>	Scrapbook Materials, 1911-1956			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		4:5	</container><unittitle>	1952-1961			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		4:6	</container><unittitle>	Tax Returns, 1950-1955			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		4:7	</container><unittitle>	Social Security, 1956-1964			</unittitle></did>				</c03>	</c02>		
+	<c02 level="subseries"><did><unittitle>	Sub-series A: Organizations						</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		4:8	</container><unittitle>	Organizations			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		4:9	</container><unittitle>	American Legion—Newsletters/Publications, 1958- I 963			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		4:10	</container><unittitle>	Tom Phillips Post No. 184, 1931-1964			</unittitle></did>			</c04>				</c03>
+	<c03 level="file"><did><container type="Box:File">		5:1	</container><unittitle>	American Legion Tom Phillips Post No. 184—Constitutions, Bylaws and Handbook, 1952-1960			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		5:2	</container><unittitle>	Motor City Elks Lodge #962, 1945-1950			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		5:3	</container><unittitle>	Lawyers Wives of Michigan/National Association of Banisters' Wives, 1958-1975			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		5:4	</container><unittitle>	Omega Psi Phi Fraternity, 1924-1925			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		5:5	</container><unittitle>	1928-1929			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		5:6	</container><unittitle>	1940-1941			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		5:7	</container><unittitle>	1942			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		5:8	</container><unittitle>	1943-1944			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		5:9	</container><unittitle>	1945			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:1	</container><unittitle>	Omega Psi Phi, 1946-1947			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:2	</container><unittitle>	1948-1949			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:3	</container><unittitle>	1950-1951			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:4	</container><unittitle>	1952			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		6:5	</container><unittitle>	Chapter Letters			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		6:6	</container><unittitle>	The Oracle			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		6:7	</container><unittitle>	Reports			</unittitle></did>		</c05>	</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:8	</container><unittitle>	1953			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		6:9	</container><unittitle>	Achievement Award Committee			</unittitle></did>		</c05>	</c04>				
+	<c04 level="file"><did><container type="Box:File">		6:10	</container><unittitle>	1954			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		7:1	</container><unittitle>	Omega Psi Phi, 1955-1957			</unittitle></did>		</c05>	</c04>				
+	<c04 level="file"><did><container type="Box:File">		7:2	</container><unittitle>	1957, Reports			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		7:3	</container><unittitle>	1958			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		7:4	</container><unittitle>	1959			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		7:5	</container><unittitle>	Chapter Letters			</unittitle></did>		</c05>	</c04>				
+	<c04 level="file"><did><container type="Box:File">		7:6	</container><unittitle>	1960			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		7:7	</container><unittitle>	1961			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		7:8	</container><unittitle>	Golden Anniversary Grand Conclaves and Banquet			</unittitle></did>		</c05>	</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:1	</container><unittitle>	Omega Psi Phi, 1962			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:2	</container><unittitle>	1963			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:3	</container><unittitle>	1964			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:4	</container><unittitle>	Constitution and Ritual Books, 1934-1954			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:5	</container><unittitle>	Manual of Operational Procedures, 1948			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:6	</container><unittitle>	Rosters/Lists			</unittitle></did>			</c04>			</c03>	
+	<c03 level="file"><did><container type="Box:File">		8:7	</container><unittitle>	Omega Wives Auxiliary, 1952-1975			</unittitle></did>				</c03>	</c02>		
+	<c02 level="subseries"><did><unittitle>	Sub-series B: Universities						</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		8:8	</container><unittitle>	Amherst College, 1944-1955			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		8:9	</container><unittitle>	1956 (401" Reunion)			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		8:10	</container><unittitle>	1957-1959			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		9:1	</container><unittitle>	Amherst College, 1960-1962			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		9:2	</container><unittitle>	1963-1965			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		9:3	</container><unittitle>	Publications, 1951-1953			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		9:4	</container><unittitle>	1975			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		9:5	</container><unittitle>	1975-1976			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		9:6	</container><unittitle>	Amherst Alumni Council News, 1944-1948			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		9:7	</container><unittitle>	Amherst Alumni News, 1949-1951			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		9:8	</container><unittitle>	1952-1965			</unittitle></did>		</c05>					
+	<c05 level="file"><did><container type="Box:File">		9:9	</container><unittitle>	Catalogs and Bulletins, 1915-1951			</unittitle></did>		</c05>	</c04>	</c03>			
+	<c03 level="file"><did><container type="Box:File">		9:10	</container><unittitle>	Howard University, 1946-1950			</unittitle></did>				</c03>	</c02>	</c01>	
+	<c01 level="series"><did><unittitle>	Series II: Business Papers						</unittitle></did>							
+	<scopecontent><head>Scope and Contents note</head><p>	Business Papers include legal cases, arranged by topic, followed by an alphabetical list of individuals. Organizations such as the NAACP and bar associations are also contained in this series.			</p></scopecontent>										
+	<c02 level="file"><did><container type="Box:File">		10:1	</container><unittitle>	Blank Legal Forms			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:2	</container><unittitle>	Certificate of Survey for First National Bank of Detroit, 1935			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:3	</container><unittitle>	Civil Rights Conference, 1947			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:4	</container><unittitle>	Constitutional Convention, 1961			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		10:5	</container><unittitle>	Newspaper Clippings			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:6	</container><unittitle>	Correspondence, 1930-1964			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:7	</container><unittitle>	IBM, 1957-1966			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:8	</container><unittitle>	Michigan Civil Rights Commission, 1962-1966			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		10:9	</container><unittitle>	Publications, 1905-[ 1923]			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		10:10	</container><unittitle>	1940-1956			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		10:11	</container><unittitle>	1947			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		11:1	</container><unittitle>	Publications, 1957			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		11:2	</container><unittitle>	Recorder's Court, 1964-1965			</unittitle></did>					</c02>		
+	<c02 level="file"><did><container type="Box:File">		11:3	</container><unittitle>	Tax Returns, 1938-1952			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		11:4	</container><unittitle>	1953-1964			</unittitle></did>				</c03>	</c02>		
+	<c02 level="file"><did><container type="Box:File">		11:5	</container><unittitle>	Trademark Material, 1934-1941			</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		11:6	</container><unittitle>	Dent Trademark, 1937-1947			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		11:7	</container><unittitle>	Tee See Laboratories, 1934-1953			</unittitle></did>				</c03>	</c02>		
+	<c02 level="subseries"><did><unittitle>	Sub-series A: Legal Cases						</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		11:8	</container><unittitle>	Agreements, 1928-1956			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		11:9	</container><unittitle>	Briefs, 1926			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		11:10	</container><unittitle>	and Law References, 1930-1937			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		11:11	</container><unittitle>	and Forms, 1938-1957			</unittitle></did>			</c04>	</c03>			
+	<c03 level="file"><did><container type="Box:File">		11:12	</container><unittitle>	Cadroy Management Company, 1941-1942			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		11:13	</container><unittitle>	Decrees, 1927-1958			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		12:1	</container><unittitle>	Decrees, etc., 1941-1956			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		12:2	</container><unittitle>	and Legal Briefs and Law, 1934-1956			</unittitle></did>			</c04>	</c03>			
+	<c03 level="file"><did><container type="Box:File">		12:3	</container><unittitle>	Housing, 1917-1954			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		12:4	</container><unittitle>	Opinions on Abstracts, 1926-1941			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		12:5	</container><unittitle>	1942-1944			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:6	</container><unittitle>	1945			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:7	</container><unittitle>	1946-1948			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:8	</container><unittitle>	1948-1949			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:9	</container><unittitle>	1949-1953			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:10	</container><unittitle>	1954-1957			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		12:11	</container><unittitle>	1958-1961			</unittitle></did>			</c04>	</c03>			
+	<c03 level="file"><did><container type="Box:File">		12:13	</container><unittitle>	Pending, 1964			</unittitle></did>				</c03>			
+	<c03 level="file"><did><container type="Box:File">		12:14	</container><unittitle>	Wills, 1926-1964			</unittitle></did>				
+	<c03 level="subseries"><did><unittitle>	Legal Cases of Individuals:						</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		13:1	</container><unittitle>	A and F Coal Company, 1951-1963			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:2	</container><unittitle>	Harriett Adams vs. Georgia Lee et al, 1957-1958			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:3	</container><unittitle>	Viola Agee, 1960			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:4	</container><unittitle>	Jacob Allen, estate of, 1951-1952			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:5	</container><unittitle>	American Legion, 1962-1963			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:6	</container><unittitle>	James and Lillian Amos vs. Ellie and Irene Tubbs, 1939-1964			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:7	</container><unittitle>	William Amos, 1937-1963			</unittitle></did>			</c04>				
+	<c04 level="file"><did><container type="Box:File">		13:8	</container><unittitle>	Anderson, 1953-1963			</unittitle></did>			</c04>	</c03>			
+	<c04 level="file"><did><container type="Box:File">		13:9	</container><unittitle>	Arden Park-East Boston Blvd. Improvement Association, 1949-1955			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		13:10	</container><unittitle>	1956			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		13:11	</container><unittitle>	Hearings			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:12	</container><unittitle>	John W. Askew, estate of, 1956-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:13	</container><unittitle>	Mary Lou Peyton Askew, 1956-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:14	</container><unittitle>	Milton Austin, 1960-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:15	</container><unittitle>	B, 1937-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:16	</container><unittitle>	John Bailey vs. Samuel and Iciebelle Gibbons, 1954-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:17	</container><unittitle>	Claudia Margaret Bentley vs. Wesley Bentley, 1960-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:18	</container><unittitle>	Gertrude Berlerson and Mildred Hall, 1946-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		13:19	</container><unittitle>	Barbara Marie Better vs. William Earl Better, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:1	</container><unittitle>	Alfred A. Blackburn, 1917-1947			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		14:2	</container><unittitle>	1953-1959			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:3	</container><unittitle>	estate of 1961-1963			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:4	</container><unittitle>	Bank Statements and Financial Papers			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:5	</container><unittitle>	Correspondence and Claims			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:6	</container><unittitle>	General Administration			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:7	</container><unittitle>	Pleadings			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:8	</container><unittitle>	Homer Bonner, 1936-1964			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		14:9	</container><unittitle>	Abstract of Title			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		14:10	</container><unittitle>	vs. William and Fay Ellis. 1945-1946			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:11	</container><unittitle>	Dorothy L. Bradley vs. Odell Bradley 1953-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:12	</container><unittitle>	LeRoy Bradley, 1944-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:13	</container><unittitle>	Eugene and Leonard Brooks, 1939-1944			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:14	</container><unittitle>	James D. Brown, 1947-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:15	</container><unittitle>	Berthella Browne, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:16	</container><unittitle>	Mosell Buckley, 1943-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		14:17	</container><unittitle>	Ruth Buckner vs. Richard B. Buckner, 1959-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:1	</container><unittitle>	C, 1946-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:2	</container><unittitle>	Jessie V. Caldwell vs. Cauley T. Caudwcll, 1953-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:3	</container><unittitle>	Ida Cansler, estate of, 1960-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:4	</container><unittitle>	Kenneth Carter vs. Bessie Carter, 1959-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:5	</container><unittitle>	Caudell-Cooper Land Contract, 1952-1972			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:6	</container><unittitle>	Clifford Champion, 1950-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:7	</container><unittitle>	Sidney L. Chavis vs. Ellen Frances Chavis, 1942-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:8	</container><unittitle>	James W. Collins, 1937-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:9	</container><unittitle>	Ola Collins, estate of, 1952-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:10	</container><unittitle>	Frances M. Crumb vs. James E. Crumb, 1946-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:11	</container><unittitle>	Iola Cummings, estate of, 1902-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:12	</container><unittitle>	James Edward Cummings, 1941-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:13	</container><unittitle>	Mildred Cummings, 1939-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:14	</container><unittitle>	Emmett S. Cunningham and Robert Davidson vs. Ferguson Brothers Agency Inc., 1942-1943			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:15	</container><unittitle>	Carthel Curry, 1945-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:16	</container><unittitle>	Grover Curtis vs. Virginia Curtis, 1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:17	</container><unittitle>	D, 1943-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		15:18	</container><unittitle>	Moses H. Dalton vs. Mary Lee Dalton, 1944-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:1	</container><unittitle>	Leroy Davis, 1943			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		16:2	</container><unittitle>	Correspondence, 1943-1944			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		16:3	</container><unittitle>	Notes			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		16:4	</container><unittitle>	Pennsylvania Decision on Extradition, 1942			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:5	</container><unittitle>	Ella M. Dent, estate of, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:6	</container><unittitle>	Thomas M. Dent, 1918-1929			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:7	</container><unittitle>	Dr. Thomas M. Dent III, 1955-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:8	</container><unittitle>	Hattie Dickerson, 1952-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:9	</container><unittitle>	Donaldson Subdivision Improvement Association et al vs. James A. and Opal McDonald, 1945-1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:10	</container><unittitle>	Geneva Dooley vs. John Dooley, 1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:11	</container><unittitle>	Theresa M. Dorsey, 1951-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:12	</container><unittitle>	Birdus Doughton vs. Essie Doughton, 1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:13	</container><unittitle>	Margaret Drayton vs. Jack P. Drayton, 1954-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:14	</container><unittitle>	Reda G. Dubose vs. Arthur Dubose, 1957-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:15	</container><unittitle>	Ambia K. Durrett vs. Willie A. Durrett, 1961-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:16	</container><unittitle>	E-Fo, 1938-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:17	</container><unittitle>	William Fields vs. Rosa L. Fields, 1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:18	</container><unittitle>	Taylor and Daisy Fisher, 1951-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		16:19	</container><unittitle>	Annette V. Folden, 1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:1	</container><unittitle>	Howard Fountain, 1904-1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:2	</container><unittitle>	Fr-Fu, 1945-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:3	</container><unittitle>	Tom Freeman, 1938-1964			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		17:4	</container><unittitle>	vs. Ford Motor Company, 1957-1959			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:5	</container><unittitle>	G, 1947-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:6	</container><unittitle>	Irvine Gamble vs. Lafayette Gamble, 1952-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:7	</container><unittitle>	Prenest Garth vs. Eunice Garth, 1955-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:8	</container><unittitle>	Samuel C. Gibbons, 1954-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:9	</container><unittitle>	Amos Gladney, estate of, 1946-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:10	</container><unittitle>	William Grayson vs. Willie Mac Grayson, 1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:11	</container><unittitle>	Annie Carlisle Gregory, 1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		17:12	</container><unittitle>	Roger Grissom, estate of 1934-1937			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:1	</container><unittitle>	Roger Grissom, estate of—Probate Court Record			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:2	</container><unittitle>	Harry M. Guy 1952-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:3	</container><unittitle>	Ha-Hi, 1946-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:4	</container><unittitle>	Hmayag and Voski Hachigian vs. Simmie L. and Willie L. Nolan, 1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:5	</container><unittitle>	Marthta Hall, estate of, 1942-1950			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:6	</container><unittitle>	Andrew B. Hamer, 1946-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:7	</container><unittitle>	Hardiman, 1950-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:8	</container><unittitle>	Alfred Hardiman. estate of, 1943-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:9	</container><unittitle>	Margaret Hardiman vs. Harold Hardiman, 1961-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		18:10	</container><unittitle>	Sherman Hardiman, estate of, 1944-1964			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		18:11	</container><unittitle>	Accounts Receivable and Claims Against, 1958-1960			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		18:12	</container><unittitle>	Appeals, 1959-1960			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:1	</container><unittitle>	Sherman Hardiman, estate of—Correspondence, 1958-1961			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		19:2	</container><unittitle>	Hertzberg and Noveck v. Estate of S. Hardiman, 1959-1960			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		19:3	</container><unittitle>	Pleadings, etc., 1958-1961			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:4	</container><unittitle>	William Hardiman, 1945-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:5	</container><unittitle>	B. Geraldine J. Harmon, estate of 1962-1964			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		19:6	</container><unittitle>	Ben L. Williams, executor vs. Metropolitan Life Insurance Company, 1962-1963			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:7	</container><unittitle>	Harris, 1950-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:8	</container><unittitle>	Arthur Harris, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:9	</container><unittitle>	Clyde James Harris vs. John W. Webb and Harold Ferguson, 1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:10	</container><unittitle>	Mary Louise Harris vs. Tommie Lee 1-Iarris, 1950-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:11	</container><unittitle>	Mattie Harris vs. Albert Harris Jr., 1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:12	</container><unittitle>	Ruth Mae Hawkins vs. Fred David Hawkins, 1943-1947			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:13	</container><unittitle>	Roosevelt Hayes vs. Ora Dee Hayes, 1952-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:14	</container><unittitle>	Flora Mae Henderson vs. Romey Archibald Henderson, 1946-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:15	</container><unittitle>	James C. Henderson, estate of, 1955-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:16	</container><unittitle>	Laura Henry, 1954-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		19:17	</container><unittitle>	Juanita E. Higginbotham vs. Thomas J. Higginbotham, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:1	</container><unittitle>	Thomas J. Higginbotham, 1947-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:2	</container><unittitle>	Beatrice L. Hill vs. Robert Hill, 1947-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:3	</container><unittitle>	Viola Hill, 1944-1961			</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">		20:4	</container><unittitle>	Correspondence, 1957-1958			</unittitle></did>				</c05></c04>			
+	<c04 level="file"><did><container type="Box:File">		20:5	</container><unittitle>	William K. Hill, 1941-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:6	</container><unittitle>	Ulysses Hitchcock, 1941-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:7	</container><unittitle>	Ho-Hu, 1945-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:8	</container><unittitle>	George R. Hoagland 1948-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:9	</container><unittitle>	Vera Bernice Hodge vs. Leonard Arthur Hodge, 1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:10	</container><unittitle>	Holden, 1952-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:11	</container><unittitle>	John T. Holden—Vanderbilt, Ruben and John T. Holden vs. Gyle G. Johnson et al, 1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:12	</container><unittitle>	Hester E. Holloway, 1925-1945			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:13	</container><unittitle>	Robert D. Holloway, 1944-1947			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:14	</container><unittitle>	Harlin Randolph Holmes vs. Willie Mae Holmes, 1948-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:15	</container><unittitle>	James Holt, 1942-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:16	</container><unittitle>	Richard J. Hosey, 1946-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:17	</container><unittitle>	I-Ja, 1942-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		20:18	</container><unittitle>	George A. Isabell—Brewster Project, 1938-1939			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		20:19	</container><unittitle>	Personal, 1937-1939			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:1	</container><unittitle>	Bessie Ivy, 1946-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:2	</container><unittitle>	Alice D. Jackson vs. Clinton H. Jackson, 1947-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:3	</container><unittitle>	Bertha Jackson vs. George E. Jackson Jr., 1947			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:4	</container><unittitle>	Robert R. Jackson, estate of, 1952-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:5	</container><unittitle>	William S. Jackson, estate of, 1954-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:6	</container><unittitle>	Mildred James, 1949-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:7	</container><unittitle>	Je-Jo, 1939-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:8	</container><unittitle>	Cleveland Johnson vs. Lucille Johnson, 1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:9	</container><unittitle>	E.F. Johnson, 1923-1924			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:10	</container><unittitle>	Eugene A. Johnson, 1925-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:11	</container><unittitle>	Georgia Johnson vs. Hyman Johnson, 1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:12	</container><unittitle>	Herbert L. Johnson vs. Lillian Johnson, 1943-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:13	</container><unittitle>	Irene Johnson vs. Eddie Johnson, 1957-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:14	</container><unittitle>	Leon N. Johnson vs. Ruby Ellen Johnson, 1950-1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:15	</container><unittitle>	Robert F. Johnson, 1956-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21: 16	</container><unittitle>	William Johnson, 1945			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		21:17	</container><unittitle>	Wilhelmina Johnson vs. Vernon Johnson, 1945-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:1	</container><unittitle>	Bessie E. Joiner vs. Noah A. Joiner, 1943			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:2	</container><unittitle>	Gilber Jones, 1962-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:3	</container><unittitle>	James C. Jones, 1938			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:4	</container><unittitle>	John W. Jones—Receipts, 1937-1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:5	</container><unittitle>	William A. Jones Jr. et al vs. City of Hamtramck, 1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		2:6	</container><unittitle>	William R. Jones, estate of, 1938-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		2:7	</container><unittitle>	Catherine Kelly vs. Supreme Liberty Life Insurance Company, 1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:8	</container><unittitle>	Clemie Kemp, 1952-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:9	</container><unittitle>	Dock F. Kemp, 1942-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:10	</container><unittitle>	Elmer Dewey Kirby vs. Mary Lee Kirby, 1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:11	</container><unittitle>	L, 1944-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:12	</container><unittitle>	Alice Lampkin vs. William Lampkin, 1953-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:13	</container><unittitle>	Berniece Lee vs. Perry V. Lee, 1950-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:14	</container><unittitle>	Delvina A. Lee vs. John McKinley Lee Jr., 1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:1.5	</container><unittitle>	Georgia Lee, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:16	</container><unittitle>	James A. Lee, estate of, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:17	</container><unittitle>	Ruth Mae Lee, 1962-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:18	</container><unittitle>	Patricia Anne Levi vs. Lawrence E. Levi, 1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:19	</container><unittitle>	Alexander Lewis and Rose Lewis, 1948-1950			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		22:20	</container><unittitle>	Joseph Lewis Jr., 1957-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:1	</container><unittitle>	Lewis et al vs. City of Detroit, 1953-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:2	</container><unittitle>	Walter Art/mr Lewis vs. City of Detroit, 1950-1954			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		23:3	</container><unittitle>	Correspondence			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		23:4	</container><unittitle>	Printed Material/Newspaper Clippings/Reports, 1949-1954			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		23:5	</container><unittitle>	vs. Detroit Housing Commission, 1954-1955			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:6	</container><unittitle>	Wilbur S. Lewis vs. Blanche B. Lewis, 1954-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:7	</container><unittitle>	Wilson Lindsay vs. Ellen LaVerne Lindsay, 1950-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:8	</container><unittitle>	Adelaide Long, 1955-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:9	</container><unittitle>	Lewis H. Long, estate of, 1950-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:10	</container><unittitle>	Frank Love vs. Ruby Love, 1944-1945			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:11	</container><unittitle>	Charlotte Lowry, 1952-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:12	</container><unittitle>	Ma, 1949-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		23:13	</container><unittitle>	Clotee [sic] Macklin, 1936-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:1	</container><unittitle>	Annie Mac Madden vs. James Madden, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:2	</container><unittitle>	Joseph Malicke et al vs. John T. Milan and Nettie L. Milan, 1945-1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:3	</container><unittitle>	Clarence and Nina Markhunc vs. Howard and Russell Kratz, 1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:4	</container><unittitle>	Rupert C.L. Markoe, 1939-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:5	</container><unittitle>	Marguerite Massey, 1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:6	</container><unittitle>	John Hill Mattocks vs. Margaret R. Mattocks, 1947-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:7	</container><unittitle>	Jesse Mayo vs. Martha Mayo, 1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:8	</container><unittitle>	Mc, 1948-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:9	</container><unittitle>	Ernest J. McBride vs. Annie Mae McBride, 1948-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:10	</container><unittitle>	Mildred McKoy vs. Winslow M. McKoy, 1960-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:11	</container><unittitle>	Louvenia McNary vs. George S. McNary, 1947-19690			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:12	</container><unittitle>	Samuel B. McQueen and Carolyn McQueen, 1958-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:13	</container><unittitle>	Me, 1923-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		24:14	</container><unittitle>	Robert L. Mickle vs. Alice M. Mickle, 1945-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:1	</container><unittitle>	Mid-West Lake and Counnti Club vs. Al f'E. and Lavenia Thomas, 1934-1937			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		25:2	</container><unittitle>	Notes and Correspondence			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:3	</container><unittitle>	Nettie Milledge, 1949-1955			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		25:4	</container><unittitle>	Florida Matter, 1948-1951			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:5	</container><unittitle>	David Miller vs. Rosie Lee Miller, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:6	</container><unittitle>	Sherman Miller, 1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:7	</container><unittitle>	Benjamin B. Mitchell, 1955-1966			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:8	</container><unittitle>	Mo-Mu, 1940-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:9	</container><unittitle>	Elmer H. Moore, 1943-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:10	</container><unittitle>	Cclillus Palmore Morgan, estate of, 1952-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:11	</container><unittitle>	David and Gwendolyn Morgan, 1962-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:12	</container><unittitle>	John Motley, 1949-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:13	</container><unittitle>	Mt. Sinai Baptist Church of Inkster, 1960-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:14	</container><unittitle>	Katherine Mrsa vs. Collins J. Reynolds et al, 1945-1947			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		25:15	</container><unittitle>	N, 1952-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:1	</container><unittitle>	National Benefit Life Insurance Company, 1930-1931			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:2	</container><unittitle>	Frank Owens, 1953-1957			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		26:3	</container><unittitle>	et al vs. Louis J. Schneider et al, 1954			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		26:4	</container><unittitle>	1955			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		26:5	</container><unittitle>	Notes			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		26:6	</container><unittitle>	Pleadings, etc., 1953-1955			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:7	</container><unittitle>	P, 1952-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:8	</container><unittitle>	Arthur W. Palmer Jr., 1946-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:9	</container><unittitle>	Willie Mae Palmer, estate of, 1946-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:10	</container><unittitle>	Edith Paschal, 1948-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:11	</container><unittitle>	Haywood Patterson, estate of, 1952-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:12	</container><unittitle>	Dewitt T. Perry, 1954			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		26:13	</container><unittitle>	estate of, 1946-1960			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:14	</container><unittitle>	Prudence Perry, 1960-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:15	</container><unittitle>	Robert Peters vs. Loretta Peters, 1955-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:16	</container><unittitle>	Lucius Pickett, 1957-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:17	</container><unittitle>	William Pickett, estate of, 1939-1943			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:18	</container><unittitle>	Richard A. Pinkston Jr., 1949-1950			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:19	</container><unittitle>	Richard Pinkston Sr., 1948-1950			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		26:20	</container><unittitle>	Richard Pinkston 111, 1948-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:1	</container><unittitle>	Pitts vs. Pius, 1948-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:2	</container><unittitle>	William H. Porter, 1953-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:3	</container><unittitle>	William Prater vs. Betty Jean Prater, 1951-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:4	</container><unittitle>	Q-R, 1942-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:5	</container><unittitle>	Maggie Randolfo vs. Dr. Jesu C. Randolfo, 1952-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:6	</container><unittitle>	Hattie Rankin vs. Edith Paschal et al, 1945-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:7	</container><unittitle>	Mary H. Reed vs. William E. Reid, 1953-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:8	</container><unittitle>	Lillie Mae Reevers vs. Rosewell Reevers, 1959-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:9	</container><unittitle>	Isadore Renfroe, 1959-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:10	</container><unittitle>	David L. Reynolds, 1960-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:11	</container><unittitle>	Carrie Richard, 1950-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:12	</container><unittitle>	Susann Ricumstrict, estate of, 1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:13	</container><unittitle>	Walter A. Riley, 1945-1949			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:14	</container><unittitle>	Joseph Roberts, 1942-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:15	</container><unittitle>	Rev. Solomon D. Ross, 1936-1944			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:16	</container><unittitle>	Sa-Se, 1947-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:17	</container><unittitle>	Evans Sampson et al vs. O.C. Thomas, 1947-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:18	</container><unittitle>	H.P. Saundle, 1960-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:19	</container><unittitle>	Cora Scott vs. Reginald D. Scott, 1955-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		27:20	</container><unittitle>	Benjamin F. Seabrooks, 1949-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:1	</container><unittitle>	Benjamin F. Seabrooks, 1940-1960—re. 49 Blaine Ave.			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		28:2	</container><unittitle>	Sugar Hill Cocktail Bar, 1949-1964			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:3	</container><unittitle>	Second Baptist Church, 1941-1949			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		28:4	</container><unittitle>	1950-1956			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:5	</container><unittitle>	Sh-Si, 1930-1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:6	</container><unittitle>	Johnnie Mae Siggers vs. Verdieman Siggers, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:7	</container><unittitle>	Epaminondas Simatos, estate of, 1954			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		28:8	</container><unittitle>	Pleadings/Notes/Expenses, 1953-1955			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:9	</container><unittitle>	Annie Mae Sims vs. George Lee Sims, 1954-1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:10	</container><unittitle>	Alberther Singleton vs. William L. Singleton, 1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:11	</container><unittitle>	Sm, 1946-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:12	</container><unittitle>	Bonnie Osborne Smith vs. Highland Park State Bank and Sylvester McQueen, 1941-1946			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:13	</container><unittitle>	George M. Smith vs. Gloria Rosetta Smith, 1950			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:14	</container><unittitle>	Joseph W. Smith, estate of, 1954-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		28:15	</container><unittitle>	Thomas N. Smith, 1936-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:1	</container><unittitle>	Sp-Su, 1949-1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:2	</container><unittitle>	Gwendolyn L. Sparks, 1954-1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:3	</container><unittitle>	David Strother, 1948-1952			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		29:4	</container><unittitle>	vs. Geneva Flowers, 1936-1954			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		29:5	</container><unittitle>	vs. Mary N. Strother, 1953-1955			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		29:6	</container><unittitle>	vs. Susie Strother, 1947-1953			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:7	</container><unittitle>	Ta, 1953-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:8	</container><unittitle>	Elnora Taylor vs. Gerald M. Taylor, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:9	</container><unittitle>	Th-To, 1951-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:10	</container><unittitle>	Charles E. Thomas vs. Lula Mac Thomas, 1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:11	</container><unittitle>	Peter Thomas and Priscilla Thomas, 1951-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:12	</container><unittitle>	Mildred Jean Thompson vs. Lonnie M. Thompson, 1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:13	</container><unittitle>	Tu-Ty, 1943-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:14	</container><unittitle>	Wa, 1949-1961			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:15	</container><unittitle>	Willie Mae Wallace, 1960-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:16	</container><unittitle>	Willis Ward, 1934			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:17	</container><unittitle>	Frances Warren vs. Isaac Warren, 1947-1962			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:18	</container><unittitle>	Booker T. Washington Trade Association, 1930-1933			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		29:19	</container><unittitle>	Dorothy Mae Washington vs. Henry Washington, 1955			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:1	</container><unittitle>	Wayne County Better Homes Inc., 1943-1951			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		30:2	</container><unittitle>	1953-1955			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:3	</container><unittitle>	Frank Weaver, 1951-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:4	</container><unittitle>	Elenor C. Wesley, 1953-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:5	</container><unittitle>	Maurice P. Wesson vs. Mary Susan Wesson, 1963-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:6	</container><unittitle>	Hester Dean White, 1949-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:7	</container><unittitle>	Thomas W. White, 1958-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:8	</container><unittitle>	Willis E. White, 1947-1952			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:9	</container><unittitle>	We-Wh, 1944-1966			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:10	</container><unittitle>	Charles E. Wells, 1953-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:11	</container><unittitle>	Wi, 1941-1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:12	</container><unittitle>	Ella Willams, 1959-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:13	</container><unittitle>	Esther Williams, 1950-1956			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:14	</container><unittitle>	Lucious Williams, 1959-1965			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:15	</container><unittitle>	Moses Williams, 1941-1953			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:16	</container><unittitle>	Carrie Wilson, 1948-1951			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:17	</container><unittitle>	Dr. John D. Wilson, 1947-1948			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:18	</container><unittitle>	Nancy Wilson, 1947-1954			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		30:19	</container><unittitle>	Hattie Winston, 1954-1957			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		30:20	</container><unittitle>	vs. Fay E. Union et al, 1950-1958			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:1	</container><unittitle>	Hattie Winston vs. Fay E. Union et al—Correspondence, 1949-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:2	</container><unittitle>	since Decree, 1956-1960			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:3	</container><unittitle>	Wo-Wr, 1957-1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:4	</container><unittitle>	Woodard Brothers, 1944-1957			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:5	</container><unittitle>	John W. Woodard vs. Rosetta Woodard, 1958			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:6	</container><unittitle>	Harper Worthy and Corrie Worthy, 1962-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:7	</container><unittitle>	Heiman Wright vs. Willie Mae Wright, 1945-1959			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:8	</container><unittitle>	Robert E. Wynes. 1962-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:9	</container><unittitle>	Ressie M. Young, 1961			</unittitle></did>				</c04>	</c03>	</c02>	
+	<c02 level="subseries"><did><unittitle>	Sub-series B: Organizations						</unittitle></did>							
+	<c03 level="file"><did><container type="Box:File">		31:10	</container><unittitle>	Organizations			</unittitle></did>					</c03>		
+	<c03 level="file"><did><container type="Box:File">		31:11	</container><unittitle>	National Association for the Advancement of Colored People (NAACP), 1928-1938			</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		31:12	</container><unittitle>	1944-1949: 1964			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:13	</container><unittitle>	Press Releases, 1937-1938			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:14	</container><unittitle>	Publications, 1950-1958; 1977			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:15	</container><unittitle>	Reports and Correspondence, 1937-1938			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		31:16	</container><unittitle>	Restrictive Covenants, 1943-1951			</unittitle></did>				</c04>	</c03>		
+	<c03 level="file"><did><container type="Box:File">		32:1	</container><unittitle>	National Lawyers Guild, 1945-1964			</unittitle></did>					</c03>		
+	<c03 level="subseries"><did><unittitle>	Bar Associations:				</unittitle></did>							
+	<c04 level="file"><did><container type="Box:File">		32:2	</container><unittitle>	American Bar Association/Detroit Bar Association, 1952-1963			</unittitle></did>				</c04>			
+	<c04 level="file"><did><container type="Box:File">		32:3	</container><unittitle>	National Bar Association, 1946			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		32:4	</container><unittitle>	1947-1948			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:5	</container><unittitle>	1949-1958			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:6	</container><unittitle>	1961-1966			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:7	</container><unittitle>	Publications, 1947			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		32:8	</container><unittitle>	State Bar of Michigan, 1940-1947			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		32:9	</container><unittitle>	1948-1949			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:10	</container><unittitle>	1950-1952			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:11	</container><unittitle>	1953			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:12	</container><unittitle>	1954			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		32:13	</container><unittitle>	1955-1956			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:1	</container><unittitle>	State Bar of Michigan, 1956-1957; 1957-1958			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:2	</container><unittitle>	1958-1959			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:3	</container><unittitle>	1959-1960: 1960-1961			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:4	</container><unittitle>	1961-1962			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:5	</container><unittitle>	1962-1963; 1963-1964			</unittitle></did>			</c05>	</c04>			
+	<c04 level="file"><did><container type="Box:File">		33:6	</container><unittitle>	Wolverine Bar Association, 1932-1936			</unittitle></did>							
+	<c05 level="file"><did><container type="Box:File">		33:7	</container><unittitle>	1937-1938			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:8	</container><unittitle>	1939-1943			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:9	</container><unittitle>	1945-1946			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:10	</container><unittitle>	1948			</unittitle></did>			</c05>				
+	<c05 level="file"><did><container type="Box:File">		33:11	</container><unittitle>	1949-1966			</unittitle></did>			</c05>	</c04>	</c03>	</c02>	</c01>
+															
+	<c01 level="file"><did><container type="LMS">			</container><unittitle>	Photographs, Amherst College, 1916: Detroit College of Law, 1923 Calendar, 1963			</unittitle></did>		</c01>		
+
+    </dsc>
+  </archdesc>
+</ead>

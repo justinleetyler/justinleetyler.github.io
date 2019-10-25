@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Citizens Research Council of Michigan records, <date encodinganalog="Date">1957-1972.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00489</unitid>
+      <origination>
+        <corpname encodinganalog="110" source="lcnaf" role="creator" rules="AACR2R">Citizens Research Council of Michigan.</corpname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Citizens Research Council of Michigan records, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1957-1972.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">3.5 linear ft. </extent>
+        <extent encodinganalog="300$b">(7 boxes, 1 large manuscript)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">This collection contains CRC research materials mainly from the 1960's.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Citizens Research Council of Michigan is the oldest public policy research organization in the state. Founded in 1916, the CRC was established to bring about sound governmental policy through factural research. Its goal is to provide factual, unbiased independent information on significant issues concerning state and local government organization and finance. Over the years, CRC has made significant contributions to the ongoing debate over the appropriate role of government, and has gained vast experience in virtually ever facet of state and local government.</p>
+    </bioghist>
+    <arrangement encodinganalog="351" id="a4">
+      <head>Arrangement note</head>
+      <p>Alphabetical by subject.</p>
+    </arrangement>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>White index cards filed in the Burton Historical Collection reading room.</p>
+    </otherfindaid>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Citizens Research Council of Michigan, Archives</corpname>
+      </controlaccess>
+      <controlaccess>
+        <corpname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="610">Michigan. -- Constitutional Convention -- (1961-1962)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Research institutes.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Airports -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Local government -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Municipal services -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Taxation -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Education -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Public health -- Research -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Transportation -- Research -- Michigan.</subject>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+<c01 level="file"><did><container type="Box:File">	1:1	</container><unittitle>	Airport Authority (Battle Creek-Kalamazoo), 1965-1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	1:2	</container><unittitle>	Alpena, City of—Administrative Study, 1968-1970				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	1:3	</container><unittitle>	Alpena Fire, 1967-1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	1:4	</container><unittitle>	Annexation—Port Huron, et al, 1963-1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	1:5	</container><unittitle>	Battle Creek Study, 1965-1966				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	1:6	</container><unittitle>	Correspondence, 1963-1966				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	1:7	</container><unittitle>	Supplement, 1966				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	1:8	</container><unittitle>	Bay City Fire Study, 1967-1969				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	1:9	</container><unittitle>	Apparatus/Equipment, 1967				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	1:10	</container><unittitle>	Fire Loss, 1966-1968				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	1:11	</container><unittitle>	Fire Prevention, 1965				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	1:12	</container><unittitle>	Manning, 1965-1967				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	2:1	</container><unittitle>	Bay City Fire Study—Training, 1965-1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:2	</container><unittitle>	City Suit, 1968-1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:3	</container><unittitle>	Community Renewal Program, 1964-1965				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:4	</container><unittitle>	Comparison of the Systems, Project 6, 1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:5	</container><unittitle>	Competitor Taxes, 19699-1971				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:6	</container><unittitle>	Crippled Children—Correspondence, 1960-1962				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	2:7	</container><unittitle>	Reports, 1961-1963				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	2:8	</container><unittitle>	Detroit Institute of Technology, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:9	</container><unittitle>	Detroit Metropolitan Goals Forum, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:10	</container><unittitle>	Detroit School District—Battelle Group, 1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	2:11	</container><unittitle>	Detroit Schools—Vocational Education, 1966-1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:1	</container><unittitle>	Detroit Schools—Vocational Education; Correspondence, 1967-1968				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	3:2	</container><unittitle>	Detroit Board of Education Multi-Health Occupations Proposal, 1967				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	3:3	</container><unittitle>	Fulton County Board of Education, 1967-1968				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	3:4	</container><unittitle>	Lists, 1967-1968				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	3:5	</container><unittitle>	Pittsburgh, Public Schools, 1966-1968				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	3:6	</container><unittitle>	Subject Enrollment Report, 1967				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	3:7	</container><unittitle>	Dzendzel File, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:8	</container><unittitle>	Education—Long-Term, 1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:9	</container><unittitle>	Education Reform, 1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:10	</container><unittitle>	Elementary/Secondary School Finance Project, 1969				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:11	</container><unittitle>	Flint Area Health Facilities Planning Council, 1966-1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:12	</container><unittitle>	Grand Blanc Study, 1963-1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	3:13	</container><unittitle>	Grand Rapids Area Fire Study, 1967-1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:1	</container><unittitle>	Grand Rapids Community Council, 1966				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:2	</container><unittitle>	Grand Rapids Junior College Study, 1968				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	4:3	</container><unittitle>	Correspondence, 1966-1968				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	4:4	</container><unittitle>	Institute of Community Studies (Urban Living Project), 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:5	</container><unittitle>	Investment City Funds (Detroit), 1971				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:6	</container><unittitle>	Jackson, Study, 1964-1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:7	</container><unittitle>	Lenawee City Welfare Study, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:8	</container><unittitle>	Livonia Charter Commission, 1966-1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:9	</container><unittitle>	Livonia Study, 1960-1970				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	4:10	</container><unittitle>	Local Government—First Interim Report, January 1971				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	4:11	</container><unittitle>	Gribbs, Ravitz, MUNI League—Statements, 1970				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	4:12	</container><unittitle>	Michigan's Problem in Local Government, by James Marling, 1970				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	4:13	</container><unittitle>	Possible Distribution Tax Powers				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	4:14	</container><unittitle>	Recommendations, Subcommittee on Local Government Powers and Functions, 1971				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	5:1	</container><unittitle>	Local Government—Taxing Powers of Local Governments (Governor's Special Commission), 1971				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:2	</container><unittitle>	Mayor's Mansions and Governor's Mansions, 1968				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	5:3	</container><unittitle>	Work Papers				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	5:4	</container><unittitle>	Michigan Energy Survey, 1965				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:5	</container><unittitle>	Midland/Midland Township, 1969-1972 (see also LMS)				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:6	</container><unittitle>	New Detroit, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:7	</container><unittitle>	Pictorial Handbooks, 1959-1961				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:8	</container><unittitle>	Plymouth Community Unification, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	5:9	</container><unittitle>	Post Constitutional Convention (Con-Con), 1963-1964				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	5:10	</container><unittitle>	Reorganization				</unittitle></did>	</c02>		
+<c02 level="file"><did><container type="Box:File">	5:11	</container><unittitle>	Responses to General Departmental Communication No. 5, 1963				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	6:1	</container><unittitle>	Post Con-Con—Responses to General Departmental Communication No. 5, 1963; Michigan Employment Security Commission (MESC), May 23, 1963, Part 1				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	6:2	</container><unittitle>	Part 2				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	6:3	</container><unittitle>	Public Education—Comparison Teachers' Salaries, Pennsylvania Economy League (PEL) Study, 1966				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	6:4	</container><unittitle>	Public Education in Michigan, 1969				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	6:5	</container><unittitle>	Written Requests for Educational Materials				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	6:6	</container><unittitle>	Race Problem, 1967				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	6:7	</container><unittitle>	Railway Crossings, 1962-1965				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	6:8	</container><unittitle>	Reduction of Governmental Expenditures, 1961				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	6:9	</container><unittitle>	Regional Commissions, 1969-1970				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	6:10	</container><unittitle>	1971				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	7:1	</container><unittitle>	Regional Services Financing, 1969-1971				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	7:2	</container><unittitle>	School District Finances—Insolvent, 1967-1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	7:3	</container><unittitle>	Seminar Letters, 1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	7:4	</container><unittitle>	Tax Yields, 1967				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	7:5	</container><unittitle>	William M. Stellenwerf, 1965-1966				</unittitle></did>	</c02>	</c01>	
+<c01 level="file"><did><container type="Box:File">	7:6	</container><unittitle>	University of Detroit Seminar, March 1968				</unittitle></did>		</c01>	
+<c01 level="file"><did><container type="Box:File">	7:7	</container><unittitle>	Urban Problems, 1967				</unittitle></did>			
+<c02 level="file"><did><container type="Box:File">	7:8	</container><unittitle>	Correspondence, 1967-1968				</unittitle></did>	</c02>
+<c02 level="file"><did><container type="Box:File">	7:9	</container><unittitle>	Governor's Special Commission on Urban Problems, 1967				</unittitle></did>			
+<c03 level="file"><did><container type="Box:File">	7:10	</container><unittitle>	1967-1968				</unittitle></did>	</c03>	</c02>	
+<c02 level="file"><did><container type="Box:File">	7:11	</container><unittitle>	Rydholm Committee Material, 1967				</unittitle></did>		</c02>	</c01>
+<c01 level="file"><did><container type="Box:File">	7:12	</container><unittitle>	Walton Company Project, 1966-1967				</unittitle></did>			</c01>
+<c01 level="file"><did><container type="Box:File">	7:13	</container><unittitle>	Warren, City of—Administration Study, 1962				</unittitle></did>			</c01>
+<c01 level="file"><did><container type="LMS">		</container><unittitle>	Midland/Midland Township Study—Map, Midland County School District Boundary Lines, 1957				</unittitle></did>			</c01>
+
+
+    </dsc>
+  </archdesc>
+</ead>

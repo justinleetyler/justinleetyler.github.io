@@ -1,0 +1,1050 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Finding Aid for Eastminster Presbyterian Church records,
+                    <date encodinganalog="Date">1918-1980</date>
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:53-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Eastminster Presbyterian Church records,</unittitle>
+            <unitid>00806</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>31.2 linear ft.</extent>
+            </physdesc>
+            <unitdate>1918-1980</unitdate>
+            <physdesc id="ref1" label="General Physical Description note">
+                <physfacet encodinganalog="300$b"> (17 boxes, 1 wallet, 75 volumes, 1 large manuscript)</physfacet></physdesc>
+        </did>
+        <accessrestrict id="ref2">
+            <head>Restrictions</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref3">
+            <head>Other finding aids note</head>
+            <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+        </otherfindaid>
+        <controlaccess>
+            <corpname source="ingest">Eastminster Presbyterian Church (Detroit, Mich.) -- Archives</corpname>
+            <genreform source="lcsh">Church records -- aat</genreform>
+            <subject source="lcsh">Presbyterians -- Michigan -- Detroit.</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref4" level="subseries">
+                <did>
+                    <unittitle>BOX 1</unittitle>
+                </did>
+                <c02 id="ref5" level="file">
+                    <did>
+                        <unittitle>Articles of Association and by-laws 1918-1948</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref6" level="file">
+                    <did>
+                        <unittitle>History</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref7" level="file">
+                    <did>
+                        <unittitle>Activities - Pageants 1964-1972</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref8" level="file">
+                    <did>
+                        <unittitle>Anniversaries - 25th - 1943</unittitle>
+                    </did>
+                    <c03 id="ref9" level="file">
+                        <did>
+                            <unittitle>30th - 1948</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref10" level="file">
+                        <did>
+                            <unittitle>60th - 1978</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref11" level="file">
+                    <did>
+                        <unittitle>Anniversaries - 50th - 1968</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref12" level="file">
+                    <did>
+                        <unittitle>Annual Reports - 1940-1958</unittitle>
+                    </did>
+                    <c03 id="ref13" level="file">
+                        <did>
+                            <unittitle>1959-1965</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref14" level="file">
+                        <did>
+                            <unittitle>1966-1970</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref15" level="file">
+                        <did>
+                            <unittitle>1971-1980</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="subseries">
+                <did>
+                    <unittitle>BOX 2</unittitle>
+                </did>
+                <c02 id="ref17" level="file">
+                    <did>
+                        <unittitle>Building - 1953-1968</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Building Remodeling - 1959-1974</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Bulletins 1953-1954</unittitle>
+                    </did>
+                    <c03 id="ref20" level="file">
+                        <did>
+                            <unittitle>1955</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref21" level="file">
+                        <did>
+                            <unittitle>1956</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref22" level="file">
+                        <did>
+                            <unittitle>1957</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref23" level="file">
+                        <did>
+                            <unittitle>1958</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref24" level="file">
+                        <did>
+                            <unittitle>1959</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref25" level="file">
+                        <did>
+                            <unittitle>1960</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref26" level="file">
+                        <did>
+                            <unittitle>1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref27" level="file">
+                        <did>
+                            <unittitle>1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref28" level="file">
+                        <did>
+                            <unittitle>1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref29" level="file">
+                        <did>
+                            <unittitle>1964</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref30" level="subseries">
+                <did>
+                    <unittitle>BOX 3</unittitle>
+                </did>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Bulletins 1965 1966</unittitle>
+                    </did>
+                    <c03 id="ref32" level="file">
+                        <did>
+                            <unittitle>1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref33" level="file">
+                        <did>
+                            <unittitle>1968</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref34" level="file">
+                        <did>
+                            <unittitle>1969</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref35" level="file">
+                        <did>
+                            <unittitle>1970</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref36" level="file">
+                        <did>
+                            <unittitle>1971</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref37" level="file">
+                        <did>
+                            <unittitle>1972</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref38" level="file">
+                        <did>
+                            <unittitle>1973</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref39" level="file">
+                        <did>
+                            <unittitle>1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref40" level="file">
+                        <did>
+                            <unittitle>1975-1978</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>1979</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref42" level="file">
+                        <did>
+                            <unittitle>1980</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>1981</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Choir 1962-1967</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref45" level="subseries">
+                <did>
+                    <unittitle>Box 4</unittitle>
+                </did>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Correspondence 1944-1961</unittitle>
+                    </did>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref48" level="file">
+                        <did>
+                            <unittitle>1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>1964</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref50" level="file">
+                        <did>
+                            <unittitle>1965</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>1966</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref52" level="file">
+                        <did>
+                            <unittitle>1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>1968</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref54" level="file">
+                        <did>
+                            <unittitle>1969</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>1970</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref56" level="file">
+                        <did>
+                            <unittitle>1971</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>1972</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref58" level="subseries">
+                <did>
+                    <unittitle>Box 5</unittitle>
+                </did>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Correspondence, 1973-1975</unittitle>
+                    </did>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>1976-1981</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref61" level="file">
+                        <did>
+                            <unittitle>Publishers, Spalding 1964-1973</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Publishers, Upper Room 1960-1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref63" level="file">
+                        <did>
+                            <unittitle>Publishers, Westminster 1956-67</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Requests for Reception or Dismissal 1958-1968</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Detroit of Churches 1935-1964</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Directories 1935-1964</unittitle>
+                    </did>
+                    <c03 id="ref67" level="file">
+                        <did>
+                            <unittitle>1961-1972</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref68" level="file">
+                    <did>
+                        <unittitle>Eastminster Broadcaster 1943-1953</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref69" level="file">
+                    <did>
+                        <unittitle>Eastside Presbyterian Cluster - Administrative Committee - 1971-1974</unittitle>
+                    </did>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Agendas 1971-1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref71" level="file">
+                        <did>
+                            <unittitle>Correspondence 1971-1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Meetings 1971-1972</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref73" level="file">
+                        <did>
+                            <unittitle>Minutes 1971-1974</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref74" level="subseries">
+                <did>
+                    <unittitle>BOX 6</unittitle>
+                </did>
+                <c02 id="ref75" level="file">
+                    <did>
+                        <unittitle>Eastside Presbyterian Cluster---Financial Statements 1971-1974</unittitle>
+                    </did>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>History 1971-1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref77" level="file">
+                        <did>
+                            <unittitle>Task Force Reports 1971-1974</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref78" level="file">
+                    <did>
+                        <unittitle>Finances - 1948-1974</unittitle>
+                    </did>
+                    <c03 id="ref79" level="file">
+                        <did>
+                            <unittitle>Benevolence Fund 1944-1960</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Budgets 1952-1971</unittitle>
+                        </did>
+                        <c04 id="ref81" level="file">
+                            <did>
+                                <unittitle>Building Maintenance 1952-1957 Coonradt Fund 1943-1949</unittitle>
+                            </did>
+                        </c04>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Investments; Contracts 1967-1973</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref83" level="file">
+                        <did>
+                            <unittitle>James Fiscus Memorial</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Fund 1959-1980</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref85" level="file">
+                        <did>
+                            <unittitle>Receipts 1968-1970</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref86" level="subseries">
+                <did>
+                    <unittitle>Box 7</unittitle>
+                </did>
+                <c02 id="ref87" level="file">
+                    <did>
+                        <unittitle>Finances - Resolutions 1967-1972</unittitle>
+                    </did>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Sunday Collections 1956-1957</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref89" level="file">
+                        <did>
+                            <unittitle>1958-1961</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>1962-1963</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref91" level="file">
+                        <did>
+                            <unittitle>1964-1965</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>1966-1967</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref93" level="subseries">
+                <did>
+                    <unittitle>Box 8</unittitle>
+                </did>
+                <c02 id="ref94" level="file">
+                    <did>
+                        <unittitle>Finances – Sunday Collections 1968-1970</unittitle>
+                    </did>
+                    <c03 id="ref95" level="file">
+                        <did>
+                            <unittitle>1971-1972</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>1973-1977</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref97" level="file">
+                        <did>
+                            <unittitle>1977-1979</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref98" level="file">
+                    <did>
+                        <unittitle>Treasurers Reports - Monthly 1939-19)44</unittitle>
+                    </did>
+                    <c03 id="ref99" level="file">
+                        <did>
+                            <unittitle>1945-1951</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>1952-1981</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref101" level="subseries">
+                <did>
+                    <unittitle>Box 9</unittitle>
+                </did>
+                <c02 id="ref102" level="file">
+                    <did>
+                        <unittitle>Insurance - 1959-19711</unittitle>
+                    </did>
+                    <c03 id="ref103" level="file">
+                        <did>
+                            <unittitle>Insurance Policies - 1956-1974</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref104" level="file">
+                    <did>
+                        <unittitle>Land Transactions - 1915-1958</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref105" level="file">
+                    <did>
+                        <unittitle>Leases - 1930-1939</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref106" level="file">
+                    <did>
+                        <unittitle>Leases - 1940-1944</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref107" level="file">
+                    <did>
+                        <unittitle>Leases - 1945-1949</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref108" level="file">
+                    <did>
+                        <unittitle>Leases - 1950-1959</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref109" level="file">
+                    <did>
+                        <unittitle>Mailings - 1917-1977</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref110" level="subseries">
+                <did>
+                    <unittitle>BOX 10</unittitle>
+                </did>
+                <c02 id="ref111" level="file">
+                    <did>
+                        <unittitle>Mariners Club - 1951-1967</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref112" level="file">
+                    <did>
+                        <unittitle>Mariners Club - Minutes 1949-1967</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref113" level="file">
+                    <did>
+                        <unittitle>Membership 1959-1976</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref114" level="file">
+                    <did>
+                        <unittitle>Miscellaneous</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref115" level="file">
+                    <did>
+                        <unittitle>Mission Support 1961-1971</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref116" level="file">
+                    <did>
+                        <unittitle>Photographs</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref117" level="subseries">
+                <did>
+                    <unittitle>BOX 11</unittitle>
+                </did>
+                <c02 id="ref118" level="file">
+                    <did>
+                        <unittitle>A Plan for Union 1974</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref119" level="file">
+                    <did>
+                        <unittitle>Presbyterian Life - Subscription lists - 1959-1964</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref120" level="file">
+                    <did>
+                        <unittitle>Presbytery of Detroit - 1962-1973</unittitle>
+                    </did>
+                    <c03 id="ref121" level="file">
+                        <did>
+                            <unittitle>1974-1975</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>1979-1980</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref123" level="file">
+                        <did>
+                            <unittitle>Directories - 1961-1974</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Minutes 1975</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref125" level="file">
+                    <did>
+                        <unittitle>Printed Material - Church Ads - 1950-1959</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref126" level="file">
+                    <did>
+                        <unittitle>Self Study - 1979-1980</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref127" level="file">
+                    <did>
+                        <unittitle>Self Study - Handbook</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref128" level="file">
+                    <did>
+                        <unittitle>Sermons by Rev. Irving Raab</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref129" level="subseries">
+                <did>
+                    <unittitle>BOX 12</unittitle>
+                </did>
+                <c02 id="ref130" level="file">
+                    <did>
+                        <unittitle>Session - Committees 1966-1969</unittitle>
+                    </did>
+                    <c03 id="ref131" level="file">
+                        <did>
+                            <unittitle>Correspondence 1942-1962</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>to Trustees 1963-1967</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref133" level="file">
+                        <did>
+                            <unittitle>Membership Transfer Requests 1945-1972 11 - I .nt_tes 1980</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref134" level="file">
+                    <did>
+                        <unittitle>Sunday School - 1945-1970</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref135" level="file">
+                    <did>
+                        <unittitle>Sunday School - Individual Attendance A-S 1940-1960</unittitle>
+                    </did>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>S-W 1910-1960</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref137" level="file">
+                    <did>
+                        <unittitle>Taxes 1930-1964</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref138" level="file">
+                    <did>
+                        <unittitle>Trustees - Correspondence 1942-1970</unittitle>
+                    </did>
+                    <c03 id="ref139" level="file">
+                        <did>
+                            <unittitle>Duties</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref140" level="file">
+                        <did>
+                            <unittitle>Minutes 1940-1944</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref141" level="file">
+                    <did>
+                        <unittitle>Women's Association - (Also yearbooks) 1945-1981</unittitle>
+                    </did>
+                    <c03 id="ref142" level="file">
+                        <did>
+                            <unittitle>Constitution and By-laws 1959-1980</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref143" level="file">
+                        <did>
+                            <unittitle>Bulletin Tidbits 1980</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref144" level="file">
+                        <did>
+                            <unittitle>Bulletin Times 1979-1981</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref145" level="subseries">
+                <did>
+                    <unittitle>Box 14</unittitle>
+                </did>
+                <c02 id="ref146" level="file">
+                    <did>
+                        <unittitle>Women's Association - Detroit Presbyterial Assoc. Constitution and By-laws 1957-1980</unittitle>
+                    </did>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Detroit Presbyterial Assoc. 1979</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>Giving Projects</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>Miscellaneous</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Programs</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>Ruth Circle Minutes 1959-1969</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>Ruth Circle Minutes 1971-1976</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Ruth Circle Treasurer's Reports 1945-1978</unittitle>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>Survey</unittitle>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref155" level="file">
+                    <did>
+                        <unittitle>6 Notebooks in Shorthand 1961-1969</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref156" level="file">
+                    <did>
+                        <unittitle>Merger with Grosse Pointe Woods Presbyterian Church 1981</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref157" level="subseries">
+                <did>
+                    <unittitle>Box 15: Index Cards - Dismissals A-Z</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref158" level="subseries">
+                <did>
+                    <unittitle>Box 16: Index Cards - Baptisms, Deceased, Memberships</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref159" level="subseries">
+                <did>
+                    <unittitle>Box 17: Printing Plates</unittitle>
+                </did>
+                <c02 id="ref160" level="file">
+                    <did>
+                        <unittitle>Esse Cloud</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref161" level="file">
+                    <did>
+                        <unittitle>Eastminster Church Rev. Kircher</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref162" level="file">
+                    <did>
+                        <unittitle>Rev. and Mrs. Carl E. Kircher</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref163" level="file">
+                    <did>
+                        <unittitle>Willard Lampe</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref164" level="file">
+                    <did>
+                        <unittitle>Rev. W. C. McKnight T. Moldencke</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref165" level="file">
+                    <did>
+                        <unittitle>Rev. Theodore Moldencke and Family</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref166" level="file">
+                    <did>
+                        <unittitle>Rev. I. T. Raab</unittitle>
+                    </did>
+                </c02>
+                <c02 id="ref167" level="file">
+                    <did>
+                        <unittitle>3 Unidentified Plates</unittitle>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref168" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>C4 1948-1954 Check Stub Books</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref169" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1921-1927 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref170" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1927-1934 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref171" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1935-1942 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref172" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1942-1943 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref173" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1943-1951 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref174" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1951-1960 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref175" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>L4 1951-1960 Ledger</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref176" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M5 1918-1925 Minutes – Session</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref177" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M5 1925-1932 Minutes - Sessions</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref178" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1932-1938 Minutes - Sessions</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref179" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1938-1943 Minutes - Session</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref180" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1943-1948 Minutes - Session</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref181" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1948-1957 Minutes - Session</unittitle>
+                </did>
+            </c01>
+            <c01 id="ref182" level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1948-1957 Minutes - Session</unittitle>
+                </did>
+            </c01>
+
+            <c01 level="file">
+                <did><container type="Volume"></container>
+                    <unittitle>M6 1936-1946 Minutes - Sunday School Board</unittitle>
+                </did>
+            </c01>
+
+            <c01 level="file">
+                <did><container type="Volume"></container> 	
+                    <unittitle>M6 1917-1925 Minutes - Trustees</unittitle>
+                </did>
+            </c01>
+			
+						
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1926-1937	Minutes - Trustees		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1942-1949	Minutes - Trustees		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1950-1962	Minutes - Trustees		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1963-1968	Minutes - Trustees		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1928-1935	Minutes - Women's Association		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1934-1937	Minutes - Women's Association - Executive Board		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	M6 1937-1939	Minutes - Women's Association - Executive Board		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1950	Book of Remenberance		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1923-1924	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1921-1925	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1928-1929	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1933-1934	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1934-1936	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1938-1939	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1939-1940	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1940-1941	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1941-1942	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1942-1943	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1941-1945	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1942-19)7	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1952-1953	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1954-1955	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1956	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1957	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1958	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1959	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1958-1959	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1960	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1961	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1962	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1963	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1964-1965	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1966-1967	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 n.d.	Contributions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1945-1946	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1947	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1948	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1949	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1950	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	P2 1921	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1952	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	P2 1953	Contributions - Benevolence Fund		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1948-1950	Dismissions and Receptions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	P2 1950-1955	Dismissions and Receptions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1955-1959	Dismissions and Receptions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1959-1968	Dismissions and Receptions		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1965-1973	Flowers		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1936-1910	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1939-1941	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1940-1954	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1942-1951	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1955-1970	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1954-1976	Guestbook		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R2 1955	In Memory of Jane Spence. First Women Elder.		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R3 1918-1935	Register of Members		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R3 1935-1945	Register of Members		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R3 1945-1959	Register of Members		</unittitle></did></c01>		
+<c01 level="file"><did><container type="Volume"></container><unittitle>	R3 n.d.	Register of Members		</unittitle></did></c01>		
+						
+<c01 level="subseries"><did><unittitle>	Photographs 			</unittitle></did>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Construction of Church 1920 			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Board of Deaconess 1944 			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Choir 1944			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Dorcas Guild 1944			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Session 1944.			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Sunday School Officers and Teachers			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Trustees 1944			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Women's Organization 1944			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	Young People's Society 1944			</unittitle></did></c02>		
+<c02 level="file"><did><container type="LMS"></container><unittitle>	157 General Assembly, Presbyterian Church in the U.S. 1945 			</unittitle></did></c02>		</c01>
+						
+<c01 level="file"><did><container type="LMS"></container><unittitle>	Plat of Church Property 1955			</unittitle></did></c01>		
+						
+						
+<c01 level="file"><did><container type="Item"></container><unittitle>	Shelved in Cass Roorz			</unittitle></did></c01>		
+<c01 level="file"><did><container type="Item"></container><unittitle>	5 Audio Tapes with Irving T. Raab, First pastor of Eastminster 1966-1968 			</unittitle></did></c01>		
+<c01 level="file"><did><container type="Item"></container><unittitle>	1 Audio Tape of the sermon of Irving T. Raab on occasion of the 35th Anniversary of the church June 7, 1935.			</unittitle></did></c01>		
+
+			
+			
+			
+        </dsc>
+    </archdesc>
+</ead>

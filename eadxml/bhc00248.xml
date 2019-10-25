@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0" findingaidstatus="complete">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Helen C. Bower papers, <date encodinganalog="Date">1865-1959.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+	  <unitid>00248</unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Bower, Helen Carolyn, 1896-</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Helen C. Bower papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1865-1959. </unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">12 linear ft. </extent>
+        <extent encodinganalog="300$b">(24 boxes, 1 large manuscript.)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Detroit Free Press Film Critic Helen Bower's papers contain much movie and entertainment memorabilia, as well as personal papers.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Helen Carolyn Bower was born in Michigan on January 7, 1896, to D. Herbert and Amelia Bower. She came from a newspaper family: her father owned and edited the Buchanan (Mich.) Record, and her grandfather, Daniel Bower, had owned a newspaper in Williamsport, Penn. before the Civil War. By 1910, the family was living in Detroit, Mich. After graduating from high school Bower got a job at the Detroit Free Press in 1914, covering women's clubs. She left the paper to attend the University of Michigan, but returned in 1916 to become Assistant Society Editor. Her father was killed in that same year in an automobile accident. Though Helen had announced her engagement in 1918 to U.S. Army Lieutenant Daniel W. Kent, son of Mr. and Mrs. Clarence D. Kent of Buchanan, they were never married. The 1920 Federal Census shows Daniel Kent, age 24, living in Buchanan with his parents, working as an office clerk. Helen was active in a number of organizations and served on the board of Women's Hospital, Women's City Club, Friends of the Detroit Public Library, and two sororities. She worked for the National War Work Council Overseas Service during World War I, and spent time in 1922 Japan and other Far East countries.</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid available in the Burton Historical Collection.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Bower, Helen Carolyn, -- 1896-  --  Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Kent, Daniel W.</famname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Journalists -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Women -- Societies and clubs -- Michigan -- Detroit.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Christmas cards. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Clippings (information artifacts). -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Photographs. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+				<c01 level="collection"><did><unittitle>ORIGINAL PAPERS</unittitle></did>
+ <c02 level="file"><did><container type="Box">	1	</container><unittitle>	Documents and Correspondence, 1865-1902		</unittitle></did>		
+<c03 level="file"><did><container type="Box">	2	</container><unittitle>	1903-1940	</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box">	3	</container><unittitle>	1941-1950</unittitle></did>			</c03>		
+<c03 level="file"><did><container type="Box">	4	</container><unittitle>	1951-1954	</unittitle></did>		</c03>		
+<c03 level="file"><did><container type="Box">	5	</container><unittitle>	1955 January-November		</unittitle></did>			
+<c04 level="file"><did><container type="Box">	6	</container><unittitle>	December — 1956 January-June</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box">	7	</container><unittitle>	June-December	</unittitle></did>		</c04>	</c03>	
+<c03 level="file"><did><container type="Box">	8	</container><unittitle>	1957 January-May	</unittitle></did>				
+<c04 level="file"><did><container type="Box">	9	</container><unittitle>	June-December	</unittitle></did>		</c04>	</c03>	
+<c03 level="file"><did><container type="Box">	10	</container><unittitle>	Not Dated	</unittitle></did>			</c03>	
+<c03 level="file"><did><container type="Box">	11	</container><unittitle>	1958-1959 January-February	</unittitle></did>			</c03>	</c02>
+<c02 level="file"><did><container type="Box">	12	</container><unittitle>	Newspaper Clippings		</unittitle></did>			</c02>
+<c02 level="file"><did><container type="Box">	13	</container><unittitle>	Pictures Programs Writings	</unittitle></did>				</c02>
+<c02 level="file"><did><container type="Box">	14	</container><unittitle>	Condolences received on death of her mother, 1947 	</unittitle></did>				</c02>
+<c02 level="file"><did><container type="Box">	15-17 	</container><unittitle>	Christmas Cards	</unittitle></did>
+<c03 level="file"><did><container type="Box">	18	</container><unittitle>	1958		</unittitle></did>		</c03>	</c02>
+<c02 level="file"><did><container type="Box">	19-23 	</container><unittitle>	Miscellaneous Correspondence (unsorted) 	</unittitle></did>				</c02>
+<c02 level="file"><did><container type="Box">	24	</container><unittitle>	Photographs		</unittitle></did>			</c02>
+<c02 level="file"><did><container type="LMS">		</container><unittitle>	Certificates, 1910; 1914	</unittitle></did>				</c02></c01>
+
+<c01 level="collection"><did><unittitle>ADDITIONAL PAPERS</unittitle></did>
+<c02 level="series"><did><unittitle>		Series I: Personal Paper					</unittitle></did>				
+<scopecontent><head>Scope and Contents note</head><p>		Contained in this series are biographical information and materials, correspondence and organizations with which Helen Bower was involved.					</p></scopecontent>				
+<c03 level="item"><did><container type="Box:File">		1:1	</container><unittitle>	Biographical Material			</unittitle></did>				
+<c04 level="file"><did><container type="Box:File">		1:2	</container><unittitle>	Newspaper Clippings, 1952-1964			</unittitle></did>		</c04>	</c03>	
+<c03 level="item"><did><container type="Box:File">		1:3	</container><unittitle>	Miscellaneous Items			</unittitle></did>				
+<c04 level="file"><did><container type="Box:File">		1:4	</container><unittitle>	Newspaper Clippings			</unittitle></did>		</c04>	</c03>	
+<c03 level="item"><did><container type="Box:File">		1:5	</container><unittitle>	Trip to Japan, 1922			</unittitle></did>				
+<c04 level="file"><did><container type="Box:File">		1:6	</container><unittitle>	Journals			</unittitle></did>		</c04>	</c03>	
+<c03 level="item"><did><container type="Box:File">		2:1	</container><unittitle>	University of Michigan, 1914-1915; 1949			</unittitle></did>			</c03>	
+<c03 level="item"><did><container type="Box:File">		2:2	</container><unittitle>	World War I Memorabilia, 1917-1918			</unittitle></did>			</c03>	
+<c03 level="item"><did><unittitle>		Sub-series A: Correspondence					</unittitle></did>				
+<scopecontent><head>Scope and Contents note</head><p>		Among the correspondents are G. Mennen Williams (Note Cards, Box 6:5) and Christmas cards from Kim Novak, Torn Patterson (founder of the Stratford Festival) and Gregory Peck (Box 5:8). There are also many letters written to servicemen during World War 1 (Box 2) and World War II (Box 4).					</p></scopecontent>				
+<c04 level="file"><did><container type="Box:File">		2:3	</container><unittitle>	1913-1917			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		2:4	</container><unittitle>	1918, January-March			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		2:5	</container><unittitle>	April-July			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		2:6	</container><unittitle>	August-December			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		2:7	</container><unittitle>	1919			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		2:8	</container><unittitle>	1920			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		2:9	</container><unittitle>	1920-1921, from "Lonesome Max"			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		2:10	</container><unittitle>	1921,	January-March		</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		2:11	</container><unittitle>	April-September			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		3:1	</container><unittitle>	1921,	October-December		</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		3:2	</container><unittitle>	1922,	January-March		</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		3:3	</container><unittitle>		April-July		</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		3:4	</container><unittitle>		August-December		</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		3:5	</container><unittitle>	1923,	January-March		</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		3:6	</container><unittitle>		April		</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		3:7	</container><unittitle>		May-August		</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		3:8	</container><unittitle>		September-December		</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		3:9	</container><unittitle>	1924			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		3:10	</container><unittitle>	1925,	February-June		</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		3:11	</container><unittitle>		September-December		</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		4:1	</container><unittitle>	1925, Telegrams			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		4:2	</container><unittitle>	1926			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		4:3	</container><unittitle>	Telegrams			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		4:4	</container><unittitle>	1927-1928; 1934; 1939			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		4:5	</container><unittitle>	1927, Telegrams			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		4:6	</container><unittitle>	1941-1942			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		4:7	</container><unittitle>	1943, January-June			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		4:8	</container><unittitle>	July-December			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		4:9	</container><unittitle>	1944			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		4:10	</container><unittitle>	1945			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		5:1	</container><unittitle>	1949-1959			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		5:2	</container><unittitle>	1960			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		5:3	</container><unittitle>	1961, January-April			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		5:4	</container><unittitle>	May-August			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		5:5	</container><unittitle>	September-December			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		5:6	</container><unittitle>	1962-1963			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		5:7	</container><unittitle>	1963-1964; n.d.			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		5:8	</container><unittitle>	Christmas Cards, 1960-1962, Folder 1			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		5:9	</container><unittitle>	Folder 2			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		5:10	</container><unittitle>	Folder 3			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		5:11	</container><unittitle>	Folder 4			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		6:1	</container><unittitle>	Djina Ostrowska, 1931			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		6:2	</container><unittitle>	1932			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		6:3	</container><unittitle>	1933			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		6:4	</container><unittitle>	1934-1943			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		6:5	</container><unittitle>	Greeting Cards, Notes and Note Cards			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		6:6	</container><unittitle>	Postcards			</unittitle></did>		</c04>		
+<c04 level="file"><did><container type="Box:File">		7:1	</container><unittitle>	Telegrams, 1946-1964; Invitations and Announcements, 1917-1963			</unittitle></did>		</c04>	</c03>	
+<c03 level="item"><did><unittitle>		Sub-series B: Diaries and Scrapbooks					</unittitle></did>				
+<scopecontent><head>Scope and Contents note</head><p>		Helen Bower kept two types of diaries. One was a day-book account, which are contained in small hooks in Boxes 7 and 8. The others were kept in loose-leaf binders which also served as scrapbooks. Most of the material in these larger diaries were left loose, between pages. These items have been removed and are located in Boxes 8-15, with the appropriate headings. The diaries themselves are listed under "Volumes".									
+		Among the material from the diaries are correspondence, newspaper clippings, photographs and theater programs. Notable autographs include those of Mary Pickford (Box 9:9); Edgar A. Guest (Box 12:5; 13:1; 15:3), photos of Eleanor Roosevelt (11:4) and Rosalind Russell (15:6).					</p></scopecontent>				
+<c04 level="file"><did><container type="Box:File">		7:2	</container><unittitle>	Diaries, 1919; 1926-1931			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		7:3	</container><unittitle>	1949; 1951			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		7:4	</container><unittitle>	1953-1956			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		7:5	</container><unittitle>	1957-1959			</unittitle></did>	</c05>			
+<c05 level="file"><did><container type="Box:File">		8:1	</container><unittitle>	1960-1962			</unittitle></did>	</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		8:2	</container><unittitle>	Material from Diaries, 1926			</unittitle></did>				
+<c05 level="file"><did><container type="Box:File">		8:3	</container><unittitle>	1927			</unittitle></did>	</c05>
+<c05 level="file"><did><container type="Box:File">		8:4	</container><unittitle>	1928, Folder 1			</unittitle></did>				
+<c06 level="file"><did><container type="Box:File">		8:5	</container><unittitle>	Folder 2—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		8:6	</container><unittitle>	1929, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		8:7	</container><unittitle>	Folder 2—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		9:1	</container><unittitle>	1930, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		9:2	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		9:3	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		9:4	</container><unittitle>	1931, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		9:5	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		9:6	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		9:7	</container><unittitle>	1932		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		9:8	</container><unittitle>	1933		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		9:9	</container><unittitle>	1934, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		9:10	</container><unittitle>	Folder 2		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		10:1	</container><unittitle>	1935, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		10:2	</container><unittitle>	Folder 2—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		10:3	</container><unittitle>	1936, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		10:4	</container><unittitle>	Folder 2		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		10:5	</container><unittitle>	1937		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		10:6	</container><unittitle>	1938, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		10:7	</container><unittitle>	Folder 2		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		10:8	</container><unittitle>	1939, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		10:9	</container><unittitle>	Folder 2		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		11:1	</container><unittitle>	1940,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		11:2	</container><unittitle>		Folder 2	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		11:3	</container><unittitle>	1941,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		11:4	</container><unittitle>		Folder 2	</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		11:5	</container><unittitle>		Folder 3—Newspaper Clippings	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		11:6	</container><unittitle>	1942,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		11:7	</container><unittitle>		Folder 2	</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		11:8	</container><unittitle>		Folder 3—Newspaper Clippings	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		11:9	</container><unittitle>	1943,	Folder I	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		11:10	</container><unittitle>		Folder 2	</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		12:1	</container><unittitle>		Folder 3—Newspaper Clippings	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		12:2	</container><unittitle>	1944,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		12:3	</container><unittitle>		Folder 2	</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		12:4	</container><unittitle>		Folder 3—Newspaper Clippings	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		12:5	</container><unittitle>	1945,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		12:6	</container><unittitle>		Folder 2	</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		12:7	</container><unittitle>		Folder 3—Newspaper Clippings	</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		13:1	</container><unittitle>	1946, Folder 1—Get-well Cards		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		13:2	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		13:3	</container><unittitle>	Folder 3		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		13:4	</container><unittitle>	Folder 4—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		13:5	</container><unittitle>	1947, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		13:6	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		13:7	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		14:1	</container><unittitle>	Folder 1—Sympathy Cards/Guest Book for Mrs. Amelia Bower		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		14:2	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		14:3	</container><unittitle>	Folder 3		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		14:4	</container><unittitle>	Folder 4—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		14:5	</container><unittitle>	1949,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		14:6	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		14:7	</container><unittitle>	Folder 3---Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		14:8	</container><unittitle>	1950,	Folder 1	</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		15:1	</container><unittitle>	Material from Diaries, 1950, Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		15:2	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		15:3	</container><unittitle>	1951, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		15:4	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		15:5	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		15:6	</container><unittitle>	1952, Folder 1		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		15:7	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		15:8	</container><unittitle>	Folder 3—Newspaper Clippings		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		16:1	</container><unittitle>	1914-1918, Folder 1		</unittitle></did>					
+<c06 level="file"><did><container type="Box:File">		16:2	</container><unittitle>	Folder 2		</unittitle></did>	</c06>				
+<c06 level="file"><did><container type="Box:File">		16:3	</container><unittitle>	Folder 3		</unittitle></did>	</c06>	</c05>			
+<c05 level="file"><did><container type="Box:File">		16:4	</container><unittitle>	1922-1924		</unittitle></did>		</c05>	</c04>	</c03>	
+<c03 level="item"><did><unittitle>		Sub-Series C: Journalism				</unittitle></did>					
+<scopecontent><head>Scope and Contents note</head><p>		When Helen Bower attended the University of Michigan in 1916, she had already started working at the Detroit Free Press. The daughter and granddaughter of newspapermen, Helen had journalism in her veins. This section includes a number of her articles and newspaper columns, dating from the 1920's.				</p></scopecontent>
+<c04 level="file"><did><container type="Box:File">		16:5	</container><unittitle>	1954-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		16:6	</container><unittitle>	Articles/Notes		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		16:7	</container><unittitle>	Newspaper ColumnsIBy-lines, 1929-1964		</unittitle></did>					
+<c05 level="file"><did><container type="Box:File">		16:8	</container><unittitle>	"The Feminist's Point of View", 1929		</unittitle></did>		</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		16:9	</container><unittitle>	Reports, 1948-1949		</unittitle></did>			</c04>	</c03>	
+	<c03 level="item"><did><unittitle>	Sub-series D: Organizations				</unittitle></did>					
+<scopecontent><head>Scope and Contents note</head><p>		Helen was a member of many organizations, and served on the board of directors for several of them, including Friends of the Detroit Public Library, Women's City Club, Kappa Kappa Gamma and Theta Sigma Phi sororities. She was also active in the Lutheran church and served as editor for many organizational publications.				</p></scopecontent>	
+<c04 level="file"><did><container type="Box:File">		17:1	</container><unittitle>	A-D, 1940-1961		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		17:2	</container><unittitle>	Essex Golf and Country Club, 1955-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		17:3	</container><unittitle>	Friends of the Detroit Public Library, 1942-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		17:4	</container><unittitle>	H-W, 1913-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		17:5	</container><unittitle>	Kappa Kappa Gamma, 1913-1964		</unittitle></did>					
+<c05 level="file"><did><container type="Box:File">		17:6	</container><unittitle>	"The Key", 1932-1937		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		17:7	</container><unittitle>	1938-1942		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:1	</container><unittitle>	1945		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:2	</container><unittitle>	1946		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:3	</container><unittitle>	1948-1953		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:4	</container><unittitle>	1957-1958		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:5	</container><unittitle>	1959		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		18:6	</container><unittitle>	1960-1962		</unittitle></did>		</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		18:7	</container><unittitle>	Lutheran Church in America (LCA)		</unittitle></did>					
+<c05 level="file"><did><container type="Box:File">		18:8	</container><unittitle>	Constituting Convention, 1962		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		19:1	</container><unittitle>	Constituting Convention; Publications		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		19:2	</container><unittitle>	Newsletters, 1962•		</unittitle></did>		</c05>			
+<c05 level="file"><did><container type="Box:File">		19:3	</container><unittitle>	Publications		</unittitle></did>		</c05>	</c04>		
+<c04 level="file"><did><container type="Box:File">		19:4	</container><unittitle>	St. Peter's Danish Evangelical Lutheran Church, 1956-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		19:5	</container><unittitle>	Theta Sigma Phi, 1954-1963		</unittitle></did>			</c04>		
+<c04 level="file"><did><container type="Box:File">		19:6	</container><unittitle>	Women 's City Club, 1950-1961		</unittitle></did>					
+<c05 level="file"><did><container type="Box:File">		19:7	</container><unittitle>	1962-1964		</unittitle></did>		</c05>	</c04>	</c03>	
+	<c03 level="item"><did><unittitle>	Sub-series E: Programs and Events				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	19:8	</container><unittitle>	1939-1954		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	19:9	</container><unittitle>	1957-1964; n.d.		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	19:10	</container><unittitle>	Italian Wine Festival, 1958		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	19:11	</container><unittitle>	National Automotive Show, 1960		</unittitle></did>			</c04>	</c03>	
+											
+											
+											
+	<c03 level="item"><did><unittitle>	Sub-Series F: Publications				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	20:1	</container><unittitle>	Miscellaneous, Folder 1		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	20:2	</container><unittitle>	Folder 2		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	20:3	</container><unittitle>	Folder 3		</unittitle></did>		</c05>	</c04>		
+	<c04 level="file"><did><container type="Box:File">	20:4	</container><unittitle>	Detroit Free Press, 1958-1960		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	20:5	</container><unittitle>	"The Scillonian" ", 1953-1960		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	20:6	</container><unittitle>	1961		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	20:7	</container><unittitle>	Newsletters, 1954-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	20:8	</container><unittitle>	"The Book Balance", 1945-1947		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	20:9	</container><unittitle>	"Carrier Salesman Bulletin", 1953-1954		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	21:1	</container><unittitle>	"The Friendly Wee Press"/"The Friendly Little Free Press", 1953-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	21:2	</container><unittitle>	"The Nader Star": Official George Nader Fan Club, 1954		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	21:3	</container><unittitle>	"The Quarto", 1943-1948		</unittitle></did>		</c05>	</c04>	</c03>	</c02>
+	<c02 level="series"><did><unittitle>	Series II: Movies and Entertainment				</unittitle></did>					
+<scopecontent><head>Scope and Contents note</head><p>		As movie critic for the Detroit Free Press for fifteen years, Helen Bower accumulated a vast amount of material on the topic, from movie magazines to press kits, theater programs to movie scripts. Helen even made an appearance in a major film, "Teacher's Pet", starring Clark Gable. Correspondence (Box 21:6) includes autographs of Jerry Lewis, Tom Patterson and Agnes Moorehead.					</p></scopecontent>				
+	<c03 level="item"><did><container type="Box:File">21:4	</container><unittitle>	Academy Awards, 1959		</unittitle></did>				</c03>	
+	<c03 level="item"><did><container type="Box:File">	21:5	</container><unittitle>	Conventions, 1959-1960		</unittitle></did>				</c03>	
+	<c03 level="item"><did><container type="Box:File">	21:6	</container><unittitle>	Correspondence, 1950-1963		</unittitle></did>				</c03>	
+	<c03 level="item"><did><container type="Box:File">	21:7	</container><unittitle>	Organizations—Motion Picture Relief Fund, 1942-1949		</unittitle></did>				</c03>	
+	<c03 level="item"><did><container type="Box:File">	21:8	</container><unittitle>	Variety Club of Detroit, 1962-1964		</unittitle></did>				</c03>	
+	<c03 level="item"><did><container type="Box:File">	21:9	</container><unittitle>	Reports, 1953-1961		</unittitle></did>					</c03>
+	<c03 level="item"><did><unittitle>	Sub-series A: Press Kits and Releases				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	21:10	</container><unittitle>	Press Releases, 1947-1962		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	21:11	</container><unittitle>	Press Kits and Publicity		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	21:12	</container><unittitle>	Press Kits—"The Alamo"		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	21:13	</container><unittitle>	"Anatomy of a Murder", 1959		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	22:1	</container><unittitle>	Press Kits--"Around the World in 80 Days", 1956		</unittitle></did>
+	<c05 level="file"><did><container type="Box:File">	22:2	</container><unittitle>	"Cimarron", 1960		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:3	</container><unittitle>	"Cinemascope 55"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:4	</container><unittitle>	"Elmer Gantry"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:5	</container><unittitle>	"Forever Amber"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:6	</container><unittitle>	Freedomland		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:7	</container><unittitle>	"Gone with the Wind", 1939		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:8	</container><unittitle>	Gracie Fields, 1950		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:9	</container><unittitle>	"Hamlet"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:10	</container><unittitle>	"1 Married a Communist"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:11	</container><unittitle>	"Joan of Arc"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:12	</container><unittitle>	"Life with Mother", 1948		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:13	</container><unittitle>	"The Lion's Roar", 1956		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:14	</container><unittitle>	"Mourning becomes Electra", 1947		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:15	</container><unittitle>	"Oklahoma!"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:16	</container><unittitle>	"Peter Pan", 1950		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:17	</container><unittitle>	Report from Hollywood, 1959		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	22:18	</container><unittitle>	"Sappho, Venus of Lesbos", 1960		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	23:1	</container><unittitle>	"Seven Wonders of the World", 1956		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	23:2	</container><unittitle>	"Solomon and Sheba"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	23:3	</container><unittitle>	"The Ten Commandments"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	23:4	</container><unittitle>	Twentieth Century Fox		</unittitle></did>		</c05>	
+	<c05 level="file"><did><container type="Box:File">	23:5	</container><unittitle>	Walt Disney/"Darby O'Gill and the Little People", 1958-1959		</unittitle></did>		</c05>	</c04></c03>
+	<c03 level="item"><did><unittitle>	Sub-series B: Programs				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	23:6	</container><unittitle>	Movie and Theater Programs, A-C		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	23:7	</container><unittitle>	D-J		</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	23:8	</container><unittitle>	"How the West was Won", 1963		</unittitle></did>	</c06>
+	<c06 level="file"><did><container type="Box:File">	23:9	</container><unittitle>	Ice Capades, 1958-1962		</unittitle></did>			</c06>		
+	<c06 level="file"><did><container type="Box:File">	23:10	</container><unittitle>	Jack Benny, 1959		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	23:11	</container><unittitle>	"King of Kings"		</unittitle></did>	</c06>	</c05>			
+	<c05 level="file"><did><container type="Box:File">	23:12	</container><unittitle>	L-O		</unittitle></did>					</c05>
+	<c05 level="file"><did><container type="Box:File">	24:1	</container><unittitle>	P-R		</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	24:2	</container><unittitle>	"Porgy and Bess"		</unittitle></did>	</c06>	</c05>			
+	<c05 level="file"><did><container type="Box:File">	24:3	</container><unittitle>	S-W		</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	24:4	</container><unittitle>	Sadler Wells Ballet, 1949		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	24:5	</container><unittitle>	"South Pacific", 1958		</unittitle></did>	</c06>	</c05></c04>			
+	<c04 level="file"><did><container type="Box:File">	24:6	</container><unittitle>	Theater Programs, 1953-1962		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	24:7	</container><unittitle>	The Cape Playhouse, 1946; 1952		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	24:8	</container><unittitle>	Cass Theatre, 1950-1962		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	24:9	</container><unittitle>	Catholic Theatre Conference Bulletin, 1948-1949		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	24:10	</container><unittitle>	Detroit Town Hall, 1947-1951; Detroit Opera Theatre, 1961-1962/ Detroit Symphony Orchestra, 1962-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	24:11	</container><unittitle>	Fisher Theatre, 1961-1962		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:1	</container><unittitle>	Fisher Theatre, 1962-1963		</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	25:2	</container><unittitle>	1963-1964		</unittitle></did>	</c06>	</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:3	</container><unittitle>	Masonic Auditorium Concerts, 1950-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:4	</container><unittitle>	New Amsterdam Theatre, 1908		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:5	</container><unittitle>	"Playbill", 1949-1958		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:6	</container><unittitle>	Schubert Theatre, 1953-1962		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:7	</container><unittitle>	The Stratford Festival, 1954-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	25:8	</container><unittitle>	Vanguard Theatre, 1962-1964		</unittitle></did>		</c05>	</c04>	</c03>	
+	<c03 level="item"><did><unittitle>	Sub-series C: Publications/Printed Material				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	25:9	</container><unittitle>	Printed Material, Folder 1		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	25:10	</container><unittitle>	Folder 2		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:1	</container><unittitle>	Magazine Articles, 1952-1956; n.d.		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:2	</container><unittitle>	"Movie Memo"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:3	</container><unittitle>	Newspaper Clippings, 1949-1962		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:4	</container><unittitle>	"Pictures and Stories of the Theatre", 1912		</unittitle></did>		</c05>	</c04>
+	<c04 level="file"><did><container type="Box:File">	26:5	</container><unittitle>	Publications—"Ainslee's", 1925, March-May		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	26:6	</container><unittitle>	August-September		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:7	</container><unittitle>	October-November		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	26:8	</container><unittitle>	"Biografbladet"		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:1	</container><unittitle>	"Centro internazionale delle arti e del costume", 1951		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:2	</container><unittitle>	"Film Bulletit", 1956-1957		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:3	</container><unittitle>	Film Catalogs		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:4	</container><unittitle>	"The Film Daily", 1953		</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	27:5	</container><unittitle>	1958-1961		</unittitle></did>	</c06>	</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:6	</container><unittitle>	"Films in Review" Magazine, 1950-1951		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:7	</container><unittitle>	"The Journal of the Screen Producers Guild", 1956-1960		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:8	</container><unittitle>	"Motion Picture Herald", 1949-1959		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:9	</container><unittitle>	Paladium Film Production		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:10	</container><unittitle>	"Shadowland", 1921		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:11	</container><unittitle>	"Theatre Arts" Magazine, 1947-1958		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	27:12	</container><unittitle>	"Uni Japan Film Quarterly", 1959-1960		</unittitle></did>		</c05>	</c04>		
+	<c04 level="file"><did><container type="Box:File">	28:1	</container><unittitle>	Movie Magazines, B-F, 1956-1960		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	28:2	</container><unittitle>	"James Dean", 1956		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	28:3	</container><unittitle>	"Photoplay ", 1923,	March-April	</unittitle></did>					
+	<c06 level="file"><did><container type="Box:File">	28:4	</container><unittitle>	June-July		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:5	</container><unittitle>	August-September		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:6	</container><unittitle>	October-December		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:7	</container><unittitle>	1924,	January-February	</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:8	</container><unittitle>	1924, April and September		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:9	</container><unittitle>	1926, April		</unittitle></did>	</c06>				
+	<c06 level="file"><did><container type="Box:File">	28:10	</container><unittitle>	R-S, 1951-1958		</unittitle></did>	</c06>	</c05>	</c04>		
+	<c04 level="file"><did><container type="Box:File">	29:1	</container><unittitle>	Movie Magazines, T-V, 1948-1956		</unittitle></did>			</c04>		
+	<c04 level="file"><did><container type="Box:File">	29:2	</container><unittitle>	Newsletters, 1949-1964		</unittitle></did>					
+	<c05 level="file"><did><container type="Box:File">	29:3	</container><unittitle>	"Box Office", 1956-1963		</unittitle></did>		</c05>			
+	<c05 level="file"><did><container type="Box:File">	29:4	</container><unittitle>	"Film Daily", 1960		</unittitle></did>		</c05>	</c04>	</c03>	
+	<c03 level="item"><did><unittitle>	Sub-series D: Scripts				</unittitle></did>					
+	<c04 level="file"><did><container type="Box:File">	29:5	</container><unittitle>	"The Court Jester", 1956		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:6	</container><unittitle>	"The Desperate Hours"		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:7	</container><unittitle>	"A Flag is Born", by Ben Hecht		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:8	</container><unittitle>	"Go for Broke", 1950		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:9	</container><unittitle>	"Inherit the Wind"		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:10	</container><unittitle>	"How to Make a Man"		</unittitle></did>		</c04>			
+	<c04 level="file"><did><container type="Box:File">	29:11	</container><unittitle>	"Show World", 1956		</unittitle></did>		</c04>		</c03>	</c02>
+											
+												
+												
+	<c02 level="series"><did><unittitle>	Audio-Visual Materials:			</unittitle></did>							
+	<c03 level="subseries"><did><unittitle>	Phonograph Records:			</unittitle></did>							
+	<c04 level="file"><did><unittitle>	Marc Blitzstein, Symphony: "The Airborne"			</unittitle></did>	</c04>						
+	<c04 level="file"><did><unittitle>	"Porgy and Bess", Sammy Davis Jr. and Carmen McRae Raymond Ladouceur			</unittitle></did>	</c04>						
+	<c04 level="file"><did><unittitle>	Bing Crosby			</unittitle></did>	</c04>						
+	<c04 level="file"><did><unittitle>	Spike Jones and his City Slickers			</unittitle></did>	</c04>	</c03>					
+	<c03 level="subseries"><did><unittitle>	Motion Picture Film:			</unittitle></did>							
+	<c04 level="file"><did><unittitle>	"Teacher's Pet"			</unittitle></did>	</c04>	</c03>	</c02>				
+												
+	<c02 level="series"><did><unittitle>	Volumes			</unittitle></did>							
+	<c03 level="file"><did><container type="Volume"></container><unittitle>	Diaries, 1926-1952 (1948 and 1952 had only loose items; no written pages)			</unittitle></did>		</c03>					
+	<c03 level="file"><did><container type="Volume"></container><unittitle>	Photograph Album, n.d.			</unittitle></did>		</c03>					
+	<c03 level="subseries"><did><unittitle>	Scrapbook:			</unittitle></did>							
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1914-1918 (U-M)			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1922-1924 1946-1947			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1947, July-December			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1948, January-August			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1948, August-December			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1949, January-May			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1949-1950 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1950-1951 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1951-1952 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1952-1953 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1953-1954 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1954-1955 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1955-1956 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1956-1957 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1957-1958 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1958-1959			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1959, January-September			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1959-1960 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	1960-1961			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="Volume"></container><unittitle>	"Variety" Anniversary Issues, 1947 and 1956			</unittitle></did>	</c04>	</c03>					
+	<c03 level="subseries"><did><unittitle>	LMS:			</unittitle></did>							
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	"Billed Bladet", 20 May 1949			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Detroit Free Press Front Page: "We've Got the Right Bower!", February 28, 1958 			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	"Holiday" Magazine, January 1949			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Membership Certificate, The Order of Dames of the Loyal Legion, to Helen Carolyn Bower, 1915			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Portfolio of Impressions of "Pork Chop Hill" by Howard Brodie			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Poster, 44 Year Anniversary			</unittitle></did>	</c04>						
+	<c04 level="file"><did><container type="LMS"></container><unittitle>	Press Kits and Programs:			</unittitle></did>							
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	"The Alamo", 1960		</unittitle></did>	</c05>
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	"Hercules"		</unittitle></did>	</c05>	
+	<c05 level="file"><did><container type="LMS"></container><unittitle>	"Monsieur Verdoux, 1947"		</unittitle></did>	</c05>	</c04>	</c03>	</c02>				
+	</c01>
+
+
+    </dsc>
+  </archdesc>
+</ead>

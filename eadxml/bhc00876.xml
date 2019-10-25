@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="ss.xsl"?>
+<ead>
+  <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0">
+    <eadid countrycode="us" encodinganalog="Identifier" />
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="Title">Finding Aid for Alpheus Felch papers, <date encodinganalog="Date">1823-1897.</date></titleproper>
+        <author encodinganalog="Creator">Justin Lee Tyler</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="Publisher">Detroit Public Library</publisher>
+        <address>
+          <addressline>Detroit, Mich. 48202</addressline>
+        </address>
+        <date encodinganalog="Date" />
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation encodinganalog="Description">Finding aid encoded by MarcEdit
+                        <date era="ce" calendar="gregorian" normal="2003">2010</date></creation>
+      <langusage>English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" relatedencoding="MARC21">
+    <did id="a1">
+      <repository encodinganalog="852">
+        <corpname encodinganalog="852$a">Detroit Public Library. <subarea encodinganalog="852$b">Burton Historical Collection.</subarea></corpname>
+      </repository>
+      <unitid encodinganalog="541$e" id="a30">00876</unitid>
+      <unitid encodinganalog="010" label="NUCMC control number:">ms 70001164 </unitid>
+      <origination>
+        <persname encodinganalog="100" source="lcnaf" role="creator" rules="AACR2R">Felch, Alpheus, 1804-1896.</persname>
+      </origination>
+      <unittitle encodinganalog="245$a" type="collection">Alpheus Felch papers, </unittitle>
+      <unitdate type="inclusive" encodinganalog="245$f">1823-1897.</unitdate>
+      <physdesc>
+        <extent encodinganalog="300$a">4 linear ft. </extent>
+        <extent encodinganalog="300$b">(6 boxes, 1 large manuscript, 2 microfilm reels)</extent>
+      </physdesc>
+      <abstract encodinganalog="520$a">Correspondence; speeches; diary describing Felch's move from Maine to Detroit, Mich., in 1833; papers pertaining to cessions of Michigan lands by Native American treaties; and miscellaneous commission deeds and other papers.</abstract>
+      <langmaterial>
+        <language encodinganalog="546">In English.</language>
+      </langmaterial>
+    </did>
+    <bioghist encodinganalog="545" id="a2">
+      <head>Biographical/Historical note</head>
+      <p>Lawyer, Governor of Michigan, and U. S. Senator from Michigan.Born in Limerick, Me., Sept. 28, 1804; graduated from Bowdoin,1827; studied law, was admitted to bar and practiced in Houlton, Me.,1830-1833; moved to Monroe, Mich., 1833; member of state legislature, 1835-1837; State bank commissioner,1838-1839; rendered great service in stamping out the so-called "wildcat" banks; State auditor general 1842; associate justice of Mich. Supreme Court,1842-45; moved to Ann Arbor, 1843; Governor of Michigan,1846-1847; U.S. Senator, 1847-1853; President of commission to settle Spanish and Mexican war claims,1853-1856; died in Ann Arbor, June 13, 1896. (From Dict. Cong. Dir. ; Dict. Amer. Biog) (blue index cards)</p>
+    </bioghist>
+    <accessrestrict encodinganalog="506" id="a14">
+      <head>Restrictions</head>
+      <p>This collection is open for research use.</p>
+    </accessrestrict>
+    <otherfindaid encodinganalog="555" id="a8">
+      <head>Other finding aids note</head>
+      <p>Finding aid and white index cards available in the Burton Historical Collection and on the World Wide Web.</p>
+    </otherfindaid>
+    <controlaccess id="a12">
+      <head>Selected Search Terms</head>
+      <p>This collection is indexed under the following headings in the online catalog. Researchers desiring materials about related topics, persons, or places should search the catalog using these headings.</p>
+      <controlaccess>
+        <famname source="lcnaf" rules="aacr2r" role="subject" encodinganalog="600">Felch, Alpheus, 1804-1896 -- Archives.</famname>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Lawyers -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Governors -- Michigan.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Indians of North America -- Relations.</subject>
+      </controlaccess>
+      <controlaccess>
+        <subject source="lcsh" encodinganalog="650" rules="scm">Real property.</subject>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Correspondence. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Diaries. -- aat</genreform>
+      </controlaccess>
+      <controlaccess>
+        <genreform source="lcsh" encodinganalog="655">Speeches. -- aat</genreform>
+      </controlaccess>
+    </controlaccess>
+    <dsc type="combined" id="a23">
+      <head>Container List</head>
+      <p>The following section contains a detailed listing of the materials in
+                the collection.</p>
+ <c01 level="did"><did><container type="Box">1</container><unitdate>1832-1846.</unitdate></did></c01>
+ <c01 level="did"><did><container type="Box">2</container><unitdate>1847-1849.</unitdate></did></c01>
+ <c01 level="did"><did><container type="Box">3</container><unitdate>1850-1851.</unitdate></did></c01>
+ <c01 level="did"><did><container type="Box">4</container><unitdate>1852-1897.</unitdate></did></c01>
+ <c01 level="did"><did><container type="Box">5</container><unitdate>Undated.</unitdate></did></c01>
+ <c01 level="did"><did><container type="Box">6</container><unittitle>D5: Writings/rough notes, </unittitle><unitdate>1833.</unitdate></did></c01>
+    </dsc>
+  </archdesc>
+</ead>

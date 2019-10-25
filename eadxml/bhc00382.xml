@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>  <?xml-stylesheet type="text/xsl" href="ss.xsl"?><ead>   <eadheader langencoding="iso639-2b" scriptencoding="iso15924" relatedencoding="Dublin Core" repositoryencoding="iso15511" countryencoding="iso3166-1" dateencoding="iso8601" id="a0" findingaidstatus="incomplete">     <eadid countrycode="us" encodinganalog="Identifier" />
+ 
+     
+        <eadid></eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Antoine de Lamothe Cadillac papers, 
+                    <date encodinganalog="Date">1658-1710.</date>
+                    
+                </titleproper>
+                <author>Finding aid prepared by Justin Lee Tyler</author>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Detroit Public Library. Burton Historical Collection.</publisher>
+                <address>
+                    <addressline>Detroit, Michigan</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2010-07-13T13:52-0400</date>
+            </creation>
+            <langusage>English.</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Antoine de Lamothe Cadillac papers,</unittitle>
+            <unitid>00382</unitid>
+            <repository>
+                <corpname>Detroit Public Library. Burton Historical Collection.</corpname>
+            </repository>
+            <physdesc>
+                <extent>6.0 linear ft.</extent>
+            </physdesc>
+            <unitdate>1658-1710.</unitdate>
+            <abstract id="ref2" label="Abstract">This collection contains transcripts, photocopies, and microfilms of documents concerning personal and government affairs in New France, Michilimackinac, Detroit, and Louisiana.</abstract>
+            <physdesc id="ref1" label="General Physical Description note">
+                <physfacet encodinganalog="300$b">(3 boxes, 3 wallets, 24 volumes, 4 large manuscripts)</physfacet></physdesc>
+            <origination label="creator">
+                <persname source="ingest">Cadillac, Antoine Laumet de Lamothe, 1658-1730.</persname>
+            </origination>
+        </did>
+        <bioghist id="ref3">
+            <head>Biographical/Historical note</head>
+            <p>The founder of Detroit, Antoine de la Mothe Cadillac, was born in Languedoc, France in 1658, the son of Jean de la Mothe, a counselor in the parliament of Toulouse.He came to Canada about 1683 and engaged in the fur trade. He married Therese de Guyon. In 1694 Cadillac was appointed to the command of Mackinac. In 1701 he founded Detroit and remained in command there until 1701. From 1712-1717, he was governor of Louisiana. Cadillac returned to France to become governor of Castel-Sarassen in Gascony, where he died on October 16, 1730.</p>
+        </bioghist>
+        <accessrestrict id="ref4">
+            <head>Restrictions</head>
+            <p>This collection is open for research use.</p>
+        </accessrestrict>
+        <otherfindaid id="ref5">
+            <head>Other finding aids note</head>
+            <p>Finding aid available in the Burton Historical Collection and on the World Wide Web.</p>
+        </otherfindaid>
+        <controlaccess>
+            <famname source="ingest">Cadillac, Antoine Laumet de Lamothe, 1658-1730 -- Archives.</famname>
+            <geogname source="lcsh">Canada -- History -- To 1763 (New France)</geogname>
+            <geogname source="lcsh">Detroit (Mich.) -- History.</geogname>
+            <geogname source="lcsh">Louisiana -- History -- To 1803.</geogname>
+            <geogname source="lcsh">Michigan -- History -- To 1837.</geogname>
+            <geogname source="lcsh">New France.</geogname>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref6" level="item">
+                <did>
+                    <unittitle>Correspondence/Documents, 1658-1710</unittitle>
+                    <container type="Box">1</container>
+                </did>
+                <c02 id="ref7" level="item">
+                    <did>
+                        <unittitle>1711-1785; Not Dated</unittitle>
+                        <container type="Box">2</container>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref8" level="item">
+                <did>
+                    <unittitle>A-Z</unittitle>
+                    <container type="Box">3</container>
+                </did>
+            </c01>
+            <c01 id="ref9" level="item">
+                <did>
+                    <unittitle>ZB5 - ZQ8</unittitle>
+                    <container type="Box">		</container>
+                </did>
+            </c01>
+            <c01 id="ref10" level="item">
+                <did>
+                    <unittitle>ZQ8</unittitle>
+                    <container type="Wallet">		</container>
+                </did>
+            </c01>
+            <c01 id="ref11" level="item">
+                <did>
+                    <unittitle>Records from the French Archives relating to Canada (Duplicated selections in English), Volumes 1 and 2, 1669-1730; English Index of Volumes 1-3 (2 copies) (see also Volumes)</unittitle>
+                    <container type="Wallet">		</container>
+                </did>
+            </c01>
+            <c01 id="ref12" level="item">
+                <did>
+                    <unittitle>September 23, 1702</unittitle>
+                    <container type="Volume">		</container>
+                </did>
+            </c01>
+            <c01 id="ref13" level="item">
+                <did>
+                    <unittitle>Memoires sur le Detroit des deux lacs Erie et St. Claire</unittitle>
+                    <container type="Volume">		</container>
+                </did>
+            </c01>
+            <c01 id="ref14" level="item">
+                <did>
+                    <unittitle>Records from the French Archives relating to Canada, 1669-1730 (see also Wallets) English Translation, ca. 1900 (12 volumes)</unittitle>
+                    <container type="Volume">		</container>
+                </did>
+            </c01>
+            <c01 id="ref15" level="item">
+                <did>
+                    <unittitle>French (12 volumes)</unittitle>
+                    <container type="Volume">		</container>
+                </did>
+            </c01>
+            <c01 id="ref16" level="item">
+                <did>
+                    <unittitle>Contract between Cadillac, Jacques Arrive dit Delisle, and Joseph Gaultier, Debtors, and Francois Hazeur, creditor, September 17, 1694</unittitle>
+                    <container type="LMS">		</container>
+                </did>
+            </c01>
+            <c01 id="ref17" level="item">
+                <did>
+                    <unittitle>Letters and papers re. New France, 1695-1704 (originals in Paris, France Archive Nationale)</unittitle>
+                    <container type="LMS">		</container>
+                </did>
+            </c01>
+            <c01 id="ref18" level="item">
+                <did>
+                    <unittitle>Order to Sicur D'Argenteuil to report to the Comte de Frontenac at Montreal on Affairs at Michilimackinac, 1695</unittitle>
+                    <container type="LMS">		</container>
+                </did>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>
