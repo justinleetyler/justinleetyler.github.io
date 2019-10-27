@@ -1,0 +1,43 @@
+<?xml-stylesheet type="text/xsl" href="Test.xml"?>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" exclude-result-prefixes="xsl my" xmlns:my="my">
+    <xsl:output method="html" omit-xml-declaration="yes"/>
+    <xsl:strip-space elements="*" />
+
+    <my:embeddedXML>
+        <foo name="1" b="2">
+          <bar name="11" b="22">
+            <baz name="111" b="222"/>
+            <baz name="112" b="223"/>
+          </bar>
+        </foo>
+    </my:embeddedXML>
+
+    <xsl:template match="foo">
+        <h1><xsl:value-of select="@name" /></h1>
+        <xsl:apply-templates />
+    </xsl:template>
+
+    <xsl:template match="bar">
+        <h2><xsl:value-of select="@name" /></h2>
+        <xsl:apply-templates />
+    </xsl:template>
+
+    <xsl:template match="baz">
+        <p><xsl:value-of select="@name" /></p>
+        <xsl:apply-templates />
+    </xsl:template>
+
+    <xsl:template match="/">
+        <html>
+            <body>
+                <xsl:apply-templates />
+            </body>
+        </html>
+    </xsl:template>
+
+    <xsl:template match="xsl:stylesheet">
+        <xsl:apply-templates />
+    </xsl:template>
+
+    <xsl:template match="xsl:*" />
+</xsl:stylesheet>
