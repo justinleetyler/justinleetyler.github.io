@@ -1,0 +1,38 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1">
+    <title></title>
+
+    <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+
+    <script language="javascript" type="text/javascript">
+        $(document).ready(
+            function() {
+                $.ajax({                    
+
+                    url: "https://justinleetyler.github.io/books.xml",
+
+                    dataType: "xml",
+
+                    success: xmlParser
+
+                });
+            }
+        );
+            function xmlParser(xml) {
+                $(xml).find("book").each(function() {
+                    $("#divData").append("<br/>" + $(this).find("title").text());
+                }
+                );
+            }
+    </script>
+
+</head>
+<body>
+    <form id="form1">
+    <div id="divData">
+        <b>Title</b>
+    </div>
+    </form>
+</body>
+</html>
