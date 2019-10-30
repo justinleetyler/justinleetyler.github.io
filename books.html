@@ -12,7 +12,7 @@ $(document).ready(function(){
     $('#search').on('keyup', function(){
         $.ajax({
             type: "GET",
-            url: "https://justinleetyler.github.io/books.xml",
+            url: "books.xml",
             dataType: "xml",
             success: parseXML
         });
