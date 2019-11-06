@@ -5,36 +5,36 @@
 	<book> 
 		<title>Web Programming</title> 
 		<author>Chrisbates</author> 
-		<publisher>Publisher -: Wiley</publisher> 
-		<edition>Edition -: 3</edition> 
-		<price> Price -: 300</price> 
+		<publisher>Wiley</publisher> 
+		<edition>3</edition> 
+		<price>300</price> 
 	</book> 
 	<book> 
 		<title>Internet world-wide-web</title> 
 		<author>Ditel</author> 
-		<publisher>Publisher -: Pearson</publisher> 
-		<edition>Edition -: 3</edition> 
-		<price>Price -: 400</price> 
+		<publisher>Pearson</publisher> 
+		<edition>3</edition> 
+		<price>400</price> 
 	</book> 
 	<book> 
 		<title>Computer Networks</title> 
 		<author>Foruouzan</author> 
-		<publisher>Publisher -: Mc Graw Hill</publisher> 
-		<edition>Edition -: 5</edition> 
-		<price>Price -: 700</price> 
+		<publisher>Mc Graw Hill</publisher> 
+		<edition>5</edition> 
+		<price>700</price> 
 	</book> 
 	<book> 
 		<title>DBMS Concepts</title> 
 		<author>Navath</author> 
-		<publisher>Publisher -: Oxford</publisher> 
-		<edition>Edition -: 5</edition> 
-		<price>Price -: 600</price> 
+		<publisher>Oxford</publisher> 
+		<edition>5</edition> 
+		<price>600</price> 
 	</book> 
 	<book> 
 		<title>Linux Programming</title> 
 		<author>Subhitab Das</author> 
-		<publisher>Publisher -: Oxford</publisher> 
-		<edition>Edition -: 8</edition> 
-		<price>Price -: 300</price> 
+		<publisher>Oxford</publisher> 
+		<edition>8</edition> 
+		<price>300</price> 
 	</book> 
 </books> 
