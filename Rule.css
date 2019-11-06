@@ -22,3 +22,12 @@ title:before {
 author:before {
   content: "Author: ";
   }
+publisher:before{
+	content:"Publisher: ";
+}
+edition:before{
+	content:"Edition: ";
+}
+price:before{
+	content:"Price: ";
+}
