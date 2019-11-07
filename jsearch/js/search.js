@@ -48,18 +48,18 @@ $(document).ready(function(){
 		
 		$(xmlData).find('index').each(function(){
 			
-			var name = $(this).find('name').text();
-			var age = $(this).find('age').text();
-			var height = $(this).find('height').text();
+			var title = $(this).find('title').text();
+			var creator = $(this).find('creator').text();
+			var subject = $(this).find('subject').text();
 			
 			//Format the keyword expression
 			var exp = new RegExp(keyword,"gi");
 			
 			//Check if there is a category selected; 
 			//if not, use height column as a default search
-			if ( catType == 'name' ) { searchExp = name.match(exp); }
-			else if ( catType == 'age' ) { searchExp = age.match(exp); }
-			else if ( catType == 'height' ) { searchExp = height.match(exp); }
+			if ( catType == 'title' ) { searchExp = title.match(exp); }
+			else if ( catType == 'creator' ) { searchExp = creator.match(exp); }
+			else if ( catType == 'subject' ) { searchExp = subject.match(exp); }
 			
 			if ( searchExp != null ) {
 				
@@ -70,9 +70,9 @@ $(document).ready(function(){
 				i++;				
 				
 				pub += '<tr class="row ' + row + '">' + '\n';
-				pub += '<td valign="top" class="col1">' + name + '</td>' + '\n';	
-				pub += '<td valign="top" class="col2">' + age + '</td>' + '\n';	
-				pub += '<td valign="top" class="col3">' + height + '</td>' + '\n';	
+				pub += '<td valign="top" class="col1">' + title + '</td>' + '\n';	
+				pub += '<td valign="top" class="col2">' + creator + '</td>' + '\n';	
+				pub += '<td valign="top" class="col3">' + subject + '</td>' + '\n';	
 				pub += '</tr>' + '\n';
 			}	
 		});
@@ -97,9 +97,9 @@ $(document).ready(function(){
 		pub = '<div class="message">There are ' + i + ' results!</div>';
 		pub += '<table id="grid" border="0">' + '\n';
 		pub += '<thead><tr>' + '\n';
-		pub += '<th class="col1">Name</th>' + '\n';
-		pub += '<th class="col2">Age</th>' + '\n';
-		pub += '<th class="col3">Height</th>' + '\n';
+		pub += '<th class="col1">Title</th>' + '\n';
+		pub += '<th class="col2">Creator</th>' + '\n';
+		pub += '<th class="col3">Subject</th>' + '\n';
 		pub += '</tr></thead>' + '\n';
 		pub += '<tbody>' + '\n';
 		
