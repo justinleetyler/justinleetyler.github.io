@@ -51,6 +51,7 @@ $(document).ready(function(){
 			var title = $(this).find('title').text();
 			var creator = $(this).find('creator').text();
 			var subject = $(this).find('subject').text();
+			var bibliographicCitation = $(this).find('bibliographicCitation').text();
 			
 			//Format the keyword expression
 			var exp = new RegExp(keyword,"gi");
