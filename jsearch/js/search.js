@@ -46,7 +46,7 @@ $(document).ready(function(){
 		
 		var searchExp = "";
 		
-		$(xmlData).find('index').each(function(){
+		$(xmlData).find('record').each(function(){
 			
 			var title = $(this).find('title').text();
 			var creator = $(this).find('creator').text();
