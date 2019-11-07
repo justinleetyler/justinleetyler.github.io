@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <indices>
 	<index>
-		<name>john</name>
+		<name><![CDATA[ John ]]></name>
 		<age><![CDATA[ 22 ]]></age>
 		<height><![CDATA[ 5'9" ]]></height>
 	</index>
@@ -54,10 +54,5 @@
 		<name><![CDATA[ Jeff ]]></name>
 		<age><![CDATA[ 19 ]]></age>
 		<height><![CDATA[ 5'8" ]]></height>
-	</index>
-		<index>
-		<title>europe</title>
-		<creator>Tyler, Justin</title>
-		<subject>918</subject>
 	</index>
 </indices>
