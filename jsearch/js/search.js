@@ -61,6 +61,7 @@ $(document).ready(function(){
 			if ( catType == 'title' ) { searchExp = title.match(exp); }
 			else if ( catType == 'creator' ) { searchExp = creator.match(exp); }
 			else if ( catType == 'subject' ) { searchExp = subject.match(exp); }
+			else if ( catType == 'bibliographicCitation' ) { searchExp = subject.match(exp); }
 			
 			if ( searchExp != null ) {
 				
@@ -74,6 +75,7 @@ $(document).ready(function(){
 				pub += '<td valign="top" class="col1">' + title + '</td>' + '\n';	
 				pub += '<td valign="top" class="col2">' + creator + '</td>' + '\n';	
 				pub += '<td valign="top" class="col3">' + subject + '</td>' + '\n';
+				pub += '<td valign="top" class="col4">' + bibliographicCitation + '</td>' + '\n';
 				pub += '</tr>' + '\n';
 			}	
 		});
@@ -101,6 +103,7 @@ $(document).ready(function(){
 		pub += '<th class="col1">Title</th>' + '\n';
 		pub += '<th class="col2">Creator</th>' + '\n';
 		pub += '<th class="col3">Subject</th>' + '\n';
+		pub += '<th class="col4">bibliographicCitation</th>' + '\n';
 		pub += '</tr></thead>' + '\n';
 		pub += '<tbody>' + '\n';
 		
