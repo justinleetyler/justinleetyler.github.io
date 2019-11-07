@@ -61,7 +61,7 @@ $(document).ready(function(){
 			if ( catType == 'title' ) { searchExp = title.match(exp); }
 			else if ( catType == 'creator' ) { searchExp = creator.match(exp); }
 			else if ( catType == 'subject' ) { searchExp = subject.match(exp); }
-			else if ( catType == 'bibliographicCitation' ) { searchExp = subject.match(exp); }
+			else if ( catType == 'bibliographicCitation' ) { searchExp = bibliographicCitation.match(exp); }
 			
 			if ( searchExp != null ) {
 				
