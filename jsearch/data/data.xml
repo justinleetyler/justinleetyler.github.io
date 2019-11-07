@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <indices>
 	<index>
-		<name><![CDATA[ John ]]></name>
+		<name>john</name>
 		<age><![CDATA[ 22 ]]></age>
 		<height><![CDATA[ 5'9" ]]></height>
 	</index>
