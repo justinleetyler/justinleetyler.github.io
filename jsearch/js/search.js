@@ -73,7 +73,7 @@ $(document).ready(function(){
 				pub += '<td valign="top" class="col1">' + title + '</td>' + '\n';	
 				pub += '<td valign="top" class="col2">' + creator + '</td>' + '\n';	
 				pub += '<td valign="top" class="col3">' + subject + '</td>' + '\n';
-				pub += '<td valign="top" class="col3">' + bibliographicCitation + '</td>' + '\n';
+				pub += '<td valign="top" class="col4">' + bibliographicCitation + '</td>' + '\n';
 				pub += '</tr>' + '\n';
 			}	
 		});
@@ -101,7 +101,7 @@ $(document).ready(function(){
 		pub += '<th class="col1">Title</th>' + '\n';
 		pub += '<th class="col2">Creator</th>' + '\n';
 		pub += '<th class="col3">Subject</th>' + '\n';
-		pub += '<th class="col3">bibliographicCitation</th>' + '\n';
+		pub += '<th class="col4">bibliographicCitation</th>' + '\n';
 		pub += '</tr></thead>' + '\n';
 		pub += '<tbody>' + '\n';
 		
