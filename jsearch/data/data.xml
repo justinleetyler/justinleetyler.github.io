@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+	<records>
+		<record>
+			<database name="MyLibrary">MyLibrary</database>
+			<source-app name="Zotero">Zotero</source-app>
+			<ref-type name="Book">6</ref-type>
+			<contributors>
+				<authors>
+					<author>Perennial, Harper</author>
+				</authors>
+			</contributors>
+			<titles>
+				<title>10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School</title>
+				<short-title>10 Common Core Essentials</short-title>
+			</titles>
+			<keywords>
+				<keyword>K370</keyword>
+			</keywords>
+			<dates>
+				<year>2013</year>
+				<pub-dates>
+					<date>May 21, 2013</date>
+				</pub-dates>
+			</dates>
+			<publisher>Harper Perennial</publisher>
+			<call-num>K370</call-num>
+			<abstract>The excerpts featured in this free sampler come from some of our most popular nonfiction books for middle and high school classrooms—making them ideal choices to meet the new Common Core Standards for the English Language Arts. From the primary documents of The American Reader to The Boy Who Harnessed the Wind—the story of young man from an impoverished African village who built a windmill to bring life-changing electricity to his community—these books will take students across time periods and around the world. They'll grapple with complex ideas and meet people from the past and present who will inspire them.  Along the way, your students will come to understand the components of critical thinking and good writing—and why they matter.</abstract>
+			<remote-database-name>Amazon</remote-database-name>
+			<language>English</language>
+			<urls>
+				<text-urls>
+					<url>http://www.amazon.com/Common-Core-Essentials-Nonfiction-Selections-ebook/dp/B00C4TK32U?ie=UTF8&amp;redirect=true&amp;ref_=kinw_myk_ro_title</url>
+				</text-urls>
+			</urls>
+		</record>
+	</records>
+</xml>
