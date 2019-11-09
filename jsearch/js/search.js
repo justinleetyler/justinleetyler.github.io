@@ -99,12 +99,12 @@ $(document).ready(function(){
 		//Show the result
 		pub = '<div class="message">There are ' + i + ' results!</div>';
 		pub += '<table id="grid" border="0">' + '\n';
-		pub += '<thead><tr>' + '\n';
-		pub += '<td class="col1">Title</th>' + '\n';
-		pub += '<td class="col2">Creator</th>' + '\n';
-		pub += '<td class="col3">Subject</th>' + '\n';
+		pub += '<tr>' + '\n';
+		pub += '<td class="col1">Title</td>' + '\n';
+		pub += '<td class="col2">Creator</td>' + '\n';
+		pub += '<td class="col3">Subject</td>' + '\n';
 		// pub += '<td class="col4">bibliographicCitation</th>' + '\n';
-		pub += '</tr></thead>' + '\n';
+		pub += '</tr>' + '\n';
 		pub += '<tbody>' + '\n';
 		
 		pub += resultSet;
