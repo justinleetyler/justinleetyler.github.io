@@ -103,7 +103,7 @@ $(document).ready(function(){
 		pub += '<th class="col1">Title</th>' + '\n';
 		pub += '<th class="col2">Creator</th>' + '\n';
 		pub += '<th class="col3">Subject</th>' + '\n';
-		pub += '<th class="col4">bibliographicCitation</th>' + '\n';
+		// pub += '<th class="col4">bibliographicCitation</th>' + '\n';
 		pub += '</tr></thead>' + '\n';
 		pub += '<tbody>' + '\n';
 		
