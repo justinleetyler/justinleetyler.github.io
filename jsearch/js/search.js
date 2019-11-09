@@ -100,10 +100,10 @@ $(document).ready(function(){
 		pub = '<div class="message">There are ' + i + ' results!</div>';
 		pub += '<table id="grid" border="0">' + '\n';
 		pub += '<thead><tr>' + '\n';
-		pub += '<th class="col1">Title</th>' + '\n';
-		pub += '<th class="col2">Creator</th>' + '\n';
-		pub += '<th class="col3">Subject</th>' + '\n';
-		// pub += '<th class="col4">bibliographicCitation</th>' + '\n';
+		pub += '<td class="col1">Title</th>' + '\n';
+		pub += '<td class="col2">Creator</th>' + '\n';
+		pub += '<td class="col3">Subject</th>' + '\n';
+		// pub += '<td class="col4">bibliographicCitation</th>' + '\n';
 		pub += '</tr></thead>' + '\n';
 		pub += '<tbody>' + '\n';
 		
