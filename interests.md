@@ -7,7 +7,6 @@ Star gazing log
 Interests
 
 ## READING
-:books:
 
 ### Currently Reading
   
@@ -22,8 +21,8 @@ Interests
 |2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
 |2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. | Gabe becomes involved in a top-secret research project that his mom has been part of when sneeking around an old barn.|
 |2008-06 | C | Symbiosis / R.S. Penny. | 813.|
-}2018-05 | C | Meant for him / D.H. Starr | 813.|
-}2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
+|2018-05 | C | Meant for him / D.H. Starr | 813.|
+|2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
 |2018-05 | C | A Princely Affair / P.J. Nevada | 813.|
 |2018-05 | C | These Florida nights / P.J. Nevada | 813.|
 |2018-05 | C | Sunrise in the afternoon / P.J. Nevada | 813.|
@@ -265,7 +264,7 @@ Interests
 |2017-08 | The night listener /. | 813.|
 |2017-08 | Beyond words / Carl Safina. 	|
 |2017-08 | The religion of tomorrow / Ken Wilber. | 200.|
-}2017-08 | Omnipotence and other theological mistakes / Charles Hartshorne|
+|2017-08 | Omnipotence and other theological mistakes / Charles Hartshorne|
 |2017-08 | Infinate in all directions / Freeman Dyson.|
 |2017-08 | Today's Children and Yesterdsay's Heritage / Sophia Lyon Fahs.|
 |2017-08 | From long ago and many lands / Sophia Lyon Fahs.|
@@ -388,7 +387,7 @@ Interests
 |2011-10 | Pamphlets on the Constitution of the United States published during its discussion by the people, 1787-1788. | 342|
 	  
 ## HIKING LOG
-|PLACE. | DATE/TIME. | MILES. | WEATHER. | NOTES. |
+LACE. | DATE/TIME. | MILES. | WEATHER. | NOTES. |
 arold Parker State Forest. | 11/12/2016, 2 hrs. | n/a | Sunny, 40's.|
 ard Reservation. | 11/17/2015.|
 t. Osceola. | 08/14/15; 8 hrs. | sunny; 70s. | via Mt. Osceola trail w/ Rob M.|
