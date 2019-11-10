@@ -12,6 +12,8 @@ Interests
   
 ### Reading log
 
+:books:
+
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
 |2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
