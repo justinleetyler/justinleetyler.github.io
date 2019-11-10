@@ -1,7 +1,7 @@
 # INTERESTS AND HOBBIES
 
     Sections
-      1. 
+      1. [Reading log](https://justinleetyler.github.io/interests#reading-log)
       2. Hiking
       3. Movies and TV
       4. Star gazing log
@@ -20,7 +20,7 @@
   |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
   |2018-08 | C | The fall of Shannara / Terry Brooks. | 813.|
   |2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
-  |2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. | Gabe becomes involved in a top-secret research project that his mom has been part of when sneeking around an old barn.|
+  |2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813.|
   |2008-06 | C | Symbiosis / R.S. Penny. | 813.|
   }2018-05 | C | Meant for him / D.H. Starr | 813.|
   }2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
