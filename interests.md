@@ -259,6 +259,7 @@ Interests
 |0000-00 |   |Dave Barry's Money $ecrets [secrets]. / Dave Barry. | 817|
   
 ### Books to read
+
 |Date | Description | Location/Dewey Number.|
 |2018-06 | Gaia and God: An Ecofeminist Theology of Earth Healing  / Rosemary Ruether.|
 |2017-11 | 7th heaven series (https://www.amazon.com/gp/bookseries/B00CIVJ4ME/ref=dp_st_0375822909). | 813|
@@ -435,7 +436,9 @@ udding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
 | Pickney State Park. | Aug. 2011. | 17 mi.|
 
 ## MOVIES AND TV LOG
+
 |Date        |Title        |Grade |
+|------------|-------------|------|
 | 2015-07-23 | Sharknado3. | E.   |
 | 2014-11-27 | National Lampoons Christmas Vacation. | C.|
 |2014-11-23 | Mockingjay. | C. |
