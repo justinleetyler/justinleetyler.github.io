@@ -7,14 +7,14 @@ Star gazing log
 Interests
 
 ## READING
-:books:
 
 ### Currently Reading
   
 ### Reading log
-|DATE    | GRADE | TITLE / AUTHOR | DEWEY NUMBER.|
-|--------|-------|----------------| -------------|
-|2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
+|DATE    | GRADE | TITLE / AUTHOR                         | DEWEY NUMBER|
+|--------|-------|----------------------------------------| ------------|
+|2019-09 | C     | First King of Shannara / Terry Brooks. | 813         |
+
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
 |2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | 306.|
@@ -56,7 +56,7 @@ Interests
 |2016-09 | C | Orange Is the New Black / Piper Kerman | 920.|
 |2016-08 | C | Interesting times / Matthew Storm. | 813.|
 |2016-08 | B | Tribe / Sebastian Junger. | 302.|
-|2016-07 | B | It can't happen here / Lewis Sinclair. | 813.|
+|2016-07 | B | It can't happen here / Lewis Sinclair. | 813.|  
 |2016-06 | B | Waterworld / Max Allan Collins. | 813.|
 |2016-06 | C | Lunatics / Dave Barry and Alan Zweibel. | 813.|
 |2016-05 | B | Deciphering ancient minds / David Lewis-Williams and Sam Challis. | 759.|
