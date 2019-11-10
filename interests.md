@@ -7,8 +7,7 @@ Star gazing log
 Interests
 
 ## READING
-|DATE    | GRADE | TITLE / AUTHOR | DEWEY NUMBER|
-|--------|-------|----------------|-------------|
+
 |2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
 |2019-08 | C | Mars / Ben Bova. | 813.|
 
