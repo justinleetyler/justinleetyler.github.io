@@ -11,8 +11,8 @@ Interests
 ### Currently Reading
   
 ### Reading log
-|date    |grade |title and author                         |dewey number|
-|--------|------|-----------------------------------------|------------|
+|date    |grade |title and author                         |dewey number|summary|
+|--------|------|-----------------------------------------|------------|-------|
 |2019-09 | C     | First King of Shannara / Terry Brooks. | 813         |
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
