@@ -11,10 +11,9 @@ Interests
 ### Currently Reading
   
 ### Reading log
-|DATE    | GRADE | TITLE / AUTHOR                         | DEWEY NUMBER|
-|--------|-------|----------------------------------------| ------------|
+|date    |grade |title and author                         |dewey number|
+|--------|------|-----------------------------------------|------------|
 |2019-09 | C     | First King of Shannara / Terry Brooks. | 813         |
-
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
 |2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | 306.|
