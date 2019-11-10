@@ -12,6 +12,7 @@ Interests
   
 ### Reading log
 |date |grade |title and author |dewey number |
+|-----|------|-----------------|-------------|
 |2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
@@ -19,7 +20,7 @@ Interests
 |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
 |2018-08 | C | The fall of Shannara / Terry Brooks. | 813.|
 |2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
-|2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. | Gabe becomes involved in a top-secret research project that his mom has been part of when sneeking around an old barn.|
+|2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. |
 |2008-06 | C | Symbiosis / R.S. Penny. | 813.|
 |2018-05 | C | Meant for him / D.H. Starr | 813.|
 |2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
