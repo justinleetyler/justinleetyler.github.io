@@ -1,11 +1,9 @@
 # INTERESTS AND HOBBIES
-
-    Sections
-      1. [Reading log](https://justinleetyler.github.io/interests#reading-log)
-      2. Hiking
-      3. Movies and TV
-      4. Star gazing log
-      5. Interests
+1. [Reading log](https://justinleetyler.github.io/interests#reading-log)
+2. Hiking
+3. Movies and TV
+4.  Star gazing log
+5. Interests
 
 ## READING
 ### Currently Reading
@@ -22,8 +20,8 @@
   |2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
   |2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813.|
   |2008-06 | C | Symbiosis / R.S. Penny. | 813.|
-  }2018-05 | C | Meant for him / D.H. Starr | 813.|
-  }2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
+  |2018-05 | C | Meant for him / D.H. Starr | 813.|
+  |2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
   |2018-05 | C | A Princely Affair / P.J. Nevada | 813.|
   |2018-05 | C | These Florida nights / P.J. Nevada | 813.|
   |2018-05 | C | Sunrise in the afternoon / P.J. Nevada | 813.|
@@ -38,7 +36,7 @@
   |2017-06 | C | Escape / Jasper T. Scott. | 813.|
   |2017-06 | C | Excelsior / Jasper T. Scott. | 813.|
   |2017-05 | D | Banded / Logan Byrne. | 813.|
-  |2017-05 | D  - Inferno / Dan Brown. | 813.|
+  |2017-05 | D |Inferno / Dan Brown. | 813.|
   |2017-05 | C | Apparition Lake / Daniel D. Lamoreux. | 813.|
   |2017-04 | C | Ink and Bone / Rachel Conrad. | 813.|
   |2017-04 | C | Minders of the mountain / S.R. Martin. | 813.|
