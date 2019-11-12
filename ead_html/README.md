@@ -1,16 +1,16 @@
 
 # Finding Aid index
-* [Abbott family papers, 1780-1877](bhc00001.htm) 
-* [Vincent Aderente papers, 1899-1965](bhc00010.htm) 
-* bhc00023.htm 
-* bhc00026.htm 
-* bhc00027.htm 
-* bhc00037.htm 
-* bhc00038.htm 
-* bhc00050.htm 
-* bhc00063.htm 
-* bhc00070.htm 
-* bhc00175.htm 
+* [Abbott family papers, 1780-1877.](bhc00001.htm) 
+* [Vincent Aderente papers, 1899-1965.](bhc00010.htm) 
+* [Russell A. Alger papers, 1887-1900.](bhc00023.htm)
+* [John Allen papers, 1817-1848.](bhc00026.htm)
+* [Allen family papers, 1799-1917.](bhc00027.htm)
+* [American Association of University Women. Oakland Branch records,1939-2002](bhc00037.htm)
+* [American Fur Company records, 1803-1849](bhc00038.htm)
+* [Finding Aid for Marie Louise Anderson papers, 1928-1959](bhc00050.htm)
+* [Judd Arnett papers, 1904-1994.](bhc00063.htm)
+* [John Askin papers, 1739-1815](bhc00070.htm)
+* [Mary L. Bell papers](bhc00175.htm)
 * bhc00178.htm 
 * bhc00188.htm 
 * bhc00212.htm 
