@@ -1164,7 +1164,7 @@ inserting the contents if there is or adding one if there isn't. -->
 	</xsl:template>
 
 <!--Insert the address for the dsc stylesheet of your choice here. -->
-	<xsl:include href="dsc.xsl"/>
+	<xsl:include href="https://raw.githubusercontent.com/justinleetyler/justinleetyler.github.io/master/eadxml/dsc.xsl"/>
 
 	
 </xsl:stylesheet>
