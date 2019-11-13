@@ -42,8 +42,8 @@ in the <xsl:inlcude> statement that appears at the end of this file.-->
 			<!--If you do not want to include an image, delete the center
 				 element and its contents.-->
 				<center>
-					<img src="http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/MiscD/LIBLOGO.gif"></img>
-				</center>
+					<img src="http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/MiscD/LIBLOGO.gif">
+				</center></img>
 	
 				<xsl:apply-templates select="eadheader"/>	
 				
