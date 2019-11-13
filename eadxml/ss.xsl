@@ -39,8 +39,8 @@ in the <xsl:inlcude> statement that appears at the end of this file.-->
 				at the top of the display.  Insert the proper path ro
 				your image in place of yourlogo.gif.-->
 
-			<!--If you do not want to include an image, delete the center
-				 element and its contents.-->
+			<!-- If you do not want to include an image, delete the center
+				 element and its contents.
 				<center>
 					<img src="http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/MiscD/LIBLOGO.gif"></img>
 				</center> 
