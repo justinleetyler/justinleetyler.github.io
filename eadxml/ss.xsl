@@ -43,7 +43,8 @@ in the <xsl:inlcude> statement that appears at the end of this file.-->
 				 element and its contents.-->
 				<center>
 					<img src="http://dplopac.detroitpubliclibrary.org/WebCat_Images/English/Other/MiscD/LIBLOGO.gif">
-				</center></img>
+				</center> 
+			-->
 	
 				<xsl:apply-templates select="eadheader"/>	
 				
