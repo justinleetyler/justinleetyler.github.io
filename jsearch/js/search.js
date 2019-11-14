@@ -105,11 +105,11 @@ $(document).ready(function(){
 		pub += '<td class="col3">Subject</td>' + '\n';
 		// pub += '<td class="col4">bibliographicCitation</th>' + '\n';
 		pub += '</tr>' + '\n';
-		pub += '<tbody>' + '\n';
+		//pub += '<tbody>' + '\n';
 		
 		pub += resultSet;
 		
-		pub += '</tbody>' + '\n';
+		//pub += '</tbody>' + '\n';
 		pub += '</table>' + '\n';
 		
 		//Populate 
