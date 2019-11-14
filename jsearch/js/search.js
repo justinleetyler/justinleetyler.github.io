@@ -72,10 +72,10 @@ $(document).ready(function(){
 				i++;				
 				
 				pub += '<tr class="row ' + row + '">' + '\n';
-				pub += '<td valign="top" class="col1">' + title + '</td>' + '\n';	
-				pub += '<td valign="top" class="col2">' + creator + '</td>' + '\n';	
-				pub += '<td valign="top" class="col3">' + subject + '</td>' + '\n';
-				pub += '</tr><tr><td valign="top" colspan="3" class="col4">' + bibliographicCitation + '</td>' + '\n';
+				pub += '<td class="col1">' + title + '</td>' + '\n';	
+				pub += '<td class="col2">' + creator + '</td>' + '\n';	
+				pub += '<td class="col3">' + subject + '</td>' + '\n';
+				pub += '</tr><tr><td colspan="3" class="col4">' + bibliographicCitation + '</td>' + '\n';
 				pub += '</tr>' + '\n';
 			}	
 		});
