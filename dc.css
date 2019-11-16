@@ -2,6 +2,13 @@ RDF {
 	width: 100%; 
 } 
 
+Description {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
 heading { 
 	color: green; 
 	font-size : 40px; 
