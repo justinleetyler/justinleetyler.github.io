@@ -1,0 +1,41 @@
+RDF { 
+	color: white; 
+	background-color : gray; 
+	width: 100%; 
+} 
+
+heading { 
+	color: green; 
+	font-size : 40px; 
+	background-color : powderblue; 
+} 
+
+heading, title, creator, subject, description, type { 
+	display : block; 
+	color: black;
+} 
+
+title { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 
+
+title:before {
+  content: "Title: ";
+  }
+
+creator:before {
+  content: "Author: ";
+  }
+
+subject:before {
+	content:"Subject: ";
+}
+
+description:before {
+	content:"Description: ";
+}
+
+type:before {
+	content:"Type: ";
+}
