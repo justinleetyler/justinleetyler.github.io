@@ -30,8 +30,8 @@ subject:before {
 	content:"Subject: ";
 }
 
-description {
-	content:"<a href=&quot;www.justinleetyler.com&quot;>link</a>";
+description:before {
+	content:"Description: ";
 }
 
 type:before {
