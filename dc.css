@@ -3,10 +3,7 @@ RDF {
 } 
 
 Description {
-  width: 300px;
   border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
 }
 
 heading { 
@@ -23,6 +20,7 @@ heading, title, creator, subject, description, type {
 title { 
 	font-size : 25px; 
 	font-weight : bold; 
+	border-top: 1px solid black;
 } 
 
 title:before {
