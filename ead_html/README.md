@@ -163,7 +163,6 @@ url|title|date
 [link](http://justinleetyler.com/ead_html/bhc01757.html)|Meldrum & Park correspondence|1789, 1806.
 [link](http://justinleetyler.com/ead_html/bhc01758.html)|George Meldrum papers|1789-1798
 [link](http://justinleetyler.com/ead_html/bhc01762.html)|Harvey M. Merker papers|1912-1968
-[link](http://justinleetyler.com/ead_html/bhc1770|.html)lJohn Meyer papers,|1883-1943.
 [link](http://justinleetyler.com/ead_html/bhc01773.html)|Michigan Bell Telephone Company records|1877-1953
 [link](http://justinleetyler.com/ead_html/bhc01786.html)|Michigan Census,|1884
 [link](http://justinleetyler.com/ead_html/bhc01793.html)|Edwin C. Miles papers,|1840-1898.
@@ -194,7 +193,7 @@ url|title|date
 [link](http://justinleetyler.com/ead_html/bhc02007.html)|Josiah Harmar corresondence|1753-1813.
 [link](http://justinleetyler.com/ead_html/bhc02023.html)|Northwest Fur Company records|1801-1821
 [link](http://justinleetyler.com/ead_html/bhc02032.html)|Gabriel Richard papers,|1784-1833.
-[link](http://justinleetyler.com/ead_html/bhc2033|.html)lRobert Rogers papers|1760-1881
+[link](http://justinleetyler.com/ead_html/BHC2033.html)lRobert Rogers papers|1760-1881
 [link](http://justinleetyler.com/ead_html/bhc02040.html)|Henry Schoolcraft papers,|1805-1869.
 [link](http://justinleetyler.com/ead_html/bhc02045.html)|James Jessee Strang papers,|1831-1836.
 [link](http://justinleetyler.com/ead_html/bhc02076.html)|Frank Robinson papers,|1935-1960.
@@ -356,7 +355,6 @@ url|title|date
 [link](http://justinleetyler.com/ead_html/bhc02989.html)|Detroit Retired City Employees Association records|1960-1992
 [link](http://justinleetyler.com/ead_html/bhc02993.html)|Jacob H. Grimes papers|1898-1955
 [link](http://justinleetyler.com/ead_html/bhc02994.html)|Burial-Transit permits|1941-1953
-[link](http://justinleetyler.com/ead_html/bhc3000|.html)l[Photographs of Greeley Pond Trail].|2012-08-26
 [link](http://justinleetyler.com/ead_html/bhc03007.html)|United Church Women of Detroit records|1924-1979
 [link](http://justinleetyler.com/ead_html/bhc03011.html)|United Spanish War Veterans Gilbert Wilkes Post No. 17 records|1925-1983
 [link](http://justinleetyler.com/ead_html/bhc03026.html)|Woman's Aquatic Club Detroit records|1923-1957
