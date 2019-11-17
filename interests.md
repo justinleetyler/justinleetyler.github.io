@@ -4,7 +4,7 @@
 Hiking
 Movies and TV
 Star gazing log
-[Favorite Quotes)((https://justinleetyler.github.io/interests#favorite-quotes))
+[Favorite Quotes)(https://justinleetyler.github.io/interests#favorite-quotes)
 
 ## READING
 
@@ -521,9 +521,6 @@ udding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
 * Diaries | Authorship (808)
 	 
 ## FAVORITE QUOTES
- [?] sdf.org:70 > users > justinle > quotes.txt
-
-FAVORITE QUOTES
 
 You should have more skills that tools, more tools that rules, and more rules than rituals. -Mark Jenkins (Back Packer)
 
