@@ -1,3 +1,5 @@
+# Finding aid index
+
 url|title|date
 ----|----|----
 http://justinleetyler.com/ead_html/bhc00001.htm|Abbott family papers,|1780-1877.
@@ -555,42 +557,3 @@ http://justinleetyler.com/ead_html/bhc04141.htm|Pro Musica of Detroit records,|1
 http://justinleetyler.com/ead_html/bhc04142.htm|Sorosis Literary and Art Club records,|1921-2009.
 http://justinleetyler.com/ead_html/bhc04143.htm|Roger H. Blackwood papers,|1925-1954
 http://justinleetyler.com/ead_html/bhc04144.htm|Alice B. Haidostian papers,|1956-2001
-http://justinleetyler.com/ead_html/9062|George Thompson photograph|2007.
-http://justinleetyler.com/ead_html/51499160|Percy Ives papers|1780-1927
-http://justinleetyler.com/ead_html/52787538|Lewis Cass papers|1780-1907
-http://justinleetyler.com/ead_html/297568576|Roman S. Gribbs mayoral records|1952-1973
-http://justinleetyler.com/ead_html/371102424|Moses Morse docket books, 1801-1809.|1801-1809
-http://justinleetyler.com/ead_html/606914588|Ernie Harwell Sports Collection Artifacts,|1979-1981
-http://justinleetyler.com/ead_html/Accession no. 1.|Papers of Arthur W. Herrington,|1920-1961
-http://justinleetyler.com/ead_html/Accession no. 10.|Papers of James Scripps Booth,|1898-1980
-http://justinleetyler.com/ead_html/Accession no. 14|Papers of Andrew F. Johnson,|1882-1943.
-http://justinleetyler.com/ead_html/Accession no. 22.|Ford Rotunda drawings,|1939-1980
-http://justinleetyler.com/ead_html/Accession no. 24.|Papers of Alvin J. Arnheim,|1964-1972.
-http://justinleetyler.com/ead_html/Accession no. 27.|Henry and Wilfred Leland collection,|1910-1953.
-http://justinleetyler.com/ead_html/Accession no. 29.|Correspondence and diaries of Jesse G. Vincent,|1921-1962.
-http://justinleetyler.com/ead_html/Butterfield, Wells D|Wells Duane Doty Butterfield records,|1837-1940.
-http://justinleetyler.com/ead_html/Eberhard, David|David Eberhard papers, 1946-1983.|
-http://justinleetyler.com/ead_html/emerson2012|The lost code /|c2012.
-http://justinleetyler.com/ead_html/LJLT 9000|Justin Lee Tyler papers|2000-
-http://justinleetyler.com/ead_html/ms 67000084|Alexander D. Fraser papers,|1766-1888.
-http://justinleetyler.com/ead_html/ms 70001164|Alpheus Felch papers,|1823-1897.
-http://justinleetyler.com/ead_html/MS/ Duryea, Charles|Papers of Charles E. Duryea,|1878-1957
-http://justinleetyler.com/ead_html/ms_spencer_james_hou|James Houston Spencer papers,|circa 1920's-1930's
-http://justinleetyler.com/ead_html/MS/Baker, Fred A.|Fred A Baker papers,|1874-1916.
-http://justinleetyler.com/ead_html/MS/Goux family|Goux family papers,|1800-1950.
-http://justinleetyler.com/ead_html/MS/HAY, JEHU.01153|Jehu Hay papers|1764-1767
-http://justinleetyler.com/ead_html/MS/IVES, LEWIS|Lewis T. Ives papers|1836-1913
-http://justinleetyler.com/ead_html/MS/Johnston, George.|George Johnston papers,|1813-1862.
-http://justinleetyler.com/ead_html/MS/McClelland, Rober|Robert McClelland papers,|1833-1862.
-http://justinleetyler.com/ead_html/MS/Michigan Architec|Michigan Architectural Foundation architectural drawings,|1835-1941.
-http://justinleetyler.com/ead_html/MS/Mills, Joseph Edw|Joseph Edward Mills papers,|1916-1934.
-http://justinleetyler.com/ead_html/MS/Narbonne, Eduard|Eduard Narbonne records,|1866-1875.
-http://justinleetyler.com/ead_html/MSS11346|Amory Austin Collection Relating to Heraldry|1865-1917
-http://justinleetyler.com/ead_html/MSS62002|Allen Varley Astin Papers|1939-1973 (bulk 1950-1970)
-http://justinleetyler.com/ead_html/MS/Shattuck, Marquis|Marquis E. Shattuck papers,|1868-1984.
-http://justinleetyler.com/ead_html/MS/Wayne County. Cou|William Look court records collection,|1854-1898.
-http://justinleetyler.com/ead_html/NAHC 00070|Robert B. Alexander collection,|1905-1958
-http://justinleetyler.com/ead_html/NAHC.79|Transportation Trading Cards Collection|circa 1930-1976
-http://justinleetyler.com/ead_html/NAHC.285231924|Paul's Auto Wash business records|1935-1995
-http://justinleetyler.com/ead_html/oclc28410894|William T. Patrick papers,|1963-1971.
-http://justinleetyler.com/ead_html/
