@@ -193,7 +193,6 @@ url|title|date
 [link](http://justinleetyler.com/ead_html/bhc02007.html)|Josiah Harmar corresondence|1753-1813.
 [link](http://justinleetyler.com/ead_html/bhc02023.html)|Northwest Fur Company records|1801-1821
 [link](http://justinleetyler.com/ead_html/bhc02032.html)|Gabriel Richard papers,|1784-1833.
-[link](http://justinleetyler.com/ead_html/BHC2033.html)lRobert Rogers papers|1760-1881
 [link](http://justinleetyler.com/ead_html/bhc02040.html)|Henry Schoolcraft papers,|1805-1869.
 [link](http://justinleetyler.com/ead_html/bhc02045.html)|James Jessee Strang papers,|1831-1836.
 [link](http://justinleetyler.com/ead_html/bhc02076.html)|Frank Robinson papers,|1935-1960.
