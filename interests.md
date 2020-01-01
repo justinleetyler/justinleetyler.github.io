@@ -20,6 +20,7 @@ Star gazing log
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
 |2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | 306.|
+|2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
 |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
 |2018-08 | C | The fall of Shannara / Terry Brooks. | 813.|
 |2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
