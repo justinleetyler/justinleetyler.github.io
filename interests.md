@@ -265,6 +265,16 @@ Star gazing log
 ### Books to read
 
 |Date | Description | Location/Dewey Number.|
+|2020-01 | Me / Elton John. ||
+|2020-01 | Help! I'm laughing and I can't get up / Liz Curtis Higgs ||
+|2020-01 | Anarchy / Megan DeVos ||
+|2020-01 | With purpose and principle / Frost ||
+|2020-01 | In defense of a liberal education / Fareed Zakaria ||
+|2020-01 | The Larger faith / Howe ||
+|2020-01 | The consolations of philosphy / Botton ||
+|2020-01 | Last lion / Peter S. Canellos ||
+|2020-01 | No god but God / Reza Aslan ||
+|2020-01 | 1177 B.C. / Cline ||
 |2018-06 | Gaia and God: An Ecofeminist Theology of Earth Healing  / Rosemary Ruether.|
 |2017-11 | 7th heaven series (https://www.amazon.com/gp/bookseries/B00CIVJ4ME/ref=dp_st_0375822909). | 813|
 |2017-10 | New Views / New Views. | 910.|
