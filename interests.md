@@ -16,6 +16,8 @@ Star gazing log
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
+|2020-01 | C | The consuming fire / John Scalzi. | 813 |
+|2020-01 | The collapsing empire / John Scalzi. | 813 |
 |2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
 |2019-08 | C | Mars / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
