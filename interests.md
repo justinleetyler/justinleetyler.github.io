@@ -4,7 +4,7 @@
 Hiking
 Movies and TV
 Star gazing log
-[Favorite Quotes)(https://justinleetyler.github.io/interests#favorite-quotes)
+[Favorite Quotes](https://justinleetyler.github.io/interests#favorite-quotes)
 
 ## READING
 
