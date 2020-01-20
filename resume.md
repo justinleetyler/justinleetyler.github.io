@@ -21,8 +21,8 @@
 - 1998–2001, **Book Page**, Hillsdale Community Library, Hillsdale, MI
 
 ## Professional References
--Charles Tuomi – EBSCO Information Services
->- Platform Product Analyst
+- Charles Tuomi, **Platform Product Analyst**, EBSCO Information Services
+>- 
 >- 10 Estes Street, Ipswich, MA 01913
 >- 978-356-6500 x2471 - ctuomi@ebsco.com
 - Elshad Kasumov – Casenet, LLC
