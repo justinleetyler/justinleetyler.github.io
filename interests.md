@@ -10,7 +10,7 @@ Star gazing log
 
 ### Currently Reading
 Corey, James S. A. -- Leviathan wakes. -- Title from cover page; viewed Jan. 18, 2020. -- System requirements: MOBI file reader. -- DDC 813.
-
+Howey, hugh. -- Beacon 23. -- [1] v. -- DDC 813.
 ### Reading log
 
 :books:
