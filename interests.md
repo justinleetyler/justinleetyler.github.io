@@ -9,16 +9,16 @@ Star gazing log
 ## READING
 
 ### Currently Reading
-Corey, James S. A. -- Leviathan wakes. -- Title from cover page; viewed Jan. 18, 2020. -- System requirements: MOBI file reader. -- DDC 813.
+Corey, James S. A. -- Leviathan wakes. -- Title from resource; viewed Jan. 18, 2020. -- Mode of Access: [World Wide Web](http://www.justinleetyler.com/corey2011.txt). -- DDC 813.
 
-Howey, hugh. -- Beacon 23. -- [1] v. -- DDC 813.
 ### Reading log
 
 :books:
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
-|2020-01 | C | Me / Elton John. | 920 |
+|2020-02 | D | Howey, Hugh. -- Beacon 23. | 920 |
+|2020-01 | C | [Me / Elton John](http://www.justinleetyler.com/john2019.txt). | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
 |2020-01 | C | The collapsing empire / John Scalzi. | 813 |
 |2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
