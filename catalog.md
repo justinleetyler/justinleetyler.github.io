@@ -3107,6 +3107,7 @@ John, Elton. -- Goodbye Yellow Brick Road / [by] Elton John and Bernie Taupin. -
 
 John, Elton. -- Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.] -- Computer data. -- New York: Mercury Records, 2002. -- on 1 external hard drive. -- Title from Compact Disk. 
 
+John, Elton. -- Me. -- [S.n., 2019]. -- Title from resource, viewed Feb. 9, 2020. -- Mode of Access: [World Wide Web](http://www.justinleetyler.com/john2019). -- DDC 921.
 
 John, Elton. -- One Night Only: The Greatest Hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.] -- Computer data. -- New York: Universal Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
