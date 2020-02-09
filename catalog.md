@@ -6,7 +6,7 @@ Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Th
 -NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive. -- Title from 12 outstanding personality traits of a great boss. -- Computer data. -- Mode of Access: World Wide Web (http://www.officevibe.com/blog/infographic-great-boss). -- Title from resource. -- IN Officevibe [website].  1. 650.
 > Think positive -- Be honest -- Delegate -- Communicate -- Inspire -- Align the team -- Balanced (People perform better when they're able to balance life and work") -- Give credit -- Encourage growth -- Praise -- Mentor -- Fair. -o
 
-15 tested tips for creative efficiency. -- Computer data (1 file : 27 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: 10153.txt -- DBID 10152. -- IN Lifehacker. -- (Feb. 8, 2012). 1. 153.
+15 tested tips for creative efficiency. -- Computer data (1 file : 27 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: 10153.txt -- DBID 10152. -- IN Lifehacker. -- (Feb. 8, 2012). -- DDC 153.
 
 [21 simple actions towards a simpler life]. -- Computer data (1 file). -- [S.n., 2012?]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title supplied by cataloger. -- Filename: 3314.pdf. -- DBID 3314. -- DDC 178.
 
@@ -44,7 +44,7 @@ Tyler, Justin Lee. -- [2009 taxes]. -- Computer data. -- 2009. -- on 1 external 
 Tyler, Justin Lee. -- [2012 taxes]. -- Computer data (5 files : 416 KB). -- on 1 external hard drive. -- System requirements: USB drive, PDF and JPG file reader. -- Title supplied by cataloger. -- File Directory: 3261. -- DBID 3221. -- DDC 091.
 
 Tyler, Justin Lee. -- [2016 taxes]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, PDF reader. -- Title supplied by cataloger. -- File Directory: 3359. -- DBID 3359. -- DDC 091.
-Winfrey, Sarah. -- 29 scientifically proven ways to be happy this year. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year). -- Title from resource. -- IN Wisebread [website]. -- (Jan. 23, 2014). 1. 150.
+Winfrey, Sarah. -- 29 scientifically proven ways to be happy this year. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year). -- Title from resource. -- IN Wisebread [website]. -- (Jan. 23, 2014) -- DDC 150.
 
 > Work with your hands -- Practice 'taking in the good' -- Help others -- Stop caring about what others think. -- Let go of perfection -- Become calm -- Hold the small things -- Guzzle H20 -- Disconnect -- Fake it 'til you make it (smile). -- Embrace the great outdoors. -- Stop whining -- Hold your tongue -- Use your time well -- Get your sweat on (excercise) -- Leave blame behind -- Get the sleep you need -- Talk it up (vocalize your gratefulness) -- Engage in Aid -- Reach out -- Don't fear failure -- See yourself different -- Pay attention -- Find a new mantra -- Don't eat alone -- Get creative -- Dream about getting away. -o
 
@@ -64,11 +64,11 @@ Columbus, Nocomus. -- 3:53 am : Book 1. -- Computer data (1 file : 208 KB). -- S
 
 
 
-50 core American documents. -- Ashbrook Press, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- AISN B00IA6R7CK. 1. 973.
+50 core American documents. -- Ashbrook Press, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- AISN B00IA6R7CK -- DDC 973.
 
 
-A manual of AARC2 level 1 examples / compiled by the Minnesota AACR2 Trainers ; edited by Marilyn H. McClaskey and Edward Swanson. -- v, 32 p. -- ISBN 9780936996035. 1. 025.3.
-About the [Hearst Free] Library. -- Computer data (1 file : 1.18 mb). -- Anaconda, MT : Hearst Free Library, c2012. -- Title supplied by cataloger. -- File name: (3066.pdf). -- DBID 3066. 1. 027.4.
+A manual of AARC2 level 1 examples / compiled by the Minnesota AACR2 Trainers ; edited by Marilyn H. McClaskey and Edward Swanson. -- v, 32 p. -- ISBN 9780936996035 -- DDC 025.3.
+About the [Hearst Free] Library. -- Computer data (1 file : 1.18 mb). -- Anaconda, MT : Hearst Free Library, c2012. -- Title supplied by cataloger. -- File name: (3066.pdf). -- DBID 3066 -- DDC 027.4.
 
 The nine worlds / Achillea. -- Computer data (18 files : 107 mb). -- BSC Music GmbH, c2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
@@ -152,16 +152,16 @@ Allende, Isabel. -- City of the beasts / Isabel Allende; translated from the Spa
 
 All-American Rejects (Musical group). -- Move Along. -- Computer data. -- Santa Monica, CA: Interscope/Doghouse Records, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-Amazon.com -- [Computer data]. -- [United States?] : Amazon.com, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amazon.com). 1. 330.
+Amazon.com -- [Computer data]. -- [United States?] : Amazon.com, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amazon.com) -- DDC 330.
 
-American Association of Law Libraries. Classification and Subject Cataloging Policy Advisory Working Group. -- Genre/form terms for law materials. -- Buffalo, N.Y. : William S. Hein & Co., 2006. -- Computer data (1 file : 121 kb) -- File name: (9059.pdf) -- DBID 9059. 1. 025.3.
+American Association of Law Libraries. Classification and Subject Cataloging Policy Advisory Working Group. -- Genre/form terms for law materials. -- Buffalo, N.Y. : William S. Hein & Co., 2006. -- Computer data (1 file : 121 kb) -- File name: (9059.pdf) -- DBID 9059 -- DDC 025.3.
 
 
-American Library Association. ALA Advocacy University. -- Frontline Fundraising toolkit. -- Computer data (1 file : 1.6 mb). -- [S.l.] : American Library Association, c2011. -- Title from cover. -- File name: (10096.pdf). -- DBID 10096. 1. 020.
+American Library Association. ALA Advocacy University. -- Frontline Fundraising toolkit. -- Computer data (1 file : 1.6 mb). -- [S.l.] : American Library Association, c2011. -- Title from cover. -- File name: (10096.pdf). -- DBID 10096 -- DDC 020.
 
-American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes. -- Differences between changes within. -- Computer data (1 file : 197 kb) -- Chicago : American Library Association, 2004. -- Title from cover. -- File name: (8004.pdf) -- DBID 8004. 1. 025.3
+American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes. -- Differences between changes within. -- Computer data (1 file : 197 kb) -- Chicago : American Library Association, 2004. -- Title from cover. -- File name: (8004.pdf) -- DBID 8004 -- DDC 025.3
 
-American Library Association. Resources and Technical Services Div. -- Final report of the catalog code revisions committee. Subcommittee on the ruels for cataloging machine-readable data files. -- Computer data (1 file : 864 kb). -- Chicago, Ill. : American Library Association, 1976. -- Title from p. 1. -- File name: (3012.pdf). -- DBID 3012. 1. 025.3
+American Library Association. Resources and Technical Services Div. -- Final report of the catalog code revisions committee. Subcommittee on the ruels for cataloging machine-readable data files. -- Computer data (1 file : 864 kb). -- Chicago, Ill. : American Library Association, 1976. -- Title from p -- DDC -- File name: (3012.pdf). -- DBID 3012 -- DDC 025.3
 
 
 Amethystium (Musical group). -- Odonata. -- Computer data. -- Ft. Lauderdale, Fla: Neurodisc, 2001. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
@@ -185,14 +185,14 @@ Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN: 0061052477.
 
 > Cassandra: Daughter of Vladimir Rubicon; goes missing during an archological expedition in Central America.
 > Ch. 06: Mulder, Scully, and Rubiicon fly to Cancun on their way to the Yucatan. -s
-> Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377. 1. 025.3
+> Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
 
 Anonymous 4 (Musical group). -- Legends of St. Nicholas: Medieval Chant and Polyphony. -- Computer data. -- London: Harmonia Mundi, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.723.
-Answers.com. -- Computer program. -- [Wesley Hills, N.Y.] : GuruNet, c1999- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.answers.com). 1. 030.
+Answers.com. -- Computer program. -- [Wesley Hills, N.Y.] : GuruNet, c1999- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.answers.com) -- DDC 030.
 > ZHONGLI QUAN a/k/a HAN ZHONGLI, the most ancient of the immortals in Taoism. -f
 
 
-Appalachian Mountain Club. Boston Chapter. -- Boston Chapter of the Appalachian Mountain Club [website]. -- Computer data. -- [Mass.?] : The chapter, [20--?]- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amcboston.org) . -- DBID 3063. 1. 796.
+Appalachian Mountain Club. Boston Chapter. -- Boston Chapter of the Appalachian Mountain Club [website]. -- Computer data. -- [Mass.?] : The chapter, [20--?]- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amcboston.org) . -- DBID 3063 -- DDC 796.
 
 Archer, Richard. -- As if an enemy's country. -- Oxford University Press, c2010. -- xviii, 284 p. -- ISBN 9780199895779. -- DDC 973.
 > This book explores the major events (sugar, stamp, and townshend acts, Boston's occupation, and the massacre) that lead to the revolution. -s
@@ -277,7 +277,7 @@ Austen, Jane. -- Persuasion. -- Computer data (1 file). -- e-artnow, 2018. -- Sy
 Australis (Musical group). -- Life giving. -- Computer data. -- [S.l. : s.n.], 2005. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
 
-Axelrod, Alan. -- Profiles in audacity. -- New York : Sterling Publishing, c2006. -- x, 309 p. -- ISBN 1402732821. 1. 921.
+Axelrod, Alan. -- Profiles in audacity. -- New York : Sterling Publishing, c2006. -- x, 309 p. -- ISBN 1402732821 -- DDC 921.
 > Andrew Carnegie, 19th-20th c., m., industrialist; philanthropist. Author of WEALTH -p. 272 -f
 > 'The problem of our age... is the proper administration of wealth, so that ties of brotherhood may still bind together the rich and the poor in harmonious relationship.' -Andrew Carnegie -p. 272 -q
 > For Carnegie did not advocate charity. Instead, he called on the wealthy to decide to help those who will help themselves... to give those who desire to rise the aids by which they may rise.' -p. 274 -q
@@ -286,13 +286,13 @@ Axelrod, Alan. -- Profiles in audacity. -- New York : Sterling Publishing, c2006
 > Sir Francis Drake, m, 16th c., English. Seafarer and privateer. -p. -f
 
 
-Babauta, Leo. -- Focus : a simplicity manifesto in the age of distraction. -- Computer data (1 file : 451 kb) -- [S.l., s.n., 2010?] -- Title from title page. -- File name: (9057.pdf) -- DBID 9057. 1. 647.7.
+Babauta, Leo. -- Focus : a simplicity manifesto in the age of distraction. -- Computer data (1 file : 451 kb) -- [S.l., s.n., 2010?] -- Title from title page. -- File name: (9057.pdf) -- DBID 9057 -- DDC 647.7.
 
 
-Balas, Janet L. -- Will the ILS soon be as obsolete as the card catalog. -- Computer data (1 file : 11 kb) -- Title from p. 1. -- File name: (8373.txt) -- DBID 8373. -- IN Computers in Libraries. -- Vol. 37, no. 9 (Oct. 2007). 1. 025.3.
+Balas, Janet L. -- Will the ILS soon be as obsolete as the card catalog. -- Computer data (1 file : 11 kb) -- Title from p -- DDC -- File name: (8373.txt) -- DBID 8373. -- IN Computers in Libraries. -- Vol. 37, no. 9 (Oct. 2007) -- DDC 025.3.
 
 
-Balmer, John M.T. -- Corporate heritage brands and the precepts of corporate heritage brand management. -- Computer data (1 file : 266 kb) -- Title from p. 1. -- File name: (10150.pdf) -- DBID 10150. -- IN Journal of Brand Management -- Vol. 18, no. 8 (Jun. 2011). 1. 342.42.
+Balmer, John M.T. -- Corporate heritage brands and the precepts of corporate heritage brand management. -- Computer data (1 file : 266 kb) -- Title from p -- DDC -- File name: (10150.pdf) -- DBID 10150. -- IN Journal of Brand Management -- Vol. 18, no. 8 (Jun. 2011) -- DDC 342.42.
 
 [Balmoral]. -- Computer data (1 file : 224 MB). -- [BBC, n.d.] -- on 1 external hard drive. -- System requirements: USB drive; FLV file reader. -- Title supplied by cataloger. -- File name: 3267.flv. -- DDC 728.
 
@@ -302,7 +302,7 @@ Bands and tribes. -- Computer data (1 file). -- [S.n., n.d.]. -- on 1 external h
 > The principle goal of politics in most bands is making sure that people get along with each other. -q
 Bannister, Paul. -- The king's cavalry. -- Computer data (1 file). -- Endeavour Press, 2014. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00IGJ1KDS. -- DDC 813
 
-Barlow, Connie. -- Ritualizing big history. -- Computer data (1 file). -- System requirements: USB drive, pdf file reader. -- Title from resource. -- Filename: 3354.pdf -- Also available on the World Wide Web: http://www.metanexus.net/blog/ritualizing-big-history.  -- IN Metanexus. (2013 Mar 14). 1. 113
+Barlow, Connie. -- Ritualizing big history. -- Computer data (1 file). -- System requirements: USB drive, pdf file reader. -- Title from resource. -- Filename: 3354.pdf -- Also available on the World Wide Web: http://www.metanexus.net/blog/ritualizing-big-history.  -- IN Metanexus. (2013 Mar 14) -- DDC 113
 
 Barry, Dave. -- Insane city. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 9780399158681. -- DDC 813
 
@@ -315,18 +315,18 @@ Barry, Dave. -- Insane city. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 978
 > But he [Sid] preferred to perceive the world through the ever-present interface of Rose so that his impressions and opinions would always be in sync with hers; this, Sid had learned over the years, was the key to a peaceful marriage, if not necessarily a happy one. -p. 77 -q 
 > ... whose official title was Director of Operations, in which capacity he spent the bulk of his day picking up monkey shit. p. 105 -q This is how I feel at work, with my title; compared to what I actually do. -r
 
- Barber, David. -- Building a digital library. -- Computer data (1 file : 15.4 kb). -- Title from resource. -- DBID 2100. -- File name: (2100.txt) -- IN Library Technology Reports. -- (Sept. 01, 1996). 1. 027.
+ Barber, David. -- Building a digital library. -- Computer data (1 file : 15.4 kb). -- Title from resource. -- DBID 2100. -- File name: (2100.txt) -- IN Library Technology Reports. -- (Sept. 01, 1996) -- DDC 027.
 
 Barnes, Gary. -- Aquifer. -- 1st ed. -- Computer data (1 file : 601 KB). -- Blue Spring Press, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00907BWIS. -- DDC 813.
 
 
-Barr, Roseanne. -- Roseanarchy. -- Computer data (1 file). -- [S.l.] : Gallery, 2011. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 0515. 1. 817
+Barr, Roseanne. -- Roseanarchy. -- Computer data (1 file). -- [S.l.] : Gallery, 2011. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 0515 -- DDC 817
 
 
-Barry, Dave. -- Dave Barry in cyberspace. -- New York : Crown, 1996. -- viii, 215 p. -- ISBN 0517595753. 1. 818.
+Barry, Dave. -- Dave Barry in cyberspace. -- New York : Crown, 1996. -- viii, 215 p. -- ISBN 0517595753 -- DDC 818.
 
 
-Barry, Dave. -- Dave Barry's only travel guide you'll ever need. -- New York : Fawcett Columbine, c1991. -- xi, 171 p. -- ISBN 0449906515. 1. 818.
+Barry, Dave. -- Dave Barry's only travel guide you'll ever need. -- New York : Fawcett Columbine, c1991. -- xi, 171 p. -- ISBN 0449906515 -- DDC 818.
 
 Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State. -- Computer data (1 file). - [S.n., n.d.]. -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- Title from resource. -- File name: 3240.pdf. -- DDC 305.8
 > Decisions made through consensus ... The disgruntled members leave. -q
@@ -357,20 +357,20 @@ Bates, Henry Walter. -- the naturalist on the river Amazons. -- Computer data (1
 
 > Take deforestation. You cut down the forests, and you destroy the flora, the fauna, the rivers. Gold kills off the fish. It's all the same shit. it stinks equally. -Possuelo -p. 388 -q
 
-Bates, Marcia J. -- Improving user access to library catalog and portal information. -- Computer data (1 file : 6579 kb.) -- [S.l. : M. Bates], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10063. 1. 025.3
+Bates, Marcia J. -- Improving user access to library catalog and portal information. -- Computer data (1 file : 6579 kb.) -- [S.l. : M. Bates], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10063 -- DDC 025.3
 
 Battles, Matthew. -- Library : an unquiet history. -- [S.n., n.d.] -- [1] v. -- DDC 020.
 > The library in the digital age is in a state of flux, which is indistinquishable from a state of crisis - not only for institutions but for the books they contain, preserve, and propogate, a crisis for the culture of letters whose roots are firmly planted in the library. -p. 212 -q
 > And yet, they very fact that the library has endured these cycles seems to offer hope. -p. 213 -q
 > Destroying a library, however, is mearly the crudest form of editorializing. Libraries left intact can become tools of oppression and genocide, too, since they offer cannons that reflect the counceits of mystical nationalism and the will to purify. -p. 180 -q
-> Perhaps the first prominant card catalog was Edward Gibbon's inventory on playing cards. -qBBC news. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.bbc.co.uk/news/). 1. 070.
+> Perhaps the first prominant card catalog was Edward Gibbon's inventory on playing cards. -qBBC news. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.bbc.co.uk/news/) -- DDC 070.
 
 
-Becker, Joshua. -- The 10 most important things to simply your life. -- Computer file. -- Mode of Access: World Wide Web (http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/). -- DBID 3060. -- IN Becoming minimalist. -- [May 4th, 2012]. 1. 646.7.
+Becker, Joshua. -- The 10 most important things to simply your life. -- Computer file. -- Mode of Access: World Wide Web (http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/). -- DBID 3060. -- IN Becoming minimalist. -- [May 4th, 2012] -- DDC 646.7.
 > 1. Your Posessions -- 2. Your Time Commitments -- 3. Your Gols (By reducing the number of goals... you will improve your focus and your success rate.) -- 4. Your negative thoughts -- 5. Your debt. -- 6. Yor words (a. Use fewer -- b. Keep your speech plain and honest. -- c. Mean what you say. -- d. Avoid gossip.) -- 7. Yor artificial ingredients -- 8. Your screen time. (a. It begins to dominate your life) -- 9. Yor connections to the world. (a. Relationships are good -- b. Constant stream of distraction are bad. -- c. Focus on the important, not the urgent) -- 10. Your multitasking (a. Increases stress and lowers productivity.) -o
 > most quests for unusual goals are motivated by the conviction that the end is attainable if only the correct combination of fortune and persistence can be struck.   -p. 52 -q
 
-Becker, Joshua. -- 12 reasons I have decided to read one book per week. -- Computer data (1 file : 6 kb) -- Title from p. 1. -- File name: (10140.txt) -- DBID 10140. -- IN Becoming minimalist. -- (Jan. 16, 2012). 1. 002.
+Becker, Joshua. -- 12 reasons I have decided to read one book per week. -- Computer data (1 file : 6 kb) -- Title from p -- DDC -- File name: (10140.txt) -- DBID 10140. -- IN Becoming minimalist. -- (Jan. 16, 2012) -- DDC 002.
 
 
 
@@ -459,7 +459,7 @@ Bhagavad-Gita: The song of God / [translated by] Christopher Isherwood . -- New 
 > If anyone, regardless of reputation or credentials, preaches something other than what you received originally, let him be cursed. -Gal. 1 -q
 > Daughter, you took a risk of faith, and now you're healed and whole. Live well, live blessed! Be healed of your plague. -Jesus (Mk. 5) -q
 > Don't listen to them; just trust me. -Jesus (Mk. 5) -q
-Bisac codes and literals. -- Computer data. -- [S.l. : s.n., 2010?] -- Title from p. 1. -- File name: (10106.pdf). -- DBID 10106. 1. 025.4.
+Bisac codes and literals. -- Computer data. -- [S.l. : s.n., 2010?] -- Title from p -- DDC -- File name: (10106.pdf). -- DBID 10106 -- DDC 025.4.
 
 Bill, J. Brent. -- Mind the light : learning to see with spiritual eyes. -- Computer data (1 file : 242 KB). -- J. Brent Bill, c2006. -- on 1 ASUS transformer tablet. -- Title from title page. -- System requirements: Kindle app. -- DDC 248.
 
@@ -468,7 +468,7 @@ Bill, J. Brent. -- Mind the light : learning to see with spiritual eyes. -- Comp
 Billig, Barbara Griffin. -- The nuclear catastrophe. -- Computer data (1 file : 590 kb). -- Clearview Investments, Inc., 2011. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 
-Bland, Robert N. -- Returning classification to the catalog. -- Computer data (1 file : 2 mb) -- Title from resource. -- File name: (9054.pdf) -- DBID 9054. -- IN Information techology and libraries. -- Vol. 27, no. 3 (Sept. 2008) -- ISSN 0730-9295. 1. 025.4.
+Bland, Robert N. -- Returning classification to the catalog. -- Computer data (1 file : 2 mb) -- Title from resource. -- File name: (9054.pdf) -- DBID 9054. -- IN Information techology and libraries. -- Vol. 27, no. 3 (Sept. 2008) -- ISSN 0730-9295 -- DDC 025.4.
 
 Blackaby, Daniel. -- Legend of the book keeper. -- Computer data (1 file). -- Russell Media, [n.d.] -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 > CH. Cody goes to Jade's house to ask for help. -s
@@ -551,7 +551,7 @@ Bova, Ben. -- Mars. -- Batam Books, c1992. -- 549 p. -- ISBN 055356241X. -- DDC 
 > Meditation is the key to understanding, the bridge to the great cosmic all. -q
 > Jamie sat alone at the table, staring at his damaged helmet, wondering why human beings had to inflict pain on one another to gain respect. -q
 
-Bradford, William. -- Bradford's history 'Of Plimoth plantation' / Printed under the direction of the Secretary of the Commonwealth, by order of the General Court. -- Computer data (1 file : 689 kb). -- Boston : Wright and Potter, 1898. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3022. 1. 974.4
+Bradford, William. -- Bradford's history 'Of Plimoth plantation' / Printed under the direction of the Secretary of the Commonwealth, by order of the General Court. -- Computer data (1 file : 689 kb). -- Boston : Wright and Potter, 1898. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3022 -- DDC 974.4
 
 
 Braun, Evan. -- The book of creation. -- Computer data (1 file : 617 KB). -- E. Braun and C. Byars, c2011. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B006O9OJ6M. -- DDC 813.
@@ -567,13 +567,13 @@ Brinkbaumer, Klaus. -- The voyage of the Vizcaína  / [by] Klaus Brinkbäumer an
 > Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -qBritannica concise encyclopedia. -- Encyclopaedia Britannica, c2002. -- xi, 2067 p. -- ISBN 0852298323. -- DDC 031.
 
 
-Brazier, Caroline. -- Cataloguing policy and practice  - 2007 and beyond: a view from the British Library. -- Computer data (1 file : 5.8 mb) -- [S.l., s.n.], 2007. -- Title from slide 1. -- File name: (1399.ppt) -- DBID 1399. 1. 025.3
+Brazier, Caroline. -- Cataloguing policy and practice  - 2007 and beyond: a view from the British Library. -- Computer data (1 file : 5.8 mb) -- [S.l., s.n.], 2007. -- Title from slide 1. -- File name: (1399.ppt) -- DBID 1399 -- DDC 025.3
 
 Breines, Juliana G. -- Self-compassion increases self-improvement motivation / Juliana G. Breines; Serena Chen. -- Computer data (1 file). -- Title from sagepub.com. -- IN Personality and social psychology bulletin. -- Vol. 38, no. 10 (Oct. 2012). -- DDC 152
 
 
 
-Brenndorfer, Thomas. -- RDA in 10 easy steps (for cataloging a book). -- Computer data (1 file : 6.51 kb) -- [S.l. : T. Brenndorfer, 2012?] -- Title from resource. -- File name: (10179.txt). -- DBID 10179. 1. 025.3.
+Brenndorfer, Thomas. -- RDA in 10 easy steps (for cataloging a book). -- Computer data (1 file : 6.51 kb) -- [S.l. : T. Brenndorfer, 2012?] -- Title from resource. -- File name: (10179.txt). -- DBID 10179 -- DDC 025.3.
 
 
 
@@ -607,7 +607,7 @@ Brickman, Jim. -- From the Heart. -- Computer data. -- Toronto, Ontario: Avalon/
 Brooks, Lester. -- Great civilizations of ancient Africa. -- Four Winds Press, c1971. -- xiii, 340 p. -- DDC  916.
 
 
- Brookes, Tim. -- A brief history of mobile phones. -- Computer data (1 file : 290 kb). -- Title from p. 1. -- File name: (3016.pdf). -- DBID 3016. -- IN MakeUseOf.com. -- (May 17, 2012). 1. 384.5
+ Brookes, Tim. -- A brief history of mobile phones. -- Computer data (1 file : 290 kb). -- Title from p -- DDC -- File name: (3016.pdf). -- DBID 3016. -- IN MakeUseOf.com. -- (May 17, 2012) -- DDC 384.5
 
 
 Brooks, Terry. -- Armageddon's children. -- Computer data. -- New York : Del Roy, 2006. -- on 1 external hard drive. -- System requirements: Palm eReader (pdb) file reader. -- Title from resource. -- File name: 8353.pdf. -- DBID 8353. -- DDC 813. 
@@ -648,7 +648,7 @@ Brooks, Terry. -- Armageddon's children. -- Computer data. -- New York : Del Roy
 > Cycles come and go. One day the world will be new again. -p. -q
 
 
-Brooks, Terry. -- Bearers of the black staff. -- 1st ed. -- New York : Ballantine Books, c2010. -- 352 p. -- ISBN 9780345484178. 1. 813.
+Brooks, Terry. -- Bearers of the black staff. -- 1st ed. -- New York : Ballantine Books, c2010. -- 352 p. -- ISBN 9780345484178 -- DDC 813.
 
 > CH.1: Creatures get through the ward -p. -s
 
@@ -671,7 +671,7 @@ Brooks, Terry. -- Genesis of Shannara. -- Ballantine Books, c2007. -- 379 p. -- 
 > KIRISIN, m, elf. Brother of Simralia.
 > 29 The loden stone is in a dragon. -s
 
-Brooks, Terry. -- First king of Shannara. -- 1st ed. -- New York : Ballantine Books, 1996. -- 489 p. -- ISBN 0345396529. 1. 813.
+Brooks, Terry. -- First king of Shannara. -- 1st ed. -- New York : Ballantine Books, 1996. -- 489 p. -- ISBN 0345396529 -- DDC 813.
 
 > ... the First Council of Druids... met at Paranor, a gathering of the wisest men and women of all the Races, those who had memories of the old world, those who retained a few tattered, crumbling books, those who learning had survived the barbarism of a thousand years... [they] had begun the laborious task of assembling their combined knowledge... the goal... was to work for the betterment of all people... -p. 7 -q
 > Chief among those books was the Ildatch, a monstrous, deadly tome that had survived every cataclysm since the dawn of civilization, protected by dark spells, driven by secret needs. -p. 8 -q
@@ -858,10 +858,10 @@ Brooks, Terry. -- Wards of faerie. -- New York : Ballantine Books, c2012. -- 371
 > She [the Ard Rhys] war the familiar black robes,, but unike the others she bore a silver path sewn into the left front panel. -q -236
 > 'He [Farshaun] just doesn't want to make the decision for us. He doesnt want to have to live with the responsibility.' -Reden -243 -q
 
-Brown, Dan. -- Angels and demons. -- New York : Pocket Books, c2000. -- 430 p. -- DBID 0019. -- ISBN 0671027352. 1. 813.
+Brown, Dan. -- Angels and demons. -- New York : Pocket Books, c2000. -- 430 p. -- DBID 0019. -- ISBN 0671027352 -- DDC 813.
 > 'Earth = Power Air = Intellect Wind = Ardor Fire = Water' -p. -f
 
-Brown, Dan. -- The Da Vinci code. -- Doubleday, c2003. -- 454 p. -- DBID 0029. -- ISBN 0385504209. 1. 813.
+Brown, Dan. -- The Da Vinci code. -- Doubleday, c2003. -- 454 p. -- DBID 0029. -- ISBN 0385504209 -- DDC 813.
 > Those who seek the truth are more than friends. They are brothers. -q
 > Your Heart is true my friend.
 > Those who truly understnd their faiths understand the stories are metaphorical. -p. 342 -q
@@ -887,9 +887,9 @@ Brown, Ryn. -- Aurora CV-01. -- 2nd kindle ed. -- Computer data (1 file : 452 KB
 > United Earth Republic. A fictional type of United Nations. -f
 > CH. 01: Nathan Scott causes a bit of a scene at his fathers campaign announcement when he sleeps with some women; and makes a passing comment about his father. -s
 
-Bruce Lee's top 20 tips for living a successful life. -- Computer data (1 file : 299 kb). -- Title from p.1. -- File name: (10094.pdf). -- DBID 10094. -- IN Wake Up Cloud. -- (Apr. 4, 2011). 1. 646.7
+Bruce Lee's top 20 tips for living a successful life. -- Computer data (1 file : 299 kb). -- Title from p.1. -- File name: (10094.pdf). -- DBID 10094. -- IN Wake Up Cloud. -- (Apr. 4, 2011) -- DDC 646.7
 
-Bruce, James. -- Surviving an apocalypse. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- Filename: 3306.pdf. -- DBID 3306. -- IN MakeUseOf [website]. -- (Dec. 3, 2013). -- DDC 613.6
+Bruce, James. -- Surviving an apocalypse. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3306.pdf. -- DBID 3306. -- IN MakeUseOf [website]. -- (Dec. 3, 2013). -- DDC 613.6
 
 Bryson, Bill. -- A walk in the woods. -- 1st ed. -- Anchor Books, 2007, c1998. -- 397 p. -- ISBN 9780307279460. -- DDC 917.
 > Life takes on a neat simplicty, too. Time ceases to have any meaning. When it is dark, you go to bed, and when it is light again you get up, and everything in between is just in between... All that is requird of you is a wilingness to truge. There is no point in hurrying ecause you are not actually going anywhere. However far or long you plod, you are always in the same place: in the woods. -p. 101 -q
@@ -902,7 +902,7 @@ Buble, Michael. -- Call Me Irresponsible / Michael Buble and Ivan Lins. -- Compu
 Buchmann, Jacinda. -- Indigo incident. -- Computer data. -- J.C., c2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ASIN B00CT9XL42. -- DDC 813.
 
 
-Buckley, Karen. -- Partners needed. -- Computer data (1 file : 139 kb) -- [S.l. : s.n.], 2006. -- File name: (0153.pdf) -- DBID 0153. 1. 025.17.
+Buckley, Karen. -- Partners needed. -- Computer data (1 file : 139 kb) -- [S.l. : s.n.], 2006. -- File name: (0153.pdf) -- DBID 0153 -- DDC 025.17.
 
 
 Buehrens, John A. -- A chosen faith / John A. Buehrens and Forrest Church. -- Revised ed. -- Beacon Press, c1989, 1998. -- xxvii, 221 p. -- ISBN 9780807016176. -- DDC 289.
@@ -1051,13 +1051,13 @@ Caine, Rachel. -- Ink and bone. -- Computer data. -- New American Library, c2015
 > When you steal a book, you steal from the world, the Library propaganda said -q
 > St Paul’s Serapeum, the physical presence of the Great Library -q
 
-Calhoun, Karen. -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Computer data (1 file : 1429 kb.) -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- Title from resource. -- File name: (10060.pdf). -- DBID 10060. -- ISBN 1556535116. 1. 025.3
+Calhoun, Karen. -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Computer data (1 file : 1429 kb.) -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- Title from resource. -- File name: (10060.pdf). -- DBID 10060. -- ISBN 1556535116 -- DDC 025.3
 Calm.com. -- Computer data. -- [S.l. : s.n., n.d.]. -- Mode of Access: World Wide Web (http://www.calm.com) -- Title from homepage. -- DDC 158.1
 
-Camp Delta standard operating procedures (SOP). -- Computer data (1 file : 4.3 mb.) -- [S.l., s.n.], 2003. -- Title from cover. -- File name: (6409.pdf). -- DBID 6409. 1. 355.
+Camp Delta standard operating procedures (SOP). -- Computer data (1 file : 4.3 mb.) -- [S.l., s.n.], 2003. -- Title from cover. -- File name: (6409.pdf). -- DBID 6409 -- DDC 355.
 
 
-Camus, Albert. -- The plague. -- London: Penguin, 2002. -- 256 p. 1. 843.
+Camus, Albert. -- The plague. -- London: Penguin, 2002. -- 256 p -- DDC 843.
 
 > 'Tarrou, Jean'a visitor to Oran -p. 21 -f
 > -p. 21- -s
@@ -1115,22 +1115,22 @@ Carter, Jimmy. -- Our endangered values. -- Simon & Schuster, c2005. -- x, 212 p
 > ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 -q
 > Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q
 
-Casey, Mike. -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- Computer data (1 file : 5.7 mb.) -- [S.n., s.l.], c2007. -- Title from cover. -- File name: (6445.pdf). -- DBID 6445. 1. 025.8.
+Casey, Mike. -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- Computer data (1 file : 5.7 mb.) -- [S.n., s.l.], c2007. -- Title from cover. -- File name: (6445.pdf). -- DBID 6445 -- DDC 025.8.
 
 
-Casson, Lionel. -- Libraries in the ancient world. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094. 1. 027.
+Casson, Lionel. -- Libraries in the ancient world. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094 -- DDC 027.
 
 > The BeginningsA. Clay 1. Durable 2. ok in fire -p. -
 > PrefaceA. covers from 3000 BCE-500 CEB. -p. -
 > 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
 
-Cataloging internet resources / Nancy B. Olson, editor. -- Computer data. -- United States : Online Computer Library Center, c1995. -- on 1 external hard drive. -- Title from cover. -- Filename: 10126.txt -- DBID 10126. 1. 025.3.
+Cataloging internet resources / Nancy B. Olson, editor. -- Computer data. -- United States : Online Computer Library Center, c1995. -- on 1 external hard drive. -- Title from cover. -- Filename: 10126.txt -- DBID 10126 -- DDC 025.3.
 
 
-Catchpole, John E. -- The International Space Station. -- Computer data (1 file). -- [S.l.] : Praxis, 2008. -- -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3034. 1. 624.4
+Catchpole, John E. -- The International Space Station. -- Computer data (1 file). -- [S.l.] : Praxis, 2008. -- -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3034 -- DDC 624.4
 
 
-Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.) -- In celebration and of thanksgiving for the life of Gerald Rudolph Ford. -- Computer data (1 file : 156 kb) -- [Washington, D.C. : The cathedral, 2006] -- Title from cover. -- File name: (0589.pdf) -- DBID 0589. 1. 923.1.
+Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.) -- In celebration and of thanksgiving for the life of Gerald Rudolph Ford. -- Computer data (1 file : 156 kb) -- [Washington, D.C. : The cathedral, 2006] -- Title from cover. -- File name: (0589.pdf) -- DBID 0589 -- DDC 923.1.
 
 
 
@@ -1139,9 +1139,9 @@ Cauvin, Jacques. -- The birth of the gods and the orgins of agriculture / Jacque
 Cerdwen. -- Or Mabinogi. -- Computer data. -- [S.l.: s.n.], 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Cha, Jiyoung. -- Factors affecting the frequency and amount of social networking site use. -- Computer data. -- Title from resource. -- File name: (libary/9080.pdf) -- DBID 9080. -- IN First Monday. -- Vol. 15, no. 12. (Dec. 2010). 1. 305.
+Cha, Jiyoung. -- Factors affecting the frequency and amount of social networking site use. -- Computer data. -- Title from resource. -- File name: (libary/9080.pdf) -- DBID 9080. -- IN First Monday. -- Vol. 15, no. 12. (Dec. 2010) -- DDC 305.
 
-Change of issuence : MARC 21 bibliographic level code "m" still used (code "I" not yet implemented). -- Computer data (1 file : 67 kb). -- [S.l., s.n., n.d.] -- Title from cover. -- File name: (9053.pdf) -- DBID 9053. 1. 025.3.
+Change of issuence : MARC 21 bibliographic level code "m" still used (code "I" not yet implemented). -- Computer data (1 file : 67 kb). -- [S.l., s.n., n.d.] -- Title from cover. -- File name: (9053.pdf) -- DBID 9053 -- DDC 025.3.
 
 
 Chant Gregorien: Liturgie Dominicaine. -- Computer data. -- France: Jade, 2007. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67
@@ -1162,7 +1162,7 @@ Chernoff, Marc. -- 12 rituals happy, successfull people practice every day. -- C
 > Judge a man by his questions rather than by his answers. -Voltaire -q
 > 12: The right questions: Who am I? -- What do I need? -- How do I function best? -- What do I have to give? -- What's the next step I can take right now? -q
 > A relationship should be healthy, caring, loving, kind, upbeat and positive.  It should make your smile a little wider... -q
-Choo, Chun Wei. -- Information seeking in organizations. -- Computer data (1 file : 271 kb). -- Title from p.1. -- File name: (1689.mht). -- DBID 1689. -- IN Information Research. -- Vol. 12, no. 22 (Jan. 2007). 1. 025.5.
+Choo, Chun Wei. -- Information seeking in organizations. -- Computer data (1 file : 271 kb). -- Title from p.1. -- File name: (1689.mht). -- DBID 1689. -- IN Information Research. -- Vol. 12, no. 22 (Jan. 2007) -- DDC 025.5.
 
 Child, Lincoln. -- Terminal freeze. -- 1st ed. -- Random House, c2009. -- 320 p. -- ISBN 9780385515511. -- DDC 813.  
 > Old Rag Lodge: Secret goverment hideaway. -p. 41. Based on Project Greek Island -f
@@ -1183,7 +1183,7 @@ The Cistercian Monks of Stift Heiligenkreuz. -- Chant. -- Computer data. -- on 1
 The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- Title from header. -- Mode of Access: World Wide Web (http://www.aetolia.com/cities). -- DDC 342.
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
-Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048. 1. 794.8.
+Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
 Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada: Madacy, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.68.
 
 Clay, Rotha Mary. -- The hermits and anchorites of England. -- Computer data. -- Methuen & Co, 1914. -- Mode of Access: World Wide Web (https://archive.org/stream/hermitsanchorite00clayuoft). -- Title from title page. -- DDC 271.
@@ -1359,7 +1359,7 @@ Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780
 > ... povisions for an overnight camp: water, matches, a sleeping bag. -p. 138 -q
 > Then it's back to my duties as a smoke-besotted stylite. -p. 138 -q
 > Do not miss a chance to nap -- Leave the place better than you found it -- Never piss into the wind -- Go buck naked in the tower now and then for kicks -- Learn what it means to ride the lightning -- Cut a good supply of wood for he start of the next year -- Feed the hummingbirds -- Have a hobby: readying, knitting, playing the ukelele. Something. -- Sleep outside when the weather permits -- Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q
-CONSER standard record documentation -- Computer data (1 file : 417 kb) -- [S.l., s.n.], 2007. -- Title from cover. -- File name: (7068.pdf) -- DBID 7068. 1. 025.3.
+CONSER standard record documentation -- Computer data (1 file : 417 kb) -- [S.l., s.n.], 2007. -- Title from cover. -- File name: (7068.pdf) -- DBID 7068 -- DDC 025.3.
 Constitution daily. -- Computer data. -- [S.n, 200-] -- Mode of Access: World Wide Web (http://blog.constitutioncenter.org/). -- Title from homepage. -- Frequency: Daily. -- DDC 320.
 
 
@@ -1381,7 +1381,7 @@ UNESCO (2005)
 > Information literacy is a continuum of skills, behaviours, approaches and values that it is so deeply entwined with the use of information as to be a fundamental part of learning, scholarship and research. It is the defining characteristics of the discerning scholar, the informed and judicious citizen and the autonomous learner. -q
 
 
-Cooper, Peter. -- Beginning Ruby. -- Computer file (1 file) -- [S.l.] : Apress, 2007. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3035. 1. 005.
+Cooper, Peter. -- Beginning Ruby. -- Computer file (1 file) -- [S.l.] : Apress, 2007. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3035 -- DDC 005.
 
 Coryell, Skip. -- The God virus. -- Computer data. -- [S. Coryell]?, c2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B0078T0DWQ. -- ISBN 9781618080295. -- DDC 813.
 
@@ -1392,10 +1392,10 @@ Crease, Robert P. -- World in the balance. -- New York : W.W. Norton, c2011. -- 
 
 > Nothing is inherently unscientific about using improvised measures, as long as they are accessible, appropriate, and assured. -p. 21 -q
 > We tend to trust measurements -- and without such trust, modern life would grind to a halt like a michine drained of oil. -p. 32 -q
-A crown of maples. -- 2012 ed. -- Computer data (1 file) -- [Canada] : Dept. of Canadian Heritage, c2012. -- on 1 external hard drive. -- Title from title page. -- File name: 3206.pdf. -- DBID 3206. -- ISBN 9781100200798. 1. 320.971.
+A crown of maples. -- 2012 ed. -- Computer data (1 file) -- [Canada] : Dept. of Canadian Heritage, c2012. -- on 1 external hard drive. -- Title from title page. -- File name: 3206.pdf. -- DBID 3206. -- ISBN 9781100200798 -- DDC 320.971.
 
 
-Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, Minnesota : Llewellyn Publications, c2004. -- xiv, 239 p. -- ISBN 9780875421186. 1. 133.
+Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, Minnesota : Llewellyn Publications, c2004. -- xiv, 239 p. -- ISBN 9780875421186 -- DDC 133.
 
 > The person practicing the ritual or spell determines its success. -p. ix -q
 > In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix -q
@@ -1418,21 +1418,21 @@ Cusco. -- Apurimac III. -- Computer data (1 directory). -- [S.n.], 1997. -- on 1
 Cusco. -- Ancient journeys. -- Computer data (1 directory). -- [S.n.], 2000. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 Cusco. -- Inner Journeys. -- Computer data (1 directory). -- [S.n.], 2003. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-Cutter, Charles A. -- Rules for a printed dictionary catalog. -- Computer data. -- Washington : Government Printing Office, 1876. -- Title from Google Books desc. -- Mode of Access: World Wide Web (http://books.google.com/books?id=rj-f4-Ps-AkC). 1. 025.3
+Cutter, Charles A. -- Rules for a printed dictionary catalog. -- Computer data. -- Washington : Government Printing Office, 1876. -- Title from Google Books desc. -- Mode of Access: World Wide Web (http://books.google.com/books?id=rj-f4-Ps-AkC) -- DDC 025.3
 
 
-Cutter, O.A. -- Cutter's three figure author table. -- Computer data (1 file : 50.6 mb). -- Englewood, CO : Libraries Unlimited, Inc., 1969. -- Title from resource. -- File name: (10064.pdf). -- DBID 10064. 1. 025.4
+Cutter, O.A. -- Cutter's three figure author table. -- Computer data (1 file : 50.6 mb). -- Englewood, CO : Libraries Unlimited, Inc., 1969. -- Title from resource. -- File name: (10064.pdf). -- DBID 10064 -- DDC 025.4
 
 Damm, Nate. -- Life on foot. -- Computer data (1 file : 1977 KB). -- [S.n.], 2014. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00K5YVRF8. -- DDC 917.
 Damon, Nick. -- Shadow of Oz. -- 1st ed. -- Computer data (1 file : 557 KB) -- Secret Origin Press, 2012. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 
-Daniel, Anthony. -- [Hero motifs]. -- Computer data (1 file : 58 kb) -- [S.l.] : A. Daniel, 2007. -- Title supplied by cataloger. -- File name: (1455.doc) -- DBID 1455. 1. 398.
+Daniel, Anthony. -- [Hero motifs]. -- Computer data (1 file : 58 kb) -- [S.l.] : A. Daniel, 2007. -- Title supplied by cataloger. -- File name: (1455.doc) -- DBID 1455 -- DDC 398.
 
 Daniels, Valmore. -- Forbidden the stars. -- Computer data (1 file). -- V.D., c2010. -- System requirements: Kobo app. -- Title from title page. -- ISBN 9780986659324. -- DDC 813.
 
 
-Darling, Alistair. -- Back from the brink. -- Computer data (1 file). -- [S.l.] : Atlantic, 2011. -- on Asus Transformer Tablet. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 1511. 1. 320.941.
+Darling, Alistair. -- Back from the brink. -- Computer data (1 file). -- [S.l.] : Atlantic, 2011. -- on Asus Transformer Tablet. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 1511 -- DDC 320.941.
 
 Davidson, Basil. -- African Kingdoms / by Basil Davidson and the editors of Time-life books. -- Time-Life books, c1966. -- 192 p. -- DDC 916.
 
@@ -1542,10 +1542,10 @@ De Kler, F.W. -- The last trek -- a new beginning. -- St. Martin's Press, c1998.
 > The first impression that he [Mandella] conveyed  were dignity, courtesy and self-confidence. He also had the ability to radiate unusual  warmth and charm - when he so chose. He was every inch a Tembu patriarch and bore the mantle of authority with the ease of those who are not troubled by self-doubt. -p. 157 -q
 > Ch. 16: De Klerk becomes president. Meeting with Mandella. -s
 
-De Rosa, Cathy. -- Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes. -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005. -- Computer data (1 file : 4.43 mb). -- Title from cover. -- File name: (0349.pdf). -- DBID 0349. 1. 020.
+De Rosa, Cathy. -- Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes. -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005. -- Computer data (1 file : 4.43 mb). -- Title from cover. -- File name: (0349.pdf). -- DBID 0349 -- DDC 020.
 
 
-De Villers, Marq. -- Timbuktu / [by] Marq De Villiers and Sheila Hirtle. -- New York : Walker & Co., 2007. -- xiv, 202 p. -- ISBN 0802714978. -- DBID 2916. 1. 966.
+De Villers, Marq. -- Timbuktu / [by] Marq De Villiers and Sheila Hirtle. -- New York : Walker & Co., 2007. -- xiv, 202 p. -- ISBN 0802714978. -- DBID 2916 -- DDC 966.
 
 Death of Ivan Ilych. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1727. -- DDC 891.
 > Ivan Ilych's life had been most simple and most ordinary and therefore most terrible. -p. -q
@@ -1589,17 +1589,17 @@ Deep Forest (Musical group). -- Boheme. -- Computer data. -- S.l: Columbia, 1995
 
 Deep Forest (Musical group). -- Made in Japan. -- Computer data. -- New York, NY: Epic/550 Music, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-Delsey, Tom. -- RDA database implementation scenarios. -- Computer Data (1 file : 55 kb) -- [S.l. : s.n.], 2007. -- File name: (2007.pdf). -- DBID 6569. 1. 025.3.
+Delsey, Tom. -- RDA database implementation scenarios. -- Computer Data (1 file : 55 kb) -- [S.l. : s.n.], 2007. -- File name: (2007.pdf). -- DBID 6569 -- DDC 025.3.
 
-Delta College. Library. -- Outline of the Library of Congress Classification system. -- Computer data (1 file : 46 kb). -- [University Center, Mich. : Delta College, n.d.] -- Title from p. 1. -- File name: (1690.doc). -- DBID 1690. 1. 025.4.
+Delta College. Library. -- Outline of the Library of Congress Classification system. -- Computer data (1 file : 46 kb). -- [University Center, Mich. : Delta College, n.d.] -- Title from p -- DDC -- File name: (1690.doc). -- DBID 1690 -- DDC 025.4.
 
-Delta College. Library. -- Publication Manual of the American PsychologicalAssociation (APA) for Citing Resources in Print Form. -- Computer data (1 file : 55 kb). -- [University Center, Mich. : Delta College, 2006]. -- Title from resource. -- File name: (1366.doc). -- DBID 1366. 1. 808.
+Delta College. Library. -- Publication Manual of the American PsychologicalAssociation (APA) for Citing Resources in Print Form. -- Computer data (1 file : 55 kb). -- [University Center, Mich. : Delta College, 2006]. -- Title from resource. -- File name: (1366.doc). -- DBID 1366 -- DDC 808.
 
 
 Department of Defense. Chief Information Officer. -- Cloud computing strategy. -- Computer data (1 file : 1.6 mb) -- [Washington, D.C. : Dept. of Defense], 2012. -- Title from cover. -- File name: (3000.pdf) -- DBID 3100. 1.004.6
 
 > Abraham Lincoln, Vampire Hunter, by Seth Grahame-Smith. It is a work of fiction, and takes place in the United States in the 18th century. The main characters include Abraham Lincoln, and Henry Sturges.  The story begins with a shopkeeper, Seth Grahame-Smith, who is given a 'secret' diary written by Abraham Lincoln detailing his vampire hunting. The main events of the story include Lincoln's mother's death (who does from the hands of a vampire), his meeting Henry (who saves him after a vampire hunt goes very wrong), his entry into politics (and subsequent surprise that Washington seems teeming with vampires and the friends of vampires), and the civil war. The story ends with Lincolns' death; and Henry in 1963 meeting Martin Luther King Jr.  I would recommend this book to fans of alternative fiction and fantasy.  -p.  -b
-Parliament of World's Religions. Editorial Committee. -- Declaration toward a global ethic. -- Computer data (1 file) PWR, 1993. -- Mode of Access: World Wide Web (http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf). -- Title from p. 1. -- DDC 170.
+Parliament of World's Religions. Editorial Committee. -- Declaration toward a global ethic. -- Computer data (1 file) PWR, 1993. -- Mode of Access: World Wide Web (http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf). -- Title from p -- DDC -- DDC 170.
 > Irrevocable directives 1) a commitment to a culture of nonviolence and respect for life; 2) a commitment to a culture of solidarity and a just economic order; 3) a commitment to a culture of tolerance and a life of truthfulness; and 4) a commitment to a culture of equal rights and partnership between men and women. -f
 
 
@@ -1644,7 +1644,7 @@ Diamond, Jared. -- The world until yesterday. -- Penguin Books, c2012. -- xi, 49
 Adiemus. -- Adiemus: Songs of Sanctuary. -- Computer data. -- New York?: Virgin Records, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Dickens, Charles. -- The old curiosity shop. -- London : Penguin Books, 2000. -- xxxi, 575 p. -- ISBN 0140437428. -- DBID 3148. 1. 823.
+Dickens, Charles. -- The old curiosity shop. -- London : Penguin Books, 2000. -- xxxi, 575 p. -- ISBN 0140437428. -- DBID 3148 -- DDC 823.
 > Little Nell, 19th c., F. An orphan who works in her grandfathers curiosity shop. -p. -s
 > Kit, 18th c., M. -p. -f
 > Ch. 1: Nell, Kit, and the grandfather. The guy takes Nell home, and is concerned that the grandfather isn't able to take care of Nell. -s
@@ -1674,7 +1674,7 @@ Dockins, Brian. -- Betrayal of Magic / Brian Dockins (Author); Onaje Beal (Illus
 > Monsters were indeed alive and roaming the earth. -q
 
 
-Dodd, Sue. -- Cataloging machine-readable data files / Sue A. Dodd. -- Chicago : American Library Association, 1982. -- xix, 247 p. -- ISBN 0838903657. 1. 025.3.
+Dodd, Sue. -- Cataloging machine-readable data files / Sue A. Dodd. -- Chicago : American Library Association, 1982. -- xix, 247 p. -- ISBN 0838903657 -- DDC 025.3.
 
 
 Domville-Fife, Charles W. -- Among the wild tribes of the Amazon. -- DBID 3211. -- DDC 306.
@@ -1687,16 +1687,16 @@ Douglas, Karlton B. -- Griffin island. -- Computer data (1 file : 288 KB). -- [S
 
 Dowd, Thomas B. III. -- The transformation of a doubting Thomas. -- Computer data (1 file : 408 KB). -- [Published by the author, 2013?]. -- on ASUS Transformer Tablet. -- Title from cover. -- System requirements: Kindle app. -- DDC 650.
 
-Dragon, Debbie, -- The organized year. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader -- Title from p. 1. -- File name: 3237.pdf. -- IN Wise Bread. -- (Jan. 3, 2013). -- DDC 650.
+Dragon, Debbie, -- The organized year. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader -- Title from p -- DDC -- File name: 3237.pdf. -- IN Wise Bread. -- (Jan. 3, 2013). -- DDC 650.
 
 
-Drake, Miriam A. -- Academic library challenges. -- Computer data (1 file : 2.75 mb) -- Title from resource. -- File name: (9078.pdf). -- DBID 9078. -- IN Academic Libraries. -- Vol. 18, no. 9 (Nov. 2010). 1. 027.
+Drake, Miriam A. -- Academic library challenges. -- Computer data (1 file : 2.75 mb) -- Title from resource. -- File name: (9078.pdf). -- DBID 9078. -- IN Academic Libraries. -- Vol. 18, no. 9 (Nov. 2010) -- DDC 027.
 
 
-Driscoll, Sally. -- [Hiking.] -- Computer data (1 file : 1.6 mb) -- Title from p. 1. -- File name: (10123.pdf) -- DBID 10123. -- IN Hobby Profile. -- [United States?] : Great Neck Publishing, 2007. 1. 796.51.
+Driscoll, Sally. -- [Hiking.] -- Computer data (1 file : 1.6 mb) -- Title from p -- DDC -- File name: (10123.pdf) -- DBID 10123. -- IN Hobby Profile. -- [United States?] : Great Neck Publishing, 2007 -- DDC 796.51.
 
 
-Dube, Ryan. -- Be the king of the world with Imperia Online. -- Computer file (1 file : 15 kb). -- Title from resource. -- File name: (3005.txt). -- DBID 3005 -- IN MakeUseOf.com. -- (May 4, 2012). 1. 794.8
+Dube, Ryan. -- Be the king of the world with Imperia Online. -- Computer file (1 file : 15 kb). -- Title from resource. -- File name: (3005.txt). -- DBID 3005 -- IN MakeUseOf.com. -- (May 4, 2012) -- DDC 794.8
 
 Ducie, Joe. -- Distant star. -- Computer data (1 file). -- Cedar Sky Publishing, 2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com. -- ASIN B0085SYSDE. -- DDC 813.
 
@@ -1731,14 +1731,14 @@ Ducie, Joe. -- Distant star. -- Computer data (1 file). -- Cedar Sky Publishing,
 Dudley, Anne. -- The 10th kingdom / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.] -- Computer data. -- New York: Hallmark Entertainment, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
 
-Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file : 1.4 mb). -- Title from resource. -- File name: (10065.pdf). -- DBID 10065. -- ISSN 0318-6954. -- IN Archicaria. -- No. 58 (Aug. 1, 2004). 1. 027.
+Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file : 1.4 mb). -- Title from resource. -- File name: (10065.pdf). -- DBID 10065. -- ISSN 0318-6954. -- IN Archicaria. -- No. 58 (Aug. 1, 2004) -- DDC 027.
 
 [Duke and Dutchess of Windor's home in France]. -- Computer data (1 file : 63.9 KB). -- [S.n., n.d.] -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger. -- Filename: 3308.mp4. -- DDC 724.
 
-Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079. 1. 811.eBooks habit. -- Computer data. -- eBooksHabit, c2012. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL ebookshabit.com. -- DDC 002.
+Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.eBooks habit. -- Computer data. -- eBooksHabit, c2012. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL ebookshabit.com. -- DDC 002.
 
 
-Edberg, Henrik. -- 42 ways to make life simpler. -- Computer data (1 file : 9 kb) -- Title from resource. -- File name: (10156.txt) -- DBID 10156. -- IN The Positivity Blog. -- (Feb. 24, 2011). 1. 646.7.
+Edberg, Henrik. -- 42 ways to make life simpler. -- Computer data (1 file : 9 kb) -- Title from resource. -- File name: (10156.txt) -- DBID 10156. -- IN The Positivity Blog. -- (Feb. 24, 2011) -- DDC 646.7.
 
 
 Edgar, Neal L. -- What every librarian should know about proposed changes in cataloging rules. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3331.pdf. -- IN American Libraries. -- (Nov. 1975). -- DDC 025.3
@@ -1851,10 +1851,10 @@ Ehrman, Bart D. -- How Jesus became God. -- HarperCollins, c2014. -- 404 p. -- I
 > Christianity was far more focused on 'theological truth' than traditional Greek or Roman religions and palced greater emphasis on 'sacrificial practice'. -p. 348 -q
 > If Constantine did not much like the controversy of his own day, he would have despised what was to come. -p. 351 -q
 
-Ehrman, Bart D. -- The new testament. -- New York : Oxford University Press, 2004. -- xxxiii, 506 p. -- ISBN 0195154622. 1. 225.6.
+Ehrman, Bart D. -- The new testament. -- New York : Oxford University Press, 2004. -- xxxiii, 506 p. -- ISBN 0195154622 -- DDC 225.6.
 
 > 'I. What is the New Testament A. diversity in Early Christianity 1. Jewish Christian Adoptionists a. Christ adapted by God to be Gods son b. Jesus was not divine. c. continue to follow OT rules except sacrifice d. considered paul a heritic. 2. Marcionite Christians a. Followed Marcion. b. Gospel over law. c. Two gods in the bible. d. Jesus completely divine 1) a phantasm 3. Gnostic Christians a. claimed a special knowledge for salvation. b. Jesus only one of the divine beings c. Salvation meant excaping the material world. 4. Proto-orthodox a. Jesus as both human and divine B. NT 1. 27 books 2. ~15 authors 3. Written btw 50 and 120 AD 4. Formalized by Athanasius in 367 AD.' -p. -o
-> 'II The world of early Christian Traditions A. The problems 1. Where do you start reading? a. Matthew, the first book of the bible, isn't the first one written. b. 1Thes. is, but paul never met Jesus; lived after he died 2. Conditions of 1st century Rome. a. No middle class b. travel was horrendous B. Religiosity in the Greco-roman world. 1. Terms a. Pagan: Anyone who is not a Jew or a Christian. b. Gentile: Anyone who is not a Jew; christian or not. 2. Nature of religion a. no hierarchy b. no creeds c. no ethical committments d. no sacred writings e. no church/state separation f. no exclusive comittments g. ritual was important 3. The Divine Pyramid a. The one God b. The great Gods 1) mentioned in the Iliad and Odyssey c. Daimonia, loal gods, etc. d. Divine beings, demigods, immortals, heros e. Humans. B. Judiasm in the Greco-Roman world. 1. Cultic practices a. animal sacrifices b. prayer 2. Monotheistic 3. The Covenant a. The Law b. The temple 1) perhaps the size of 25 football fields. 4. Jewish Sects a. Pharisees 1) believed in resurrection b. Sadduccees 1) the aristicrates c. Essenes 1) produced dead sea scrolls 2) Conservative d. Fourth Philosophy 1) militant' -p. -o
+> 'II The world of early Christian Traditions A. The problems 1. Where do you start reading? a. Matthew, the first book of the bible, isn't the first one written. b. 1Thes. is, but paul never met Jesus; lived after he died 2. Conditions of 1st century Rome. a. No middle class b. travel was horrendous B. Religiosity in the Greco-roman world -- DDC Terms a. Pagan: Anyone who is not a Jew or a Christian. b. Gentile: Anyone who is not a Jew; christian or not. 2. Nature of religion a. no hierarchy b. no creeds c. no ethical committments d. no sacred writings e. no church/state separation f. no exclusive comittments g. ritual was important 3. The Divine Pyramid a. The one God b. The great Gods 1) mentioned in the Iliad and Odyssey c. Daimonia, loal gods, etc. d. Divine beings, demigods, immortals, heros e. Humans. B. Judiasm in the Greco-Roman world -- DDC Cultic practices a. animal sacrifices b. prayer 2. Monotheistic 3. The Covenant a. The Law b. The temple 1) perhaps the size of 25 football fields. 4. Jewish Sects a. Pharisees 1) believed in resurrection b. Sadduccees 1) the aristicrates c. Essenes 1) produced dead sea scrolls 2) Conservative d. Fourth Philosophy 1) militant' -p. -o
 > 'V. St. Mark A. Rooted in a Jewish worldview 1. Jesus as Messiah a. Future king of Israel b. A cosmic deliveror 2. The Son of God a. A king of Israel b. Entire nation of Israel B. Pictures of Jesus 1. Son of god a. opposed by authorities b. opposed by his unique status 2. The misunderstood Son of God a. not knowing where his power comes from 3. (And yet?.) The achnowledge son of God 4. The suffering son of God 5. The criucified son of God 6. The vindicated son of God c. Mark and his readers 1. Written for non-jews 2. Converted from paganism 3. ''The way clealy still part of Judiasm d. The ''Son of Man.'' 1. Somebody divine' -p. -o
 > 'III Early Traditions A. Oral tradition 1. Mark written ~70AD 2. Matthew and luke written ~80AD 3. John written ~90AD B. Moral truth, not historical truth' -p. -o
 > 'IV. Literary and historical introduction A. Gospels were a form of ancient Biographies. B. Antient biographies portrayed essential traits in a chronological order C. Therefore, early Christians wrote about the man they worship as the 'Son of God who died dfor the salvation of the world.' -65' -p. -o
@@ -1874,7 +1874,7 @@ Ehrman, Bart D. -- The new testament. -- New York : Oxford University Press, 200
 > Empathy is the ability to understand another person's way of thinking. -p. 74 -q
 > There is always something we can do. If we can no longer cure, then we can ease the suffering. If we cannot do that, we can comfort. And if we can no longer comfort, we can simple be there. -p. 90 -qComparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards / [by] Amy P. Eklund, Shawne D. Miksa, William E. Meon... [et al.] -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3236.pdf. -- DOI 10.1080/19386380903095073. -- IN Journal of Library Metadata. -- Vol 9 (2009). -- ISSN 1937-5034. -- DDC 025.3.
 
-Elrod, J. McRee. -- Streaming videos. -- Computer data. -- [S.l. : Special Libraries Cataloguing, c2010. -- Title from p. 1. -- File name: (10074.pdf). -- DBID 10074. 1. 025.3.
+Elrod, J. McRee. -- Streaming videos. -- Computer data. -- [S.l. : Special Libraries Cataloguing, c2010. -- Title from p -- DDC -- File name: (10074.pdf). -- DBID 10074 -- DDC 025.3.
 
 Elton, John. -- Love Songs. -- Computer data. -- New York, NY: Mercury, 1996. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
@@ -1907,7 +1907,7 @@ Emerson, Keven. -- The lost code. -- Katherine Tegen Books, c2012. -- 435 p. -- 
 
 Emerson, Winston. -- The object / Winston Emerson (Author); Justin Comley (Illustrator). -- Computer data (1 file : 386 KB). -- [S.n., n.d.] -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ISBN 9781477635087. -- AISN B009ZVFDBG. -- DDC 813.
 
-Encyclopaedia Britannica Online. -- Computer data. -- [S.l. : s.n., n.d.]. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.loc.gov/cgi-bin/zgate?ACTION=INIT&FORM_HOST_PORT=/prod/www/data/z3950/encybrit.html,z3950.eb.com,210&CI=074416). -- DBID 3057. 1. 031.
+Encyclopaedia Britannica Online. -- Computer data. -- [S.l. : s.n., n.d.]. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.loc.gov/cgi-bin/zgate?ACTION=INIT&FORM_HOST_PORT=/prod/www/data/z3950/encybrit.html,z3950.eb.com,210&CI=074416). -- DBID 3057 -- DDC 031.
 
 > His [Saint-Exupery] works exalt perilous adventures at the cost of life as the highest realization of man's vocation. -q
 > The growing sadness and pessimism in Saint-Exupery's view of man appears in Citadelle (1948; The Wisdom of the Sands, 1952), a posthumous volume of reflections that show Saint-Exupery's persistent belief that man's only lasting reason for living is as repository of the values of civilization. -q
@@ -1919,7 +1919,7 @@ The empty mirror. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1728. -- DDC 284.3
 
 
 
-Ende, Michael. -- The neverending story / Michael Ende ; translated from the German by Ralph Manheim ; illustrated by Roswitha Quadflieg. -- New York, New York : Penguin Books, 1984. -- 377 p. -- ISBN 0140074317. -- DBID 3092. 1. 833.
+Ende, Michael. -- The neverending story / Michael Ende ; translated from the German by Ralph Manheim ; illustrated by Roswitha Quadflieg. -- New York, New York : Penguin Books, 1984. -- 377 p. -- ISBN 0140074317. -- DBID 3092 -- DDC 833.
 
 > Ch.12. The empress speaks with the old man of wondering mountain  -p. 157-167 -s
 > Only the right name gives beings and things their reality... a wrong name makes everything unreal. That's what lies do. -The Childlike Empress.  -p. 149 -q
@@ -1931,7 +1931,7 @@ Enigma (Musical group). -- The Cross of Changes. -- Computer data. -- New York: 
 Enya. -- A Day Without Rain. -- Computer data. -- Burbank, CA: Reprise Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
 
-Enya. -- Amarantine. -- Computer data. -- [S.l.: Reprise, 2005.] -- on 1 external hard drive. -- Title from CD. -- File name: (music). 1. 781.67.
+Enya. -- Amarantine. -- Computer data. -- [S.l.: Reprise, 2005.] -- on 1 external hard drive. -- Title from CD. -- File name: (music) -- DDC 781.67.
 
 
 Enya. -- Paint the Sky with Stars: The Best of Enya. -- Computer data. -- Burbank, CA: Reprise Records, 1997. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
@@ -1945,7 +1945,7 @@ Enya. -- The Celts. -- Computer data. -- Burbank, CA: Reprise, 1992. -- on 1 ext
 Enya. -- Watermark. -- Computer data. -- New York, NY: Reprise, 1988. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
 
-Ercegovac, Zorana. -- Minimal level cataloging. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- Filename: 3329.pdf. -- IN Journal of the American Society for Information Science. -- (Jun. 1998). -- DDC 025.3.
+Ercegovac, Zorana. -- Minimal level cataloging. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3329.pdf. -- IN Journal of the American Society for Information Science. -- (Jun. 1998). -- DDC 025.3.
 > There is evidence attesting that most academic library users at the University of Bath are not interested in more than five bibliographic elements (e.g.. Seal 1983; Stamm 1996). -q
 > others have experimented with their own in-house standards of what minimal-level cataloging should be (e.g., Stanford's Freund, 1990; Northwestem's Homy, 1991; Stamm, 1996; Michigan's Marko & von Wahlde, 1986). -q
 > Core Record Pilot Project -f
@@ -1953,16 +1953,16 @@ Ercegovac, Zorana. -- Minimal level cataloging. -- Computer data (1 file). -- on
 Escobar, Alesha. -- The tower's alchemist. -- Computer data (1 file). -- A.E., c2011. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B005QSFXC6. -- DDC 813
 
 
-Essex County Greenbelt [homepage]. -- Computer data. -- [Mass.?] : ECGA, 2011- -- Mode of Access: World Wide Web (http://www.ecga.org/). -- DBID 3062. 1. 796.51.
+Essex County Greenbelt [homepage]. -- Computer data. -- [Mass.?] : ECGA, 2011- -- Mode of Access: World Wide Web (http://www.ecga.org/). -- DBID 3062 -- DDC 796.51.
 
-Essex County Trail Association [homepage]. -- Computer file. -- [Mass.?] : ECTA, 2011- -- Title from home page. -- Mode of Access: World Wide Web (http://www.ectaonline.org/). -- DBID 3061. 1. 796.51.
+Essex County Trail Association [homepage]. -- Computer file. -- [Mass.?] : ECTA, 2011- -- Title from home page. -- Mode of Access: World Wide Web (http://www.ectaonline.org/). -- DBID 3061 -- DDC 796.51.
 
 
-Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Conn. : Quorum Books, 2002. -- xii, 266 p. -- ISBN 1567205623. 1. 174.
+Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Conn. : Quorum Books, 2002. -- xii, 266 p. -- ISBN 1567205623 -- DDC 174.
 > 'II. Spirituality at work by Ian I. MitroffA. Results of study 1. 92% of managers favor integrating spiritual values. 2. There is a lack of models and tools for integration. 3. The spiritual organization has specific charactoristics 4. Crisis is usually the starting point 5. ''Religion'' and ''Spirituality'' percieved differentlyB The paths 1. Religious-based organization 2. Evolutionary organization 3. Recovering organization 4. Socially responsible organization 5. Values-based organization' -p. 35- -o
 > ...spirituality at work would allow them to live a more integrated and more systemic life? -p. 35 -q
 > 'VI. The Cooperative by Claude Beland A. Desjardins 1. A banking company in Quebec, Canada. 2. Cooperative ethics 3. Began with Alphones Desjardin B. Principles 1. solidarity 2. Mutual help 3. fraternity 4. charity 5. Education the public about a. democracy b. economy c. responsibility d. solidarity' -p. 77- -o
-> 'XI. For a spiritual ethic of work : some inspiriation from Simone Weil. by Thierry C. Pauchant. 1. Limit race for dominiation 2. Rediscover notion of limit 3. See institutions as both good and evil 4. Go beyond economic considerations 5. Secure and democritize work 6. Favor concordance btw thought and action 7. Root thought in person 8. Reinvent politics 9. Encourage ability of subtle mindfulness' -p. 130-146 -o
+> 'XI. For a spiritual ethic of work : some inspiriation from Simone Weil. by Thierry C. Pauchant -- DDC Limit race for dominiation 2. Rediscover notion of limit 3. See institutions as both good and evil 4. Go beyond economic considerations 5. Secure and democritize work 6. Favor concordance btw thought and action 7. Root thought in person 8. Reinvent politics 9. Encourage ability of subtle mindfulness' -p. 130-146 -o
 > 'II. Questions A. The major issues 1. Is the manuscriput authentic 2. Is the letter really from Clement? B. Looking at the ''profiler'' of the document 1. The familiar gospel of Mark 2. The Secret Gospel 3. Oral Mark 4. The Carpocratian form of the gospel' -p. 19-54 -o
 > 'III. The Secret Gospel in terms of liturgy A. Liturgical elements 1. The resurrection themes 2. A linen cloth 3. A nocturnal initiation B. Alexandra 1. Baptism assoicated w/ John 2. Was the secret gospel read in secret initiations rites in church? a. Doesn't seem to fit the alexandrian pattern for epiphany C. Secret gospel doesn't seem to have a lot to do with Alexandrian worship.' -p. 55-90 -o
 > 'IV. Content of Secret Gospel A. The homosexual encounter 1. simply seems to be a mosiac construction of selections from canonical gospels. 2. Text shows a series of double entendres a. Implying ancient writing knew english 3. On Greek homosexuality a. btw adult male and younger male. 4. The Uranian homosexual subculture a. 19th century english universities b. more misogynistic c. less concerned w/ greek idea d. particualarly drawned to the high chruch e. drawn to Oscar Wilde's Salome. B. Jesus regecting a group of women 1. Seems also to be a mosaic 2. Made up of apocryphal scriputres C. Smiths interpretation of the Gospel 1. Using also the same mosaic of a. Jewish hymns b. Gnositic writings c. Byzantine christian liturgy' -p. 91-225 -o
@@ -1972,7 +1972,7 @@ Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Co
 Evacuate Earth. -- Computer data (1 file : 334 MB). -- National Geographic, [20--?] -- on 1 external hard drive. -- System requirements: USB drive : MP4 file reader. -- Title from title screen. -- Filename: 3317.mp4. -- DBID 3317. -- DDC 363.3
 
 
-Evans, Joanne. -- Utilizing systems development methods in archival systems / [by] Joanne Evans and Nadav Rouche. -- Computer file (1 file : 258 kb). -- Title from resource. -- File name: (10066.pdf). -- DBID 10066. -- DOI 10.1007/s10502-005-2598-4. -- IN Archival Science. -- Vol. 4 (2004). 1. 027.
+Evans, Joanne. -- Utilizing systems development methods in archival systems / [by] Joanne Evans and Nadav Rouche. -- Computer file (1 file : 258 kb). -- Title from resource. -- File name: (10066.pdf). -- DBID 10066. -- DOI 10.1007/s10502-005-2598-4. -- IN Archival Science. -- Vol. 4 (2004) -- DDC 027.
 Evangelism. -- Computer data. -- 2000. -- Mode of Access: World Wide Web (http://www.uua.org/growth/midsize/conferences/2000/129093.shtml). -- ON [the] Unitarian Universalist Association [website]. -- URL http://www.uua.org. -- DDC 289.1
 > Before we can be an inviting church that attracts and keeps visitors, we have to know who we are, what we stand for, what we have to offer. It arises from the deepest place of our sense of what is sacred, of what it means to live religiously. -q
 > Evangelism is founded on the beliefs that people have a need for religious community, for deep relationships, for spiritual exploration, for social involvement. -q
@@ -1981,7 +1981,7 @@ and isolation.  -q
 > Evangelism is, then, a religious orientation based on an eagerness to share something precious, to share our good news. Evangelism goes to the core of a church's culture and identity. -q
 > The beginning of a transition to a culture of evangelism, a culture of reaching out and sharing, is for our members to touch again the source of their connection to their faith. 
 
-Evans, Robert. -- Robert's rules of order. -- Computer data (1 file) -- [S.l.] : Da Capo Press, 2004. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3036. 1. 060.
+Evans, Robert. -- Robert's rules of order. -- Computer data (1 file) -- [S.l.] : Da Capo Press, 2004. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3036 -- DDC 060.
 
 
 Evil and the response of world religion / edited by William Cenkner. -- 1st ed. -- St. Paul, Minn. : Paragon House, 1997. -- ix, 256 p. -- ISBN 1557787581. -- DDC 291.
@@ -2018,9 +2018,9 @@ Evil and the response of world religion / edited by William Cenkner. -- 1st ed. 
 
 Every nation kneeling : and other services of prayer and praise / compiled by Will Hayes. -- Computer data (1 file). -- The Order of the Great Companions, 1954. -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- title from title page. -- Filename: 3364.pdf. -- DDC 289.1
 
-Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. -- Grand Rapids, Mich. : William B. Eerdmans Pub., 2004. -- xix, 297 p. -- ISBN 0802821200. 1. 238.
+Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. -- Grand Rapids, Mich. : William B. Eerdmans Pub., 2004. -- xix, 297 p. -- ISBN 0802821200 -- DDC 238.
 
-Exploring New Hampshire's White Mountains. -- 1st ed. -- Scale 1:62,500. and 1:100,000. -- Twin Mt., N.H. : Wilderness Map Co., 2009. -- 2 maps on 1 sheet. -- ISBN 0978593242 : $7.95. -- DBID 3123. 1. 912.742.
+Exploring New Hampshire's White Mountains. -- 1st ed. -- Scale 1:62,500. and 1:100,000. -- Twin Mt., N.H. : Wilderness Map Co., 2009. -- 2 maps on 1 sheet. -- ISBN 0978593242 : $7.95. -- DBID 3123 -- DDC 912.742.
 
 Fagan, Brian. -- The first North Americans. -- Thames & Hudson, 2011. -- 272 p. -- ISBN 9780500021200. -- DDC 970.
 
@@ -2059,10 +2059,10 @@ Farley, Margaret. -- Just love. -- DBID 3031.
 Farish, Ryan. -- Life in stereo. -- Computer data. -- RYTONE Entertainment, LLC., c2012. -- on 1 external hard drive. -- System requirments: USB drive; MP3 file reader. -- File directory: 3275. -- DBID 3275. -- DDC 781.67.
 
 
-Fattahi, Rahmatollah. -- AACR2 and catalogue production technology. -- Computer data (1 file : 108 kb) -- [S.l. : s.n.], 2007. -- Title from resource. -- File name: (1079.pdf) -- DBID 1079. 1. 025.3
+Fattahi, Rahmatollah. -- AACR2 and catalogue production technology. -- Computer data (1 file : 108 kb) -- [S.l. : s.n.], 2007. -- Title from resource. -- File name: (1079.pdf) -- DBID 1079 -- DDC 025.3
 
 
-Ferlo, Roger. -- Opening the Bible. -- Cambridge, Mass. -- Cowley Publicatinos, c1997. -- xv, 153 p. -- ISBN 1561011444. -- LJLT 1713. 1. 220.
+Ferlo, Roger. -- Opening the Bible. -- Cambridge, Mass. -- Cowley Publicatinos, c1997. -- xv, 153 p. -- ISBN 1561011444. -- LJLT 1713 -- DDC 220.
 > 'When Jesus read in the synagogue, it is possible that he used the Targum [Arabic translation/parahrase of the Hebrew Scriptures) as the starting place for his dramatic reinterpretation of Scripture.' -p. 35 -q
 > 'For now, just notice that the gospel writer (rf. LK. 4:16) does not say explicitly that Jesus read the Isiah scripture aloud. Of course, the episode makes no sence unless he did.' -p. 17 -q
 > 'By the end the second century, this new approach to the Hebrew Bible (midrash) had caused an all but irreparable rift between Jew and Christian in their reading of the sacred texts they shared.' -p. 40 -q
@@ -2134,7 +2134,7 @@ Fletcher, Joseph F. -- Situation ethics. -- Philadelphia : Westminster Press, [1
 > 'Three Approaches -by Joseph FletcherI. Three Approaches to Moral Theology A. Legalism 1. Two Types a. Reason (based on natural law) b. Revelation (based on scripture) B. Antinomianism (literally 'against law') 1. Types a. libertinism 1) Saved by grace, so who cares? b. special knowledge 2) We just know c. existentialism (Sartre) 1) unity or coherence in life is 'bad faith' C. Situational 1. Ethical principles are not codes' -p. -o
 > They [the legalists] have lost touch with the headaches and heartbreaks of life. -p. -q
 
-Flynn, Martin. -- From dominance to decline? The future bibliographic discovery, access, and delivery. -- Computer data (1 file : 69 kb) -- [S.l. : s.n.], 2010. -- Title from resource. -- File name: (10056.pdf). -- DBID 10056. 1. 025.3.
+Flynn, Martin. -- From dominance to decline? The future bibliographic discovery, access, and delivery. -- Computer data (1 file : 69 kb) -- [S.l. : s.n.], 2010. -- Title from resource. -- File name: (10056.pdf). -- DBID 10056 -- DDC 025.3.
 
 The foresters. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1729. -- DDC 823.
 > '?but with the whole passion of love that existed in her nature, she embraced her husband's neck, and with every kindest and most encouraging word, addressed to his own ear, mingled prayers of holiest fervour for his peace of mimd to the Giver of all merices.' -p. 38-39 -q
@@ -2144,16 +2144,16 @@ Forbes, M.R. -- His dark empire. -- Computer data (1 file : 645 KB). -- Protocul
 
 Forseth, Mike. -- Free TV over the air. -- Computer data (1 file). -- Invigorating Publishing, c2014. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- ASIN B00IX0BTCM. -- DDC 643.
 
-Fort Blaster [website]. -- Computer data. -- Title from webpage header. -- Mode of Access: World Wide Web (http://www.freewebarcade.com/game/fort-blaster-ahoy-there/) -- DBID 3085. -- IN FreeWebArchade. 1. 794.8.
+Fort Blaster [website]. -- Computer data. -- Title from webpage header. -- Mode of Access: World Wide Web (http://www.freewebarcade.com/game/fort-blaster-ahoy-there/) -- DBID 3085. -- IN FreeWebArchade -- DDC 794.8.
 
 
-Foster, Andrea L. -- New programs teach undergraduates how to use the Internet and the online card catalog in search of the best sources. -- Computer data (1 file : 15 kb) -- Title from resource. -- File name: (1448.doc) -- DBID 1448. -- IN The Chronicle of Higher Education. -- Vol. 53, no. 27 (Mar. 9, 2006). 1. 025.5.
+Foster, Andrea L. -- New programs teach undergraduates how to use the Internet and the online card catalog in search of the best sources. -- Computer data (1 file : 15 kb) -- On external hard drive. -- Title from resource. -- File name: (1448.doc) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1448.txt) -- DBID 1448. -- IN The Chronicle of Higher Education. -- Vol. 53, no. 27 (Mar. 9, 2006) -- DDC 025.5.
 
 
 
 Fortney, Ryan S. -- PaxCorpus / Ryan S. Fortney, Author; Anastasia Rivera, Editor; Leah Moore, Illustrator. -- Computer data (1 file : 501 KB). -- [S.n.], 201-? -- System requirements: Kindle app. -- Title from Amazon.com. -- ASIN B004XMY84U. -- DDC 813.
 
-Four faces of Jesus. -- [S.l. : s.n., n.d.] -- [1] v. 1. 232.
+Four faces of Jesus. -- [S.l. : s.n., n.d.] -- [1] v -- DDC 232.
 
 > 'Luke, like Mark, sought out others in compiling his portrait?' -p. -q
 > 'A. Mark 1. Writing for a Roman Audience B. Matthew 1. Written in Antioch, Syria. 2. Written for Jews; a ''new moses'' 3. Works similar to a catechism 4. A work of several discources a.The Sermon on the Mount (Matthew 5:3-7:27) b. The Missionary Discourse (Matthew 10:5-42) c. The Parable Discourse (Matthew 13:3-52) d. The Church Community Discourse (Matthew 18:3-35) e. The Eschatological (Last Things) Discourse (Matthew 24:4-25:46) C. Luke 1. Achaia D. John 1. Jesus is divine.' -p. -o
@@ -2167,34 +2167,34 @@ Four faces of Jesus. -- [S.l. : s.n., n.d.] -- [1] v. 1. 232.
 > He doesn't like big social gatherings much, after all, despite having an easier time with it, since he met Evan.
 > They doesn't say any vows;
 
-Fox, Michael. -- Professional training for Encoded Archival Description in Europe. -- Computer data (1 file : 586 kb). -- Title from resource. -- File name: (10067.pdf). -- DBID 10067. -- IN Journal of archival organization. -- Vol. 3, no. 2/3 (Apr. 1, 2005). -- ISSN 1533-2748. 1. 025.3.
+Fox, Michael. -- Professional training for Encoded Archival Description in Europe. -- Computer data (1 file : 586 kb). -- Title from resource. -- File name: (10067.pdf). -- DBID 10067. -- IN Journal of archival organization. -- Vol. 3, no. 2/3 (Apr. 1, 2005). -- ISSN 1533-2748 -- DDC 025.3.
 Framework for a feminist ethics. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1037. -- DDC 170.
 > '?the analysis of the root of oppression is a key factor in feminist ethics? Self-determination for woemn, autonomy, and an inviolable sence of embodiedness figure prominently in all feminists' visions of a new social order.' -p. -q
 > A. Types of Feminist Ethics 1. Radical feminist perspective 2. Sex-rolism 3. Socialist feminism 4. Marxist-Leninist feminism -p. -o
 
-Franconia Notch [map] : Franconia Notch State Park, New Hampshire. -- Scale: 1:40,000) -- Twin Mt, NH : The Wilderness Map Company, c2007. -- 1 map. -- ISBN 0974843989 : :$2.95. -- DBID 3125. 1. 912.742.
+Franconia Notch [map] : Franconia Notch State Park, New Hampshire. -- Scale: 1:40,000) -- Twin Mt, NH : The Wilderness Map Company, c2007. -- 1 map. -- ISBN 0974843989 : :$2.95. -- DBID 3125 -- DDC 912.742.
 
 Franks, Daniel J. -- The order of Ascalon. -- Computer data (1 file). -- D. Franks, c2014. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
 
-Fredriksson, Berndt. -- Postmodernistic archival science : rethinking the methodology. -- Computer data (1 file : 1.1 mb) -- Title from resource. -- File name: (10068.pdf). -- DBID 10068. -- IN Archival Science. -- Vol. 3 (2003). 1. 027.
-Free Kindle books. -- Computer data. -- KFB.me, c2014. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://fkb.me/. 1. 813.
+Fredriksson, Berndt. -- Postmodernistic archival science : rethinking the methodology. -- Computer data (1 file : 1.1 mb) -- Title from resource. -- File name: (10068.pdf). -- DBID 10068. -- IN Archival Science. -- Vol. 3 (2003) -- DDC 027.
+Free Kindle books. -- Computer data. -- KFB.me, c2014. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://fkb.me/ -- DDC 813.
 
-Friday fun: Battle Panic. -- Computer file. -- Title from resource. -- File name: (3007.txt). -- DBID 3007. -- IN How-To Geek. -- [(May 5, 2012)]. 1. 794.8
+Friday fun: Battle Panic. -- Computer file. -- Title from resource. -- File name: (3007.txt). -- DBID 3007. -- IN How-To Geek. -- [(May 5, 2012)] -- DDC 794.8
 
 
 Friedman, Thomas L. -- Postcard from a free Egypt. -- Computer file (1 file : 85 kb). -- Title from resource. -- File name: (10042.pdf). -- DBID 10042. -- IN The New York Times. -- (Feb. 11, 2011). 1.962.
 
 
-Fritzier, James. -- Behavior toolkit / James Fritzier [and] Susan G. Friedman. -- Computer data (1 file : 574 kb). -- [S.l. : s.n.], c2010. -- Title from resource. -- File name: (10057.pdf). -- DBID 10057. 1. 153.
+Fritzier, James. -- Behavior toolkit / James Fritzier [and] Susan G. Friedman. -- Computer data (1 file : 574 kb). -- [S.l. : s.n.], c2010. -- Title from resource. -- File name: (10057.pdf). -- DBID 10057 -- DDC 153.
 
 Fulbright, Audette. -- UU Evangelism / sharing our good news. -- Computer data. -- c2006. -- Mode of Access: World Wide Web (http://www.uuroanoke.org/sermon/060521Sermon.htm). -- ON [the] Unitarian Universalist Church of Roanoke [website]. -- URL http://www.uuroanoke.org. -- DDC 289.1
 > This is what an evangelist believes: that there is a wonderful idea that should be shared, because it is likely to be gift to others; because it has the power to transform people and lives for the better; because it is an idea that can save something worth saving. -q
 > 1: Live the faith. 2: Be comfortable in talking about the faith. -o
-Fulghum, Robert. -- All I really need to know I learned in kindergarden. -- 25th anniversary ed. -- Computer data. -- Ballantine books, c2003. -- on 1 external hard drive. -- System requirements: USB drive; epub file reader. -- Title from title page. -- File name: 3355.epub. -- ISBN 9780345479105. -- LJLT 3355. 1. 128.
+Fulghum, Robert. -- All I really need to know I learned in kindergarden. -- 25th anniversary ed. -- Computer data. -- Ballantine books, c2003. -- on 1 external hard drive. -- System requirements: USB drive; epub file reader. -- Title from title page. -- File name: 3355.epub. -- ISBN 9780345479105. -- LJLT 3355 -- DDC 128.
 
 
-Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Adams, c1994. -- [1 v.] -- ISBN 0822630362. 1. 200.
+Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Adams, c1994. -- [1 v.] -- ISBN 0822630362 -- DDC 200.
 
 > 'Science is grounded in reason, religion in mystical experience? both provide genuine access to an incredibly rich universe.' -p. 25 -q
 > Supernaturalism -p. 25 -d
@@ -2202,22 +2202,22 @@ Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Ad
 > Twice-borness -p. 28 -d
 > Salvation -p. 29 -d
 
-Future libraries : change, options and how to get there. -- Computer data (1 file : 1032 kb). -- London : Local Government Group, c2011. -- Title from cover. -- File name: (3036.pdf). -- DBID 3036. 1. 027.4
+Future libraries : change, options and how to get there. -- Computer data (1 file : 1032 kb). -- London : Local Government Group, c2011. -- Title from cover. -- File name: (3036.pdf). -- DBID 3036 -- DDC 027.4
 
 
-Gabriel, Claire. -- Subject access to archives and manuscript collections: an historical review. -- Computer data (1 file : 730 kb). -- Title from resource. -- File name: (10069.pdf). -- DBID 10069. -- IN Journal of archival organization. -- Vol. 1, no. 4 (Oct. 10, 2002) -- ISSN 1533-2748. . 1. 025.3
+Gabriel, Claire. -- Subject access to archives and manuscript collections: an historical review. -- Computer data (1 file : 730 kb). -- Title from resource. -- File name: (10069.pdf). -- DBID 10069. -- IN Journal of archival organization. -- Vol. 1, no. 4 (Oct. 10, 2002) -- ISSN 1533-2748.  -- DDC 025.3
 
 
 Gaddy, Alex. -- Wicked roots / by Alex Gaddy and Aaron Roark. -- Computer data (1 file : 520 KB). -- [S.l., n.d.]. -- On ASUS transformer tablet. -- Title from cover. -- System requirements: Kindle app. -- ASIN B00A1QP6AC. -- DDC 813.
 Gandalf. -- Colors of a New Dawn. -- Computer data. -- Sausalito, CA: Real Music, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Gandhi, Mohandas K. -- An autobiography / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. -- Boston : Beacon Press, c1993. -- xxix, 528 p. -- ISBN 0807059099. 1. 923.
+Gandhi, Mohandas K. -- An autobiography / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. -- Boston : Beacon Press, c1993. -- xxix, 528 p. -- ISBN 0807059099 -- DDC 923.
 
 A generous communion. -- Computer data (1 file). -- Worship Panel of the General Assembly of Unitarian and Free Christian Churches, 2008. -- on 1 external hard drive. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 3365.pdf. -- DDC 289.1
 
 
-Georgetown-Rowley State Forest [webpage]. -- Computer data. -- [Mass.] : DCR, [2012?] -- Title from resource. -- Mode of Access: World Wide Web (http://www.mass.gov/dcr/parks/northeast/grow.htm) -- DBID 3098. 1. 796.51
+Georgetown-Rowley State Forest [webpage]. -- Computer data. -- [Mass.] : DCR, [2012?] -- Title from resource. -- Mode of Access: World Wide Web (http://www.mass.gov/dcr/parks/northeast/grow.htm) -- DBID 3098 -- DDC 796.51
 Georgetown-Rowley State Forest. -- July 1, 2012; 2 hrs.
 Georgetown-Rowley State Forest. -- June 9, 2012; 12pm-2pm. -- Fair; 77 F. -- Saw three snakes, and one frog.
 
@@ -2242,12 +2242,12 @@ Gilbert, Elizabeth. -- Eat, pray, love. -- [S.n., n.d.]. -- [1] v. -- DDC 306.
 > 'Remember - everything you do, you do for God. And everything God does, He do for you.' -unknown.	-131
 > In a way, this little episode had all the hallmarks of a typical Christian conversion experience - the dark night of the soul, the call for help, the responding voice, the sense of transformation.	16
 
-Gilliland, Anne. -- Building an infrastructure for archival research / [by] Anne Gilliland and Sue McKemmish. -- Computer data (1 file : 366 kb). -- Title from resource. -- File name: (10070.pdf). -- DBID 10070. -- DOI 10.1007/s10502-006-6742-6. -- IN Archival Science. -- Vol. 4 (2004). 1. 027.
+Gilliland, Anne. -- Building an infrastructure for archival research / [by] Anne Gilliland and Sue McKemmish. -- Computer data (1 file : 366 kb). -- Title from resource. -- File name: (10070.pdf). -- DBID 10070. -- DOI 10.1007/s10502-006-6742-6. -- IN Archival Science. -- Vol. 4 (2004) -- DDC 027.
 
 
-Giordano, Tommaso. -- Electronic resources management and long term preservation. -- Computer data (1 file : 74 kb). -- [S.l. : s.n., 2007]. -- Title from p.1. -- File name: (1686.pdf). -- DBID 1686. 1. 025.8.
+Giordano, Tommaso. -- Electronic resources management and long term preservation. -- Computer data (1 file : 74 kb). -- [S.l. : s.n., 2007]. -- Title from p.1. -- File name: (1686.pdf). -- DBID 1686 -- DDC 025.8.
 
-GMD mapped to Content Type, Media Type, Carrier Type, and Unit of Extent, with MARC fixed fields. -- Computer data (1 file : 219 kb). -- [S.l. : s.n., 2011?] -- Title from p. 1. -- File name: (10167.pdf) -- DBID 10167. 1. 025.3.
+GMD mapped to Content Type, Media Type, Carrier Type, and Unit of Extent, with MARC fixed fields. -- Computer data (1 file : 219 kb). -- [S.l. : s.n., 2011?] -- Title from p -- DDC -- File name: (10167.pdf) -- DBID 10167 -- DDC 025.3.
 
 
 
@@ -2329,7 +2329,7 @@ Goodkind, Terry. -- Wizard's First Rule. -- Computer file. -- RosettaBooks, 2010
 > 45 r saves the dragons egg -s
 > Wizard’s First Rule: people are stupid, they believe what they want to believe. -q
 > 46 r fins zedd and co, but tghe spell sides his identity from them. he fibds michael, and learns hge is the one whok betrayed.  -s
-Gopher (protocol). -- Computer data (1 file : 58.1 kb). -- [S.l. : Answers.com, 2012.). -- File name: (3002.txt). 1. 004.69.
+Gopher (protocol). -- Computer data (1 file : 58.1 kb). -- [S.l. : Answers.com, 2012.). -- File name: (3002.txt) -- DDC 004.69.
 
 
 
@@ -2340,13 +2340,13 @@ Gorman, Michael. -- The concise AACR2 -- 4th ed. -- ALA, 2004. -- on 1 external 
 Gordon, Whitson. -- 6 essential tips for first-time PC builders. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Also available on the World Wide Web (http://lifehacker.com/i-have-a-noob-question-would-creating-a-laptop-be-too-1458676984). -- File name: 3302.pdf. -- IN Lifehacker.com. -- (Nov. 5, 2013). -- DDC 004.
 
 
-Gordon, Whitson. -- Top 10 ways to speed up your computer's boot time. -- Computer data (1 file : 7.6 kb) -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 10146.txt -- DBID 10146. -- IN Lifehacker. -- (Jul. 16, 2011). 1. 004.
+Gordon, Whitson. -- Top 10 ways to speed up your computer's boot time. -- Computer data (1 file : 7.6 kb) -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 10146.txt -- DBID 10146. -- IN Lifehacker. -- (Jul. 16, 2011) -- DDC 004.
 
 
-Gorman, Michael. -- RDA -- Computer data (1 file : 85.5 kb) -- [S.l. : The author, n.d.] -- Title from resource. -- File name: (10169.pdf) -- DBID 10169. 1. 025.3.
+Gorman, Michael. -- RDA -- Computer data (1 file : 85.5 kb) -- [S.l. : The author, n.d.] -- Title from resource. -- File name: (10169.pdf) -- DBID 10169 -- DDC 025.3.
 
 
-Gottwald, Norman. -- Self-inventory on biblical hermeneutics. -- Computer data (1 file : 10 kb) -- [S.l. : s.n., 2007?] -- Title supplied by cataloguer. -- File name: (1373.txt) -- DBID 1373. 1. 220.
+Gottwald, Norman. -- Self-inventory on biblical hermeneutics. -- Computer data (1 file : 10 kb) -- [S.l. : s.n., 2007?] -- Title supplied by cataloguer. -- File name: (1373.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1373.txt) -- DBID 1373. -- DDC 220.
 
 Grant, Brian. -- Vertical gardening. -- Computer data (1 file). -- Brian Grant and Random Techonologies, c2014. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B00IICK9K8. -- DDC 635.
 
@@ -2408,7 +2408,7 @@ Grant, Michael. -- Hunger. -- HarperCollins, c2009. -- 590 p. -- ISBN 9780061449
 Grease: The Original Soundtrack from the Motion Picture. -- Computer data. -- New York: Polydor, 1991. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542
 
 
-Great Britian. House of Commons. Select committee on the Public Administration. -- Fourth report. -- Computer data (1 file : 161 kb) -- [United Kingdom : Parliament, c2004]. -- Title from cover. -- File name: (9077.pdf) -- DBID 9077. 1. 342.42.
+Great Britian. House of Commons. Select committee on the Public Administration. -- Fourth report. -- Computer data (1 file : 161 kb) -- [United Kingdom : Parliament, c2004]. -- Title from cover. -- File name: (9077.pdf) -- DBID 9077 -- DDC 342.42.
 
 
 
@@ -2442,7 +2442,7 @@ Greenberg, David. -- Calvin Coolidge. -- Time Books, c2006. -- xviii, 202 p. -- 
 > Classically conservative on economic policy and averse to progressive leadership on social policy, Coolidge was in foreign affairs a cautious moderate... -p. 88  -q
 > [Charles Augustus] Lindbergh's solo journey from New York to Paaris on May 20-21, 1927, transformed the blond, twenty-five-year-old aviator into a folk hero... years later, Lindberg would be revealedd as an anti-Semite and Nazi sympathizer... -p. 125-127 -q
 
-Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p. 1. -- File name: (10093.pdf). -- DBID 10093. 1. 025.
+Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p -- DDC -- File name: (10093.pdf). -- DBID 10093 -- DDC 025.
 
 
 
@@ -2493,7 +2493,7 @@ Grigg, Richard. -- To re-enchant the world. -- Computer data (1 file : 213 KB). 
 Guengerich, Galen. -- 10 things I wish everyone knew about Unitarian Universalism. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374). -- Title from resource. -- IN onFaith [website]. -- (20--?). -- DDC 289.1
 
 > Unitarians played a pivotal role in founding the United States. -- Religiously speaking, we’re in our adolescence. -- We focus on what we know by experience. -- Our name refers to historic heresies that matter today. -- We don’t believe in the God many others don’t believe in either. -- We’ve revised our view of God — and of everything else. -- We believe that freedom is a consequence of belonging, not its antithesis. -- We’re the gratitude people. -- The discipline of gratitude calls us to worship together. -- The ethic of gratitude calls us to serve a broken and needy world. -o
-Guide to camping in Massachusetts State Parks. -- [Mass. : DCR], 2010. -- 1 sheet. -- DBID 3133. 1. 796.54.
+Guide to camping in Massachusetts State Parks. -- [Mass. : DCR], 2010. -- 1 sheet. -- DBID 3133 -- DDC 796.54.
 
 Guindon, Eric. -- Apprentice. -- Computer data. -- E.G., c2013. -- on 1 ASUS transformmer tablet. -- System requirements: kindle app. -- Title from cover. -- ASIN B00DA1O2UA. -- DDC 813
 
@@ -2570,7 +2570,7 @@ Gulley, Philip. -- Living the Quaker way. -- Covergent Books, c2013. -- 212 p. -
 Hailey, S.J. -- The 5th amulet. -- 3rd ed. -- Computer data (1 file). -- S.J. Hailey, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B0096QYCJY. -- DDC 813.
 
 
-Hain, Peter. -- Outside in. -- Computer data (1 file). -- London : Biteback, 2012. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1849541183. -- DBID 3037. 1. 320.941.
+Hain, Peter. -- Outside in. -- Computer data (1 file). -- London : Biteback, 2012. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1849541183. -- DBID 3037 -- DDC 320.941.
 
 > ... the usual British pattern: first, say something won't happen and then, when it does, saying it's going to be a failure and then, when it's a success, desperately trying to catch up. -p. -q
 > CH. 8: The Chapter BRITISH OUTSIDER IN EUROPE begins with Hain's responsibilities in Europe as a negotiator for British interests. As a pro-European, he worked to change Britain's image as hostile to Europe. While forging personal relationships, he made little progress. The events in this chapter include the negotiations and politics of the Euro, and the Gibraltar co-soverenty referrendum (that failed specacularly) -p. -s
@@ -2578,7 +2578,7 @@ Hain, Peter. -- Outside in. -- Computer data (1 file). -- London : Biteback, 201
 
 
 
-Halford, William P. -- Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] William P. Halford, Ringo Püschel, [and] Brandon Rakowski. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- Filename: 3293.pdf. -- Also available on the World Wide Web (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251). -- IN PLOS ONE. -- Vol. 5, no. 8 (Aug. 2010). -- DDC 616.9.
+Halford, William P. -- Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] William P. Halford, Ringo Püschel, [and] Brandon Rakowski. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3293.pdf. -- Also available on the World Wide Web (http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251). -- IN PLOS ONE. -- Vol. 5, no. 8 (Aug. 2010). -- DDC 616.9.
 
 Hale, Ben. -- The last oracle. -- Computer data (1 file : 1239 KB). -- Snowlight Publishing, 2013. -- on 1 ASUS tansformer tablet. -- System requirments: Kindle app. -- Title from cover. -- ASIN B0G3LC1LG. -- DDC 813.
 
@@ -2589,7 +2589,7 @@ Halvorson, Heidi Grant. -- To succeed, forget self-esteem. -- Computer data (1 f
 Hancock, Karen. -- Arena. -- Reprint ed. -- Computer data (1 file : 855 KB). -- Bethany House Publishers, 2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B005BOXKRA. -- DDC 813
 
 
-Hancock, Karen. -- Light of Eidon. -- Computer data (1 file). -- [S.l.] : Bethany House Publishers, 2003. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3038. 1. 813.
+Hancock, Karen. -- Light of Eidon. -- Computer data (1 file). -- [S.l.] : Bethany House Publishers, 2003. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3038 -- DDC 813.
 
 Hannan, Daniel. -- Inventing freedom. -- 1st ed. -- Broadside books, c2013. -- 395 p. -- ISBN 9780062231734. -- DDC 323.
 
@@ -2725,7 +2725,7 @@ Harris, T.R. -- The human chronicles saga (Books one & two). -- Computer data (1
 
 Hanson, Devin. -- The matriarch manifesto -- [S.n.], 2018. -- Mode of Access: World Wide Web (http://read.amazon.com). -- Title from homepage viewed Jan 13, 2019. -- AISN B07JGZ1W8S. -- DDC 813.
 
-Hasan, Mehdi. -- Ed. -- Biteback, 2011. -- Mode of Access: World Wide Web (http://read.amazon.com) -- DBID 3039. 1. 320.941
+Hasan, Mehdi. -- Ed. -- Biteback, 2011. -- Mode of Access: World Wide Web (http://read.amazon.com) -- DBID 3039 -- DDC 320.941
 Hartley, Taylor. -- The penkeepers. -- Computer data (1 file). -- [S.n., n.d.] -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- DDC 813
 
 > Prologue: Valil and Kirkook stand at the edge of the kingdom of the penkeepers. They see the penkeepers have found a new writer. -s
@@ -2761,7 +2761,7 @@ Hautman, Pete. -- Invisible. -- [S.n., n.d.]. -- [1] v. -- DDC 813.
 > My parents thing I'm socially backwards because I don't have any friends. I don't see see it as a problem. Most kids are stupid. -p. 78 -q
 > I'm afraid it's a case of your word against thiers... theirs is wrong. -p. 96 -q
 
-Hawks, John Twelve. -- The Traveler. -- New York : Doubleday, c2005. -- 456 p. -- DBID 3203. -- ISBN 038551428x. 1. 813.
+Hawks, John Twelve. -- The Traveler. -- New York : Doubleday, c2005. -- 456 p. -- DBID 3203. -- ISBN 038551428x -- DDC 813.
 > Citizens are people who think they understand what's going on in the world -Maya -p. 9.
 > Drones are people who are so overwhelmed by the challenge of surviving that they're unaware of anything outside of their day-to-day lives. -Maya -p. 9
 > When you were fighting you were completely in the moment, focused on defending yourself and destroying your opponent. -10
@@ -2810,20 +2810,20 @@ Herbert, Frank. -- Dune. -- Berkley, c1965. -- 535 p. -- DDC 813.
 > SALUSA SECUNUS, the Emperor's prison planet. -p. 44 -f
 > A messianic prophecy surrounds the boy. -f
 
-Heitman, Danny. -- If Thoreau were to move to Walden today, would he bring the Internet? Maybe. -- Computer file. -- Title from resource. -- File name: (3099.txt) -- DBID 3099. -- IN Christian Science Monitor. -- (July 4, 2012). 1. 302.
+Heitman, Danny. -- If Thoreau were to move to Walden today, would he bring the Internet? Maybe. -- Computer file. -- Title from resource. -- File name: (3099.txt) -- DBID 3099. -- IN Christian Science Monitor. -- (July 4, 2012) -- DDC 302.
 
 
-Henderson, Ernest F. -- Select historical documents of the middle ages. -- Computer data (1 file : 12.4 mb). -- London and New York : George Bell & Sons, 1892. -- Title from title page. -- File name: (10101.pdf). -- DBID 10101. 1. 940.
+Henderson, Ernest F. -- Select historical documents of the middle ages. -- Computer data (1 file : 12.4 mb). -- London and New York : George Bell & Sons, 1892. -- Title from title page. -- File name: (10101.pdf). -- DBID 10101 -- DDC 940.
 
 Herman, Jonathan R. -- Taoism for dummies. -- Computer data (1 file). -- John Wiley & Sons, c2013. -- System requirements: epub file reader. -- Filename: 7050.epub. -- Title from title page. -- ISBN 978118426654. -- DDC  299.
 
 
 
 
-Heymann, Paul. -- Tagging human knowledge / Paul Heymann, Andreas Paepcke, and Hector Garcia-Molina. -- Preprint Version. -- Computer data (1 file : 576 kb) -- [S.l. : the authors], 2009. -- Title from p. 1. -- File name: (10147.pdf) -- DBID 10147. 1. 025.3.
+Heymann, Paul. -- Tagging human knowledge / Paul Heymann, Andreas Paepcke, and Hector Garcia-Molina. -- Preprint Version. -- Computer data (1 file : 576 kb) -- [S.l. : the authors], 2009. -- Title from p -- DDC -- File name: (10147.pdf) -- DBID 10147 -- DDC 025.3.
 
 
-Hichens, Christopher. -- Beware the in-laws. -- Computer data (1 file : 150 kb). -- Title from p.1. -- File name: (10097.pdf). -- IN Slate. -- (Apr. 18, 2011). 1. 941.
+Hichens, Christopher. -- Beware the in-laws. -- Computer data (1 file : 150 kb). -- Title from p.1. -- File name: (10097.pdf). -- IN Slate. -- (Apr. 18, 2011) -- DDC 941.
 Hike New England. -- Computer program. -- [S.n.], c1998-2012. -- Mode of Access: World Wide Web (http://www.hikenewengland.com). -- Title from homepage. -- DDC 796.51.
 
 Hiking time calculator. -- Computer program. -- Mode of Access: World Wide Web (http://www.hikenewengland.com/LegendTimeCalc.html). -- Title fom webpage. -- IN Hike New England. -- (n.d.). -- DDC 796.51.
@@ -2835,19 +2835,19 @@ Hine, Dougald. -- What good is information. -- Computer data (1 file). -- on ext
 > Knowledge has a point when we start to find and make connections, to weave stories out of it, stories through which we make sense of the world and our place within it. -q
 > And if there is an antidote to boredom, it is not information but meaning. -q
 
-Hoag, John S. -- Fundamentals of land measurement. -- Chicago, Illinois : Chicago Title Insurance Company, [n.d]. -- iii, 35 p. -- DBID 1650. -- Gift from Cherie Thompson. 1. 526.
+Hoag, John S. -- Fundamentals of land measurement. -- Chicago, Illinois : Chicago Title Insurance Company, [n.d]. -- iii, 35 p. -- DBID 1650. -- Gift from Cherie Thompson -- DDC 526.
 
 
-Hobb, Robin. -- Dragon haven. -- New York, NY : HarperCollins, c2010. -- 527 p. -- ISBN 9780061931413. -- DBID 2917. 1. 813.
+Hobb, Robin. -- Dragon haven. -- New York, NY : HarperCollins, c2010. -- 527 p. -- ISBN 9780061931413. -- DBID 2917 -- DDC 813.
 
 > 'I don't know how to hunt,' Sedred admitted. 'That's why I'll be teaching you,' Carson explained. He caught the hunter's hand, brought it to his mouth, and kissed the palm of it. -p. 501 -q
 
-Hobb, Robin. -- Dragon keeper. -- New York : Eos, 2010. -- xiii, 473 p. -- ISBN 9780061561627. 1. 813.
+Hobb, Robin. -- Dragon keeper. -- New York : Eos, 2010. -- xiii, 473 p. -- ISBN 9780061561627 -- DDC 813.
 
 > 'My name is Sedric Meldar... I am accompanying Trader Finbok's wife, Alise, as her chronicler and protector'[...] 'What's a chronicler?' Tats demanded abruptly. 'I write down what she does. Where she goes, the gist of her conversations, and sometimes, when she is doing research, I write down in detail what she learns. Later, she'll be able to look back over what I've written to be sure she is remembering every detail correctly. -p. 335-336 -q
 > Yet he [Leftrin] wondered at how small a life he'd been willing to settle for. He wished in vain that he'd foreseen tat some day a woman might walk into his life. -p. 346 -q
 
-Hoffman, Abbie. -- Steal this book. -- [New York] : Pirate Editions, [1971]. -- xxi, 308 p. -- DBID 3116. 1. 335.
+Hoffman, Abbie. -- Steal this book. -- [New York] : Pirate Editions, [1971]. -- xxi, 308 p. -- DBID 3116 -- DDC 335.
 
 The holy bible. -- Computer data. -- Minneapolis, MN : Augsburg Fortress, c1989. -- on 1 external hard drive. -- System Requirements: Palm eReader (pdb) file reader. -- "The New Revised Standard Version" -cover. -- DBID 8331. -- DDC 220.
 > 'You faithless and perverse generation, how much longer must I be with you and bear with you? Bring you son here.' -p. Lk. 9:41 -q
@@ -2921,21 +2921,21 @@ Horny, Karen L. -- Minimal-level cataloging: a look at the issues -- A symposium
 > National Level Bibliographic Record -- Books (NLBR) -f
 > These records must contain the titlwe proper, first statement of responsibility, pubilsher's name, date of publication, and extent of the item. -q
 
-House of Lords Reform Draft Bill / presented to Parliament by the Deputy Prime Minister by Command of Her Majesty. -- Computer data (1 file : 1.7 mb). [London] : The Stationary Office, c2011. -- Title from title page. -- File name: (10104.pdf). -- DBID 10104. -- ISBN 9780101807722. 1. 342.
+House of Lords Reform Draft Bill / presented to Parliament by the Deputy Prime Minister by Command of Her Majesty. -- Computer data (1 file : 1.7 mb). [London] : The Stationary Office, c2011. -- Title from title page. -- File name: (10104.pdf). -- DBID 10104. -- ISBN 9780101807722 -- DDC 342.
 
 House of Lords reform bill. -- Computer data. -- [S.n., n.d.]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cataloger. -- File name: 3257.pdf. -- DDC 342.42.
-How users organize electronic files on their workstations in the office environment / [by] Christopher S.G. Khoo, Brendan Luyt, Caroline Ee ... [et al.] -- Computer data ( 1 file : 139 kb). -- Title from p.1. -- File name: (1688.mht). -- DBID 1688. -- IN Information Research. -- Vol. 11, no. 2 (Jan. 2007). 1. 650.
+How users organize electronic files on their workstations in the office environment / [by] Christopher S.G. Khoo, Brendan Luyt, Caroline Ee ... [et al.] -- Computer data ( 1 file : 139 kb). -- Title from p.1. -- File name: (1688.mht). -- DBID 1688. -- IN Information Research. -- Vol. 11, no. 2 (Jan. 2007) -- DDC 650.
 How-to geek. -- Computer program. -- HowToGeek.com, c2006- . -- Mode of Access: World Wide Web (http://www.howtogeek.com/). -- Title supplied by cataloger. -- Frequency: Daily. -- DDC 004.
 
 
 
-Howarth, Lynn C. -- Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth. -- Computer data (1 file : 141 kb). -- [S.l.] : IFLA, 2009. -- Title from resource. -- File name: (10077.pdf). -- DBID 10077. 1. 025.3
+Howarth, Lynn C. -- Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth. -- Computer data (1 file : 141 kb). -- [S.l.] : IFLA, 2009. -- Title from resource. -- File name: (10077.pdf). -- DBID 10077 -- DDC 025.3
 
 
-Hsieh-Yee, Igrid. -- Cataloging and metadata education. -- Computer file (1 file : 466 kb.) -- [S.l. : I. Hsieh-Yee], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10062. 1. 025.3.
+Hsieh-Yee, Igrid. -- Cataloging and metadata education. -- Computer file (1 file : 466 kb.) -- [S.l. : I. Hsieh-Yee], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10062 -- DDC 025.3.
 
 
-Huber, Joseph. -- Creating new money / Joseph Huber and James Robertson. -- Computer file (1 file : 379 kb). -- London : New Economics Foundation, [n.d.] -- Title from title page. -- File name: (10036.pdf). -- ISBN 1899407294. -- DBID 11036. 1. 330.
+Huber, Joseph. -- Creating new money / Joseph Huber and James Robertson. -- Computer file (1 file : 379 kb). -- London : New Economics Foundation, [n.d.] -- Title from title page. -- File name: (10036.pdf). -- ISBN 1899407294. -- DBID 11036 -- DDC 330.
 
 Hudson, Christopher. -- Do you want fries with that. -- [S.l. : s.n.], 2005. -- [1] v. -- ISBN 159316629. -- DDC 331.
 > Creating an effective resume (Write mini autobiography -- Secure inside information -- Start weeding -- Job history -- Profile yourself -- Turn words into literature -- Select a look for your resume).
@@ -2949,7 +2949,7 @@ Hughes, Matthew. -- Learn to build with PHP. -- Computer data. -- M. Hughes, 201
 
 
 
-Hulse, Carl. -- Obama is sworn in as 44th president. -- Computer data (1 file : 261 kb). -- Title from resource. -- File name: (10071.pdf). -- DBID 10071. -- IN The New York Times. -- (Jan. 20, 2009). 1. 973.
+Hulse, Carl. -- Obama is sworn in as 44th president. -- Computer data (1 file : 261 kb). -- Title from resource. -- File name: (10071.pdf). -- DBID 10071. -- IN The New York Times. -- (Jan. 20, 2009) -- DDC 973.
 
 Hunter, Tab. -- The Janus project. -- 1st ed. -- Computer data (1 file : 508 KB). -- T. Hunter, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00D0XNSGM. -- DDC 813.
 
@@ -2967,7 +2967,7 @@ Hybrid (Musical group). -- Morning Sci-Fi. -- Computer data. -- S.l.: Distinctiv
 > Be ye lamps unto yourselves, Be your own confidence; Hold to the truth wihin yourselves, as to the only lampt. -110 -q
 > 1 Lo, the day of days is here; Festival of hope and cheer; At the southwind's genial breath; Nature wakes from seeming death. 2 Fields are smiling in the sun; Loosened streamlets seaward run; Tender blade and leaf appear; 'Tis the springtide of the year. 3 Lo, the Eastertide is here; Music thrills the atmosphere; Join, ye people all, and sing; Love and prase and thanksgiving. -317 -q
 
-Iacovino, Livia. -- Multi-method interdisciplinary research in archival science : the case of recordkeeping, ethics and law. -- Computer data. -- Title from p. 1. -- File name: (10072.pdf). DBID 10072. DOI 10.1007/s10502-005-2595-7 -- IN Archival Science. -- Vol. 4 (2004). 1. 025.17.
+Iacovino, Livia. -- Multi-method interdisciplinary research in archival science : the case of recordkeeping, ethics and law. -- Computer data. -- Title from p -- DDC -- File name: (10072.pdf). DBID 10072. DOI 10.1007/s10502-005-2595-7 -- IN Archival Science. -- Vol. 4 (2004) -- DDC 025.17.
 
 
 Iglesias, Enrique. -- Enrique / [by] Enrique Iglasias and Whitney Houston. -- Computer data. -- Los Angeles: Interscope, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
@@ -2988,35 +2988,35 @@ The illuminator. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 0430. -- DDC 813.
 > Harry Despenser -p. -f
 > Chapter 5 -p. -s
 
-Inside story : how coalition government works. -- Computer data. -- [S.l., s.n.], 2011. -- Title from p. 1. -- File name: (10109.pdf). -- DBID 10109. 1. 321.
+Inside story : how coalition government works. -- Computer data. -- [S.l., s.n.], 2011. -- Title from p -- DDC -- File name: (10109.pdf). -- DBID 10109 -- DDC 321.
 
-Instructions to depository libraries. -- Computer Data (1 file : 719 kb) -- [United States] : U.S. G.P.O., 2000. -- Title from resource. -- File name: (0067.pdf) -- DBID 0067. 1. 025.
+Instructions to depository libraries. -- Computer Data (1 file : 719 kb) -- [United States] : U.S. G.P.O., 2000. -- Title from resource. -- File name: (0067.pdf) -- DBID 0067 -- DDC 025.
 
-Integrated Resources. -- Computer data (1 file : 6.5 kb) -- [S.l., n.d.], 2008. -- Title from resource. -- File name: (7067.pdf) -- DBID 7067. 1. 025.3.
+Integrated Resources. -- Computer data (1 file : 6.5 kb) -- [S.l., n.d.], 2008. -- Title from resource. -- File name: (7067.pdf) -- DBID 7067 -- DDC 025.3.
 
-International Docking System Standard (IDSS) Interface Definition Document (IDD). -- Computer data (1 file : 1 mb) -- [S.l., s.n.], 2010. -- Title from cover. -- File name: (9060.pdf) -- DBID 9060. 1. 629.
+International Docking System Standard (IDSS) Interface Definition Document (IDD). -- Computer data (1 file : 1 mb) -- [S.l., s.n.], 2010. -- Title from cover. -- File name: (9060.pdf) -- DBID 9060 -- DDC 629.
 
 International standard bibliographic description (ISBD) / recommended by the ISBD Review Group. -- Consolidated ed. -- Computer file. -- [S.n.], 2010. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3259.pdf. -- DDC 025.3.
 
-Ipswich Public Library [homepage]. -- Computer data. -- Ipswich Public Library, [2012?- ] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ipswichlibrary.org). 1. 027.4.
+Ipswich Public Library [homepage]. -- Computer data. -- Ipswich Public Library, [2012?- ] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ipswichlibrary.org) -- DDC 027.4.
 
-ISAD (G). -- 2nd ed. -- Computer data (1 file : 256 kb). -- Ottawa : ICA, 2000. -- Title from cover. -- File name: (0455.pdf). -- ISBN 096960355X. -- DBID 0455. 1. 025.3.
+ISAD (G). -- 2nd ed. -- Computer data (1 file : 256 kb). -- Ottawa : ICA, 2000. -- Title from cover. -- File name: (0455.pdf). -- ISBN 096960355X. -- DBID 0455 -- DDC 025.3.
 
 Isham, Mark. -- Vapor Drawings. -- Computer data. -- Stanford, CA: Windham Hill Records, 1983. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
 Islam, Yusuf. -- An Other Cup. -- Computer data. -- New York, NY: Atlantic, 2006. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
-Iving reviews in solar physics [database]. -- Computer data (1 file : 60.8 kb) -- [S.l.] : Max-Planck-Gesellschaft, [19--]. -- Mode of Access: Gopher(gopher://justinleetyler.com/0/databases/archive%20of%20european%20integration.mrk) -- Also avialable on the World Wide Web (http://solarphysics.livingreviews.org/) -- DBID 3106. 1. 539.016
+Iving reviews in solar physics [database]. -- Computer data (1 file : 60.8 kb) -- [S.l.] : Max-Planck-Gesellschaft, [19--]. -- Mode of Access: Gopher(gopher://justinleetyler.com/0/databases/archive%20of%20european%20integration.mrk) -- Also avialable on the World Wide Web (http://solarphysics.livingreviews.org/) -- DBID 3106 -- DDC 539.016
 
 
-Jabr, Ferris. -- Why your brain needs more downtime. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from p. 1. -- Filename: 3295.txt. -- Also available on the World Wide Web (http://www.scientificamerican.com/article.cfm?id=mental-downtime). -- IN Scientific American [website].-- (Oct. 15, 2013). -- DDC 647.7
+Jabr, Ferris. -- Why your brain needs more downtime. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from p -- DDC -- Filename: 3295.txt. -- Also available on the World Wide Web (http://www.scientificamerican.com/article.cfm?id=mental-downtime). -- IN Scientific American [website].-- (Oct. 15, 2013). -- DDC 647.7
 > For 92 days he lived at Insight Meditation Society’s Forest Refuge facility... He spent most of his time meditating, practicing yoga and walking through fields and along trails in surrounding farmland and woods... -q
 > Downtime replenishes the brain’s stores of attention and motivation, encourages productivity and creativity, and is essential to both achieve our highest levels of performance and simply form stable memories in everyday life. -q
 
-Jacobs, Alan. -- Google-trained minds can't deal with terrible research databases IU. -- Computer data (1 file : 298 kb) -- Title from resource. -- File name: (10160.pdf) -- DBID 10160. -- IN The Atlantic. -- (Feb. 29, 2012). 1. 808.
+Jacobs, Alan. -- Google-trained minds can't deal with terrible research databases IU. -- Computer data (1 file : 298 kb) -- Title from resource. -- File name: (10160.pdf) -- DBID 10160. -- IN The Atlantic. -- (Feb. 29, 2012) -- DDC 808.
 
 
-Jacobs, Donald R. -- Consider Jesus. -- Scottdale, Pa. : Herald Press, c2006. -- 367 p. -- ISBN 0836193474. 1. 242.
+Jacobs, Donald R. -- Consider Jesus. -- Scottdale, Pa. : Herald Press, c2006. -- 367 p. -- ISBN 0836193474 -- DDC 242.
 
 > Chapter 1 : A living tradition -p. 1-18 -o
 > The experience of salvation coming from God through Jesus makes him fundamentally interesting. -p. 4 -q
@@ -3054,7 +3054,7 @@ James, P. D. -- The children of men. -- Vintage books, c1992.  -- 241 p. -- ISBN
 > From being the potent symbol of continuity and tradition, [the king] has become an unemployable archaic reminder of what we have lost.  -p. 89 -q
 > Security, comfort, pleasure. Xan and his Council would approve. p. 118 -1
 
-Jantsch, John. -- How to build a remarkable business by focusing on the total customer experience. -- Computer data (1 file : 1.6 kb) -- [S.l.] : Ducktapemarketing.com, [2012?] -- Title from cover. -- File name: (3126.pdf) -- DBID 3126. 1. 330.
+Jantsch, John. -- How to build a remarkable business by focusing on the total customer experience. -- Computer data (1 file : 1.6 kb) -- [S.l.] : Ducktapemarketing.com, [2012?] -- Title from cover. -- File name: (3126.pdf) -- DBID 3126 -- DDC 330.
 
 Jefferson, Thomas. -- The Jefferson Bible. -- Computer data (1 file : 275 KB) . -- Sandbox Press, 2011. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ISBN 9781937810092. -- DDC 226.
 
@@ -3068,13 +3068,13 @@ Jefferts Schori, Katharine. -- A wing and a prayer. -- Harrisburg, PA : Morehous
 > The ministry we receive at baptism calls us to transform our communities into something that looks more like the reign of God. -p. 22 -q
 > We need leades in the church -- and I insist -p. 23 -q
 
-Jenkins, Dennis R. -- Space Shuttle. -- [S.l. : s.n.], c2002. -- 513 p. -- ISBN 0963397451. 1. 629.
+Jenkins, Dennis R. -- Space Shuttle. -- [S.l. : s.n.], c2002. -- 513 p. -- ISBN 0963397451 -- DDC 629.
 
 Jenkins, Philip. -- Jesus wars. -- Computer data (1 file). -- [S.l.] : HarperColins e-books, c2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3040. -- ISBN 9780061981418. -- DDC 270.
 
 Jenkins, Philip. -- The lost history of Christianity. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 270.
 
-Jesus, the compassion of God. -- Computer data (1 file : 24 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1364.txt) -- DBID 1364. 1. 232.
+Jesus, the compassion of God. -- Computer data (1 file : 24 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1364.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1364.txt) -- DBID 1364 -- DDC 232.
 
 Joel, Billy. -- Billy Joel Greatest Hits: Vol. III. -- Computer data. -- New York, NY: Sony Music Entertainment; Manufactured by Columbia Records (452, 1997. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64
 
@@ -3118,24 +3118,24 @@ John, Elton. -- Reg Strikes Back / [by] Elton John and Bernie Taupin. -- Univers
 John, Elton. -- The Captain & the Kid / [by] Elton John and Bernie Taupin. -- Computer data. -- Santa Monica, Calif: Interscope, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
 
-Johnson, Alexandra. -- Leaving a trace. -- Boston : Little, Brown, 2001. -- viii, 242 p. -- DBID 3072. 1. 808.06692.
+Johnson, Alexandra. -- Leaving a trace. -- Boston : Little, Brown, 2001. -- viii, 242 p. -- DBID 3072 -- DDC 808.06692.
 
 
-Johnson, Clay A. -- The information diet. -- Shebastopol, CA : O'Reilly Media, c2012. -- ix, 150 p. -- ISBN 9781449304683. -- DBID 3013. 1. 303.
+Johnson, Clay A. -- The information diet. -- Shebastopol, CA : O'Reilly Media, c2012. -- ix, 150 p. -- ISBN 9781449304683. -- DBID 3013 -- DDC 303.
 
 Johnson, Paul. -- History of the Jews. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- 1. 909.
 
 
-Johnston, Robert K. -- Reel spirituality. -- 2nd ed., Rev. and expanded. -- Grand Rapids, Mich. : Baker Academic, c2006. -- 351 p. -- 9780801031878. 1. 261.
+Johnston, Robert K. -- Reel spirituality. -- 2nd ed., Rev. and expanded. -- Grand Rapids, Mich. : Baker Academic, c2006. -- 351 p. -- 9780801031878 -- DDC 261.
 
-Joint Steering Committee for the development of RDA. -- Outcomes of the Meeting of the Joint Steering Committee. -- Computer data (1 file : 191 kb) -- [S.l.] : JSC, 2008. -- Title from p. 1. -- File name: (7064.pdf) -- DBID 7064. 1. 025.3.
+Joint Steering Committee for the development of RDA. -- Outcomes of the Meeting of the Joint Steering Committee. -- Computer data (1 file : 191 kb) -- [S.l.] : JSC, 2008. -- Title from p -- DDC -- File name: (7064.pdf) -- DBID 7064 -- DDC 025.3.
 
 Journey into the hidden web: a guide for new reseachers. -- [S.n., n.d.] -- Title from resource, viewed Jan. 28, 2020. -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/). -- DDC 001.
 
-Jung, Patricia Beattie. -- Moral issues and Christian responses. -- 7th ed. -- Austria; Belmont, CA : Thomas/Wadsworth, c2003. -- xvi, 463 p. -- ISBN 0155058959. 1. 241.
+Jung, Patricia Beattie. -- Moral issues and Christian responses. -- 7th ed. -- Austria; Belmont, CA : Thomas/Wadsworth, c2003. -- xvi, 463 p. -- ISBN 0155058959 -- DDC 241.
 
 > It is not wrong to want to live better -p. 406 -q
-> The Church and Marriage: Looking for a New Ethic -by Jean Ponder SotoA. The Second Vatican Council stated two reasons for sex 1. The procreation and education of children 2. The mutual love and support of the spousesB. Our concept of marriage comes from greco-roman society. 1. A citizens duty to have children 2. Marriage a social contract.C. Sexual Intimacy as Aestetic 1. Something like art -p. 55 -o
+> The Church and Marriage: Looking for a New Ethic -by Jean Ponder SotoA. The Second Vatican Council stated two reasons for sex 1. The procreation and education of children 2. The mutual love and support of the spousesB. Our concept of marriage comes from greco-roman society -- DDC A citizens duty to have children 2. Marriage a social contract.C. Sexual Intimacy as Aestetic 1. Something like art -p. 55 -o
 > Oregon became the first state in the union to permit assisted death. -p. 207 -q
 > Baptism brings beginning and ending of human life together with sacramental power. -p. 212 -q
 > '? not rights, but relationships mark the Christian life? relationships that will sustain and nurture, admonish and challenge, support us in living and accompany us through death.' -p. 214 -q
@@ -3156,7 +3156,7 @@ Jung, Patricia Beattie. -- Moral issues and Christian responses. -- 7th ed. -- A
 > 'Love your enemies by karen LebacqzA. Rape 1. 1/3 of woman are raped 2. Links sex and violence 3. Socialization of sex sterlotypes.B. A Christian ethic must address this 1. Sex steriotypesC. Loving your enemy 1. Forgiveness and repentence 2. Survival 3. ?...forgive... Only if he achnodoges wrong-doing, repents, and seeks a new relationship free from power, domlnation, and violence'' -p. 65-74 -o
 > Sources for Body Theology by James B. NelsonA. An Anglican approach 1. Scripture 2. Reason a. Checks our own narrow and arbitrary interpretations. 3. Tradition a. Checks our own interpretation against the richness of the past. 4. Experience a. A personal touchB. Scripture 1. What did it say 2. what does lt say 3. NT a. No sex ethic only love b. A culture of 1) purity 2) property 2. OT a. No consept of orientation.C. Tradition 1. No clear answerD. Reason 1. Oreantations are given not chosen -p. 276-285 -o
 > The Homosexual movement: a response by P. RamseyA. A beginnidg in the sexoal revelutionB. Heterosexual normC. The movement claims -p. 285-292 -o
-> 'When Generosity is not enough by Ellen T. CharryA. Intro. 1. Christians tend to be a bit ambivalent about money. 2. Not all poverty is the same.B. Reconsidering help for the poor 1. Types of Help a. Business 1) a shift from donation to enterprise. 2) exporting democracy b. faith-based initiatives 1) ones inner life and social skills c. welfare 2. A need to move past 'anger, resentment, and fear. a. education and child development is key b. because it leads to alianation. b. faith, school, and family. 1) 'men need job security' -398. Why just men? 3. Intellect, social skills, interperosnal skills, personal discipline, strong motivation.C. Christian Contributions 1. Christian Self esteem grounded in God' -p. 394-403 -o
+> 'When Generosity is not enough by Ellen T. CharryA. Intro -- DDC Christians tend to be a bit ambivalent about money. 2. Not all poverty is the same.B. Reconsidering help for the poor 1. Types of Help a. Business 1) a shift from donation to enterprise. 2) exporting democracy b. faith-based initiatives 1) ones inner life and social skills c. welfare 2. A need to move past 'anger, resentment, and fear. a. education and child development is key b. because it leads to alianation. b. faith, school, and family. 1) 'men need job security' -398. Why just men? 3. Intellect, social skills, interperosnal skills, personal discipline, strong motivation.C. Christian Contributions 1. Christian Self esteem grounded in God' -p. 394-403 -o
 > ? poor? because they lack the skills and styles needed to enter the mainstream. -p. 401 -q
 > ? [Economic] development entails much more than producing goods and services -p. 403-404 -q
 > Catholic Social Teaching by Oliver F. WilliamsA. Communitarianism 1. -p. 403-411 -o
@@ -3186,9 +3186,9 @@ Kato, John. -- Zen -- Computer data (1 file). -- J.K., c2014. -- on ASUS transfo
 Kanaparti, Priya. -- Dracian legacy. -- 1st ed. -- Computer data (1 file). -- [S.n.], 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
 
-Kasser, Tim. -- The high price of materialism. -- Cambridge, Mass : MIT press, c2002. -- xvi, 149 p. -- ISBN 026211268X. -- DBID 3115. 1. 339.4.
+Kasser, Tim. -- The high price of materialism. -- Cambridge, Mass : MIT press, c2002. -- xvi, 149 p. -- ISBN 026211268X. -- DBID 3115 -- DDC 339.4.
 
-Kayak. -- Computer data. -- [S.l.] : Kayak.com, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web (http://www.kayak.com). 1. 912.
+Kayak. -- Computer data. -- [S.l.] : Kayak.com, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web (http://www.kayak.com) -- DDC 912.
 
 Kazin, Michael. -- American dreamers. -- Alfred A. Knoph, 2011. -- xix, 329 p. -- ISBN 9780307266286. -- DDC 320.
 
@@ -3212,7 +3212,7 @@ Kazin, Michael. -- American dreamers. -- Alfred A. Knoph, 2011. -- xix, 329 p. -
 Keating, Ronan. -- 10 Years of Hits. London: Wise, 2004. -- on 1 external hard drive. -- DDC 781.64.
 
 
-Keen, Andrew. -- The cult of the amateur / [by] Andrew Keen. -- New York : Doubleday, c2007. -- 228 p. -- ISBN 978038552080. -- DBID 3014. 1. 303.
+Keen, Andrew. -- The cult of the amateur / [by] Andrew Keen. -- New York : Doubleday, c2007. -- 228 p. -- ISBN 978038552080. -- DBID 3014 -- DDC 303.
 
 > Talent, as ever, is a limited resource, the needle in today's digital haystack  -p. 30 -q
 > Above-average sites like JazzHouston.com, which attracts 12,000 visitors a day, bring in peanuts -- around $1,000 a year in ad revenue from Google.  -p. 31 -q
@@ -3323,10 +3323,10 @@ Kellogg, Michael K. -- Three questions we never stop asking. -- Amherst, N.Y. : 
 > The religious person is an exception in every religion. -p. 147 -q
 
 
-Kelsey, Morton T. -- Companions on the inner way. -- Crossroad, 1985. -- xiii, 222 p. -- ISBN 0824505603. 1. 248.
+Kelsey, Morton T. -- Companions on the inner way. -- Crossroad, 1985. -- xiii, 222 p. -- ISBN 0824505603 -- DDC 248.
 
 
-Keneally, Thomas. -- Abraham Lincoln. -- Viking, 2003. -- 175 p. -- (Penguin Lives) -- ISBN 0670031755. -- DBID 3080. 1. 923.3.
+Keneally, Thomas. -- Abraham Lincoln. -- Viking, 2003. -- 175 p. -- (Penguin Lives) -- ISBN 0670031755. -- DBID 3080 -- DDC 923.3.
 
 Kennedy, Roger G. -- Mr. Jefferson's lost cause : land, farmers, slavery, and the Louisiana Purchase. -- Oxford University Press, 2003. -- xv, 350 p. -- ISBN 0195153472. -- DDC 973.4
 
@@ -3373,23 +3373,23 @@ Kerman, Piper. -- Orange Is the New Black: My Year in a Women's Prison. -- Compu
 
 
 Keys, Logan. -- The last city. -- Computer data (1 file). -- Le Chat Publishing, 2015. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B00ZUA2X3M. -- DDC 813.
-Kindle Buffet. -- Computer data. -- [S.l., n.d.] -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://www.weberbooks.com/kindle/. 1. 002.
+Kindle Buffet. -- Computer data. -- [S.l., n.d.] -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://www.weberbooks.com/kindle/ -- DDC 002.
 
 
 King, Austin. -- Nimbus : a steampunk novel (part one) / Austin King; B.J. Keeton. -- Computer data (1 file : 307 KB). -- [S.n., 20--]. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B007YJ5A82. -- DDC 813.
 
 
-King, Martin Luther. -- The influence of the mystery religions on Christianity. -- Computer data (1 file : 86 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1453.doc) -- DBID 1542. 1. 260.
+King, Martin Luther. -- The influence of the mystery religions on Christianity. -- Computer data (1 file : 86 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1453.doc) -- DBID 1542 -- DDC 260.
 
 
 Kingsley, Charles. -- The water-babies / by Charles Kingsley; Illustrated by Jessie Willcox Smith. -- Computer data (1 file). -- Dodd, Mead and Company, Inc., c1916. -- on Asus Transformer Tablet. -- System requirements: Kindle app. -- Title from cover page. -- DDC 813.
 
 > Ch. 3: Tom becomes a waterbaby.
 
-Kiorgaard, Deirdre. -- RDA and MARC21. -- Computer data (1 file : 2.9 kb) -- [S.l., s.n.], 2006. -- Title from p. 1. -- File name: (6568.pdf). -- DBID 6568. 1. 025.3.
+Kiorgaard, Deirdre. -- RDA and MARC21. -- Computer data (1 file : 2.9 kb) -- [S.l., s.n.], 2006. -- Title from p -- DDC -- File name: (6568.pdf). -- DBID 6568 -- DDC 025.3.
 
 
-Kipp, Margaret E.I. -- Searching with tags. -- Computer data (1 file : 182 kb) -- Title from resource. -- File name: (10157.pdf) -- DBID 10157. -- IN Knowledge Organization. -- Vol. 37, no. 4 (2010). 1. 025.
+Kipp, Margaret E.I. -- Searching with tags. -- Computer data (1 file : 182 kb) -- Title from resource. -- File name: (10157.pdf) -- DBID 10157. -- IN Knowledge Organization. -- Vol. 37, no. 4 (2010) -- DDC 025.
 
 Klass, Myleene. -- Moving on. -- Computer data. -- United Kingdom: Universal Classics and Jazz, 2003. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.66.
 
@@ -3405,13 +3405,13 @@ Klein, Ezra. -- This 4x6 index card has all the financial advice you'll ever nee
 > Make financial advisor commit to a fiduciary standard.
 > Promote social insurance programs to help people when things go wrong.
 
-Kling, Michael. -- 9 frugal ways to treat the common cold. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- File name: 5378.pdf. -- IN Wise Bread. -- (Jan. 4, 2012). 1. 613.
+Kling, Michael. -- 9 frugal ways to treat the common cold. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 5378.pdf. -- IN Wise Bread. -- (Jan. 4, 2012) -- DDC 613.
 
 
 Klosowki, Thorin. -- The best productivity tricks used by evil dictators. -- Computer data (1 file : 2 mb) -- on 1 external hard drive. -- System requirements: PDF file reader; USB port. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012). -- DDC 150.
 > 1. Force difficult decisions on people when their willpower is weak. -- 2. Create a five-year place. -- 3. Purge threats to your power. -- 4. Embrace your "Cult of Personality" . -- 5. Give direct, powerful speeches. -- 6. Learn from experiences, not books.
 
-Klosowski, Thorin. -- Chill Out. -- Computer file. -- on 1 external hard drive. -- File name: (3146.txt). -- DBID 3146. -- IN Lifehacker. -- Aug. 15, 2012. 1. 152.
+Klosowski, Thorin. -- Chill Out. -- Computer file. -- on 1 external hard drive. -- File name: (3146.txt). -- DBID 3146. -- IN Lifehacker. -- Aug. 15, 2012 -- DDC 152.
 
 
 Klosowski, Thorin. -- The importance of self-awareness, and how to become more self aware. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Filename: 3333.txt. -- Also available on the WWW (http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518). -- DBID 3333. -- IN Lifehacker. -- (Aug 21, 2014). -- DDC 158.1.
@@ -3422,7 +3422,7 @@ Klosowski, Thorin. -- The importance of self-awareness, and how to become more s
 
 Kohn, Sally. -- The opposite of hate. -- Computer data -- Algonquin Books, 2018. -- System requirements: Kindle app. -- Title from amazon.com. -- Also available on the World Wide Web. -- URL https://read.amazon.com/?asin=B075G4W7VF . AISN B075G4W7VF. -- DDC 152.
 
-Kolata, Gina. -- Flu : The story of the great influenza pandemic of 1918 and the search for the virus that caused it. -- New York : Simon & Schuster, c1999, 2005. -- xi, 338 p. -- ISBN 9780743203982. -- DBID 3028. 1. 614.
+Kolata, Gina. -- Flu : The story of the great influenza pandemic of 1918 and the search for the virus that caused it. -- New York : Simon & Schuster, c1999, 2005. -- xi, 338 p. -- ISBN 9780743203982. -- DBID 3028 -- DDC 614.
 
 Kooks (Musical group). -- Inside In, Inside Out. -- Computer data. -- on 1 external hard drive. -- England: Virgin Records, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
@@ -3430,7 +3430,7 @@ Kooks (Musical group). -- Inside In, Inside Out. -- Computer data. -- on 1 exter
 Kosciejew, Marc. -- Inside an Axis of Evil Library. -- Computer data (1 file : 165 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10159.pdf) -- DBID 10159. -- IN Feliciter. -- Vol. 55, no. 4 (2009), p. 167-170. 028.
 
 
-Koven, Suzanne. -- Charting the human condition. -- Computer data (1 file : 8 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: (10143.txt) -- DBID 10143. -- IN The Boston Globe. -- (Jan. 22, 2012). 1. 808.
+Koven, Suzanne. -- Charting the human condition. -- Computer data (1 file : 8 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10143.txt) -- DBID 10143. -- IN The Boston Globe. -- (Jan. 22, 2012) -- DDC 808.
 
 
 Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; Photographs by Daniel Rodriguez. -- Computer data (1 file : 2926 KB). -- Stackpole Books, 2008. -- on ASUS tranformer tablet. -- Title from cover. -- System requirements: Kindle app. -- DDC 289.7.
@@ -3465,7 +3465,7 @@ Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; 
 
 
 
-Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 0121.txt -- DBID 3117. 1. 025.3.
+Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 0121.txt -- DBID 3117 -- DDC 025.3.
 
 
 Lamoreux, Daniel. -- Apparition Lake / Daniel Lamoreux, Doug Lamoreux. -- Computer data. -- Creativia, 2014. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
@@ -3520,10 +3520,10 @@ Lao Tsu. -- Tao Te Ching / Lao Tsu; translated by Gia-Fu Feng and Jane English. 
 Lao Tzu. -- Tao Te Ching / Lao Tzu; Dennis Waller. -- Computer data (1 file : 143 kb). -- D. Waller, c2012. -- on ASUS tranformer tablet. -- Title from cover. -- System requirements: Kindle app.  -- ASIN B0096DIIHE. -- DDC 299.
 
 
-Lardinois, Frederic. -- What are you looking at? -- Computer data. -- on 1 external hard drive. -- Title from p. 1. -- File name: (10073.pdf). -- DBID 10073. -- IN ReadWriteWeb (Feb. 6, 2009). 1. 004.67.
+Lardinois, Frederic. -- What are you looking at? -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10073.pdf). -- DBID 10073. -- IN ReadWriteWeb (Feb. 6, 2009) -- DDC 004.67.
 
 
-Larson, Elizabeth. -- Library renewals. -- Computer data (1 file : 38.3 kb). -- on 1 external hard drive. -- Title from resource. -- File name: (0302.pdf). -- IN Reason. (Mar. 1994). -- DBID 302. 1. 020
+Larson, Elizabeth. -- Library renewals. -- Computer data (1 file : 38.3 kb). -- on 1 external hard drive. -- Title from resource. -- File name: (0302.pdf). -- IN Reason. (Mar. 1994). -- DBID 302 -- DDC 020
 
 Laurent, Peter. -- The Covert Academy. -- Computer data (1 file). -- [S.n., n.d.]. -- on ASUS transformer tablet. -- System requirments: Kindle app. -- Title from title page. -- DDC 813.
 
@@ -3549,24 +3549,24 @@ Leuchtenburg, William E. -- Herbert Hoover. -- Time Books, c2009. -- xviii, 186 
 > Hoover is our shepherd / We are in want / He maketh us to lie / Down on the park benches / He leadeth us beside the still factories / He disturbeth our soul. -Parody circulated by war veterans in the '32 campaign. -p. 140 -f
 > Critics also misrepresented Hoover as a Wall Street lackey. 'The only trouble with capitalism is the capitalists,' he had told the columnist Mark Sullivan. 'They're too damned greedy.' -q -p. 148
 
-Lewis, Benny. -- 29 life lessons learned in travelling in the world for 8 years straight. -- on 1 external hard drive. -- Computer data (1 file : 748 kb). -- Title from p. 1. -- File name: (10133.pdf) -- DBID 10133. -- IN Fluent in 3 months. -- [2011?] -- URL http://www.fluentin3months.com. 1. 910.
+Lewis, Benny. -- 29 life lessons learned in travelling in the world for 8 years straight. -- on 1 external hard drive. -- Computer data (1 file : 748 kb). -- Title from p -- DDC -- File name: (10133.pdf) -- DBID 10133. -- IN Fluent in 3 months. -- [2011?] -- URL http://www.fluentin3months.com -- DDC 910.
 
-Library bill of rights. -- Computer data (1 file : 2 kb) -- [S.l.] : American Library Association, 1996. -- on 1 external hard drive. -- Title from resource. -- File name: (1080.txt) -- DBID 1080. 1. 020.
-
-
-Library of Congress. -- American memory [database]. -- Computer file (1 file : 141 mb) -- [Washington, D.C.] : Library of Congress, [n.d.]. -- Mode of Access: Gopher (gopher://justinleetyler.com/0/databases/american_memory.mrk). -- DBID 3129. 1. 973.05.
-
-Library of Congress. -- Disseminating information on the internet. -- Computer data (1 file : 1.6 mb) -- [S.l.] : Library of Congress, 1994. -- on 1 external hard drive. -- Title from cover. -- File name: (10134.pdf) -- DBID 10134. 1. 025.
+Library bill of rights. -- Computer data (1 file : 2 kb) -- [S.l.] : American Library Association, 1996. -- on 1 external hard drive. -- Title from resource. -- File name: (1080.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1080.txt) -- DBID 1080 -- DDC 020.
 
 
-Library of Congress. Network Development and MARC Standards Office. -- MARC 21 Format for Authority Data / Network Development and MARC Standards Office. -- 1999 ed. -- Computer data (1 file : 80 kb). -- [Washington, DC] : Library of Congress, 2006. -- on 1 external hard drive. -- Title from p. 1. -- File name: (5574.txt). -- DBID 5574. 1. 025.4
+Library of Congress. -- American memory [database]. -- Computer file (1 file : 141 mb) -- [Washington, D.C.] : Library of Congress, [n.d.]. -- Mode of Access: Gopher (gopher://justinleetyler.com/0/databases/american_memory.mrk). -- DBID 3129 -- DDC 973.05.
+
+Library of Congress. -- Disseminating information on the internet. -- Computer data (1 file : 1.6 mb) -- [S.l.] : Library of Congress, 1994. -- on 1 external hard drive. -- Title from cover. -- File name: (10134.pdf) -- DBID 10134 -- DDC 025.
 
 
-Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- Computer data (1 file : 33 kb) -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- Title from p. 1. -- File name: (3089.txt) -- DBID 3089. 1. 025.4.
+Library of Congress. Network Development and MARC Standards Office. -- MARC 21 Format for Authority Data / Network Development and MARC Standards Office. -- 1999 ed. -- Computer data (1 file : 80 kb). -- [Washington, DC] : Library of Congress, 2006. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (5574.txt). -- DBID 5574 -- DDC 025.4
 
-Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- Computer data (1 file : 34 kb). -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- Title from p.1. -- File name: (1703.txt). -- DBID 1703. 1. 025.3.
 
-Library of Congress. Working group on the future of of bibliographic control. -- On the record. -- Computer data (1 file : 442 kb.) -- [Washington, D.C. : Library of Congress], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (6452.pdf). -- DBID 6452. 1. 025.3.
+Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- Computer data (1 file : 33 kb) -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3089.txt) -- DBID 3089 -- DDC 025.4.
+
+Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- Computer data (1 file : 34 kb). -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- Title from p.1. -- File name: (1703.txt). -- Also available on the [World Wide Web](http://www.justinleetyler.com/1703.txt). -- DBID 1703 -- DDC 025.3.
+
+Library of Congress. Working group on the future of of bibliographic control. -- On the record. -- Computer data (1 file : 442 kb.) -- [Washington, D.C. : Library of Congress], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (6452.pdf). -- DBID 6452 -- DDC 025.3.
 Lifehacker. -- Gizmodo Media Group, c2017. -- Title from homepage. -- -- Mode of Access: World Wide Web.Frequency: Daily. -- URL http://www.lifehacker.com. -- DDC 001.
 Lightfoot, Gordon. -- If You Could Read My Mind. -- Computer data. -- Burbank, Calif.: Reprise Records, 1980. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
@@ -3670,7 +3670,7 @@ Lopez, Rob. -- Solar Storm. -- [S.n.], 2017. -- Mode of Access: World Wide Web h
 Luoma, Mike. -- Vatican assassin. -- 1st ed. -- Computer data (1 file : 579 KB). -- Lulu, 2005. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- AISN B001F5188C. -- DDC 813
 
 
-Luther, Judy. -- Streamlining book metadata workflow. Computer data. -- [S.l.] : NISO, c2009. -- on 1 external hard drive. -- Title from cover. -- File name: (10076.pdf). 1. 025.3.
+Luther, Judy. -- Streamlining book metadata workflow. Computer data. -- [S.l.] : NISO, c2009. -- on 1 external hard drive. -- Title from cover. -- File name: (10076.pdf) -- DDC 025.3.
 
 Luther, Kate. -- 7 ways to get your life back into balance. -- Computer data. -- Mode of Access: World Wide Web. -- Title from resource (http://www.wisebread.com/7-ways-to-get-your-life-back-into-balance?). -- IN Wisebread. -- (May 13, 2014). -- DDC 152.
 
@@ -3688,13 +3688,13 @@ Lynch, Ray. -- Nothing Above My Shoulders but the Evening. -- Computer data. -- 
 Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- Computer data. -- 2012- . -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Directory name: 3271. -- DBID 3271. -- DDC 779.
 
 
-M.H. -- The right way to write in a journal. -- Computer data (1 file : 81 kb.) -- Title from resource. -- File name: (10058.pdf). -- DBID 10058. -- IN Shape. -- Vol. 24, no. 2 (Oct. 2004). 1. 808.06692.
+M.H. -- The right way to write in a journal. -- Computer data (1 file : 81 kb.) -- Title from resource. -- File name: (10058.pdf). -- DBID 10058. -- IN Shape. -- Vol. 24, no. 2 (Oct. 2004) -- DDC 808.06692.
 
 
-Ma, Yan. -- Cataloging internet resources. -- [S.l. : s.n.], 2000. -- Title from resource. -- Mode of Access: World Wide Web ( http://www.uri.edu/personal/yanma/550/cataloginginternet2/ ) -- DBID 3077. 1. 025.3.
+Ma, Yan. -- Cataloging internet resources. -- [S.l. : s.n.], 2000. -- Title from resource. -- Mode of Access: World Wide Web ( http://www.uri.edu/personal/yanma/550/cataloginginternet2/ ) -- DBID 3077 -- DDC 025.3.
 
 
-MacKay, Charles. -- Memoirs of extraordinary popular delusions and the madness of crowds. -- Computer data (1 file). -- London : Office of the National Illustrated Library, 1852. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3064. 1. 001.
+MacKay, Charles. -- Memoirs of extraordinary popular delusions and the madness of crowds. -- Computer data (1 file). -- London : Office of the National Illustrated Library, 1852. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3064 -- DDC 001.
 
 MacLeod, Norman. -- The great extinctions. -- Firefly books, c2013. -- 208 p. -- ISBN 9781770851870. -- DDC 576.
 
@@ -3773,27 +3773,27 @@ Mandel, Emily St. John. -- Station eleven. -- Computer data. -- Alfred A. Knopf,
 > Miranda gives the comics to Arthur, and he gives them to Tonya. -f
 > The Symphony goes to the Airport -s
 
-Mandelson, Peter. -- The third man. -- Computer data. -- [S.l.] : Harper Press, 2010. -- on Asus Transformer Tablet. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3042. 1. 320.
+Mandelson, Peter. -- The third man. -- Computer data. -- [S.l.] : Harper Press, 2010. -- on Asus Transformer Tablet. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3042 -- DDC 320.
 
 
 Manilow, Barry. -- Ultimate Manilow. -- Computer data. -- New York, NY: Arista, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 782.
 
 
-Manjarrez, Carlos A. -- Who's in the queue? / by Carlos A. Manjarrez and Kyle Schoembs. -- Computer data (1 file : 469 kb) -- Washington, DC : Institute of Museums and Library Services, 2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10112.pdf) -- DBID 10112. 1. 025.5.
+Manjarrez, Carlos A. -- Who's in the queue? / by Carlos A. Manjarrez and Kyle Schoembs. -- Computer data (1 file : 469 kb) -- Washington, DC : Institute of Museums and Library Services, 2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10112.pdf) -- DBID 10112 -- DDC 025.5.
 
 
-Manley, Will. -- Winning the budget wars. -- Computer data (1 file : 113 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: (9048.pdf) -- DBID 9048 -- IN American Libraries. -- (Jun/Jul. 2010). 1. 025.1.
+Manley, Will. -- Winning the budget wars. -- Computer data (1 file : 113 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (9048.pdf) -- DBID 9048 -- IN American Libraries. -- (Jun/Jul. 2010) -- DDC 025.1.
 
 
-Mann, Thomas. -- "On the record" but off the track. -- Computer data (1 file : 336 kb) -- [S.l. : s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- Mode of Access: World Wide Web (http://www.justinletyler.com/library/7000.pdf). -- DBID 7000. 1. 025.3.
+Mann, Thomas. -- "On the record" but off the track. -- Computer data (1 file : 336 kb) -- [S.l. : s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- Mode of Access: World Wide Web (http://www.justinletyler.com/library/7000.pdf). -- DBID 7000 -- DDC 025.3.
 
-Map and Guide : White Mountains and New Hampshire Attractions 2012; highways and byways; listings for dinning, lodging, shopping scenic tours and more; also, statewide attractions inside. -- Scale indeterminable-- [S.l. : hite Mountains New Hampshire], 2012. -- 2 maps on 1 sheet. -- DBID 3124. 1. 912.742.
+Map and Guide : White Mountains and New Hampshire Attractions 2012; highways and byways; listings for dinning, lodging, shopping scenic tours and more; also, statewide attractions inside. -- Scale indeterminable-- [S.l. : hite Mountains New Hampshire], 2012. -- 2 maps on 1 sheet. -- DBID 3124 -- DDC 912.742.
 
 
-Marlow, Frank. -- The Hadza : hunter-gatherers of Tanzania. -- Berkeley : University of California Press, c2010. -- x, 325 p. -- ISBN 9780520253414. 1. 305.
+Marlow, Frank. -- The Hadza : hunter-gatherers of Tanzania. -- Berkeley : University of California Press, c2010. -- x, 325 p. -- ISBN 9780520253414 -- DDC 305.
 
-Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title from resource and supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443. 1. 090.
-Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title from resource and supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443. 1. 090.
+Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title from resource and supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443 -- DDC 090.
+Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title from resource and supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443 -- DDC 090.
 
 Marsden, John. -- Tomorrow, when the war began. -- Scholastic Inc., c1993. -- 277 p. -- ISBN 0439829100. -- DDC 823.
 > 1 introduction to characters. A group of 7 teens plan to go camping. -s
@@ -3808,7 +3808,7 @@ Marsden, John. -- Tomorrow, when the war began. -- Scholastic Inc., c1993. -- 27
 > All these words, words like 'evil' and 'cicious', they meant nothing to nature. Yes, evil was a human invention. -p. 235 -q
 > 20 They plan on blowing up the bridge. -s
 
-Martin, James, S.J. -- The Jesuit guide to (almost) everything. -- New York, NY : HarperOne, c2010. -- vii, 420 p. -- ISBN 9780061432682. -- DBID 10116. 1. 248.
+Martin, James, S.J. -- The Jesuit guide to (almost) everything. -- New York, NY : HarperOne, c2010. -- vii, 420 p. -- ISBN 9780061432682. -- DBID 10116 -- DDC 248.
 
 
 Martucci, Jennifer. -- Planet Urth / [Jennifer and Christopher Martucci]. -- 1st ed. -- Computer data (1 file). -- [The authors], c2013. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- DDC 813.
@@ -3821,7 +3821,7 @@ Massachusetts outdoor recreation map. -- Scale [1:316800] and [1:158400]. -- [Ma
 Massachussetts Society of Certified Public Accountants, Inc. Federal Tax Committee. -- The record retention guide. -- Computer data (1 file : 657 kb). -- Massachussets Society of CPAs, Inc., c2004. -- On external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3263.pdf. -- DDC 651.5
 
 
-Mastbaum, Blair. -- Clay's way. -- Los Angeles : Alyson Books, 2004. -- 246 p. -- ISBN 1555838197. 1. 813.
+Mastbaum, Blair. -- Clay's way. -- Los Angeles : Alyson Books, 2004. -- 246 p. -- ISBN 1555838197 -- DDC 813.
 
 > I don't know how to seem normal. I need a prop. -p. -q
 > My dick is the center of my existence -p. 112 -q
@@ -3831,7 +3831,7 @@ Mastbaum, Blair. -- Clay's way. -- Los Angeles : Alyson Books, 2004. -- 246 p. -
 > I think it's disgusting that I'm related to them. They envy dudes that own yachts but don't have any books on the shelves. -p. 21 -q
 > I'm so trapped inside my mind I didn't even notice this shit all over me. -p. 5 -q
 
-Masur, Louis P. -- The civil war. -- New York, NY : Oxford University Press, c2011. -- xii, 118 p. -- ISBN 9780199740482. -- DBID 3074. 1. 973.7.
+Masur, Louis P. -- The civil war. -- New York, NY : Oxford University Press, c2011. -- xii, 118 p. -- ISBN 9780199740482. -- DBID 3074 -- DDC 973.7.
 
 > In the late eighteenth century, when Americans spoke of their country they still meant their state, not the nation.  -p. 4 -q
 > From 1840 to 1850, the population of the United States increased from seventeen to twenty-three million. There were more than three million slaves, half a million more than ten years earlier.  -p. 9 -q
@@ -3840,13 +3840,13 @@ Masur, Louis P. -- The civil war. -- New York, NY : Oxford University Press, c20
 > Ralph Waldo Emerson: 19th c., m., Founder of transcendentalism and public lecturer.  -p. 11 -f
 > Hartford Convention: 19th c. American (New England. A federalist movement for succession in response to anti-federalist (particularly, Jefferson's and Madison's) policies.  -p. 5 -f
 
-Matthewson, Jennifer. -- The moments of your life. -- Computer data (1 file : 5.5 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10134.PDF) -- DBID 10134. -- IN Writer. -- Vol. 117, no. 3 (Mar. 2004). 1. 808.
+Matthewson, Jennifer. -- The moments of your life. -- Computer data (1 file : 5.5 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10134.PDF) -- DBID 10134. -- IN Writer. -- Vol. 117, no. 3 (Mar. 2004) -- DDC 808.
 
 
-Maurer-Mathison, Diane V. -- Chapter 2 : Mastering folded-paper designs. -- Computer data (1 file : 8.6 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10124.pdf) -- DBID 10124. -- IN Maurer-Mathison, Diane V. -- Paper in three dimensions. -- New York : Watson-Guptill, 2006. -- ISBN 9780823067787. 1. 736.98.
+Maurer-Mathison, Diane V. -- Chapter 2 : Mastering folded-paper designs. -- Computer data (1 file : 8.6 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10124.pdf) -- DBID 10124. -- IN Maurer-Mathison, Diane V. -- Paper in three dimensions. -- New York : Watson-Guptill, 2006. -- ISBN 9780823067787 -- DDC 736.98.
 
 
-Maxwell, Robert L. -- Maxwell's guide to authority work. -- Chicago : American Library Association, 2002. -- xi, 275 p. -- ISBN 0838908225 -- DBID 7060. 1. 025.3.
+Maxwell, Robert L. -- Maxwell's guide to authority work. -- Chicago : American Library Association, 2002. -- xi, 275 p. -- ISBN 0838908225 -- DBID 7060 -- DDC 025.3.
 
 Mayes, L.M. -- Dark days. -- Computer data (1 file : 470 KB). -- BB Books, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from amazon.com desc. -- AISN B00BNZDOFE. -- DDC 813.
 
@@ -3854,7 +3854,7 @@ Mayes, D.R. -- The last shaman. -- Computer data (1 file : 326 kb). -- [S.n., n.
 
 
 
-McCahill, Mark P. -- Evolution of Internet Gopher / Mark P. McCahill, Farhad X. Ankesaria -- Computer data (1 file) -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- File name: 8373.pdf -- IN Journal of Universal Computer Science. -- Vol. 1, no. 4 (1995). 1. 004.69.
+McCahill, Mark P. -- Evolution of Internet Gopher / Mark P. McCahill, Farhad X. Ankesaria -- Computer data (1 file) -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 8373.pdf -- IN Journal of Universal Computer Science. -- Vol. 1, no. 4 (1995) -- DDC 004.69.
 McCammon, Jason. -- The ancient lands. -- Computer data (1 file). -- Brown-Eyed Dreams LLC., 2009. -- System requirements: Kindle app. -- Title supplied by cataloger. -- AISN B002YX0NIU. -- DDC 813.
 McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 9780307476302. -- DDC 813.
 > A person who had no one would be well advised to cobble together some pasable ghost. -57 -q
@@ -3881,7 +3881,7 @@ McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPub
 McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
 
-McDonald, D. R. -- Cape Breton Road. -- 1st ed. -- New York : Harcourt, c2000. -- 288 p. -- ISBN 0151005230. 1. 813.
+McDonald, D. R. -- Cape Breton Road. -- 1st ed. -- New York : Harcourt, c2000. -- 288 p. -- ISBN 0151005230 -- DDC 813.
 
 McDonald, M.P. -- Infection. -- Computer data (1 file). -- MPMcD Publishing, 2016. -- System requirements: Kindle app. -- Title from amazon.com. -- AISN B01FYBBC2Y. -- DDC 813.
 McElhaney, Scott. -- The mystic saga. -- Computer data (1 file : 518 KB). -- Superluminal, 2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
@@ -3889,13 +3889,13 @@ McElhaney, Scott. -- The mystic saga. -- Computer data (1 file : 518 KB). -- Sup
 McGuffie, Duncan. -- The hymn sandwich : a brief history of Unitarian worship. -- Computer data (1 file). -- [S.n., 19--]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3366.pdf. -- DDC 289.1
 
 
-McKay, Brett. -- A history of the American Bachelor: Part II -- Post-Civil War / by Brett & Kate McKay. -- Computer data (1 file : 23 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3003.txt) -- DBID 3003.txt. -- IN The Art of Manlines. -- (May 1, 2012). 1. 305.31
+McKay, Brett. -- A history of the American Bachelor: Part II -- Post-Civil War / by Brett & Kate McKay. -- Computer data (1 file : 23 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3003.txt) -- DBID 3003.txt. -- IN The Art of Manlines. -- (May 1, 2012) -- DDC 305.31
 
 
-McKay, Brett. -- The cabinet of invisible counselors / Brett McKay, Kate McKay. -- Computer data (1 file : 22.5 kb) -- Title from resource. -- on 1 external hard drive. -- File name: (10165.txt) -- DBID 10165. -- IN The Art of Manliness. 1. 646.7
+McKay, Brett. -- The cabinet of invisible counselors / Brett McKay, Kate McKay. -- Computer data (1 file : 22.5 kb) -- Title from resource. -- on 1 external hard drive. -- File name: (10165.txt) -- DBID 10165. -- IN The Art of Manliness -- DDC 646.7
 
 
-McKay, Brett. -- The libraries, studies, and writing rooms of 15 famous men / by Brett & Kate McKay. -- Computer data (1 file : 13.7 mb). -- on 1 external hard drive. -- Title from p. 1. -- File name: (3068.pdf). -- DBID 3069. -- IN The art of manliness [website]. -- (June 19, 2012). 1. 690.
+McKay, Brett. -- The libraries, studies, and writing rooms of 15 famous men / by Brett & Kate McKay. -- Computer data (1 file : 13.7 mb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3068.pdf). -- DBID 3069. -- IN The art of manliness [website]. -- (June 19, 2012) -- DDC 690.
 
 
 McKay, Brett. -- How and why to become a lifelong learner. -- Computer data. -- Mode of Access: World Wide Web (http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/). -- Title from resource. -- IN The art of Manliness [website]. -- (Mar. 18, 2013). -- DDC 374.
@@ -3913,23 +3913,23 @@ McKennitt, Loreena. -- Parallel Dreams. -- Computer data. -- Stratford, Ontario:
 McKennitt, Loreena. -- The Book of Secrets. -- Computer data. -- Burbank, Calif: Warner Bros, 1997. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67
 
 
-McKibben, Bill. -- Deep economy. -- New York : Times Books, 2007. -- 361 p. -- ISBN 9780805076264. -- DBID 3111. 1. 330.9
+McKibben, Bill. -- Deep economy. -- New York : Times Books, 2007. -- 361 p. -- ISBN 9780805076264. -- DBID 3111 -- DDC 330.9
 McKibben, Nancy. -- The chaos protocol. -- Computer data (1 file : 525 KB). -- Malmesbury Books, 2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B009N83PSO. -- DDC 813.
 
 
-McLaughlin, Brett. -- What is HTML5? -- Computer data (1 file). -- [S.l. : s.n., 2011]. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043. 1. 005.
+McLaughlin, Brett. -- What is HTML5? -- Computer data (1 file). -- [S.l. : s.n., 2011]. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043 -- DDC 005.
 
 McLennan, Scotty. -- Christ for Unitarian Universalist. -- Computer data. -- Skinner House, 2016. -- System requirements: Kindle app. -- Title from title page. -- ISBN 9781558967724. -- DDC 232.
 > Borg ... finds ... Jesus does not about being the messiah ... the pre-easter Jesus was a Jewish Prophet (ad mystic, wisdom teacher, leader, and mevemtn builder), but but the jewish messiah. -q -- He was a Jewish Prophet, who proclaimed the in-breaking kingdom of God, which was to change the course of human history. He was also a mystic, wisdom teacher, and healer. -q -- He stood on the side of the poor and oppressed against the domination system of the larger society. -q -- Christmas brings us back to the crib of life to start over: aware of what has gone before, conscious that nothing can last, but full of hope that this time, finally, we can learn what it takes to live well grow to full stature of soul and spirit, get it right. Joan Chittister. -q -- Why ... celebrate christmas? ... we believe in songs that are born in the hearts and minds of people. WE believe that some stories deserve to lie forever because of what they tell of uf ourselves. -q -- Oregin found celebrations of births objectioable, too pagan. -q -- Shepherds, helping watch flocks by night in the fields, ocured not in winter, but summer. -f -- Jesus... had a special capacity to help humanity rise to a higher level of love and wisdom. -q -- Incarnation : an embodyment of those spiritual gifts in human life. -q -- Move from selfishness to selflessness, from pettiness to transcendence ... we can help others lift theirs. -q Their music [christmas carols] is wonderful, they fill us with joy, they are infused with a feeling of hospitality and goodwill, which is what Christianity as a whole insists upon. -q -- Worldly power comes and goes, but the power that eminates from this poor baby's birth last forever. -q -- Ch 2: Jesus as the one who so completely incarnates spiritual gifts. -- How does this help us get through the day or experience a better tomorrow? -q -- 
 
-McMahan, Jennifer L. -- Public records resources online. -- Computer data. -- [S.l. : J. McMahan], 2011. -- on 1 external hard drive. -- Title from p. 1. -- File name: (10111.pdf). -- DBID 10111. 1. 011.53.
+McMahan, Jennifer L. -- Public records resources online. -- Computer data. -- [S.l. : J. McMahan], 2011. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10111.pdf). -- DBID 10111 -- DDC 011.53.
 
 McNally, S. Matthew. -- The reclaiming. -- Computer data (1 file). -- Omnifisc, 2013.  -- on ASUS tranformer tablet. -- System requirements: kindle app. -- Title from title page. -- ASIN B00E806C0G. -- DDC 813.
 
 Mead, Charles. -- 20XX. -- Computer data (1 file : 672 KB). -- C. Mead, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00ACLCXV6. -- DDC 813
 
 
-Mead, Walter Russell. -- The one and future liberalism. -- Computer data (1 file : 49.7 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: (10144.txt) -- DBID 10144. -- IN The American Interest. -- Jan. 24, 2012. 1. 330.
+Mead, Walter Russell. -- The one and future liberalism. -- Computer data (1 file : 49.7 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10144.txt) -- DBID 10144. -- IN The American Interest. -- Jan. 24, 2012 -- DDC 330.
 
 > A rich and rewarding human life neither comes from nor depends on consumption, even lots of consumption; it comes from producing goods and services of value through the integration of technique with a vision of social and personal meaning. Being fully human is about doing good work that means something. -p. -q
 > A liberal is someone who seeks ordered liberty through politics?namely, the reconciliation of humanity?s need for governance with its drive for freedom in such a way as to give us all the order we need (but no more) with as much liberty as possible. -p. -q
@@ -3958,13 +3958,13 @@ Michael, Paul. -- 10 mantras that will transform your life. -- Computer data (1 
 > "Believe you can and you're halfway there." — Theodore Roosevelt
 > "Be the change you wish to see in the world." — NOT Gandhi
 
-Michigan. Dept. of History, Arts and Libraries. -- Records retention and disposal schedule. -- Computer data (1 file : 949 kb) -- [Lansing, Mich. : State of Michigan], 1998. -- on 1 external hard drive. -- Title from resource. -- File name: (8803.pdf) -- DBID 8803. 1. 651.5.
+Michigan. Dept. of History, Arts and Libraries. -- Records retention and disposal schedule. -- Computer data (1 file : 949 kb) -- [Lansing, Mich. : State of Michigan], 1998. -- on 1 external hard drive. -- Title from resource. -- File name: (8803.pdf) -- DBID 8803 -- DDC 651.5.
 
 
-Millard, Candice. -- The river of doubt. -- Computer data (1 file). -- [S.l.] : Anchor books, 2009. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Kindle app. -- DBID 3044. 1. 918.
+Millard, Candice. -- The river of doubt. -- Computer data (1 file). -- [S.l.] : Anchor books, 2009. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Kindle app. -- DBID 3044 -- DDC 918.
 
 
-Miller, John Jackson. -- Precipice. -- Computer data (1 file). -- [S.l.] : LucasBooks, 2009. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DBID 3045. 1. 813.
+Miller, John Jackson. -- Precipice. -- Computer data (1 file). -- [S.l.] : LucasBooks, 2009. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DBID 3045 -- DDC 813.
 
 
 Miller, Zana Kate. -- How to organize a library. -- Computer data (1 file). -- Libary Bureau, c1921. -- on 1 external hard drive. -- System requriements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3319.pdf. -- LJLT 3319. -- DDC 023.
@@ -3993,7 +3993,7 @@ Ming-Dao, Deng. -- 365 Tao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 97800625
 
 
 
-Miller, Rand. -- Myst : the book of Atrus / [by] Rand and Robyn Miller; with David Wingrove. -- New York : Hyperion, c1995. -- 422 p. -- ISBN 0786881887. -- DBID 3101. 1. 813.
+Miller, Rand. -- Myst : the book of Atrus / [by] Rand and Robyn Miller; with David Wingrove. -- New York : Hyperion, c1995. -- 422 p. -- ISBN 0786881887. -- DBID 3101 -- DDC 813.
 > Seven years he had lived with her now; seven years in this dry and desolate place, and never once had she let them go hungry. That in itseld, he [Atrium] knew, was a kind of miracle... 1ach night, surviving, they gave thanks.  -p. 10 -q
 > Always look at the interrelatedness of things, and remember that the whole of one thing is always just a part of something else, something larger. -Anna  -p. 27 -q
 > Ch. 06: Ghen and Atrus make it to D'ni. -- Ghen shows Atrus the library, and how the books work.  -p. 106-130 -s
@@ -4165,7 +4165,7 @@ Minkman, Jen. -- The island. -- Computer data (1 file : 248 KB). -- Patchwork Pr
 > ... was making a book to give himself and the others around him courage through stories. To tell them that the Force would always be with them, even if their parents weren’t.
 > The very first Bookkeeper. The man who taught us about the importance of knowledge in books. -q
 
-MIT OpenCourseWare [website]. -- Computer data. -- [S.l.], s.n., c2002- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://ocw.mit.edu/ ) -- DBID 3083. 1. 375.
+MIT OpenCourseWare [website]. -- Computer data. -- [S.l.], s.n., c2002- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://ocw.mit.edu/ ) -- DBID 3083 -- DDC 375.
 
 Mitchell, J. Baron. -- Midnight city. -- Thomas Dunn Books, c2012. -- 392 p. -- ISBN 9781250036285. -- DDC 813.
 > 10 Holt finds a girl named Zoey; the assembly is after her; she knows his name before he tells it. -s
@@ -4173,7 +4173,7 @@ Mitchell, J. Baron. -- Midnight city. -- Thomas Dunn Books, c2012. -- 392 p. -- 
 > 11-15 S They run into Mantis's; Zoey and Mira get away, but he finds them again. And Holt turns Zoey loose. -s
 > 17 They come across an abandoned city, and a flash flood. Mira saves Holts life. -s
 
-Moan, Lee. -- Symbiosis. -- Computer data (1 file). -- [S.l. : Wierd New Ink, 2011] -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3046. 1. 813.
+Moan, Lee. -- Symbiosis. -- Computer data (1 file). -- [S.l. : Wierd New Ink, 2011] -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3046 -- DDC 813.
 
 
 Moods Unlimited Orchestra (Musical group). -- The Elton John Story: Vol. 2. -- Computer data. -- St-Laurent, Quebec: Image, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
@@ -4181,7 +4181,7 @@ Moods Unlimited Orchestra (Musical group). -- The Elton John Story: Vol. 2. -- C
 Moore, Michael. -- Talisman of Ictis. -- 2nd ed. -- Computer data (1 file : 356 KB). -- M.J. Moore, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00D0CISY0. -- DDC 813.
 
 
-Moore, Thomas. -- All books are sacred. -- Computer data (1 file : 607 kb). -- on 1 external hard drive. -- Title from p. 1. -- File name: (3017.pdf). -- DBID 3017. -- IN: The Huffington Post [website]. -- (May 16, 2012). 1. 303.
+Moore, Thomas. -- All books are sacred. -- Computer data (1 file : 607 kb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3017.pdf). -- DBID 3017. -- IN: The Huffington Post [website]. -- (May 16, 2012) -- DDC 303.
 
 Moore, Thomas. -- The soul's religion. -- 1st ed. -- HarperCollins, c2002. -- xx, 294 p. -- ISBN 0060192860. -- DDC 291.4.
 > Foundation of religious experience: Emptiness -- Mystery. -f
@@ -4243,7 +4243,7 @@ MTV, the First 1000 Years: New Wave. -- Computer data. -- New York: MTV Networks
 Mullin, Mike. -- Ashfall. -- Tanglewood, c2011. -- 466 p. -- ISBN 9781933718552. -- DDC 813.
 > Catastrophy: An Investigation into the Origins of the Modern World by David Keyd. Ballantine, 1999. Describes how a volcanic event in 535 A.C.E. changed civilizations across the globe. Very useful for considering the possible political, social, and epidemiological consequences of a supervolcano. -p. 460 -q
 
-My Hero. -- [S.l. : s.n., 2000.] -- 2 video discs. -- Starring Emily Joyce, Geraldine McNulty, Hugh Dennis, Lill Roughley. 1. 791.43.
+My Hero. -- [S.l. : s.n., 2000.] -- 2 video discs. -- Starring Emily Joyce, Geraldine McNulty, Hugh Dennis, Lill Roughley -- DDC 791.43.
 
 
 Murray, Katherine. -- Own your future. -- Computer data (1 file). -- Microsoft Press, c2010. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3330.pdf. -- DDC 158.
@@ -4256,14 +4256,14 @@ NACO participants' manual / edited by Patricia Van Ryn and William L. Starck. --
 Nair, R. Raman. -- Public library systems in ancient South India. -- Computer data (1 file) -- on 1 external hard drive. -- Title from resource. -- File name: 0942.pdf . -- IN ILA Bulletin. -- Vol. 27, no. 2 (Jul.-Sept. 1991). -- DDC 027.
 
 
-NASA  - NASA TV. -- Computer data. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.nasa.gov/multimedia/nasatv/index.html. -- IN NASA [homepage]. -- [United States?] : NASA, [n.d.] -- URL http://www.nasa.gov. 1. 629.
+NASA  - NASA TV. -- Computer data. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.nasa.gov/multimedia/nasatv/index.html. -- IN NASA [homepage]. -- [United States?] : NASA, [n.d.] -- URL http://www.nasa.gov -- DDC 629.
 
 
 Nasaw, David. -- Andrew Carnegie. -- New York : The Penguin Press, 2006. -- xiv, 878 p.
 
 > Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q
 
-National Research Council (U.S.). Committee on Digital Archiving and the National Archives and Records Administration. -- Building an electronic records archive at the National Archives and Records Administration. -- Computer data (1 file : 679 kb) -- Washington, DC : National Academies Press, 2005. -- on 1 external hard drive. -- Title from title page. -- File name: (8851.pdf) -- ISBN 0309551811 -- DBID 8851. 1. 025.17.Neary, Peter
+National Research Council (U.S.). Committee on Digital Archiving and the National Archives and Records Administration. -- Building an electronic records archive at the National Archives and Records Administration. -- Computer data (1 file : 679 kb) -- Washington, DC : National Academies Press, 2005. -- on 1 external hard drive. -- Title from title page. -- File name: (8851.pdf) -- ISBN 0309551811 -- DBID 8851 -- DDC 025.17.Neary, Peter
 
 
 Neary, Peter. -- The morning after a general election: the vice-regal perspective. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3270.pdf -- IN Canadian Parliamentary Review. -- Vol. 35, no. 3. (Autumn 2012). -- DDC 324.
@@ -4283,17 +4283,17 @@ Nevada, P.J. -- A Princely Affair. -- Computer data (1 file). -- [S.n., n.d.] --
 > I hope it’s more than sex, though. Love and devotion can feel amazing. 
 New E. Collective (Musical group). -- Seasons of New England. -- Computer data. -- S.l.: Agents C. Records, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, Inc., etc.], 1933- . -- v. -- Weekly. -- DBID 3144. -- ISSN 0028-9604. 1. 051.
+Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, Inc., etc.], 1933- . -- v. -- Weekly. -- DBID 3144. -- ISSN 0028-9604 -- DDC 051.
 
 
-Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p. 1. 193.9.
+Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p -- DDC 193.9.
 > The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q
 > I teach you the overman. -Zarathustra -p. 124 -q
 > When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 -q
 > Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q
 
 
-Nixon, Robin. -- Learning PHP, MYSQL, and Javascript. -- Computer data (1 file : 7.3 mb) -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8847.pdf) -- DBID 8847. 1. 005.
+Nixon, Robin. -- Learning PHP, MYSQL, and Javascript. -- Computer data (1 file : 7.3 mb) -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8847.pdf) -- DBID 8847 -- DDC 005.
 
 > The process of separating your data into tables and creating primary keys is called normalization. , p. 203 -q
 > E. F. Codd: inventor of the relational model. -p. 203 -q
@@ -4308,10 +4308,10 @@ Nouwen, Henri J.M. -- With burning hearts : a meditation on the eucharistic life
 > In a society with such an informational overload, even the most significant encounters can be reducuded to 'something interesting'... only with an invitation to 'come and stay with me' can an interesting encounter develop into a tranforming relationship. -p. 57 -
 > That's what true hospitality is all about, to offer a safe place, where the stranger can become friend. -p. 60 -q
 > We are most vulnerable when we sleep or eat together. Bed and table are the two places of intimacy. Also the two places of greatest pain... There is intimacy, friendship, community... And as their host he invites them to enter into full communion with him. -p. 61 -q
-Now That's What I Call Music!: 13. -- Computer data. -- Santa Monica, CA: Universal Music Group, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. --  File name: (music/). 1. 781.64.
+Now That's What I Call Music!: 13. -- Computer data. -- Santa Monica, CA: Universal Music Group, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. --  File name: (music/) -- DDC 781.64.
 
 
-Nozick, Robert. -- Anarchy, state, and utopia. -- Computer data (1 file). -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3047. 1. 320.
+Nozick, Robert. -- Anarchy, state, and utopia. -- Computer data (1 file). -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3047 -- DDC 320.
 
 
 	
@@ -4331,19 +4331,19 @@ Nusbaum, J.C. -- The mystic travelogues (volume 1). -- Computer data (1 file : 1
 Oaklander, Mandy. -- 25 delectable detox smoothies. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3325.pdf. -- IN Prevention. -- (Jan. 2012). -- DDC 641.
 
 
-Obama, Barack. -- The audacity of hope. -- New York: Crown Publishers, c2006. -- 365 p. -- ISBN 0307237699. 1. 923.2.
+Obama, Barack. -- The audacity of hope. -- New York: Crown Publishers, c2006. -- 365 p. -- ISBN 0307237699 -- DDC 923.2.
 
 > Or should we just stick to the Sermon on the Mount - a passage so radical that it's doubtfull that our Defence department would survive its application? -p. 218 -q
 > 'What our deliberative, pluralistic democracy does demand is that the religiously motivated translate their concerns into universal, rather than religion-specific, values.' -p. 219 -q
 O'Hearn, Patrick. -- Indigo. -- Computer data. -- Private Music, p1991. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from compact disc. -- DDC 781.67.
 
 
-Ogg, Frederic Austin Ogg. -- The governments of Europe. -- Computer data (1 file : 29990 kb). -- New York : The Macmillan Company, 1923. -- on 1 external hard drive. -- [Title from cover page]. -- File name: 2802.pdf. -- DBID 2802. 1. 320.
+Ogg, Frederic Austin Ogg. -- The governments of Europe. -- Computer data (1 file : 29990 kb). -- New York : The Macmillan Company, 1923. -- on 1 external hard drive. -- [Title from cover page]. -- File name: 2802.pdf. -- DBID 2802 -- DDC 320.
 
 
 Oke, Janette. -- The meeting place / Janette Oke, T. Davis Bunn. -- Computer data (1 file). -- Bethany House, 1999. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005BOXJ5S. -- DDC 813.
 
-OneHundredFreeBooks.com [website]. -- Computer data. -- [S.l. : s.n., 2012?] -- Title from homepage. -- Mode of Access: World Wide Web. -- URL http://ohfb.com. -- DBID 3088. 1. 002.
+OneHundredFreeBooks.com [website]. -- Computer data. -- [S.l. : s.n., 2012?] -- Title from homepage. -- Mode of Access: World Wide Web. -- URL http://ohfb.com. -- DBID 3088 -- DDC 002.
 Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide Web (http://www.onelook.com). -- Title from homepage. -- DDC 428.
 
 > ACUMEN, noun, shrewdness shown by keen insight. -f
@@ -4357,17 +4357,17 @@ Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide 
 > PETULANT, adjective: annoyed and behaving in an unreasonable way because you cannot get what you want. -f
 > PHYSIOGNOMY, noun: they way that someone's face looks. -f
 > PROFUNDITY, noun:  intellectual depth; penetrating knowledge; keen insight; etc -q
-Open Yale courses [website]. -- Computer data. -- [S.l.] : Yale University, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://oyc.yale.edu/ ) -- DBID 3086. 1. 375.
+Open Yale courses [website]. -- Computer data. -- [S.l.] : Yale University, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://oyc.yale.edu/ ) -- DBID 3086 -- DDC 375.
 
-OpencourseWare Consortium [website]. -- Computer data. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ocwconsortium.org/) -- DBID 3084. 1. 375
+OpencourseWare Consortium [website]. -- Computer data. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ocwconsortium.org/) -- DBID 3084 -- DDC 375
 
-Operating system interface design between 1981-2009. -- Computer data (1 file : 1.8 mb) -- [S.l. : s.n., 2009?] -- on 1 external hard drive. -- Title from resource. -- File name: (8816.pdf) -- Also available on the World Wide Web: http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/ . -- DBID 8816. 1. 003.
-
-
-Oppenheimer, Mark. -- Boycott the royal wedding. -- Computer data (1 file : 147 kb). -- on 1 external hard drive. -- Title from p.1. -- File name: (10098.pdf). -- DBID 10098. -- IN Slate. -- (Aug. 28, 2011). 1. 941.
+Operating system interface design between 1981-2009. -- Computer data (1 file : 1.8 mb) -- [S.l. : s.n., 2009?] -- on 1 external hard drive. -- Title from resource. -- File name: (8816.pdf) -- Also available on the World Wide Web: http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/ . -- DBID 8816 -- DDC 003.
 
 
-Opton, Frank G. -- Liberal religion. -- Buffalo, N.Y. : Prometheus Books, 1982. -- 295 p. -- ISBN 087975155X. -- DBID 2922. 1. 289.1.
+Oppenheimer, Mark. -- Boycott the royal wedding. -- Computer data (1 file : 147 kb). -- on 1 external hard drive. -- Title from p.1. -- File name: (10098.pdf). -- DBID 10098. -- IN Slate. -- (Aug. 28, 2011) -- DDC 941.
+
+
+Opton, Frank G. -- Liberal religion. -- Buffalo, N.Y. : Prometheus Books, 1982. -- 295 p. -- ISBN 087975155X. -- DBID 2922 -- DDC 289.1.
 > Liberal Religion requires everybody to think of himself or herself as part of the whole. -p. -q
 > The root of the evil is apathy and indifference -p. 11 -q
 > Those who accept and absorb Liberal Religion feel no anxiety and are able to help overcome the disarray of society.? -p. 12 -q
@@ -4384,13 +4384,13 @@ Orton, Linda. -- Soapmaking for the first time. -- Sterling Publishing Co., c200
 > What do I use to add scent: Essential oils (use pure oils; not mixed with base oils) -- Fragrance Oils (usually less expensive)-- Botanicals (can be used in conjunction with essential or fragrance oils.
 > Calendula leaves, chamomile, ground cinnamon, lemon verbena, oatmeal, peppermint, rosebuds, and rosemary are some of the most common botanicals used in soapmaking. -p. 20 -q
 
-Overall Ranking : best countries. -- Computer data (1 file : 98 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010). 1. 910.
+Overall Ranking : best countries. -- Computer data (1 file : 98 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010) -- DDC 910.
 
 
-Palmer, Brian. -- Ignore your oven dial. -- Computer data (1 file : 25.9 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3137.txt). -- DBID 3137. 1. 641.
+Palmer, Brian. -- Ignore your oven dial. -- Computer data (1 file : 25.9 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3137.txt). -- DBID 3137 -- DDC 641.
 
 
-Panza, Christopher. -- Existentialism for dummies / by Christopher Panza and Gregory Gale. -- Hoboken, NJ : Wiley Publishing, c2008. -- xvi, 366 p. -- ISBN 9780470276990. 1. 142.
+Panza, Christopher. -- Existentialism for dummies / by Christopher Panza and Gregory Gale. -- Hoboken, NJ : Wiley Publishing, c2008. -- xvi, 366 p. -- ISBN 9780470276990 -- DDC 142.
 
 > Having the constant luxury and responsibility to make a choice is part of the human condition. Why? Because no matter what your situation is, you choose that situation. -p. 159 -q
 > When we're born, we're simply there, no reason or meaning. -p. 165 -q
@@ -4398,11 +4398,11 @@ Panza, Christopher. -- Existentialism for dummies / by Christopher Panza and Gre
 > If God doesn't esist, no eternal, objective measure of value exists, and nothing has any inherent meaning. This doesn't mean, however, that life has no meaning or value at all. It's just that every meaning and value is a human meaning or a human value. And because human beings have no human nature and no inherent values or meaning, we're constantly creating those human meanings and values. -p. -q
 > The only measure of what a person is capable of is what she actually does... Therefore, you're no more than the sum of your actions. -p. -q
 
-Paragament, Kenneth I. -- The psychology of religion and coping. -- New York : Guilford Press, c1997. -- xii, 548 p. -- ISBN 1572302143. 1. 200.
+Paragament, Kenneth I. -- The psychology of religion and coping. -- New York : Guilford Press, c1997. -- xii, 548 p. -- ISBN 1572302143 -- DDC 200.
 
 > 'IV. Introduction to the concept of coping A. Historical context 1. Cultural influences a. Rules b. roles c. standards d. morals 2. Increasingly difficult for ppl to develop structures. B. Responses to tragedy / coping techniques 1. Intrapsychic response a. Freud b. conflict btw the id and society c. Defensive mechanisms 1) Denial 2) Repression 3) projection 4) regression 5) sublimation 6) reaction formation d. forced to accept reality 2. Physiological response a. bioloogical responses b. Cannon, Selye c. General Adaption Syndrome 1) the alarm reaction 2) the stage of resistance 3) stage of exhaustion 3. The psychological response to stress a. Grinker, Spriegel, Erich Lindemann 4. Social Stressors a. identifies conditions that cause stress. b. Emiile Durkheim, Holmes, Rahe C. Beginning of the study of coping 1. Focused on deterministic theories 2. A move towards individuals striving for perfection and superiority. D. Central qualities of coping 1. It is an encounter between person and situation. 2. It is multidementional a. frustrations, fear, anger, etc... 3. It is communial 4. It can be viewed as possibilities and choices. 5. It is diverse (see #2)' -p. 71-89 -o
 > 'V. Assumptions of Coping A. People seek significance. B. the meaning of events depend on that significance. C. people bring their paradygm to the coping process. D. and abstract paradigm is made into objective tools. E. Significance in the coping process come from 1. conservation a. holding on to it. 2. Transformation F. People cope in ways meaningful to them. G. Coping is embedded to culture. H. Keys to goo coping 1. outcomes 2. Process' -p. 90- -o
-> 'I. Introduction A. Religion is intristelly involved with crisis. 1. 90% believe in God. 2. 82% Believe in mirracles 3. 76% believe in life after death 4. 79% believe God in their lives B. The role of religion when people are put to the test.' -p. -o
+> 'I. Introduction A. Religion is intristelly involved with crisis -- DDC 90% believe in God. 2. 82% Believe in mirracles 3. 76% believe in life after death 4. 79% believe God in their lives B. The role of religion when people are put to the test.' -p. -o
 > 'VII. The many faces of religion in coping A. Religion in real life 1. A seeming irrevelance in real life B. expressing religion in coping 1. Religion as a defence 2. Something more spiritual 3. Search for human ends in suffering / Appraising life events C. forces of religion coping 1. Purposes of religion in coping a. spiritual b. self-development c. resolve d. sharing e. restraint 2. Religious coping activities a. spiritually based b. good deeds c. discontent (anger at god) d. religious support e. plead f. avoidence 3. Intrinsic orientation a. more spiritually based 4. Extrinsic orientation a. emphises of good deeds' -p. 163- -o
 > A theology that confuses the truth of the moment with eternal truth is as untenable as a theology that is disconnected from present circumstances. -p. 165 -q
 > Much of religion's power lies in its ability to appraise negative events from a different vantage point. -p. 172 -q
@@ -4410,16 +4410,16 @@ Paragament, Kenneth I. -- The psychology of religion and coping. -- New York : G
 > 'VI. Turning to religion A. reviewing the literature 1. Summarizing the findings 2. Results are self-reports 3. The extent of religious coping B. turning to religion is a prevailing thing. C. When religion and coping converge 1. Depends on a. nature of the person b. nature of event c. context of the enviroment 2. Different levels a. personal level b. situational level c. contextual level' -p. 131- -o
 > 'To pray is to take notice of the woder, to regain a scense of the mystery that animates all beings, the divine margine in all attainments. -Abraham Joshua Heschel' -p. 138 -q
 
-Parris, S. J. -- Heresy. -- New York, Doubleday, c2010. -- 435 p. -- ISBN 9780385531283. 1. 823.
+Parris, S. J. -- Heresy. -- New York, Doubleday, c2010. -- 435 p. -- ISBN 9780385531283 -- DDC 823.
 
 Parrish, Robin. -- Offworld. -- 1st ed. -- Computer data (1 file : 576 KB). -- Bethany House Publishers, 2009. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00AFWLZXE. -- DDC 813.
 
 
-Pash, Adam. -- How to crack a wi-fi network's WPA password with Reaver. -- Computer data (1 file : 1.2 mb). -- on 1 external hard drive. -- Title from p. 1. -- File name: (3068.pdf). -- DBID 3068. -- IN Lifehacker. -- DDC 004.6.
+Pash, Adam. -- How to crack a wi-fi network's WPA password with Reaver. -- Computer data (1 file : 1.2 mb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3068.pdf). -- DBID 3068. -- IN Lifehacker. -- DDC 004.6.
 
 
-Pearson, Ryne Douglas. -- Cloudburst. -- Computer data (1 file). -- [S.l.] : Schmuck & Underwood, 2011. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043. 1. 813.
-Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata best practices for gredos / [by] Francisco Jose Garcia Penalvo, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.] . -- Computer data. -- on 1 external hard drive. -- Title from p. 1. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live). -- DOI 10.1080/19386380903546976. -- IN Journal of Library Metadata. -- Vol. 10. -- 2010. -- DDC 025.3
+Pearson, Ryne Douglas. -- Cloudburst. -- Computer data (1 file). -- [S.l.] : Schmuck & Underwood, 2011. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043 -- DDC 813.
+Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata best practices for gredos / [by] Francisco Jose Garcia Penalvo, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.] . -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live). -- DOI 10.1080/19386380903546976. -- IN Journal of Library Metadata. -- Vol. 10. -- 2010. -- DDC 025.3
 > Descriptive metadata: information used to index, describe, and identify a digital resource. Some examples are: the title of the resource, the author of the resource, and the subject of the resource. -q
 > Structural metadata: information used to visualize and navigate the digital resources; information on the internal organization of the digital resource; information on the visualizer or plug-in reader necessary to open the digital resource. -q
 > Administrative metadata: information needed to manage the resource over time, including technical information such as image resolution, file size, file format, hardware/software used to produce the digital resource, and so on. -q
@@ -4427,11 +4427,11 @@ Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata best practices
 Pendleton, Paige W. -- The keeper and the rune stone. -- Computer data (1 file : 2037 KB.) -- Pig Wing Press, 2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 
-Pennell, Charley. -- Synchronizing catalog externalities. -- Computer data (1 file : 57 kb) -- [S.l.] : Catalog Form & Function Interest Group, 2009. -- on 1 external hard drive. -- Title from slide 1. -- File name: (8407.ppt) -- DBID 8407. 1. 025.3
+Pennell, Charley. -- Synchronizing catalog externalities. -- Computer data (1 file : 57 kb) -- [S.l.] : Catalog Form & Function Interest Group, 2009. -- on 1 external hard drive. -- Title from slide 1. -- File name: (8407.ppt) -- DBID 8407 -- DDC 025.3
 
 
-Pennock, Maureen. -- Managing and preserving e-mails. -- Computer data (1 file : 148 kb) -- [S.l.] : Digital Curation Centre, 2006. -- on 1 external hard drive. -- File name: (1076.pdf) -- DBID 1076. 1. 025.17.
-Percy, Benjamin. -- The dead lands. -- New York; Boston : Grand Central Publishing, c2015. -- 403 p. -- ISBN 9781455528240. 1. 813.
+Pennock, Maureen. -- Managing and preserving e-mails. -- Computer data (1 file : 148 kb) -- [S.l.] : Digital Curation Centre, 2006. -- on 1 external hard drive. -- File name: (1076.pdf) -- DBID 1076 -- DDC 025.17.
+Percy, Benjamin. -- The dead lands. -- New York; Boston : Grand Central Publishing, c2015. -- 403 p. -- ISBN 9781455528240 -- DDC 813.
 > York, m., Clark's brother. -f
 > I miss my books. My desk. Stillness. Aloneness. -Louis. -p. 140 -q
 > This would be a good time to have parents. Someone to turn to in a bad time, ask for help, a hug, a meal. -p. 136 -q
@@ -4465,7 +4465,7 @@ Pfeffer, Susan Beth. -- Life as we knew it. -- Orlando : Harcourt, c2006. -- 337
 
 > Explores survival after an asteroid hits the moon; pushes closer to earth. -s
 
-Pfitsch, Patricia Curtis. -- Riding the flume. -- New York : Aladdin Paperbacks, c2002. -- viii, 232 p. -- ISBN 0689866925. -- DBID 3139. 1. 813.
+Pfitsch, Patricia Curtis. -- Riding the flume. -- New York : Aladdin Paperbacks, c2002. -- viii, 232 p. -- ISBN 0689866925. -- DBID 3139 -- DDC 813.
 
 Philbrick, Rodman. -- The big dark. -- Blue Sky Press, c2016. -- 178 p. -- ISBN 9780545789752. -- DDC 813. 
 > 'don't be afraid... Some of my residence [in the mental institution] may say things you find strange, but hey won't harm you. Best just do nod and agree.' -p. 124 -q
@@ -4488,7 +4488,7 @@ Pierce, Linda Breen. -- Choosing Simplicity. -- Carmel, CA : Gallagher Press, c2
 > I think that a bicycle is the essence of simple, effective technology. there's very little to learn about riding or maintaining one, and much of that is readily aparaent. -188 -q
 
 
-Pimentel, David. -- Natural resources and an optimum human population. -- Computer data (1 file : 2 mb) -- Title from resource. -- on 1 external hard drive. -- File name: (1047.pdf) -- DBID 1047. -- IN Population and Environment. -- Vol. 15, no. 45 (May 1994), p. 347-369. 1. 577.
+Pimentel, David. -- Natural resources and an optimum human population. -- Computer data (1 file : 2 mb) -- Title from resource. -- on 1 external hard drive. -- File name: (1047.pdf) -- DBID 1047. -- IN Population and Environment. -- Vol. 15, no. 45 (May 1994), p. 347-369 -- DDC 577.
 
 Pinola, Melanie. -- Four signs your relationship might be doomed. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Also available on the World Wide Web (http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed). -- IN Lifehacker. -- (Mar. 15, 2013). -- DDC 158.
 
@@ -4507,22 +4507,22 @@ Pinola, Melanie. -- What is "mindfulness," and why is everyone talking about it.
 ER - Pinola, Melanie. -- Why you learn more effectively by writing then typing. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://lifehacker.com/5738093). -- Title from resource. -- In Lifehacker [website]. -- (Jan. 21, 2011). -- DDC 153.
 > The act of writing helps you clarify your thoughts, remember things better, and reach your goals more surely. -q
 
-Pitt, Christopher. -- Electronic components. -- Computer data (1 file : 5.94 MB). -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3327.pdf. -- DBID 3327. -- IN Medium.com. -- (Jul. 23, 3014). -- DDC 621.3.Positive Evolutions. -- Computer data. -- [KPM, c1999]. -- on 1 external hard drive. -- Title from Amazon.com. -- System requirements: USB drive; mp3 file reader. 1. 781.
+Pitt, Christopher. -- Electronic components. -- Computer data (1 file : 5.94 MB). -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3327.pdf. -- DBID 3327. -- IN Medium.com. -- (Jul. 23, 3014). -- DDC 621.3.Positive Evolutions. -- Computer data. -- [KPM, c1999]. -- on 1 external hard drive. -- Title from Amazon.com. -- System requirements: USB drive; mp3 file reader -- DDC 781.
 
 
-Premis Editorial Comittee. -- Data dictionary for preservatino metadata. -- Computer data (1 file : 3.06 mb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (8001.pdf) -- DBID 8001. 1. 024.4.
+Premis Editorial Comittee. -- Data dictionary for preservatino metadata. -- Computer data (1 file : 3.06 mb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (8001.pdf) -- DBID 8001 -- DDC 024.4.
 
 Presley, Elvis. -- Elvis' Golden Records. -- Computer data. -- New York, N.Y: RCA Victor, 1985. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
 Pritchard, Paul. -- The way forward. -- Computer data. -- [KPM, c1996]. -- on 1 external hard drive. -- Title from Amazon.com. -- DDC 781.
 
-Proceedings and ordinances of the Privy Council of England. Volume VII. / edited by Sir Harris Nicholas. -- Computer data (1 file : 11.2 mb) -- [Great Britain] : The Commissioners of the Public Records of the Kingdom, 1837. -- on 1 external hard drive. -- Title from title page. -- File name: (9041.pdf) -- DBID 9041. 1. 324.
+Proceedings and ordinances of the Privy Council of England. Volume VII. / edited by Sir Harris Nicholas. -- Computer data (1 file : 11.2 mb) -- [Great Britain] : The Commissioners of the Public Records of the Kingdom, 1837. -- on 1 external hard drive. -- Title from title page. -- File name: (9041.pdf) -- DBID 9041 -- DDC 324.
 
 Progoff, Ira. -- At a journal workshop. -- Jeremy P. Tarcher, c1975, 1992. -- x, 422 p. -- ISBN 0874776384. -- DDC 808.06692.
 
 > Ch. 5: Twilight Imagery and Life Correlation. -s
 > Ch. 6: Daily Log: 'keep a current basis with the movement of our lives' -- Basically, diary writing. -- Two types: Recapitulation, and current recording. -s
-Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux, 2003. -- 364 p. -- ISBN 0374178909. -- DBID 1695. 1. 230.
+Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux, 2003. -- 364 p. -- ISBN 0374178909. -- DBID 1695 -- DDC 230.
 
 > Nearly one-quarter of the Christians in the United States now believe in reincarnation. -p. 6 -q
 > 'While there are likely more Muslims than Episcopalians in the United States, there are infinitely more Episcopalians than Muslims (44 to 0, to be exact) in the 108th Congess.' -p. 6 -q
@@ -4577,14 +4577,14 @@ Quinn, Susan Kaye. -- Quinn, Susan Kaye. -- Computer data (1 file : 3024 KB). --
 > 32 Kira goes to the press with the stoiry. Then goes to kestrels apt, discovers where Laney is being kept, and shoots kestral. -s
 > CHANGLINGS: kids who are developing jacker abilities. -f
 
-Raines, John C. -- The justice men owe women. -- Computer data (1 file : 6.6 mb) -- [S.l.] : Fortress Press, 2001. -- on 1 external hard drive. -- Title from cover. -- File name: (1609.pdf) -- DBID 1609. 1. 291.
+Raines, John C. -- The justice men owe women. -- Computer data (1 file : 6.6 mb) -- [S.l.] : Fortress Press, 2001. -- on 1 external hard drive. -- Title from cover. -- File name: (1609.pdf) -- DBID 1609 -- DDC 291.
 
 
 Rains, Julie. -- The only 4 things a vegetable garden needs. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3294.pdf. -- IN WiseBread [website]. -- (Oct. 18, 2013). -- DDC 635.
 
 > Soil -- Sun -- Water -- Seeds. -o
 
-Raphael, Ray. -- Mr. President : how and why the founders created a chief executive. -- New York : Alfred A. Knopf, 2012. -- 324 p. -- ISBN 9780307595270. -- DBID 3026. 1. 352.
+Raphael, Ray. -- Mr. President : how and why the founders created a chief executive. -- New York : Alfred A. Knopf, 2012. -- 324 p. -- ISBN 9780307595270. -- DBID 3026 -- DDC 352.
 
 > He [James Wilson] alone among the delegates believed that representatives, senators, and the president should all be elected directly by the people. -57 -q
 > All delegates wated the government they created to be philospophically grounded in the people, yet not one of them wished to place the operations of that government under the people's direct control. -57 -q
@@ -4597,15 +4597,15 @@ Raphael, Ray. -- Mr. President : how and why the founders created a chief execut
 > 'Such an officer as vice-President was not wated. He was introduced only for the sake of a valuable mode of election which requires two to be chosen at the same time.' -Williamson. -118 -q
 > To avoid intrigue and cabal, electors were to meet simultaneously in their separate staates. To offset the favorite-son temptation, each elector was to vote or two men, including at least one from another state... the runner-up vice president, an office that made its first appearance in the Committee of Eleven's report... but the second ballot created a problem: there was no appropriate office for that man fill...  -109-118  -q
 
-Rathbone, Brian. -- Call of the Herald. -- Computer data (1 file). -- [S.l.] : White Wolf Press, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3049. 1. 813.
+Rathbone, Brian. -- Call of the Herald. -- Computer data (1 file). -- [S.l.] : White Wolf Press, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3049 -- DDC 813.
 
 Rayappan, Anbu. -- Non-fiction writing machine. -- Computer data (1 file : 461 KB). -- [S.n., 20--?]. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- System requirements: Kindle app. -- DDC 808.
 
 
-Rawnsley, Andrew. -- Servants of the people. -- Computer data (1 file). -- [S.l.] : ePenguin, 2001. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3051. 1. 320.
+Rawnsley, Andrew. -- Servants of the people. -- Computer data (1 file). -- [S.l.] : ePenguin, 2001. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3051 -- DDC 320.
 
 
-Rawnsley, Andrew. -- The end of the party. -- Computer data (1 file). -- [S.l. : s.n., n.d.] -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3050. 1. 320.
+Rawnsley, Andrew. -- The end of the party. -- Computer data (1 file). -- [S.l. : s.n., n.d.] -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3050 -- DDC 320.
 
 Razevich, Alexes. -- Shadowline drift. -- Computer data. -- Razor Street Publishing, 2014. -- Title from cover. -- System requirements: Kindle app. -- DDC 813.
 > Jake, in the Amazon. Tobna, a tribe. Joaquin, the FUNAI rep. 2 Benesha is poisonious to people, and has magical transport properties. 3 Mawgic intends to trade Benesha, so it will kill everyone and rebalance the Earth. He leaves jack stranded in the junge. 4 Jake is hungry, unable to spear a fish. Out of bug spray. 5 Jake lost his knife in the river. He kills a sloth for foot, but without knwing if they eat Benesha, he cannot risk eating it. Ilar Ranirex, an anthropolitis. Naheye, Prist/Shaman. Lulunta Village. 6 Jake stumbles on a village, is saved, but the Shaman doesn't trust him. 7 N. considers J. evil, and they are harvesting a flower that blooms once every three  years. Benesha? Benesha has protein enhancing properites. Salen, a missionary found the tribe 3 yrs ago. 9 They begin the exorcism, mawgin appears to Jake. 10 Jake thinks he's left the village, but it is a dream. Or the Bensha. 11 Jake and Pillar steep together. 15 J --- the shadow drift, adnmagic leaves. 
@@ -4617,12 +4617,12 @@ Razevich, Alexes. -- Shadowline drift. -- Computer data. -- Razor Street Publish
 > Why should I believe you?... Because to not believe is to risk that I told the truth and you did nothing to stop it. -q
 Recommended record retention periods for business records. -- Computer data (1 file). -- [S.n., n.d.]. -- on 1 external hard drive.-- Title supplied by cataloger. -- File name: 3262.pdf. -- DDC 651.5
 
-Redford Township District Library. -- [Michicard Letter]. -- Computer data (1 file : 1.1 mb) -- Redford, MI : RTDL, 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (7022.pdf) -- DBID 7022. 1. 025.5.
+Redford Township District Library. -- [Michicard Letter]. -- Computer data (1 file : 1.1 mb) -- Redford, MI : RTDL, 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (7022.pdf) -- DBID 7022 -- DDC 025.5.
 
 
 Reed, Cliff. -- We are here : a book of prayers for corporate worship. -- Computer data (1 file). -- Lindsey Press, c1992. -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- Filename: 3363.pdf. -- DDC 289.1
 
-Reese, Terry. -- Scale calculator [for map cataloging]. -- Computer data. -- Title from resource and supplied by cataloger. -- Mode of Access: World Wide Web (http://people.oregonstate.edu/~reeset/html/scale.html). -- DBID 3135. -- IN Origon State University [website]. -- (Oct. 23, 2000). 1. 025.3.
+Reese, Terry. -- Scale calculator [for map cataloging]. -- Computer data. -- Title from resource and supplied by cataloger. -- Mode of Access: World Wide Web (http://people.oregonstate.edu/~reeset/html/scale.html). -- DBID 3135. -- IN Origon State University [website]. -- (Oct. 23, 2000) -- DDC 025.3.
 
 Reeve, Philip. -- Mortal engines. -- Scholastic, c2001. -- 296 p. -- ISBN 9781338201123. -- DDC 813.
 > CH 25: The historians meet to discuss what to do about MEDUSA. -d
@@ -4698,8 +4698,8 @@ Religion and the clinical practice of psychology / [edited by] Edward P. Shafran
 Reher, Chris. -- Only human. -- Computer data (1 file : 464 KB). -- C. Reher, c2012, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- title from Amazon.com dec. -- ISBN 9780991698516. -- AISN B009QAIRT6. -- DDC 813
 
 Religion and Psychology. -- Computer data. -- Title from resource. -- Mode of Access: World Wide Web. -- DBID 0970. -- DDC 200.
-> 'I. What is Psychology A. Def. 1. Give more control over what we have no conrol of. 2. The science of mental life 3. How ppl behave ; looking at behavior. B. Systematic and objective C. Theoretical Perspectives 1. Nural-biological approach 2. Psycho-anolytic approach a) keeps part of experience out of awareness. 3. Cognitive approach 4. Humananist a. a/k/a Phenominological b. Subjective c. Individualistic d. Self-actualization a. Becoming all that you can be. b. Enviroment to flurish D. Areas of PSY 1. Expirimental 2. Socia 3. Clinical 4. Developmental 5. And Others?' -p. -o
-> 'II. What is Religion B. Def. 1. Helps ppl appreciate what you cannot control 2. Framework of beliefs beyond yourself. 3. James 'Religion is the feelings, acts in relation to their divinity.' 4. The belief of God, and the rituals directed toward that power. 5. Teachers definition : A search for significance in ways related to the sacred. C. Awareness of the Several Traditions 1. Different ways to account for God; accessing the Sacred. 2. Varies in the way formed a) expsed to a tradition b) Active searching 3. Rituals become a way of knowing the world and understanding it.' -p. -o
+> 'I. What is Psychology A. Def -- DDC Give more control over what we have no conrol of. 2. The science of mental life 3. How ppl behave ; looking at behavior. B. Systematic and objective C. Theoretical Perspectives 1. Nural-biological approach 2. Psycho-anolytic approach a) keeps part of experience out of awareness. 3. Cognitive approach 4. Humananist a. a/k/a Phenominological b. Subjective c. Individualistic d. Self-actualization a. Becoming all that you can be. b. Enviroment to flurish D. Areas of PSY 1. Expirimental 2. Socia 3. Clinical 4. Developmental 5. And Others?' -p. -o
+> 'II. What is Religion B. Def -- DDC Helps ppl appreciate what you cannot control 2. Framework of beliefs beyond yourself. 3. James 'Religion is the feelings, acts in relation to their divinity.' 4. The belief of God, and the rituals directed toward that power. 5. Teachers definition : A search for significance in ways related to the sacred. C. Awareness of the Several Traditions 1. Different ways to account for God; accessing the Sacred. 2. Varies in the way formed a) expsed to a tradition b) Active searching 3. Rituals become a way of knowing the world and understanding it.' -p. -o
 > 'III. Beverly Sinke A. Bio 1. PH.D. a. disertation on peak experiences 2. Five kids, one died. 3. Diagnosed w/ cancer 1983 4. Book about confronting the issue. 5. Stay at home mom, got bored' -p. -o
 > 'IV. Faith Development (Fowler) A. Stages of Development 1. Intuitive Projective a. children dominated by fantasy b. Begininnings of awareness 2. Undifferentiated faith a. must have consistency of care 3. Mythic-literal faith a. Legalism 4. Synthetic-conventional faith a. Concerned with fairness and reciprocity b. Abstractness 5. Individuative-Reflective faith a. Sence of self b. critical reflection 6. Paradoxical-Consolidated Faith a. Re-work the past b. evertything falls apart 7.Universalizing Faith a. A sense of inclusiveness with everyone b. A power to see diversity' -p. -o
 
@@ -4718,7 +4718,7 @@ The responsible self. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1737. -- DDC 171
 > I. What is a good person? A. Man the Maker B. Man the Citizen C. Man the Answerer 1. Dialogue is important 2. A 'psychology of interaction' 3. Elements a. idea of response b. our interpretation c. anticipation of reaction to our action -p. -o
 Reverence : a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events. -- Computer data (1 file). -- Boy Scouts of America, 2010. -- on 1 external hard dive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- Filename: 3348.pdf. -- DDC 264.
 
-Reuters. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.reuters.com). 1. 070.
+Reuters. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.reuters.com) -- DDC 070.
 
 Rice, Morgan. -- A march of kings. -- Computer data (1 file : 1.6 MB). -- M. Rice, 2013. -- on 1 ASUS tranformer tablet. -- System requriments: Kindle app. -- Title from Amazon.com desc. -- ASIN B00B47BM2S. -- DDC 813.
 
@@ -4836,14 +4836,14 @@ Ritchie, Susan J. -- Children of the same god. -- Computer data (1 file). -- Ski
 > ?sign of the cross - odviously a rit of appropriation by the diety and of imcorporation into the community of the faithfull. -p. 95 -q
 > 'In the case of a return to the original religion, for instance in the Christian ritual of penance, the penitent was considered a Christian who for some reason had lost his initiation and was striving to recover it.' -p. 96 -q
 > 'VII. Betrothal and Marriage A. Betrothal 1. Marriage an economic aspect B. Rites of Separation from tribe/family 1. A/k/a rites of ''rape or capture'' C. Rites of Incorporation 1. Kings of rites for this chapter a. Dowry b. Communal meals c. Exchanging gifts d. common clothing or trinkets e. washing each other f. entering new house D. Rites of divorce a. not uncommon E. I.e. growing grew hair' -p. 116- -o
-> 'VIII. Funteral A. Not a reite of Separation, but of transition to a new state. 1. Marked by allowing the body to stay. 2. Therefore, berried w/ traveling items 3. A/k/a/ initiation rites B. Funeral Rites C. Morning 1. Stripping the house 2. 4-5 months D. The afterworld 1. Like this, only better E. Suicide 1. Considered normal 2. Reward a. marterdom 3. Not allowed in afterlife, state of limbo 4. Punished in next world.' -p. -o
-> 'IX. Other types of Rites of passage A. Three major types 1. Separation 2. transition 3. incorporation B. Rites involving hair 1. separation from previous world C. The veil 1. again, separation D. Homosexuality 1. A ''rite of friendship'' E. Prohibition of Sex F. Flagellation a. intended for evil spirit G. Rites of ''first times'' a. important H. Rites involving time. 1. New year I. Rites not intended to influence father god or mother earth, but to recognize transition.' -p. -o
+> 'VIII. Funteral A. Not a reite of Separation, but of transition to a new state -- DDC Marked by allowing the body to stay. 2. Therefore, berried w/ traveling items 3. A/k/a/ initiation rites B. Funeral Rites C. Morning 1. Stripping the house 2. 4-5 months D. The afterworld 1. Like this, only better E. Suicide 1. Considered normal 2. Reward a. marterdom 3. Not allowed in afterlife, state of limbo 4. Punished in next world.' -p. -o
+> 'IX. Other types of Rites of passage A. Three major types 1. Separation 2. transition 3. incorporation B. Rites involving hair 1. separation from previous world C. The veil 1. again, separation D. Homosexuality 1. A ''rite of friendship'' E. Prohibition of Sex F. Flagellation a. intended for evil spirit G. Rites of ''first times'' a. important H. Rites involving time -- DDC New year I. Rites not intended to influence father god or mother earth, but to recognize transition.' -p. -o
 > Seasons are of no concern man except for their economic reprecussions. -p. -q
 > 'The most prominent element in the patter, whenseasonal ande conomic power are personified?, is the dramatization of the idea of death, expectation, and rebirth.'A quote from the Golden Bowell. Pp. 156-160 -p. -q
 > 'Our interest lies not in the particular ites but in their essential significance and their relativfe positions within ceremonial wholes -- that is, their order.'The Thesis -p. 191 -q
 > 'I. Different Voice in Moral Decisions -by Carol Gilligan A. Two Strans of Western Moral Tradition 1. Self-Interested Form a. Grounded in experience of Inequality b. Concerned w/ justice, fairness, equality, rights. c. Social Contract Theory 2. Self-Sacrifice a. Grounded in experience of attachment b. concerned w/ interdependence, caretaking, responding to needs.' -p. -o
 
-Ritzenthaler, Mary Lynn. -- Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson. -- Chicago, Il : Society of American Archivists, c2006. -- xvi, 529 p. -- ISBN 1931666172. 1. 771.
+Ritzenthaler, Mary Lynn. -- Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson. -- Chicago, Il : Society of American Archivists, c2006. -- xvi, 529 p. -- ISBN 1931666172 -- DDC 771.
 
 
 Roberts, Cokie. -- Founding mothers. -- 1st Perennial ed. -- New York : Perennial, 2005, c2004. -- xx, 359 p. -- ISBN 0060090251. -- DBID 2834. -- DDC 973.
@@ -4859,7 +4859,7 @@ Roberts, Cokie. -- Founding mothers. -- 1st Perennial ed. -- New York : Perennia
 > Lord Loudon, 18th c., M, British. Commander of British forces in America. -p. 28 -f
 > Catharine Ray Greene, 18th c., F, American. Friend (maybe more?) of Benjamin Franklin. -p. 30 -f
 
-Robinson, Ann E. -- 101+ commonly asked interview questions. -- Computer data (1 file : 23.2 kb). -- [S.l. : A. Robinson, c1996, 1999]. -- on 1 external hard drive. -- Title from resource. -- File name: (0509.html). -- DBID 0509. 1. 331.12.
+Robinson, Ann E. -- 101+ commonly asked interview questions. -- Computer data (1 file : 23.2 kb). -- [S.l. : A. Robinson, c1996, 1999]. -- on 1 external hard drive. -- Title from resource. -- File name: (0509.html). -- DBID 0509 -- DDC 331.12.
 
 Rollins, James. -- Black order. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 813.
 
@@ -4959,7 +4959,7 @@ Rothfuss, Patrick. -- The wise man's fear. -- Dow Books, c2011. -- 993 p. -- ISB
 > Ciridae: the highest order of the Amyr. -p. 289 -f
 > You might be a see-er eventually, but not yet. Now you are a look-er. YOu'll be a true E'lir at some point. If you learn to relax... Too much looking can get in the way of seeing... -Puppet -p. 299 -q
 
-Rowe, Sara. -- Write it out : how journaling can drastically improve your physical, emotional, and mental health. -- Computer data. -- on 1 external hard drive. -- Title from resource. -- File name: (3205.pdf). -- DBID 3205. -- IN Vibrant life. -- Vol. 28, no. 2 (Mar.-Apr. 2012). 1. 808.06692.
+Rowe, Sara. -- Write it out : how journaling can drastically improve your physical, emotional, and mental health. -- Computer data. -- on 1 external hard drive. -- Title from resource. -- File name: (3205.pdf). -- DBID 3205. -- IN Vibrant life. -- Vol. 28, no. 2 (Mar.-Apr. 2012) -- DDC 808.06692.
 
 
 Rox, Mikey. -- Cooking for beginners. -- Computer data. -- [S.n.], 2012. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3269.pdf. -- DDC 614.
@@ -5032,7 +5032,7 @@ Rowling, J. K.. -- Harry Potter and the philosopher's stone. -- New York : Schol
 > ... their wardrobes were empty, their trunks were packed... -p. 382 -q
 
 
-Rowling, J.K. -- Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. -- New York, NY : Scholastic, c2000. -- 734 p. -- ISBN 0439139597. -- DBID 3079. 1. 823.
+Rowling, J.K. -- Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. -- New York, NY : Scholastic, c2000. -- 734 p. -- ISBN 0439139597. -- DBID 3079 -- DDC 823.
 
 
 
@@ -5040,7 +5040,7 @@ Rowling, J.K. -- Harry Potter and the prisoner of Askaban / by J. K. Rowling; [i
 
 > 17 Black and Lupin reveal themselves in the shrieking shack.
 
-Rowling, J.K. -- Harry Potter and the order of the phoenix / by J.K. Rowling; illustrations by Mary Grandpre. -- Computer Data (91 file). -- New York, NY : Scholastic, Inc., 2003. -- System requirements: PDF file. -- ISBN 043935806X -- DBID 3025. 1. 823.
+Rowling, J.K. -- Harry Potter and the order of the phoenix / by J.K. Rowling; illustrations by Mary Grandpre. -- Computer Data (91 file). -- New York, NY : Scholastic, Inc., 2003. -- System requirements: PDF file. -- ISBN 043935806X -- DBID 3025 -- DDC 823.
 
 > CH.5: The Order of the Phoenix is committed to defeating V. Its headquarters is in the family house of Black.  -p. 79-97 -q
 > Ch. 11: Harry arrives at Hogwards. Events included opening ceremony where the sorting had gives a warning, and a confrontation with another student over what his mother read in the Daily Prophet.  -p. 200-220 -s
@@ -5084,33 +5084,33 @@ Rowling, J.K. -- Harry Potter and the order of the phoenix / by J.K. Rowling; il
 > CH. 18. The first meeting of D.A.  -p. 274-396 -s
 > American Colonial Society: 19th-20th c. 'Formed to the belief that blacks would be better off settled in colonies back in Africa.'  -p. 6 -f
 
-Rowling, J.K. -- Harry Potter and the sorcerer's stone. -- Computer data. -- [S.l. : s.n., n.d.] -- File name: (8032.txt) -- DBID 8032. 1. 823.
+Rowling, J.K. -- Harry Potter and the sorcerer's stone. -- Computer data. -- [S.l. : s.n., n.d.] -- File name: (8032.txt) -- DBID 8032 -- DDC 823.
 
 
-Rowling, J.K. -- The casual vacancy. -- [S.l. : s.n., 2012]. -- [1 v.]. -- DBID 3201. 1. 823
+Rowling, J.K. -- The casual vacancy. -- [S.l. : s.n., 2012]. -- [1 v.]. -- DBID 3201 -- DDC 823
 
 
-Rubin, Gretchen. -- Nine quick tips to identify clutter. -- Computer data (1 file : 4 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10154.txt) -- Also available at: http://zenhabits.net/identify-clutter/. -- DBID 10154. -- IN ZenHabits. -- (Oct. 12, 2012). 1. 640.
+Rubin, Gretchen. -- Nine quick tips to identify clutter. -- Computer data (1 file : 4 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10154.txt) -- Also available at: http://zenhabits.net/identify-clutter/. -- DBID 10154. -- IN ZenHabits. -- (Oct. 12, 2012) -- DDC 640.
 
 > Does this thing work? -- Would I replace it if it were broken or lost? -- Does it seem potentially useful—but never actually gets used? -- Was I "saving" it? -- Does it serve its purpose well?  -- Has it been replaced by a better model? -- Is it nicely put away in an out-of-the-way place? -- Does this memento actually prompt any memories? -- Have I ever used this thing? -o
 
-Ruddock, Bethan. -- Alternative uses of the library degree / by Bethan Ruddock. -- Computer data (1 file : 69 kb). -- [S.l. : s.n., 2011?]. -- on 1 external hard drive. -- Title from p.1. -- File name: (3033.pdf ). -- DBID 3033. 1. 020.
+Ruddock, Bethan. -- Alternative uses of the library degree / by Bethan Ruddock. -- Computer data (1 file : 69 kb). -- [S.l. : s.n., 2011?]. -- on 1 external hard drive. -- Title from p.1. -- File name: (3033.pdf ). -- DBID 3033 -- DDC 020.
 
 
-Ruiz, Miguel. -- The four agreements. -- San Rafael, Calif. : Amber-Allen Pub, c1997. -- xix, 138 p. -- ISBN 1878424319. -- DBID 3010. 1. 299.
+Ruiz, Miguel. -- The four agreements. -- San Rafael, Calif. : Amber-Allen Pub, c1997. -- xix, 138 p. -- ISBN 1878424319. -- DBID 3010 -- DDC 299.
 
-Rule of St. Columbia. -- Computer data. -- on 1 external hard drive. -- File name: (10107.pdf. -- DBID 10107. -- IN Medieval Sourcebook. -- URL http://www.fordham.edu/halsall/sbook.html. 1. 255.
+Rule of St. Columbia. -- Computer data. -- on 1 external hard drive. -- File name: (10107.pdf. -- DBID 10107. -- IN Medieval Sourcebook. -- URL http://www.fordham.edu/halsall/sbook.html -- DDC 255.
 
-Rules for archival description / prepared under the direction of the Planning Committee on Descriptive Standards, a committee of the Bureau of Canadian Archivists, representing l'Association des archivistes du Quebec, the Association of Canadian Archivists. -- Revised version. -- Computer data (1 file : 2.3 mb) -- Ottawa, Canada : The Bureau, 1990, 2008. -- on 1 external hard drive. -- Title from title page. -- File name: (10100.pdf). -- DBID 10100. -- ISBN0969079737. 1. 025.3
+Rules for archival description / prepared under the direction of the Planning Committee on Descriptive Standards, a committee of the Bureau of Canadian Archivists, representing l'Association des archivistes du Quebec, the Association of Canadian Archivists. -- Revised version. -- Computer data (1 file : 2.3 mb) -- Ottawa, Canada : The Bureau, 1990, 2008. -- on 1 external hard drive. -- Title from title page. -- File name: (10100.pdf). -- DBID 10100. -- ISBN0969079737 -- DDC 025.3
 
 
 Rybak, Alexander. -- No Boundaries. -- Computer data. -- S.l.: Art, 2010. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64.
 
 
-Saffady, William. -- Records and information management. -- Lenexa, Kansas : ARMA International, c2004. -- x, 218 p. -- ISBN 1931786178. 1. 651.
+Saffady, William. -- Records and information management. -- Lenexa, Kansas : ARMA International, c2004. -- x, 218 p. -- ISBN 1931786178 -- DDC 651.
 
 
-Sahli, Nancy A. -- Interpretation and application of the AMC format. -- Computer data (1 file : 762 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (8445.pdf) -- DBID 8445. -- IN American Archivists. -- Vol. 49, no. 1 (Winter 1986). 1. 025.3.
+Sahli, Nancy A. -- Interpretation and application of the AMC format. -- Computer data (1 file : 762 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (8445.pdf) -- DBID 8445. -- IN American Archivists. -- Vol. 49, no. 1 (Winter 1986) -- DDC 025.3.
 
 Samuelson, Scott. -- The deepest human life. -- Chicago and London: The University of Chicago Press, c2014. -- xiv, 216 p. -- ISBN 9780226130385. -- DDC 100
 
@@ -5131,7 +5131,7 @@ N!  - ... the final moment involves turning to ritual practice in order to susta
 > 'Man's greatness comes from knowing he is wretched,' in Pascal's fine phrase. We stand a much better chance of winning hte forgiveness game than the law game. Yet forgiveness can take place only within a context of the law. -p. 134 -q
 > Christianity is, as I said, a religion that stretches credulity. To be a Christian is to belive any number of paradoxes: that true morality appears in the context of immorality, that god is human, that power is expressed in suffering, and that this human God, uttering the famous cry of abandonment on the cross, is something of an athiest. -p. 135 -q
 
-Samuelson, Robert J. -- The real generation gap. -- Computer data. -- on 1 external hard drive. -- Title from p. 1. -- File name: (10108.pdf). -- DBID 10108. -- IN Newsweek. -- Vol. 155, no. 11 (Mar. 15, 2010). 1. 305.
+Samuelson, Robert J. -- The real generation gap. -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10108.pdf). -- DBID 10108. -- IN Newsweek. -- Vol. 155, no. 11 (Mar. 15, 2010) -- DDC 305.
 
 Sanders, Stacia. -- Foundling. -- Computer data (1 file : 584 KB) -- [S.n., n.d.] -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00D1FTEGC. -- DDC 813.
 
@@ -5139,7 +5139,7 @@ Sanders, Stacia. -- Foundling. -- Computer data (1 file : 584 KB) -- [S.n., n.d.
 Savage Garden (Musical group). -- Affirmation. -- Computer data. -- S.l: Columbia, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
 
-Sawyer, Robert J. -- FlashForward. -- Computer data (1 file). -- [S.l.] : Tor Books, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3052. 1. 813.
+Sawyer, Robert J. -- FlashForward. -- Computer data (1 file). -- [S.l.] : Tor Books, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3052 -- DDC 813.
 
 
 The sayings of Lao Tzu / [translated by] Lionel Giles. -- Computer file. -- on 1 external hard drive. -- New York : E.P. Dutton and Company, Inc., 1905. -- System requirements: .html file reader. -- Folder name: 1001. -- DBID 1877. -- DDC 299.
@@ -5148,7 +5148,7 @@ The sayings of Lao Tzu / [translated by] Lionel Giles. -- Computer file. -- on 1
 > 'This is the Way of Heaven, which benefits, and injures not. This is the Way of the Sage, in whose actions there is no element of strife.' -p. -q
 > 'Temper your sharpness, disentangle your ideas, moderate your brilliancy, live in harmony with your age. This is being in conformity with the principle of Tao. Such a man is impervious alike to favour and disgrace, to benefits and injuries, to honour and contempt. And therefore he is esteemed above all mankind.' -p. -q
 
-Schaffner, Jennifer. -- Scan and deliver / [by] Jennifer Schaffner, Francine Snyder, [and] Shannon Supple. -- Computer data (1 file : 167 kb) -- [S.l.] : OCLC, c2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10095.pdf) -- DBID 10095. 1. 025.17.
+Schaffner, Jennifer. -- Scan and deliver / [by] Jennifer Schaffner, Francine Snyder, [and] Shannon Supple. -- Computer data (1 file : 167 kb) -- [S.l.] : OCLC, c2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10095.pdf) -- DBID 10095 -- DDC 025.17.
 
 Schafer, Sean. -- Project Neptune. -- Computer data (1 file : 418 kb). -- [S.n., n.d.]. -- on ASUS tranformer tablet. -- System requirments: Kindle app. -- Title from Amazon.com desc. -- Also available on the World Wide Web (http://www.amazon.com/gp/product/B00AGNP82G). -- DDC 813.
 
@@ -5157,10 +5157,10 @@ Schafer, Sean. -- Project Neptune. -- Computer data (1 file : 418 kb). -- [S.n.,
 Schnauss, Ulrich. -- Goodbye. -- Computer data. -- Brooklyn, N.Y: Domino Recording Co, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.6
 
 
-Schor, Juliet. -- Plenitude. -- New York, N.Y. : Penguin press, c2010. -- 258 p. -- ISBN 9781594202544. -- DBID 3113. 1. 338.9
+Schor, Juliet. -- Plenitude. -- New York, N.Y. : Penguin press, c2010. -- 258 p. -- ISBN 9781594202544. -- DBID 3113 -- DDC 338.9
 
 
-Schor, Juliet. -- The overspent American. -- New York : HarperPerennial, c1999. -- 253 p. -- ISBN 0060977582. -- DBID 3114. 1. 339.4.
+Schor, Juliet. -- The overspent American. -- New York : HarperPerennial, c1999. -- 253 p. -- ISBN 0060977582. -- DBID 3114 -- DDC 339.4.
 
 
 
@@ -5196,7 +5196,7 @@ Scott, Jasper T. -- Excelsior. -- Computer data. -- Anthem Press, 2016. -- Syste
 > What else was out there? People had been looking up at the stars and asking that question for as long as humans had walked the Earth, and now that they were flying through space, they were still no closer to answering it. -q
 
 
-Sears list of subject headings / Joseph Miller, editor ; Martha A. Bristow, associate editor -- 19th ed. -- Computer data. -- The H.W. Wilson Company, 2007. -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- File name: 3029.pdf -- ISBN 082420803X. -- DBID 3029. 1. 025.4.
+Sears list of subject headings / Joseph Miller, editor ; Martha A. Bristow, associate editor -- 19th ed. -- Computer data. -- The H.W. Wilson Company, 2007. -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- File name: 3029.pdf -- ISBN 082420803X. -- DBID 3029 -- DDC 025.4.
 
 Secret Garden (Musical group). -- Dawn of a New Century. -- Computer data. -- Norway: Universal Music, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
@@ -5211,16 +5211,16 @@ Secret Garden (Musical group). -- White Stones. -- Computer data. -- New York: P
 Secret Garden (Musical group). -- Winter Poem. -- Computer data. -- Dreamcatcher Productions, [2011]. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Seldon, Anthony. -- Brown at 10. -- Computer data (1 file). -- [S.l.] : Biteback, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3053. 1. 320.
+Seldon, Anthony. -- Brown at 10. -- Computer data (1 file). -- [S.l.] : Biteback, 2010. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3053 -- DDC 320.
 
 Hifler, Joyce Sequichie. -- A Cherokee feast of days. -- Council Oak Books, c1992. -- 412 p. -- DDC 299.
 > Words are alive... nothing reveals the inner status of a person like talk. -p. 287 -q
 
 
-Shapiro, Phil. -- Coworking at the public library. -- Computer data (1 file : 153 kb). -- on 1 external hard drive. -- Title from p. 1. -- File name: (3035.pdf). -- DBID 3035. -- IN PC World. -- (Oct 13, 2011). 1. 027.4
+Shapiro, Phil. -- Coworking at the public library. -- Computer data (1 file : 153 kb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3035.pdf). -- DBID 3035. -- IN PC World. -- (Oct 13, 2011) -- DDC 027.4
 
 
-Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of America, 2003. -- 1 v. -- ISBN 0761827315. 1. 171.
+Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of America, 2003. -- 1 v. -- ISBN 0761827315 -- DDC 171.
 
 > 'I regard the aggregated or social utility as the ultimate objective of human beings. The ultimate objective naturally leads to the principle of utility, which is the core of utilitiarianism.' -p. 8 -q
 > 'I. Introduction A. Development of Modern Unilitarianiam 1. Plato a. 'greatest balance of pleasure over pain' yes 2. Aristotle a. Happeness is the greatest attainable virtue. 3. Francis Hutcheson a. came up with the phrase 'greatest happiness for the greatest number' yes 4. Jeremy Bentham a. hutchesons phrase is 'the measure of right and wrong' yes 5. John Steward Mills 6. Henry Sidgwich a. wrote 'Method of Ethics': exploring self-interest and altruism. 7. Hastings Rashdall a. Ethics must be teleological.Traditional utilitariansim v.s rule-utilitariasm act utilitarianism a. a comparison of values instead of rules rule-utiliariansim a. nonstrict moral principles as thumb for guidance S.E. ToulminJ.O. urmson also must be teleologicalC. Difficulties with utilitariansim 1. Interpretation of the principle of utility. 2. Determination of value and utility 3. Individual v.s. societal points of view. 4. Distribution a. 'involved in the very meaning of utility, or the great' -p. 1- -o
@@ -5236,7 +5236,7 @@ Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of 
 
 Shore, Howard. -- Music from the Lord of the Rings, the Trilogy. -- Computer data. -- Portugal: IMC Music, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-Shoutcast. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.shoutcast.com). 1. 780.
+Shoutcast. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.shoutcast.com) -- DDC 780.
 
 
 Simon, James F. -- What kind of nation. -- New York : Simon & Schuster, c2002. -- 348 p. -- ISBN 0684848708. -- DBID 0060. -- DDC 973.
@@ -5286,14 +5286,14 @@ The small school library. -- Computer data. -- Alaska Dept. of Education, 1967. 
 Smash, B.J. -- The witches of Merribay / B.J. Smash (Author), Kelly McGough (Editor). -- Computer data (1 file : 437 KB). -- B.J. Smash, 2013. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 
-Smith, Christian. -- Souls in transition. -- Computer data (1 file). -- [S.l.] : Oxford University Press, 2009. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3054. 1. 204.
+Smith, Christian. -- Souls in transition. -- Computer data (1 file). -- [S.l.] : Oxford University Press, 2009. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3054 -- DDC 204.
 
 
 
 
 Smith, E.E. -- First lensman. -- Computer data (1 file). -- Serapis Classics, 2017. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B07658CNTM. -- DDC 813.
 
-Smith, Gregory A. -- The core virtue of christian librarianship. -- Computer data (1 file : 81 kb). -- [S.l. : s.n., 2002]. -- on 1 external hard drive. -- Title from cover. -- File name: (1684.pdf). -- DBID 1684. 1. 020. 
+Smith, Gregory A. -- The core virtue of christian librarianship. -- Computer data (1 file : 81 kb). -- [S.l. : s.n., 2002]. -- on 1 external hard drive. -- Title from cover. -- File name: (1684.pdf). -- DBID 1684 -- DDC 020. 
 
 Smith, Huston. -- The soul of Christianity. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 230.
 
@@ -5325,29 +5325,29 @@ Smith, Huston. -- The world's religions. -- HarperCollins, c1958, 1991. -- xvi, 
 
 Smith, Mark. -- Writing and keeping journals. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, .pdf file reader. -- Title from resource. -- File name: 3217.pdf. -- DBID 3217. -- IN Infed. -- (1999, 2006). -- DDC 808.06692.
 
-Smolin, Lee. -- The life of the cosmos. -- Computer data (1 file). -- New York : Oxford University Press, 1999. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3055. 1. 523.
+Smolin, Lee. -- The life of the cosmos. -- Computer data (1 file). -- New York : Oxford University Press, 1999. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3055 -- DDC 523.
 
 
-Snow, Karen. -- Transcript of "Technical services: past, present, future" program of the ALISE Technical Services Education SIG at the ALISE annual conference in Boston, Mass., January 15, 2010. -- Computer data (1 file : 229 kb) -- S.l. : s.n., n.d.] -- on 1 external hard drive. -- Title from cover. -- File name: (9050.pdf) -- DBID 9050. 1. 025.3.
+Snow, Karen. -- Transcript of "Technical services: past, present, future" program of the ALISE Technical Services Education SIG at the ALISE annual conference in Boston, Mass., January 15, 2010. -- Computer data (1 file : 229 kb) -- S.l. : s.n., n.d.] -- on 1 external hard drive. -- Title from cover. -- File name: (9050.pdf) -- DBID 9050 -- DDC 025.3.
 
 
-Snyder, Chris. -- The 3 MMOs to play in beta & pre-order before summer [MUO gaming]. -- Computer file (1 file). -- Title from resource. -- on 1 external hard drive. -- Mode of Acccess: World Wide Web (http://www.justinleetyler.com/library/3008.pdf). -- DBID 3008. -- IN MakeUseOf.com. -- (Apr. 29, 2012). 1. 794.8.
+Snyder, Chris. -- The 3 MMOs to play in beta & pre-order before summer [MUO gaming]. -- Computer file (1 file). -- Title from resource. -- on 1 external hard drive. -- Mode of Acccess: World Wide Web (http://www.justinleetyler.com/library/3008.pdf). -- DBID 3008. -- IN MakeUseOf.com. -- (Apr. 29, 2012) -- DDC 794.8.
 
 
 
 
 Snyder, Timothy -- On Tyranny. -- Tim Duggan Books, c2017. -- 126 p. -- Contents: 1. Do not obey in advannce. -- 2. Defend institutions. -- 3. Beware of the one-party state. -- 4. Take responsibility for the face of the world. -- 5. Remember professional ethics. -- 6. Be wary of paramilitaries. -- 7. Be reflective if you must be armed. -- 8. Stand out. -- 9. Be kind to our language. -- 10. Believe in truth. -- 11. Investigate. -- 12. Make eye contact and small talk. -- 13. Practice corporeal politics. -- 14. Estabilish a private life. -- 15. Contribute to good causes. -- 16. Learn from peers in other countries. -- 17. Listen for dangerous words. -- 18. Be calm when the unthinkable arrives. -- 19. Be a patriot. -- 20. Be as courageous as you can. -- ISBN 9780804190114. -- DDC 321.
 
- Snyder, Craig. -- Emulating & playing classic NES games on your computer with Nestopia. -- Computer file. -- on 1 external hard drive. -- Title from resource. -- File name: (3006.txt). -- DBID 3006. -- IN MakeUseOf.com. -- (May 4, 2012). 1. 794.8
+ Snyder, Craig. -- Emulating & playing classic NES games on your computer with Nestopia. -- Computer file. -- on 1 external hard drive. -- Title from resource. -- File name: (3006.txt). -- DBID 3006. -- IN MakeUseOf.com. -- (May 4, 2012) -- DDC 794.8
 
 SOLARLINKFR370 owners manual. -- Computer data. -- [S.l.] : Eton, [n.d.] -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- File name: 3211.pdf. -- DBID 3211. -- DDC 537.
 Space shuttle disaster / WGBH Educational Foundation ; Yellow River Productions ; a production of WGBH, Boston ;  produced by Frank Eskenazi ; written and directed by Gilles Cayatte. -- Computer data (6 files : 320 mb). -- [Boston] : WGBH Boston Video, c2009. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /3226 . -- DBID 3226. -- DDC 629.
 
 
-Spackman, Andy. -- Our conservative ideals. -- Computer data (1 file : 107 kb). -- on 1 external hard drive. -- Title from p. 1. -- File name: (10105.pdf). -- DBID 10105. -- IN American Libraries. -- (May 31, 2011). 1. 020
+Spackman, Andy. -- Our conservative ideals. -- Computer data (1 file : 107 kb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10105.pdf). -- DBID 10105. -- IN American Libraries. -- (May 31, 2011) -- DDC 020
 
 
-Spiteri, Louise F. -- The structure and form of folksonomy tags. -- Computer data (1 file : 61 kb.) -- on 1 external hard drive. -- Title from p. 1. -- File name: (6344.txt). -- DBID 6344. -- IN Information Technology and Libraries. -- Vol. 26, no. 3, p. 13-25., (2007). 1. 025.3.
+Spiteri, Louise F. -- The structure and form of folksonomy tags. -- Computer data (1 file : 61 kb.) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (6344.txt). -- DBID 6344. -- IN Information Technology and Libraries. -- Vol. 26, no. 3, p. 13-25., (2007) -- DDC 025.3.
 
 Spong, John Shelby. -- Born of a women. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nood app. -- Title from BN.com. -- DDC 232.
 
@@ -5445,10 +5445,10 @@ Starr, D.H. -- Meant for him. -- Computer data (1 file). -- Ai Press, 2014. -- T
 > “You each have strengths where the other doesn’t. It’s that simple.
 > There was no thinking involved, just being and doing.
 
-Statement of international cataloguing principles. -- Computer data (1 file : 30 kb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from p. 1. -- File name: (7059.txt) -- DBID 7059. 1. 025.3.
+Statement of international cataloguing principles. -- Computer data (1 file : 30 kb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (7059.txt) -- DBID 7059 -- DDC 025.3.
 
 
-Steele, Bill. -- After 32 years, the library card catalog is retired. -- Computer data (1 file : 119 kb) -- on 1 external hard drive. -- Title on p. 1. -- File name: (6603.pdf). -- DBID 6603. -- IN Chronicle Online. -- (Oct. 1,2007). -- DDC 025.3.
+Steele, Bill. -- After 32 years, the library card catalog is retired. -- Computer data (1 file : 119 kb) -- on 1 external hard drive. -- Title on p -- DDC -- File name: (6603.pdf). -- DBID 6603. -- IN Chronicle Online. -- (Oct. 1,2007). -- DDC 025.3.
 
 Stein, Mark. -- How the states got their names. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 973.
 
@@ -5489,12 +5489,12 @@ Stouten, Dann A. -- The gate. -- Computer data (1 file : 580 KB). -- Revell, 201
 Suehring, Steve. -- Learn JavaScript. -- Computer data. -- Microsoft Press, 2012. -- Mode of Access: World Wide Web (http://proquest.safaribooksonline.com). -- Title from cover. -- DDC 004
 
 
-Sullivan, Phoenix. -- Sector C. -- Computer data (1 file). [S.l.] : Steele Magnolia Press, c2011. -- on Asus Transformer Tablet. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3019. 1. 813.
+Sullivan, Phoenix. -- Sector C. -- Computer data (1 file). [S.l.] : Steele Magnolia Press, c2011. -- on Asus Transformer Tablet. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3019 -- DDC 813.
 
-Summer solstice 2. -- Computer data (21 file : 161 mb). -- New York, NY : Windham Hill, p1998. -- on 1 external hard drive. -- File name: (music). -- Contents: Siwa (Samite) -- After the harvest (Angels of Venice) -- Let Awapuhi (Ledward Kaapana) -- Tres curumins (Lani Hall) -- Sutu Kun (Vieux Diop) -- Everything hurts (Buckwheat Zydeco) -- Cruisin' Negril (W.G. 'Snuffy' Walden) -- Silgugu Isiphambana (Ladysmith Black Mambazo) -- Adventures in paradise (Tuck & Patti) -- Algre Vida (Yomo Toro) -- La feria de las flores (Leonardo 'Flaco' Jimenez) -- No na mamo (Taj Mahal and the Hula Blues Bands) -- Birds in flight (George Winston) -- I'm falling (Earl Klugh) -- Puesta Del Sol (Sean Harkness) -- A child's song (Will Ackerman). -- ISRC 01934112962. -- DBID 3248. 1. 781.67.
+Summer solstice 2. -- Computer data (21 file : 161 mb). -- New York, NY : Windham Hill, p1998. -- on 1 external hard drive. -- File name: (music). -- Contents: Siwa (Samite) -- After the harvest (Angels of Venice) -- Let Awapuhi (Ledward Kaapana) -- Tres curumins (Lani Hall) -- Sutu Kun (Vieux Diop) -- Everything hurts (Buckwheat Zydeco) -- Cruisin' Negril (W.G. 'Snuffy' Walden) -- Silgugu Isiphambana (Ladysmith Black Mambazo) -- Adventures in paradise (Tuck & Patti) -- Algre Vida (Yomo Toro) -- La feria de las flores (Leonardo 'Flaco' Jimenez) -- No na mamo (Taj Mahal and the Hula Blues Bands) -- Birds in flight (George Winston) -- I'm falling (Earl Klugh) -- Puesta Del Sol (Sean Harkness) -- A child's song (Will Ackerman). -- ISRC 01934112962. -- DBID 3248 -- DDC 781.67.
 
 
-Sundeen, Mark. -- The man who quit money. -- New York : Riverhead Books, c2010. -- 260 p. -- ISBN 9781594485695. -- DBID 3091. 1. 332.
+Sundeen, Mark. -- The man who quit money. -- New York : Riverhead Books, c2010. -- 260 p. -- ISBN 9781594485695. -- DBID 3091 -- DDC 332.
 
 > Suelo outlined his philosophy of moneyless living...  -p. 15 -q
 > ... survival skills from a hermit.  -p. 19 -q
@@ -5533,7 +5533,7 @@ Sundeen, Mark. -- The man who quit money. -- New York : Riverhead Books, c2010. 
 
 Surmelis, Angelo. -- The dangerous art of blending in. -- Computer data (1 file). -- Balzer + Bray, 2018. -- System requirements: Kindle file reader. -- Title from Amazon.com. -- AISN B0727SCL5B. -- DDC 813.
 
-Sweeney, Erica. -- How to write a short biography for work. -- Computer file (1 file : 42 kb). -- on 1 external hard drive. -- Title from resource. -- File name: (10137.pdf). -- DBID 10027. -- IN eHow.com. -- (Feb. 3, 2011). 1. 808.
+Sweeney, Erica. -- How to write a short biography for work. -- Computer file (1 file : 42 kb). -- on 1 external hard drive. -- Title from resource. -- File name: (10137.pdf). -- DBID 10027. -- IN eHow.com. -- (Feb. 3, 2011) -- DDC 808.
 
 
 Swedo, Suzanne. -- Wilderness survival. -- 3rd ed. -- Computer data (1 file). -- FalconGuides, c2016. -- System requirements: MOBI file reader, USB drive. -- Filename: 3357.mobi -- ISBN 9781493017355. -- DDC 613.Swimme, Brian. -- The hidden heart of the cosmos. -- Orbis Books, c1996. -- x, 115 p. -- ISBN 1570750580. -- DDC 113.
@@ -5567,7 +5567,7 @@ Tangerine Dream (Musical group). -- Tyranny of Beauty. -- Computer data. -- Seat
 Tate, Paul A. -- Seasons of Grace: Piano Reflections. -- Computer data. -- Chicago, Ill.: GIA Publications, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Taylor, Arlene G. -- Introduction to cataloging and classification / Arlene G. Taylor; with the assistance of David P. Miller. -- Tenth ed. -- Westport, Connecticut : Libraries Unlimited, c2006. -- xviii, 589 p. -- ISBN 1591582350. 1. 025.
+Taylor, Arlene G. -- Introduction to cataloging and classification / Arlene G. Taylor; with the assistance of David P. Miller. -- Tenth ed. -- Westport, Connecticut : Libraries Unlimited, c2006. -- xviii, 589 p. -- ISBN 1591582350 -- DDC 025.
 
 Taylor, Mark Stephen. -- Moon of the White Wolf. -- Computer data (1 file). -- CreateSpace, 2014. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B00K7JXOA. -- DDC 813.
 
@@ -5597,18 +5597,18 @@ Taylor, Meadows. -- Confessions of a thug. -- Stein and Day, c1968. -- vii, 338 
 
 Tears for Fears (Musical group). -- Tears Roll Down. -- Computer data. -- New York: Mercury, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-Ten important points to remember when the priest calls. -- Computer data (1 file : 1.3 mb) -- [S.l., s.n., n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: (7004.pdf) -- DBID 7004. 1. 253.
+Ten important points to remember when the priest calls. -- Computer data (1 file : 1.3 mb) -- [S.l., s.n., n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: (7004.pdf) -- DBID 7004 -- DDC 253.
 
 Teng, Vienna. -- Waking Hour. -- Computer data. -- Brighton, MA: Virt Records, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
 
 
-The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10166.pdf) -- DBID 10166. -- IN Backpacker. -- Vol. 40, no. 3 (Apr. 2012). -- ISSN 0277-867X. 1. 796.51.
+The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10166.pdf) -- DBID 10166. -- IN Backpacker. -- Vol. 40, no. 3 (Apr. 2012). -- ISSN 0277-867X -- DDC 796.51.
 
-The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361. 1. 220.
+The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
 
 
-The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco : Harper & Row, c1987. -- xii, 267 p. -- ISBN 0060655771. 1. 291.
+The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco : Harper & Row, c1987. -- xii, 267 p. -- ISBN 0060655771 -- DDC 291.
 
 > 'I. Introduction A. Secret ceremonies 1. The legomena (things recited) a. 'mythological foundation for the celebration of the mysteries.' -10 b. performed by Priests. 2. The deiknymena (things shown) a. Visual images 3. The dromena (things performed) a. variety of rituals' -p. 1- -o
 > 'The development of early agrarian or fertility festivals into the mystery religions involved, first and foremost, the conviction on the part of the worshippers that the cycle of nature related directly to human life? Hence, if human beings could assimilate the power that made life triumphant in the world of nature, they too might live in a more complete way.' -p. 7-8 -q
@@ -5616,44 +5616,44 @@ The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco :
 The Benedictine Monks of St. Michael's. -- Computer data. -- Santa Monica, CA: LaserLight, 1994. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-The bishop's wife. -- [S.l. : MGM Home Entertainment, c2001.] -- 1 videodisc (h hr 49 min) -- Director, Henry Koster ; screenplay, Robert E. Sherwood, Leonardo Bercovici ; Starring Cary Grant, Loretta Young, David Niven, Monty Woolley. 1. 791.43.
+The bishop's wife. -- [S.l. : MGM Home Entertainment, c2001.] -- 1 videodisc (h hr 49 min) -- Director, Henry Koster ; screenplay, Robert E. Sherwood, Leonardo Bercovici ; Starring Cary Grant, Loretta Young, David Niven, Monty Woolley -- DDC 791.43.
 
-The book of Daniel. -- [S.l.] : Universal Studios, 2006. -- 2 videodiscs (345 min.) -- Starring Aidan Quinn. 1. 791.45.
+The book of Daniel. -- [S.l.] : Universal Studios, 2006. -- 2 videodiscs (345 min.) -- Starring Aidan Quinn -- DDC 791.45.
 
-The business model canvas. -- Computer data (1 file : 997 kb). -- [S.l. : Business Model Foundry, 2011?]. -- on 1 external hard drive. -- Title from resource. -- File name: (3034.pdf). -- DBID 3034. 1. 330
+The business model canvas. -- Computer data (1 file : 997 kb). -- [S.l. : Business Model Foundry, 2011?]. -- on 1 external hard drive. -- Title from resource. -- File name: (3034.pdf). -- DBID 3034 -- DDC 330
 
-The Crane Estate : trail map and guide. -- Scale 1:21120. -- [S.l.] : The Trustees of Reservations, c2009. -- 1 map. -- DBID 3132. 1. 912.744.
+The Crane Estate : trail map and guide. -- Scale 1:21120. -- [S.l.] : The Trustees of Reservations, c2009. -- 1 map. -- DBID 3132 -- DDC 912.744.
 
-The Golden Girls. -- [S.l. : s.n, 1985]. -- Starring Bea Arthur, Betty White, Rue McClanahan, Estelle Getty. 1. 791.45.
+The Golden Girls. -- [S.l. : s.n, 1985]. -- Starring Bea Arthur, Betty White, Rue McClanahan, Estelle Getty -- DDC 791.45.
 
 
-The Governor-General is the guardian of our Constitution / [by] The Governor-General is the guardian of our Constitution. -- Computer data (1 file : 90 kb). -- on 1 external hard drive. -- Title form p. 1. -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000). 1. 321.
+The Governor-General is the guardian of our Constitution / [by] The Governor-General is the guardian of our Constitution. -- Computer data (1 file : 90 kb). -- on 1 external hard drive. -- Title form p -- DDC -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000) -- DDC 321.
 
 > [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is  reserved, and that her servants, our servants, do not become our masters.  -p.  -q
 > The Governor-General and the Lieutenant Governors have the right to be consulted by their ministers, and the right to  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.  -p.  -q
-The growth of the gospel tradition. -- Computer data (1 file : 380 kb.) -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (5665.pdf). -- DBID 5665. 1. 226.
+The growth of the gospel tradition. -- Computer data (1 file : 380 kb.) -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (5665.pdf). -- DBID 5665 -- DDC 226.
 
 
-The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481. 1. 813.
+The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481 -- DDC 813.
 
 > So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market... I avoid discussing tricky topics.  -p. 6 -q
 
-The Khan academy / [by Salman Khan]. -- Computer file. -- [Menlo Park, CA] : Salman Khan, 2004- . -- Mode of Access: World Wide Web (http://www.khanacademy.org/) -- DBID 3143. 1. 025.06.
+The Khan academy / [by Salman Khan]. -- Computer file. -- [Menlo Park, CA] : Salman Khan, 2004- . -- Mode of Access: World Wide Web (http://www.khanacademy.org/) -- DBID 3143 -- DDC 025.06.
 
-The Merriam-Webster dictionary. -- Springfield, Mass. : Merriam-Webster, c2004. -- 939 p. -- ISBN 087779930X : $6.50. -- DBID 3121. 1. 423.
+The Merriam-Webster dictionary. -- Springfield, Mass. : Merriam-Webster, c2004. -- 939 p. -- ISBN 087779930X : $6.50. -- DBID 3121 -- DDC 423.
 
-The Moscow story. -- [S.l : s.n., n.d.] -- 18 p. -- Title from cover. -- DBID 1651. 1. 977.4
+The Moscow story. -- [S.l : s.n., n.d.] -- 18 p. -- Title from cover. -- DBID 1651 -- DDC 977.4
 
-The one-page business plan. -- Computer data (1 file : 95.5 kb). -- [S.l.] : 100startup.com, [n.d.]. -- on 1 external hard drive. -- Titles from p. 1. -- File name: (3067.pdf). -- DBID 3067. 1. 380.
+The one-page business plan. -- Computer data (1 file : 95.5 kb). -- [S.l.] : 100startup.com, [n.d.]. -- on 1 external hard drive. -- Titles from p -- DDC -- File name: (3067.pdf). -- DBID 3067 -- DDC 380.
 
-The Queen. -- Computer data (3 file : 701 mb) -- [London] : Grenada Screen Ltd., c2007 [2007]. -- File name: (9056/) -- Director of photography, Affonso Beato ; editor, Lucia Zucchetti ; music by Alexandre Desplat ; archive consultant, Adam Curtis. ; Helen Mirren (HM Queen Elizabeth II), Michael Sheen (Tony Blair), James Cromwell (Prince Philip), Helen McCrory (Cherie Blair), Alex Jennings (Prince Charles), Roger Allam (Robin Janvrin), and Sylvia Syms (HM The Queen Mother). -- DBID 9056. 1. 791.43.
+The Queen. -- Computer data (3 file : 701 mb) -- [London] : Grenada Screen Ltd., c2007 [2007]. -- File name: (9056/) -- Director of photography, Affonso Beato ; editor, Lucia Zucchetti ; music by Alexandre Desplat ; archive consultant, Adam Curtis. ; Helen Mirren (HM Queen Elizabeth II), Michael Sheen (Tony Blair), James Cromwell (Prince Philip), Helen McCrory (Cherie Blair), Alex Jennings (Prince Charles), Roger Allam (Robin Janvrin), and Sylvia Syms (HM The Queen Mother). -- DBID 9056 -- DDC 791.43.
 
-The road atlas. -- Scales vary. -- Chicago, Il. : Rand McNally and Company, c2012. -- 1 atlas (184 p.) -- ISBN 9780528003639 : $9.95. -- DBID 10110. 1. 912.73.
+The road atlas. -- Scales vary. -- Chicago, Il. : Rand McNally and Company, c2012. -- 1 atlas (184 p.) -- ISBN 9780528003639 : $9.95. -- DBID 10110 -- DDC 912.73.
 
 
 The Rough Guide to the Music of Zimbabwe. -- Computer data. -- London: World Music Network, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-The west wing. -- [S.l.] : Warner Home Video, 1999. -- 4 videodiscs (956 min.) -- Starring Jason Ensler, Martin Sheen, Stockard Channing, Allison Janney, Moira Kelly. 1. 791.45.
+The west wing. -- [S.l.] : Warner Home Video, 1999. -- 4 videodiscs (956 min.) -- Starring Jason Ensler, Martin Sheen, Stockard Channing, Allison Janney, Moira Kelly -- DDC 791.45.
 
 Thanksgiving table settings + place setting diagram. -- Computer data (1 file). -- on 1 external hard dive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3304.pdf. -- IN Lifehacker [website]. -- (Nov. 19, 2013). -- DDC 395.
 
@@ -5705,13 +5705,13 @@ Theology and Christian ethics. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1743. --
 Theology and scripture. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1742. -- DDC 220. 
 > 'I. Pilgrims Regress A. A superego formation in Freudian Terms B. Card is the rules of parents v.s. friends 1. Scriptural v.s. worldly wisdom' -p. -o
 > 'II. Death of Ivan Illich A. General Notes 1. Death disappears. 2. A remarkable change of outlook 3. What is his sin? He's a clone of convention. He's caught up in his ''roll''. a. inauthentic self 4. Guilt is ''existential guilt. 5.' -p. -o
-> 'III. Wellhausen Hypothosis A. Torah written in three different schools B. J 1. Yahwist 2. 950BCE C. E 1. Elohist D. D. 1. Dutoronomist E. P. 1. Priestly 2. 7th - 6th BCE 3. Worked in Jerusalem F. Redactist 1. Editor 2. After the Exile 3.' -p. -o
+> 'III. Wellhausen Hypothosis A. Torah written in three different schools B. J 1. Yahwist 2. 950BCE C. E 1. Elohist D. D -- DDC Dutoronomist E. P -- DDC Priestly 2. 7th - 6th BCE 3. Worked in Jerusalem F. Redactist 1. Editor 2. After the Exile 3.' -p. -o
 > 'I. Genesis 1-2 A. a 'theological meditiation in story form.' 1. Not scientific fact B. Gen 1 1. Priestly account 2. Written 2nd 3. transcentdent C. Gen 2 1. Yahwist 2. Written 1st 3. anthropormiphic D. Humans given central part of creation' -p. -s
 > 'II. Genesis 3 A. an aetiological story 1. A story about how things got to be where they are today.- B. A narrative theodicy C. Gen. 3 isn't necessariry for original sin' -p. -s
 Theriault, Myscha. -- 15 healthy and cheap 5-minute dinners. -- Computer data. -- [S.n., n.d.]. -- System requirements: USB drive; txt file reader. -- Title from resource. -- File name: 3253.txt. -- DDC 641.
 
 
-Tillett, Barbara. -- What is FRBR? -- Computer data (1 file : 2839 kb. -- [Washington, DC] : Library of Congress, 2003. -- on 1 external hard drive. -- Title from title page. -- File name: (10061.pdf). -- DBID 10061. 1. 025.3
+Tillett, Barbara. -- What is FRBR? -- Computer data (1 file : 2839 kb. -- [Washington, DC] : Library of Congress, 2003. -- on 1 external hard drive. -- Title from title page. -- File name: (10061.pdf). -- DBID 10061 -- DDC 025.3
 
 
 
@@ -5724,18 +5724,18 @@ Tin, Christopher. -- The drop that contained the sea. -- Computer data. -- Tin W
 Tingstad, Eric. -- In the garden / Eric Tingstad and Nancy Rumbel. -- Computer data (14 files : 93.1 mb). -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /music/ . -- Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225. -- DDC 781.67.
 
 
-Toobin, Jeffery. -- The oath. -- [S.l. : s.n., 2012?]. -- [1] v. -- DBID 3202. 1. 347.
+Toobin, Jeffery. -- The oath. -- [S.l. : s.n., 2012?]. -- [1] v. -- DBID 3202 -- DDC 347.
 Trease, Geoffrey -- The grand tour. -- Computer data (1 file : 3685 KB). -- The Odyssey press, 2017. -- System requirements: Kindle app. -- Title from amazon.com -- AISN B06XKQ49Y4. -- DDC 910.
 
 Tudor, Philippa. -- The ceremony of the Introduction of Bishops to the House of Lords. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3332.pdf. -- IN Parliamentary History, Vol. 221 (2002). -- DDC 321.
 
 
-Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- Computer data (1 file : 373 kb) -- 200-? -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8821.jpg) -- DBID 8821. 1. 779.4.
+Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- Computer data (1 file : 373 kb) -- 200-? -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8821.jpg) -- DBID 8821 -- DDC 779.4.
 
-Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler]. -- Computer data (1 file : 2.60). -- 1999. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (2058.jpg). -- DBID 2058. 1. 779.
+Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler]. -- Computer data (1 file : 2.60). -- 1999. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (2058.jpg). -- DBID 2058 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of a butterfly on Paw-Paw's land] -- Computer data (1 file). -- 2013 Oct 24 -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3347.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3347.jpg). -- LJLT 3346. 1. 779.
+Tyler, Justin Lee. -- [Photograph of a butterfly on Paw-Paw's land] -- Computer data (1 file). -- 2013 Oct 24 -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3347.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3347.jpg). -- LJLT 3346 -- DDC 779.
 
 
 Tyler, Justin Lee. -- [Photograph of Byron G. Merrill Library, Rumney, N.H.]. -- Computer data (1 file : 1.94 MB). -- [2014 May 25]. -- System requirements: USB drive; JPG file reader. -- Filename: 3328.jpg. -- DDC 779.4.
@@ -5757,11 +5757,11 @@ Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand 
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a duck at the bird sanctuary, Ipswich, Mass.] -- Computer data (1 file). -- 2013 May 31. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Filename: 3336.jpg. -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich.] -- Computer data (1 file). -- 2013 Oct 23. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3346.jpg. -- LJLT 3346. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich.] -- Computer data (1 file). -- 2013 Oct 23. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3346.jpg. -- LJLT 3346 -- DDC 779.
 
 
 
-Tyler, Justin Lee. -- [Photograph of Colleen Tyler photographing a butterfly.] -- Computer data (1 file). -- 2013 Oct 22. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3345.jpg. -- LJLT 3345. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Colleen Tyler photographing a butterfly.] -- Computer data (1 file). -- 2013 Oct 22. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3345.jpg. -- LJLT 3345 -- DDC 779.
 
 
 Tyler, Justin Lee. -- [Photograph of clouds on the mountains in Lincoln, N.H.]. -- Computer data (1 file). -- [2014 May 23]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title supplied by cataloger. -- Filename: 3327.jpg. -- DDC 779.3
@@ -5769,7 +5769,7 @@ Tyler, Justin Lee. -- [Photograph of clouds on the mountains in Lincoln, N.H.]. 
 Tyler, Justin Lee. -- [Photograph of a cover bridget in Stowe, Vt.]. -- Computer data (1 file). -- 2015 May 04. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-05-04 12.45.09.jpg. -- DDC 779.
 
 ER -
-Tyler, Justin Lee. -- [Photograph of a crab.] -- Computer data (1 file). -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3334.jpg. -- LJLT 3334. 1. 779.
+Tyler, Justin Lee. -- [Photograph of a crab.] -- Computer data (1 file). -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3334.jpg. -- LJLT 3334 -- DDC 779.
 
 
 Tyler, Justin Lee. -- [Photograph of a duck at Crane Beach (in the dunes), Ipswich, Mass.]. -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Filename: 3335.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3335.jpg). -- DDC 779.
@@ -5836,43 +5836,43 @@ Tyler, Justin Lee. -- [Photographs taken around the Blue Hills, Ipswich, Massach
 Tyler, Justin Lee. -- [Photographs taken at Biolabs, Ipswich, Massachussets]. -- Computer data. -- 2013- . -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3274. -- DBID 3274. -- DDC 779.
 
 
-Tyler, Justin Lee. -- Lyme disease caution [sign photograph]. -- Computer file (1 file : 488 kb). -- May 2, 2011. -- on 1 external hard drive. -- Title from resource and supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024. 1. 779.
+Tyler, Justin Lee. -- Lyme disease caution [sign photograph]. -- Computer file (1 file : 488 kb). -- May 2, 2011. -- on 1 external hard drive. -- Title from resource and supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of an old building in San Fransisco]. -- Computer data (1 file : 85 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5655.jpg). -- DBID 5655. 1. 779.
+Tyler, Justin Lee. -- [Photograph of an old building in San Fransisco]. -- Computer data (1 file : 85 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5655.jpg). -- DBID 5655 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of Carwash]. -- Computer data (1 file : 13 kb). -- [2007?]. -- on 1 external hard drive. -- Title supplied by Cataloger. -- File name: (5542.jpg). -- DBID 5542. 1. 779.3
+Tyler, Justin Lee. -- [Photograph of Carwash]. -- Computer data (1 file : 13 kb). -- [2007?]. -- on 1 external hard drive. -- Title supplied by Cataloger. -- File name: (5542.jpg). -- DBID 5542 -- DDC 779.3
 
 
-Tyler, Justin Lee. -- [Photograph of Grace Cathedral courtyard]. -- Computer data (1 file : 89 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5652.jpg). -- DBID 5652. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Grace Cathedral courtyard]. -- Computer data (1 file : 89 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5652.jpg). -- DBID 5652 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of Grace Cathedral gardens]. -- Computer data (1 file : 116 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5654.jpg). -- DBID 5654. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Grace Cathedral gardens]. -- Computer data (1 file : 116 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5654.jpg). -- DBID 5654 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of Justin Tyler's bedroom in Saginaw]. -- Computer data (1 file : 35 kb). -- 2002. -- on 1 external hard drive. -- File name: (8818.jpg) -- DBID 8818. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Justin Tyler's bedroom in Saginaw]. -- Computer data (1 file : 35 kb). -- 2002. -- on 1 external hard drive. -- File name: (8818.jpg) -- DBID 8818 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of map of Hamilton Reservation]. -- Computer data (1 file : 376 kb). -- 2011 May 26. -- Title supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3023.jpg. -- DBID 3023.jpg. 1. 779.
+Tyler, Justin Lee. -- [Photograph of map of Hamilton Reservation]. -- Computer data (1 file : 376 kb). -- 2011 May 26. -- Title supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3023.jpg. -- DBID 3023.jpg -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of Mass at Grace Cathedral, San Francisco, Calif.] -- Computer data (1 file : 21 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5658.jpg). -- DBID 5658.jpg. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Mass at Grace Cathedral, San Francisco, Calif.] -- Computer data (1 file : 21 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5658.jpg). -- DBID 5658.jpg -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of mural in San Fransisco]. -- Computer data (1 file : 27 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5650.jpg). -- DBID 5651. 1. 779.4.
+Tyler, Justin Lee. -- [Photograph of mural in San Fransisco]. -- Computer data (1 file : 27 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5650.jpg). -- DBID 5651 -- DDC 779.4.
 
 
-Tyler, Justin Lee. -- [Photograph of Peconte]. -- Computer data (1 file : 52 kb). -- Title supplied by Cataloger. -- File name: (5541.jpg). -- DBID 5541. 1. 779.
+Tyler, Justin Lee. -- [Photograph of Peconte]. -- Computer data (1 file : 52 kb). -- Title supplied by Cataloger. -- File name: (5541.jpg). -- DBID 5541 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of San Francisco skyline]. -- Computer data (1 file : 15 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652. 1. 779.
+Tyler, Justin Lee. -- [Photograph of San Francisco skyline]. -- Computer data (1 file : 15 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of San Fransisco Chinatown]. -- Computer data (1 file : 102 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5656.jpg). -- DBID 5656. 1. 779.
+Tyler, Justin Lee. -- [Photograph of San Fransisco Chinatown]. -- Computer data (1 file : 102 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5656.jpg). -- DBID 5656 -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photograph of the Academy of Art University building in San Francisco, Calif.] -- Computer Data (1 file : 101 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5657.jpg). -- DBID 5657. 1. 779.
+Tyler, Justin Lee. -- [Photograph of the Academy of Art University building in San Francisco, Calif.] -- Computer Data (1 file : 101 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5657.jpg). -- DBID 5657 -- DDC 779.
 
 Tyler, Justin Lee. -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.). -- Computer data (14 files). -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger.
 
@@ -5891,7 +5891,7 @@ Tyler, Justin Lee. -- [Photographs of the Flume Gorge (Lincoln, N.H.), May 7, 20
 Tyler, Justin Lee. -- [Photographs of the George and Cherie Thompson estate]. -- Computer data (26 files : 8.79 mb. -- [2010]. -- on 1 external hard drive. -- System requrements: JPG file reader. -- Title supplied by cataloger. -- File directory: /3228 . -- DBID 3228. -- DDC 779.
 
 
-Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- Computer data (2 files) -- [200-?]-- on 1 external hard drive. -- Title supplied by cataloger. -- DBID 8825. 1. 779.
+Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- Computer data (2 files) -- [200-?]-- on 1 external hard drive. -- Title supplied by cataloger. -- DBID 8825 -- DDC 779.
 
 
 Tyler, Justin Lee. -- [Photographs of Salem State Forest]. -- Computer data (1 directory). -- 2013 APR. -- System requirements: USB drive; JPG file reader. -- Directory name: 3265. -- DBID 3265a. -- DDC 779.
@@ -5903,7 +5903,7 @@ Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- C
 
 
 Uremovich, Christopher. -- Fable hill. -- Computer file (1 file). -- [S.n.], 2017. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B0771MP592. -- DDC 813.
-U.S. RDA Test Coordinating Committee. -- Report and recommendations of the U.S. RDA test coordinating committee. -- Computer data (1 file : 2.51 mb) -- [S.l. : The committee], 2011. -- Title from resource. -- File name: (10163.pdf) -- DBID 10162. 1. 025.3.
+U.S. RDA Test Coordinating Committee. -- Report and recommendations of the U.S. RDA test coordinating committee. -- Computer data (1 file : 2.51 mb) -- [S.l. : The committee], 2011. -- Title from resource. -- File name: (10163.pdf) -- DBID 10162 -- DDC 025.3.
 Unitarian Universalism: respecting diversity. -- Computer data. -- Mode of Access: World Wide Web. -- Title from resource. -- IN Skipping Stones. -- (1994). -- DDC 289.1.
 > The inherent worth and dignity of every person. We believe that each and every person is important. -q
 > Justice, equity, and compassion in human relations. We believe that all people should be treated fairly. -q
@@ -5912,23 +5912,23 @@ Unitarian Universalism: respecting diversity. -- Computer data. -- Mode of Acces
 > The rights of conscience and the use of democratic process within our congregations and the society at large. We believe that everyone should have a vote about the things that concern them. -q
 > The goal of world community with peace, liberty, and justice for all. We believe in working for a peaceful, fair, and free world. -q
 > Respect for the interdependent web of all existence of which we are a part. We believe in caring for our planet earth. -q
-Unitarian Universalist Church of the Palouse. -- Celebrant's guide / UU Church of the Palouse. -- Computer data (1 file). -- [The author], 2013. -- Mode of Access: World Wide Web (http://www.palouseuu.com/#/worship-services/4556396206). -- Title from p. 1. -- DDC 289.1
+Unitarian Universalist Church of the Palouse. -- Celebrant's guide / UU Church of the Palouse. -- Computer data (1 file). -- [The author], 2013. -- Mode of Access: World Wide Web (http://www.palouseuu.com/#/worship-services/4556396206). -- Title from p -- DDC -- DDC 289.1
 
 
-United Nations. Secretariat. -- Record-keeping and the management of United Nations archives. -- Computer data (1 file : 41 kb). -- [S.l. : s.n., 2007]. -- Title from p. 1. -- File name: (1680.pdf). -- DBID 1680. 1. 651.
+United Nations. Secretariat. -- Record-keeping and the management of United Nations archives. -- Computer data (1 file : 41 kb). -- [S.l. : s.n., 2007]. -- Title from p -- DDC -- File name: (1680.pdf). -- DBID 1680 -- DDC 651.
 
 
-United States. Central Intelligence Agency. -- The 2009 CIA world factbook. -- Computer data (1 file : 6.4 mb) -- [S.l. : s.n., 2009?] -- on Asus Transformer. -- Title from resource. -- System Requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3117. 1. 310.
+United States. Central Intelligence Agency. -- The 2009 CIA world factbook. -- Computer data (1 file : 6.4 mb) -- [S.l. : s.n., 2009?] -- on Asus Transformer. -- Title from resource. -- System Requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3117 -- DDC 310.
 
 
-University of Detroit Mercy. -- 2007-2008 tuition & fees schedule. -- Computer data (1 file : 306 kb). -- [Detroit, Mich. -- UDM, 2008]. -- File name: (5377.PDF). -- DBID 5377. 1. 378.
+University of Detroit Mercy. -- 2007-2008 tuition & fees schedule. -- Computer data (1 file : 306 kb). -- [Detroit, Mich. -- UDM, 2008]. -- File name: (5377.PDF). -- DBID 5377 -- DDC 378.
 
 
-University of Pittsbugh. Library System. -- Archive of European Integration [database]. -- Computer data (1 file : 18.2 mb) -- [Penn. : U. of Pittsburgh, 19--]. -- Title supplied by cataloger. -- Mode of Access: Gopher (gopher://justinleetyler.com:70/0/databases/archive+of+european+integration.mrk) -- Also available on the World Wide Web (http://aei.pitt.edu/) -- DBID 3105. 1. 321.016.
+University of Pittsbugh. Library System. -- Archive of European Integration [database]. -- Computer data (1 file : 18.2 mb) -- [Penn. : U. of Pittsburgh, 19--]. -- Title supplied by cataloger. -- Mode of Access: Gopher (gopher://justinleetyler.com:70/0/databases/archive+of+european+integration.mrk) -- Also available on the World Wide Web (http://aei.pitt.edu/) -- DBID 3105 -- DDC 321.016.
 
-Using the Library of Congress : MARVEL gopher. -- Computer data (1 file : 6 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (10172.txt) -- DBID 10172. 1. 027.
+Using the Library of Congress : MARVEL gopher. -- Computer data (1 file : 6 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (10172.txt) -- DBID 10172 -- DDC 027.
 
-Vance, J.D. -- Hillbilly elegy. -- Computer data (1 file). -- Harper, 2016. 1. 305.
+Vance, J.D. -- Hillbilly elegy. -- Computer data (1 file). -- Harper, 2016 -- DDC 305.
 > As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201
 > It’s about a culture that increasingly encourages social decay instead of counteracting it. -location 228
 > upward mobility fell off in the 1970s and never really recovered, -location 241
@@ -5974,10 +5974,10 @@ Vangelis. -- Odyssey: The Definitive Collection / [by] Vangelis and Jon Anderson
 
 Vicious [TV show]. -- Computer data (1 directory). -- [BBC, 201-]? -- System requirements: MP4 file reader, USB drive. -- Directory name: 3350. -- LJLT 3350. -- DDC 791.45
 
-Tyler, Justin Lee. -- [Video of Mt. Wolf summit]. -- Computer data (1 file : 14 MB). -- July 21, 2012. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger.-- File name: 3268.mp4. 1. 917.42.
+Tyler, Justin Lee. -- [Video of Mt. Wolf summit]. -- Computer data (1 file : 14 MB). -- July 21, 2012. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger.-- File name: 3268.mp4 -- DDC 917.42.
 
 
-Vinge, Vernor. -- The children of the sky. -- 1st ed. -- New York : Tor, c2011. -- 444 p. -- ISBN 9780312875626. -- DBID 3065. 1. 813.
+Vinge, Vernor. -- The children of the sky. -- 1st ed. -- New York : Tor, c2011. -- 444 p. -- ISBN 9780312875626. -- DBID 3065 -- DDC 813.
 > Vendacious and Chitiratifor visits the tycoon; offering information about the humans.  -p. 11-16 -o
 
 Vollenweider, Andreas. -- Behind the Gardens. United States: Kin Kou, 2005. -- Title from Compact Disk. -- DDC 781.67
@@ -6076,7 +6076,7 @@ Waal, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- 289 p. 
 > PIRAH: a Brazilian forest people. -p. 211 -f
 > When two plagues swept through the empire, each one killing one-third of the population, the Christians fared better than the Romans. The Christians brought food and water to those too sick to care for themselves, attending to their needs in the name of Christ, whereas the Romans fled from their dearest, abandoning them even before they had expired in an attempt to avert contagion. Even though Christians risked contamination, the study of tombstone inscriptions revealed that they enjoyed a higher life expectancy. -p. 211 -q
 
-Wagele, Elizabeth. -- The happy introvert. -- Berkeley, CA : Ulysses Press, c2006. -- 189 p. -- ISBN 9781569755464. 1. 155.
+Wagele, Elizabeth. -- The happy introvert. -- Berkeley, CA : Ulysses Press, c2006. -- 189 p. -- ISBN 9781569755464 -- DDC 155.
 > What's important is to engage in a creative project and to applaud yourself for expressing yourself in a creative way. -p. 88 -q
 > Creating - by exploring who we are, learning new things, and staying focused - is a healthy and positive way to spend time. Being consumed creatively feels like playing did when we were small. -p. 91 -q
 > Both introverts and extraverts gather information from outside themselves and process it together with information from outside themselves and process it together with information stored inside, resulting in new combinations and patterns. -p. 92 -q
@@ -6089,10 +6089,10 @@ Wagele, Elizabeth. -- The happy introvert. -- Berkeley, CA : Ulysses Press, c200
 
 Wakenhut, Anne. -- The Earth's Essence / [by] Anne Wakenhut and Gary Wakenhut. -- Computer data. -- Lakeview, MI: Collecting Consort, 1993. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-Walden Pond State Reservation [map]. -- Scale 1:10560. -- [Mass. : DCR], 2010. -- 1 map. -- DBID 3136. 1. 912.744.
+Walden Pond State Reservation [map]. -- Scale 1:10560. -- [Mass. : DCR], 2010. -- 1 map. -- DBID 3136 -- DDC 912.744.
 
 
-Waldman, Katy. -- Small but smug : meet the new and lapsed minimalists. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- Filename: 3285.pdf. -- DDC 178.
+Waldman, Katy. -- Small but smug : meet the new and lapsed minimalists. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3285.pdf. -- DDC 178.
 > In 1936, the American scholar Richard Gregg cointed the term 'voluntary simplicity' to describe a lifestyle purged of the inessential. -q 
 > Bruno prefers the term simple living to minimalism... [it] is about 'refusing the consumer culture that tells us we won't be happy or satisfied unless we continually get stuff.' -q
 
@@ -6101,7 +6101,7 @@ Waldman, Katy. -- Small but smug : meet the new and lapsed minimalists. -- Compu
 
 Wall, Michael. -- Out there. -- Grand Central Publishing, c2018. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: Wall2018.pdf. -- Title from title page viewed Jan. 1, 2019. -- ISBN 9781538729390. -- DDC 520.
 
-Wallace, Scott. -- The unconquered. -- 1st ed. -- New York : Crown Publishers, c2011. -- xvi, 494 p., [16] p. of plates. -- ISBN 9780307462961. 1. 981.
+Wallace, Scott. -- The unconquered. -- 1st ed. -- New York : Crown Publishers, c2011. -- xvi, 494 p., [16] p. of plates. -- ISBN 9780307462961 -- DDC 981.
 
 > In any case, the idea wasn't to cordon the Indians of forever from the outside world; it was to allow them to choose if and when they wanted contact. They could make contact at any time they wanted, Possuelo said. All they had to do was to head down any river and they'd find their way to civilization. They fact that they Arrow People and their tribes had not done so provided a sufficiently clear message: they wanted to be left alone. -p. 188 -q
 > Tasaday: a tribe in the secluded forests of Mindanao in the Philippines. -p. 251 -f
@@ -6131,7 +6131,7 @@ Wasik, John F. -- Retire early - and live the life you want now. -- [1st ed.] --
 > Ch. 4: What you need to know: 1) If you don't have a retirement plan, get one and fully fund it. 2) Know the differences between the various kinds of plans and choose the one that suits your needs. Set one up and choose low-cost mutual funds to fund them. 3) Understand the rules of each plan and choose fund managers who offer you the most service for the lowest cost. Diversity between types of funds 4) Don't borrow from your 401(k).
 > Finding consistently profitable companies: 1) Pick a company that has earnings growth of at least 15% per year (the key is consistency) 2) The company should have quality management that boosts sales, creates new products or services, and is boosting market share every year 3) Diversify your portfolio among industries and countries 4) Invest and reinvest for total returns 5) Monitor your companies, but don't sell unless something devastating happens to the corporations.
 > Ch. 6: What you need to know: 1) Choose stock-inex funds for consistent returns, low management expenses, and diversification. Buy them and keep them as the core of your prosperity portfolio. 2) If you have have the time to research and monitor individual stocks, select them for consistent annual earnings growth of 15%, solid management, and innovation. Diversify across industries. 3) Invest in stocks that have DRIPs and DPPs to reduce costs and buy more shares on a consistent basis 4) If you are just starting out - or want to turn stock investing into a fun social project - then join an investment club.
-Wat, Pamela. -- Myths and truths of our faith. -- Computer data (1 file) -- [S.n.], 2010. -- Mode of Access: World Wide Web (http://www.rruu.org/worship/sermons/PamelaWat10032010.pdf). -- Tile from p. 1. -- DDC 252.
+Wat, Pamela. -- Myths and truths of our faith. -- Computer data (1 file) -- [S.n.], 2010. -- Mode of Access: World Wide Web (http://www.rruu.org/worship/sermons/PamelaWat10032010.pdf). -- Tile from p -- DDC -- DDC 252.
 > our Unitarian heritage which professes belief in one God and not the trinity, and our Universalist heritage that all are saved and not just an elect few. -q
 
 Waugh, John C. -- On the brink of civil war. -- Scholarly Resources, 2003. -- xii, 217 p. -- DBID 0018. -- ISBN  9780842029445. -- DDC 973
@@ -6142,7 +6142,7 @@ Waugh, John C. -- On the brink of civil war. -- Scholarly Resources, 2003. -- xi
 > The "problem of the South" (189): -Slavery -Free Trade -State Slavery -o
 > Calhoun= Gov't interfearence in the south ( -Unfair tax burden of southern -New Ordinance -Missouri Compromise -New Territories -Territories must be organized by congress; not the people of the territory.) -o
 > I shall not place myself in any leading position. But I shall seek to be a calm and quiet looker on, rarely speaking and when I do endevering to throw oil on the trouble waters. -q
-Webcast.berkeley [website]. -- Computer data. -- [S.l.] : Regents of the University of California, c2002- . -- Title from homepage. -- Mode of Access: World Wide Web (http://webcast.berkeley.edu/) -- DBID 3087. 1. 375.
+Webcast.berkeley [website]. -- Computer data. -- [S.l.] : Regents of the University of California, c2002- . -- Title from homepage. -- Mode of Access: World Wide Web (http://webcast.berkeley.edu/) -- DBID 3087 -- DDC 375.
 
 
 Weagley, Julie. -- Interoperability and metadata quality in digital video repositories: a study of dublin core. -- Computer data (1 file : 117 kb) -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- File name: 3207.pdf. -- DBID 3207. -- IN Journal of Library Metadata. -- no. 10 (2010). -- DDC 025.3
@@ -6151,10 +6151,10 @@ Weagley, Julie. -- Interoperability and metadata quality in digital video reposi
 > There are several barriers to interoperability among the collections. Most obvious are the inconsistencies, errors, and semantic ambiguities involving the elements Format and Type, Contributor and Creator. -q
 
 
-Weber, Lisa B. -- Record formatting: MARC ARC. -- Computer data (1 file : 1.8 mb) -- On 1 external hard drive. -- Title from resource. -- File name: (8442.pdf) -- DBID 8443. -- IN Describing archival materials. -- (1990). 1. 025.3.
+Weber, Lisa B. -- Record formatting: MARC ARC. -- Computer data (1 file : 1.8 mb) -- On 1 external hard drive. -- Title from resource. -- File name: (8442.pdf) -- DBID 8443. -- IN Describing archival materials. -- (1990) -- DDC 025.3.
 
 
-Weihs, Jean. -- Designating materials : from 'germane terms' to element types / Jean Weihs, Lynne C. Howarth. -- Computer data (1 file : 127 kb) -- On 1 external hard drive. -- Title from p. 1. -- File name: (8408.pdf) -- DBID 8408. -- IN Cataloging and Classification Quarterly. -- Vol. 45, no. 4 (2008). 1. 025.3
+Weihs, Jean. -- Designating materials : from 'germane terms' to element types / Jean Weihs, Lynne C. Howarth. -- Computer data (1 file : 127 kb) -- On 1 external hard drive. -- Title from p -- DDC -- File name: (8408.pdf) -- DBID 8408. -- IN Cataloging and Classification Quarterly. -- Vol. 45, no. 4 (2008) -- DDC 025.3
 
 Weiland, K.M. -- Dreamlander. -- Computer data (1 file : 1022 KB). -- PenForASword, 2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00A9WU99Q. -- DDC 813.
 
@@ -6197,7 +6197,7 @@ Weldon, Fay. -- The life and loves of a 'she-devil'. -- 1st American ed. -- New 
 > I am invigorated. Self-knowledge and reason run through my veins: the cold slow blood of the she-devil. -p. 57 -q
 > BOOK SUMMARY: THE LIFE AND LOVE OF A SHE-DEVIL, by Fay Weldon, is a work of fiction. Ruth, Bobbo, and Mary Fisher form the main characters. Ruth, an ugly housewife, after years of mental abuse and affairs by her husband, remakes herself into a 'she-devil', someone with 'self-knowledge and reason'. The story begins with an evening dinner with Bobbo's parent's. Everything goes wrong. She is called a terrible housewife and mother. Bobbo moves in with his latest interest, Mary Fisher: a writer, who lives in a mansion by the sea. Ruth seeks revenge. First, she burns down their house. She then takes a job at the retirement home where Mary's mother lives, and frames her for incontinence; forcing her to be expelled and move in with Mary. Ruth then frames her ex-husband for embezzlement, and sleeps with the sentencing judge; sending Bobbo to jail for seven years. Having changed her personality from a submissive housewife to a she-devil, she begins extensive cosmetic surgery to remake her body. In part due to Bobbo's legal troubles, Mary runs out of money, and is forced to sell her mansion. She also has cancer. Mary dies, Ruth buys the mansion herself. -p. -s
 
-Weis, Margaret. -- Dragons of a vanished moon. -- 1st paperback ed. -- Renton, WA : Wizards of the West Coast, c2003. -- 629 p. -- ISBN 0786929502 -- DBID 8240. 1. 813.
+Weis, Margaret. -- Dragons of a vanished moon. -- 1st paperback ed. -- Renton, WA : Wizards of the West Coast, c2003. -- 629 p. -- ISBN 0786929502 -- DBID 8240 -- DDC 813.
 > ch. 2: The device is fixed, and they travel back in time -s
 > Think of them not so much as prisoners, but as animated slabs of meat -Mina -p. 45 -q
 > Ch. 3: Mina raises Palin and Dalamar from the dead. -s
@@ -6212,10 +6212,10 @@ Weis, Margaret. -- Dragons of a vanished moon. -- 1st paperback ed. -- Renton, W
 > Mina is performing the service of the God in Solesus. -s
 > The adage goes that while eleves strive to be worthy of the gods, humans require that their gods be worthy of them. The citizens of Solanthus were naturally skeptical. -p. 173 -q
 
-Weis, Margaret. -- Dragons of summer flame / Margaret Weis and Tracy Hickman ; poetry by Michael Williams ; art by Larry Elmore. -- Computer data (1 file : 2.1 mb) -- Renton, Wash. : Wizards of the coast, 2002, c2001. -- Title from p. 1. -- on 1 external hard drive. -- File name: (8840.doc) -- DBID 8840. 1. 813.
+Weis, Margaret. -- Dragons of summer flame / Margaret Weis and Tracy Hickman ; poetry by Michael Williams ; art by Larry Elmore. -- Computer data (1 file : 2.1 mb) -- Renton, Wash. : Wizards of the coast, 2002, c2001. -- Title from p -- DDC -- on 1 external hard drive. -- File name: (8840.doc) -- DBID 8840 -- DDC 813.
 
 
-Weis, Margaret. -- Dragons of the Autumn twilight. -- Renton, WA : Wizards of the Coast, c2003. -- 408 p. -- ISBN 0786930640. 1. 813.
+Weis, Margaret. -- Dragons of the Autumn twilight. -- Renton, WA : Wizards of the Coast, c2003. -- 408 p. -- ISBN 0786930640 -- DDC 813.
 > Otik -f
 > Tika -f
 > Night of the Dragons -p. 245-249 -s
@@ -6334,16 +6334,16 @@ Wellemeyer, Mary. -- Admire the Moon. -- Computer data (1 file). -- Skinner Hous
 Westlife (Musical group). -- The Love Album / [by] Westlife and Delta Goodrem. -- Computer data. -- S.l.: Sony BMG Music Entertainment (UK) Ltd, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.65.
 
 
-Wheelan, Joseph. -- Jefferson's vendetta : The pursuit of Aaron Burr and the Judiciary. -- New York : Carroll and Publishers, c2005. -- 344 p. -- ISBN 0786716894 : $15.95. -- DBID 3120. 1. 973.
+Wheelan, Joseph. -- Jefferson's vendetta : The pursuit of Aaron Burr and the Judiciary. -- New York : Carroll and Publishers, c2005. -- 344 p. -- ISBN 0786716894 : $15.95. -- DBID 3120 -- DDC 973.
 
 > Jefferson took pains to point out that he was a deist... to his friend, Dr. Benjamin Rush, Jefferson declared that he believed in Divine Providence, the resurrection, future rewards and punishments, and in Christ's teachings, but not that Christ was the Son of God. -p. 65 -q
 > In 1801, his vision of America encompassed a nation of farmers, landowners, craftsmen, adn tradesmen loosely governed by a small federal govennment that delivered the mail, administered justice, conducted foreign affairs without -- in Jefferson's words -- 'entagling alliances,' and promoted and protected a robust rade, leaving everything else to individuals and their states. -p. 64 -q
 > He [Jefferson] dressed with conscious 'republican' simplicity -- shabbily, some would say... -p. 66 -q
 
-Wheelock, Frederic M. -- Wheelocks's latin / Frederic M. Wheelock; revised by Richard A. LaFleur. -- 6th ed., revised. -- Computer file (1 file : 20.4 mb). -- New York, NY : HarperResource, c2005. -- Title from title page. -- File name: (10099.pdf). -- DBID 10099. -- ISBN 0060784237. 1. 470.
+Wheelock, Frederic M. -- Wheelocks's latin / Frederic M. Wheelock; revised by Richard A. LaFleur. -- 6th ed., revised. -- Computer file (1 file : 20.4 mb). -- New York, NY : HarperResource, c2005. -- Title from title page. -- File name: (10099.pdf). -- DBID 10099. -- ISBN 0060784237 -- DDC 470.
 > ch. 
 Wells, H.G. -- The time machine. -- Computer data. -- [S.n.], 1898. -- Mode of Access: World Wide Web (http://gutenberg.org/ebooks/35). -- Title from resource. -- DDC 823.
-White Mountains waterproof trail map. -- 4th ed. -- Scales vary. -- [S.l.] : Map Adventures, c2010. -- 2 maps on 1 sheet. -- ISBN 1890060232 : $9.95. -- DBID 3122 . 1. 912.742.
+White Mountains waterproof trail map. -- 4th ed. -- Scales vary. -- [S.l.] : Map Adventures, c2010. -- 2 maps on 1 sheet. -- ISBN 1890060232 : $9.95. -- DBID 3122  -- DDC 912.742.
 
 White, E.H. -- Kasey and his dragon. -- Computer data (1 file : 244 KB). -- [S.n., 20--?]. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
@@ -6421,7 +6421,7 @@ William, Dee. -- The big tiny. -- Plume, c2014. -- 288 p. -- ISBN 9780142181799.
 > I told him I simply needed the usual trailer 'package' of metal side rails, cross braces, lights, brakes, and the ability to hold at least 3,500 pounds on two axles. -p. 102 -q
 
 
-Lewis-Williams, David. -- Deciphering ancient minds / David Lewis-Williams and Sam Challis. -- Thames & Hudson, c2011. -- 224 p. -- ISBN 9780500051696. 1. 759.
+Lewis-Williams, David. -- Deciphering ancient minds / David Lewis-Williams and Sam Challis. -- Thames & Hudson, c2011. -- 224 p. -- ISBN 9780500051696 -- DDC 759.
 KW  - Rock paintings
 KW  - Africa, Southern
 KW  - Antiquities
@@ -6450,11 +6450,11 @@ Willowdale State Forest. -- Oct. 23, 2011; 10am-[?] -- 5 mi.
 Willowdale State Forest. -- Sept. 2011. -- 1 mi.
 
 
-Wills, George F. -- Lost in electronica. -- Computer data (1 file : 91 kb) -- Title from resource. -- File name: (9051.pdf) -- DBID 9051. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010). 1. 153.
+Wills, George F. -- Lost in electronica. -- Computer data (1 file : 91 kb) -- Title from resource. -- File name: (9051.pdf) -- DBID 9051. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010) -- DDC 153.
 Wilson, Stephen. -- Redemption. -- Computer data (1 file). -- Pioneering Press, 2016. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B01LYFJ0OU. -- DDC 813.
 
 
-Winchester, Simon. -- Outposts. -- New York, NY : Perennial, c 1985, 2003. -- xxii, 362 p. -- ISBN 0060598611. 1. 910.
+Winchester, Simon. -- Outposts. -- New York, NY : Perennial, c 1985, 2003. -- xxii, 362 p. -- ISBN 0060598611 -- DDC 910.
 
 > Treaty of Utrecht -p. 103 -f
 > Ch. 4: Gilbraltar -p. -s
@@ -6462,7 +6462,7 @@ Winchester, Simon. -- Outposts. -- New York, NY : Perennial, c 1985, 2003. -- xx
 > CH. 5: Ascension Island: A volcanic island -- No permanent population -- Lots of spies. -p. 121-133 -s
 > Rules, the British believe, are the essentials of an ordered society. -p. 88 -q
 Windham Hill Chill 2: Ambient/acoustic. -- Computer data. -- New York: Windham Hill, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
-Windham Hill Records sampler '96. -- Computer data (19 files : 129 mb). -- Stanford, CA : Windham Hill Records, p1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- File name: (music). -- Contents: Last look (4:36) / Torcuato Mariano -- When the snow melts (3:53) / Phil Cummingham & Mánus Lunny -- Theme from In search of angels (2:05) / Tim Story -- The white spirit (5:11) (Uman) -- Playground (3:39) / Henry Adam Curtis -- A different shore (5:39) (Nightnoise) -- Jenny's room (5:10) / Andy Narell -- Southern jukebox music (5:04) (Penguin Cafe Orchestra) -- If you believe (2:58) / Jim Brickman -- Brahms: Mädchenlied, op. 85, no. 3 (2:24) (Wayne Horvitz) -- Bach: Prelude in C minor from The well-tempered clavier (3:01) (Steve Erquiaga) -- Picture this (2:55) / Jim Brickman -- Rio Amazonas (3:03) / Øystein Sevåg & Lakki Patey -- Castille (5:15) / Ray Obiedo. -- ISRC 1934111792. -- DBID 3076. 1. 781.67.
+Windham Hill Records sampler '96. -- Computer data (19 files : 129 mb). -- Stanford, CA : Windham Hill Records, p1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- File name: (music). -- Contents: Last look (4:36) / Torcuato Mariano -- When the snow melts (3:53) / Phil Cummingham & Mánus Lunny -- Theme from In search of angels (2:05) / Tim Story -- The white spirit (5:11) (Uman) -- Playground (3:39) / Henry Adam Curtis -- A different shore (5:39) (Nightnoise) -- Jenny's room (5:10) / Andy Narell -- Southern jukebox music (5:04) (Penguin Cafe Orchestra) -- If you believe (2:58) / Jim Brickman -- Brahms: Mädchenlied, op. 85, no. 3 (2:24) (Wayne Horvitz) -- Bach: Prelude in C minor from The well-tempered clavier (3:01) (Steve Erquiaga) -- Picture this (2:55) / Jim Brickman -- Rio Amazonas (3:03) / Øystein Sevåg & Lakki Patey -- Castille (5:15) / Ray Obiedo. -- ISRC 1934111792. -- DBID 3076 -- DDC 781.67.
 
 Winston, George. -- December: Piano Solos. -- Computer data. -- New York: Windham Hill Records, 2001. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
@@ -6471,7 +6471,7 @@ Wolfsheim (Musical group). -- Casting Shadows. -- Computer data. -- Philadelphia
 
 Womack, Jason. -- Journal the journey. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Title from resource. -- File name: 3241.txt. -- IN Training. -- Vol. 49, no. 4 (Jul.-Aug. 2012). -- DDC 808.006692
 
-Women in the world's religions, past and present. -- New York : Paragon House, c1986. -- x, 261 p. -- DBID 8612. -- ISBN 0913757330. 1. 291.
+Women in the world's religions, past and present. -- New York : Paragon House, c1986. -- x, 261 p. -- DBID 8612. -- ISBN 0913757330 -- DDC 291.
 
 Wong, Eva. -- The Shambhala guide to Taoism. -- Shambhala, 1997. -- x, 268 p. -- ISBN 1570621691. -- DDC 299.
 
@@ -6544,7 +6544,7 @@ Work and spirit. -- Scranton : University of Scranton Press, c2000. -- xxxii, 37
 > -p. MK. 14 -r
 > -p. MK. -r
 > 'I. Diversity of Early Christians A. Jewish-Christian Adaptionists 1. Adapted at the baptism 2. Produced Mark B. Marcionite Christians 1. Anti-Semitism C. Gnostic Christians D. Prodo-Orthodox 1. Roman Theology 2. Won majority thru censorship. II. Early Jewish Diversity A. Pharisees 1. Evolved into current rabbis 2. Prayer, study, kindess/charity B. Sadduccees C. Essenes D. Forth Philosophy 1. Sect of josephus III. Modern Judiams A. Orthodox B. Conservative C. Reconstructionist D. Reform-7% of current jews in diaspera -' -p. -o
-Worldcat. -- Computer data. -- [Dublin, Oh. : OCLC, n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.worldcat.org). 1. 017.
+Worldcat. -- Computer data. -- [Dublin, Oh. : OCLC, n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.worldcat.org) -- DDC 017.
 
 
 Wright, John C. -- Count to a trillion. -- DBID 3210. -- DDC 813.
@@ -6566,13 +6566,13 @@ Wyss, Johann David. -- The Swiss Family Robinson. -- Computer data (1 file). -- 
 
 > Ch. 3: Dad and Flynn goes to the boat and retrieves supplies, and a few animals. -s
 > Ch. 5: A discussion about food. -s
-Yahoo! developer network. -- Computer data. -- [S.l.] : Yahoo!, Inc., c2012. -- Mode of Access: World Wide Web ( http://developer.yahoo.com/ ). -- DBID 3142. 1. 004.
+Yahoo! developer network. -- Computer data. -- [S.l.] : Yahoo!, Inc., c2012. -- Mode of Access: World Wide Web ( http://developer.yahoo.com/ ). -- DBID 3142 -- DDC 004.
 
-Yahoo! Mail. -- Computer data. -- [United States : Yahoo, c2011-] -- Title from homepage. -- Mode of Access: World Wide Web (http://mail.yahoo.com). 1. 004.
+Yahoo! Mail. -- Computer data. -- [United States : Yahoo, c2011-] -- Title from homepage. -- Mode of Access: World Wide Web (http://mail.yahoo.com) -- DDC 004.
 
 Yamada, Kannon. -- Build your own low-wattage PC with these three simple design rules. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Also available on the World Wide Web (http://www.makeuseof.com/tag/build-your-own-low-wattage-pc-with-three-simple-design-rules/). -- File name: 3301.pdf. -- IN Makeuseof.com. -- (Nov. 4, 2013). -- DDC 004.
 
-Yamakage, Moshisa. -- The essence of Shinto / Motohinsa Yamakage; Translators: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro; Editors, Paul de Leeuw, Aidan Rankin. -- Tokyo; New York : Kodansha International, c2006. -- 229 p. -- ISBN 9784770030443. 1. 229.5
+Yamakage, Moshisa. -- The essence of Shinto / Motohinsa Yamakage; Translators: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro; Editors, Paul de Leeuw, Aidan Rankin. -- Tokyo; New York : Kodansha International, c2006. -- 229 p. -- ISBN 9784770030443 -- DDC 229.5
 
 > In Yamakage Shinto, the whole universe is called 'universe of the great circle' (daikanu). -p. 131 -q
 > The essence of Shinto is found in our relationship and interdependence with Kami. Or to put another way, Shinto is the path through which we seek to realize ourselves as human beings by acquiring the noble characteristics of Kami. -p. 12 -q
@@ -6655,7 +6655,7 @@ Yanni. -- Yanni Live: The Concert Event. -- Computer data. -- Chatsworth, CA: Im
 Yanni. -- Yanni Voices. -- Computer data. -- United States: Yanni-Wake, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
-Yates, Jen. -- Cake wrecks. -- Kansas City : Andrew McMeel Publishing, LLC., c2009. -- xvi, 191 p. -- ISBN9780740785375. -- DBID 3059. 1. 817.
+Yates, Jen. -- Cake wrecks. -- Kansas City : Andrew McMeel Publishing, LLC., c2009. -- xvi, 191 p. -- ISBN9780740785375. -- DBID 3059 -- DDC 817.
 
 > This book is a satirical look at cakes, made by professionals, gone very wrong.  -p.  -s 
 > FASTIDIOUSNESS, #wotd, being meticulious about styles and taste. -f
@@ -6714,55 +6714,55 @@ N1   - ITHYPHALLIC, sexually erect. #wotd -p. 89 -f
 > Original sin is greed, and original greed is ingestive, the taking in of too much meat, either above or below. -p. 144 -q
 > ... patriarchal culture that arose as neolithic farming gave way to the city states of the Near East... -p. 155 -q
 > Although we cannot know when the fraternal bond among hunters and warriors first found homosexual expression, the ethnographic evidence suggests it is not significantly primitive; and such evidence as we have from the historial Near East and Egypt suggests itwas a Greek invention. -p. 160 -q
-YouTube. -- Computer data. -- [S.l.] : YouTube, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.youtube.com). -- DBID 3127. 1. 791.
+YouTube. -- Computer data. -- [S.l.] : YouTube, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.youtube.com). -- DBID 3127 -- DDC 791.
 
 Your email inbox is not a filing cabinet. -- Computer data. -- on 1 external hard drive. -- System requirements: .txt file reader. -- Title from resource. -- File name: 3216.txt. -- DBID 3216. -- IN Unclutterer. -- (Jun. 21, 2012.) -- DDC 650.
 
 
-Zero dollar books. -- Computer data. -- [S.l. : Digital Inspirations, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://hundredzeros.com/). -- DBID 3011. 1. 002
+Zero dollar books. -- Computer data. -- [S.l. : Digital Inspirations, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://hundredzeros.com/). -- DBID 3011 -- DDC 002
 
 Zimmer, Hans. -- Pirates of the Caribbean: Dead Man's Chest. -- Computer data. -- Burbank, CA: Walt Disney Records, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542
 
 Zimmer, Hans. -- Madagascar: Motion Picture Soundtrack / [by] Hans Zimmer ... [et al] -- Computer data. -- Santa Monica, Calif: DreamWorks, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
-[60 Hikes Within 60 Miles: Boston]. -- Computer data. -- [S.l., s.n.], 2007. -- Title from resource. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&bquery=JN+%2260+Hikes+Within+60+Miles%3a+Boston%22+AND+DT+20070501&type=0&site=hcrc-live) -- DBID 3080. 1. 796.51
+[60 Hikes Within 60 Miles: Boston]. -- Computer data. -- [S.l., s.n.], 2007. -- Title from resource. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&bquery=JN+%2260+Hikes+Within+60+Miles%3a+Boston%22+AND+DT+20070501&type=0&site=hcrc-live) -- DBID 3080 -- DDC 796.51
 
-[Baptismal certificate of Justin Lee Tyler]. -- Computer data (1 file : 910 kb) -- 1999 Oct. 31. -- Title supplied by cataloger. -- File name: (1564.bmp) -- DBID 1564. 1. 090.
+[Baptismal certificate of Justin Lee Tyler]. -- Computer data (1 file : 910 kb) -- 1999 Oct. 31. -- Title supplied by cataloger. -- File name: (1564.bmp) -- DBID 1564 -- DDC 090.
 
 [Ephemera from Soaring Eagle to George Thompson]. -- Computer data (2 files : 15.7 mb). -- [200-?]. -- Title suplied by cataloger. -- File name: (2095.jpg). -- DBID 2095. -- DBID 2096.
 
-[Garfield daily comic]. -- Computer data. -- Title from resource. -- Mode of Access: World Wide Web (http://news.yahoo.com/comics/garfield-slideshow/?_esi=1). -- IN Yahoo [homepage]. -- [S.l. : s.n., n.d. -- URL http://www.yahoo.com. 1. 817.
+[Garfield daily comic]. -- Computer data. -- Title from resource. -- Mode of Access: World Wide Web (http://news.yahoo.com/comics/garfield-slideshow/?_esi=1). -- IN Yahoo [homepage]. -- [S.l. : s.n., n.d. -- URL http://www.yahoo.com -- DDC 817.
 [Garfield daily comic. 2013-07-12]. -- Computer data (1 file : 1 MB). -- [S.n.], 2012. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title supplied by cataloger. -- Filename: 3313.pdf. -- DBID 3313. -- DDC 817.
 
-[Large Hydron Collider introduction video]. -- (1 file : 40 mb) -- [S.l., s.n., 2009?] -- Title supplied by cataloger. -- File name: (7506.wmv) -- Cast: Dr. Brian Cox, Dr. John Butterworth. -- DBID 7506. 1. 539.
+[Large Hydron Collider introduction video]. -- (1 file : 40 mb) -- [S.l., s.n., 2009?] -- Title supplied by cataloger. -- File name: (7506.wmv) -- Cast: Dr. Brian Cox, Dr. John Butterworth. -- DBID 7506 -- DDC 539.
 
-[Memorial card for Mary E. Warner]. -- Computer data (1 file : 5.2 mb). -- [19--?]. -- Title suplied by cataloger. -- File name: (2098.jpg). -- DBID 2098. 1. 779
+[Memorial card for Mary E. Warner]. -- Computer data (1 file : 5.2 mb). -- [19--?]. -- Title suplied by cataloger. -- File name: (2098.jpg). -- DBID 2098 -- DDC 779
 
 [Photograph  - unidentified]. -- Computer data (1 file : 1.56 mb). -- [n.d.]. -- Title supplied by cataloger. -- File name: (2024.jpg). -- DBID 2024.
 
-[Photograph Cherie Thompson in garden] -- Computer data (1 file : 875 kb) -- [2001?] -- Title supplied by cataloger. -- File name: (8822.jpg) -- DBID 8822. 1. 779.2.
+[Photograph Cherie Thompson in garden] -- Computer data (1 file : 875 kb) -- [2001?] -- Title supplied by cataloger. -- File name: (8822.jpg) -- DBID 8822 -- DDC 779.2.
 
-[Photograph of a baby]. -- Computer data (1 file : 6.3 mb). -- [n.d.] -- Title supplied by cataloger. -- File name: (2094.jpg). -- DBID 2094. 1. 779.
+[Photograph of a baby]. -- Computer data (1 file : 6.3 mb). -- [n.d.] -- Title supplied by cataloger. -- File name: (2094.jpg). -- DBID 2094 -- DDC 779.
 
 [Photograph of a group of children]. -- Computer data (1 file : 2.8 mb). -- [19--?] -- Title supplied by cataloger. -- File name: (2082.jpg). -- DBID 2082.
 
-[Photograph of a house]. -- Computer data (1 file : 1 mb). -- 1945. -- Title supplied by cataloger. -- File name: (2070.jpg). -- DBID 2070. 1. 779.
+[Photograph of a house]. -- Computer data (1 file : 1 mb). -- 1945. -- Title supplied by cataloger. -- File name: (2070.jpg). -- DBID 2070 -- DDC 779.
 
-[Photograph of a house]. -- Computer data (1 file : 370 mb). -- 1945. -- Title supplied by cataloger. -- File name: (2076.jpg). -- DBID 2076. 1. 779.
+[Photograph of a house]. -- Computer data (1 file : 370 mb). -- 1945. -- Title supplied by cataloger. -- File name: (2076.jpg). -- DBID 2076 -- DDC 779.
 
-[Photograph of a women at a piano reading a book]. -- Computer data (1 file : 19 mb). -- [n.d.]. -- Title supplied by cataloger. -- File name: (2004.jpg) -- DBID 2004. 1. 779.
+[Photograph of a women at a piano reading a book]. -- Computer data (1 file : 19 mb). -- [n.d.]. -- Title supplied by cataloger. -- File name: (2004.jpg) -- DBID 2004 -- DDC 779.
 
-[Photograph of Cherie Thompson watering flowers in garden]. -- Computer data (1 file : 812 kb) -- [200-?] -- Title supplied by cataloger. -- File name: (8823.jpg) -- DBID 8823. 1. 779.
+[Photograph of Cherie Thompson watering flowers in garden]. -- Computer data (1 file : 812 kb) -- [200-?] -- Title supplied by cataloger. -- File name: (8823.jpg) -- DBID 8823 -- DDC 779.
 
-[Photograph of Cherie Thompson watering flowers]. -- Computer data (1 file : 2.08 mb). -- [ca. 2001]. -- Title supplied by cataloger. -- File name: (2030.jpg). -- DBID 2030. 1. 779.
+[Photograph of Cherie Thompson watering flowers]. -- Computer data (1 file : 2.08 mb). -- [ca. 2001]. -- Title supplied by cataloger. -- File name: (2030.jpg). -- DBID 2030 -- DDC 779.
 
-[Photograph of Cherie Thompson watering flowers]. -- Computer data (1 file : 2.92 mb). -- [ca. 2001]. -- Title supplied by cataloger. -- File name: (2031.jpg). -- DBID 2031. 1. 779.
+[Photograph of Cherie Thompson watering flowers]. -- Computer data (1 file : 2.92 mb). -- [ca. 2001]. -- Title supplied by cataloger. -- File name: (2031.jpg). -- DBID 2031 -- DDC 779.
 
 [Photograph of Cherie Thompson with beer can on head]. -- Computer data (1 file : 2.55 mb). -- [ca. 1990]. -- Title supplied by cataloger. -- File name: (2029.jpg). -- DBID 2029.
 
 [Photograph of Clark Thompson]. -- Computer data (1 file : 1.16 mb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2032.jpg). -- DBID 2032.	
 
-[Photograph of Clark Thompson]. -- Computer data (1 file : 358 kb). -- 1971. -- Title supplied by cataloger. -- File name: (2040.jpg). -- DBID 2040. 1. 779.
+[Photograph of Clark Thompson]. -- Computer data (1 file : 358 kb). -- 1971. -- Title supplied by cataloger. -- File name: (2040.jpg). -- DBID 2040 -- DDC 779.
 
 [Photograph of Clark Thompson]. -- Computer data (1 file : 464 kb). -- 1968. -- Title supplied by cataloger. -- File name: (2037.jpg). -- DBID 2037.
 
@@ -6770,89 +6770,89 @@ Zimmer, Hans. -- Madagascar: Motion Picture Soundtrack / [by] Hans Zimmer ... [e
 
 [Photograph of Colleen and Justin Tyler]. -- Computer data (1 file : 1.85 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2051.jpg). -- DBID 2051.
 
-[Photograph of Colleen and Wayne Tyler at wedding]. -- Computer data (1 file : 1 mb). -- [1980]. -- Title supplied by cataloger. -- File name: (2052.jpg). -- DBID 2052. 1. 779.
+[Photograph of Colleen and Wayne Tyler at wedding]. -- Computer data (1 file : 1 mb). -- [1980]. -- Title supplied by cataloger. -- File name: (2052.jpg). -- DBID 2052 -- DDC 779.
 
 [Photograph of Colleen and Wayne Tyler]. -- Computer data (1 file : 1.57 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2053.jpg). -- DBID 2053. 
 
-[Photograph of Colleen and Wayne Tyler]. -- Computer data (1 file : 3.65 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2050.jpg). -- DBID 2050. 1. 779.
+[Photograph of Colleen and Wayne Tyler]. -- Computer data (1 file : 3.65 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2050.jpg). -- DBID 2050 -- DDC 779.
 
 [Photograph of Colleen Tyler and Clark Thompson]. -- Computer data (1 file : 2.01 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2047.jpg). -- DBID 2047.
 
 [Photograph of Colleen Tyler in old house]. -- Computer data (1 file : 1.06 mb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2046.jpg). -- DBID 2046.
 
-[Photograph of Colleen Tyler skating with George Thompson]. -- Computer data (1 file : 877 kb). -- 1971. -- Title supplied by cataloger. -- File name: (2026.jpg). -- DBID 2026. 1. 779.
+[Photograph of Colleen Tyler skating with George Thompson]. -- Computer data (1 file : 877 kb). -- 1971. -- Title supplied by cataloger. -- File name: (2026.jpg). -- DBID 2026 -- DDC 779.
 
 [Photograph of Colleen Tyler waving in driveway]. -- Computer data (1 file : 2.06 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2048.jpg). -- DBID 2048.
 
 [Photograph of Colleen Tyler ]. -- Computer data (1 file : 432 kb). -- [197-?]. -- Title supplied by cataloger. -- File name: (2011.jpg). -- DBID 2001.
 
-[Photograph of Colleen Tyler, Clark Thompson, and a dog] -- Computer data (1 file : 373 kb) -- [between 1965-1970?] -- Title supplied by cataloger. -- File name: (8819.jpg) -- DBID 8819. 1. 779.2.
+[Photograph of Colleen Tyler, Clark Thompson, and a dog] -- Computer data (1 file : 373 kb) -- [between 1965-1970?] -- Title supplied by cataloger. -- File name: (8819.jpg) -- DBID 8819 -- DDC 779.2.
 
 [Photograph of Colleen Tyler]. -- Computer data (1 file : 1.32 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2055.jpg). -- DBID 2055.
 
-[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.06 mb). -- [197-?]. -- Title supplied by cataloger. -- File name: (2049.jpg). -- DBID 2049. 1. 779.
+[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.06 mb). -- [197-?]. -- Title supplied by cataloger. -- File name: (2049.jpg). -- DBID 2049 -- DDC 779.
 
-[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.17 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2033.jpg). -- DBID 2033. 1. 779.
+[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.17 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2033.jpg). -- DBID 2033 -- DDC 779.
 
-[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.97 mb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2044.jpg). -- DBID 2044. 1. 779.
+[Photograph of Colleen Tyler]. -- Computer data (1 file : 2.97 mb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2044.jpg). -- DBID 2044 -- DDC 779.
 
 [Photograph of Colleen Tyler]. -- Computer data (1 file : 463 kb). -- [197?]. -- Title supplied by cataloger. -- File name: (2014.jpg). -- DBID 2014.
 
-[Photograph of Colleen Tyler]. -- Computer data (1 file : 66.9 mb). -- [196-?]. -- Title from cataloger. -- File name: (10078.tif). -- DBID 10078. 1. 779 
+[Photograph of Colleen Tyler]. -- Computer data (1 file : 66.9 mb). -- [196-?]. -- Title from cataloger. -- File name: (10078.tif). -- DBID 10078 -- DDC 779 
 
-[Photograph of Colleen Tyler]. -- Computer data (1 file : 943 kb). -- 1964. -- Title supplied by cataloger. -- File name: (2012.jpg). -- DBID 2012. 1. 779.
+[Photograph of Colleen Tyler]. -- Computer data (1 file : 943 kb). -- 1964. -- Title supplied by cataloger. -- File name: (2012.jpg). -- DBID 2012 -- DDC 779.
 
-[Photograph of Cook]. -- Computer data (1 file : 629 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2020.jpg). -- DBID 2020. 1. 779.
+[Photograph of Cook]. -- Computer data (1 file : 629 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2020.jpg). -- DBID 2020 -- DDC 779.
 [Photograph of Frank Jacobs Thompson]. -- Computer data (1 file : 629 kb). -- 1943. -- Title supplied by cataloger. -- File name: (2022.jpg). -- DBID 2022.
 
-[Photograph of George Thompson and Colleen Tyler with deer]. -- Computer data (1 file : 849 kb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2025.jpg). -- DBID 2025. 1. 779.
+[Photograph of George Thompson and Colleen Tyler with deer]. -- Computer data (1 file : 849 kb). -- [196-?]. -- Title supplied by cataloger. -- File name: (2025.jpg). -- DBID 2025 -- DDC 779.
 
-[Photograph of George Thompson and Steve Warner]. -- Computer data (1 file : 1.73). -- [200-?]. -- Title supplied by cataloger. -- File name: (2036.jpg). -- DBID 2036. 1. 779
+[Photograph of George Thompson and Steve Warner]. -- Computer data (1 file : 1.73). -- [200-?]. -- Title supplied by cataloger. -- File name: (2036.jpg). -- DBID 2036 -- DDC 779
 
-[Photograph of George Thompson's house]. -- Computer data (1 file : 725 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2019.jpg). -- DBID 2019. 1. 779.
+[Photograph of George Thompson's house]. -- Computer data (1 file : 725 kb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2019.jpg). -- DBID 2019 -- DDC 779.
 
-[Photograph of George Thompson's woodpile]. -- Computer data (1 file : 500 kb) -- [2011]. -- Title supplied by cataloger. -- File name: (10120.jpg) -- DBID 10120. 1. 779.
+[Photograph of George Thompson's woodpile]. -- Computer data (1 file : 500 kb) -- [2011]. -- Title supplied by cataloger. -- File name: (10120.jpg) -- DBID 10120 -- DDC 779.
 
-[Photograph of Justin Tyler and George Thompson]. -- Computer data (1 file : 1.84 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2028.jpg). -- DBID 2028. 1. 779
+[Photograph of Justin Tyler and George Thompson]. -- Computer data (1 file : 1.84 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2028.jpg). -- DBID 2028 -- DDC 779
 
-[Photograph of Justin Tyler in front of San Fransico branch library]. -- Computer data (1 file : 85 kb). -- [2007]. -- Title supplied by cataloger. -- File name: (5650.jpg). -- DBID 5650. 1. 779.2.
+[Photograph of Justin Tyler in front of San Fransico branch library]. -- Computer data (1 file : 85 kb). -- [2007]. -- Title supplied by cataloger. -- File name: (5650.jpg). -- DBID 5650 -- DDC 779.2.
 
-[Photograph of Justin Tyler on a toy pony]. -- Computer data (1 file : 1.37 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2060.jpg). -- DBID 2060. 1. 779.
+[Photograph of Justin Tyler on a toy pony]. -- Computer data (1 file : 1.37 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2060.jpg). -- DBID 2060 -- DDC 779.
 
-[Photograph of Justin Tyler, and George and Cherie Thompson by christmas tree]. -- Computer data (1 file : 52 kb.) -- [2007?] -- Title supplied by cataloger. -- File name: (6411.jpg). -- DBID 6411. 1. 779.2.
+[Photograph of Justin Tyler, and George and Cherie Thompson by christmas tree]. -- Computer data (1 file : 52 kb.) -- [2007?] -- Title supplied by cataloger. -- File name: (6411.jpg). -- DBID 6411 -- DDC 779.2.
 
-[Photograph of Lois]. -- Computer data (1 file : 216 kb). -- [1952]. -- Title supplied by cataloger. -- File name: (2015.jpg). -- DBID 2015. 1. 779.
+[Photograph of Lois]. -- Computer data (1 file : 216 kb). -- [1952]. -- Title supplied by cataloger. -- File name: (2015.jpg). -- DBID 2015 -- DDC 779.
 
-[Photograph of Lola Donaldson holding a child]. -- Computer data (1 file : 8.65 mb). -- [n.d.] -- Title supplied by cataloger. -- File name: (2006.jpg). -- DBID 2006. 1. 779.
-
-
-[Photograph of Presbyterian Church in Hillsdale, Mich.] -- Computer data (1 file : 2.43 kb). -- [2001?]. -- Title supplied by cataloger. -- File name: (2061.jpg). -- DBID 2061. 1. 779.
-
-[Photograph of the Jacob's family]. -- Computer data (1 file : 1.15 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2069.jpg). -- DBID 2069. 1. 779.
+[Photograph of Lola Donaldson holding a child]. -- Computer data (1 file : 8.65 mb). -- [n.d.] -- Title supplied by cataloger. -- File name: (2006.jpg). -- DBID 2006 -- DDC 779.
 
 
-[Photograph of the Tyler family Estate (back of house)]. -- Computer data (1 file : 3.05 mb). -- [2001]. -- Title supplied by cataloger. -- File name: (2064.jpg). -- DBID 2064. 1. 779.
+[Photograph of Presbyterian Church in Hillsdale, Mich.] -- Computer data (1 file : 2.43 kb). -- [2001?]. -- Title supplied by cataloger. -- File name: (2061.jpg). -- DBID 2061 -- DDC 779.
+
+[Photograph of the Jacob's family]. -- Computer data (1 file : 1.15 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2069.jpg). -- DBID 2069 -- DDC 779.
 
 
-[Photograph of the Tyler family Estate (back yard)]. -- Computer data (1 file : 2.91 mb). -- [2001]. -- Title supplied by cataloger. -- File name: (2062.jpg). -- DBID 2062. 1. 779.
+[Photograph of the Tyler family Estate (back of house)]. -- Computer data (1 file : 3.05 mb). -- [2001]. -- Title supplied by cataloger. -- File name: (2064.jpg). -- DBID 2064 -- DDC 779.
+
+
+[Photograph of the Tyler family Estate (back yard)]. -- Computer data (1 file : 2.91 mb). -- [2001]. -- Title supplied by cataloger. -- File name: (2062.jpg). -- DBID 2062 -- DDC 779.
 
 
 [Photograph of the Tyler family Estate (backyard with cars)]. -- Computer data (1 file : 2.75 mb). -- [2001]. -- Title supplied by cataloger. -- File name: (2063.jpg). -- DBID 2063.
 
-[Photograph of the Tyler Family]. -- Computer data (1 file : 1.76 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2054.jpg). -- DBID 2054. 1. 779.
+[Photograph of the Tyler Family]. -- Computer data (1 file : 1.76 mb). -- [198-?]. -- Title supplied by cataloger. -- File name: (2054.jpg). -- DBID 2054 -- DDC 779.
 
-[Photograph of the Warner Family barn]. -- Computer data (1 file : 1.17 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2079.jpg). -- DBID 2079. 1. 779.
+[Photograph of the Warner Family barn]. -- Computer data (1 file : 1.17 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2079.jpg). -- DBID 2079 -- DDC 779.
 
-[Photograph of the Warner Family estate]. -- Computer data (1 file : 1.2 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2080.jpg). -- DBID 2080. 1. 779.
+[Photograph of the Warner Family estate]. -- Computer data (1 file : 1.2 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2080.jpg). -- DBID 2080 -- DDC 779.
 
-[Photograph of the Warner Family house]. -- Computer data (1 file : 1.2 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2081.jpg). -- DBID 2081. 1. 779.
+[Photograph of the Warner Family house]. -- Computer data (1 file : 1.2 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2081.jpg). -- DBID 2081 -- DDC 779.
 
-[Photograph of the Warner Family]. -- Computer data (1 file : 1.29 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2078.jpg). -- DBID 2078. 1. 779.
+[Photograph of the Warner Family]. -- Computer data (1 file : 1.29 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2078.jpg). -- DBID 2078 -- DDC 779.
 
-[Photograph of Thompson estate  - old house]. -- Computer data (1 file : 1.5 mb). -- 1952. -- Title supplied by cataloger. -- File name: (2088.jpg). -- DBID 2088. 1. 779.
+[Photograph of Thompson estate  - old house]. -- Computer data (1 file : 1.5 mb). -- 1952. -- Title supplied by cataloger. -- File name: (2088.jpg). -- DBID 2088 -- DDC 779.
 
 
-[Photograph of Thompson estate  - old house]. -- Computer data (1 file : 3 mb). -- 2000. -- Title supplied by cataloger. -- File name: (2092.jpg). -- DBID 2092. 1. 779.
+[Photograph of Thompson estate  - old house]. -- Computer data (1 file : 3 mb). -- 2000. -- Title supplied by cataloger. -- File name: (2092.jpg). -- DBID 2092 -- DDC 779.
 
 [Photograph of Thompson estate]. -- Computer data (1 file : 4 mb). -- [19--?]. -- Title supplied by cataloger. -- File name: (2090.jpg). -- DBID 2090.
 
@@ -6860,12 +6860,12 @@ Zimmer, Hans. -- Madagascar: Motion Picture Soundtrack / [by] Hans Zimmer ... [e
 
 [Photograph of turkeys]. -- Computer data (1 file : 1.56 mb). -- [ca. 2000]. -- Title supplied by cataloger. -- File name: (2034.jpg). -- DBID 2034.
 
-[Photograph of Tyler family] -- Computer data (1 file : 509 kb) -- [1984?] -- Title supplied by cataloger. -- File name: (8820.jpg) -- DBID 8820. 1. 779.2.
+[Photograph of Tyler family] -- Computer data (1 file : 509 kb) -- [1984?] -- Title supplied by cataloger. -- File name: (8820.jpg) -- DBID 8820 -- DDC 779.2.
 
 
-[Photographs of Crane Beach]. -- Computer files. -- [2012- ]. -- Title supplied by cataloger. -- File name: (3128/) -- DBID 3128. 1. 779.
+[Photographs of Crane Beach]. -- Computer files. -- [2012- ]. -- Title supplied by cataloger. -- File name: (3128/) -- DBID 3128 -- DDC 779.
 
-[Photographs of Justin Tyler]. -- Computer data. -- [1982- ]. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory name: 8068. -- DBID 8068. 1. 779.
+[Photographs of Justin Tyler]. -- Computer data. -- [1982- ]. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory name: 8068. -- DBID 8068 -- DDC 779.
 
 
 
@@ -6873,19 +6873,17 @@ Tyler, Justin Lee. -- [Photographs of Justin Lee Tyler and Shawn Lysik hiking Mt
 
 [Paystub - 2-13-12-31]. -- Computer data (1 file). -- [2013 Dec. 31]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: 3312.pdf. -- DBID 3312. -- DDC 091.
 
-[Photographs of Mr. Bunny]. -- Computer data. -- [200-]? -- Title supplied by cataloger. -- Mode of Access: ( http://www.justinleetyler.com/library/8824/ ). -- DBID 8824. 1. 779.
+[Photographs of Mr. Bunny]. -- Computer data. -- [200-]? -- Title supplied by cataloger. -- Mode of Access: ( http://www.justinleetyler.com/library/8824/ ). -- DBID 8824 -- DDC 779.
 
-[Research outline]. -- Computer Data. -- [S.n. : s.l., n.d.]. -- Title supplied by cataloger. -- File name: 0060.pdf. -- DBID 0060. 1. 808
+[Research outline]. -- Computer Data. -- [S.n. : s.l., n.d.]. -- Title supplied by cataloger. -- File name: 0060.pdf. -- DBID 0060 -- DDC 808
 
-[Residential lease]. -- Computer data (1 file). -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p. 1. -- Filename: 3311.pdf. -- DBID 3311. -- DDC 091.
+[Residential lease]. -- Computer data (1 file). -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3311.pdf. -- DBID 3311. -- DDC 091.
 
-[Ten things to ponder for 2006. -- Computer data (1 file : 1.40 kb) -- [S.l., s.n., n.d.] -- Title from resource. -- File name: (0437.txt). -- DBID 0437. 1. 817.
-
-[The meaning of the cross]. -- Computer data [1 file : 1 kb). -- [S.n., n.d., 20--?]. -- Title supplied by cataloger. -- File name: (5554.txt). -- DBID 5554. 1. 246.
+[The meaning of the cross]. -- Computer data [1 file : 1 kb). -- [S.n., n.d., 20--?]. -- Title supplied by cataloger. -- File name: (5554.txt). -- DBID 5554 -- DDC 246.
 
 [Thompson family photograph]. -- Computer data (1 file : 1.32 mb). -- [197-?]. -- Title supplied by cataloger. -- File name: (2000.jpg). -- DBID 2000.
 
-[Ulretta Warner photograph]. -- Computer data (1 file : 11.4 mb). -- [n.d.]. -- title supplied by cataloger. -- File name: (2003.jpg). -- DBID 2003. 1. 779.
+[Ulretta Warner photograph]. -- Computer data (1 file : 11.4 mb). -- [n.d.]. -- title supplied by cataloger. -- File name: (2003.jpg). -- DBID 2003 -- DDC 779.
 
-[War games]. -- Computer data (1 file : 404 mb) -- [S.l., s.n., n.d.] -- Title supplied by cataloger. -- File name: (3078.flv) -- DBID 3078. 1. 791.43.
+[War games]. -- Computer data (1 file : 404 mb) -- [S.l., s.n., n.d.] -- Title supplied by cataloger. -- File name: (3078.flv) -- DBID 3078 -- DDC 791.43.
 
