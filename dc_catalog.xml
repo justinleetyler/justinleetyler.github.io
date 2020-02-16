@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="dc.css"?> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rdf:Description>
+<dc:title>The lion in the living room</dc:title>
+<dc:creator>Tucker, Abigail</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Simon and Schuster</dc:publisher>
+<dc:date>2016</dc:publisher>
+<dc:subject>636</dc:subject>
+</rdf:Description>
+</rdf:RDF>
