@@ -8,7 +8,7 @@ heading {
 	background-color : powderblue; 
 } 
 
-heading, title, creator, subject, description, type, publisher, date { 
+heading, title, creator, subject, description, type, publisher, date, language { 
 	display : block; 
 	color: black;
 } 
@@ -27,12 +27,16 @@ publisher:before {
   content: "Publisher: ";
   }
 
-Date:before {
+date:before {
   content: "Date: ";
   }
 
 creator:before {
   content: "Author: ";
+  }
+
+language:before {
+  content: "Language: ";
   }
 
 subject:before {
