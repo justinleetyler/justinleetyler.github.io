@@ -23,5 +23,155 @@
 <dc:identifier>9780062306852</dc:identifier>
 </rdf:Description>
 
+<rdf:Description>
+<dc:title>The seven principles in word and worship</dc:title>
+<dc:creator>Brandenburg, Ellen</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Skinner House Books</dc:publisher>
+<dc:date>2007</dc:date>
+<dc:subject>230</dc:subject>
+<dc:identifier>1558965254</dc:identifier>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>Simon v.s. the homo sapiens agenda</dc:title>
+<dc:creator>Albertalli, Becky</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Balzer + Bray</dc:publisher>
+<dc:date>2015</dc:date>
+<dc:subject>813</dc:subject>
+<dc:identifier>9780062348685</dc:identifier>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The road</dc:title>
+<dc:creator>McCarthy, Cormac</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Vintage Books</dc:publisher>
+<dc:date>2006</dc:date>
+<dc:subject>813</dc:subject>
+<dc:identifier>9780307476302</dc:identifier>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>Meditations</dc:title>
+<dc:creator>Aurelius, Marcus</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Penguin Classics</dc:publisher>
+<dc:date>2006</dc:date>
+<dc:subject>???</dc:subject>
+<dc:identifier>9780141395869</dc:identifier>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The mythic journey</dc:title>
+<dc:creator>Green, Liz</dc:creator>
+<dc:creator>Sharman-Burke, Juliet</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Weiser Books</dc:publisher>
+<dc:date>2017</dc:date>
+<dc:subject>???</dc:subject>
+<dc:identifier>9781578626167</dc:identifier>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>Unitarian and Universalism</dc:title>
+<dc:creator>Cheetham, Henry H.</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Beacon Press</dc:publisher>
+<dc:date>1962</dc:date>
+<dc:subject>???</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>A cherokee feast of days</dc:title>
+<dc:creator>Hifler, Joyce Sequinchie</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Council Oak Books</dc:publisher>
+<dc:date>1992</dc:date>
+<dc:subject>???</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+<dc:identifier>0933031688</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The access bible</dc:title>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Oxford University Press</dc:publisher>
+<dc:date>1999</dc:date>
+<dc:subject>220</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+<dc:identifier>0195282361</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>Book of common prayer</dc:title>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>Oxford University Press</dc:publisher>
+<dc:date>1979</dc:date>
+<dc:subject>???</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The message</dc:title>
+<dc:creator>Peterson, Eugene H.</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>NavPress</dc:publisher>
+<dc:date>2002</dc:date>
+<dc:subject>220</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>Cataloging machine-readable data file</dc:title>
+<dc:creator>Dodd, Sue</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>American Library Association</dc:publisher>
+<dc:date>2002</dc:date>
+<dc:subject>025.3</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The women he loved</dc:title>
+<dc:creator>Martin, Ralph G.</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>[S.n.]</dc:publisher>
+<dc:date>[n.d.]</dc:date>
+<dc:subject>920</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>The windsor story</dc:title>
+<dc:creator>Bryan, J. III</dc:creator>
+<dc:creator>Murphy, J.V.</dc:creator>
+<dc:type>text</dc:type>
+<dc:language>eng</dc:language>
+<dc:publisher>William Morrow and Company</dc:publisher>
+<dc:date>1979</dc:date>
+<dc:subject>920</dc:subject>
+<dc:identifier>Shelf 2</dc:identifier>
+</rdf:Description>
+
 
 </rdf:RDF>
