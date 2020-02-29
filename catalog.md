@@ -3,7 +3,9 @@
 
 Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3292.
 
--NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive. -- Title from 12 outstanding personality traits of a great boss. -- Computer data. -- Mode of Access: World Wide Web (http://www.officevibe.com/blog/infographic-great-boss). -- Title from resource. -- IN Officevibe [website].  1. 650.
+-NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive. 
+
+12 outstanding personality traits of a great boss. -- Computer data. -- Mode of Access: World Wide Web (http://www.officevibe.com/blog/infographic-great-boss). -- Title from resource. -- IN Officevibe [website].  1. 650.
 > Think positive -- Be honest -- Delegate -- Communicate -- Inspire -- Align the team -- Balanced (People perform better when they're able to balance life and work") -- Give credit -- Encourage growth -- Praise -- Mentor -- Fair. -o
 
 15 tested tips for creative efficiency. -- Computer data (1 file : 27 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: 10153.txt -- DBID 10152. -- IN Lifehacker. -- (Feb. 8, 2012). -- DDC 153.
@@ -44,6 +46,7 @@ Tyler, Justin Lee. -- [2009 taxes]. -- Computer data. -- 2009. -- on 1 external 
 Tyler, Justin Lee. -- [2012 taxes]. -- Computer data (5 files : 416 KB). -- on 1 external hard drive. -- System requirements: USB drive, PDF and JPG file reader. -- Title supplied by cataloger. -- File Directory: 3261. -- DBID 3221. -- DDC 091.
 
 Tyler, Justin Lee. -- [2016 taxes]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, PDF reader. -- Title supplied by cataloger. -- File Directory: 3359. -- DBID 3359. -- DDC 091.
+
 Winfrey, Sarah. -- 29 scientifically proven ways to be happy this year. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year). -- Title from resource. -- IN Wisebread [website]. -- (Jan. 23, 2014) -- DDC 150.
 
 > Work with your hands -- Practice 'taking in the good' -- Help others -- Stop caring about what others think. -- Let go of perfection -- Become calm -- Hold the small things -- Guzzle H20 -- Disconnect -- Fake it 'til you make it (smile). -- Embrace the great outdoors. -- Stop whining -- Hold your tongue -- Use your time well -- Get your sweat on (excercise) -- Leave blame behind -- Get the sleep you need -- Talk it up (vocalize your gratefulness) -- Engage in Aid -- Reach out -- Don't fear failure -- See yourself different -- Pay attention -- Find a new mantra -- Don't eat alone -- Get creative -- Dream about getting away. -o
@@ -315,7 +318,7 @@ Barry, Dave. -- Insane city. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 978
 > But he [Sid] preferred to perceive the world through the ever-present interface of Rose so that his impressions and opinions would always be in sync with hers; this, Sid had learned over the years, was the key to a peaceful marriage, if not necessarily a happy one. -p. 77 -q 
 > ... whose official title was Director of Operations, in which capacity he spent the bulk of his day picking up monkey shit. p. 105 -q This is how I feel at work, with my title; compared to what I actually do. -r
 
- Barber, David. -- Building a digital library. -- Computer data (1 file : 15.4 kb). -- Title from resource. -- DBID 2100. -- File name: (2100.txt) -- IN Library Technology Reports. -- (Sept. 01, 1996) -- DDC 027.
+ Barber, David. -- Building a digital library. -- Computer data (1 file : 15.4 kb). -- Title from resource. -- DBID 2100. -- File name: (2100.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/2100.txt). -- IN Library Technology Reports. -- (Sept. 01, 1996) -- DDC 027.
 
 Barnes, Gary. -- Aquifer. -- 1st ed. -- Computer data (1 file : 601 KB). -- Blue Spring Press, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00907BWIS. -- DDC 813.
 
@@ -2180,8 +2183,6 @@ Franks, Daniel J. -- The order of Ascalon. -- Computer data (1 file). -- D. Fran
 Fredriksson, Berndt. -- Postmodernistic archival science : rethinking the methodology. -- Computer data (1 file : 1.1 mb) -- Title from resource. -- File name: (10068.pdf). -- DBID 10068. -- IN Archival Science. -- Vol. 3 (2003) -- DDC 027.
 Free Kindle books. -- Computer data. -- KFB.me, c2014. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://fkb.me/ -- DDC 813.
 
-Friday fun: Battle Panic. -- Computer file. -- Title from resource. -- File name: (3007.txt). -- DBID 3007. -- IN How-To Geek. -- [(May 5, 2012)] -- DDC 794.8
-
 
 Friedman, Thomas L. -- Postcard from a free Egypt. -- Computer file (1 file : 85 kb). -- Title from resource. -- File name: (10042.pdf). -- DBID 10042. -- IN The New York Times. -- (Feb. 11, 2011). 1.962.
 
@@ -2329,10 +2330,6 @@ Goodkind, Terry. -- Wizard's First Rule. -- Computer file. -- RosettaBooks, 2010
 > 45 r saves the dragons egg -s
 > Wizard’s First Rule: people are stupid, they believe what they want to believe. -q
 > 46 r fins zedd and co, but tghe spell sides his identity from them. he fibds michael, and learns hge is the one whok betrayed.  -s
-Gopher (protocol). -- Computer data (1 file : 58.1 kb). -- [S.l. : Answers.com, 2012.). -- File name: (3002.txt) -- DDC 004.69.
-
-
-
 
 Gorman, Michael. -- The concise AACR2 -- 4th ed. -- ALA, 2004. -- on 1 external hard drive -- System requirements: USB drive; PDF file reader. -- Title based on title page viewed Jan 1, 2019. -- File name: Gorman2004.pdf. -- ISBN 0888023111. -- DDC 025.3.
 > As a basic minimum, include at least the areas and elements (provided that they apply to the bibliographic resource) set out in this illustration: Title proper / first statement of responsibility[2]. -- Edition statement. -- Special area for serials, maps, music. -- First named publisher, etc., date. -- Extent of item. -- Required note(s). -- Standard number... 2. If the person or body named in this statement is recognizably the same as the person or body chosen as the main entry heading (see rules 23–28) and there are no other words or only the word “by” (or its equivalent in another language) in the statement, you may omit the statement.
@@ -3411,8 +3408,6 @@ Kling, Michael. -- 9 frugal ways to treat the common cold. -- Computer data (1 f
 Klosowki, Thorin. -- The best productivity tricks used by evil dictators. -- Computer data (1 file : 2 mb) -- on 1 external hard drive. -- System requirements: PDF file reader; USB port. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012). -- DDC 150.
 > 1. Force difficult decisions on people when their willpower is weak. -- 2. Create a five-year place. -- 3. Purge threats to your power. -- 4. Embrace your "Cult of Personality" . -- 5. Give direct, powerful speeches. -- 6. Learn from experiences, not books.
 
-Klosowski, Thorin. -- Chill Out. -- Computer file. -- on 1 external hard drive. -- File name: (3146.txt). -- DBID 3146. -- IN Lifehacker. -- Aug. 15, 2012 -- DDC 152.
-
 
 Klosowski, Thorin. -- The importance of self-awareness, and how to become more self aware. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Filename: 3333.txt. -- Also available on the WWW (http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518). -- DBID 3333. -- IN Lifehacker. -- (Aug 21, 2014). -- DDC 158.1.
 
@@ -3465,7 +3460,7 @@ Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; 
 
 
 
-Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 0121.txt -- DBID 3117 -- DDC 025.3.
+Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 3117.txt -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3117.txt). -- DBID 3117 -- DDC 025.3.
 
 
 Lamoreux, Daniel. -- Apparition Lake / Daniel Lamoreux, Doug Lamoreux. -- Computer data. -- Creativia, 2014. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
@@ -3562,7 +3557,7 @@ Library of Congress. -- Disseminating information on the internet. -- Computer d
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 Format for Authority Data / Network Development and MARC Standards Office. -- 1999 ed. -- Computer data (1 file : 80 kb). -- [Washington, DC] : Library of Congress, 2006. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (5574.txt). -- DBID 5574 -- DDC 025.4
 
 
-Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- Computer data (1 file : 33 kb) -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3089.txt) -- DBID 3089 -- DDC 025.4.
+Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- Computer data (1 file : 33 kb) -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3089.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3089.txt) -- DBID 3089 -- DDC 025.4.
 
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- Computer data (1 file : 34 kb). -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- Title from p.1. -- File name: (1703.txt). -- Also available on the [World Wide Web](http://www.justinleetyler.com/1703.txt). -- DBID 1703 -- DDC 025.3.
 
@@ -3887,9 +3882,6 @@ McDonald, M.P. -- Infection. -- Computer data (1 file). -- MPMcD Publishing, 201
 McElhaney, Scott. -- The mystic saga. -- Computer data (1 file : 518 KB). -- Superluminal, 2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 McGuffie, Duncan. -- The hymn sandwich : a brief history of Unitarian worship. -- Computer data (1 file). -- [S.n., 19--]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3366.pdf. -- DDC 289.1
-
-
-McKay, Brett. -- A history of the American Bachelor: Part II -- Post-Civil War / by Brett & Kate McKay. -- Computer data (1 file : 23 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3003.txt) -- DBID 3003.txt. -- IN The Art of Manlines. -- (May 1, 2012) -- DDC 305.31
 
 
 McKay, Brett. -- The cabinet of invisible counselors / Brett McKay, Kate McKay. -- Computer data (1 file : 22.5 kb) -- Title from resource. -- on 1 external hard drive. -- File name: (10165.txt) -- DBID 10165. -- IN The Art of Manliness -- DDC 646.7
@@ -6469,7 +6461,7 @@ Winston, George. -- December: Piano Solos. -- Computer data. -- New York: Windha
 Wolfsheim (Musical group). -- Casting Shadows. -- Computer data. -- Philadelphia, PA: Metropolis Records, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
 
-Womack, Jason. -- Journal the journey. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Title from resource. -- File name: 3241.txt. -- IN Training. -- Vol. 49, no. 4 (Jul.-Aug. 2012). -- DDC 808.006692
+Womack, Jason. -- Journal the journey. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Title from resource. -- File name: 3241.txt. -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3241.txt) -- IN Training. -- Vol. 49, no. 4 (Jul.-Aug. 2012). -- DDC 808.006692
 
 Women in the world's religions, past and present. -- New York : Paragon House, c1986. -- x, 261 p. -- DBID 8612. -- ISBN 0913757330 -- DDC 291.
 
@@ -6715,9 +6707,6 @@ N1   - ITHYPHALLIC, sexually erect. #wotd -p. 89 -f
 > ... patriarchal culture that arose as neolithic farming gave way to the city states of the Near East... -p. 155 -q
 > Although we cannot know when the fraternal bond among hunters and warriors first found homosexual expression, the ethnographic evidence suggests it is not significantly primitive; and such evidence as we have from the historial Near East and Egypt suggests itwas a Greek invention. -p. 160 -q
 YouTube. -- Computer data. -- [S.l.] : YouTube, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.youtube.com). -- DBID 3127 -- DDC 791.
-
-Your email inbox is not a filing cabinet. -- Computer data. -- on 1 external hard drive. -- System requirements: .txt file reader. -- Title from resource. -- File name: 3216.txt. -- DBID 3216. -- IN Unclutterer. -- (Jun. 21, 2012.) -- DDC 650.
-
 
 Zero dollar books. -- Computer data. -- [S.l. : Digital Inspirations, c2012. -- Title from homepage. -- Mode of Access: World Wide Web (http://hundredzeros.com/). -- DBID 3011 -- DDC 002
 
