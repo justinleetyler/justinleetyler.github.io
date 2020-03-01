@@ -9,7 +9,7 @@ Star gazing log
 ## READING
 
 ### Currently Reading
-Corey, James S. A. -- Leviathan wakes. -- Title from resource; viewed Jan. 18, 2020. -- Mode of Access: [World Wide Web](http://www.justinleetyler.com/corey2011.txt). -- DDC 813.
+Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v. -- 9781400069903. -- DDC 813.
 
 ### Reading log
 
@@ -17,6 +17,7 @@ Corey, James S. A. -- Leviathan wakes. -- Title from resource; viewed Jan. 18, 2
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
+}2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
 |2020-02 | D | Howey, Hugh. -- Beacon 23. | 920 |
 |2020-01 | C | [Me / Elton John](http://www.justinleetyler.com/john2019.txt). | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
