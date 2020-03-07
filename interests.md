@@ -10,6 +10,7 @@ Star gazing log
 
 ### Currently Reading
 Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v. -- 9781400069903. -- DDC 813.
+Toland, John. -- Pantheistican.
 
 ### Reading log
 
