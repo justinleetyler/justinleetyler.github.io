@@ -9,7 +9,12 @@ Star gazing log
 ## READING
 
 ### Currently Reading
+<<<<<<< HEAD
 Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
+=======
+Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v. -- 9781400069903. -- DDC 813.
+Toland, John. -- Pantheistican.
+>>>>>>> 2bf80918e8cc81bd5c47ad069a2b637157861622
 
 ### Reading log
 
