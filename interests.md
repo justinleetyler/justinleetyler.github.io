@@ -9,7 +9,7 @@ Star gazing log
 ## READING
 
 ### Currently Reading
-Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v. -- 9781400069903. -- DDC 813.
+Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
 
 ### Reading log
 
@@ -271,6 +271,7 @@ Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v.
 ### Books to read
 
 |Date | Description | Location/Dewey Number.|
+|2020-03 | Proclaim!: Sharing Words, Living Examples, Changing Lives ||
 |2020-01 | Me / Elton John. ||
 |2020-01 | Help! I'm laughing and I can't get up / Liz Curtis Higgs ||
 |2020-01 | Anarchy / Megan DeVos ||

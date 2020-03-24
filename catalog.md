@@ -2439,6 +2439,12 @@ Greenberg, David. -- Calvin Coolidge. -- Time Books, c2006. -- xviii, 202 p. -- 
 > Classically conservative on economic policy and averse to progressive leadership on social policy, Coolidge was in foreign affairs a cautious moderate... -p. 88  -q
 > [Charles Augustus] Lindbergh's solo journey from New York to Paaris on May 20-21, 1927, transformed the blond, twenty-five-year-old aviator into a folk hero... years later, Lindberg would be revealedd as an anti-Semite and Nazi sympathizer... -p. 125-127 -q
 
+Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
+>Criminal laws are supposed to be clear, and most justices accept that when laws are unclear, the criminal defendant should get the benefit of the doubt, since he may not have known his conduct was wrong. -p. 131 -q
+>But floor statements and committee repors aren't the law, Thomas explained, an courts can't expect people to know about them. -p. 132 -q
+>'Whenever there is some uncertainty aabout the meaning of a statute, it is prudent to examine its legislative history' -Stevens -q -p. 134
+>As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 -q
+
 Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p -- DDC -- File name: (10093.pdf). -- DBID 10093 -- DDC 025.
 
 
@@ -3981,7 +3987,8 @@ Ming-Dao, Deng. -- 365 Tao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 97800625
 > In this competitive world, it is best to be invisible. [But] prove yourself when it is demanded... then fade back to invisiblility. -p. 203 -q
 > Our language is unfamiliar with the frontiers of the spirit because few have ever seen those limits, let alone describe them. But let's try. If you unite sound with vision, then you will create light. That light is the concentrated force of the mind. It is by that brightness that ruth is revealed. -p. 205 -q
 > When you see someone less fortunate than you, express compassion. When you see someone more advanced than you, try to learn from them. -p. 206 -q
-> Short-term als help us determine each stage of our lives and experience it completely. Long-term goals give us perspective and continuity... Our goals should be entirely personal... There is only one universal goal: a gracious death with no regrets. -240
+> Short-term als help us determine each stage of our lives and experience it completely. Long-term goals give us perspective and continuity... Our goals should be entirely personal... There is only one universal goal: a gracious death with no regrets. -240.
+>Therefore, tuning ourselves to Tao is the basic task.
 
 
 
