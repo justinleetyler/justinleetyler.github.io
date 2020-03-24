@@ -2444,7 +2444,7 @@ Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. 
 >But floor statements and committee repors aren't the law, Thomas explained, an courts can't expect people to know about them. -p. 132 -q
 >'Whenever there is some uncertainty aabout the meaning of a statute, it is prudent to examine its legislative history' -Stevens -q -p. 134
 >As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 -q
-
+> cch. 4 about keennedy's drift to the left. -s
 Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p -- DDC -- File name: (10093.pdf). -- DBID 10093 -- DDC 025.
 
 
