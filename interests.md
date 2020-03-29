@@ -1,4 +1,4 @@
-# INTERESTS AND HOBBIES
+ # INTERESTS AND HOBBIES
 
 [Reading log](https://justinleetyler.github.io/interests#reading-log)
 Hiking
@@ -9,12 +9,8 @@ Star gazing log
 ## READING
 
 ### Currently Reading
-<<<<<<< HEAD
-Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
-=======
-Berg, Elizabeth. -- The story of Arthur Truluv. -- Random House, 2007. -- [1] v. -- 9781400069903. -- DDC 813.
-Toland, John. -- Pantheistican.
->>>>>>> 2bf80918e8cc81bd5c47ad069a2b637157861622
+
+Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; accessed 03/29/2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/). -- eISBN 9780307472892. -- DDC 347.
 
 ### Reading log
 
@@ -22,7 +18,8 @@ Toland, John. -- Pantheistican.
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
-}2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
+|2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
+|2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
 |2020-02 | D | Howey, Hugh. -- Beacon 23. | 920 |
 |2020-01 | C | [Me / Elton John](http://www.justinleetyler.com/john2019.txt). | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
