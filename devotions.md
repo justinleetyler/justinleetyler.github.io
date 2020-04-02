@@ -88,6 +88,50 @@ purpose; through Jesus Christ our Lord. Amen.
 
 ---
 
+## At Noon
+
+### From Psalm 113
+Give praise, you servants of the LORD; *
+    praise the Name of the LORD.
+Let the Name of the LORD be blessed, *
+    from this time forth for evermore.
+From the rising of the sun to its going down *
+    let the Name of the LORD be praised.
+The LORD is high above all nations, *
+    and his glory above the heavens.
+
+### A Reading
+O God, you will keep in perfect peace those whose minds are
+fixed on you; for in returning and rest we shall be saved; in
+quietness and trust shall be our strength.    Isaiah 26:3; 30:15
+
+### Prayers may be offered for ourselves and others.
+
+### The Lord's Prayer
+Our Father, who art in heaven,
+     hallowed be thy Name, 
+     thy kingdom come, 
+     thy will be done, 
+         on earth as it is in heaven. 
+Give us this day our daily bread. 
+And forgive us our trespasses, 
+     as we forgive those 
+         who trespass against us. 
+And lead us not into temptation, 
+     but deliver us from evil. 
+For thine is the kingdom, 
+     and the power, and the glory, 
+     for ever and ever. Amen.   
+
+### The Collect
+Lord Jesus Christ, you said to your apostles, "Peace I give to
+you; my own peace I leave with you:" Regard not our sins,
+but the faith of your Church, and give to us the peace and
+unity of that heavenly City, where with the Father and the
+Holy Spirit you live and reign, now and for ever. Amen. 
+
+---
+
 # Daily Devotions
 
 Glory be to the earth and the wind.
