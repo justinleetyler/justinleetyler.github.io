@@ -10,7 +10,6 @@ Star gazing log
 
 ### Currently Reading
 
-Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; accessed 03/29/2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/). -- eISBN 9780307472892. -- DDC 347.
 
 ### Reading log
 
@@ -18,6 +17,7 @@ Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; 
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
+|2020-04 | C | The nine / Jeffrey Toobin | 347 | 
 |2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
 |2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
 |2020-02 | D | Howey, Hugh. -- Beacon 23. | 920 |
@@ -273,8 +273,8 @@ Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; 
 ### Books to read
 
 |Date | Description | Location/Dewey Number.|
+|2020-04 | Active Liberty / Stephen Breyer. ||
 |2020-03 | Proclaim!: Sharing Words, Living Examples, Changing Lives ||
-|2020-01 | Me / Elton John. ||
 |2020-01 | Help! I'm laughing and I can't get up / Liz Curtis Higgs ||
 |2020-01 | Anarchy / Megan DeVos ||
 |2020-01 | With purpose and principle / Frost ||
