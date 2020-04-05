@@ -1,135 +1,36 @@
-# Daily Devotions according to the 1979 BCP
-## In the Morning
-### From Psalm 51
-Open my lips, O Lord, *
-    and my mouth shall proclaim your praise.
-Create in me a clean heart, O God, *
-    and renew a right spirit within me.
-Cast me not away from your presence *
-    and take not your holy Spirit from me.
-Give me the joy of your saving help again *
-    and sustain me with your bountiful Spirit.
-Glory to the Father, and to the Son, and to the Holy Spirit: *
-    as it was in the beginning, is now, and will be for ever. Amen. 
+# Prayer Beads
+## Cross
+Divine Spark, from sacred dark: symbol of our holy intent: illuminate this day.
 
-### A Reading
+## Invitatory Bead
+Love is the spirit of this church, and service its law. This is our great covenant: To dwell together in peace, To seek the truth in freedom and to help one another.
 
-Blessed be the God and Father of our Lord Jesus Christ!
-By his great mercy we have been born anew to a living hope
-through the resurrection of Jesus Christ from the dead.
-1 Peter 1:3
+## Cruciform Bead (x4)
+We affirm and promote seven principles
 
-### A period of silence may follow.
+## Week Beads (x4)
+1 Dignity 2 Kindness 3 Spirit 4 Truth 5 Democracy 6 Peace and Justice 7 Embeddedness
 
-### A hymn or canticle may be used 
-Glory to God in the highest, 
-    and peace to his people on earth. 
-Lord God, heavenly King, 
-almighty God and Father, 
-    we worship you, we give you thanks, 
-    we praise you for your glory. 
-Lord Jesus Christ, only Son of the Father, 
-Lord God, Lamb of God, 
-you take away the sin of the world: 
-    have mercy on us; 
-you are seated at the right hand of the Father: 
-    receive our prayer. 
-For you alone are the Holy One, 
-you alone are the Lord, 
-you alone are the Most High,
-    Jesus Christ, 
-    with the Holy Spirit, 
-    in the glory of God the Father. Amen.
+## Cruciform Bead
+From all that dwell below the skies / Let faith and hope with love arise / Let beauty, truth and good be sung / Through every land, by every tongue.
 
-### The Apostles' Creed may be said.
-I believe in God, the Father almighty, 
-    creator of heaven and earth; 
-I believe in Jesus Christ, his only Son, our Lord. 
-    He was conceived by the power of the Holy Spirit 
-        and born of the Virgin Mary. 
-    He suffered under Pontius Pilate, 
-        was crucified, died, and was buried. 
-    He descended to the dead. 
-    On the third day he rose again. 
-    He ascended into heaven, 
-        and is seated at the right hand of the Father. 
-    He will come again to judge the living and the dead. 
-I believe in the Holy Spirit, 
-    the holy catholic Church, 
-    the communion of saints, 
-    the forgiveness of sins
-    the resurrection of the body, 
-    and the life everlasting. Amen. 
-    
-### Prayers may be offered for ourselves and others.
+## Closing Invitatory Bead
+Eternal Spirit, whom we call God, you are our life.
+You are the best and most beautiful in us and beyond us.
+Your spirit is in animals, birds, plants, and in people whom
+we do not know or who seem very different from us.
+All of us share the gift of life.
+Help us to remember that life is good.
+Help us to know that we don't stop loving people or other living
+things when they are no longer close to us.
+Love lasts alwyas.
+May we look for ways to love one another, and to love all living things.
+Amen.
+(Licinda Steven Duncan)
 
-### The Lord's Prayer
-Our Father, who art in heaven,
-     hallowed be thy Name, 
-     thy kingdom come, 
-     thy will be done, 
-         on earth as it is in heaven. 
-Give us this day our daily bread. 
-And forgive us our trespasses, 
-     as we forgive those 
-         who trespass against us. 
-And lead us not into temptation, 
-     but deliver us from evil. 
-For thine is the kingdom, 
-     and the power, and the glory, 
-     for ever and ever. Amen.   
-
-### The Collect
-Lord God, almighty and everlasting Father, you have brought
-us in safety to this new day: Preserve us with your mighty
-power, that we may not fall into sin, nor be overcome by
-adversity; and in all we do, direct us to the fulfilling of your
-purpose; through Jesus Christ our Lord. Amen.
-
----
-
-## At Noon
-
-### From Psalm 113
-Give praise, you servants of the LORD; *
-    praise the Name of the LORD.
-Let the Name of the LORD be blessed, *
-    from this time forth for evermore.
-From the rising of the sun to its going down *
-    let the Name of the LORD be praised.
-The LORD is high above all nations, *
-    and his glory above the heavens.
-
-### A Reading
-O God, you will keep in perfect peace those whose minds are
-fixed on you; for in returning and rest we shall be saved; in
-quietness and trust shall be our strength.    Isaiah 26:3; 30:15
-
-### Prayers may be offered for ourselves and others.
-
-### The Lord's Prayer
-Our Father, who art in heaven,
-     hallowed be thy Name, 
-     thy kingdom come, 
-     thy will be done, 
-         on earth as it is in heaven. 
-Give us this day our daily bread. 
-And forgive us our trespasses, 
-     as we forgive those 
-         who trespass against us. 
-And lead us not into temptation, 
-     but deliver us from evil. 
-For thine is the kingdom, 
-     and the power, and the glory, 
-     for ever and ever. Amen.   
-
-### The Collect
-Lord Jesus Christ, you said to your apostles, "Peace I give to
-you; my own peace I leave with you:" Regard not our sins,
-but the faith of your Church, and give to us the peace and
-unity of that heavenly City, where with the Father and the
-Holy Spirit you live and reign, now and for ever. Amen. 
-
+## Closing Cruciform Bead
+This chalice burns for [name... who... may s/he... and for] those who affirm and promote [principle]. May we tend this fire always, ever vigilant and courageous.
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.
 ---
 
 # Daily Devotions
