@@ -191,9 +191,11 @@ Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN: 0061052477.
 > Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
 
 Anonymous 4 (Musical group). -- Legends of St. Nicholas: Medieval Chant and Polyphony. -- Computer data. -- London: Harmonia Mundi, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.723.
+
 Answers.com. -- Computer program. -- [Wesley Hills, N.Y.] : GuruNet, c1999- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.answers.com) -- DDC 030.
 > ZHONGLI QUAN a/k/a HAN ZHONGLI, the most ancient of the immortals in Taoism. -f
 
+The AODA new candidate guide. -- 1st ed. -- Telluric Press, c2016. -- Title from title page; viewed 4/6/2020. -- Mode of access: [World Wide Web](http://www.justinleetyler.com/aoda2016.pdf). -- DDC 299.
 
 Appalachian Mountain Club. Boston Chapter. -- Boston Chapter of the Appalachian Mountain Club [website]. -- Computer data. -- [Mass.?] : The chapter, [20--?]- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amcboston.org) . -- DBID 3063 -- DDC 796.
 
