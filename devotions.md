@@ -1,39 +1,3 @@
-# Prayer Beads
-**Cross** 
-Divine Spark, from sacred dark: symbol of our holy intent: illuminate this day.
-
-**Invitatory Bead**
-Love is the spirit of this church, and service its law. This is our great covenant: To dwell together in peace, To seek the truth in freedom and to help one another.
-
-**Cruciform Bead (x4)**
-We affirm and promote seven principles
-
-**Week Beads (x4)**
-1 Dignity 2 Kindness 3 Spirit 4 Truth 5 Democracy 6 Peace and Justice 7 Embeddedness
-
-**Cruciform Bead**
-From all that dwell below the skies / Let faith and hope with love arise / Let beauty, truth and good be sung / Through every land, by every tongue.
-
-**Closing Invitatory Bead**
-Eternal Spirit, whom we call God, you are our life.
-You are the best and most beautiful in us and beyond us.
-Your spirit is in animals, birds, plants, and in people whom
-we do not know or who seem very different from us.
-All of us share the gift of life.
-Help us to remember that life is good.
-Help us to know that we don't stop loving people or other living
-things when they are no longer close to us.
-Love lasts alwyas.
-May we look for ways to love one another, and to love all living things.
-Amen.
-(Licinda Steven Duncan)
-
-**Closing Cruciform Bead**
-This chalice burns for [name... who... may s/he... and for] those who affirm and promote [principle]. May we tend this fire always, ever vigilant and courageous.
-
->Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.
----
-
 # Daily Devotions
 
 Glory be to the earth and the wind.
@@ -70,13 +34,14 @@ To dwell together in peace,
 To seek knowledge of freedom,
 To serve human need,To the end that all souls shall grow into harmony with the Divine --
 Thus do we covenant with each other and with God.
-(James Vila Blake)
-  -or-
+(James Vila Blake)   
+  -or-   
 Seek the truth, and serve humanity
 
 ¶ Prayers may be offered for ourselves and others.
 
 This chalice burns for [name], and for those who affirm and promote [principle].
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
 
 ¶ The Lords Prayer
 
