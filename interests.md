@@ -1,7 +1,7 @@
  # INTERESTS AND HOBBIES
 
 [Reading log](https://justinleetyler.github.io/interests#reading-log)
-Hiking
+[Hiking](#Hiking-log)
 Movies and TV
 Star gazing log
 [Favorite Quotes](https://justinleetyler.github.io/interests#favorite-quotes)
@@ -273,6 +273,7 @@ Star gazing log
 ### Books to read
 
 |Date | Description | Location/Dewey Number.|
+|-----|-------------|-----------------------|
 |2020-04 | Active Liberty / Stephen Breyer. ||
 |2020-03 | Proclaim!: Sharing Words, Living Examples, Changing Lives ||
 |2020-01 | Help! I'm laughing and I can't get up / Liz Curtis Higgs ||
@@ -287,13 +288,13 @@ Star gazing log
 |2018-06 | Gaia and God: An Ecofeminist Theology of Earth Healing  / Rosemary Ruether.|
 |2017-11 | 7th heaven series (https://www.amazon.com/gp/bookseries/B00CIVJ4ME/ref=dp_st_0375822909). | 813|
 |2017-10 | New Views / New Views. | 910.|
-|2017-08 | The night listener /. | 813.|
+|2017-08 | The night listener /. | 813.||
 |2017-08 | Beyond words / Carl Safina. 	|
 |2017-08 | The religion of tomorrow / Ken Wilber. | 200.|
-|2017-08 | Omnipotence and other theological mistakes / Charles Hartshorne|
-|2017-08 | Infinate in all directions / Freeman Dyson.|
-|2017-08 | Today's Children and Yesterdsay's Heritage / Sophia Lyon Fahs.|
-|2017-08 | From long ago and many lands / Sophia Lyon Fahs.|
+|2017-08 | Omnipotence and other theological mistakes / Charles Hartshorne||
+|2017-08 | Infinate in all directions / Freeman Dyson.||
+|2017-08 | Today's Children and Yesterdsay's Heritage / Sophia Lyon Fahs.||
+|2017-08 | From long ago and many lands / Sophia Lyon Fahs.||
 |2017-08 | The lost world of the old ones / David Roberts. | 978.|
 |2017-08 | The first signs / Genevieve Von Petzinger. | 302.|
 |2017-08 | Beyond words / Carl Safina. | 591.|
@@ -301,66 +302,65 @@ Star gazing log
 |2017-08 | Utopia for realists / Rutger Bregman. | 330.|
 |2017-08 | Common ground / Todd Outcale | 200.|
 |2017-08 | We are the ants / Shaun David Hutchinson. | 813.|
-|2017-08 | Dreamland / Robert L. Anderson.|
-|2017-08 | Game of crowns / Christopher Anderson.|
+|2017-08 | Dreamland / Robert L. Anderson.||
+|2017-08 | Game of crowns / Christopher Anderson.||
 |2017-08 | Man Belong Mrs Queen: Adventures with the Philip Worshippers | 919.|
 |2017-04 | Paper and Fire / Rachel Caine. | 823.|
 |2017-04 | The card catalog / The Library of Congress; forward by Carla Hayden. | 025.3.|
 |2017-03 | Prince Charles: The Passions and Paradoxes of an Improbable Life / by Sally Bedell Smith. | 920.|
-|2017-03 | Why nations fail / Daron Acemogla and James A. Robinson.|
-|2017=03 | Enough / Roger Thurow and Scott Kilman.|
-|2017-03 | The brief history of the dead / Kevin Brockmeir.|
+|2017-03 | Why nations fail / Daron Acemogla and James A. Robinson.||
+|2017=03 | Enough / Roger Thurow and Scott Kilman.||
+|2017-03 | The brief history of the dead / Kevin Brockmeir.||
 |2017-03 | The mammoth hunters / Jean M. Auel.|
-|2017-03 | I am not myself these days / Josh Kilmer-Purcell.|
-|2017-03 | The fever code / James Dashner.|
-|2017-01 | Crossing and Dwelling: A Theory of Religion / Thomas A. Tweed.|
-|2016-12 | The Divine Relativity: A Social Conception of God / Charles Hartshorne.|
+|2017-03 | I am not myself these days / Josh Kilmer-Purcell.||
+|2017-03 | The fever code / James Dashner.||
+|2017-01 | Crossing and Dwelling: A Theory of Religion / Thomas A. Tweed.||
+|2016-12 | The Divine Relativity: A Social Conception of God / Charles Hartshorne.||
 |2016-12 | The book of hygge / Louie Thomsen Brits. | 152.|
 |2016-12 | The Religion of Science Fiction / F. A Kreuzinger. | 200.|
 |2016-10 | Cultivating empathy / Nathan C. Walter. | 177.|
 |2016-04 | Reproducing racism / how everyday choices lock in white advantage. | 305.|
-|2016-03 | Coalition /  Laws, David.	|
+|2016-03 | Coalition /  Laws, David.	||
 |2016-01 | Not in my name / Jonathan Sacks. | 201.|
 |2016-01 | A Common Faith / John Dewey. | 200.|
 |2015-07 | The Minimalist Vision of Transcendence: A Naturalist Philosophy of Religion / Jerome A. Stone. | 200.|
-|2015-06 | God, mystery, diversity / Gordon D. Kaufman.  |
-|2015-06 | The Moral Animal, Why we are the way we are / Robert Wright. |
-|2015-06 | Good Natured / Franz de Waal.  |
-|2015-05 | Process and Reality / Whitehead.  |
-|2015-05 | Beyond God the Father / Mary Daly.   |
-|2015-05 | The Genesis of Justice / Alan Dershowitz.  |
-|2015-05 | Liberalism: The genious of American Ideals / Marcus Raskin. |
-|2015-05 | Saving Paradice / Rita Nakashima Brock and Rebecca Ann Parker.  |
+|2015-06 | God, mystery, diversity / Gordon D. Kaufman.  ||
+|2015-06 | The Moral Animal, Why we are the way we are / Robert Wright. ||
+|2015-06 | Good Natured / Franz de Waal.  ||
+|2015-05 | Process and Reality / Whitehead.  ||
+|2015-05 | Beyond God the Father / Mary Daly.   ||
+|2015-05 | The Genesis of Justice / Alan Dershowitz.  ||
+|2015-05 | Liberalism: The genious of American Ideals / Marcus Raskin. ||
+|2015-05 | Saving Paradice / Rita Nakashima Brock and Rebecca Ann Parker.  ||
 |2015-04 | A God That Could Be Real / Nancy Ellen Abrams. | 215.|
 |2015-04 | Faith without certainty / Paul Rasor. | 230.  |
-|2014-09 | I and Thou / Martin Buber.|
-|2014-09 | Shamanism / Mircea Eliade.   |
+|2014-09 | I and Thou / Martin Buber.||
+|2014-09 | Shamanism / Mircea Eliade.   ||
 |2014-05 | Dryer Sheets, Shampoo, and 15 Other Everyday Things You Can Make at Home / Sarah Winfrey. | WWW |
-|2014-04 | The storytelling animal / Jonathan Gottschall.|
+|2014-04 | The storytelling animal / Jonathan Gottschall.||
 |2014-04 | Alchemy, Medicine, and Religion the he China of AD 320 / James T. Ware. | 299.5.|
-|2013-12 | The way of the Shaman / Michael Harner.|
-|2013-12 | The complete works of Chuang-tzu / Burton Watson|
-|2013-12 | Lieh-tzu: a Taoist guide to practical living / Eva Wong  |
-|2013-10 | Present Shock / Douglass Rushkoff.|
-|2013-10 | Looking backward / Edward Bellamy.  |
-|2013-09 | Quiet : the power of introverts in a world that can't stop talking / Susan Cain.  |
-|2013-09 | Skills in the workplace. | http://www.dol.gov/odep/topics/youth/softskills/softskills.pdf  |
-|2013-07 | Character-Shaping and Character-Showing / Henry Clay Trumbull.|
-|2013-06 | Landscape photography / Rob Sheppard. | http://ipswich.mvlc.org/eg/opac/record/1425907.|
+|2013-12 | The way of the Shaman / Michael Harner.||
+|2013-12 | The complete works of Chuang-tzu / Burton Watson||
+|2013-12 | Lieh-tzu: a Taoist guide to practical living / Eva Wong  ||
+|2013-10 | Present Shock / Douglass Rushkoff.||
+|2013-10 | Looking backward / Edward Bellamy.  ||
+|2013-09 | Quiet : the power of introverts in a world that can't stop talking / Susan Cain.  ||
+|2013-09 | Skills in the workplace. | [WWW](http://www.dol.gov/odep/topics/youth/softskills/softskills.pdf)  |
+|2013-07 | Character-Shaping and Character-Showing / Henry Clay Trumbull.||
+|2013-06 | Landscape photography / Rob Sheppard. | [WWW](http://ipswich.mvlc.org/eg/opac/record/1425907.)|
 |2013-06 | Photography for kids! / Michael Ebert & Sandra Abend [translator, David Schlesinger]. | http://ipswich.mvlc.org/eg/opac/record/1423529 .|
 |2013-06 | Confessions of a Thug / Philip Meadows Taylor. | from "Antihero", Wikipedia.|
 |2013-06 | Tom Jones / Henry Fielding. | 813. | from "Antihero", Britannica.|
 |2013-06 | Autobiography of Saint Theresa of Lisieux. | from "The soul's religion / Thomas Moore"; and details her interior life. |
-|2013-01 | Mladjenovic, Paul. | Stock investing for dummies. | 3rd ed. | Wiley, c2009. | xxii, 357 p. | ISBN 9780470401149. | Ipswich PL 332.6322 M.|
 |2013-01 | Library services in the digital age. | LJLT 025.5.|
 |2013-01 | The complete idiot's guide to personal finance in your 20s and 30s / by Sarah Young Fisher and Susan Shelly. | Ipswich PL 332.024.|
 |2013-01 | Personal finance for dummies / by Eric Tyson. | Ipswich PL safari|
 |2013-01 | Politics and History in Band Societies / edited by Eleaner Leacock and Richard Lee. | 305.8.|
-|2013-01 | The dark river / John Twelve Hawks|
-|2012-12 | The Perennial Philosophy / Aldous Huxley|
-|2012-12 | 2012 Annual RLG Meeting/Symposium (http://web.resourceshelf.com/go/resourceblog/59616)|
-|2012-12 | Implications of MARC tay usage on library metadata practices.|
-|2012-11 | 8 weeks to optimum health / Andrew Weil|
+|2013-01 | The dark river / John Twelve Hawks||
+|2012-12 | The Perennial Philosophy / Aldous Huxley||
+|2012-12 | 2012 Annual RLG Meeting/Symposium |(WWW([http://web.resourceshelf.com/go/resourceblog/59616]|
+|2012-12 | Implications of MARC tay usage on library metadata practices.||
+|2012-11 | 8 weeks to optimum health / Andrew Weil||
 |2012-11 | The simple life : plain living and high thinking in American culture. | 178.|
 |2012-09 | A manual of AARC2 level 1 examples | 025.3|
 |2012-09 | The casual vacancy |  823|
@@ -414,6 +414,7 @@ Star gazing log
 	  
 ## HIKING LOG
 LACE. | DATE/TIME. | MILES. | WEATHER. | NOTES. |
+------|------------|--------|----------|--------|
 arold Parker State Forest. | 11/12/2016, 2 hrs. | n/a | Sunny, 40's.|
 ard Reservation. | 11/17/2015.|
 t. Osceola. | 08/14/15; 8 hrs. | sunny; 70s. | via Mt. Osceola trail w/ Rob M.|
