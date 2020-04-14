@@ -199,6 +199,7 @@ Answers.com. -- Computer program. -- [Wesley Hills, N.Y.] : GuruNet, c1999- -- T
 > ZHONGLI QUAN a/k/a HAN ZHONGLI, the most ancient of the immortals in Taoism. -f
 
 The AODA new candidate guide. -- 1st ed. -- Telluric Press, c2016. -- Title from title page; viewed 4/6/2020. -- Mode of access: [World Wide Web](http://www.justinleetyler.com/aoda2016.pdf). -- DDC 299.
+>For example, for the element of air, positive qualities include focus, clarity, justice, reason, learning, and clear articulation of ideas, while negative qualities might be pride, aloofness, anger, or detachment. The element of fire might include the positive qualities of passion, determination, inspiration, and creativity, while negative qualities might involve intensity, ego, or rashness. The element of water might include the positive qualities of intuition, compassion, empathy, and being in tune with one’s own heart, while the negative qualities might involve emotional volatility, irritability, and oversensitivity. The positive qualities of earth might include steadfastness, never giving in, and staying the course, while the negative qualities might include stubbornness and not letting go. -p. 38 -q
 
 Appalachian Mountain Club. Boston Chapter. -- Boston Chapter of the Appalachian Mountain Club [website]. -- Computer data. -- [Mass.?] : The chapter, [20--?]- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amcboston.org) . -- DBID 3063 -- DDC 796.
 
