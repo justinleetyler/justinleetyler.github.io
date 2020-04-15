@@ -43,11 +43,11 @@ Seek the truth, and serve humanity
 This chalice burns for [name], and for those who affirm and promote [principle].
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
 
-¶ The Lords Prayer
+¶ The Lords Prayer, or The Druids Prayer
 
-Form One: Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. Amen.
+Form One: Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. AMEN.
 
-Form Two: Oh thou, whose kingdom is within, may all thy names by hallowed. May no one of them be turned against the others to divide those who address thee. May thy presence be made known to us in mercy, beauty, love, and justice. May thy kingdom come to be in the life of all humankind. May it come with peace, with sharing, and in a near time. Give us this day our daily bread, free from all envy and alienation, broken and blessed in the sharing. Keep us from trespass against others, and from the feeling that others are trespassing against us. Forgive us more than we have forgiven. Deliver us from being tempted by lesser things to be heedless of the one great thing: the give of thyself in us. -Jacob Trapp
+Form Two: Grant, O holy ones, thy protection. And in protection, strength; and in strength, understanding; and in understanding, knowledge; and in knowledge, the knowledge of justice; and in the knowledge of justice, the love of it; and in that love, the love of all existences; and in the love of all existences, the love of Earth our mother and all goodness. AWEN. 
 
 ¶ The Benediction
 
