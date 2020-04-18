@@ -4,7 +4,7 @@
 **Number of pages:** 1 computer file   
 **Call Number:** 342   
 **How I discovered or aquired this book:**   
-**Where & where read:** April, 2019, at home      
+**Where & where read:** April, 2020, at home      
 **Noteworthy experiences while reading this book:** Coronovirus quarentiene  
 **Check out authors's other book?** Y   
 
