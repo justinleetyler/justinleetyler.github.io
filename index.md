@@ -1,12 +1,14 @@
 Justin Lee Tyler, MLIS
 ===
+Senior Content Integration Engineer, EBSCO Information Services
 
 Currently Reading
 ---
->![Five Justices / John Paul Stevens.](https://m.media-amazon.com/images/I/41cbUsBOMNL._SY346_.jpg)
+Five Justices / John Paul Stevens.
 
-[Logs](interests)
+[Archives](interests)
 ---
+including interests, reading notes, logs, etc.
 
 [Resume](resume) 
 ---  
