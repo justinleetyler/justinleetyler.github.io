@@ -17,6 +17,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|
 |----|-----|----------------|------------|
+|2020-04 | C | [The second founding](rn-foner2019) / Eric Foner | 327 |
 |2020-04 | C | The nine / Jeffrey Toobin | 347 | 
 |2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
 |2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
