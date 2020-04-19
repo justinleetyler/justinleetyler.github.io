@@ -275,6 +275,11 @@ Star gazing log
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
+|2020-04 | Cover image for The wildlife of New England : The wildlife of New England : a viewer's guide / John S. Burk.|[WWW](https://www.amazon.com/Wildlife-New-England-Viewers-Guide/dp/1584658347/ref=sr_1_1?dchild=1&keywords=wildlife+of+New+England+%3A+The+wildlife+of+New+England+%3A+a+viewer%27s+guide+%2F+John+S.+Burk.&qid=1587298108&sr=8-1)
+|2020-04 | Northern New England: Vermont, New Hampshire, and Maine | [WWW](https://www.amazon.com/Northern-New-England-Hampshire-Smithsonian/dp/0679761535/ref=sr_1_1?dchild=1&keywords=Smithsonian+guides+to+natural+America.+Northern+New+England--Vermont%2C+New+Hampshire%2C+and+Maine+The+Smithsonian+guides+to+natural+America.+Northern+New+England--Vermont%2C+New+Hampshire%2C+and+Maine&qid=1587297974&sr=8-1)
+|2020-04 | Nature Of Massachusetts | [WWW](https://www.amazon.com/Nature-Massachusetts-Mass-Audubon/dp/0201409690/ref=sr_1_7?dchild=1&keywords=The+nature+of+Massachusetts&qid=1587297309&sr=8-7)|
+|2020-04 | A natural history of Boston's North Shore / Kristina Lindborg.|[WWW](https://www.amazon.com/Natural-History-Bostons-North-Shore/dp/158465578X/ref=sr_1_1?dchild=1&keywords=A+natural+history+of+Boston%27s+North+Shore+%2F+Kristina+Lindborg.&qid=1587296978&sr=8-1)|
+|2020-04 | The Natural History of Eastern Massachusetts / Stan Freeman.|[WWW](https://www.amazon.com/Natural-History-Eastern-Massachusetts-Second-ebook/dp/B07HYL2C54/ref=sr_1_1?keywords=The+natural+history+of+eastern+Massachusetts+The+natural+history+of+eastern+Massachusetts&qid=1587296582&sr=8-1)|
 |2020-04 | Active Liberty / Stephen Breyer. ||
 |2020-03 | Proclaim!: Sharing Words, Living Examples, Changing Lives ||
 |2020-01 | Help! I'm laughing and I can't get up / Liz Curtis Higgs ||
@@ -543,6 +548,15 @@ udding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
 * Personal Finance (332)
 * Survival | Fiction.
 * Diaries | Authorship (808)
+
+For AODA
+---
+* Biotic communities -- Massachusetts.
+* Habitat (Ecology) -- Massachusetts.
+* Natural history -- Massachusetts.
+* Medicinal plants -- Massachusetts
+* Trees -- Massachusetts
+* Shrubs -- Massachusetts
 	 
 ## FAVORITE QUOTES
 
