@@ -15,8 +15,9 @@ Star gazing log
 
 :books:
 
-|date|grade|title and author|dewey number|
-|----|-----|----------------|------------|
+|date|grade|title and author|dewey number|notes|
+|----|-----|----------------|------------|-----|
+|2020-04 | C | [Five justices](rn-stevens2011) / John Paul Stevens | 920 | Describes the five justices with whom J.P had interactions|
 |2020-04 | C | [The second founding](rn-foner2019) / Eric Foner | 327 |
 |2020-04 | C | The nine / Jeffrey Toobin | 347 | 
 |2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
@@ -275,6 +276,7 @@ Star gazing log
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
+|2020-04 | Grand inquests / B. Renquist. ||
 |2020-04 | Cover image for The wildlife of New England : The wildlife of New England : a viewer's guide / John S. Burk.|[WWW](https://www.amazon.com/Wildlife-New-England-Viewers-Guide/dp/1584658347/ref=sr_1_1?dchild=1&keywords=wildlife+of+New+England+%3A+The+wildlife+of+New+England+%3A+a+viewer%27s+guide+%2F+John+S.+Burk.&qid=1587298108&sr=8-1)
 |2020-04 | Northern New England: Vermont, New Hampshire, and Maine | [WWW](https://www.amazon.com/Northern-New-England-Hampshire-Smithsonian/dp/0679761535/ref=sr_1_1?dchild=1&keywords=Smithsonian+guides+to+natural+America.+Northern+New+England--Vermont%2C+New+Hampshire%2C+and+Maine+The+Smithsonian+guides+to+natural+America.+Northern+New+England--Vermont%2C+New+Hampshire%2C+and+Maine&qid=1587297974&sr=8-1)
 |2020-04 | Nature Of Massachusetts | [WWW](https://www.amazon.com/Nature-Massachusetts-Mass-Audubon/dp/0201409690/ref=sr_1_7?dchild=1&keywords=The+nature+of+Massachusetts&qid=1587297309&sr=8-7)|
@@ -469,6 +471,7 @@ udding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
 
 |Date        |Title        |Grade |
 |------------|-------------|------|
+|20200418 | Surrogates | C|
 |20200412 |Midnight Special|C|
 | 2015-07-23 | Sharknado3. | E.   |
 | 2014-11-27 | National Lampoons Christmas Vacation. | C.|
