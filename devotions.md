@@ -1,13 +1,10 @@
 # Daily Devotions
 
-Glory be to the earth and the wind.
-Glory be to the sun and the rain.
-Glory be to animals and children and women and men,
-Glory be to our holy flame which calls us together as one.
+Glory be to the earth and the wind. Glory be to the sun and the rain. Glory be to animals and children and women and men. Glory be to our holy flame which calls us together as one.
 
-From all that dwell below the skies *
-    Let faith and hope with love arise;
-Let beauty, truth and good be sung *
+From all that dwell below the skies *   
+    Let faith and hope with love arise;   
+Let beauty, truth and good be sung *  
    Through every land, by every tongue.
    
 ¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)
@@ -17,11 +14,11 @@ Let beauty, truth and good be sung *
 ¶ A [hymn](https://www.youtube.com/watch?v=kjFjxRdzuJc) may be sung
 
 Tis a gift to be simple, 'tis a gift to be free
-'Tis a gift to come down where I ought to be
+'Tis a gift to come down where we ought to be
 And when we find in the place just right
 we'll be in the valley of love and delight
 When true simplicity is gained
-To bow and to bend we will not be ashamed
+To bow and to bend we won't be ashamed
 To turn, to turn will be our delight
 'Til by turning, turning, we come 'round right.
 
@@ -32,7 +29,7 @@ The quest of truth is its sacrament,
 And service is its prayer.
 To dwell together in peace,
 To seek knowledge of freedom,
-To serve human need,To the end that all souls shall grow into harmony with the Divine --
+To serve human need. To the end that all souls shall grow into harmony with the Divine --
 Thus do we covenant with each other and with God.
 (James Vila Blake)   
   -or-   
@@ -40,7 +37,7 @@ Seek the truth, and serve humanity
 
 ¶ Prayers may be offered for ourselves and others.
 
-This chalice burns for [name], and for those who affirm and promote [principle].
+This chalice burns for [name], and for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous.
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
 
 ¶ The Lords Prayer, or The Druids Prayer
@@ -51,7 +48,7 @@ Form Two: Grant, O holy ones, thy protection. And in protection, strength; and i
 
 ¶ The Benediction
 
-Live simply, expect little, give much. Fill your life with love, seek sunshine. Forget self. Think of others, and do as you would be done by. 
+Live simply, expect little, give much. Fill your life with love, scatter  sunshine. Forget self. Think of others, and do as you would be done by. 
    
    -or-
 
