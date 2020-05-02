@@ -1,5 +1,7 @@
 # Daily Devotions
 
+¶ [A chalice lighting](https://www.missionstclare.com/english/candle/candle.html)
+
 Glory be to the earth and the wind. Glory be to the sun and the rain. Glory be to animals and children and women and men. Glory be to our holy flame which calls us together as one.
 
 From all that dwell below the skies *   
@@ -13,14 +15,14 @@ Let beauty, truth and good be sung *
 
 ¶ A [hymn](https://www.youtube.com/watch?v=kjFjxRdzuJc) may be sung
 
-Tis a gift to be simple, 'tis a gift to be free
-'Tis a gift to come down where we ought to be
-And when we find in the place just right
-we'll be in the valley of love and delight
-When true simplicity is gained
-To bow and to bend we won't be ashamed
-To turn, to turn will be our delight
-'Til by turning, turning, we come 'round right.
+Tis a gift to be simple, 'tis a gift to be free /
+'Tis a gift to come down where we ought to be /
+And when we find in the place just right /
+we'll be in the valley of love and delight /
+When true simplicity is gained /
+To bow and to bend we won't be ashamed /
+To turn, to turn will be our delight /
+'Til by turning, turning, we come 'round right. /
 
 ¶ A covenant may be said
 
