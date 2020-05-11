@@ -4293,6 +4293,8 @@ New E. Collective (Musical group). -- Seasons of New England. -- Computer data. 
 
 Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, Inc., etc.], 1933- . -- v. -- Weekly. -- DBID 3144. -- ISSN 0028-9604 -- DDC 051.
 
+Newton, Jim. -- Justice for all -- Riverhead books, c2006. -- Title from title page. -- Mode of Access: World Wide Web. -- EISBN 9781594482700. -- DDC 347. 
+>Trop Cuse, Jenner0Butler Bill -- Barkus -- John Birch Society. -- Impeachment -- For informat for FBI in Warren Commission -- Segregation, demestic savalence, redistricting -- Baker. 
 
 Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p -- DDC 193.9.
 > The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q
