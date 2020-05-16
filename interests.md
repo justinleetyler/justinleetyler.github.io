@@ -17,6 +17,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
+|2020-05 | C | Justice for all / Jim Newton | 920 |A biography of Earl Warren. |
 |2020-04 | C | [Five justices](rn-stevens2011) / John Paul Stevens | 920 | Describes the five justices with whom J.P had interactions|
 |2020-04 | C | [The second founding](rn-foner2019) / Eric Foner | 327 |
 |2020-04 | C | The nine / Jeffrey Toobin | 347 | 
