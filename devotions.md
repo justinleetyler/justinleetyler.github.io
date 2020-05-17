@@ -2,7 +2,8 @@
 
 ¶ [A chalice lighting](https://www.missionstclare.com/english/candle/candle.html)
 
-Glory be to the earth and the wind. Glory be to the sun and the rain. Glory be to animals and children and women and men. Glory be to our holy flame which calls us together as one.
+This chalice burns for [name], and for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous.
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
 
 From all that dwell below the skies *   
     Let faith and hope with love arise;   
@@ -39,14 +40,9 @@ Seek the truth, and serve humanity
 
 ¶ Prayers may be offered for ourselves and others.
 
-This chalice burns for [name], and for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous.
->Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
-
-¶ The Lords Prayer, or The Druids Prayer
+¶ The Lords Prayer
 
 Form One: Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. AMEN.
-
-Form Two: Grant, O holy ones, thy protection. And in protection, strength; and in strength, understanding; and in understanding, knowledge; and in knowledge, the knowledge of justice; and in the knowledge of justice, the love of it; and in that love, the love of all existences; and in the love of all existences, the love of Earth our mother and all goodness. AWEN. 
 
 ¶ The Benediction
 

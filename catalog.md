@@ -1,5 +1,4 @@
-[A](#a) [B](#b)
-
+[A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
 A
 ---
@@ -984,10 +983,7 @@ Buehrens, John A. -- A chosen faith / John A. Buehrens and Forrest Church. -- Re
 > The mission of progressive faith is to embrace the beauty of diversity and the diversity of beauty; to resist the crucifying powers by ministries of solidarity; to love one another and this earth as paradise, here and now, the place Jesus prmised us we would be when he said, "Today you will be with me in paradise." -p. 172 -q
 > The mission of liberal religion is to make religion more liberal and to make liberals moe religious. -Wallace Robbins -p. 175 -q
 > But the amazing thing to me about the Unitarian Union of Northease India is that it is not the product of mission work; it is an indigenious movement that looked for partners. -p. 178 -q
-PB  - St. Martins Press
-PY  - 2011
-SP  - 304 p.
-SN  - 0312283709
+
 Burroughs, Augusten -- Running with scissors. -- St. Martin's Press, c2011. -- 304 p. -- ISBN 0312283709. -- DDC 920. 
 > A.'s mom goes nuts. -s
 > And he [A.'s father] had the loving, affectionate and outgoing personality of petrified wood. -p. 13 -q
@@ -1036,6 +1032,10 @@ Byne, Logan. -- Banded. -- Computer data. -- [n.p], c2014. -- System requirement
 > Sure, no unemployment seemed like a great idea, but was it worth the cost? Everybody worked, but nobody prospered, and that was the problem with this model. -q
 > You’re really good at this. You just need to calm yourself down and think rationally. -q
 > My goal is to coast through HQ without any incidents -q
+
+C
+---
+
 Caballero, David. -- Ethereality. -- Computer data. -- Hollywood, CA: Only New Age Music, 2005. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
 Caine, Rachel. -- Ink and bone. -- Computer data. -- New American Library, c2015. -- Mode of Access: World Wide Web. -- System requirements: Kindle file reader. -- Title from title page. -- DDC 813.
@@ -1436,6 +1436,9 @@ Cutter, Charles A. -- Rules for a printed dictionary catalog. -- Computer data. 
 
 Cutter, O.A. -- Cutter's three figure author table. -- Computer data (1 file : 50.6 mb). -- Englewood, CO : Libraries Unlimited, Inc., 1969. -- Title from resource. -- File name: (10064.pdf). -- DBID 10064 -- DDC 025.4
 
+D
+---
+
 Damm, Nate. -- Life on foot. -- Computer data (1 file : 1977 KB). -- [S.n.], 2014. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00K5YVRF8. -- DDC 917.
 Damon, Nick. -- Shadow of Oz. -- 1st ed. -- Computer data (1 file : 557 KB) -- Secret Origin Press, 2012. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
@@ -1750,6 +1753,8 @@ Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file :
 
 Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.eBooks habit. -- Computer data. -- eBooksHabit, c2012. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL ebookshabit.com. -- DDC 002.
 
+E
+---
 
 Edberg, Henrik. -- 42 ways to make life simpler. -- Computer data (1 file : 9 kb) -- Title from resource. -- File name: (10156.txt) -- DBID 10156. -- IN The Positivity Blog. -- (Feb. 24, 2011) -- DDC 646.7.
 
@@ -2035,6 +2040,9 @@ Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. -- 
 
 Exploring New Hampshire's White Mountains. -- 1st ed. -- Scale 1:62,500. and 1:100,000. -- Twin Mt., N.H. : Wilderness Map Co., 2009. -- 2 maps on 1 sheet. -- ISBN 0978593242 : $7.95. -- DBID 3123 -- DDC 912.742.
 
+F
+---
+
 Fagan, Brian. -- The first North Americans. -- Thames & Hudson, 2011. -- 272 p. -- ISBN 9780500021200. -- DDC 970.
 
 > How large this population was [that came across the Bering Land Bridge] is still a matter of debate and guesswork, with figures ranging from a mere seventy individuals to between 1,000 and 5,400 people. -p. 16 -q
@@ -2118,7 +2126,7 @@ Fisher, Catherine. -- Relic master. Part 1. -- Firebird, 2013. -- 362 p. -- ISBN
 > thru ch 6 Galen and Raffi are kept captive by Godrick. They are searching for the interex. Carys is with Braylwin. -p. 106 -s
 > Harnor, Braylwin's clerk. -p. 119 -f
 > nobody is allowed in the great library -p. 122 -f
-N1 - ch 8: C abd B make it to the Tower of Song -s
+> ch 8: C abd B make it to the Tower of Song -s
 > ch 9: C follows H to a secret passage. -s
 > ... if I'm trapped here, I'll make this place my adventure. -Harnor -p. 148 -q
 > ch 10 Harnor agrees to help Carys get into the library. -s
@@ -2215,6 +2223,8 @@ Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Ad
 
 Future libraries : change, options and how to get there. -- Computer data (1 file : 1032 kb). -- London : Local Government Group, c2011. -- Title from cover. -- File name: (3036.pdf). -- DBID 3036 -- DDC 027.4
 
+G
+---
 
 Gabriel, Claire. -- Subject access to archives and manuscript collections: an historical review. -- Computer data (1 file : 730 kb). -- Title from resource. -- File name: (10069.pdf). -- DBID 10069. -- IN Journal of archival organization. -- Vol. 1, no. 4 (Oct. 10, 2002) -- ISSN 1533-2748.  -- DDC 025.3
 
@@ -2579,6 +2589,10 @@ Gulley, Philip. -- Living the Quaker way. -- Covergent Books, c2013. -- 212 p. -
 > Community was the safeguard against destructive behavior and the corrective against selfishness. -p. 146 -q
 > The Quaker William Penn observed that 'true religion does not draw men out of the world but enables them to live better in it and excites their endeavors to mend it.' -p. 148 -q
 > I can think of no nobler and more vital work for the church to undertake than the building of healthy communities which differences are appreciated and not feared, where past truths are honored and emerging wisdom encouraged. -p. 155 -q
+
+H
+---
+
 Hailey, S.J. -- The 5th amulet. -- 3rd ed. -- Computer data (1 file). -- S.J. Hailey, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B0096QYCJY. -- DDC 813.
 
 
@@ -2979,6 +2993,9 @@ Hybrid (Musical group). -- Morning Sci-Fi. -- Computer data. -- S.l.: Distinctiv
 > Be ye lamps unto yourselves, Be your own confidence; Hold to the truth wihin yourselves, as to the only lampt. -110 -q
 > 1 Lo, the day of days is here; Festival of hope and cheer; At the southwind's genial breath; Nature wakes from seeming death. 2 Fields are smiling in the sun; Loosened streamlets seaward run; Tender blade and leaf appear; 'Tis the springtide of the year. 3 Lo, the Eastertide is here; Music thrills the atmosphere; Join, ye people all, and sing; Love and prase and thanksgiving. -317 -q
 
+I
+---
+
 Iacovino, Livia. -- Multi-method interdisciplinary research in archival science : the case of recordkeeping, ethics and law. -- Computer data. -- Title from p -- DDC -- File name: (10072.pdf). DBID 10072. DOI 10.1007/s10502-005-2595-7 -- IN Archival Science. -- Vol. 4 (2004) -- DDC 025.17.
 
 
@@ -3020,6 +3037,8 @@ Islam, Yusuf. -- An Other Cup. -- Computer data. -- New York, NY: Atlantic, 2006
 
 Iving reviews in solar physics [database]. -- Computer data (1 file : 60.8 kb) -- [S.l.] : Max-Planck-Gesellschaft, [19--]. -- Mode of Access: Gopher(gopher://justinleetyler.com/0/databases/archive%20of%20european%20integration.mrk) -- Also avialable on the World Wide Web (http://solarphysics.livingreviews.org/) -- DBID 3106 -- DDC 539.016
 
+J
+---
 
 Jabr, Ferris. -- Why your brain needs more downtime. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from p -- DDC -- Filename: 3295.txt. -- Also available on the World Wide Web (http://www.scientificamerican.com/article.cfm?id=mental-downtime). -- IN Scientific American [website].-- (Oct. 15, 2013). -- DDC 647.7
 > For 92 days he lived at Insight Meditation Society’s Forest Refuge facility... He spent most of his time meditating, practicing yoga and walking through fields and along trails in surrounding farmland and woods... -q
@@ -3190,6 +3209,9 @@ Junger, Sebastian. -- Tribe. -- Twelve, c2016. -- xvii, 168 p. -- ISBN 978145556
 > It was the absence of competition and bounaries and all those phony standards that created the thing I love most about the Army. Studs Terkel. -p. 91 -q
 > What peopel miss [is] the unity that these things often engender. p. 92 -q
 > ... the individualized lifestyle that these [modern society] technologies spew seems to be deeply brutalizing to the human spirit. -p. 93 -q
+
+K
+---
 
 Kater, Peter. -- In a Dream / [by] Peter Kater ... [et al]. -- Computer data. -- S.l.: Q-rious Music, 2009. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64.
 
@@ -3477,6 +3499,8 @@ Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; 
 
 Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 3117.txt -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3117.txt). -- DBID 3117 -- DDC 025.3.
 
+L
+---
 
 Lamoreux, Daniel. -- Apparition Lake / Daniel Lamoreux, Doug Lamoreux. -- Computer data. -- Creativia, 2014. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
@@ -3663,10 +3687,11 @@ Llywelyn, Morgan. -- The greener shore. -- New York : Ballantine, c2006. -- 301 
 
 Lombardi, Esther. -- How To keep a reading log or book journal. -- Computer data (1 file). -- [S.n., n.d.]. -- On 1 external hard drive. -- System requirements: USB drive, TXT file reader. -- File name: 3266.txt. -- DBID 3266. -- DDC 808.
 
+Lopez, Rob. -- Solar Storm. -- [S.n.], 2017. -- Mode of Access: World Wide Web http://www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- DDC 813.
 
+Lost lore. -- Computer data. -- 1st ed. -- Terrible Ten, 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- Also available on the World Wide Web (https://read.amazon.com/?asin=B078YH28M6). -- AISN B078YH28M6. -- DDC 813.
 
-
-Lopez, Rob. -- Solar Storm. -- [S.n.], 2017. -- Mode of Access: World Wide Web http://www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- DDC 813.Lost lore. -- Computer data. -- 1st ed. -- Terrible Ten, 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- Also available on the World Wide Web (https://read.amazon.com/?asin=B078YH28M6). -- AISN B078YH28M6. -- DDC 813.Lowry, Lois. -- The giver. -- Houghton Mifflin Harcourt, 1993. -- 225 p. -- ISBN 9780554336261. -- DDC 813.
+Lowry, Lois. -- The giver. -- Houghton Mifflin Harcourt, 1993. -- 225 p. -- ISBN 9780554336261. -- DDC 813.
 > 5 When puberty comes, they refer to sexual attraction as 'the stirrings', and have a pill to make them go away. -s
 > 6 Description of the very structured community, marked by the ceremony. Passing out of new children, the nines getting bikes, etc. -s
 > 7 The chief elder (elected every 10 years) skipped Jonas. -s
@@ -3697,6 +3722,8 @@ Lynch, Ray. -- Nothing Above My Shoulders but the Evening. -- Computer data. -- 
 
 Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- Computer data. -- 2012- . -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Directory name: 3271. -- DBID 3271. -- DDC 779.
 
+M
+---
 
 M.H. -- The right way to write in a journal. -- Computer data (1 file : 81 kb.) -- Title from resource. -- File name: (10058.pdf). -- DBID 10058. -- IN Shape. -- Vol. 24, no. 2 (Oct. 2004) -- DDC 808.06692.
 
@@ -4293,8 +4320,9 @@ New E. Collective (Musical group). -- Seasons of New England. -- Computer data. 
 
 Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, Inc., etc.], 1933- . -- v. -- Weekly. -- DBID 3144. -- ISSN 0028-9604 -- DDC 051.
 
+###newton2006
 Newton, Jim. -- Justice for all -- Riverhead books, c2006. -- Title from title page. -- Mode of Access: World Wide Web. -- EISBN 9781594482700. -- DDC 347. 
->Trop Cuse, Jenner0Butler Bill -- Barkus -- John Birch Society. -- Impeachment -- For informat for FBI in Warren Commission -- Segregation, demestic savalence, redistricting -- Baker. 
+>Trop Cuse, Jenner - Butler Bill -- Barkus -- John Birch Society. -- Impeachment -- For informat for FBI in Warren Commission -- Segregation, demestic savalence, redistricting -- Baker -s -- A Mediocre high school student, Summer job at pacific rail ehere his das worked -s -- "Warren focused sufficiently on his studies to be awarded a bachelor of letters in jurisprudence on May 15, 1912. -q -- WOTD: brusque, irascible -f -- had a Bad boss at associated oil, EW becomes DA -s -- He tended to trust majorities and to express skepticism for extremist or radical thought. And just as he was moderate ideologically, he was also cautious temperamentally. -q -- To Warren—at least the Warren of the early 1930s—the New Deal was worse than impractical. It was immoral. Its fluid experimentation offended his sense of stability... -q -- Once he himself governed from the nation’s capital, Warren would view centralized authority with less suspicion and would see states more as obstacles to freedom than protectors -q -- humiliating employment practice known as the “shape-up,” -q -- WOTD listlessness, splenetic -f -- Roughly speaking, Justices Jackson and Frankfurter had become advocates of a restrained judiciary, while Black and Douglas argued a view that gave the Court a more robust place in American life. -q -- ...practical, not heartfelt. -q -- Like other experiences that deeply upset Warren, he responded by minimizing it, in this case pushing it out of his official history altogether. -q -- Warren the stable political moderate, in contrast to Langer the ping-pongy individualist. -- ...most intellectually dishonest rulings in its history, Plessy v. Ferguson. -q -- Ada Lois Sipuel -f -- It was his separation from his fellow students that caused the inequality of his education, the Court realized. -q -- union membership protected him to some degree from reprisals -q -- John W. Davis -- As a governor, Warren had assumed the good will of his adversaries until it was proven otherwise. As a justice, he saw no need to change that practice. -q -- ...the prickly Douglas... -q -- Instead, nearing the end of his long memo, he concluded that Negroes had advanced so far in their years of segregation that they had “overcome the presumptions on which it was based.” It was a tortuous analysis, revealing the intense strain upon Jackson as he wrestled with one of the most difficult decisions of his life. -q -- It may not have been true in the nineteenth century, but in the twentieth century, Warren wrote, “No child can reasonably be expected to succeed in life today if he is deprived of the opportunity of an education.” -q -- ... evolving nature of public education... -q -- For Warren, it was “unthinkable” because the Constitution was a good and fair document written for a good and fair country. -q -- justice Benjamin Cardozo: “The final cause of law is the welfare of society.” -f -- language of “all deliberate speed.” -- As Robert Jackson had long ago noted, the justices are not final because they are infallible, but they are infallible because they are final. -q -- And yet to Frankfurter, Warren looked suspiciously like a thickheaded pol. -q -- Always suspicious of big business—Warren -q -- With Frankfurter, disagreement almost always slid into contempt. -q -- Warren chose to let Eisenhower dangle a bit. -q -- “If the courts lean too far backward in the maintenance of theoretical individual rights it may be that we have tied the hands of our country and have rendered it incapable of carrying out the first law of mankind—the right of self-preservation.” -q -- vacuity -f -- Learned Hand -f -- “The Amendment must draw its meaning from the evolving standards of decency that mark the progress of a maturing society.” -q -- ... the public did not need protection from ideas. -q -- World Fellowship Center -f -- “In the final analysis, after one has prayed, after one has thought of all aspects, one must, before God, make up his own mind or his own heart and conscience as to what he shall do." - E.R. -q -- “Supreme Court is trimming its sails to ride out a gale.” -q -- Nixon was crafting a new Republican Southern strategy -q -- WOTD: inchoate -f -- Herman Talmadge, m, 20th c., Senator. -f -- That crude, self-pitying display -q -- ... said in Lucas that democracy was so important it could not be curtailed even through the democratic process. -f -- Douglas relied existed not in any specific amendment but rather in his imaginative reading of all of those amendments together. -- WOTD: opprobrium -f -- ABC interrupted its programming to bring the pictures, and thus many viewers learned about the Selma brutality in the midst of watching that night’s special presentation, Judgment at Nuremberg. The juxtaposition, though unintentional, spoke for itself. -q -- March 7 became known as “Bloody Sunday,”... -q -- Their cause must be our cause, too. Because it’s not just Negroes, but really it’s all of us, who must overcome the crippling legacy of bigotry and injustice. -q -- The insistence on equality started for Warren’s Court with schools before it moved to voting. -- “appealing to prurient interest" -q -- Honey Bear’s polio was staggering, but her recovery was complete. -q -- “Under our Constitution,” Warren wrote, “the freedom to marry, or not marry, a person of another race resides with the individual and cannot be infringed by the State.” -E.W. -q -- ‘conduct’ is speech within the First Amendment,” -q -- “I understand the man’s anger,” he told his grandson. “What a shame that our generation and past generations have created a world that promotes such rage.” -E.W. -f -- “How can you respect a man who uses such bad language?” -E.W. -q -- “utter perversions. -q -- Whitney v. California -f -- Warren’s book, A Republic, If You Can Keep It:   Where there is injustice, we should correct it; where there is poverty, we should eliminate it; where there is corruption, we should stamp it out; where there is violence we should punish it; where there is neglect, we should provide care; where there is war, we should restore peace; and wherever corrections are achieved we should add them permanently to our storehouse of treasures. --E.W. -q -- nation’s unwinnable argument between the forces of security and those of liberty. -q -- Must liberty be curtailed in order to preserve the nation, or is the nation better understood as an expression of its freedoms? -q -- Eldridge Cleaver -f
 
 Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p -- DDC 193.9.
 > The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q
@@ -4324,11 +4352,6 @@ Now That's What I Call Music!: 13. -- Computer data. -- Santa Monica, CA: Univer
 Nozick, Robert. -- Anarchy, state, and utopia. -- Computer data (1 file). -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3047 -- DDC 320.
 
 
-	
-
-
-
-
 NuÌ? zi shi er yue fang. -- Eastern Energy / [by the Twelve Girls Band]. -- Computer data. -- Los Angeles, CA: Platia Entertainment USA, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.68.
 
 Nusbaum, J.C. -- The mystic travelogues (volume 1). -- Computer data (1 file : 1506 KB). -- Eltanin, 2011. -- on ASUS tranformer tablet. -- System requirements: kindle app. -- ASIN B005465JCO. -- DDC 813.
@@ -4337,6 +4360,8 @@ Nusbaum, J.C. -- The mystic travelogues (volume 1). -- Computer data (1 file : 1
 > Ch. 10: They are put in jail, but Feldspar acts as their agent. He says that Leopold the bear almost destroyed them all. -s
 > We'll just have to continue learning what we can and hope an opportunity presents itself. -Tug. -q
 
+O
+---
 
 Oaklander, Mandy. -- 25 delectable detox smoothies. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3325.pdf. -- IN Prevention. -- (Jan. 2012). -- DDC 641.
 
@@ -4396,6 +4421,8 @@ Orton, Linda. -- Soapmaking for the first time. -- Sterling Publishing Co., c200
 
 Overall Ranking : best countries. -- Computer data (1 file : 98 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010) -- DDC 910.
 
+P
+---
 
 Palmer, Brian. -- Ignore your oven dial. -- Computer data (1 file : 25.9 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3137.txt). -- DBID 3137 -- DDC 641.
 
@@ -4514,7 +4541,7 @@ Pinola, Melanie. -- Seven important lessons from world religions everyone should
 
 Pinola, Melanie. -- What is "mindfulness," and why is everyone talking about it. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Filename: 3315.txt. -- DBID 3315. -- DDC 291.4
 
-ER - Pinola, Melanie. -- Why you learn more effectively by writing then typing. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://lifehacker.com/5738093). -- Title from resource. -- In Lifehacker [website]. -- (Jan. 21, 2011). -- DDC 153.
+Pinola, Melanie. -- Why you learn more effectively by writing then typing. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://lifehacker.com/5738093). -- Title from resource. -- In Lifehacker [website]. -- (Jan. 21, 2011). -- DDC 153.
 > The act of writing helps you clarify your thoughts, remember things better, and reach your goals more surely. -q
 
 Pitt, Christopher. -- Electronic components. -- Computer data (1 file : 5.94 MB). -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3327.pdf. -- DBID 3327. -- IN Medium.com. -- (Jul. 23, 3014). -- DDC 621.3.Positive Evolutions. -- Computer data. -- [KPM, c1999]. -- on 1 external hard drive. -- Title from Amazon.com. -- System requirements: USB drive; mp3 file reader -- DDC 781.
@@ -4560,12 +4587,17 @@ Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux
 > His [Joseph Smith] was unabashedly masculine and unapologetically majestic -p. 178 -q
 > 'The book of morman as ''choloform in print.'''Mark Twain -p. 182 -q
 > Mormons continued to accept the Bible as God's word only 'as far as it is translated correctly.' -p. 186 -qProven. -- Computer data (1 program). -- Proven.com, c2011. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.proven.com). -- DDC 331.
+
 Pure Moods III. -- Computer data. -- Beverly Hills, Calif: Virgin Records America, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
+
 Pure Moods. -- Computer data. -- Beverly Hills, CA: Virgin Records America, 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
+
 Pure Moods: IV. -- Computer data. -- Beverly Hills, CA: Virgin Records America, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-Quinn, Susan Kaye. -- Quinn, Susan Kaye. -- Computer data (1 file : 3024 KB). -- 	[S.n., 20--]. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005Z1RRUU -- DDC 813.
+Q
+---
 
+Quinn, Susan Kaye. -- Quinn, Susan Kaye. -- Computer data (1 file : 3024 KB). -- 	[S.n., 20--]. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005Z1RRUU -- DDC 813.
 > At the end of the 22nd century, the world is composed of readers (those who can read minds). While Kira believes she is a "zero" (a non-reader), she meets Simon, and learns she's actually a powerful jacker, someone who can "jack" into people's minds and control them. Simon introduces her to a secret society to jackers. During Simons initiation ceremony, govn't agents, being afraid of their abilities, take them to a jacker concentration camp where jackers can be control, and to perform experiments. She excapes, and is able to go to the press and expose the scandal. -s
 > 5 when the girl and raf touches the boy faints -s
 > 7 simon is a zero. -s
@@ -4586,6 +4618,9 @@ Quinn, Susan Kaye. -- Quinn, Susan Kaye. -- Computer data (1 file : 3024 KB). --
 > 31 Kira visits her father, who tells her to turn herself in, then goes to raf, who gives her some money. -s
 > 32 Kira goes to the press with the stoiry. Then goes to kestrels apt, discovers where Laney is being kept, and shoots kestral. -s
 > CHANGLINGS: kids who are developing jacker abilities. -f
+
+R
+---
 
 Raines, John C. -- The justice men owe women. -- Computer data (1 file : 6.6 mb) -- [S.l.] : Fortress Press, 2001. -- on 1 external hard drive. -- Title from cover. -- File name: (1609.pdf) -- DBID 1609 -- DDC 291.
 
@@ -4712,13 +4747,6 @@ Religion and Psychology. -- Computer data. -- Title from resource. -- Mode of Ac
 > 'II. What is Religion B. Def -- DDC Helps ppl appreciate what you cannot control 2. Framework of beliefs beyond yourself. 3. James 'Religion is the feelings, acts in relation to their divinity.' 4. The belief of God, and the rituals directed toward that power. 5. Teachers definition : A search for significance in ways related to the sacred. C. Awareness of the Several Traditions 1. Different ways to account for God; accessing the Sacred. 2. Varies in the way formed a) expsed to a tradition b) Active searching 3. Rituals become a way of knowing the world and understanding it.' -p. -o
 > 'III. Beverly Sinke A. Bio 1. PH.D. a. disertation on peak experiences 2. Five kids, one died. 3. Diagnosed w/ cancer 1983 4. Book about confronting the issue. 5. Stay at home mom, got bored' -p. -o
 > 'IV. Faith Development (Fowler) A. Stages of Development 1. Intuitive Projective a. children dominated by fantasy b. Begininnings of awareness 2. Undifferentiated faith a. must have consistency of care 3. Mythic-literal faith a. Legalism 4. Synthetic-conventional faith a. Concerned with fairness and reciprocity b. Abstractness 5. Individuative-Reflective faith a. Sence of self b. critical reflection 6. Paradoxical-Consolidated Faith a. Re-work the past b. evertything falls apart 7.Universalizing Faith a. A sense of inclusiveness with everyone b. A power to see diversity' -p. -o
-
-
-
-
-AB  
-
-
 
 
 The responsible self. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1737. -- DDC 171.
@@ -5130,7 +5158,7 @@ Samuelson, Scott. -- The deepest human life. -- Chicago and London: The Universi
 > ... derangement of the sences... -p. 89 -q
 > Admittedly, when discussing immersion in the divine, we're in far over our heads. -p. 91 -q
 > We're presented with a paradox that is an invitation to the inmost experience of the universe. We're presented with a holy poem. -p. 94 -q
-N!  - ... the final moment involves turning to ritual practice in order to sustain in our fallible lives the infinate truth that we're been entrusted with. In the case of love, this tends to mean marriage. -p. 94 -q
+> ... the final moment involves turning to ritual practice in order to sustain in our fallible lives the infinate truth that we're been entrusted with. In the case of love, this tends to mean marriage. -p. 94 -q
 > Science in the yellow snowmobile helmet will neer be able to enter into what being alive is about. -p. 96 -q
 > What is philosophy or religion - or human life for that matter - but the attempt to relate to the meaningful hugeness revealed in such experiences without sounding or acting like a total fool, at our best with a touch of style? -p. 98 -q
 > It occurs to him [Descartes] that the support beam of almost all our beliefs is the senses. he first muted doubt 9the doubt of the first meditation builds into a kind of intellectual crescendo) is that the senses sometimes deceives us: for instance, we see water on the road, which proves in actuality to be a mirage. -p. 103 -q
@@ -5140,6 +5168,9 @@ N!  - ... the final moment involves turning to ritual practice in order to susta
 > A sensible religion is absurd because human nature is anything but sensible. -- In short, Pascal thinks that Christianity, the most scandalous of all religions, is our only hope. Islam and Judaism makes too much sense. I can only imagine what he would have made of Unitarianism. -p. 133 -q
 > 'Man's greatness comes from knowing he is wretched,' in Pascal's fine phrase. We stand a much better chance of winning hte forgiveness game than the law game. Yet forgiveness can take place only within a context of the law. -p. 134 -q
 > Christianity is, as I said, a religion that stretches credulity. To be a Christian is to belive any number of paradoxes: that true morality appears in the context of immorality, that god is human, that power is expressed in suffering, and that this human God, uttering the famous cry of abandonment on the cross, is something of an athiest. -p. 135 -q
+
+S
+---
 
 Samuelson, Robert J. -- The real generation gap. -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10108.pdf). -- DBID 10108. -- IN Newsweek. -- Vol. 155, no. 11 (Mar. 15, 2010) -- DDC 305.
 
@@ -5563,10 +5594,11 @@ Swedo, Suzanne. -- Wilderness survival. -- 3rd ed. -- Computer data (1 file). --
 > Instead, I want to remember that humans have a variety of paths to the truth and when these various of paths to the truth and when these various routes arrive at a common consensual knowledge we have he possibility of a story of the universe that can guide us as a whole species as we enter a new millennium. -p. 79 -q
 > Earth is one planet moving around one start, which in turn is one of the three hundred billion stars of the Milky Way Galaxy, which in turn is one of a trillion galaxies in the wide universe. -p. 80 -q
 > Space and ime erupt together with mass and energy in he pre\imordial mystery of the universe's flaring forth. -. 85 -q	
+
+T
+---
+
 Take That (Musical group). -- Beautiful world. -- Computer data. -- [S.l. : s.n., n.d.] -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
-
-
-
 
 Taliesin Orchestra (Musical group). -- Maiden of Mysteries: [the Music of Enya]. -- Computer data. -- Roswell, GA: Intersound, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
@@ -5759,7 +5791,7 @@ Tyler, Justin. -- [Photograph of caterpiller (unknown)]. -- Computer file (1 fil
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler and the Lisa Ann III in Newburyport, Mass]. -- Computer data (1 file). -- [2014 Oct 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-10-25 14.06.23.jpg. -- DDC 779.
 
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler at the Flume Gorge]. -- Computer data. -- [2014 Oct 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-10-25 11.07.25.jpg. -- DDC 779.
-C1 - LJLT | HDD
+
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird flying away from her hand at the bird santuary, Ipswich, Mass.] -- Computer data (1 file). -- 2012 Oct 20. -- System requirements: USB drive; JPG file reader. -- Filename: 2012-10-20 14.58.06.jpg. -- DDC 779.
 
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass.] -- Computer data (1 file). -- 2012 Oct 20. -- System requirements: USB drive; JPG file reader. -- Filename: 2012-10-20 14.58.04.jpg. -- DDC 779.
@@ -5781,7 +5813,6 @@ Tyler, Justin Lee. -- [Photograph of clouds on the mountains in Lincoln, N.H.]. 
 
 Tyler, Justin Lee. -- [Photograph of a cover bridget in Stowe, Vt.]. -- Computer data (1 file). -- 2015 May 04. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-05-04 12.45.09.jpg. -- DDC 779.
 
-ER -
 Tyler, Justin Lee. -- [Photograph of a crab.] -- Computer data (1 file). -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3334.jpg. -- LJLT 3334 -- DDC 779.
 
 
@@ -5912,11 +5943,12 @@ Tyler, Justin Lee. -- [Photographs of Salem State Forest]. -- Computer data (1 d
 
 Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- Computer data (11 files : 348 mb) -- 2012 Oct. 20. -- on 1 external hard drive. -- System requirements: .mp4 file reader. -- Title supplied by cataloger. -- File name: 3215. -- DBID 3215. -- DDC 384.55.
 
-
-
-
+U
+---
 Uremovich, Christopher. -- Fable hill. -- Computer file (1 file). -- [S.n.], 2017. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B0771MP592. -- DDC 813.
+
 U.S. RDA Test Coordinating Committee. -- Report and recommendations of the U.S. RDA test coordinating committee. -- Computer data (1 file : 2.51 mb) -- [S.l. : The committee], 2011. -- Title from resource. -- File name: (10163.pdf) -- DBID 10162 -- DDC 025.3.
+
 Unitarian Universalism: respecting diversity. -- Computer data. -- Mode of Access: World Wide Web. -- Title from resource. -- IN Skipping Stones. -- (1994). -- DDC 289.1.
 > The inherent worth and dignity of every person. We believe that each and every person is important. -q
 > Justice, equity, and compassion in human relations. We believe that all people should be treated fairly. -q
@@ -5940,6 +5972,9 @@ University of Detroit Mercy. -- 2007-2008 tuition & fees schedule. -- Computer d
 University of Pittsbugh. Library System. -- Archive of European Integration [database]. -- Computer data (1 file : 18.2 mb) -- [Penn. : U. of Pittsburgh, 19--]. -- Title supplied by cataloger. -- Mode of Access: Gopher (gopher://justinleetyler.com:70/0/databases/archive+of+european+integration.mrk) -- Also available on the World Wide Web (http://aei.pitt.edu/) -- DBID 3105 -- DDC 321.016.
 
 Using the Library of Congress : MARVEL gopher. -- Computer data (1 file : 6 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (10172.txt) -- DBID 10172 -- DDC 027.
+
+V
+---
 
 Vance, J.D. -- Hillbilly elegy. -- Computer data (1 file). -- Harper, 2016 -- DDC 305.
 > As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201
@@ -5994,6 +6029,9 @@ Vinge, Vernor. -- The children of the sky. -- 1st ed. -- New York : Tor, c2011. 
 > Vendacious and Chitiratifor visits the tycoon; offering information about the humans.  -p. 11-16 -o
 
 Vollenweider, Andreas. -- Behind the Gardens. United States: Kin Kou, 2005. -- Title from Compact Disk. -- DDC 781.67
+
+W
+---
 
 Waal, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- 289 p. -- ISBN 9780393073775. -- DDC 599.
 
