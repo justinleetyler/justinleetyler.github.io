@@ -2,8 +2,11 @@
 
 ¶ [A chalice lighting](https://www.missionstclare.com/english/candle/candle.html)
 
-This chalice burns for [name], and for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous.
->Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
+Glory be to the earth and the wind.   
+Glory be to the sun and the rain.   
+Glory be to animals and children and women and men,   
+Glory be to our holy flame which calls us together as one.   
+(Bettye A. Doty)
 
 From all that dwell below the skies *   
     Let faith and hope with love arise;   
@@ -39,6 +42,8 @@ Thus do we covenant with each other and with God.
 Seek the truth, and serve humanity
 
 ¶ Prayers may be offered for ourselves and others.
+This chalice burns for [name], and for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous.
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part.   
 
 ¶ The Lords Prayer
 
