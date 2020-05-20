@@ -13,7 +13,8 @@ From all that dwell below the skies *
 Let beauty, truth and good be sung *  
    Through every land, by every tongue.
    
-¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)
+¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
+Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
 
 ¶ A period of silece or reflection may follow.
 
