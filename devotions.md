@@ -7,12 +7,7 @@ Glory be to the sun and the rain.
 Glory be to animals and children and women and men,   
 Glory be to our holy flame which calls us together as one.   
 (Bettye A. Doty)
-
-From all that dwell below the skies *   
-    Let faith and hope with love arise;   
-Let beauty, truth and good be sung *  
-   Through every land, by every tongue.
-   
+ 
 ¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
 
