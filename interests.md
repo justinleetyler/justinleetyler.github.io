@@ -17,7 +17,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
-|2020-06 | B | [Childhood's end]((https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | 813 | A science fiction book about an alien invasion. |
+|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | 813 | A science fiction book about an alien invasion. |
 |2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | 920 | A biography of Earl Warren. |
 |2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | 920 | Describes the five justices with whom J.P.S had interactions|
 |2020-04 | C | [The second founding](rn-foner2019) / Eric Foner | 327 |
