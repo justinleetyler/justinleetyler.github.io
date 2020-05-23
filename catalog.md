@@ -1196,6 +1196,36 @@ The Cistercian Monks of Stift Heiligenkreuz. -- Chant. -- Computer data. -- on 1
 The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- Title from header. -- Mode of Access: World Wide Web (http://www.aetolia.com/cities). -- DDC 342.
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
+Clark, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 813. 
+> He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q 
+> 1 the aliens arrive -s 
+> "Freedom to control our own lives, under God’s guidance." -q 
+> 3 the overlords work through the UN, and bought peace and raised the standards of living. -s 
+> their only concern was earning a living with the minimum of work. -q 
+> 3 stormgen is kidnapped, but is freed. Kargen is watching the ind. movements. -s 
+> 4  k sAys humanity can see him in 50 years. -s 
+> 5 karellan shows humself. He looks like a devil. -s 
+> it was Utopia. Ignorance, disease, poverty, and fear had virtually ceased to exist. -q 
+> When no one lacks anything, there is no point in stealing. -q 
+> 7 a guy named ruperrtf has lots of paranormal book that an overlord uses -s 
+> For Jan was still suffering from the romantic illusion—the cause of so much misery and so much poetry—that every man has only one real love in his life. -q 
+> WOTD: credulous. 
+> 8 rupert creates something like a oiluijij board, and it sats tge overlords are frolm ngs549672 -s 
+> Men were needed for trouble-shooting, for making decisions, for planning new enterprises. The robots did the rest. -q 
+> 12 jan is planning to sneak overlords homeworld in on of their supply ships -s 
+> the artist colony governance, “We’re ruled by a council of eight directors, representing production, power, social engineering, art, economics, science, sport, and philosophy. There’s no permanent chairman or president. The chair’s held by each of the directors in rotation for a year at a time." -n 
+> "Here on this island we’re trying to save something of humanity’s independence, its artistic traditions. We’ve no hostility towards the Overlords: we simply want to be left alone to go our own way." -q 
+> 15 the colony -s 
+> 17 the overlord visits. Take an intrestg in jeff -s 
+> the Overlords were trapped in some evolutionary cul-de-sac. -q 
+> 18 jeff has telepathic powers -s 
+> 19 soon all kids are telepathic -s 
+> 20 the overlords begin evacuation the kids -s 
+> 21 the artist colony island is destroyed -s 
+> 22 jan returns -s 
+> "no one of intelligence resents the inevitable.” -q 
+> 23 the overmind completely took over the minds of the kids -s
+
 Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
 Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada: Madacy, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.68.
 
