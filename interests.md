@@ -1,4 +1,4 @@
- # INTERESTS AND HOBBIES
+# INTERESTS AND HOBBIES
 
 [Reading log](https://justinleetyler.github.io/interests#reading-log)
 [Hiking](#Hiking-log)
@@ -10,10 +10,7 @@ Star gazing log
 
 ### Currently Reading
 
-
 ### Reading log
-
-:books:
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
