@@ -9,26 +9,27 @@ Star gazing log
 ## READING
 
 ### Currently Reading
+The Hammer of God / Arthur C. Clark.
 
 ### Reading log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
-|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | 813 | A science fiction book about an alien invasion. |
-|2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | 920 | A biography of Earl Warren. |
-|2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | 920 | Describes the five justices with whom J.P.S had interactions|
-|2020-04 | C | [The second founding](rn-foner2019) / Eric Foner | 327 |
+|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | BPL 813 | A science fiction book about an alien invasion. |
+|2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | BPL 920 | A biography of Earl Warren. |
+|2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
+|2020-04 | C | [The second founding](https://justinleetyler.github.io/catalog#foner2019) / Eric Foner | BPL 327 |
 |2020-04 | C | The nine / Jeffrey Toobin | 347 | 
-|2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
+|2020-03 | C | [Supreme Conflict](https://justinleetyler.github.io/catalog#greenburg2007) /  Greenburg, Jan Crawford | 347 | 
 |2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
-|2020-02 | D | Howey, Hugh. -- Beacon 23. | 920 |
-|2020-01 | C | [Me / Elton John](http://www.justinleetyler.com/john2019.txt). | 920 |
+|2020-02 | E | Howey, Hugh. -- Beacon 23. | 920 |
+|2020-01 | C | Me / Elton John | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
-|2020-01 | C | The collapsing empire / John Scalzi. | 813 |
-|2019-09 | C | First King of Shannara / Terry Brooks. | 813.|
-|2019-08 | C | Mars / Ben Bova. | 813.|
+|2020-01 | C | [The collapsing empire](https://justinleetyler.github.io/catalog#scalzi1997) / John Scalzi. | BPL 813 |
+|2019-09 | C | [First King of Shannara](https://justinleetyler.github.io/catalog#brooks1996) / Terry Brooks. | 813.|
+|2019-08 | C | [Mars](https://justinleetyler.github.io/catalog#bova1992) / Ben Bova. | 813.|
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
-|2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | 306.|
+|2019-07 | B | [Little book of sloth philosophy](https://justinleetyler.github.io/catalog#mccartney2018) / Jennifer McCartney. | 306.|
 |2019-06 | C | The forgotten room / Lincoln Child. | 813.|
 |2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
 |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|

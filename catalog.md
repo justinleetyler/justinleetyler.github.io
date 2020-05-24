@@ -543,6 +543,8 @@ Book Collection: Nonfiction. -- Computer data. -- [S.l.] : Ebsco Industries, Inc
 Bosgoed, Reed. -- The purging. -- Computer data (1 file). -- R. B., 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page.  ASIN B00DQCP1J4. -- DDC 813.
 
 Bourke, Martha. -- Jaguar sun. -- Computer data (1 file). -- Balam Press, 2012. -- System requrements: Kindle app. -- Title from amazon.com. -- AISN B006V4XLUK. -- DDC 813.
+
+### bova1992
 Bova, Ben. -- Mars. -- Batam Books, c1992. -- 549 p. -- ISBN 055356241X. -- DDC 813.
 > Jame Waterman, m, Protagonist. -f
 > Joanna Brumado. -f
@@ -683,6 +685,7 @@ Brooks, Terry. -- Genesis of Shannara. -- Ballantine Books, c2007. -- 379 p. -- 
 > KIRISIN, m, elf. Brother of Simralia.
 > 29 The loden stone is in a dragon. -s
 
+### brooks1996
 Brooks, Terry. -- First king of Shannara. -- 1st ed. -- New York : Ballantine Books, 1996. -- 489 p. -- ISBN 0345396529 -- DDC 813.
 
 > ... the First Council of Druids... met at Paranor, a gathering of the wisest men and women of all the Races, those who had memories of the old world, those who retained a few tattered, crumbling books, those who learning had survived the barbarism of a thousand years... [they] had begun the laborious task of assembling their combined knowledge... the goal... was to work for the betterment of all people... -p. 7 -q
@@ -2192,6 +2195,66 @@ The foresters. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1729. -- DDC 823.
 > '?but with the whole passion of love that existed in her nature, she embraced her husband's neck, and with every kindest and most encouraging word, addressed to his own ear, mingled prayers of holiest fervour for his peace of mimd to the Giver of all merices.' -p. 38-39 -q
 > 'Chapter 5-Able forged a document to pay off a businessman from Edinburgh. Michael took responsibility for the debt, and after his father dies, will have to sell Dovenest. -Agnes is pregnant.' -p. 37-44 -s
 > His [Michael Forester] whole appearance betokened no ordinary character -p. 9 -q
+
+### foner2019
+Foner, Eric. -- The second founding. -- 1st ed. -- W. W. Norton & Company, 2019. -- Title from amazon.com desc., viewed May 24, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07P769MSX). -- AISN B07P769MSX. -- DDC 327. 
+>Reconstruction has conventionally been dated from the war’s end in 1865 to 1877,
+>the process by which the United States tried to come to terms with the momentous results of the Civil War,
+>The Tragic Era
+>Whether the courts should base decisions on “originalism” is a political, not a historical, question.
+>Ambiguity creates possibilities.
+>Principles which we all thought to have been firmly and permanently settled,” Frederick Douglass observed, were “boldly assaulted and overthrown.”
+>The historian Linda Colley has observed that written constitutions often function as “weapons of control” rather than “documents of liberation and rights.”
+>constitution should not be construed as denying to any citizens the privileges and immunities to which they were entitled,
+>As Alexis de Tocqueville observed, a passion for equality animated American democracy. But the concept of equality before the law—something enjoyed by all persons regardless of social status—barely existed before the Civil War.
+>pursuit of happiness (often understood as the right to enjoy the fruits of one’s own labor and rise in the social scale).
+>Before Reconstruction the federal government played almost no role in defining or protecting Americans’ rights.
+>Colored Convention” movement,
+>Frederick Douglass, after several years of adhering to the Garrisonian position, changed his mind and declared the Constitution “a glorious liberty document.” “I am for strict construction,” he declared, and the word “slavery” could not be found in the Constitution’s text. Nor did it contain language allowing for “discrimination in favor of, or against, any class of people.”
+>Free Soil party
+>barring slavery’s expansion into the territories, the issue that brought on the Civil War—
+>And the abolitionist critique of the Fugitive Slave Act of 1850, which provided that the status of an accused runaway would be determined by a federal commissioner, not a jury, and that the alleged fugitive could not testify in his or her own behalf, led to the elevation of “due process of law” as essential to equitable judicial proceedings.
+>made the federal government for the first time what Sumner called “the custodian of freedom.”
+>During the conflict, Lincoln felt obligated to stretch constitutional authority to its limits and beyond.
+>Roughly 150 amendments to resolve the secession crisis were proposed during the winter of 1860–61.
+>He did not share the abolitionists’ commitment to ending slavery immediately nor their belief that free
+>blacks and emancipated slaves should become equal members of American society.
+>Women’s Loyal National League, founded in 1863. For the time being women activists suspended the movement for woman suffrage to press for an end to slavery, the route, they believed, to blacks and white women obtaining their “rights and privileges as free and equal citizens of a common republic.”
+>Kentucky also refused. The place of Lincoln’s birth would have the distinction of being the only state to reject the Thirteenth, Fourteenth, and Fifteenth Amendments. It finally decided to ratify them in 1976.
+>Along with the right to “personal liberty,” declared another, the “right of a husband to his wife” and of a “father to his child” comprised the “three great fundamental natural rights of human society.” The amendment was intended to restore these rights, not undermine them.42
+>For decades, those who would later become Radical Republicans had defended the unpopular causes of black suffrage and equal citizenship.
+>Another option was to base representation on voters, not total population, as Stevens had proposed.
+>“the wildest fancy of a distempered brain”
+>Congressman Giles Hotchkiss of New York,
+>THE LAST-MINUTE ADDITION of a definition of American citizenship constitutionalized the principle that virtually every person born in the country is a citizen, regardless of race, national origin, or the political affiliation or legal status of one’s parents. Today, the United States stands almost alone among industrialized nations in this;
+>birthright citizenship, with which the Fourteenth Amendment begins, remains an eloquent statement about the nature of American society,
+>The first sentence of the Fourteenth Amendment also marked a radical change in the role of black women within American society. As slaves, they gave birth to property; now their children were citizens of the nation, rather than economic assets of white southerners.
+>“Due process” suggests procedural fairness, not substantive rights.
+>The Declaration of Independence contained the stirring words “all men are created equal,” a radical pronouncement at a time when most countries were ruled by monarchs and hereditary aristocrats.
+>The Fourteenth Amendment for the first time elevates equality to a constitutional right of all Americans. It makes the Constitution a vehicle through which aggrieved groups and individuals who believe that they are being denied equality can take their claims to court.
+>“A true republic,” said William Windom, a Republican congressman from Minnesota, “rests upon the absolute equality of rights of the whole people, high and low, rich and poor, white and black.”
+>In the context of the violence sweeping the postwar South, the word “protection” in the Fourteenth Amendment conjured up not simply unequal laws but personal safety.
+>WOTD: raison d’être. -f
+>Democratic candidate for vice president, Francis Preston Blair Jr.,
+>Horatio Seymour, the presidential candidate,
+>State control of voting qualifications, claimed Senator Oliver P. Morton of Indiana, was a relic of state sovereignty, the frame of mind that had produced secession.
+>“The whole fallacy,” said Morton, “lies in denying our nationality. I assert that we are one people and not thirty-seven different peoples; that we are one nation, and as such we have provided for ourselves a national Constitution.”
+>John A. Bingham, the key author of the Fourteenth Amendment,
+>The eleventh former Confederate state, Tennessee, rejected the amendment in 1869; it would ratify it in 1997.
+>“crack brained harlequin and semi-lunatic,”
+>Nonetheless, over time, the Court played a crucial role in the long retreat from the ideals of Reconstruction.
+>Increasingly, the Court construed the Fourteenth Amendment as a vehicle for protecting corporate rights rather than those of the former slaves, striking down state regulations of working conditions and railroad rates on the grounds that they violated “freedom of contract” protected under the Due Process Clause.
+>Edward D. White,
+>breakdown of the Republican consensus in support of Reconstruction in the 1870s and the retreat that accelerated in the following decades.
+>privileges or immunities
+>involved far more significant rights than Miller mentioned. For John A. Bingham, as noted in Chapter Two, they comprised those enumerated in the Bill of Rights
+>railroad companies, hotel keepers, and “managers of places of public amusement” should be considered “agents or instrumentalities of the state,” as they were licensed and performed a public service.
+>“It seems . . . that now, as long ago,” wrote the Harrisburg Telegraph, “freedom cannot be made safe in the United States as long as we have a Supreme Court.”
+>culminating in decisions of the Warren Court during the Second Reconstruction of the 1950s and 1960s,
+>The state, for example, required a photo ID to vote and then closed driver’s license offices—where such documents can be obtained—in counties with the highest percentage of blacks in the population.
+>The elevation of the Commerce Clause into a “charter of human rights,” a way of compensating for the Supreme Court’s cramped view of the Reconstruction amendments, has made the judiciary look ridiculous.
+>David E. Kyvig, ed., Unintended Consequences of Constitutional Amendments (Athens, 2000).
+
 Forbes, M.R. -- His dark empire. -- Computer data (1 file : 645 KB). -- Protoculture Press, 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 Forseth, Mike. -- Free TV over the air. -- Computer data (1 file). -- Invigorating Publishing, c2014. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- ASIN B00IX0BTCM. -- DDC 643.
@@ -2490,6 +2553,7 @@ Greenberg, David. -- Calvin Coolidge. -- Time Books, c2006. -- xviii, 202 p. -- 
 > Classically conservative on economic policy and averse to progressive leadership on social policy, Coolidge was in foreign affairs a cautious moderate... -p. 88  -q
 > [Charles Augustus] Lindbergh's solo journey from New York to Paaris on May 20-21, 1927, transformed the blond, twenty-five-year-old aviator into a folk hero... years later, Lindberg would be revealedd as an anti-Semite and Nazi sympathizer... -p. 125-127 -q
 
+### greenburg2007
 Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
 >Criminal laws are supposed to be clear, and most justices accept that when laws are unclear, the criminal defendant should get the benefit of the doubt, since he may not have known his conduct was wrong. -p. 131 -q
 >But floor statements and committee repors aren't the law, Thomas explained, an courts can't expect people to know about them. -p. 132 -q
@@ -3145,27 +3209,17 @@ Joel, Billy. -- Greatest Hits, Volume I & Volume II. -- Computer data. -- New Yo
 Joel, Billy. -- The Greatest Hits Collection: Vol. I, II & III. -- Computer data. -- Australia: Columbia/Sony Music Entertainment (Australia, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 Jim Berry looking through binoculars. -- Computer data (1 file). -- 2014 May. -- Title supplied by cataloger. -- Mode of Access: JPG file reader; USB drive. -- DBID 3351. -- DDC 779.
 
-
-
 John, Elton. -- Peachtree Road. / by Elton John and Bernie Taupin. -- Computer data. -- New York, N.Y: Rocket/Universal Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66
-
 
 John, Elton. -- Songs from the West Coast. -- Computer data. -- London, England & NYC: Mercury Records Ltd.(London, 2001. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-
-
-
 John, Elton. -- The Road to El Dorado / [by] Elton John, Randy Newman, and Tim Rice. -- Computer data. -- Beverly Hills, CA: DreamWorks, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
-
 
 John, Elton. -- Elton John Live in Australia / [by] Elton John, Bernie Taupin, [and] James N. Howard. -- Computer data. -- Universal City, Calif: MCA Records, 1987. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66
 
-
 John, Elton. -- Elton John's Greatest Hits: Volume III, 1979-1987. -- Computer data. -- Los Angeles: Geffen Records, 1987. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64
 
-
 John, Elton. -- Goodbye Yellow Brick Road / [by] Elton John and Bernie Taupin. -- Computer data. -- [New York], NY: Rocket, 1995. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
-
 
 John, Elton. -- Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.] -- Computer data. -- New York: Mercury Records, 2002. -- on 1 external hard drive. -- Title from Compact Disk. 
 
@@ -3173,20 +3227,15 @@ John, Elton. -- Me. -- [S.n., 2019]. -- Title from resource, viewed Feb. 9, 2020
 
 John, Elton. -- One Night Only: The Greatest Hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.] -- Computer data. -- New York: Universal Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-
 John, Elton. -- Reg Strikes Back / [by] Elton John and Bernie Taupin. -- Universal City, Calif: MCA, 1988. -- Computer data. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
-
 
 John, Elton. -- The Captain & the Kid / [by] Elton John and Bernie Taupin. -- Computer data. -- Santa Monica, Calif: Interscope, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-
 Johnson, Alexandra. -- Leaving a trace. -- Boston : Little, Brown, 2001. -- viii, 242 p. -- DBID 3072 -- DDC 808.06692.
-
 
 Johnson, Clay A. -- The information diet. -- Shebastopol, CA : O'Reilly Media, c2012. -- ix, 150 p. -- ISBN 9781449304683. -- DBID 3013 -- DDC 303.
 
 Johnson, Paul. -- History of the Jews. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- 1. 909.
-
 
 Johnston, Robert K. -- Reel spirituality. -- 2nd ed., Rev. and expanded. -- Grand Rapids, Mich. : Baker Academic, c2006. -- 351 p. -- 9780801031878 -- DDC 261.
 
@@ -3920,10 +3969,10 @@ Mayes, L.M. -- Dark days. -- Computer data (1 file : 470 KB). -- BB Books, 2013.
 
 Mayes, D.R. -- The last shaman. -- Computer data (1 file : 326 kb). -- [S.n., n.d.]. -- on ASUS Transformer tablet. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-
-
 McCahill, Mark P. -- Evolution of Internet Gopher / Mark P. McCahill, Farhad X. Ankesaria -- Computer data (1 file) -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 8373.pdf -- IN Journal of Universal Computer Science. -- Vol. 1, no. 4 (1995) -- DDC 004.69.
+
 McCammon, Jason. -- The ancient lands. -- Computer data (1 file). -- Brown-Eyed Dreams LLC., 2009. -- System requirements: Kindle app. -- Title supplied by cataloger. -- AISN B002YX0NIU. -- DDC 813.
+
 McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 9780307476302. -- DDC 813.
 > A person who had no one would be well advised to cobble together some pasable ghost. -57 -q
 > All of this like some ancient anointing. So be it. Evoke the forms. Where you've nothing else construct ceremonies out of the air and breathe upon them. -p. 74 -q
@@ -3936,6 +3985,7 @@ McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 978030
 > You need to find the good guys but you cant take any chances. -p. 278 -q
 > You have to carry the fire. It's inside you. It was always there. I can see it. -p. 279 -q
 > If I'm not here you can still talk to me. You can talk to me and I'll talk to you. You'll see. -p. 279 -q
+
 McCarthy, Ingrid. -- The black pearl of Osis. -- Computer data (1 file : 318 kb). -- [S.n., n.d.]. -- on Asus Transformer tablet. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPublishers, 2018. -- 170 p. -- ISBN 9780008313692. -- DDC 306
@@ -3946,12 +3996,13 @@ McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPub
 > They avoid predators by staying completely still. p. 141 -q
 > It's OK to just exist in the world sometimes without seeking the spotlight - just watching, observing and learning. p. 141 -q
 > They die in a place they love and cherish (a tree), clinging to the things they probably love most (a branch). What more could we hope for when it comes times for our own passing? -p. 168 -q
-McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
+McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
 McDonald, D. R. -- Cape Breton Road. -- 1st ed. -- New York : Harcourt, c2000. -- 288 p. -- ISBN 0151005230 -- DDC 813.
 
 McDonald, M.P. -- Infection. -- Computer data (1 file). -- MPMcD Publishing, 2016. -- System requirements: Kindle app. -- Title from amazon.com. -- AISN B01FYBBC2Y. -- DDC 813.
+
 McElhaney, Scott. -- The mystic saga. -- Computer data (1 file : 518 KB). -- Superluminal, 2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 McGuffie, Duncan. -- The hymn sandwich : a brief history of Unitarian worship. -- Computer data (1 file). -- [S.n., 19--]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3366.pdf. -- DDC 289.1
@@ -5220,30 +5271,49 @@ The sayings of Lao Tzu / [translated by] Lionel Giles. -- Computer file. -- on 1
 > 'This is the Way of Heaven, which benefits, and injures not. This is the Way of the Sage, in whose actions there is no element of strife.' -p. -q
 > 'Temper your sharpness, disentangle your ideas, moderate your brilliancy, live in harmony with your age. This is being in conformity with the principle of Tao. Such a man is impervious alike to favour and disgrace, to benefits and injuries, to honour and contempt. And therefore he is esteemed above all mankind.' -p. -q
 
+### scalzi1997
+Scalzi, John. -- The collapsing empire. -- Tor books, 1997. -- Title from amazon.com desc., viewed May 24, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B01F20E7CO). -- AISN B01F20E7CO. -- DDC 813. 
+>Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short.
+>Batrin Wu, Cardenia’s father, was formally Attavio VI, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, King of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Father of All, Eighty-seventh Emperox of the House of Wu, which claimed its lineage to the Prophet-Emperox Rachela I, founder of the Interdependency and Savior of Humanity.
+>Xi’an,
+>The executive committee consisted of three guild representatives, three ministers of parliament, and three archbishops of the church.
+>Dalasýsla
+>“Our father believed in the balance of power that has allowed the Interdependency to thrive: the parliament for the laws and justice; the guilds for trade and prosperity; the church for spirituality and community. And above them, the emperox, mother of all, for order.”
+>Earth is where humans originally come from, and like on End, you could walk around on its surface. But the Earth isn’t part of the Interdependency. We lost contact with the Earth over a thousand years ago when the single Flow stream to it disappeared.”
+>We don’t know if they’re competent to find their asshole with a flashlight and a map.
+>“What does that abject pile of shit want?”
+>she was the head of the Interdependent Church, technically the Cardinal of Xi’an and Hub,
+>the emperox was always the minister of parliament for Xi’an,
+>Rachela I, prophet-emperox, the legendary founder of the Interdependency.
+>rucksack
+>You tried to extort an imperial official in front of a fucking cop. You have to be spectacularly dense to try to pull a stunt like that.”
+>I have two responses to that. One, fuck you, you shitty little example of a human. Two,
+>So you don’t listen to the story. You listen to the pattern.
+>Ghreni, it doesn’t matter whether you actually have anything to apologize for. The act of apologizing is the thing. You should know that already. That’s basic diplomacy.”
+>“Hatide Roynold.”
+>officious cockwomble.
+>Guild Court of Grievances
+>Court of Grievances
+>finally getting its comeuppance.
+>“I’m continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too.
+
 Schaffner, Jennifer. -- Scan and deliver / [by] Jennifer Schaffner, Francine Snyder, [and] Shannon Supple. -- Computer data (1 file : 167 kb) -- [S.l.] : OCLC, c2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10095.pdf) -- DBID 10095 -- DDC 025.17.
 
 Schafer, Sean. -- Project Neptune. -- Computer data (1 file : 418 kb). -- [S.n., n.d.]. -- on ASUS tranformer tablet. -- System requirments: Kindle app. -- Title from Amazon.com desc. -- Also available on the World Wide Web (http://www.amazon.com/gp/product/B00AGNP82G). -- DDC 813.
 
-
-
 Schnauss, Ulrich. -- Goodbye. -- Computer data. -- Brooklyn, N.Y: Domino Recording Co, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.6
-
 
 Schor, Juliet. -- Plenitude. -- New York, N.Y. : Penguin press, c2010. -- 258 p. -- ISBN 9781594202544. -- DBID 3113 -- DDC 338.9
 
-
 Schor, Juliet. -- The overspent American. -- New York : HarperPerennial, c1999. -- 253 p. -- ISBN 0060977582. -- DBID 3114 -- DDC 339.4.
-
-
-
 
 Schwartz, Paul -- Aria 3: Metamorphosis / [by] Paul Schwartz, Rebecca Luker, and Michelle Ivey. -- Computer data. -- New York, N.Y: KOCH Records, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Schwartz, Paul. -- State of Grace. -- Computer data. -- New York, NY: Sony Music Entertainment, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Scott, Grace. -- The materialistic world. -- Computer data (1 file : 374 kb). -- G. Scott, 2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00H1RMZOY. -- DDC 339.4.
-SciTech connect. -- Computer data (1 program). -- [S.l., 2012?-]. -- Mode of Access: World Wide Web (http://www.osti.gov/scitech/). -- Title from homepage. -- DDC 507.
 
+SciTech connect. -- Computer data (1 program). -- [S.l., 2012?-]. -- Mode of Access: World Wide Web (http://www.osti.gov/scitech/). -- Title from homepage. -- DDC 507.
 
 Schwartz, Paul. -- Aria 3: Metamorphosis / [by] Paul Schwartz, Rebecca Luker, and Michelle Ivey. -- Computer data. -- New York, N.Y: KOCH Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. 
 
