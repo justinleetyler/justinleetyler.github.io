@@ -48,13 +48,13 @@ The Hammer of God / Arthur C. Clark.
 |2017-11 | C | Feed / M.T. Anderson. | 813.|
 |2017-11 | C | The little old lady who broke all the rules / Catharina Ingelman-Sundberg. | 839.|
 |2017-08 | C | The unknown man. | 813.|
-|2017-08 | A | A chosen faith / John A. Buehrens and Forrest Church. | 289.1.|
+|2017-08 | A | [A chosen faith](https://justinleetyler.github.io/catalog#buehrens1998) / John A. Buehrens and Forrest Church. | 289.1.|
 |2017-07 | B | Charlotte's web / E.B. White. Pictures by Garth Williams. | 823.|
 |2017-06 | C | Escape / Jasper T. Scott. | 813.|
 |2017-06 | C | Excelsior / Jasper T. Scott. | 813.|
 |2017-05 | D | Banded / Logan Byrne. | 813.|
-|2017-05 | D  - Inferno / Dan Brown. | 813.|
-|2017-05 | C | Apparition Lake / Daniel D. Lamoreux. | 813.|
+|2017-05 | D | Inferno / Dan Brown. | 813.|
+|2017-05 | C | [Apparition Lake](https://justinleetyler.github.io/catalog#lamoreux2014) / Daniel D. Lamoreux. | 813.|
 |2017-04 | C | Ink and Bone / Rachel Conrad. | 813.|
 |2017-04 | C | Minders of the mountain / S.R. Martin. | 813.|
 |2017-04 | B | Harry Potter and the Deathly Hallows / J.K. Rowling. | 813.|
