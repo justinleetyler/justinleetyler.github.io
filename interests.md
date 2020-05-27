@@ -26,10 +26,10 @@ The Hammer of God / Arthur C. Clark.
 |2020-01 | C | Me / Elton John | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
 |2020-01 | C | [The collapsing empire](https://justinleetyler.github.io/catalog#scalzi1997) / John Scalzi. | BPL 813 |
-|2019-09 | C | [First King of Shannara](https://justinleetyler.github.io/catalog#brooks1996) / Terry Brooks. | 813.|
-|2019-08 | C | [Mars](https://justinleetyler.github.io/catalog#bova1992) / Ben Bova. | 813.|
-|2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909.|
-|2019-07 | B | [Little book of sloth philosophy](https://justinleetyler.github.io/catalog#mccartney2018) / Jennifer McCartney. | 306.|
+|2019-09 | C | [First King of Shannara](https://justinleetyler.github.io/catalog#brooks1996) / Terry Brooks. | 813 |
+|2019-08 | C | [Mars](https://justinleetyler.github.io/catalog#bova1992) / Ben Bova. | 813 |
+|2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909 |
+|2019-07 | B | [Little book of sloth philosophy](https://justinleetyler.github.io/catalog#mccartney2018) / Jennifer McCartney. | LJLT 306 |
 |2019-06 | C | The forgotten room / Lincoln Child. | 813.|
 |2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
 |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
