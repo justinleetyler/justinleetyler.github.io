@@ -15,7 +15,8 @@ The Hammer of God / Arthur C. Clark.
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
-|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | BPL 813 | A science fiction book about an alien invasion. |
+|2020-06 | C | [2001 : A space odyssey](https://justinleetyler.github.io/catalog#clark1968) / Arthur C. Clark | BPL 823 | A science fiction book about an alien artifact found on the moon. |
+|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clark | BPL 823 | A science fiction book about an alien invasion. |
 |2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | BPL 920 | A biography of Earl Warren. |
 |2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
 |2020-04 | C | [The second founding](https://justinleetyler.github.io/catalog#foner2019) / Eric Foner | BPL 327 |
