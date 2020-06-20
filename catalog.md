@@ -1248,6 +1248,35 @@ Clark, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title
 > twenty thousand light-years from Earth,
 > 47- he comes vacj wuth either a bomb or godxlike powers
 
+### clark1982
+Clark, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
+> 1 leonov and heywood have xa secret meeting about discovery. -s 
+> 2 discovery is ablout tgo crash into Io. -s
+> Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition)
+> 4 floyd is ging on the leoov. -s
+> all human plans were subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe.
+> 6 ghey wake up after hybetnation. -s
+> 8 the tsienis going to europa fir water. -s
+> 18 thwy enter discovery.
+> 21 hal is turned on. -s
+> 22 boqem tapped a messed to his motger. Tgey fwded it. -s
+> Hofstadter—Moebius loop -f
+> The human mind has an astonishing capacity to adapt; after a while, even the incredible becomes commonplace. -q
+> 33 dave returns w/o a body. Tslks to betty. -s
+> 41 a phantom of david bowen appears to dr floys -s
+> Haldane’s famous remark: The Universe is not only stranger than we imagine—but stranger than we can imagine.” -q
+> Once is an accident; twice is a coincidence; three times is a conspiracy.” -q
+> 44 big brither cdisalpears. -s
+> 47 leonov leves jupiter, discovery stays behind, tge black stain expands on jupiter -s
+> Zagadka, the other name for the monolith -f
+> 49 tma is a neumann machine. -s
+> disconsolate -wotd
+> 50 dr chabdra disconnected hals cut iff months ago. -s
+> 51 the aliens exist in pure enerhy. -s
+> 52 jupiter ecplodes. -s
+> 53 they send a msg to eatth saying to stay iff of europa. -s
+> epilogue: life is developing on europa -s
+
 ### clark1951
 Clark, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 823. 
 > He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q 
@@ -1279,11 +1308,37 @@ Clark, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title fro
 > "no one of intelligence resents the inevitable.” -q 
 > 23 the overmind completely took over the minds of the kids -s
 
+
+###clark2012
+Clark, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
+> 4 kali is hitting earth -s
+> Commonwealth of American States -f
+> 9 menose was killed
+> 12 Robert is asked ti captain the goliath -s
+> 15 chrislam and the prophet fatima
+> The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price.
+> 18 excalaber project
+> 19 someone heard tge excalaber wave. -s
+> “Voice of Sirius.”
+> Claimes to have interpreted the excaliber signal -f
+> 25 goliath begins prep to deploy ATLAS. -s
+> It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q
+> 26 prep for blowing kali offcourse is in progress -s
+> 32 atlas is gone. Plan b
+> Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q
+> 36 kali stops, but the fanatics try to push it. Its not an asteroid.
+> 41 goliTh will not excape the explosion -s
+> 43 the bomb detonates and the shock wave hits -s
+> 44 the bomb fails to detinate -s
+> 45 the bomb split the astferoid in two
+> kali 2: "but the Great Thaw would change coastlines all around the world." -f
+> kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
+
 Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
+
 Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada: Madacy, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.68.
 
 Clay, Rotha Mary. -- The hermits and anchorites of England. -- Computer data. -- Methuen & Co, 1914. -- Mode of Access: World Wide Web (https://archive.org/stream/hermitsanchorite00clayuoft). -- Title from title page. -- DDC 271.
-
 > There were two classes of solitaries: anchorites (restricted to a place), and hermits (not restricted. -- Some hermits were caretakers, such as lightkeepers, keepers of highway and bridges, or shrines, or special chaplains (minister to strangers and the poor, and to pray for the people). Many saw them as a sort of prophet or seer. -- Solitaries had 'rules of life', used moreso as 'friendly councel' (p. 89). -- Hermits 'signed a deed of profession, made a vow, and received a charge as to his future manner of living...' (p. 86) -- Solitiaries were typically held to a vegetarian diet -- 'In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host.' (p. 147). -s
 > Withdrawal from the world was not at first encouraged by the Christian religion. -p. 13 -q
 > Paul of Egypt -- called 'the first hermit'... -p. 13 -q
