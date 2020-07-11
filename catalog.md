@@ -1195,7 +1195,7 @@ The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainm
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
 ### clark1968
-Clark, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title from title page viewed June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01A6E8EQ6). -- AISN B01A6E8EQ6. -- DDC 823.
+Clarke, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title from title page viewed June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01A6E8EQ6). -- AISN B01A6E8EQ6. -- DDC 823.
 > The truth, as always, will be far stranger.
 > Honor had been satisfied; each group had staked its claim to its own territory.
 > The harsh logic of survival ruled out such fancies, and not a voice was raised in protest from the listening hillside. Every cave was silent, lest it also attract disaster.
@@ -1249,7 +1249,7 @@ Clark, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title
 > 47- he comes vacj wuth either a bomb or godxlike powers
 
 ### clark1982
-Clark, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
+Clarke, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
 > 1 leonov and heywood have xa secret meeting about discovery. -s 
 > 2 discovery is ablout tgo crash into Io. -s
 > Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition)
@@ -1277,8 +1277,43 @@ Clark, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title 
 > 53 they send a msg to eatth saying to stay iff of europa. -s
 > epilogue: life is developing on europa -s
 
+
+###clarke1987
+Clarke, Arthur C. -- 2061 : odyssey three . -- RosettaBooks, c1987, 2012. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XF9ZZWG). -- Title from amazon.com viewed July 11, 2020. -- AISN B07XF9ZZWG. -- DDC 823.
+> 1 floyd gets ready for cruusing on "tge universe"
+> There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting.
+> 3 tge new wirld govt
+> 6 europa is massively chaanging. -s
+> 16 the universe lands on halleys comet. -s
+> 18 lake tuonella. -s
+> 19 theu enter a cave and find a luminious glow. -s
+> 20 galaxy crashes on europa. -s
+> diurnal rhythm,
+> 27 rose mcmHon tajes over galaxy. -s
+> 31 tge ship lands on europa. Sees a shark like thing. -s
+> It is surprising how quickly the most bizarre situation can become routine.
+> There was nothing worse for morale than idleness,
+> 43 galaxy is on land now. -s
+> 48 mt zeus is a diamond. -s
+> 56 mt zeus us gone, but massive duanonds Are all over tge juvian system. -s
+> epilogue: jupiter dies out. Massive duamoknd space ekevators connect with rings around the planet. -s
+
+### clarke1997
+Clarke, Arthur C. -- 3001 : The final odyssey. -- RosettaBooks, c1997. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07X8ZR72R). -- Title from title page viewed July 11, 2020. -- ISBN 9780795324895. -- AISN B07X8ZR72R. -- DDC 823.
+> 1 the spcetug goliath finds an ancient astronaut. -s
+> 8 earthsx monolyth was discovered 500 yrs ago in 2500
+> Of course, like most dabblers with infinity, he [Einstein] went insane.
+> inertial field.
+> I don’t know how many acres of land it took to feed one cow, but at least ten humans could survive on the plants it produced.
+> Lucretius hit it on the nail when he said that religion was the by-product of fear—a reaction to a mysterious and often hostile universe.
+> But cranks often get that way because they know a Big Truth—can you hear my capitals?—and no one will listen…
+> Never attribute to malevolence what is merely due to incompetence.
+> It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government.
+> 36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. -s
+> All energy eventually degrades to heat, and if everyone had a few million kilowatts to play with, this planet would soon be heading the way of Venus—several hundred degrees in the shade.
+
 ### clark1951
-Clark, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 823. 
+Clarke, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 823. 
 > He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q 
 > 1 the aliens arrive -s 
 > "Freedom to control our own lives, under God’s guidance." -q 
@@ -1310,7 +1345,7 @@ Clark, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title fro
 
 
 ###clark2012
-Clark, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
+Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
 > 4 kali is hitting earth -s
 > Commonwealth of American States -f
 > 9 menose was killed
