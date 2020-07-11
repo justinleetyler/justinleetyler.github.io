@@ -1194,7 +1194,7 @@ The Cistercian Monks of Stift Heiligenkreuz. -- Chant. -- Computer data. -- on 1
 The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- Title from header. -- Mode of Access: World Wide Web (http://www.aetolia.com/cities). -- DDC 342.
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
-### clark1968
+### clarke1968
 Clarke, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title from title page viewed June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01A6E8EQ6). -- AISN B01A6E8EQ6. -- DDC 823.
 > The truth, as always, will be far stranger.
 > Honor had been satisfied; each group had staked its claim to its own territory.
@@ -1248,7 +1248,7 @@ Clarke, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Titl
 > twenty thousand light-years from Earth,
 > 47- he comes vacj wuth either a bomb or godxlike powers
 
-### clark1982
+### clarke1982
 Clarke, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
 > 1 leonov and heywood have xa secret meeting about discovery. -s 
 > 2 discovery is ablout tgo crash into Io. -s
@@ -1278,7 +1278,7 @@ Clarke, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title
 > epilogue: life is developing on europa -s
 
 
-###clarke1987
+### clarke1987
 Clarke, Arthur C. -- 2061 : odyssey three . -- RosettaBooks, c1987, 2012. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XF9ZZWG). -- Title from amazon.com viewed July 11, 2020. -- AISN B07XF9ZZWG. -- DDC 823.
 > 1 floyd gets ready for cruusing on "tge universe"
 > There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting.
@@ -1344,7 +1344,7 @@ Clarke, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title fr
 > 23 the overmind completely took over the minds of the kids -s
 
 
-###clark2012
+### clark2012
 Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
 > 4 kali is hitting earth -s
 > Commonwealth of American States -f
