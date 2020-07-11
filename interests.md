@@ -14,12 +14,12 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
-|2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clark1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
-|2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clark1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
-|2020-06 | C | [2010 : odyssey two](https://justinleetyler.github.io/catalog#clark1982) / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
-|2020-06 | C | [2001 : A space odyssey](https://justinleetyler.github.io/catalog#clark1968) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
-|2020-06 | C | [The hammer of God](https://justinleetyler.github.io/catalog#clark2012) / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
-|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clark1951) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
+|2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clarke1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
+|2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clarke1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
+|2020-06 | C | [2010 : odyssey two](https://justinleetyler.github.io/catalog#clarke1982) / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
+|2020-06 | C | [2001 : A space odyssey](https://justinleetyler.github.io/catalog#clarke1968) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
+|2020-06 | C | [The hammer of God](https://justinleetyler.github.io/catalog#clarke2012) / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
+|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clarke1951) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
 |2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | BPL 920 | A biography of Earl Warren. |
 |2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
 |2020-04 | C | [The second founding](https://justinleetyler.github.io/catalog#foner2019) / Eric Foner | BPL 327 |
