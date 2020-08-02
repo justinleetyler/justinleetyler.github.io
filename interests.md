@@ -14,7 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
-|2020-07 | C | [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
+|2020-07 | C |17. [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
 |2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clarke1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
 |2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clarke1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
 |2020-06 | C | [2010 : odyssey two](https://justinleetyler.github.io/catalog#clarke1982) / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
