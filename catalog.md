@@ -1343,6 +1343,25 @@ Clarke, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title fr
 > "no one of intelligence resents the inevitable.” -q 
 > 23 the overmind completely took over the minds of the kids -s
 
+### clarke1951
+Clarke, Arthur C. -- The fall of moondust -- RosettaBooks, c1951, c2012. -- Title from amazon.com desc. viewed July 26, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H18VSWK). -- AISN B07H18VSWK. -- DDC 823.
+> 3 the selene is missing. -s
+> “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q
+> Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q
+> 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s
+> 9 they play a court of inquiry game. -s
+> 14 they found serene. -s
+> Chief Engineer Lawrence did not believe that committees ever achieved anything. -q
+> 17 as the crescue is undeeweigh, the co2 is rising. -s
+> Don’t look as if you’re expecting a fight; that’s the best way to start one. -q
+> Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q
+> Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q
+> 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s
+> Look up Atlantis, then Lemuria or Mu. -r
+> Having lost faith in themselves, men had sought salvation in the sky. -q
+> American astronomer named O’Neill observed something very remarkable here on the Moon. -q
+> WOTD: Saucerites
+> 30 they are pulledd out. -s
 
 ### clark2012
 Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.

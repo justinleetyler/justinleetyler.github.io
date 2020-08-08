@@ -14,6 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes|
 |----|-----|----------------|------------|-----|
+|2020-07 | D | [The fall of moondust](https://justinleetyler.github.io/catalog#clarke1951) | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
 |2020-07 | C | [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
 |2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clarke1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
 |2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clarke1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
