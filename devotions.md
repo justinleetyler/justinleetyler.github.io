@@ -1,6 +1,6 @@
 # Daily Devotions
 
-¶ [from the Psalms](https://www.bcponline.org/Psalter/psalter.html)   
+¶ [from the _Psalms_](https://www.bcponline.org/Psalter/psalter_30day.html)   
  
 ¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
