@@ -12,9 +12,11 @@ Star gazing log
 
 ### Reading log
 
-|date|grade|title and author|dewey number|notes|
+|date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
-|2020-07 | D | [The fall of moondust](https://justinleetyler.github.io/catalog#clarke1951) | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
+|2020-08 | C |20 [The Last Emperox](https://justinleetyler.github.io/catalog#scalzi2020) / John Scalzi -- | 813 | |
+|2020-08 | C | [Strange rites](https://justinleetyler.github.io/catalog#burton2020) / Tara Burton -- | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
+|2020-07 | D | [The fall of moondust](https://justinleetyler.github.io/catalog#clarke1951) / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
 |2020-07 | C | [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
 |2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clarke1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
 |2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clarke1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
@@ -31,7 +33,7 @@ Star gazing log
 |2020-02 | E | Howey, Hugh. -- Beacon 23. | 920 |
 |2020-01 | C | Me / Elton John | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
-|2020-01 | C | [The collapsing empire](https://justinleetyler.github.io/catalog#scalzi1997) / John Scalzi. | BPL 813 |
+|2020-01 | C | [The collapsing empire](https://justinleetyler.github.io/catalog#scalzi2017) / John Scalzi. | BPL 813 |
 |2019-09 | C | [First King of Shannara](https://justinleetyler.github.io/catalog#brooks1996) / Terry Brooks. | 813 |
 |2019-08 | C | [Mars](https://justinleetyler.github.io/catalog#bova1992) / Ben Bova. | 813 |
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909 |

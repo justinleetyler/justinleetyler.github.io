@@ -1031,6 +1031,88 @@ Byne, Logan. -- Banded. -- Computer data. -- [n.p], c2014. -- System requirement
 > You’re really good at this. You just need to calm yourself down and think rationally. -q
 > My goal is to coast through HQ without any incidents -q
 
+### burton2020
+
+Burton, Tara. -- Strange rites : new religions for a godless world. -- PublicAffairs, 2020. -- Title from Amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07W56MQLJ). -- AISN B07W56MQLJ. -- ISBN 9781541762510. -- DDC 200.
+
+> “collective effervescence,”
+> The ultimate object of worship he sees in a society’s church is society itself. “God,” he writes in Elementary Forms, “and society are one of the same.… The god of the clan
+> What matters is that participants have a common symbolic object of worship—and that they have rituals and routines to help them solidify their social bonds around that object.
+> The social function of religion comes in the way it gives us a sense of personal and social meaning, allowing us to frame our identities within that of a collective cosmic narrative. “It is not happiness that theodicy primarily provides,” Berger ultimately concludes, “but meaning.”30
+> foundational theodicy. It explains why there is evil and suffering in the world (or at least in our own bodies) and gives us a series of rituals—exercise, skin care, jade eggs—to help us supposedly counteract them.
+> Today’s new religions provide their various Remixed flocks with these four elements: meaning, purpose, community, and ritual.
+> progressive civil religion of social justice activism sees ultimate reality as a story about continued power and oppression.
+> authenticity: the idea that one’s actions are in harmony with one’s emotions.
+> alchemize our everyday activities—eating, working out, following the news, posting on social media—and turn them, as Punchdrunk did to the McKittrick Hotel, into strange and sacred rites, not hobbies but rituals.
+> these new intuitional religions—each one, at its core, a religion of the self
+> When we are all our own high priests, who is willing to kneel?
+> 1 the development of remix and intuitional religion. Defs And purpose of religion.  -s
+> “Liberals abhor the smugness, the self-righteousness, the absolute certainty, the judgmentalism, the lovelessness of a narrow, dogmatic faith.” Meanwhile, conservatives “scorn the fuzzies, the marshmallow convictions, the inclusiveness that makes membership meaningless—the ‘anything goes’ attitude that views even Scripture as relative.”4
+> Freemasonry, which was devoted to supplementing Enlightenment ideals of rationalism and humanism with religious-style ritualism,
+> For the Transcendentalists, the self and society were necessarily at odds.
+> New York City’s Interchurch Center,
+> Durkheim’s “collective effervescence”: a group coalescing and affirming its identity around a beloved totem.
+> Forum moderators often served as the online equivalent of village elders, keeping the peace within communities and adjudicating disputes.
+> participatory culture
+> Stories now exist not to teach us or inform us, but to serve us.
+> Why force our beliefs into a narrow category of organized religion, with its doctrines and creeds, when we can cobble together a metaphysical system that demands of us no moral, ethical, spiritual, or aesthetic compromises?
+> We’re used to getting exactly the stories and the communities we want, on demand,
+> Seventy-odd years ago, the major cultural and spiritual project of America—funneled through midcentury mainline Protestantism—was liberal ecumenism: the utopian vision of varied, disparate traditions and denominations coming together to seek common ground and effect widespread change. Today, that project feels hopelessly obsolete.
+> We are all our own individual religions. And the cultural myths and narratives we tell, customize, and individualize—a new kind of fan fiction—continue to shape the world around us.
+> Jefferson created what might be considered the first American fan fiction: The Life and Morals of Jesus of Nazareth.64 Now, we’re all doing the same thing.
+> 4 fandom, precipatory culture, and tribes. -s
+> If fandom provided us with a structure for today’s Remixed religious culture, wellness provides its implicit theology.
+> WW (which now stands, according to the [WeightWaters] company, for “wellness that works”)
+> wellness culture, in other words, wasn’t formed in a vacuum. Its implicit ideology—that the universe is conspiring to keep the success you deserve from you until you reach out and take
+> has become a marketing slogan, one designed to lend legitimacy to behavior that might, in other moral systems, be considered merely selfish.
+> Getting your toes done (as Dame suggested) may not be the most practical avenue of #resistance. But it’s an acknowledgment that our physical and emotional selves may be all we feel we can rely on. For all its claims to positivity, wellness culture is, at its core, nihilistic.
+> Contemporary Remixed witchcraft is less about the specifics of belief than it is about the creation of a sense of existential purpose revolving around cultural resistance.
+> Like wellness culture, New Age philosophy promoted radical self-reliance
+> In New Age culture, as in its nineteenth-century antecedents, knowledge and intellect took a back seat to emotion and feeling, which represented the uncontaminated knowledge of the true self.
+> “Witchcraft has always been a religion of poetry, not theology. The myths, legends, and teachings are recognized as metaphors for ‘That-Which-Cannot-Be-Told,’
+> The kinky social networking website FetLife... -f
+> If wellness culture centers the perfectibility of the body as the locus of personal spiritual growth, then sexual utopianism takes that corporeality to its logical conclusion. If the divine is to be found not just within ourselves but in the specifically physical experience of our embodied selves, why shouldn’t sexuality be the place for us to access not just pleasure but meaning and purpose?
+> Today, however, heterosexual marriage—and the religious institutions that have traditionally solemnized it—seems to have failed.
+> Remixed consumer culture. -f
+> Remixed culture’s de facto civil religion a competion btw  social justice culture or techno-utopian framework -f
+> most importantly, both groups treat earthly self-actualization
+> Audre Lorde, who first coined the term self-care,
+> moral hermitage: a place where those who utilize it can be guaranteed not only to find like-minded members but also to reify their own commitment to that space, its values, and ideals.
+> Anthony Levandowski, founded a religious group called Way of the Future,
+> Transhumanists, who believe in “biohacking” that will allow human beings to, essentially, become cyborgs.
+> Center for Applied Rationality (CFAR),
+> seasteaders
+> Our utopian vision of human freedom (we can and should do anything) becomes a self-devouring ouroboros (we are never doing enough).
+> Bronze Age Mindset, a Nietzschean
+> a troll with a penchant for Nietzschean aphorisms and homoerotic imagery has encapsulated,
+> Human beings acted in accordance with their biological destiny. Men fought wars. Women had babies.
+> Canadian psychologist Jordan Peterson, whose Jungian view
+> The same charges that Nietzsche and Evola laid against Christianity—its slave morality, its resentment of natural superiority, its desire to force the strong to censor themselves for the sake of the weak
+> If the goal of Remixed wellness culture is to become one’s best self, then the goal of modern atavism is either to become a Chad or else to ensure that there are no Chads left standing.
+> They reject what they decry as the moral relativism and individualism of contemporary American culture, but they believe in nothing more transcendent than biological urges.
+> But 12 Rules for Life is less innovative than it is nostalgic. The implicit ideology of the book is that in the modern age—and in particular in secular, feminist, identity-politics-motivated culture—humans have lost touch with the primary dichotomies that structure existence: the careful balance between (masculine) order and (feminine) chaos.
+> “We must each adopt as much responsibility as possible for individual life, society, and the world,” Peterson writes.
+> Central to this responsibility is an acceptance of, in Peterson’s argument, certain fundamental biological and evolutionary realities,
+> Like the Remixed intuitionalists, Peterson sees the self—and the improvement and perfecting of it—as the most important thing to pay attention to.
+> Whenever I listen to him,” he said, “it’s like he’s telling me something I already knew.”
+> He makes tasks like cleaning one’s room or finding a career sound like dragon-slaying voyages. His lectures infuse ordinary activities with new meaning.”
+> “woes of dating in the American culture” that, in his view, had been poisoned by feminism.36
+> biological trash heap,
+> Gavin McInnes advotes, "minimal government, maximum freedom, anti-political correctness, anti-racial guilt, pro-gun rights, anti-Drug War, closed borders, anti-masturbation, venerating entrepreneurs, venerating housewives."
+> nihilistic -WOTD
+> choosy women of consigning him to a life of perpetual virginity. “I’m the perfect guy,” he wrote, “and yet you throw yourselves at these obnoxious men instead of me, the supreme gentleman.”
+> At their most potent, they offer members not just a coherent and stable account of the universe but also a vital sense of community.
+> Trump is, after all, the ultimate troll.
+> It Came from Something Awful,
+> so wholly lacking in identity that they began to obsess over it.
+> the meaninglessness of life makes the real world and the illusory, disembodied realm of video games interchangeable.
+> disillusionment becomes the highest spiritual virtue of all.
+> prescient -wotd
+> organized and formal—religion in America is in a free fall.
+> Wellness culture, with its implicit belief in a mysterious energy that runs through us all,
+> We do not live in a godless world. Rather, we live in a profoundly anti-institutional one, where the proliferation of Internet creative culture and consumer capitalism have rendered us all simultaneously parishioner, high priest, and deity.
+> Smith contrasts what he calls paganism—characterized by a faith that “locates the sacred within this world”—with Judaism and Christianity, which place the sacred outside
+
 C
 ---
 
@@ -5432,17 +5514,57 @@ The sayings of Lao Tzu / [translated by] Lionel Giles. -- Computer file. -- on 1
 > 'This is the Way of Heaven, which benefits, and injures not. This is the Way of the Sage, in whose actions there is no element of strife.' -p. -q
 > 'Temper your sharpness, disentangle your ideas, moderate your brilliancy, live in harmony with your age. This is being in conformity with the principle of Tao. Such a man is impervious alike to favour and disgrace, to benefits and injuries, to honour and contempt. And therefore he is esteemed above all mankind.' -p. -q
 
+### scalzi2017
+Scalzi, John. -- The collapsing empire -- Tor, 2017. -- Title from amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01F20E7CO) -- AISN B01F20E7CO. -- DDC 813.
+>Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short.
+>Batrin Wu, Cardenia’s father, was formally Attavio VI, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, King of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Father of All, Eighty-seventh Emperox of the House of Wu, which claimed its lineage to the Prophet-Emperox Rachela I, founder of the Interdependency and Savior of Humanity.
+>Xi’an, capital world. -f
+>The executive committee consisted of three guild representatives, three ministers of parliament, and three archbishops of the church.
+>Dalasýsla
+>“Our father believed in the balance of power that has allowed the Interdependency to thrive: the parliament for the laws and justice; the guilds for trade and prosperity; the church for spirituality and community. And above them, the emperox, mother of all, for order.”
+>Earth is where humans originally come from, and like on End, you could walk around on its surface. But the Earth isn’t part of the Interdependency. We lost contact with the Earth over a thousand years ago when the single Flow stream to it disappeared.”
+>We don’t know if they’re competent to find their asshole with a flashlight and a map.
+>“What does that abject pile of shit want?”
+>she was the head of the Interdependent Church, technically the Cardinal of Xi’an and Hub,
+>the emperox was always the minister of parliament for Xi’an,
+>Rachela I, prophet-emperox, the legendary founder of the Interdependency.
+>rucksack -wotd
+>You tried to extort an imperial official in front of a fucking cop. You have to be spectacularly dense to try to pull a stunt like that.”
+>I have two responses to that. One, fuck you, you shitty little example of a human. Two,
+>So you don’t listen to the story. You listen to the pattern.
+>Ghreni, it doesn’t matter whether you actually have anything to apologize for. The act of apologizing is the thing. You should know that already. That’s basic diplomacy.”
+>officious cockwomble.
+>Guild Court of Grievances
+>finally getting its comeuppance.
+>“I’m continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too.
+
+### scalzi2020
+Scalzi, John. -- The last emperox. -- Tor books, 2020. -- Title from amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07QPGW9FS). -- AISN B07QPGW9FS. -- 813.
+>you fucking cognitive mudfart,
+>executive committee consisted of three ministers of parliament, three members of the Church of the Interdependency and three members of the guild houses.
+>Her policy of “fuck you, what’s in it for me”
+>Grayland II, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, Queen of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Mother to All, Eighty-Eighth Emperox of the House of Wu.
+>3 deran wu is assassinated. Houses are moving resojrces to end. -s
+>7 nadashe assembles the conspirators -s
+>One could anthropomorphize the Flow all one wanted, but the Flow would not agree or consent to it. It was literally alien to this universe. The only way to understand it was to take it on its own terms.
+>extraneous dimwit
+>12 kira resigns from the exec to infiltrate the conspiracy. -s
+>Imperial Information Office -f
+>Rachela concurred, and once again Cardenia was reminded that this version of Rachela was not burdened with ego, and was therefore not concerned with justifying her actions in any way.
+>15 kira is captured. -s
+>18 kira gets thr crew on her side. -
+>19 the emporex is assassinated -s
+>20 ndine is chosen as empoorox, and the archbishop resignes. -s
+>23 greyland aappears as a ghose at nadase,s coronation, and announces tfhat fhe monopies ae over, and kirA is hed successod. -s
+>so if you live in the United States, and you are reading this prior to November 2020, please do me a favor and (a) Register to vote, or check to make sure your registration is still valid, (b) Remember to vote on election day (or before if you take an early ballot) and (c) Try not to vote for anyone who is a whirling amoral vortex of chaos. I
+
 Schaffner, Jennifer. -- Scan and deliver / [by] Jennifer Schaffner, Francine Snyder, [and] Shannon Supple. -- Computer data (1 file : 167 kb) -- [S.l.] : OCLC, c2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10095.pdf) -- DBID 10095 -- DDC 025.17.
 
 Schafer, Sean. -- Project Neptune. -- Computer data (1 file : 418 kb). -- [S.n., n.d.]. -- on ASUS tranformer tablet. -- System requirments: Kindle app. -- Title from Amazon.com desc. -- Also available on the World Wide Web (http://www.amazon.com/gp/product/B00AGNP82G). -- DDC 813.
 
-
-
 Schnauss, Ulrich. -- Goodbye. -- Computer data. -- Brooklyn, N.Y: Domino Recording Co, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.6
 
-
 Schor, Juliet. -- Plenitude. -- New York, N.Y. : Penguin press, c2010. -- 258 p. -- ISBN 9781594202544. -- DBID 3113 -- DDC 338.9
-
 
 Schor, Juliet. -- The overspent American. -- New York : HarperPerennial, c1999. -- 253 p. -- ISBN 0060977582. -- DBID 3114 -- DDC 339.4.
 
