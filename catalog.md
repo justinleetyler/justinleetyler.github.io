@@ -1,5 +1,7 @@
 [A](#a) [B](#b) [C](#c) [D](#d) [E](#e) [F](#f) [G](#g) [H](#h) [I](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [P](#p) [Q](#q) [R](#r) [S](#s) [T](#t) [U](#u) [V](#v) [W](#w) [X](#x) [Y](#y) [Z](#z)
 
+### DICTIONARY CATALOG
+
 A
 ---
 
@@ -57,11 +59,6 @@ Winfrey, Sarah. -- 29 scientifically proven ways to be happy this year. -- Compu
 
 Cole, Allen. -- The wolf worlds / Allan Cole and Chris Bunch. -- Ballantine Books, c1984. -- 298 p. -- ISBN 0345312295. -- DDC 813.
 > 3. Sten encounters the natives who challenge him to a fight. Sten wins.  
-
- 
-
-
-
 
 Columbus, Nocomus. -- 3:53 am : Book 1. -- Computer data (1 file : 208 KB). -- S.n., 2014. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- AISN B00C3341BG. -- DDC 813.
 5 tactics for relieving work-related stress. -- Computer data. -- [S.n., n.d.]. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 3252.txt -- DDC 155.
@@ -303,6 +300,7 @@ Babauta, Leo. -- Focus : a simplicity manifesto in the age of distraction. -- Co
 
 Balas, Janet L. -- Will the ILS soon be as obsolete as the card catalog. -- Computer data (1 file : 11 kb) -- Title from p -- DDC -- File name: (8373.txt) -- DBID 8373. -- IN Computers in Libraries. -- Vol. 37, no. 9 (Oct. 2007) -- DDC 025.3.
 
+Baldron, NAK. -- Sourcerer's quest. -- Aconite Cafe, 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B0833HHLDH). -- AISN B0833HHLDH. -- DDC 813.
 
 Balmer, John M.T. -- Corporate heritage brands and the precepts of corporate heritage brand management. -- Computer data (1 file : 266 kb) -- Title from p -- DDC -- File name: (10150.pdf) -- DBID 10150. -- IN Journal of Brand Management -- Vol. 18, no. 8 (Jun. 2011) -- DDC 342.42.
 
@@ -1208,6 +1206,9 @@ Carter, Jimmy. -- Our endangered values. -- Simon & Schuster, c2005. -- x, 212 p
 > ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 -q
 > Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q
 
+Carson, Heather. -- Project Dandelion. -- [S.n.], 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07TLF8HN7). -- AISN B07TLF8HN7. -- DDC 813.
+
+
 Casey, Mike. -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- Computer data (1 file : 5.7 mb.) -- [S.n., s.l.], c2007. -- Title from cover. -- File name: (6445.pdf). -- DBID 6445 -- DDC 025.8.
 
 
@@ -1560,7 +1561,9 @@ Coelho, Paul. -- The alchemist. -- Computer data (1 file). -- [San Francisco] : 
 > 'Because, when you know that language [Love], it's easy to understand that someone in the world awaits you, whether it's in the middle of the desert or in some great city.' -p. -q
 > '...and their eyes meet, the past and the future become unimportant... 'Without such love, one's dreams would have no meaning.' -p. -q
 > '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 -q
-> '...when we strive to become better than we are, everything around us becomes better, too.' -p. -qThe Colony / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe. -- Computer data (1 file). -- RLJ Entertainment, [2013]. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title from WorldCat desc. -- Filename: 3316.mp4. -- DDC 791.43.
+> '...when we strive to become better than we are, everything around us becomes better, too.' -p. -qT
+
+he Colony / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe. -- Computer data (1 file). -- RLJ Entertainment, [2013]. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title from WorldCat desc. -- Filename: 3316.mp4. -- DDC 791.43.
 
 The complete home / edited by Clara E. Laughlin. -- Computer data (1 file). -- D. Appleton and Co., 1912. -- on 1 external hard drive. -- System requirments: USB drive; PDF file reader. -- Title from title page. -- File name: 3235.pdf. -- DDC 640.
 
@@ -1569,6 +1572,8 @@ Cohen, Leonard. -- The Essential Leonard Cohen. -- Computer data. -- New York, N
 College physics. -- Computer data (1 file : 97.1 MB). -- Rice University, c2013. -- on 1 external hard drive. -- Title from cover. -- System requirements: USB drive; PDF file reader. -- Filename: 3287.pdf. -- DBID 3287. -- DDC 530.
 
 Collins, Phil. -- Face Value. -- Computer data. -- New York, NY: Atlantic, 1985. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
+
+Comparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards / [by] Amy P. Eklund, Shawne D. Miksa, William E. Meon... [et al.] -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3236.pdf. -- DOI 10.1080/19386380903095073. -- IN Journal of Library Metadata. -- Vol 9 (2009). -- ISSN 1937-5034. -- DDC 025.3.
 
 Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. -- DDC 1725.
 > 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
@@ -1646,12 +1651,12 @@ Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780
 > ... povisions for an overnight camp: water, matches, a sleeping bag. -p. 138 -q
 > Then it's back to my duties as a smoke-besotted stylite. -p. 138 -q
 > Do not miss a chance to nap -- Leave the place better than you found it -- Never piss into the wind -- Go buck naked in the tower now and then for kicks -- Learn what it means to ride the lightning -- Cut a good supply of wood for he start of the next year -- Feed the hummingbirds -- Have a hobby: readying, knitting, playing the ukelele. Something. -- Sleep outside when the weather permits -- Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q
+
 CONSER standard record documentation -- Computer data (1 file : 417 kb) -- [S.l., s.n.], 2007. -- Title from cover. -- File name: (7068.pdf) -- DBID 7068 -- DDC 025.3.
+
 Constitution daily. -- Computer data. -- [S.n, 200-] -- Mode of Access: World Wide Web (http://blog.constitutioncenter.org/). -- Title from homepage. -- Frequency: Daily. -- DDC 320.
 
-
 The RDA workbook / Margaret Mering, Editor. -- Computer data (1 file). -- Libraries Unlimited, c2014. -- on 1 external hard drive. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 3369.pdf -- ISBN 9781610694902. -- DDC 025.
-
 
 Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Computer data. -- Facet publishing, c2013. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB). -- ISBN 9781856048224. -- Available to patrons with membership to institutions subscribing to EBSCO ebooks. -- DDC 028.7.
 > This book presents a curriculum for information literacy. -s
@@ -1671,9 +1676,6 @@ UNESCO (2005)
 Cooper, Peter. -- Beginning Ruby. -- Computer file (1 file) -- [S.l.] : Apress, 2007. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3035 -- DDC 005.
 
 Coryell, Skip. -- The God virus. -- Computer data. -- [S. Coryell]?, c2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B0078T0DWQ. -- ISBN 9781618080295. -- DDC 813.
-
-
-
 
 Crease, Robert P. -- World in the balance. -- New York : W.W. Norton, c2011. -- 317 p. -- ISBN 9780393072983 . -- DBID 2071. -- DDC 530.
 
@@ -2164,7 +2166,9 @@ Ehrman, Bart D. -- The new testament. -- New York : Oxford University Press, 200
 > Not to take a stand can sometimes be as great as a crime as the crime itself. We must have the courage to stand up for what is right when our fellow human beings are suffering. -p. 33 -q
 > Counterfources for being kind: Lack of time and resources -- lack of empathy -- Lack of reflection -- Not wanting to get involved -- Not practicing what we preach -- Our innate agression -- the victim mentality -- The 'someone else' principle -- Whatever we do, it'll turn out to be wrong. -o
 > Empathy is the ability to understand another person's way of thinking. -p. 74 -q
-> There is always something we can do. If we can no longer cure, then we can ease the suffering. If we cannot do that, we can comfort. And if we can no longer comfort, we can simple be there. -p. 90 -qComparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards / [by] Amy P. Eklund, Shawne D. Miksa, William E. Meon... [et al.] -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3236.pdf. -- DOI 10.1080/19386380903095073. -- IN Journal of Library Metadata. -- Vol 9 (2009). -- ISSN 1937-5034. -- DDC 025.3.
+> There is always something we can do. If we can no longer cure, then we can ease the suffering. If we cannot do that, we can comfort. >And if we can no longer comfort, we can simple be there. -p. 90 -q
+
+Ellis, Brandon. -- Veil rising. -- LMBPN publishing, 2020. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B085YBT6WM). -- AISN B085YBT6WM. -- DDC 813.
 
 Elrod, J. McRee. -- Streaming videos. -- Computer data. -- [S.l. : Special Libraries Cataloguing, c2010. -- Title from p -- DDC -- File name: (10074.pdf). -- DBID 10074 -- DDC 025.3.
 
@@ -2573,8 +2577,6 @@ A generous communion. -- Computer data (1 file). -- Worship Panel of the General
 
 
 Georgetown-Rowley State Forest [webpage]. -- Computer data. -- [Mass.] : DCR, [2012?] -- Title from resource. -- Mode of Access: World Wide Web (http://www.mass.gov/dcr/parks/northeast/grow.htm) -- DBID 3098 -- DDC 796.51
-Georgetown-Rowley State Forest. -- July 1, 2012; 2 hrs.
-Georgetown-Rowley State Forest. -- June 9, 2012; 12pm-2pm. -- Fair; 77 F. -- Saw three snakes, and one frog.
 
 Gilbert, Elizabeth. -- Eat, pray, love. -- [S.n., n.d.]. -- [1] v. -- DDC 306.  
 > In desperate love, we always invent the charators of our partners, demanding that they be what we need hem, and then feeling devastated when they refused to perform the role we created in the first place.	19 -q
@@ -2596,6 +2598,8 @@ Gilbert, Elizabeth. -- Eat, pray, love. -- [S.n., n.d.]. -- [1] v. -- DDC 306.
 > There is a theory tht if you yearn sincerey enough for a Guru, you will find one. The universe will sift, , detiny's molecules will get themselves organized and your pathwil soon intersect will the aath of the master you need.	124
 > 'Remember - everything you do, you do for God. And everything God does, He do for you.' -unknown.	-131
 > In a way, this little episode had all the hallmarks of a typical Christian conversion experience - the dark night of the soul, the call for help, the responding voice, the sense of transformation.	16
+
+Gillespie, Mark. -- Apocolypse No.1. -- [S.n.], 2020. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B083S986KS). -- AISN B083S986KS. -- DDC 813.
 
 Gilliland, Anne. -- Building an infrastructure for archival research / [by] Anne Gilliland and Sue McKemmish. -- Computer data (1 file : 366 kb). -- Title from resource. -- File name: (10070.pdf). -- DBID 10070. -- DOI 10.1007/s10502-006-6742-6. -- IN Archival Science. -- Vol. 4 (2004) -- DDC 027.
 
@@ -4711,6 +4715,7 @@ Ogg, Frederic Austin Ogg. -- The governments of Europe. -- Computer data (1 file
 Oke, Janette. -- The meeting place / Janette Oke, T. Davis Bunn. -- Computer data (1 file). -- Bethany House, 1999. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005BOXJ5S. -- DDC 813.
 
 OneHundredFreeBooks.com [website]. -- Computer data. -- [S.l. : s.n., 2012?] -- Title from homepage. -- Mode of Access: World Wide Web. -- URL http://ohfb.com. -- DBID 3088 -- DDC 002.
+
 Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide Web (http://www.onelook.com). -- Title from homepage. -- DDC 428.
 
 > ACUMEN, noun, shrewdness shown by keen insight. -f
@@ -4724,6 +4729,7 @@ Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide 
 > PETULANT, adjective: annoyed and behaving in an unreasonable way because you cannot get what you want. -f
 > PHYSIOGNOMY, noun: they way that someone's face looks. -f
 > PROFUNDITY, noun:  intellectual depth; penetrating knowledge; keen insight; etc -q
+
 Open Yale courses [website]. -- Computer data. -- [S.l.] : Yale University, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://oyc.yale.edu/ ) -- DBID 3086 -- DDC 375.
 
 OpencourseWare Consortium [website]. -- Computer data. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ocwconsortium.org/) -- DBID 3084 -- DDC 375
@@ -4752,6 +4758,9 @@ Orton, Linda. -- Soapmaking for the first time. -- Sterling Publishing Co., c200
 > Calendula leaves, chamomile, ground cinnamon, lemon verbena, oatmeal, peppermint, rosebuds, and rosemary are some of the most common botanicals used in soapmaking. -p. 20 -q
 
 Overall Ranking : best countries. -- Computer data (1 file : 98 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010) -- DDC 910.
+
+Owen, Julie. -- The kind. -- Mean Time Press, 2017. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B077LMKSNF). -- AISN B077LMKSNF. -- DDC 813.
+
 
 P
 ---
@@ -4793,6 +4802,9 @@ Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata best practices
 > Structural metadata: information used to visualize and navigate the digital resources; information on the internal organization of the digital resource; information on the visualizer or plug-in reader necessary to open the digital resource. -q
 > Administrative metadata: information needed to manage the resource over time, including technical information such as image resolution, file size, file format, hardware/software used to produce the digital resource, and so on. -q
 > The 15 elements of the Dublin Core format can be classified according to three aspects: 1. Contents: Title, Subject, Description, Source, Type, Relation, and Coverage 2. Intellectual property: Creator, Publisher, Contributor, and Rights  3. Application: Date, Format, Identifier, and Language. -q
+
+Peebles, Chrissy. -- Rebellious. -- [S.n.], 2017. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B0765ZNYPD). -- AISN B0765ZNYPD. -- DDC 813.
+
 Pendleton, Paige W. -- The keeper and the rune stone. -- Computer data (1 file : 2037 KB.) -- Pig Wing Press, 2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 
@@ -4968,7 +4980,9 @@ Pure Moods: IV. -- Computer data. -- Beverly Hills, CA: Virgin Records America, 
 Q
 ---
 
-Quinn, Susan Kaye. -- Quinn, Susan Kaye. -- Computer data (1 file : 3024 KB). -- 	[S.n., 20--]. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005Z1RRUU -- DDC 813.
+Quinn, Susan Kaye. -- The legacy human. -- Twisted Space, 2015. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B00U1VKGSE). -- AISN B00U1VKGSE. -- DDC 813.
+
+Quinn, Susan Kaye. -- Open minds. -- [S.n., 20--]. -- Title from Amazon.com, viewed Aug 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B005Z1RRUU). -- AISN B005Z1RRUU -- DDC 813.
 > At the end of the 22nd century, the world is composed of readers (those who can read minds). While Kira believes she is a "zero" (a non-reader), she meets Simon, and learns she's actually a powerful jacker, someone who can "jack" into people's minds and control them. Simon introduces her to a secret society to jackers. During Simons initiation ceremony, govn't agents, being afraid of their abilities, take them to a jacker concentration camp where jackers can be control, and to perform experiments. She excapes, and is able to go to the press and expose the scandal. -s
 > 5 when the girl and raf touches the boy faints -s
 > 7 simon is a zero. -s
@@ -5690,6 +5704,7 @@ Shore, Howard. -- Music from the Lord of the Rings, the Trilogy. -- Computer dat
 
 Shoutcast. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.shoutcast.com) -- DDC 780.
 
+Simmon, J.B. -- The blue tower. -- Three Cord Press, 2018. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07K2LDGH1). -- AISN B07K2LDGH1. -- DDC 813.
 
 Simon, James F. -- What kind of nation. -- New York : Simon & Schuster, c2002. -- 348 p. -- ISBN 0684848708. -- DBID 0060. -- DDC 973.
 
