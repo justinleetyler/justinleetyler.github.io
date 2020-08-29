@@ -4878,6 +4878,45 @@ Pinola, Melanie. -- Why you learn more effectively by writing then typing. -- Co
 
 Pitt, Christopher. -- Electronic components. -- Computer data (1 file : 5.94 MB). -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3327.pdf. -- DBID 3327. -- IN Medium.com. -- (Jul. 23, 3014). -- DDC 621.3.Positive Evolutions. -- Computer data. -- [KPM, c1999]. -- on 1 external hard drive. -- Title from Amazon.com. -- System requirements: USB drive; mp3 file reader -- DDC 781.
 
+### pohl2019
+Pohl, Laura. -- The last 8. -- Sourcebooks Fire, 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07JN75FZ6). -- AISN B07JN75FZ6. -- DDC 813.
+>2 the aliens arrive. -s
+>3 clovers bfc boah comes over. -s
+>4 the aliens look like spiders and kill noahs parents. -s
+>6 the liens attack and rheres nothing left. -s
+>7 its just her and her dog now. -s
+>9 she and sputnik the dog arrive at area 51 -s
+>11 clovwr is heald in isolation pendikng twsr tesults for tge plague, which people got from the alien dust cloud. -s
+>12 brooklyn lets her out of islolation. Gives her a gun -s
+>14 clover meets violet, dictator of the last teenagers on eaeth. -s
+>There’s an art to making people hear what you want them to hear, to saying the exact words that will get you what you want. Sometimes it’s about emotion, and sometimes it’s about logic. It depends on who the person is and what you want from them.
+>17 clover considers leaving. -s
+>18 clover takes an aorplane out. J-s
+>and the desert, the rock formations on the horizon. I miss Sputnik’s company.
+>But talking to God always felt an awful lot like talking to myself. There’s only silence in response.
+>I’m exhausted to the bone. I don’t want to keep fighting.
+>What a bunch of idiots. I wonder if the Universe regrets leaving Earth to us.
+>Please go on, Your Bossiness.”
+>I nod. There’s no use saying I’m sorry.
+>27 they find a spaceship in the basement of area 51 -s
+>Abuela would say: Chores always come first. Be home by sundown. Don’t mess with stuff that ain’t your business.
+>people don’t usually seek me out unless they want something.”
+>WOTD: flitting
+>“Because I hate being wrong,” I tell him. Mostly, I just really hate when people point out how wrong I am.
+>31 they fly out, the aliens attack, and Adam dies. -s
+>35 they determine its not the same ship as the aliens. and they've captured an alien. -s
+>36 the kids blood aren't human. -s
+>“The universe is too big to not be hiding things.”
+>“The Hostemn are exterminators,” she says, with a deeper anger than
+>39 aNdy is an alisn whoss fighting the otherf aliens hostemn. Viotfs mom worked okn a projwct of supersolders. -s
+>Adam Foster, Avani Sharma, Brooklyn Spencer, Clover Martinez, Flint Rogers, and Rayen Kindelay.
+>40 the kids are the supersoldiers . -s
+>It’s all meaningless, fighting back, the idea that I could do something to make a difference.
+>Universals.”
+>“The Protectors.”
+>44 andy cant unlock fhe knkwledfe jn the spacecraft until she bas a connesxtion with the cosmos. -s
+>45 a plan is hatched to distroy ghe vhive ship of the hostemn. -s
+>bubble of happiness growing inside me, and it doesn’t matter how long it will last, because at least for tonight, it exists. And that’s all that matters.
 
 Premis Editorial Comittee. -- Data dictionary for preservatino metadata. -- Computer data (1 file : 3.06 mb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (8001.pdf) -- DBID 8001 -- DDC 024.4.
 
