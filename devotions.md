@@ -2,6 +2,7 @@
 
 ¶ This chalice burns for those who affirm and promote [principle]. 
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
+May we tend this fire always; ever vigilant and courageous.
  
 ¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
@@ -48,8 +49,4 @@ Eternal Spirit, whom we call God, you are our life. You are the best and most be
 
 ¶ The Benediction
 
-May we tend this fire always; ever vigilant and courageous.
-
-   -or -
-   
 Live simply, expect little, give much. Fill your life with love, scatter  sunshine. Forget self. Think of others, and do as you would be done by. 

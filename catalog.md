@@ -2805,6 +2805,12 @@ Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner.
 
 Greenwood, Andrea. -- An introduction to the unitarian and universalist traditions / Andrea Greenwood, Mark W. Harris. -- Computer data (1 file). -- Cambridge University Press, c2011. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3367.pdf. -- DDC 289.1.Gregson-Williams, Harry. -- The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe / [by] Harry Gregson-Williams ... [et al.] -- Computer data. -- Burbank, CA: Walt Disney Records, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
+### greer2007
+Greer, John Michael. -- The druid magic handbook. -- Red Wheel/Weiser, c2007. -- Title from resource, viewed Aug 29, 2020. -- Mode of Access: [World Wide Web](https://justinleetyler.github.io/greer2007). -- ISBN 9781578633975. -- DDC 299.1.
+
+### greer2006
+Greer, John Michael. -- The druidry handbook. -- Red Wheel/Weiser, c2006. -- Title from resource, viewed Aug 29, 2020. -- Mode of Access: [World Wide Web](https://justinleetyler.github.io/greer2006). -- ISBN 1578633540. -- DDC 299.1.
+
 Grigg, Richard. -- To re-enchant the world. -- Computer data (1 file : 213 KB). -- Xlibris, 2004. -- System requirements: Kindle app. -- Title from title page. -- AISN B007EC5CTG. -- DDC 289.1.
 
 > 2: Five (and more)-in-one: humanism, nature, social justice, the arts, a creative source/Abyss of the Universe -s
@@ -2847,6 +2853,7 @@ Grigg, Richard. -- To re-enchant the world. -- Computer data (1 file : 213 KB). 
 > There is no sense of religions being wholly discrete institutional entities [in Asian culture] whose boundaries prevent participation in more than one religion at a time. -q
 > ... the Mysterious Depth... -q
 > ... can we help our society uncover the "divine," the sacred, the Mysterious Depth? -q
+
 Guengerich, Galen. -- 10 things I wish everyone knew about Unitarian Universalism. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374). -- Title from resource. -- IN onFaith [website]. -- (20--?). -- DDC 289.1
 
 > Unitarians played a pivotal role in founding the United States. -- Religiously speaking, we’re in our adolescence. -- We focus on what we know by experience. -- Our name refers to historic heresies that matter today. -- We don’t believe in the God many others don’t believe in either. -- We’ve revised our view of God — and of everything else. -- We believe that freedom is a consequence of belonging, not its antithesis. -- We’re the gratitude people. -- The discipline of gratitude calls us to worship together. -- The ethic of gratitude calls us to serve a broken and needy world. -o
