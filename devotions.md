@@ -1,6 +1,7 @@
 # Daily Devotions
 
-¶ [from the _Psalms_](https://www.bcponline.org/Psalter/psalter_30day.html)   
+¶ This chalice burns for those who affirm and promote [principle]. 
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
  
 ¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
@@ -35,16 +36,17 @@ Seek the truth, and serve humanity
   
 ¶ The Lords Prayer
 
-Form One: Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. AMEN.
+Grant, O father, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN.
+
+   -or-
+   
+Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. AMEN.
 
    -or-
 
-Eternal Spirit, whom we call God, you are our life. You are the best and most beautiful in us and beyond us. Your spirit is in animals, birds, plants, and in people whom we do not know or who seem very different from us. All of us share the gift of life. Help us to remember that life is good. Help us to know that we don't stop loving people or other living things when they are no longer close to us. Love lasts always. May we look for ways to love one another, and to love all living things. Amen. (Licinda Steven Duncan) 
+Eternal Spirit, whom we call God, you are our life. You are the best and most beautiful in us and beyond us. Your spirit is in animals, birds, plants, and in people whom we do not know or who seem very different from us. All of us share the gift of life. Help us to remember that life is good. Help us to know that we don't stop loving people or other living things when they are no longer close to us. Love lasts always. May we look for ways to love one another, and to love all living things. AMEN. (Licinda Steven Duncan) 
 
 ¶ The Benediction
-
-This chalice burns for those who affirm and promote [principle]. 
->Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
 
 May we tend this fire always; ever vigilant and courageous.
 
