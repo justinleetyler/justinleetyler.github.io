@@ -14,6 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2020-09 | D | 22 [A natural history of Boston's North Shore](https://justinleetyler.github.io/catalog#lindborg2007) / Kristina Lindborg. | 508| |
 |2020-08 | D | 21 [The Last 8](https://justinleetyler.github.io/catalog#pohl2019) / Laura Pohl -- | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
 |2020-08 | C |20 [The Last Emperox](https://justinleetyler.github.io/catalog#scalzi2020) / John Scalzi -- | 813 | |
 |2020-08 | C | [Strange rites](https://justinleetyler.github.io/catalog#burton2020) / Tara Burton -- | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
