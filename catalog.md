@@ -3937,12 +3937,33 @@ Library of Congress. Network Development and MARC Standards Office. -- MARC 21 f
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- Computer data (1 file : 34 kb). -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- Title from p.1. -- File name: (1703.txt). -- Also available on the [World Wide Web](http://www.justinleetyler.com/1703.txt). -- DBID 1703 -- DDC 025.3.
 
 Library of Congress. Working group on the future of of bibliographic control. -- On the record. -- Computer data (1 file : 442 kb.) -- [Washington, D.C. : Library of Congress], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (6452.pdf). -- DBID 6452 -- DDC 025.3.
+
 Lifehacker. -- Gizmodo Media Group, c2017. -- Title from homepage. -- -- Mode of Access: World Wide Web.Frequency: Daily. -- URL http://www.lifehacker.com. -- DDC 001.
+
 Lightfoot, Gordon. -- If You Could Read My Mind. -- Computer data. -- Burbank, Calif.: Reprise Records, 1980. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
+
+### lindborg2007
+Lindborg, Kristina. -- A natural history of Boston's North Shore. -- University Press of New England, c2007. -- xviii, 121 p. -- ISBN 158465578X. -- DDC 508.
+> Geologists say that ther ehave been at least four major ice ages spanning the Earth's dynamic past. The most recent glaciation started about three million years ago in parts of Canada, northern Europe, and Asia. -p. 8 -q
+> At one time, most of New England was burried under an ice sheet up to two miles thick. -p. 9 -q
+> That's what happened in the northeastern united States about thirteen thousand years ago when the Laurentide ice sheet began its retreating meltdown. -p. 9 -q
+> Bull Brook is the largest Paleoindian site discovered in New England. -p. 15 -f
+> Paleo, or ancient, humans probably came in successive migrations to North America from northeastern Asia during the Pleistocene epic, anywhere from twenty to thirty thousand years ago. -p. 15 -q
+> It [the white-tailed eer] is a ruminant and like cows has four stomachs. The first stomach breaks down plant tissue while the other three help complete the digestion process. -p. 27 -q
+> These are self-fertilizing, or cleistogamous, flows that aren't dependent on insects for pollination. -p. 29 -q
+> ... alien=looking horseshoe crab... has been skulking aroudn the Earth for nearly three hundred million years... -p. 29 -q
+> two types of coastlines: primary (rocky) and secondary (sandy). -p. 36 -f
+> Drumlins, the log, tapering mound sof earth such as Hog Island or Choate Island in Ipswich... -p. 38 -q
+> only one percent of lobster eggs will reach the next stage of their life cycle; the planktonic or free-swimming stage. -p. 42 -f
+> Fireflies are not flies, but instead are int he beetle family and related to scarabs and ladybugs. -p. 44 -q
+> The adult life of an insect is not a long one, generally about a month. -p. 46 -q
+> The great horned owl is one of the first birds to nest and will lay its eggs as early as January despite a snow-covered landscape. -p. 84 -q
+> ... life span [of the fox] is sadly brief, only four to five years. Predation and competition for resources are the main cause. -p. 98 -q
 
 Lislevand, Rolf. -- Diminuito / [by] Rolf Lislevand ... [et al.]. -- Computer data. -- Munchen: ECM Records, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.68.
 
 A liturgy for the use of the church at King's Chapel. -- Computer data 1 file). -- James Munroe and Company, 1845. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: 3361.pdf. -- DDC 289.1.
+
 Litore, Stant. -- Ansible 15715 : Season 1, episode 1. -- Computer data. -- Westmarce Publishing, c2014. -- System requirements: kindle app. -- DDC 813.
 > Malala Ali, f 25th c. Graduated from Kaust. She transferred into a male body, and is on a world with lots of hunger. Aliens keep humans as cattle. They enter malala's mind, tell her to tell the humans on earth, but earth won't believe her. There appers to be a time travel dimension. When she comes back, they think she is a heretic, and burn her at the steak. Feels very much like matrix.
 
