@@ -1,3 +1,16 @@
+# DAILY OFFICE
+|hour                          | chore     |
+|------------------------------|-----------|
+|5:30 Divine spark...          | Make Bed  |
+|6:30 Love is the spirit...    | Shower    |
+|   7 We affirm and promote... |           |
+|   9 We affirm and promote... | Breakfast |
+|  11 We affirm and promote... | Lunch     |
+|   2 We affirm and promote... | Snack     |
+|   4 From all that dwell...   | Dinner    |
+|   6 Our father...            | Chores    |
+|   8 This chalice             | bedtime   |
+
 # Daily Devotions
 
 ¶ This chalice burns for those who affirm and promote [principle]. 
