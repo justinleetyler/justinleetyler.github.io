@@ -65,18 +65,18 @@ Druid Magick 3rd pages.qxd 11/9/07 2:35 PM Page ii
 Foreword by David Spangler v
 
 - Part One The Foundations of Druid Magic Introduction xiii
-- Chapter 1 The Ways of the Life Force
-- Chapter 2 The Alphabet of Magic
-- Chapter 3 The Essentials of Practice
-- PartTwo The Practice of Druid Magic
-- Chapter 4 The Gates of the Elements
-- Chapter 5 The Grove of the Druids
-- Chapter 6 The Art of Enchantment
-- Chapter 7 The Secret of the Grail
+- [Chapter 1 The Ways of the Life Force](https://justinleetyler.github.io/greer2007#chapter-1-the-ways-of-the-life-force)
+- [Chapter 2 The Alphabet of Magic](https://justinleetyler.github.io/greer2007#chapter-2-the-alphabet-of-magic)
+- [Chapter 3 The Essentials of Practice](https://justinleetyler.github.io/greer2007#chapter-3-the-essentials-of-practice)
+- [Part Two The Practice of Druid Magic](https://justinleetyler.github.io/greer2007#parttwo-the-practice-of-druid-magic)
+- [Chapter 4 The Gates of the Elements](https://justinleetyler.github.io/greer2007#chapter-4-the-gates-of-the-elements)
+- [Chapter 5 The Grove of the Druids](https://justinleetyler.github.io/greer2007#chapter-5-the-grove-of-the-druids)
+- [Chapter 6 The Art of Enchantment](https://justinleetyler.github.io/greer2007#chapter-6-the-art-of-enchantment)
+- [Chapter 7 The Secret of the Grail](https://justinleetyler.github.io/greer2007#chapter-7-the-secret-of-the-grail)
 - Part Three The Way of Druid Magic
-- Chapter 8 The Reenchantment of the World
-   - Appendix: Deities in Welsh Druid Traditions
-   - Bibliography
+- [Chapter 8 The Reenchantment of the World](https://justinleetyler.github.io/greer2007#chapter-8-the-reenchantment-of-the-world)
+   - [Appendix: Deities in Welsh Druid Traditions](https://justinleetyler.github.io/greer2007#deities-in-welsh-druid-traditions)
+   - [Bibliography](https://justinleetyler.github.io/greer2007#bibliography)
    - Index
 
 

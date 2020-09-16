@@ -1,4 +1,5 @@
 # DAILY OFFICE
+
 |hour                          | chore     |
 |------------------------------|-----------|
 |5:30 Divine spark...          | Make Bed  |
