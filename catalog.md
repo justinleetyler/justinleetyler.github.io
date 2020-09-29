@@ -5975,7 +5975,12 @@ Stoll, Scott. -- Yes, plants have protein. -- Computer data. -- Mode of Access: 
 
 > Broccoli contains more protein per calorie than steak and, per calorie, spinach is about equal to chicken and fish. -q
 > How can you add more plant-based protein to your diet? By simply eating more plants. Beans (27% protein) lentils (36%), chickpeas (33%), peas (30%), and kale (22%)... -q
+
 Stone, Andria. -- Edge of the future. -- Computer data (1 file). -- S.n., 2017. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- AISN B06XD3J7K7. -- DDC 813.
+
+### stories2011
+Stories from ancient Cannan / edited and translated by Michael D. Coogan and Mark S. Smith. -- 2nd ed. -- John Knox Press, c2012. -- Title from title page viewed Sept. 29, 2020. -- Mode of Access: [World Wide Web](http://www.justinleetyler.com/stories2011.txt). -- ISBN 9780664232429. -- DDC 892.
+
 Stouten, Dann A. -- The gate. -- Computer data (1 file : 580 KB). -- Revell, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00AHY0XSS. -- DDC 813.
 
 Suehring, Steve. -- Learn JavaScript. -- Computer data. -- Microsoft Press, 2012. -- Mode of Access: World Wide Web (http://proquest.safaribooksonline.com). -- Title from cover. -- DDC 004
@@ -6081,6 +6086,7 @@ Taylor, Mark Stephen. -- Moon of the White Wolf. -- Computer data (1 file). -- C
 > ... the spirits listen there, and those of us who go out there and truly honor the place are favored by them spirits—that we are protected by them.-l. 2087 -q
 > "Make sense, and I'll listen.-l. 2178 -q
 > He said that they taught of things that people should come to know and live by—things like faith, hope, goodness, and love.-l. 2261 -q
+
 Taylor, Keary. -- The bane. -- Computer data (1 file). -- Keary Taylor books, 2013. -- on ASUS transformer tablet. -- System requirements: kindle app. -- AISN B00BP1ZKJ4. -- DDC 813.
 
 
@@ -6094,18 +6100,16 @@ Ten important points to remember when the priest calls. -- Computer data (1 file
 
 Teng, Vienna. -- Waking Hour. -- Computer data. -- Brighton, MA: Virt Records, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-
-
 The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10166.pdf) -- DBID 10166. -- IN Backpacker. -- Vol. 40, no. 3 (Apr. 2012). -- ISSN 0277-867X -- DDC 796.51.
 
 The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
-
 
 The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco : Harper & Row, c1987. -- xii, 267 p. -- ISBN 0060655771 -- DDC 291.
 
 > 'I. Introduction A. Secret ceremonies 1. The legomena (things recited) a. 'mythological foundation for the celebration of the mysteries.' -10 b. performed by Priests. 2. The deiknymena (things shown) a. Visual images 3. The dromena (things performed) a. variety of rituals' -p. 1- -o
 > 'The development of early agrarian or fertility festivals into the mystery religions involved, first and foremost, the conviction on the part of the worshippers that the cycle of nature related directly to human life? Hence, if human beings could assimilate the power that made life triumphant in the world of nature, they too might live in a more complete way.' -p. 7-8 -q
 > 'Aristotle concludes that initiates into the mysteries do not learn anything, but rather have an experience and are put in a certain state of mind.' -p. 12 -q
+
 The Benedictine Monks of St. Michael's. -- Computer data. -- Santa Monica, CA: LaserLight, 1994. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 
@@ -6117,15 +6121,12 @@ The business model canvas. -- Computer data (1 file : 997 kb). -- [S.l. : Busine
 
 The Crane Estate : trail map and guide. -- Scale 1:21120. -- [S.l.] : The Trustees of Reservations, c2009. -- 1 map. -- DBID 3132 -- DDC 912.744.
 
-The Golden Girls. -- [S.l. : s.n, 1985]. -- Starring Bea Arthur, Betty White, Rue McClanahan, Estelle Getty -- DDC 791.45.
-
-
 The Governor-General is the guardian of our Constitution / [by] The Governor-General is the guardian of our Constitution. -- Computer data (1 file : 90 kb). -- on 1 external hard drive. -- Title form p -- DDC -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000) -- DDC 321.
 
 > [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is  reserved, and that her servants, our servants, do not become our masters.  -p.  -q
 > The Governor-General and the Lieutenant Governors have the right to be consulted by their ministers, and the right to  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.  -p.  -q
-The growth of the gospel tradition. -- Computer data (1 file : 380 kb.) -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (5665.pdf). -- DBID 5665 -- DDC 226.
 
+The growth of the gospel tradition. -- Computer data (1 file : 380 kb.) -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (5665.pdf). -- DBID 5665 -- DDC 226.
 
 The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481 -- DDC 813.
 
@@ -6206,13 +6207,9 @@ Theriault, Myscha. -- 15 healthy and cheap 5-minute dinners. -- Computer data. -
 
 Tillett, Barbara. -- What is FRBR? -- Computer data (1 file : 2839 kb. -- [Washington, DC] : Library of Congress, 2003. -- on 1 external hard drive. -- Title from title page. -- File name: (10061.pdf). -- DBID 10061 -- DDC 025.3
 
-
-
-
 Tin, Christopher. -- Calling All Dawns: A Song Cycle. -- Computer data. -- S.l.: Tin Works Pub, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Tin, Christopher. -- The drop that contained the sea. -- Computer data. -- Tin Works, 2014. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Amazon.com. -- DDC 781.67.
-
 
 Tingstad, Eric. -- In the garden / Eric Tingstad and Nancy Rumbel. -- Computer data (14 files : 93.1 mb). -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /music/ . -- Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225. -- DDC 781.67.
 
