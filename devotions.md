@@ -4,10 +4,10 @@
 |------------------------------|-----------|
 |5:30 Divine spark...          | Make Bed  |
 |6:30 Love is the spirit...    | Shower    |
-|   7 We affirm and promote... |           |
-|   9 We affirm and promote... | Breakfast |
-|  11 We affirm and promote... | Lunch     |
-|   2 We affirm and promote... | Snack     |
+|   7 We affirm and promote... | egg       |
+|   9 We affirm and promote... | Slimfast  |
+|  11 We affirm and promote... | Slimfast  |
+|   2 We affirm and promote... | Apple     |
 |   4 From all that dwell...   | Dinner    |
 |   6 Our father...            | Chores    |
 |   8 This chalice             | bedtime   |
