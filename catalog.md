@@ -1823,6 +1823,7 @@ Davis, Chip. -- A Fresh Aire Christmas / [by] Chip Davis and John Rutter. -- Com
 
 
 Davis, Wade. -- The wayfinders. -- DBID 3212. -- DDC 306.
+
 DeJohnette, Jack. -- Peace time. -- Computer data. -- Golden Beams Productions, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- DDC 781.67.
 
 De Kler, F.W. -- The last trek -- a new beginning. -- St. Martin's Press, c1998. -- xx, 412 p. -- ISBN 0312223102. -- DDC 923.2.
@@ -1877,6 +1878,7 @@ Death of Ivan Ilych. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1727. -- DDC 891.
 > This consciousness intensified his physical suffering tenfold. -p. -q
 > Chapter 11lisa asks if his sickness is their fault. -ivan takes communion. -p. -s
 > Chapter 12 -p. -s
+
 Deep Forest (Musical group). -- Boheme. -- Computer data. -- S.l: Columbia, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Deep Forest (Musical group). -- Made in Japan. -- Computer data. -- New York, NY: Epic/550 Music, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
@@ -1887,18 +1889,27 @@ Delta College. Library. -- Outline of the Library of Congress Classification sys
 
 Delta College. Library. -- Publication Manual of the American PsychologicalAssociation (APA) for Citing Resources in Print Form. -- Computer data (1 file : 55 kb). -- [University Center, Mich. : Delta College, 2006]. -- Title from resource. -- File name: (1366.doc). -- DBID 1366 -- DDC 808.
 
+### Dennen2001
+Dennen, W.H -- The rocks of Cape Ann. -- [S.n., 2001]. -- 32 p. -- DDC 552.1
+> Rocks may appear to be permanent features of the landscape but over time are changed from one kind to another. -p. 5 -q
+> Geologists divide the many kinds of rocks into three great groupings, igneous, sedimentary and metamorphic. -p. 6 -q
+> A deep-seated igneous rock called granite makes up most of hte bedrock of Cape Ann... -p. 6 -q
+> The particular isotopes that have found the widest application are those of uranium which decays to lead and helium... p. 8 -q
+> iron oxide (rust). p. 10 -f
+> Glaciers are born when yearly snowfall exceeds its melting, annual accumulation builds... -p. 13
+> Temperature rises about 35 degrees Fahrenheit per mile as you travel downward [through the earth]... -p. 23 -q
+> The plates move at about the rate that your fingernails grow, an inch or so a year. -p. 28 -q
 
 Department of Defense. Chief Information Officer. -- Cloud computing strategy. -- Computer data (1 file : 1.6 mb) -- [Washington, D.C. : Dept. of Defense], 2012. -- Title from cover. -- File name: (3000.pdf) -- DBID 3100. 1.004.6
 
 > Abraham Lincoln, Vampire Hunter, by Seth Grahame-Smith. It is a work of fiction, and takes place in the United States in the 18th century. The main characters include Abraham Lincoln, and Henry Sturges.  The story begins with a shopkeeper, Seth Grahame-Smith, who is given a 'secret' diary written by Abraham Lincoln detailing his vampire hunting. The main events of the story include Lincoln's mother's death (who does from the hands of a vampire), his meeting Henry (who saves him after a vampire hunt goes very wrong), his entry into politics (and subsequent surprise that Washington seems teeming with vampires and the friends of vampires), and the civil war. The story ends with Lincolns' death; and Henry in 1963 meeting Martin Luther King Jr.  I would recommend this book to fans of alternative fiction and fantasy.  -p.  -b
+
 Parliament of World's Religions. Editorial Committee. -- Declaration toward a global ethic. -- Computer data (1 file) PWR, 1993. -- Mode of Access: World Wide Web (http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf). -- Title from p -- DDC -- DDC 170.
 > Irrevocable directives 1) a commitment to a culture of nonviolence and respect for life; 2) a commitment to a culture of solidarity and a just economic order; 3) a commitment to a culture of tolerance and a life of truthfulness; and 4) a commitment to a culture of equal rights and partnership between men and women. -f
-
 
 Diack, Michael. -- The light and the glass. -- Computer data (1 file). -- M. D., c2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00GQZD1JA. -- DDC 813.
 
 Diamond, Neil. -- His 12 Greatest Hits. -- Computer data. -- Universal City, Calif: MCA Records, 1985. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
-
 
 Diamond, Neil. -- 12 Songs / [by] Neil Diamond and David Campbell. -- Computer data. -- New York, NY: Columbia, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
@@ -1933,8 +1944,8 @@ Diamond, Jared. -- The world until yesterday. -- Penguin Books, c2012. -- xi, 49
 > ... to laypeople 'salt' means sodium chloride. -p. 415 -q
 > ... Brazil's Yanomamo Indians, whose staple food is low-sodium bananas. -p. 416 -q
 > Those changes include: not smoking; exercising regularly; limiting our intake of total calories, alcohol, salt and salty foods, sugar and sugared soft drinks, saturated and trans fats, processed foods, buttter, cream, and red meat; and increasing our intake of fiber, fruits and vegetables, calcium, and cmplex carbohydrates. Another simple change is to eat more slowly... italians are slim... because they linger talking over their  meals. -p. 451 -q 
-Adiemus. -- Adiemus: Songs of Sanctuary. -- Computer data. -- New York?: Virgin Records, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
+Adiemus. -- Adiemus: Songs of Sanctuary. -- Computer data. -- New York?: Virgin Records, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Dickens, Charles. -- The old curiosity shop. -- London : Penguin Books, 2000. -- xxxi, 575 p. -- ISBN 0140437428. -- DBID 3148 -- DDC 823.
 > Little Nell, 19th c., F. An orphan who works in her grandfathers curiosity shop. -p. -s
@@ -1945,9 +1956,11 @@ Dickens, Charles. -- The old curiosity shop. -- London : Penguin Books, 2000. --
 > Ch. 6: Ness delivers Mr. Quilp a message, then he takes Ness home and gets Mrs. Quilp to fish for information on Quilps grandfather. -p. -s
 > Ch. 8: Richard Swiveller goes to a dance but it goes horribly wrong, and reconsiders the possibility of marrying Nelly. -p. -s
 > I came here... with my bosom expanded, my heart dilated, and my sentiments of a corresponding description. I go away with feelings that my be conceived but cannot be described, feeling within myself the desolating truth that my best affections have been experienced this night a stffler! -Richard -p. 75 -q
+
 Dicksion, William Wayne. -- Sagebrush. -- Computer data. -- W.D., c2008. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00FVCV7K4. -- DDC 813.
 
 Dinerstein, Eric -- The kingdom of rarities. -- Computer data (1 file : 3848 KB). -- Island Press, 2013. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00B2IRHKA. -- DDC 574.
+
 Dion, Celine. -- A New Day Has Come. -- Computer data. -- New York, NY: Epic, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
 Dion, Celine. -- All the Way . . a Decade of Song. -- Computer data. -- New York: Sony Music Entertainment, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
@@ -1965,13 +1978,11 @@ Dockins, Brian. -- Betrayal of Magic / Brian Dockins (Author); Onaje Beal (Illus
 > Ch. 04: Cadan runs away, hitchhikes to New York City, and get's captured by monsters in the alley.
 > Monsters were indeed alive and roaming the earth. -q
 
-
 Dodd, Sue. -- Cataloging machine-readable data files / Sue A. Dodd. -- Chicago : American Library Association, 1982. -- xix, 247 p. -- ISBN 0838903657 -- DDC 025.3.
 
-
 Domville-Fife, Charles W. -- Among the wild tribes of the Amazon. -- DBID 3211. -- DDC 306.
-Dorsey, Brian. -- Gateway. -- 2nd ed. -- Computer data (1 file). -- Mountaineer West Productions, 2016. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B01KXUWFDG. -- DDC 813.
 
+Dorsey, Brian. -- Gateway. -- 2nd ed. -- Computer data (1 file). -- Mountaineer West Productions, 2016. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B01KXUWFDG. -- DDC 813.
 
 Dotson, Rex. -- [eMail, 2013 Jan. 10, Mich. to Justin Lee Tyler, Ipswich, Mass. / Rex Dotson]. -- on 1 external hard drive. -- System requirements: USB drive, txt file reader. -- Title supplied by cataloger. -- File name: 3246.txt. -- DDC 090.
 
@@ -1981,12 +1992,9 @@ Dowd, Thomas B. III. -- The transformation of a doubting Thomas. -- Computer dat
 
 Dragon, Debbie, -- The organized year. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader -- Title from p -- DDC -- File name: 3237.pdf. -- IN Wise Bread. -- (Jan. 3, 2013). -- DDC 650.
 
-
 Drake, Miriam A. -- Academic library challenges. -- Computer data (1 file : 2.75 mb) -- Title from resource. -- File name: (9078.pdf). -- DBID 9078. -- IN Academic Libraries. -- Vol. 18, no. 9 (Nov. 2010) -- DDC 027.
 
-
 Driscoll, Sally. -- [Hiking.] -- Computer data (1 file : 1.6 mb) -- Title from p -- DDC -- File name: (10123.pdf) -- DBID 10123. -- IN Hobby Profile. -- [United States?] : Great Neck Publishing, 2007 -- DDC 796.51.
-
 
 Dube, Ryan. -- Be the king of the world with Imperia Online. -- Computer file (1 file : 15 kb). -- Title from resource. -- File name: (3005.txt). -- DBID 3005 -- IN MakeUseOf.com. -- (May 4, 2012) -- DDC 794.8
 
@@ -2020,8 +2028,8 @@ Ducie, Joe. -- Distant star. -- Computer data (1 file). -- Cedar Sky Publishing,
 > I wept. My irrelevance was infinite. -q
 > I may have been less than an insignificant speck on the face of an immense and cold universe, but I still found meaning... I mattered to me. -q
 > Don't touch me — you'll create a paradox that'll destroy the universe. -q
-Dudley, Anne. -- The 10th kingdom / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.] -- Computer data. -- New York: Hallmark Entertainment, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
+Dudley, Anne. -- The 10th kingdom / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.] -- Computer data. -- New York: Hallmark Entertainment, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
 Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file : 1.4 mb). -- Title from resource. -- File name: (10065.pdf). -- DBID 10065. -- ISSN 0318-6954. -- IN Archicaria. -- No. 58 (Aug. 1, 2004) -- DDC 027.
 
@@ -2033,7 +2041,6 @@ E
 ---
 
 Edberg, Henrik. -- 42 ways to make life simpler. -- Computer data (1 file : 9 kb) -- Title from resource. -- File name: (10156.txt) -- DBID 10156. -- IN The Positivity Blog. -- (Feb. 24, 2011) -- DDC 646.7.
-
 
 Edgar, Neal L. -- What every librarian should know about proposed changes in cataloging rules. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3331.pdf. -- IN American Libraries. -- (Nov. 1975). -- DDC 025.3
 
