@@ -43,6 +43,8 @@ Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Th
 
 Tyler, Justin Lee. -- [2007 taxes]. -- Computer data. -- 2007. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3219. -- DBID 3219. -- DDC 091.
 
+Tyler, Justin Lee. -- [2008 taxes]. -- Computer data. -- 2008. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3220. -- DBID 3220. -- DDC 091.
+
 
 Tyler, Justin Lee. -- [2009 taxes]. -- Computer data. -- 2009. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3221. -- DBID 3221. -- DDC 091.
 
@@ -5836,8 +5838,6 @@ Snyder, Timothy -- On Tyranny. -- Tim Duggan Books, c2017. -- 126 p. -- Contents
  Snyder, Craig. -- Emulating & playing classic NES games on your computer with Nestopia. -- Computer file. -- on 1 external hard drive. -- Title from resource. -- File name: (3006.txt). -- DBID 3006. -- IN MakeUseOf.com. -- (May 4, 2012) -- DDC 794.8
 
 SOLARLINKFR370 owners manual. -- Computer data. -- [S.l.] : Eton, [n.d.] -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- File name: 3211.pdf. -- DBID 3211. -- DDC 537.
-Space shuttle disaster / WGBH Educational Foundation ; Yellow River Productions ; a production of WGBH, Boston ;  produced by Frank Eskenazi ; written and directed by Gilles Cayatte. -- Computer data (6 files : 320 mb). -- [Boston] : WGBH Boston Video, c2009. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /3226 . -- DBID 3226. -- DDC 629.
-
 
 Spackman, Andy. -- Our conservative ideals. -- Computer data (1 file : 107 kb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10105.pdf). -- DBID 10105. -- IN American Libraries. -- (May 31, 2011) -- DDC 020
 
@@ -6319,15 +6319,7 @@ Tyler, Justin Lee. -- [Photograph of Shawn]. -- Computer data. -- [2012]. -- on 
 
 Tyler, Justin Lee. -- [Photograph of Shawn near a railroad crossing sign]. -- Computer data. -- [2012]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File name: 3255.jpg. -- DDC 779.
 
-
-Tyler, Justin Lee. Photographs of Amesbury Massachussets, including of Pow-Pow Hill. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- File directory: 3324. -- DBID 3324. -- DDC 779.
-
-
 Tyler, Justin Lee. -- [Photographs of Burlington and Shelborne, Vermont]. -- Computer data. -- [2014]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File directory: 3321. -- DBID 3321. -- DDC 799.
-
-
-Tyler, Justin Lee. -- [Photographs of Portsmouth, N.H.] -- Computer files. -- 2013 June 22. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- File folder name: 3342. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3342). -- DDC 779.
-
 
 Tyler, Justin Lee. -- [Photographs taken around the Blue Hills, Ipswich, Massachusetts]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3326. -- DDC 779.
 
@@ -6381,20 +6373,10 @@ Tyler, Justin Lee. -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.)
 
 Tyler, Justin Lee. -- [Photographs and videos of Justin on Mt. Osceola on Aug. 10, 2013]. -- Computer data. -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive, MP4 and JPG file reader. -- Title supplied by cataloguer. -- File directory: 3289. -- DBID 3289. -- DDC 917.42.
 
-Tyler, Justin Lee. -- [Photographs of Chicago]. -- Computer data (126 files : 36.1 mb). -- Mar., 2011. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- File directory: 3223. -- DBID 3223. -- DDC 779.
-
-
-Tyler, Justin Lee. -- [Photographs of the Flume Gorge (Lincoln, N.H.), May 7, 2013]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3291.
-
-
 Tyler, Justin Lee. -- [Photographs of the George and Cherie Thompson estate]. -- Computer data (26 files : 8.79 mb. -- [2010]. -- on 1 external hard drive. -- System requrements: JPG file reader. -- Title supplied by cataloger. -- File directory: /3228 . -- DBID 3228. -- DDC 779.
 
 
 Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- Computer data (2 files) -- [200-?]-- on 1 external hard drive. -- Title supplied by cataloger. -- DBID 8825 -- DDC 779.
-
-
-Tyler, Justin Lee. -- [Photographs of Salem State Forest]. -- Computer data (1 directory). -- 2013 APR. -- System requirements: USB drive; JPG file reader. -- Directory name: 3265. -- DBID 3265a. -- DDC 779.
-
 
 Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- Computer data (11 files : 348 mb) -- 2012 Oct. 20. -- on 1 external hard drive. -- System requirements: .mp4 file reader. -- Title supplied by cataloger. -- File name: 3215. -- DBID 3215. -- DDC 384.55.
 
@@ -6474,8 +6456,6 @@ Vance, J.D. -- Hillbilly elegy. -- Computer data (1 file). -- Harper, 2016 -- DD
 > whether he can access a church that teaches him lessons of Christian love, family, and purpose; -location 3392
 
 Vangelis. -- Odyssey: The Definitive Collection / [by] Vangelis and Jon Anderson. -- Computer data. -- Santa Monica, CA: Hip-O, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
-
-Vicious [TV show]. -- Computer data (1 directory). -- [BBC, 201-]? -- System requirements: MP4 file reader, USB drive. -- Directory name: 3350. -- LJLT 3350. -- DDC 791.45
 
 Tyler, Justin Lee. -- [Video of Mt. Wolf summit]. -- Computer data (1 file : 14 MB). -- July 21, 2012. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger.-- File name: 3268.mp4 -- DDC 917.42.
 
