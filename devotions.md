@@ -1,9 +1,8 @@
 # DAILY OFFICE
-[[UU daily devotions](#UU-Daily-Devotions) --
+[UU daily devotions](#UU-Daily-Devotions) --
 [GCC deaconate practices](#GCC) --
 
 ## UU-Daily-Devotions
-
 ¶ This chalice burns for those who affirm and promote [principle]. 
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
 
@@ -53,7 +52,6 @@ Eternal Spirit, whom we call God, you are our life. You are the best and most be
 Live simply, expect little, give much. Fill your life with love, scatter sunshine. Forget self. Think of others, and do as you would be done by. 
 
 ## GCC
-
 ¶ **Tend the altar**, then say the Druids Prayer:
 
 Grant, O father, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN.
