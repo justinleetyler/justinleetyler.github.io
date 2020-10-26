@@ -2,7 +2,7 @@
 [[UU daily devotions](#UU-Daily-Devotions) --
 [GCC deaconate practices](#GCC) --
 
-# UU-Daily-Devotions
+## UU-Daily-Devotions
 
 ¶ This chalice burns for those who affirm and promote [principle]. 
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
@@ -52,7 +52,7 @@ Eternal Spirit, whom we call God, you are our life. You are the best and most be
 
 Live simply, expect little, give much. Fill your life with love, scatter sunshine. Forget self. Think of others, and do as you would be done by. 
 
-# GCC
+## GCC
 
 ¶ **Tend the altar**, then say the Druids Prayer:
 
@@ -61,6 +61,8 @@ Grant, O father, thy protection; And in protection, strength; And in strength, u
 ¶ [Evening Lection](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm) 
 
 The lection for this ceremony is from *name of book or other source).
-> At this point tread the text aloud in a quiet voice. It should be read slowly. When this is done, pause and theyn say:
+> At this point tread the text aloud in a quiet voice. It should be read slowly. When this is done, pause and then say:
+
 May the holy powers enlighten my mind.
+
 > Set the text aside, and enter into discursive meditation for at least five minutes.
