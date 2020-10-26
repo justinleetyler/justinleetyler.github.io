@@ -1,6 +1,6 @@
 # DAILY OFFICE
-[UU daily devotions](#UU-Daily-Devotions) --
-[GCC deaconate practices](#GCC) --
+[UU daily devotions](#uu-daily-devotions) --
+[GCC deaconate practices](#gcc) --
 
 ## UU-Daily-Devotions
 ¶ This chalice burns for those who affirm and promote [principle]. 
