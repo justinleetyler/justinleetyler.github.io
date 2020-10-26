@@ -1,18 +1,8 @@
 # DAILY OFFICE
+[[UU daily devotions](#UU-Daily-Devotions) --
+[GCC deaconate practices](#GCC) --
 
-|hour                          | chore     |
-|------------------------------|-----------|
-|5:30 Divine spark...          | Make Bed  |
-|6:30 Love is the spirit...    | Shower    |
-|   7 We affirm and promote... | egg       |
-|   9 We affirm and promote... | Slimfast  |
-|  11 We affirm and promote... | Slimfast  |
-|   2 We affirm and promote... | Apple     |
-|   4 From all that dwell...   | Dinner    |
-|   6 Our father...            | Chores    |
-|   8 This chalice             | bedtime   |
-
-# Daily Devotions
+# UU-Daily-Devotions
 
 ¶ This chalice burns for those who affirm and promote [principle]. 
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
@@ -51,10 +41,6 @@ Seek the truth, and serve humanity
 ¶ Prayers may be offered for ourselves and others.
   
 ¶ The Lords Prayer
-
-Grant, O father, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN.
-
-   -or-
    
 Our Father, who art in heaven, hallowed be thy Name, thy kingdom come, thy will be done, on earth as it is in heaven. Give us this day our daily bread. And forgive us our trespasses, as we forgive those who trespass against us. And lead us not into temptation, but deliver us from evil. For thine is the kingdom, the power, and the glory, now and forever. AMEN.
 
@@ -64,4 +50,17 @@ Eternal Spirit, whom we call God, you are our life. You are the best and most be
 
 ¶ The Benediction
 
-Live simply, expect little, give much. Fill your life with love, scatter  sunshine. Forget self. Think of others, and do as you would be done by. 
+Live simply, expect little, give much. Fill your life with love, scatter sunshine. Forget self. Think of others, and do as you would be done by. 
+
+# GCC
+
+¶ **Tend the altar**, then say the Druids Prayer:
+
+Grant, O father, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN.
+
+¶ [Evening Lection](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm) 
+
+The lection for this ceremony is from *name of book or other source).
+> At this point tread the text aloud in a quiet voice. It should be read slowly. When this is done, pause and theyn say:
+May the holy powers enlighten my mind.
+> Set the text aside, and enter into discursive meditation for at least five minutes.
