@@ -2,7 +2,7 @@
 
 ¶ Tend the altar, and light the chalice using these words: 
 
-Grant, O father, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN. 
+Grant, O holy ones, thy protection; And in protection, strength; And in strength, understanding; And in understanding, knowledge; And in knowledge, the knowledge of justice; And in the knowledge of justice, the love of it; And in that love, the love of all existences; And in the love of all existences, the love of Earth our mother and all goodness. AWEN. 
 
    -or-
 
