@@ -2,7 +2,6 @@ Justin Lee Tyler, MLIS
 ===
 
 ## Currently Reading
->![Five Justices / John Paul Stevens.](https://m.media-amazon.com/images/I/41cbUsBOMNL._SY346_.jpg)
 
 ---
 
