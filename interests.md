@@ -14,10 +14,11 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
 |2020-10 | D | 23 [The rocks of Cape Ann](https://justinleetyler.github.io/catalog#dennen2001) / W.H. Dennen.| 552 | |
 |2020-09 | D | 22 [A natural history of Boston's North Shore](https://justinleetyler.github.io/catalog#lindborg2007) / Kristina Lindborg. | 508| |
 |2020-08 | D | 21 [The Last 8](https://justinleetyler.github.io/catalog#pohl2019) / Laura Pohl | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
-|2020-08 | C |20 [The Last Emperox](https://justinleetyler.github.io/catalog#scalzi2020) / John Scalzi | 813 | |
+|2020-08 | C | 20 [The Last Emperox](https://justinleetyler.github.io/catalog#scalzi2020) / John Scalzi | 813 | |
 |2020-08 | C | [Strange rites](https://justinleetyler.github.io/catalog#burton2020) / Tara Burton | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
 |2020-07 | D | [The fall of moondust](https://justinleetyler.github.io/catalog#clarke1951) / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
 |2020-07 | C | [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
