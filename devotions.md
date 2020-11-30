@@ -6,7 +6,7 @@ This chalice burns for those who affirm and promote [principle]. May we tend thi
 
 >Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
 
-¶ [A reading](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)   
+¶ A reading [365 Tao](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm) - [Nature Watch](http://www.justinleetyler.com/nature_watch)  
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
 
 ¶ A period of silece or reflection may follow.
