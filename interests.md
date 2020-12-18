@@ -10,6 +10,8 @@ Star gazing log
 
 ### Currently Reading
 
+[Republic of Fear](https://justinleetyler.com/library/Makiya1998.txt)
+
 ### Reading log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
