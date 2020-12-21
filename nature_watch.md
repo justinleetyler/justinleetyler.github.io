@@ -1,5 +1,8 @@
 # Nature Watch
 
+## 12/22
+Out in the backyard, deep in the cold mud below the frost line, a starnosed mole goes about its business, tunneling after worms adnd slugs 20 inches below the surface. The 6-inch-long bundle of fur aquired its name from the fan of 22 pink tentacle-like projections radiating from its snout.
+
 ## 12/21
 The Winter Solstice. Our shortest day. Only nine hours of daylight.
 
