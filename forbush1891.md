@@ -27,7 +27,7 @@ Fifth Sunday
 
 Evening
 
-Christmas
+[Christmas](#Christmas)
 
 Easter
 
@@ -797,135 +797,64 @@ the light of that heavenly day whose sun goeth no more
 down forever. Amen.
 ```
 
-## CHRISTMAS. 31
+## CHRISTMAS
 
-## ALL STANDING.
+### ALL STANDING
 
-Eg M J Jj -t— 1 M J. J'l J. Jl J~J- 1
+Joy to the word! The Lord is come: Let earch receice her King; Let every heart prepare him room, And heaven and nature sing - And heaven and nature sing, And heaven and heaven and nature sing. 
 
-```
-Joy to thi
-f" f-'f
-```
-```
-i world! t ie Lord is come: Let earth re-ceive her King;.
--i J- h-- »i 'In
-"idr-f-j—M-^J— —"—f- —M-
-K IN
-```
-• * a 1 —•^ J""^ 1 1 —F R FT —c (^1) st-
-1-i
-Le t e
-1
-v' - ry heart e - p are=him Proom, 1 | 1 And heav'nP andna - tu ire
-
-- 1 • e±3
-    And
--fe- K It h B^1 Sr=sl=f 1 , —H
-: ft
-Sillg, — And Ileav'nandna-tur s si
-•pifl
-
-```
-ig, — And heav'n, andheav'nand na-ture sing.
-```
-```
-ELJLtOL-IULJ ^L^^U |J
-```
-```
-x m. f
-rf —^
-heav'nand na-ture sing, And heav'nand na-turesing,
-```
-```
-RESPONSIVE READING.
-^LORY to God in the highest,
-Andon earth peace,good-willto men.
-```
-```
-Through the tendermercy of our God,
-A dayspring from on high hath visitedus,
-```
-
-## BOOK OF WORSHIP.
-
+### RESPONSIVE READING
+Glory to God in the highest,
+And on earth peace, good-will to men
+Through the tender mercy of our God,
+A dayspring from on high hath visit us,
 Giving light to them that sit in darkness,
-Andguiding ourfeet in the way of peace.
-
+And guiding our feet in the way of peace.
 How beautiful upon the mountains
-Are the feet of him thatbringethgoodtidings.
-
-```
+Are the feet of him that bringeth good tidings.
 That publisheth peace,
-Thatproclaimethgladtidingsof salvation.
-```
-He shall not strive, norcry,
-Norcausehis voice to be heard in the street.
-
-```
+That proclaimeth glad tidings of salvation.
+He shall not strive, nor cry,
+Nor cause his voice to be heard in the street.
 A bruised reed shall he not break,
-Andthe smoking flax shallhe not quench.
-```
-```
+And the smoking flax shallhe not quench.
 The spirit of the Lord shall rest upon him;
 The spirit of wisdom and understanding,
-```
-```
-The spiritof counsel and might,
-The spiritof knowledge and of the fear of the Lord;
-```
-```
+The spirit of counsel and might,
+The spirit of knowledge and of the fear of the Lord;
 Anointing him to preach good tidings to the poor;
 To bind up the broken-hearted ;
-```
-```
 To comfort them that mourn;
 To proclaim liberty to the captives ;
-```
-```
 The opening of the prisons to them that are bound;
-To announce the acceptable yearof the Lord.
-```
+To announce the acceptable year of the Lord.
 In him was life,
-Andthe life wasthe light of men.
-
-
-## CHRISTMAS. 33
-
-```
+And the life was the light of men.
 He was tempted like as we are,
-Andno fault wasfound in him.
+And no fault was found in him.
 He went about doing good;
 Proclaiming everywhere, The kingdom of God is at hand.
 Glory be to God in the highest,
-And on earth peace, good-willto men.
-```
-```
-ALL.
-^~^UR FATHER who art in heaven, hallowed be thy
-name. Thy kingdom come. Thy will be done on
-earth as it is in heaven. Give us this day ourdaily bread.
+And on earth peace, good-will to men.
+
+### ALL.
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on 
+earth as it is in heaven. Give us this day our daily bread. 
 Forgive us our trespasses as we forgive them that trespass
 against us. Lead us not into temptation; but deliver us
 from evil. For thine is the kingdom, and the power, and
 the glory, forever and ever. Amen.
-```
-```
-Glorybe to the Father who is in heaven, The High and Ho - ly One.
-```
-(^9) r=^n <g J g— I I £ =FI g p Ep a I a» t-I
-=8= -» — 1 —z?^13
-As it was in the beginning, is now, and ev - er shall be, World with - out end, A - men.
-—r
-/ter*#/<y Jaws'a Hymn.
 
+Glory be to the Father who is in heaven, The High and Holy One.
+As it was in the beginning, is now, and ever shall be, World without end, Amen.
 
-## 34 BOOK OF WORSHIP.
+Here maybe sung a Hymn.
 
-## PRAYER.
-
+### PRAYER.
 For a Lay Service.
-/V LMIGHTY GOD, our heavenly Father, from whom
+
+ALMIGHTY GOD, our heavenly Father, from whom
 cometh every good and perfect gift, we give thee
 hearty thanks for all thy mercies; but we would especially
 remember,at this Christmas time, that divine soul whose
