@@ -6536,3 +6536,10 @@ Waal, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- 289 p. 
 ### white1960
 White, Laurence B. -- Life in the shifting dunes / by Laurence B. White, Jr.; Illustrated by Henry B. Kane. -- Museum of Science, Boston, c1960. -- ix, 85 p. -- DDC 574.
 > In the beginningm, our dune dweller must be born, a difficult enough task without interferance from unkind surroundings; it must feed itself, here in a n erea where meals would certainly seem at a premium; it must grow, oftentimes shedding its skin in the process; it must live not only in the summer's heat but, if its life span is that long, in the winter's cold; it must endure long periods of drought, flood, wind, and storm; and most important of all, it must survive long enough to reporduce its kind, or else it has missed its goal. - p. 6. -q
+> Dragonflies, ladybugs, and bats feed on misquitos
+> Earwigs don't bite w/ their pinchers
+> Buring Beatles
+> only female misquitos bite
+> chipmonks nest underground
+> Fox's eat mice
+> weasals kill for the fun of it
