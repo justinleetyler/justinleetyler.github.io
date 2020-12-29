@@ -538,6 +538,7 @@ Blunt, James. -- Back to Bedlam. -- Computer data. -- West Hollywood, Calif.: Cu
 Book of common prayer according to the use of King's Chapel. -- Computer data. -- [S.n.], 1918. -- on 1 external hard drive. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 360.pdf. -- DDC 289.1.
 
 The Book of Common Prayer and administration of the sacraments and other rites and ceremonies of the church, together with the Psalter or Psalms of David : according to the use of The Episcopal Church. -- Computer data (1 file). -- Church Publishing, [2007?] -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- Title from title page. -- Filename: 3362. -- DDC 264.
+
 Book Collection: Nonfiction. -- Computer data. -- [S.l.] : Ebsco Industries, Inc., c2012- -- Title supplied by cataloger. -- Mode of Access: World Wide Web ( http://search.ebscohost.com/login.aspx?authtype=ip,cpid&custid=mip&group=main ). -- Restricted to patrons of Ipswich Public Library. -- DBID 3018.
 
 Bosgoed, Reed. -- The purging. -- Computer data (1 file). -- R. B., 2013. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page.  ASIN B00DQCP1J4. -- DDC 813.
@@ -565,38 +566,38 @@ Bova, Ben. -- Mars. -- Batam Books, c1992. -- 549 p. -- ISBN 055356241X. -- DDC 
 > Meditation is the key to understanding, the bridge to the great cosmic all. -q
 > Jamie sat alone at the table, staring at his damaged helmet, wondering why human beings had to inflict pain on one another to gain respect. -q
 
+### bowden2020
+Bowden, William. -- Port State. -- [S.l.], c2020. -- Title from amazon.com desc. Dec. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B08NRLBBH1). -- AISN: B08NRLBBH1. -- DDC 813.
+> NOTE: summaries are in reverse order. -- The uk stared firing missles at the cynet. -s -- The cygent takes off. -s -- The ship travels from one parallel universe to another. -f -- Mr. Day gives a book and says to disceminate. -s -- Minal and jakes spend the night in Cygent. -s -- “Can’t be bothered with all the academia bullshit,” says Minal. “Corporate bullshit’s worse. Port State Control pays well. It’s a good life.” -q -- Mr. Day announces tgat he wants a trade deal. -s
+
 Bradford, William. -- Bradford's history 'Of Plimoth plantation' / Printed under the direction of the Secretary of the Commonwealth, by order of the General Court. -- Computer data (1 file : 689 kb). -- Boston : Wright and Potter, 1898. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3022 -- DDC 974.4
 
-
-Braun, Evan. -- The book of creation. -- Computer data (1 file : 617 KB). -- E. Braun and C. Byars, c2011. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B006O9OJ6M. -- DDC 813.
-
-
+### braun2011
+Braun, Evan. -- The book of creation / by Evan Braun and Clint Byars. -- [S.n.], c2011. -- Title from title page viewed Dec. 5, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B006O9OJ6M). -- AISN: B006O9OJ6M. -- DDC 813.
+> The only word I can use is heavy. I’ve been feeling heavy all day... -q
+> they’ve lost perspective on what we’re here to do in the first place. Which is to find out where we come from, learn about the past, and share it with the world. -q
+> The cognitive dissonance was enough to make a man’s head explode. -q
+> Ira sighed. There were some things hardly worth explaining. -q
+> Typical religious doublespeak, -q
+> He wanted to close his eyes, to shut out the struggle, but he could not look away. -q
+> All he could do was present the information; what Wörtlich did with it was his own choice. -q
 
 Brinkbaumer, Klaus. -- The voyage of the Vizcaína  / [by] Klaus Brinkbäumer and Clemens Höges ; translated from the German by Annette Streck. -- Harcourt, c2006. -- 328 p. -- ISBN 0151011869. -- DDC 970.
-
 > Is. conveniens a commission -- "Columbus probably did not help his case. He is known to have been a terrible diplomat, both obstinate and dogmatic, and very likely he told the experts exactly what he tought of their calculations." -p. 6 -- C. received a stipend while waiting for a decision -- C. began an affair with Beatriz de Arana, giving birith to Fernando. -- Never married -- [88] perceptions -- Varela/Gil house/archives -- 90 Archivo General de Indias --  "The Spaniards were fanatics when it came to beureaucracy. Anything undertaken by one of His or Her Majesty's subjects had to be recorded, copied out, countersigned, and filed away. -- C.'s writings at archives -- "In her [Varela] view, Columbus was a liar and so mistrustful of others because he assumed they were as untruthful as he... He didn't need other people" -p. 91-2 -- 92 Columbus as an Egoist -- "He [Columbus] ignored everything ut his goal, yet that single-mindedness was he needed to suceed." -- "He [Columbus] was inconsiderate and ruthless" -- "... Columbus's intense egoism stemmed from an unwavering belief that he was a tool of fate... he was certain that he of all men had been chosen to bear the one faith across the seas to new lands." -- 93 Dulmo/Estreito set sail west -- Dias around Cape of Good hope -- 94 C. anxious -- The Biblioteca Colombus at Saville's catheral -- 95 arguements against doubts of the commission -- arguements in support -- 96 C. and I affair -o
 > At the time of their 'discovery,' the 'Indians' had no name by which they referred to themselves. Later they were called the Tainos, a term for Indians who spoke Arawak. The Tainos from the Bahamas Were called he Lucayas. Mainly fishermen and gatherers, and perhaps the most most peace-loving people living on the entire continent. there would probably have beenabout fifty thousand of them, living in villages consisting of ten to twelve huts. -p. 119 -q
 > Christopher Columbus could be both remarkably cover and astonishingly dense. He was driven hard by hopes and dreams and yet unable to leet go of his misprisions and unwilling to correct his mistakes. The combination led him to make grotesquely bad decisions. -p. 285 -q
 > Unlike his father, he [Diego] never spoke openly of his goals. -p. 287 -q
 > Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -qBritannica concise encyclopedia. -- Encyclopaedia Britannica, c2002. -- xi, 2067 p. -- ISBN 0852298323. -- DDC 031.
 
-
 Brazier, Caroline. -- Cataloguing policy and practice  - 2007 and beyond: a view from the British Library. -- Computer data (1 file : 5.8 mb) -- [S.l., s.n.], 2007. -- Title from slide 1. -- File name: (1399.ppt) -- DBID 1399 -- DDC 025.3
 
 Breines, Juliana G. -- Self-compassion increases self-improvement motivation / Juliana G. Breines; Serena Chen. -- Computer data (1 file). -- Title from sagepub.com. -- IN Personality and social psychology bulletin. -- Vol. 38, no. 10 (Oct. 2012). -- DDC 152
 
-
-
 Brenndorfer, Thomas. -- RDA in 10 easy steps (for cataloging a book). -- Computer data (1 file : 6.51 kb) -- [S.l. : T. Brenndorfer, 2012?] -- Title from resource. -- File name: (10179.txt). -- DBID 10179 -- DDC 025.3.
-
-
-
 
 Brickman, Jim. -- Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al]. -- Computer data. -- New York, N.Y: Windham Hill, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
-
 Brickman, Jim. -- Love Songs & Lullabies. -- Computer data. -- New York, N.Y: Windham Hill, 2001. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
-
 
 Brickman, Jim. -- Missing Moments. -- Computer data. -- S.l.: Renegade Entertainment, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
@@ -604,9 +605,7 @@ Brickman, Jim. -- My romance. -- Computer data. -- Stanford, CA : Windham Hill, 
 
 Brickman, Jim. -- Peace / [by] Jim Brickman, Anne Cochran, Tracy S. Silverman, ... [et al]. -- Computer data. -- New York: Arista, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-
 Brickman, Jim. -- Picture This. -- Computer data. -- Beverly Hills, Calif: Windham Hill Records, 1997. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
-
 
 Brickman, Jim. -- Simple Things. -- Computer data. -- New York, N.Y: Windham Hill, 2001. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
@@ -1884,6 +1883,21 @@ Death of Ivan Ilych. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1727. -- DDC 891.
 Deep Forest (Musical group). -- Boheme. -- Computer data. -- S.l: Columbia, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Deep Forest (Musical group). -- Made in Japan. -- Computer data. -- New York, NY: Epic/550 Music, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
+
+###delancy2014
+DeLancy, Craig. -- Well of Furies. -- 10th ed. -- Perfect Number, 2014. -- Title from amazon.com desc. Dec. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B00AR7GLZO). -- AISN: B00AR7GLZO. -- DDC 813.
+> This was the Sussurat expression for you are being such an idiot that I must spare you the shame of looking at you with all four eyes. -q
+> Gowgoroup: a Slug -f
+> Of the four colony beings in the Galactic Alliance, the Zitherit and seQua were methane breathers, and the Graptolink and !Cla were ocean organisms. -q
+> That’s what anarchist democracy meant, the Alliance constantly reminded newcomers: you had to take responsibility yourself. Governance existed only inside each citizen. No more shirking. -q
+> The best thing to do when facing a terrible task was to get on with it. -q
+> Something ate at her soul, hour after hour. -q
+> 4 the land on dak-ull. -s
+> Sussurat. Few words, the right words. -q
+> 5 they find pala, but she cannot plot the planets. So they must finf a book with the raw dafta in the library of the tides. -s
+> 11 brias dead. -s
+> bria's daughter Treuntilliasussarius -f
+> Theyre going to the wondering double-world system to find the ultrans. -s
 
 Delsey, Tom. -- RDA database implementation scenarios. -- Computer Data (1 file : 55 kb) -- [S.l. : s.n.], 2007. -- File name: (2007.pdf). -- DBID 6569 -- DDC 025.3.
 

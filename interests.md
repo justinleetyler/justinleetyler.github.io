@@ -16,6 +16,8 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2020-12 | C | 27 [Well of Furies](https://justinleetyler.github.io/catalog#delancey2014) / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
+|2020-12 | D | 26 [Port State](https://justinleetyler.github.io/catalog#bowden2020) / William Bowden. | 823 | A spacecraft docks in Bristol. |
 |2020-10 | D | 25 [The book of creation](https://justinleetyler.github.io/catalog#braun2011) / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
 |2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
 |2020-10 | D | 23 [The rocks of Cape Ann](https://justinleetyler.github.io/catalog#dennen2001) / W.H. Dennen.| 552 | |
