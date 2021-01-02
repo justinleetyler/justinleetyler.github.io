@@ -1,1 +1,0 @@
-![cover](https://www.worldcat.org/title/evermind/oclc/327655225&referer=brief_results) Amethystium (Musicial group). -- Evermind. -- Computer data. -- Ft. Lauderdale, FL: Neurodisc Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
