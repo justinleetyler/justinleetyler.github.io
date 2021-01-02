@@ -33,7 +33,7 @@ To serve human need. To the end that all souls shall grow into harmony with the 
 Thus do we covenant with each other and with God.
 (James Vila Blake)   
   -or-   
-Seek the truth, and serve humanity
+Druidry is a path of nature-based spirituality. To druids, nature is both our sacred text and our sanctuary. While the druid tradition is diverse, it can trace its roots back to the druid revival some 350 years ago with inspiration in much more ancient sources. Today's druid tradition focuses on three tracks: the bardic arts, where we channel the flow of awen and embrace creative practices; the ovate arts, which focus on plant and animal lore, herbs, understanding the world, and more; and the druid arts, which focus on mysticism and oak knowledge. As a druid, I work to integrate my spiritual path with daily living, primarily through the practice of permaculture and sustainable living. -Dana Driscal
 
 ¶ Prayers may be offered for ourselves and others.
   
