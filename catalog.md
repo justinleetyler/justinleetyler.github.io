@@ -4269,15 +4269,15 @@ Mayes, L.M. -- Dark days. -- Computer data (1 file : 470 KB). -- BB Books, 2013.
 
 Mayes, D.R. -- The last shaman. -- Computer data (1 file : 326 kb). -- [S.n., n.d.]. -- on ASUS Transformer tablet. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-
-
 McCahill, Mark P. -- Evolution of Internet Gopher / Mark P. McCahill, Farhad X. Ankesaria -- Computer data (1 file) -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 8373.pdf -- IN Journal of Universal Computer Science. -- Vol. 1, no. 4 (1995) -- DDC 004.69.
+
 McCammon, Jason. -- The ancient lands. -- Computer data (1 file). -- Brown-Eyed Dreams LLC., 2009. -- System requirements: Kindle app. -- Title supplied by cataloger. -- AISN B002YX0NIU. -- DDC 813.
+
 McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 9780307476302. -- DDC 813.
 > A person who had no one would be well advised to cobble together some pasable ghost. -57 -q
 > All of this like some ancient anointing. So be it. Evoke the forms. Where you've nothing else construct ceremonies out of the air and breathe upon them. -p. 74 -q
 > My job is to take care of you. I was appointed to do that by God. I will kill anyone who touches you. Do you understand? -p. 77 -q
-> We'll have to take a risk. We need to fin something to eat. -p. 79 -q
+> We'll have to take a risk. We need to find something to eat. -p. 79 -q
 > Nothing bad is going to happen to us... Because we're carrying the fire. -p. 83 -q
 > Because we're the good guys... and we're carrying the fire. -p. 129 -q
 > This is what the good guys do. They keep trying. They dont give up. -p. 137 -q
@@ -4285,6 +4285,7 @@ McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 978030
 > You need to find the good guys but you cant take any chances. -p. 278 -q
 > You have to carry the fire. It's inside you. It was always there. I can see it. -p. 279 -q
 > If I'm not here you can still talk to me. You can talk to me and I'll talk to you. You'll see. -p. 279 -q
+
 McCarthy, Ingrid. -- The black pearl of Osis. -- Computer data (1 file : 318 kb). -- [S.n., n.d.]. -- on Asus Transformer tablet. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPublishers, 2018. -- 170 p. -- ISBN 9780008313692. -- DDC 306
@@ -4295,8 +4296,8 @@ McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPub
 > They avoid predators by staying completely still. p. 141 -q
 > It's OK to just exist in the world sometimes without seeking the spotlight - just watching, observing and learning. p. 141 -q
 > They die in a place they love and cherish (a tree), clinging to the things they probably love most (a branch). What more could we hope for when it comes times for our own passing? -p. 168 -q
-McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
+McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
 McDonald, D. R. -- Cape Breton Road. -- 1st ed. -- New York : Harcourt, c2000. -- 288 p. -- ISBN 0151005230 -- DDC 813.
 
@@ -4313,8 +4314,8 @@ McKay, Brett. -- The libraries, studies, and writing rooms of 15 famous men / by
 
 
 McKay, Brett. -- How and why to become a lifelong learner. -- Computer data. -- Mode of Access: World Wide Web (http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/). -- Title from resource. -- IN The art of Manliness [website]. -- (Mar. 18, 2013). -- DDC 374.
-
 > Why become a lifelong learner? 1) You'll earn more 2) You'll be more interesting and charismatic. 3) You'll be a better leader. 4) You'll be a better leader. 5) You'll be independent and handy. 6) It keeps your brain healthy 7) You'll feel more satisfied with life 8) You'll become more human.
+
 McKenna, Caitlin. -- Logging off. -- Computer data (1 file : 552 KB). -- C. McKenna, c2006, 2012. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B005QCC6KE. -- DDC 813
 
 McKennitt, Loreena. -- A Winter Garden: Five Songs for the Season. -- Computer data. -- Burbank, CA: Warner Bros, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
@@ -4323,9 +4324,7 @@ McKennitt, Loreena. -- An Ancient Muse. -- Computer data. -- New York: Verve Mus
 
 McKennitt, Loreena. -- Parallel Dreams. -- Computer data. -- Stratford, Ontario: Quinlan Road Limited, 1989. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-
 McKennitt, Loreena. -- The Book of Secrets. -- Computer data. -- Burbank, Calif: Warner Bros, 1997. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67
-
 
 McKibben, Bill. -- Deep economy. -- New York : Times Books, 2007. -- 361 p. -- ISBN 9780805076264. -- DBID 3111 -- DDC 330.9
 McKibben, Nancy. -- The chaos protocol. -- Computer data (1 file : 525 KB). -- Malmesbury Books, 2012. -- on ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B009N83PSO. -- DDC 813.
@@ -4360,6 +4359,7 @@ Merton, Thomas. -- The waters of Siloe. -- New York : Harcourt, Brace and Compan
 > Love is a union of wills. -p. xx -q
 > It [the contemplative life] takes a man above the terrors and sorrows of modern life as well as above its passing satisfactions. It elevates his life to a superhuman level to the peace of the spiritual stratosphere where the storms of human existence become a distant echo and do not disturb the center of the sou - no matter how uch they may rage in the senses ad fealings. -p. xxviii -q
 > This means that the best Orders  are the ones which are able to cling most closely to the ideal of their founders and to live their lives most perfectly accordig to their own particular Rules. -p. xxxiv -q
+
 Michael, Paul. -- 10 mantras that will transform your life. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/10-mantras-that-will-transform-your-life). -- Title from resource. -- IN WiseBread. -- (Nov. 6, 2013). -- DDC  152.
 > 'We see what we look for' -Sir John Lubbock 
 > 'The past has no power over the present moment' -Echart Tolle. 
@@ -4417,7 +4417,6 @@ Miller, Rand. -- Myst : the book of Atrus / [by] Rand and Robyn Miller; with Dav
 > Myst : the book of Atrus, by Rand and Robyn Miller with David Wingrove, is a work of fiction. Atrus is D'ni, a people with the ability to create worlds through writing.  The story begins with Atrus living with his grandmother; helping her around her estate, and learning about the world. Then his father Ghen comes to take him away to the age of D'ni. Here, the father teaches the son the art of writing. Atrus quickly excels, so quickly that he is able to see fatal flaws in the way that his father writes. After many disagreements, Ghen locks him away. But Ghen's fiance Catherine helps rescues Atrus. The story ends with Catherine and Atrus creating their own age to live in. I would recommend this to one who enjoys fantasy, books, and parent/child relationships.  -p.  -r
 
 Miller, Rand. -- Myst : the book of Ti'ana / [by] Rand Miller; with David Wingrove. -- 1st ed. -- Hyperion, c1996. -- 322 p. -- ISBN 0786861606. -- DDC 813
-
 > p. 1-28: A tunnel is being built to make contact with the surface dwellers; The Book of Earth, written by Grand Master Ri'Neref, is mentioned. -s
 > It was not often that one saw all eighteen major Guilds represented in a single place... p. 50 -q
 > If this expedition had proved one single thing to him it was that he was of essence a loner. He had thought, perhaps, that such close proximity to his fellows, day in, day out, might have brought hiim out of his shell -- rounding off the heard edges of his nature -- but it had not proved so. -p. 50 -q
@@ -4471,15 +4470,15 @@ Miller, Timothy. -- How to want what you have. -- New York : Henry Holt and Comp
 > The practice of gratutide suggests another interpretation. -p. 166 -q
 > A cognitive approach to gratitude: 1) identify non-grateful thoughts; 2) Formulate Gratitude-supporting thoughts; 3) contunually substitute new gratitude-supporting thoughts in place of the non-grateful thoughts; 4) wait for the internal response of grateful feeling. -p. 170 -o
 > Schedule for practicing gratitude: Day 1: Practice Gratitude for the food you eat, regardless of whether it is special or routine. Don't alter your usual practices; 
+
 Mills, Becca. -- Nolander. -- Computer data (1 file : 470 KB). -- [S.n.], c2012. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- AISN B007R6PPZA. -- DDC 813.
 
 Becoming minimalist / [edited by] Joshua Becker. -- Computer data. -- Mode of Access: World Wide Web (http://www.becomingminimalist.com/). -- Title from homepage. -- DDC 657.7
-
 > I. Benefits from resting one day a week: (healthier body -- less stress -- deeper relationships -- opportunity for reflection -- balance (an identity outside of of your fellow occupation). -- Reserve for live's emergencies). -- II. How do do it: (Find contentment in your current life. -- Plan your rest -- Take responsibility for your life -- Embrace simplity -- Include your family -- Live within your income -- Realize the shallow nature of results-oriented culture). -o
 > What we create becomes meaningful to us only once we stop creating it and start to think about why we did so. -Rabbi Elijah of Vilna. -q
 > It is true that many of the benefits from concentrated rest are not tangible; but then again, only a fool believes all good things can be counted. -q
-Ming-Dao, Deng. -- Scholar warrior. -- HarperCollins, c1990. -- vi, 351 p. -- ISBN 0062502328. -- DDC 299
 
+Ming-Dao, Deng. -- Scholar warrior. -- HarperCollins, c1990. -- vi, 351 p. -- ISBN 0062502328. -- DDC 299
 > I. Beginnings (The scholar and warrior are not separate ways. Both skills are needed for balance) -o
 > VIII Resolving doubts (Continuous learning -- the necessity of competition -- Finding your fatal flaw -- Discipline -- Nonviolence -- Avoiding isolation -- Relationships -- Technology and Taoism -- The  nature of simplicity -- The future of Taoism). -o
 > XII Returning to the source - The ultimate wisdom: about emptiness. 
@@ -4675,7 +4674,6 @@ NASA  - NASA TV. -- Computer data. -- Title from homepage. -- Mode of Access: Wo
 
 
 Nasaw, David. -- Andrew Carnegie. -- New York : The Penguin Press, 2006. -- xiv, 878 p.
-
 > Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q
 
 National Research Council (U.S.). Committee on Digital Archiving and the National Archives and Records Administration. -- Building an electronic records archive at the National Archives and Records Administration. -- Computer data (1 file : 679 kb) -- Washington, DC : National Academies Press, 2005. -- on 1 external hard drive. -- Title from title page. -- File name: (8851.pdf) -- ISBN 0309551811 -- DBID 8851 -- DDC 025.17.Neary, Peter
