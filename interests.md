@@ -11,6 +11,7 @@ Star gazing log
 ### Currently Reading
 
 [Republic of Fear](https://justinleetyler.com/library/Makiya1998.txt)
+[Your Inner Fish](httphttps://justinleetyler.github.io/library/shubin2008.pdf)
 
 ### Reading log
 
