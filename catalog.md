@@ -5741,10 +5741,11 @@ Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of 
 > theopathy -p. -d
 > I. The Image of the Biblical God -p. -oShelfari. -- Computer program. -- Shelfari, c2006- -- Mode of Access: World Wide Web (http://www.shelfari.com). -- Title from homepage. -- DDC 002.
 
-
 Shore, Howard. -- Music from the Lord of the Rings, the Trilogy. -- Computer data. -- Portugal: IMC Music, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-Shoutcast. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.shoutcast.com) -- DDC 780.
+### shubin2008
+Shubin, Neil. -- Your inner fish.
+> Don’t even bother trying to compare... You  could  try,  but  the  mere  fact  that  you  were  trying  would reveal something more psychiatric than anatomical. -p. 97 -q
 
 Simmon, J.B. -- The blue tower. -- Three Cord Press, 2018. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07K2LDGH1). -- AISN B07K2LDGH1. -- DDC 813.
 
