@@ -237,151 +237,78 @@ and strengthen us through life; and at last make us to be
 numbered with thy saints in glory everlasting. Amen.
 
 
-## THIRD SUNDAY. 1 5
+### THIRD SUNDAY.
 
 ## ALL STANDING.
 
-```
-(_) — 1 1 1 J—i—h 1— |—|— j_
-4—^ £±-0 \ % - t-t =3=^
--<SI——s— s-
-3- -S- ' 1 c —— 1 —#—w—1^1 —^> —
-song:
-```
-```
-tS>- 1
-Kiiig-domsand thronesto God be - long ; Crown him, yena tions,
-```
-```
-r-
-```
-```
-in your
-~T s''\f—r~T~.p.»— »Y
-i
--f — ir r r J 1— ^-!^1 1- -*
-```
-?n — 1 — 1 — 1 T~±~—d^~l H—j— j— 1 —r"^-^r H
-
-His wond-rousnameand pow'r re - hearse ; His hon-ors shallen - rich your verse.
-^ J■ J
-tiM>-4-i» > —fif1— |l 4- —^Tif—L—rja — .\tf—\\ f |__J_fi^g?—p_.
-f=H—H
+Kingdoms and thrones belong to God belong / Crown him, ye nations, in your song / His wonderous name and power rehearse / His honors shall enrich your verse.
 
 ## RESPONSIVE READING.
 
-```
-T WILL lift up mine eyes unto the hills,
+I WILL lift up mine eyes unto the hills,
 From whence cometh my help.
-```
-```
-Myhelpcometh from the Lord,
-Who madeheaven andearth.
-```
-```
+My help cometh from the Lord,
+Who made heaven andearth.
 He will not suffer thy foot to be moved ;
-Hethat keepeth thee willnot slumber.
-```
-
-## 16 BOOK OF WORSHIP.
-
-```
-TheLordis thy keeper;
+He that keepeth thee will not slumber.
+The Lord is thy keeper;
 The Lord is thy shade upon thy right hand.
-```
 The sun shall not smite thee by day,
 Nor the moon by night.
-
 The Lord shall preserve thy goingout and thy coming in,
-From this timeforth andevenforevermore.
-
-```
+From this time forth and even forevermore.
 Therefore will we not fear, though the earth be removed,
 Though the mountains be cast into the midst of the sea.
-```
 God is our refuge and strength,
-A very presenthelp in trouble.
-
-O taste and see thatthe Lord is good,
-Blessedis the man thattrusteth in him.
-
+A very present help in trouble.
+O taste and see that the Lord is good,
+Blessed is the man that trusteth in him.
 Cast thy burden on the Lord,
 For none that trustsin him shallbe desolate.
-
 As the mountains do stand about Jerusalem,
 So the Lord is round about his people.
-
-```
 The Lord is a sun and a shield;
-The Lord willgivegrace andglory.
-```
-```
+The Lord will give grace and glory.
 Trust in him at all times;
-Pour outyourheart beforehim.
-```
-
-## THIRD SUNDAY. 17
-
-```
+Pour out your heart before him.
 For his merciful kindness is great towards us,
 And the truth of the Lord endurethforever.
-```
-```
 Blessed be the name of the Lord,
-From this timeforth andevenforevermore.
-```
-## ALL.
+From this time forth and even forever more.
 
-```
-f^UR FATHER who art in heaven, hallowed be thy
-name. Thy kingdom come. Thy will be done on
-earth as it is in heaven. Give us this day our dailybread.
+### ALL.
+
+Our Father who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on 
+earth as it is in heaven. Give us this day our daily bread. 
 Forgive us our trespasses as we forgive them that trespass
 against us. Lead us not into temptation; but deliver us
 from evil. For thine is the kingdom, and the power, and
-the glory, foreverand ever. Amen.
-```
-## 3
+the glory, forever and ever. Amen.
 
-```
-Glorybe to the Father who in heaven, The Highand Ho - ly One.
-```
-fay ft I g>- -0-
-i
+Glory be to the Father who is in heaven, The High and Holy One.
+As it was in the beginning, is now, and ever shall be, World without end, Amen.
 
-```
-As it was in the beginning, is now, and ev - er shall be, World with - out end, A - men.
-```
-```
-1 -&>-^1
-Heremay be sung a Hymn.
-```
-```
-r rr r
-```
+Here maybe sung a Hymn.
 
-## BOOK OF WORSHIP.
-
-## PRAYER.
-
+### PRAYER.
 For a Lay Service.
-f~\ THOU Infinite and EternalOne, we flee to thee, and
-wouldbe filled with sucha sense of thy presence,that
+
+THOU Infinite and Eternal One, we flee to thee, and
+would be filled with sucha sense of thy presence,that
 we may worship thee with the uplifting of our hearts,and
 serve thee with our hands all the days of our lives. We
-thanktheefor thy loving-kindness,whichis new every morn
-ing and fresh every evening; for the worldof beauty round
+thank thee for thy loving-kindness,which is new every morn
+ing and fresh every evening; for the world of beauty round
 about us, and the heaven of glory over our heads; for the
 abundant goodness which thou hast made possible to our
-humanlives, through which theylay hold of the life eternal.
+humanlives, through which they lay hold of the life eternal.
 Strengthen us mightily with thy spirit, that we may turn
 our hearts from every evil thing and withhold our hands
 from every unholy work. May we diligently learn what is
-right, earnestlystriveto do thy will, and,through loving our
-brothersas we love ourselves,grow into the perfect stature
-of thy children. So may thykingdomcome,and thywillbe
+right, earnestlystriveto do thy will, and, through loving our
+brothers as we love ourselves,grow into the perfect stature
+of thy children. So may thy kingdom come,and thy willbe
 doneon earth as it is in heaven. Amen.
-
 
 ## FOURTH SUNDAY. 19
 
