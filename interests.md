@@ -711,3 +711,5 @@ Men who cannot think of their God as caring for other people will not themselves
 Love, not law; Experience, not doctrine: This, at its heart, is what Christianity is about, if it takes it's founder seriously.
 
 Any fool can see whats wrong with the world. But it takes a wise man to see what's right and what ought to be preserved.
+
+The core practices of the Druid path remain what they were in the eighteenth century: daily life lived in harmony with nature, seasonal rituals that celebrate the cycles of nature, and meditation to unveil the secrets of our own nature. -Greer 
