@@ -112,4 +112,4 @@
 * [https://office.johannite.tech/](The Office of the Hours of the Apostolic Johannite Church - The Office of the Hours of the Apostolic Johannite Church)
 * [https://www.aliexpress.com/](AliExpress - Online Shopping for Popular Electronics, Fashion, Home &amp; Garden, Toys &amp; Sports, Automobiles and More products - AliExpress)
 * [https://www.knowledgewalls.com/johnpeter/books/msdos-commands/split-string-by-delimiter](Split string by delimiter in String manipulation of MS-DOS Commands)
-* [https://my.yahoo.com/](My Yahoo)
+* [https://my.yahoo.com/](My Yahoo)* [https://www.amazon.com/Best-Sellers-Kindle-Store-Fantasy/zgbs/digital-text/158576011/ref=zg_bs?_encoding=UTF8](https://www.amazon.com/Best-Sellers-Kindle-Store-Fantasy/zgbs/digital-text/158576011/ref=zg_bs?_encoding=UTF8) 
