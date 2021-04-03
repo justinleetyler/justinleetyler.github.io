@@ -1,4 +1,4 @@
-[markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)  
-https://www.askvg.com/windows-tip-pin-batch-bat-files-to-taskbar-and-start-menu/
-https://www.amazon.com/Best-Sellers-Kindle-Store-Gay-Romance/zgbs/digital-text/6487829011/ref=zg_bs?_encoding=UTF8&tf=1
+* [markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)  
+* https://www.askvg.com/windows-tip-pin-batch-bat-files-to-taskbar-and-start-menu/
+* https://www.amazon.com/Best-Sellers-Kindle-Store-Gay-Romance/zgbs/digital-text/6487829011/ref=zg_bs?_encoding=UTF8&tf=1
 
