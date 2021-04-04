@@ -4,3 +4,8 @@
 * [Bahai Prayers](http://www.bahaiprayers.org/) 
 * [dos](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr) 
 * [Bahai Prayers](http://www.bahaiprayers.org/ ) 
+* [YAHOO](https://my.yahoo.com/) 
+* [Weber Books](https://www.weberbooks.com/kindle/) 
+* [365 Tao - Daily Meditations](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm) 
+* [St. Bede's Mobile Breviary](http://www.stbedeproductions.com/breviary/mobile/index.php) 
+* [100 questions Unitarian Universalism](https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf) 
