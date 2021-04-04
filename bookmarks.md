@@ -2,3 +2,4 @@
 * [Survival Books](http://www.survivalebooks.com/survivalfm3-0570.html) 
 * [freebooksy](https://www.freebooksy.com/) 
 * [Bahai Prayers](http://www.bahaiprayers.org/) 
+* [dos](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/findstr) 
