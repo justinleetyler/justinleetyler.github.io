@@ -10,3 +10,6 @@
 * [St. Bede's Mobile Breviary](http://www.stbedeproductions.com/breviary/mobile/index.php) 
 * [100 questions Unitarian Universalism](https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf) 
 * [uu breviary](https://justinleetyler.github.io/breviary.htm) 
+* [Standard Ebooks](https://standardebooks.org) 
+* [Pagan book of hours](http://www.paganbookofhours.org/) 
+* [Yahoo mail](http://mail.yahoo.com) 
