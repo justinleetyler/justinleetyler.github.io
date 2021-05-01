@@ -17,6 +17,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-05 | C | 1 [Prince Charles](smith2017) | 920 | A biography of Prince Charles. |
 |2020-12 | C | 28 [Life in the shifting dunes](https://justinleetyler.github.io/catalog#white1960) / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
 |2020-12 | C | 27 [Well of Furies](https://justinleetyler.github.io/catalog#delancey2014) / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
 |2020-12 | D | 26 [Port State](https://justinleetyler.github.io/catalog#bowden2020) / William Bowden. | 823 | A spacecraft docks in Bristol. |
@@ -295,6 +296,7 @@ Star gazing log
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
+|2021-04 | The good fight / Walter Mondale ||
 |2020-07 | Indistinguishable from Magic / Robert L. Forward ||
 |2020-06 | The blue saphire of the mind / Douglas E. Christie  | |
 |2020-04 | Grand inquests / B. Renquist. ||

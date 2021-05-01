@@ -5798,9 +5798,6 @@ Smash, B.J. -- The witches of Merribay / B.J. Smash (Author), Kelly McGough (Edi
 
 Smith, Christian. -- Souls in transition. -- Computer data (1 file). -- [S.l.] : Oxford University Press, 2009. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3054 -- DDC 204.
 
-
-
-
 Smith, E.E. -- First lensman. -- Computer data (1 file). -- Serapis Classics, 2017. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B07658CNTM. -- DDC 813.
 
 Smith, Gregory A. -- The core virtue of christian librarianship. -- Computer data (1 file : 81 kb). -- [S.l. : s.n., 2002]. -- on 1 external hard drive. -- Title from cover. -- File name: (1684.pdf). -- DBID 1684 -- DDC 020. 
@@ -5834,6 +5831,18 @@ Smith, Huston. -- The world's religions. -- HarperCollins, c1958, 1991. -- xvi, 
 > Those who meditate on this [yin/yang] symbol... will find that it affords better access to the world's secrets than any length of words and discussion. -q
 
 Smith, Mark. -- Writing and keeping journals. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, .pdf file reader. -- Title from resource. -- File name: 3217.pdf. -- DBID 3217. -- IN Infed. -- (1999, 2006). -- DDC 808.06692.
+
+### smith2017
+Smith, Sally Bedell. -- Prince Charles. -- Random House, c2017. -- xx, 596 p. -- ISBN 9781400067909. -- DDC 920.
+> The chores of tilling the soil and taking care of animals had taught him, 'the central purposes of our existance and of our human construction, our dependence on natural things and the ultimate emptiness of the search after our sophistication' -p. 166 -q
+> ... Prince Philips irreverent and forright personality ... -p. 200 -q
+> There was, in short, nothing cozy or mutually supportive about their relationship. -p. 174 -q
+> One of the saddest aspects of Diana's short and tragic life was the failure of those around here - friends and family alike - to convince her to get a proper diagnosis and treat her extremem symptoms of mental instability. By Diana's own account - in her interviews for the Morton book and her Panorama broadcast - she shuffered from bulimia, self-mutilation, depression, and accute anxiety. p. 200 -q
+> He also stirred up trouble while talking to Dimbleby about his religious beliefs. He was a committed Anglican who prayed every night before bed. But he admitted being 'one of those people who searches. I am interesteed in persuing a path if I can find it through the thickets." The Anglican faith was but one of the 'common threads" linking 'us all in one great and important tapestry.' -p. 285 -q
+> They [Andrew and Camilla Parker Bowles] cited no grounds [for their divorce], only that 'throughout our marriage we have always tende to follow rather different interests, but in recent years we have led completely separate lives." -p. 291. -q
+> Prince Charles is a sensitive and shy guy who has stolen himself to do his job. -Shebbeare. -p. 300 -q
+> Asked if as king he would continue to "champion big thesmes," he hedged, saying hat he hoped to use his ability to bring people together to discuss issues. -p. 435. -q
+> Their [William and Kate] impeccable behavior kept the monarchy on an even keel, and they learned to fuse informality ith dignity - a difficult balance ot achieve. -p. 492. -q
 
 Smolin, Lee. -- The life of the cosmos. -- Computer data (1 file). -- New York : Oxford University Press, 1999. -- on Asus Transformer Tablet. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3055 -- DDC 523.
 

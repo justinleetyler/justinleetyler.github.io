@@ -13,3 +13,6 @@
 * [Standard Ebooks](https://standardebooks.org) 
 * [Pagan book of hours](http://www.paganbookofhours.org/) 
 * [Yahoo mail](http://mail.yahoo.com) 
+* [Some cool batch applications](https://www.instructables.com/Some-Cool-Batch-Applications/) 
+* [St. Sarahs](https://stsarahs.org/) 
+* [johannite office of the hours](https://office.johannite.tech/) 
