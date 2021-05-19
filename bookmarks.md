@@ -16,3 +16,5 @@
 * [Some cool batch applications](https://www.instructables.com/Some-Cool-Batch-Applications/) 
 * [St. Sarahs](https://stsarahs.org/) 
 * [johannite office of the hours](https://office.johannite.tech/) 
+* [sacramental whine](https://sacramentalwhine.libsyn.com/) 
+* [Universal Gnostic Church](https://web.archive.org/web/20051023223749/http://universalgnostic.com/) 
