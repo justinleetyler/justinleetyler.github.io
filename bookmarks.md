@@ -22,3 +22,4 @@
 * [youtube Holy Nicholean Catholic Church](https://www.youtube.com/c/HolyNicholeanCatholicChurch) 
 * [druid rosary](https://meadowsweet-myrrh.blogspot.com/2007/04/druid-rosary.html) 
 * [The threat of civil war didn't end with the Trump presidency](https://theweek.com/articles/983063/threat-civil-war-didnt-end-trump-presidency) 
+* [Plain Text Project](https://plaintextproject.online/tools.html) 
