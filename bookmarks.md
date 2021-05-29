@@ -23,3 +23,4 @@
 * [druid rosary](https://meadowsweet-myrrh.blogspot.com/2007/04/druid-rosary.html) 
 * [The threat of civil war didn't end with the Trump presidency](https://theweek.com/articles/983063/threat-civil-war-didnt-end-trump-presidency) 
 * [Plain Text Project](https://plaintextproject.online/tools.html) 
+* [how to grow a pine tree](https://gardenerdy.com/growing-trees-from-pine-cones/#:~:text=Growing%20Trees%20from%20Pine%20Cones%201%20Obtaining%20Seeds.,maximum%20potential%20of%20germinating.%203%20Planting%20Seeds.%20) 
