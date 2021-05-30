@@ -1,19 +1,10 @@
 # DAILY DEVOTIONS
 
-¶ The Opening 
+¶ Light the chalice using these words: 
 
-Divine Spark, from sacred dark, symbol of our holy intent: Illuminate this day.
+This chalice burns for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous. 
 
-¶ A covenant may be said
-
-Love is the doctrine of this church,
-The quest of truth is its sacrament,
-And service is its prayer.
-To dwell together in peace,
-To seek knowledge of freedom,
-To serve human need. To the end that all souls shall grow into harmony with the Divine --
-Thus do we covenant with each other and with God.
-(James Vila Blake)   
+>Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
 
 ¶ A reading [365 Tao](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm)  [daily psalms](https://www.bcponline.org/Psalter/psalter_30day.html) [Earth bound](https://read.amazon.com/?asin=B0064P9UQ0)
 
@@ -32,6 +23,17 @@ To bow and to bend we won't be ashamed /
 To turn, to turn will be our delight /
 'Til by turning, turning, we come 'round right. /
 
+¶ A covenant may be said
+
+Love is the doctrine of this church,
+The quest of truth is its sacrament,
+And service is its prayer.
+To dwell together in peace,
+To seek knowledge of freedom,
+To serve human need. To the end that all souls shall grow into harmony with the Divine --
+Thus do we covenant with each other and with God.
+(James Vila Blake)   
+
 ¶ Prayers may be offered for ourselves and others.
   
 ¶ The prayer of Jesus [traditional](https://www.missionstclare.com/english/prayers/lords.html)
@@ -40,11 +42,4 @@ Oh thou, whose kingdom is within, may all thy names by hallowed. May no one of t
 
 ¶ The Benediction
 
-This chalice burns for those who affirm and promote [principle]. May we tend this fire always; ever vigilant and courageous. 
-
->Sunday: 1 The inherent worth and dignity of every person; Monday: 2 Justice, equity and compassion in human relations; Tuesday: 3 Acceptance of one another and encouragement to spiritual growth in our congregations; Wednesday: 4 A free and responsible search for truth and meaning; Thursday 5 The right of conscience and the use of the democratic process within our congregations and in society at large; Friday 6 The goal of world community with peace, liberty, and justice for all; Saturday: 7 Respect for the interdependent web of all existence of which we are a part. 
-
-
-
-
-
+Live simply, expect little, give much. Fill your life with love, scatter sunshine. Forget self. Think of others, and do as you would be done by. 
