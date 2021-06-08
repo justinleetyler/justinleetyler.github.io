@@ -10,13 +10,11 @@ Star gazing log
 
 ### Currently Reading
 
-[Republic of Fear](https://justinleetyler.com/library/Makiya1998.txt)
-[Your Inner Fish](https://justinleetyler.github.io/library/shubin2008.pdf)
-
 ### Reading log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-06 | C | 3 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
 |2021-05 | C | 2 [Prince Charles](https://justinleetyler.github.io/catalog#smith2017) | 920 | A biography of Prince Charles. |
 |2021-01 | C | 1 New England Wilds | ? | part of my old aoda curriculum |
 |2020-12 | C | 28 [Life in the shifting dunes](https://justinleetyler.github.io/catalog#white1960) / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
