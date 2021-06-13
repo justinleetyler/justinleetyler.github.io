@@ -27,3 +27,4 @@
 * [Bio of Matthew William Shaw](https://sites.google.com/site/gnostickos/bbishopsshaw) 
 * [ugc minor orders](https://web.archive.org/web/20040202090923/http://universalgnostic.com/orders/candidate.htm) 
 * [anglican rosary](http://theanglicanrosary.weebly.com/) 
+* [K230 Welcome / Patricia Frevert.](https://read.amazon.com/?asin=B004OEKCVK) 
