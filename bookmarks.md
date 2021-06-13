@@ -26,3 +26,4 @@
 * [how to grow a pine tree](https://gardenerdy.com/growing-trees-from-pine-cones/#:~:text=Growing%20Trees%20from%20Pine%20Cones%201%20Obtaining%20Seeds.,maximum%20potential%20of%20germinating.%203%20Planting%20Seeds.%20) 
 * [Bio of Matthew William Shaw](https://sites.google.com/site/gnostickos/bbishopsshaw) 
 * [ugc minor orders](https://web.archive.org/web/20040202090923/http://universalgnostic.com/orders/candidate.htm) 
+* [anglican rosary](http://theanglicanrosary.weebly.com/) 
