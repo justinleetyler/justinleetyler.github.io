@@ -28,3 +28,4 @@
 * [ugc minor orders](https://web.archive.org/web/20040202090923/http://universalgnostic.com/orders/candidate.htm) 
 * [anglican rosary](http://theanglicanrosary.weebly.com/) 
 * [K230 Welcome / Patricia Frevert.](https://read.amazon.com/?asin=B004OEKCVK) 
+* [10 Simple Things to Make You Happier At Home](https://getpocket.com/explore/item/10-simple-things-to-make-you-happier-at-home?utm_source=pocket-newtab)
