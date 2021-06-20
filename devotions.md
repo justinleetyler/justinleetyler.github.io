@@ -19,8 +19,6 @@ Thus do we covenant with each other and with God.
 
 Our unitarian heritage calls us to recognize the inherent good in all persons, while the universal part of our tradition encourages us to extend love and acceptance to all people.
 
-¶ A period of silece or reflection may follow.
-
 ¶ A [hymn](https://www.youtube.com/watch?v=kjFjxRdzuJc) may be sung
 
 Tis a gift to be simple, 'tis a gift to be free /
