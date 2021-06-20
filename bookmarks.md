@@ -32,3 +32,4 @@
 * [10 Simple Things to Make You Happier At Home](https://getpocket.com/explore/item/10-simple-things-to-make-you-happier-at-home?utm_source=pocket-newtab)
 * [smithsonian volunteer](https://transcription.si.edu/) 
 * [W Unitarian church of Underwood](https://www.ucofu.org/) 
+* [K210 Introducing the philosophy of religion / The Open University](https://read.amazon.com/?asin=B01CQ9C9VK) 
