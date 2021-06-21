@@ -33,3 +33,4 @@
 * [smithsonian volunteer](https://transcription.si.edu/) 
 * [W Unitarian church of Underwood](https://www.ucofu.org/) 
 * [K210 Introducing the philosophy of religion / The Open University](https://read.amazon.com/?asin=B01CQ9C9VK) 
+* [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/) 
