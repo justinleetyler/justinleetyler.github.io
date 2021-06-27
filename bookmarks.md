@@ -1,4 +1,3 @@
-* [-NSYNC. - No strings attached. - Computer data. - [S.l.], 2000. - on 1 external hard drive.]() 
 * [K210 Introducing the philosophy of religion / The Open University](https://read.amazon.com/?asin=B01CQ9C9VK) 
 * [K230 Welcome / Patricia Frevert.](https://read.amazon.com/?asin=B004OEKCVK) 
 * [K299 Gnostic Celtic Church handbook / John Michael Greer](https://read.amazon.com/?asin=B00CR5TCC8) 
