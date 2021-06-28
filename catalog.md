@@ -6528,3 +6528,5 @@ Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web]
 12 rituals happy, successfull people practice every day. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day). -- Title from homepage viewed Mon 06/28/2021. -- DDC w152. 
 ### 20210628_103204 
 Answers.com. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.answers.com). -- Title from homepage viewed Mon 06/28/2021. -- DDC w030. 
+### Tanner[n.d.] 
+Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a -- DDC b500. 
