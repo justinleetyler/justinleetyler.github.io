@@ -6530,3 +6530,5 @@ Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web]
 Answers.com. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.answers.com). -- Title from homepage viewed Mon 06/28/2021. -- DDC w030. 
 ### Tanner[n.d.] 
 Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a -- DDC b500. 
+### Krakauers.n.] 
+Krakauer, Jon. -- Into the wild. -- [s.l, s.n.]. -- v. -- ISSN n/a -- DDC b920. 
