@@ -34,6 +34,7 @@
 * [W Yahoo mail](http://mail.yahoo.com) 
 * [W YAHOO](https://my.yahoo.com/) 
 * [W youtube Holy Nicholean Catholic Church](https://www.youtube.com/c/HolyNicholeanCatholicChurch) 
+* [w152 12 rituals happy, successfull people practice every day](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day) 
 * [W398 Folklore and Mythology Electronic Texts](http://www.pitt.edu/~dash/folktexts.html) 
 * [w650 12 outstanding personality traits of a great boss](http://www.officevibe.com/blog/infographic-great-boss) 
 * [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/)
