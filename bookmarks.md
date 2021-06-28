@@ -36,6 +36,4 @@
 * [W youtube Holy Nicholean Catholic Church](https://www.youtube.com/c/HolyNicholeanCatholicChurch) 
 * [W398 Folklore and Mythology Electronic Texts](http://www.pitt.edu/~dash/folktexts.html) 
 * [w650 12 outstanding personality traits of a great boss](http://www.officevibe.com/blog/infographic-great-boss) 
-* [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/) 
-ECHO is off.
-ECHO is off.
+* [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/)
