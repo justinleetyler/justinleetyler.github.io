@@ -6522,3 +6522,5 @@ White, Laurence B. -- Life in the shifting dunes / by Laurence B. White, Jr.; Il
 > weasals kill for the fun of it
 ### Deng1992 
 Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021. -- DDC k299. 
+### 20210628_074109 
+12 outstanding personality traits of a great boss. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.officevibe.com/blog/infographic-great-boss). -- Title from homepage viewed Mon 06/28/2021. -- URL var03%var04. 
