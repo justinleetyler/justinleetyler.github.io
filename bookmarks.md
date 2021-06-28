@@ -1,5 +1,6 @@
 * [K210 Introducing the philosophy of religion / The Open University](https://read.amazon.com/?asin=B01CQ9C9VK) 
 * [K230 Welcome / Patricia Frevert.](https://read.amazon.com/?asin=B004OEKCVK) 
+* [k299 365 Tao / Ming Dao Deng](https://read.amazon.com/?asin=B00CREFHDM) 
 * [K299 Gnostic Celtic Church handbook / John Michael Greer](https://read.amazon.com/?asin=B00CR5TCC8) 
 * [W 10 Simple Things to Make You Happier At Home](https://getpocket.com/explore/item/10-simple-things-to-make-you-happier-at-home?utm_source=pocket-newtab)
 * [W 100 questions Unitarian Universalism](https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf) 
@@ -35,3 +36,4 @@
 * [W youtube Holy Nicholean Catholic Church](https://www.youtube.com/c/HolyNicholeanCatholicChurch) 
 * [W398 Folklore and Mythology Electronic Texts](http://www.pitt.edu/~dash/folktexts.html) 
 * [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/) 
+ECHO is off.
