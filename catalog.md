@@ -6520,6 +6520,7 @@ White, Laurence B. -- Life in the shifting dunes / by Laurence B. White, Jr.; Il
 > chipmonks nest underground
 > Fox's eat mice
 > weasals kill for the fun of it
+
 ### Deng1992 
 Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021. -- DDC k299. 
 ### 20210628_074109 
@@ -6534,3 +6535,5 @@ Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a -- DDC
 Krakauer, Jon. -- Into the wild. -- [s.n, n.d]. -- v. -- DDC b920. 
 ### 20210629_063003 
 10 Simple CSS Code Examples You Can Learn in 10 Minutes. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/simple-css-code-examples/). -- Title from homepage viewed Tue 06/29/2021. -- DDC w006. 
+### Wallc2013 
+Wall, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- v. -- ISSN 9780393073775 -- DDC b599. 
