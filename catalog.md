@@ -6530,5 +6530,7 @@ Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web]
 Answers.com. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.answers.com). -- Title from homepage viewed Mon 06/28/2021. -- DDC w030. 
 ### Tanner[n.d.] 
 Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a -- DDC b500. 
-### Krakauers.n.] 
-Krakauer, Jon. -- Into the wild. -- [s.l, s.n.]. -- v. -- ISSN n/a -- DDC b920. 
+### Krakauer[n.d.] 
+Krakauer, Jon. -- Into the wild. -- [s.n, n.d]. -- v. -- DDC b920. 
+### 20210629_063003 
+10 Simple CSS Code Examples You Can Learn in 10 Minutes. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/simple-css-code-examples/). -- Title from homepage viewed Tue 06/29/2021. -- DDC w006. 

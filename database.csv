@@ -1,7 +1,8 @@
-list ; dbid ; lastname ; firstname ; title ; publisher ; pubyear ; aisn ; dateaccessed ; callprefix ; callnumber ; url
+list ; dbid ; lastname ; firstname ; title ; publisher ; pubyear ; aisn ; dateaccessed ; callprefix ; callnumber ; url ; ISBN ; notes
 toread ; Deng1992 ; Deng ; Ming Dao ; 365 Tao ; [s.l.] ; 1992 ; B00CREFHDM ; Mon 06/28/2021 ; k ; 299 ;  
 toread ;  ;  ;  ; 12 outstanding personality traits of a great boss ;  ;  ;  ; Mon 06/28/2021 ; w ; 650 ; http://www.officevibe.com/blog/infographic-great-boss 
 toread ;  ;  ;  ; 12 rituals happy successful people practice every day ;  ;  ;  ; Mon 06/28/2021 ; w ; 152 ; http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day 
 nolst ; 20210628_103204 ;  ;  ; Answers.com ;  ;  ;  ; Mon 06/28/2021 ; w ; 030 ; http://www.answers.com 
 finished ; Tanner[n.d.] ; Tanner ; Ogden ; New England Wilds ; [s.n.] ; [n.d.] ;  ; Mon 06/28/2021 ; b ; 500 ;  ; n/a 
-toread ; Krakauers.n.] ; Krakauer ; Jon ; Into the wild ; [s.l ; s.n.] ;  ; Mon 06/28/2021 ; b ; 920 ;  ; n/a 
+finished ; Krakauer[n.d.] ; Krakauer ; Jon ; Into the wild ; [s.l ; s.n.] ;  ; Mon 06/28/2021 ; b ; 920 ;  ; n/a ; About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. 
+nolst ; 20210629_063003 ;  ;  ; 10 Simple CSS Code Examples You Can Learn in 10 Minutes ;  ;  ;  ; Tue 06/29/2021 ; w ; 006 ; https://www.makeuseof.com/tag/simple-css-code-examples/ ;  

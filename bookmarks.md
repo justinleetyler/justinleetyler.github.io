@@ -34,6 +34,7 @@
 * [W Yahoo mail](http://mail.yahoo.com) 
 * [W YAHOO](https://my.yahoo.com/) 
 * [W youtube Holy Nicholean Catholic Church](https://www.youtube.com/c/HolyNicholeanCatholicChurch) 
+* [w006 10 Simple CSS Code Examples You Can Learn in 10 Minutes](https://www.makeuseof.com/tag/simple-css-code-examples/) 
 * [w030 Answers.com](http://www.answers.com) 
 * [w152 12 rituals happy, successfull people practice every day](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day) 
 * [W398 Folklore and Mythology Electronic Texts](http://www.pitt.edu/~dash/folktexts.html) 
