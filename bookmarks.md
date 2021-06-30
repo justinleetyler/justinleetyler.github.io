@@ -26,6 +26,7 @@
 * [W Standard Ebooks](https://standardebooks.org) 
 * [W Survival Books](http://www.survivalebooks.com/survivalfm3-0570.html) 
 * [W The threat of civil war didn't end with the Trump presidency](https://theweek.com/articles/983063/threat-civil-war-didnt-end-trump-presidency) 
+* [w The Unitarian Universalist Fellowship of Alexandria](http://pages.suddenlink.net/uufoa/index.htm) 
 * [W ugc minor orders](https://web.archive.org/web/20040202090923/http://universalgnostic.com/orders/candidate.htm) 
 * [W Unitarian church of Underwood](https://www.ucofu.org/) 
 * [W Universal Gnostic Church](https://web.archive.org/web/20051023223749/http://universalgnostic.com/) 
