@@ -2,6 +2,7 @@
 * [K230 Welcome / Patricia Frevert.](https://read.amazon.com/?asin=B004OEKCVK) 
 * [k299 365 Tao / Ming Dao Deng](https://read.amazon.com/?asin=B00CREFHDM) 
 * [K299 Gnostic Celtic Church handbook / John Michael Greer](https://read.amazon.com/?asin=B00CR5TCC8) 
+* [k574 Life in the shifting dunes / Laurence B. White](https://read.amazon.com/?asin=n/a) 
 * [W 10 Simple Things to Make You Happier At Home](https://getpocket.com/explore/item/10-simple-things-to-make-you-happier-at-home?utm_source=pocket-newtab)
 * [W 100 questions Unitarian Universalism](https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf) 
 * [W 365 Tao - Daily Meditations](http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm) 
@@ -41,3 +42,4 @@
 * [W398 Folklore and Mythology Electronic Texts](http://www.pitt.edu/~dash/folktexts.html) 
 * [w650 12 outstanding personality traits of a great boss](http://www.officevibe.com/blog/infographic-great-boss) 
 * [W796 9 Apps to Improve Your Hiking Experience / Sarah Chaney](https://www.makeuseof.com/apps-to-improve-your-hiking-experience/)
+ECHO is off.
