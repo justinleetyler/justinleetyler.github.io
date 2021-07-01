@@ -6541,3 +6541,5 @@ Wall, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- v. -- I
 The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021. -- DDC w. 
 ### White1960 
 White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k574. 
+### DeLancey2014 
+DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k813. 
