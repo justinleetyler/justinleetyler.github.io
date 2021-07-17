@@ -1460,8 +1460,10 @@ Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from ama
 > kali 2: "but the Great Thaw would change coastlines all around the world." -f
 > kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
 
+### 
 Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
 
+### 
 Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada: Madacy, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.68.
 
 ### clay1914
@@ -1553,18 +1555,25 @@ Coelho, Paul. -- The alchemist. -- Computer data (1 file). -- [San Francisco] : 
 > '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 -q
 > '...when we strive to become better than we are, everything around us becomes better, too.' -p. -qT
 
+### 
 The Colony / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe. -- Computer data (1 file). -- RLJ Entertainment, [2013]. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title from WorldCat desc. -- Filename: 3316.mp4. -- DDC 791.43.
 
+### 
 The complete home / edited by Clara E. Laughlin. -- Computer data (1 file). -- D. Appleton and Co., 1912. -- on 1 external hard drive. -- System requirments: USB drive; PDF file reader. -- Title from title page. -- File name: 3235.pdf. -- DDC 640.
 
+### 
 Cohen, Leonard. -- The Essential Leonard Cohen. -- Computer data. -- New York, NY: Columbia, 2002. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
+### 
 College physics. -- Computer data (1 file : 97.1 MB). -- Rice University, c2013. -- on 1 external hard drive. -- Title from cover. -- System requirements: USB drive; PDF file reader. -- Filename: 3287.pdf. -- DBID 3287. -- DDC 530.
 
+### 
 Collins, Phil. -- Face Value. -- Computer data. -- New York, NY: Atlantic, 1985. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
+### 
 Comparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards / [by] Amy P. Eklund, Shawne D. Miksa, William E. Meon... [et al.] -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3236.pdf. -- DOI 10.1080/19386380903095073. -- IN Journal of Library Metadata. -- Vol 9 (2009). -- ISSN 1937-5034. -- DDC 025.3.
 
+### 
 Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. -- DDC 1725.
 > 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
 > 'But no one doth well against his will, even though what he doth, be well.' -p. -q
