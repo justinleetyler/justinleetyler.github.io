@@ -1,19 +1,13 @@
+
 Justin Lee Tyler, MLIS
 ===
+Content Integration Engineer, [EBSCO](https:/www.ebsco.com)
 
-## Currently Reading
+Stuff
+---
+- [Interests](interests)
+- [Resume](resume) 
+- [Contact]()
 
 ---
-
-[Logs](interests)
-
-[Resume](resume)   
-- [Interests](http://justinleetyler.com/interests)
-- [Reading Notes](http://justinleetyler.com/interests)
-- [Education](https://justinleetyler.github.io/resume#education)
-- [Work Experience](https://justinleetyler.github.io/resume#work-experience)
-- [Professional References](https://justinleetyler.github.io/resume#work-experience)
-
-[Contact]()
-
-[Leave](http://www.google.com)   
+File last updated *2021-07-27*
