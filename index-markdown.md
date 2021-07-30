@@ -1,11 +1,28 @@
-JUSTIN LEE TYLER, MLIS
+Justin Lee Tyler, MLIS
 ===
+Senior Content Integration Engineer, EBSCO Information Services
 
-Currency Reading
+[[my reading notes]](http://www.justinleetyler.com/catalog) [[my bookmarks]]()
+
 ---
-Any job will do / John Wilker 
 
-[My reading logs](http:/www.justinleetyler.com/interests)
+Currently Reading
+---
+Five Justices / John Paul Stevens.
 
-[Resume](http://www.justinleetyler.com/resume)
-  
+[Archives](interests)
+---
+including interests, reading notes, logs, etc.
+
+[Resume](resume) 
+---  
+- [Interests](http://justinleetyler.com/interests)
+- [Reading Notes](http://justinleetyler.com/interests)
+- [Education](https://justinleetyler.github.io/resume#education)
+- [Work Experience](https://justinleetyler.github.io/resume#work-experience)
+- [Professional References](https://justinleetyler.github.io/resume#work-experience)
+
+[Contact]()
+---
+
+[Leave](http://www.google.com)   
