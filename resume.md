@@ -35,9 +35,4 @@
 >- Worked with patrons to locate books; performed shelving and inventory duties; carried out secretarial duties for library director; and took minutes at the Library's Board of Trustees meetings.
 
 ## Professional References
-- Charles Tuomi, **Platform Product Analyst**, EBSCO Information Services
->- 
->- 10 Estes Street, Ipswich, MA 01913
->- 978-356-6500 x2471 - ctuomi@ebsco.com
-- Elshad Kasumov – Casenet, LLC
-- Carol Swaine-Kuzul – EBSCO Information Services
+- Elshad Kasumov – **Casenet, LLC**
