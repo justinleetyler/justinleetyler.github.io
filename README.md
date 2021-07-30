@@ -5,8 +5,8 @@ Content Integration Engineer, [EBSCO](https:/www.ebsco.com)
 
 Stuff
 ---
-- [Interests](interests)
-- [Resume](resume) 
+- [Interests](http://www.justinleetyler.com/interests)
+- [Resume](http://www.justinleetyler.com/resume) 
 - [Contact]()
 
 ---
