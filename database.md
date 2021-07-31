@@ -1,4 +1,5 @@
 01-list|02-ID|03-name|04-fname|05-title|06-publisher|07-pubyear|08-aisn|09-dateentry|10-CPrefix|11-CN|12-url|13-ISBN|14-notes|15-Grade|16-dateread
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---
 reading_log|20210724_246| | |1912| | | | | | 324| | | | |2011-10
 nolst|FUE33WFH|Engel, Mason| |2084| |2017|B06WVZW73J|2017-03-01 10:40:02|k|813| | | | |
 reading_log|20210724_8|Neil Jorgensen.| |  A guide to New Englandﾒs landscape | | | | | | 551| | | | D|2020-11
@@ -21,7 +22,7 @@ reading_log|20210724_152|Anna North.| | America Pacifica | | | | | | 813| | | | 
 reading_log|20210724_207|Mohandas K. Gandhi , translated from the original in Gujarati by Mahadev Desai , with a foreword by Sissela Bok.| | An autobiography : | | | | | | B| | | | |2011-10
 reading_log|20210724_208|James C. Livingston.| | Anatomy of the sacred : | | | | | | 200| | | | |2011-10
 reading_log|20210724_183|[by] David nasaw.| | Andrew Carnegie | | | | | | 923| | | | |2012-03
-reading_log|20210724_176|Dan Brown.| | Angels & demons | | | | | | 813| | | | |2005-05   2012-03
+reading_log|20210724_176|Dan Brown.| | Angels and demons | | | | | | 813| | | | |2005-05   2012-03
 reading_log|20210724_70|Stant Litore.| | Ansible 15715 | | | | | | 813| | | | D|2016-10
 reading_log|20210724_60|Daniel D. Lamoreux.| | Apparition Lake| | | | | | 813| | | | C|2017-05
 reading_log|20210724_110|Guindon, Eric.| | Apprentice | | | | | | 813| | | | D|2014-06
@@ -61,7 +62,7 @@ reading_log|20210724_194|Terry Brooks.| | First king of Shannara | | | | | | 813
 reading_log|20210724_203|John Paul Stevens.| | Five chiefs : | | | | | | 347| | | | |2011-10
 reading_log|20210724_23|John Paul Stevens| | Five justices| | | | | | BPL 920| | | | C|2020-04
 reading_log|20210724_191|[by] Robert J. Sawyer.| | FlashForward | | | | | | 813| | | | |2012-02
-reading_log|20210724_81|Sean McLachlan & Charles River editors.| | Flying saucers | | | | | | 1| | | | C|2016-04
+reading_log|20210724_81|Sean McLachlan and Charles River editors.| | Flying saucers | | | | | | 1| | | | C|2016-04
 nolst | 20210702_082123 | 599 | Tue 06/29/2021 | Freebooksy | W.W. Norton | The bonobo and the atheist | b | Fri 07/02/2021 | w | 002 | |  | | |
 reading_log|20210724_37|Lincoln Child.| | Full Wolf Moon | | | | | | 813| | | | C|2019-06
 reading_log|20210724_41|Joy Cameron.| | Gabe and the mystery light | | | | | | 813| | | | C|2018-07
@@ -161,7 +162,7 @@ reading_log|20210724_31|John Scalzi.| | The collapsing empire| | | | | | BPL 813
 reading_log|20210724_30|John Scalzi.| | The consuming fire | | | | | | 813| | | | C|2020-01
 reading_log|20210724_275|Andrew Keen.| | The cult of the amateur | | | | | | 303| | | | |0000-00
 reading_log|20210724_264|Patricia Marcello.| | The Dalia Lama | | | | | | 922| | | | |2005-05
-reading_log|20210724_155|Susan Beth Pfeffer.| | The dead & the gone | | | | | | 813| | | | |2013-01
+reading_log|20210724_155|Susan Beth Pfeffer.| | The dead and the gone | | | | | | 813| | | | |2013-01
 reading_log|20210724_90|Benjamin Percy.| | The dead lands | | | | | | 813| | | | C|2015-07
 reading_log|20210724_87|Scott Samuelson.| | The deepest human life | | | | | | 100| | | | B|2015-10
 reading_log|20210724_161|Margaret Thatcher.| | The Downing Street years | | | | | | | | | | |2012-11
