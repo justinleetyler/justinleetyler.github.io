@@ -1797,7 +1797,10 @@ Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, 
 > III. Magic: A. Three sources (1. Personal Power: The life force that sustains our earthy existence. -- 2. Earth Power: Resides within our planet and its natural products. -- 3. Divine Power: manifestation of personal and earth power.) -o
 > IV. Tools: A. The Broom (1. Used to magically clean an area -- 2. May also be used to represent astrol projection. -- 3. Linked with element of water.) -- B. Wand (1. Direct energy. -- 2. Linked with air, sacred to the God.) -- C. Censer (insense burner) -- D. Cauldron (1. A container in which magical tranformations occur.) -- E. Magic Knife (1. Causes physical change; associated with fire; linked with the god.) -- F. Chrystal Sphere (1. used in contemplative divination. -- 2. psychic faculties.) -- G. Cup (1. Simply a cauldron on a stem. -- 2. associated with the Goddess and fertility -- 3. related to element of water.) -- H. Pentacle (1. An element of protection -- 2. Associated with element of earth.) -- I. The Book of Shadows (1. Spell and ritual book) -- J. Bell (1. powerful effects according to its volume, tone, and material of construction -- 2. Used to a. ward off evil spirts and spells  b. protection  c. evoke good energies.) -s 
 >  I. Days of power: A. Yule (1. circa dec. 21 -- 2. The goddess gives birth to a son, the god.) -- B. Imbolic (1. Feb. 2 2. recovery of the goddess after giving birth.) -- C. Ostara (1. circa Mar. 21 -- 2. Marks the spring; goddess blankets the earth with fertility) -- D. Beltane (1. Apr. 30 -- 2. Marks the emergence of the young god into manhood.) -- E. Midsummer / Litha (1. circa jun 21 -- 2. the powers of nature reach highest point -- 3. earth awash in fertility of the goddess and god) -- F. Lughnasadh (1. Aug. 1 -- 2. time of harvest -- 3. the god lose his strenth) -- G. Mahon (1. circa sept. 21 -- 2. the god prepares to leave physical body) -- H. Samhain (1. oct. 31 -- 2. says farwell to the god.)  -s
-> VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)Curlie. -- Computer data -- Curlie, c2018. -- Mode of Access: World Wide Web. -- Title from homepage. -- URL https://curlie.org/ . -- DDC 017.
+> VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)
+
+### &nbsp;
+Curlie. -- Computer data -- Curlie, c2018. -- Mode of Access: World Wide Web. -- Title from homepage. -- URL https://curlie.org/ . -- DDC 017.
 
 ### &nbsp;
 Cusco. -- Apurimac III. -- Computer data (1 directory). -- [S.n.], 1997. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
@@ -1993,7 +1996,7 @@ Deep Forest (Musical group). -- Boheme. -- Computer data. -- S.l: Columbia, 1995
 ### &nbsp;
 Deep Forest (Musical group). -- Made in Japan. -- Computer data. -- New York, NY: Epic/550 Music, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-###delancy2014
+### delancy2014
 DeLancy, Craig. -- Well of Furies. -- 10th ed. -- Perfect Number, 2014. -- Title from amazon.com desc. Dec. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B00AR7GLZO). -- AISN: B00AR7GLZO. -- DDC 813.
 > This was the Sussurat expression for you are being such an idiot that I must spare you the shame of looking at you with all four eyes. -q
 > Gowgoroup: a Slug -f
@@ -2187,7 +2190,10 @@ Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file :
 [Duke and Dutchess of Windor's home in France]. -- Computer data (1 file : 63.9 KB). -- [S.n., n.d.] -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger. -- Filename: 3308.mp4. -- DDC 724.
 
 ### &nbsp;
-Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.eBooks habit. -- Computer data. -- eBooksHabit, c2012. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL ebookshabit.com. -- DDC 002.
+Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.
+
+### ebooks2012
+eBooks habit. -- Computer data. -- eBooksHabit, c2012. -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL ebookshabit.com. -- DDC 002.
 
 E
 ---
@@ -2813,7 +2819,10 @@ Giordano, Tommaso. -- Electronic resources management and long term preservation
 GMD mapped to Content Type, Media Type, Carrier Type, and Unit of Extent, with MARC fixed fields. -- Computer data (1 file : 219 kb). -- [S.l. : s.n., 2011?] -- Title from p -- DDC -- File name: (10167.pdf) -- DBID 10167 -- DDC 025.3.
 
 ### &nbsp;
-Goldstein, Jack. -- 101 amazing facts. -- 1st ed. -- Jack Goldstein books, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based amazon.com viewed Jan 5, 2019. -- DDC 001.Goodall, Medwyn. -- Ancient Nazca: Inca Mysteries. -- Computer data. -- Aerdenhout, Holland: Oreade Music, 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
+Goldstein, Jack. -- 101 amazing facts. -- 1st ed. -- Jack Goldstein books, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based amazon.com viewed Jan 5, 2019. -- DDC 001.
+
+### goodall1997
+Goodall, Medwyn. -- Ancient Nazca: Inca Mysteries. -- Computer data. -- Aerdenhout, Holland: Oreade Music, 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 ### &nbsp;
 Goodkind, Terry. -- Wizard's First Rule. -- Computer file. -- RosettaBooks, 2010. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- DDC 813.
@@ -2971,7 +2980,8 @@ Grease: The Original Soundtrack from the Motion Picture. -- Computer data. -- Ne
 ### &nbsp;
 Great Britian. House of Commons. Select committee on the Public Administration. -- Fourth report. -- Computer data (1 file : 161 kb) -- [United Kingdom : Parliament, c2004]. -- Title from cover. -- File name: (9077.pdf) -- DBID 9077 -- DDC 342.42.
 
-### Green, Cara. -- Vegan instant pot cookbook. -- Computer data (1 file). -- [S.l.], 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B078VTKYJW. -- DDC 641.
+### green2018
+Green, Cara. -- Vegan instant pot cookbook. -- Computer data (1 file). -- [S.l.], 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B078VTKYJW. -- DDC 641.
 
 ### &nbsp;
 Greenbaum, Dave. -- Journaling at the end of the day could increase your productivity. -- Computer data. -- Mode of Access: World Wide Web (http://lifehacker.com/1590024732). -- Title from resource. -- IN Lifehacker [website]. -- (Jun. 15, 2014). -- DDC 808.06692.
