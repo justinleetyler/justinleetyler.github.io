@@ -8,7 +8,7 @@ Five Justices / John Paul Stevens.
 
 Archives
 ---
-including reading [notes](/notes) and [logs](/interests), a [catalog](/kindle_books.html) of my kindle books, and my favorite [websites](/bookmarks).
+including reading [notes](/catalog) and [logs](/interests), a [catalog](/kindle_books.html) of my kindle books, and my favorite [websites](/bookmarks).
 
 [Resume](resume) 
 ---  
