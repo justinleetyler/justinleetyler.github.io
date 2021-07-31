@@ -2,17 +2,13 @@ Justin Lee Tyler, MLIS
 ===
 Senior Content Integration Engineer, EBSCO Information Services
 
-[[my reading notes]](http://www.justinleetyler.com/catalog) [[my bookmarks]]()
-
----
-
 Currently Reading
 ---
 Five Justices / John Paul Stevens.
 
-[Archives](interests)
+Archives
 ---
-including interests, reading notes, logs, etc.
+including reading [notes](/notes) and [logs](/interests), a [catalog](/kindle_books.html) of my kindle books, and my favorite [websites](/bookmarks).
 
 [Resume](resume) 
 ---  
