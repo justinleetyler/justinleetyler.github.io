@@ -22,8 +22,7 @@ Resume:  [Justin Lee Tyler](http://justinleetyler.com/resume)
 ⚡ Fun facts:
    : I'm a noviciate in the Ancient Order of Druids in America: [AODA](http://www.aoda.org)
 
-2001, by Arthur C. Clarke
----
+## 2001, by Arthur C. Clarke
 
 field           | value
 ----------------|------
