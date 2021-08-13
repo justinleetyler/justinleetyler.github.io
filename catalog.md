@@ -136,6 +136,8 @@ Ali, Ayaan Hirsi. -- Heretic. -- Harper, c215. -- 272 p. -- ISBN 9780062333933. 
 > It was, after all, Lock who gave us the notion of a 'natural right' to the fundamentals of 'life, liberty, and property.' -p. 209 -q
 > And religious toleration, howver long it took to tbe established in practice, is one of the greatest achivements of the Western world. -p. 209 -q
 > The extremists are afraid of books and pens. The power of education frightens them. -Malala Yousafzai -p. 289 -q
+
+### &nbsp;
 Allende, Isabel. -- City of the beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. -- HarperTrophy, c2002. -- 406, 15 p. -- ISBN 9780060535032. -- DDC 813.
 > Ch. 06: Mauro Carias and Captain Ariosto are up to something. -s
 > Ch. 08: The group travels further in the Amazon. One person dies from an arrow shot from the forest. -s
@@ -197,10 +199,13 @@ Anderson, John A. -- The Jager journal. -- Computer data (1 file). -- [S.n.], c2
 > Jim Harrison
 
 ### &nbsp;
-Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN: 0061052477. -- DDC 813.
+Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN 0061052477. -- DDC 813.
 > Cassandra: Daughter of Vladimir Rubicon; goes missing during an archological expedition in Central America.
 > Ch. 06: Mulder, Scully, and Rubiicon fly to Cancun on their way to the Yucatan. -s
-> Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
+> Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s 
+ 
+### &nbsp;
+Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
 
 ### &nbsp;
 Anonymous 4 (Musical group). -- Legends of St. Nicholas: Medieval Chant and Polyphony. -- Computer data. -- London: Harmonia Mundi, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.723.
@@ -375,6 +380,8 @@ Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State. -- Compute
 > Decisions made through consensus ... The disgruntled members leave. -q
 > Religion is generally based on family tradition, individual experience, or counsel from a shaman.
 > However they do have a leader that settles disputes and fulfills ceremonial roles. The !Kung leader is known as the 'headman.' -q
+
+### &nbsp;
 Baker, Jean H. -- James Buchanan. -- Henry Holt and Co., c2004. -- xviii, 172 p. -- ISBN 9780805069464. -- DDC 923.
 > On the basis of slender evidence, mostly the circumstances of his bachelorhood and three asides by contemporaries about his effeminacy, Buchanan has been dubbed America's first homosexual president. Referring to his femininity, Andrew Jackson once calleed him an 'Aunt Nancy'... Absent the discovery of new material, no one will ever know whether Buchanan and King (the only man whom his name was ever erotically connected) had sexual relations.  -p. 25 -q
 > The best speculation about the sexuality of nonshaving Buchanan, who in his portrates has eunuchlike, endomorphic features of body and face as well as the low hairline characteristic of asexual men with low levels of testosterone, is that he had little interest in sex. -p. 26 -q
@@ -488,7 +495,10 @@ Bhagavad-Gita: The song of God / [translated by] Christopher Isherwood . -- New 
 > After strict self-schooling; Sour toil at first But at last what sweetness, The end of sorrow. -p. 125 -q
 > A man will reach perfection if he does his duty as an act of worship to the Lord, who is the source of the universe, prompting all action, everywhere present. -p. 127 -q
 > Now I have taght youu that wisdom is the secret of secrets. Ponder it carefully. Then act as you think best. -p. 129 -q
-> You must never tell this holy truth to anyone who lacks self-control and devotion. -p. 129 -qBible, English. Message. 2002. -- The Message : The bible in contemporary language / Eugene H. Peterson. -- Large Print Numbered ed. -- Computer data (1 file). -- Navpress, c2002. -- on Asus Transformer Tablet. -- Title from Title Page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1576836738. -- DDC 220.
+> You must never tell this holy truth to anyone who lacks self-control and devotion. -p. 129 -q
+
+### &nbsp;
+Bible, English. Message. 2002. -- The Message : The bible in contemporary language / Eugene H. Peterson. -- Large Print Numbered ed. -- Computer data (1 file). -- Navpress, c2002. -- on Asus Transformer Tablet. -- Title from Title Page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1576836738. -- DDC 220.
 > Prosperity is as short-lived as a wildflower, so don't ever count on it. -James 1 -q
 > The temptation to give in to evil comes from us and only us.... Lust gets pregnant, and has a baby: sin! Sin grows up to adulthood, and becomes a real killer. -James 1 -q
 > Lead with your ears, follow up with your tongue, and let anger straggle along in the rear. -James 1. -q
@@ -632,7 +642,10 @@ Brinkbaumer, Klaus. -- The voyage of the Vizcaína  / [by] Klaus Brinkbäumer an
 > At the time of their 'discovery,' the 'Indians' had no name by which they referred to themselves. Later they were called the Tainos, a term for Indians who spoke Arawak. The Tainos from the Bahamas Were called he Lucayas. Mainly fishermen and gatherers, and perhaps the most most peace-loving people living on the entire continent. there would probably have beenabout fifty thousand of them, living in villages consisting of ten to twelve huts. -p. 119 -q
 > Christopher Columbus could be both remarkably cover and astonishingly dense. He was driven hard by hopes and dreams and yet unable to leet go of his misprisions and unwilling to correct his mistakes. The combination led him to make grotesquely bad decisions. -p. 285 -q
 > Unlike his father, he [Diego] never spoke openly of his goals. -p. 287 -q
-> Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -qBritannica concise encyclopedia. -- Encyclopaedia Britannica, c2002. -- xi, 2067 p. -- ISBN 0852298323. -- DDC 031.
+> Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -q
+
+### &nbsp;
+Britannica concise encyclopedia. -- Encyclopaedia Britannica, c2002. -- xi, 2067 p. -- ISBN 0852298323. -- DDC 031.
 
 ### &nbsp;
 Brazier, Caroline. -- Cataloguing policy and practice  - 2007 and beyond: a view from the British Library. -- Computer data (1 file : 5.8 mb) -- [S.l., s.n.], 2007. -- Title from slide 1. -- File name: (1399.ppt) -- DBID 1399 -- DDC 025.3
@@ -937,6 +950,8 @@ Brown, Dan. -- The Da Vinci code. -- Doubleday, c2003. -- 454 p. -- DBID 0029. -
 > Those who truly understnd their faiths understand the stories are metaphorical. -p. 342 -q
 Brown, Dan. -- Inferno. -- Computer data. -- Anchor, c2013. -- Mode of Access: World Wide Web (https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865. -- Title from title page. -- DDC 813.
 > Madness breeds madness. -q
+
+### &nbsp;
 Brown, Pierce. -- Red rising. -- Del Rey, c2014. -- 382 p. -- ISBN 9780345539793. -- DDC 813.
 > Those who bow their heads and accept the rule of Society and their place in Society, as all Colors do, live on wih relative freedom. -p. 70 -q
 > And those Obsidians are only the elite. The Gray soldiers prowl he cities ensuring order, ensuring obedience to the hierarchy. The Whites arbitrate their justice and push their philosophy. Pinks pleasure and serve in highColor homes. Silvers count and mniplulate currency and logistics. Yellows study the medicines and sciences. Greens develope techology. Blues navigate the stars. Coppers un the beauracracy. Every olor has a purpose. Every Color props up the Golds. -p. 72 -q
@@ -1732,6 +1747,8 @@ Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. 
 > 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q
 > Elpidius -p. -q
 > FaustusA teacher of the Manacians -p. -f
+
+### &nbsp;
 Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780061859366. -- DDC 634.
 > ... I'd have told you you were stark raving mad... -p. 80 -q
 > Every so often my stripping away of need and worry leaves me eager to be shed of even more. -p. 85 -q
