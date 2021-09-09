@@ -14,6 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-07 | C | 4 Edward Heath / Michael McManus | 920 ||
 |2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
 |2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
 |2021-05 | C | 1 [Prince Charles](https://justinleetyler.github.io/catalog#smith2017) | 920 | A biography of Prince Charles. |
