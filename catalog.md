@@ -7097,3 +7097,5 @@ White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Acc
 ### DeLancey2014 
 DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k813.
 
+### 20210911_185623 
+Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- v. -- ISBN 9780553293357 -- DBID 20210911_185623. -- DDC 813. 
