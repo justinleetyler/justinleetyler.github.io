@@ -7093,9 +7093,13 @@ Wall, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- v. -- I
 ### 20210629_210606 
 The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021. -- DDC w. 
 ### White1960 
-White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k574. 
+White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k574.
 ### DeLancey2014 
 DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k813.
 
 ### 20210911_185623 
-Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- v. -- ISBN 9780553293357 -- DBID 20210911_185623. -- DDC 813. 
+Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553293357. -- DBID 20210911_185623. -- DDC 813. 
+> Read 2021-09. -- Grade C.
+> It is uncientific to suppose meaningless cases. -p. 259. -q
+> I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q
+> A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
