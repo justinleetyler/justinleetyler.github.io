@@ -7102,4 +7102,5 @@ Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553
 > Read 2021-09. -- Grade C.
 > It is uncientific to suppose meaningless cases. -p. 259. -q
 > I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q
-> A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
+> A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q### 20210911_190618 
+#C Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- Title from amazon.com viewed Sat 09/11/2021. -- AISN B077J7X6H7. -- DBID 20210911_190618. -- DDC 813. 
