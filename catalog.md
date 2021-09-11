@@ -7096,3 +7096,5 @@ The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of 
 White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k574. 
 ### DeLancey2014 
 DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k813. 
+### 20210911_185221 
+b, n/a. -- n/a. -- Del Rey, Foundation. -- v. -- ISBN 9780553293357 -- DBID 20210911_185221. -- DDC n/a. 
