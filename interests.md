@@ -14,8 +14,9 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
-|2021-08 | C | 5 Dave Barry hits below the beltway / Dave Barry | 817 | |
-|2021-07 | C | 4 Edward Heath / Michael McManus | 920 ||
+|2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | |
+|2021-07 | C | 5 Edward Heath / Michael McManus | 920 ||
+|2021-06 | C | 4 [The heirs of Earth](https://justinleetyler.github.io/catalog#20210911_190618) / Daniel Arenson | 813 | |
 |2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
 |2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
 |2021-05 | C | 1 [Prince Charles](https://justinleetyler.github.io/catalog#smith2017) | 920 | A biography of Prince Charles. |
@@ -288,9 +289,9 @@ Star gazing log
 |2013-03 |   |The scions of Shannara / Terry Brooks. | 813.|
 |2003-02 |   |The wishsong of Shannara / Terry Brooks. | 813.|
 |2013-01 |   |The elfstones of Shannara / Terry Brooks. | 813.|
-|2003-01 |   |The sword of shannara / Terry Brooks. | 813.|
-|2002-11 |   |First king of Shannar / Terry Brooks. | 813|
-|0000-00 |   |The cult of the amateur / Andrew Keen. | 303|
+|2003-01 |   |The sword of Shannara / Terry Brooks. | 813.|
+|2002-11 |   |First king of Shannara / Terry Brooks. | 813|
+|0000-00 |   |[The cult of the amateur](https://justinleetyler.github.io/catalog#3014) / Andrew Keen. | 303|
 |0000-00 |   |Dave Barry's Money $ecrets [secrets]. / Dave Barry. | 817|
   
 ### Books to read
