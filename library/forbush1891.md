@@ -17,7 +17,7 @@ only wish of THE COMPILER.
 
 First Sunday
 
-Second Sunday
+[Second Sunday](#Second_Sunday)
 
 Third Sunday
 
@@ -25,7 +25,7 @@ Fourth Sunday
 
 Fifth Sunday
 
-Evening
+[Evening](#Evening)
 
 [Christmas](#Christmas)
 
@@ -104,137 +104,52 @@ praising thee both with our lips and our lives, may go on
 through thy guidance to the joy of life everlasting. Amen.
 
 
-## SECOND SUNDAY. II
+## SECOND_SUNDAY.
 
 ## ALL STANDING.
+The Lord Almighty reigneth: Halleluhah! / The llLord, the Lord Almighty reigneth: Hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah, hallelujah
 
-```
-—i.^1 — J i *l J 1 - 1 - i 1
-► t
-The I,ord Al-m ght-y ieign - eth : Hal - le - lu - jah! The Lord, the
-g); b u 4—1 —
-j. -
-```
-```
-I » ~f=r Fr~f hwTt |-g —g—F
-```
-```
-—« 0 iJ— s> 1
-i i
-LordAl-might-y reign - eth: Hal-le- lu - jah, hal-le - lu - jah, hal - le
-( f I fTjp ■ « — ^
-r r £
-r
-```
-```
-? r
-lu-jah, hal-le- lu - jah, hal-le - lu - jah, hal-le - lu - jah, hal-le-lu jah!
-```
-```
-SB•Jsz U
-r
-RESPONSIVE READING.
-COME, let us sing unto the Lord,
-Let us raise a voice of joy to the rock of our salvation.
-```
-```
-Let us serve the Lord with gladness,
-Andcome before his presence with thanksgiving.
-```
+### RESPONSIVE READING.
+V. COME, let us sing unto the Lord,
+R. Let us raise a voice of joy to the rock of our salvation.
+V. Let us serve the Lord with gladness,
+R. And come before his presence with thanksgiving.
+V. To show forth his loving-kindness in the morning,
+R. And his faithfulness everynight.
+V. For the Lord is great and greatly to be praised;
+R. Honor and majesty are before him;
+V. Strength and beauty are in his sanctuary;
+R. Righteousness and judgment are the foundation of his throne.
+V. The heavens declare his righteousness,
+R. And all the people see his glory.
+V. O worship the Lord in the beauty of holiness;
+R. Let the whole earth stand in awe before him.
+V. In his hand are the deep places of the earth;
+R. The strength of the hills is his also.
+V. The sea is his, and he made it,
+R. Andhis handformedthe dry land.
+V. O come, let us worship and bow down;
+R. Let us kneel before the Lord our Maker:
+V. For he is our God,
+R. We are his people and the sheep of his pasture.
+V. Enter into his gateswith thanksgiving,
+R. And into his courts with praise.
+V. Give thanks unto him, and bless his name;
+R. Show forth his salvation from day to day.
+V. For the Lord is great, his mercy is everlasting,
+R. And his truth endureth to all generations.
 
-## IS BOOK OF WORSHIP.
+### ALL
+OUR FATHER who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. Forgive us our trespasses as we forgive them that trespass against us. Lead us not into temptation; but deliver us from evil. For thine is the kingdom, and the power, and the glory, forever and ever. Amen.
 
-```
-To show forth his loving-kindness in the morning,
-Andhis faithfulness everynight.
-```
-```
-For the Lord is great and greatly to be praised;
-Honorandmajesty are beforehim;
-```
-Strength and beauty are in his sanctuary;
-Righteousness andjudgmentare the foundation of his throne.
+Glory be to the Father who is in heaven, The High and Holy One. / 
+As it was in the beginning, is now, and ever shall be, World without end, Amen.
 
-The heavens declare his righteousness,
-Andall the people see his glory.
-
-O worship the Lord in the beauty of holiness;
-Letthe whole earth standin awe before him.
-
-```
-In his hand are the deep places of the earth;
-Thestrength of the hills is his also.
-```
-The sea is his, and he made it,
-Andhis handformedthe dry land.
-
-O come, let us worship and bow down;
-Let us kneel beforethe Lord ourMaker:
-
-```
-For he is our God,
-Wearehis people andthe sheep of his pasture.
-```
-```
-Enter into his gateswith thanksgiving,
-Andintohis courtswithpraise.
-```
-
-## SECOND SUNDAY. 13
-
-```
-Give thanks unto him, and bless his name;
-Showforthhis salvationfrom dayto day.
-```
-```
-For the Lord is great, his mercy is everlasting,
-Andhis truthendureth to all generations.
-```
-## ALL
-
-```
-f^UR FATHER who art in heaven, hallowed be thy
-name. Thy kingdom come. Thy will be done on
-earth as it is in heaven. Give us this day our daily bread.
-Forgive us our trespasses as we forgive them that trespass
-against us. Lead us not into temptation; but deliver us
-from evil. For thine is the kingdom, and the power, and
-the glory, foreverand ever. Amen.
-```
-```
-Glorybe to the Father who is in heaven, The Highand Ho - ly One.
-```
-```
--J^1 g> —^1 — I g Eg— i
-```
-i
-
-```
-As it was in the beginning, is now, and ev - er shall be, World with - out end, A - men.
-—s> — 1 —<» F
-```
-```
-.//ifr*«^ f««^" Hymn.
-```
-
-## BOOK OF WORSHIP.
-
-## PRAYER.
-
+### PRAYER
 For a Lay Service.
-"y^"E praise thee, O God! We humbly bow before thee,
-the Father everlasting. Heaven and earth are full
-of the majesty of thy glory. We would join with the
-glorious company of the apostles, the goodly fellowship of
-the prophets, the noble army of the martyrs, and the holy
-church throughout all the world in ascribing praise to thee,
-the Fatherof infinite majesty. Thou givest us the victory
-oversin and death. Thou openest the kingdom of heaven
-to all the faithful, and callest themthitherby thy spirit. O
-Lord! bless thy children, whom thou hastloved withsuch
-boundless love. Keep us day by day without sin. Guide
-and strengthen us through life; and at last make us to be
-numbered with thy saints in glory everlasting. Amen.
+
+We praise thee, O God! We humbly bow before thee, the Father everlasting. Heaven and earth are full of the majesty of thy glory. We would join with the
+glorious company of the apostles, the goodly fellowship of the prophets, the noble army of the martyrs, and the holy church throughout all the world in ascribing praise to thee, the Father of infinite majesty. Thou givest us the victory over sin and death. Thou openest the kingdom of heaven to all the faithful, and callest them thither by thy spirit. O Lord! bless thy children, whom thou hast loved with such boundless love. Keep us day by day without sin. Guide and strengthen us through life; and at last make us to be numbered with thy saints in glory everlasting. Amen.
 
 
 ### THIRD SUNDAY.
@@ -576,153 +491,63 @@ perfectly love theeand worthilymagnifythy hallowed name.
 Amen.
 
 
-## EVENING. 27
+### EVENING
 
-## ALL STANDING.
+### ALL STANDING.
 
-```
-m
-Near-er,my God, to thee, Near-er to thee I E'en tho' it be a cross That rais-eth me,
-```
-## 1 ^
 
-```
-Still all my song shall be, Near-er, my God, to thee, Near-er, my God, to thee, Near-er to thee!
-'if* f)f"||
-```
-## *<—
-
-## 1 ^.—
-
-|w 1 1 -J —U— 14 1 1 g I' f r L
+Nearer, my God, to thee, Nearer to thee! Een tho it be a ross That raiseth me, Still all my song shall be, Nearer, my God, to thee, nearer, my God, to thee, Nearer to thee!
 
 ## RESPONSIVE READING.
 
-```
-"C*ROM the risingof the sununto the going down of the
+V. From the rising of the sun unto the going down of the
 same,
-The Lord's name is to be praised.
-Let ourprayers be set forth as incense before him,
-Andthe lifting up of our hands as an evening sacrifice.
-```
-```
-Hisvoice in the morning is heard from afar,
-In the evening he speaketh at the door, andentereth in to
+R. The Lord's name is to be praised.
+V. Let our prayers be set forth as incense before him,
+R. And the lifting up of our hands as an evening sacrifice.
+V. His voice in the morning is heard from afar,
+R. In the evening he speaketh at the door, and entereth in to
 abide with us.
-```
-
-## 28 BOOK OF WORSHIP.
-
-0 Lord! whither shall I go from thyspirit?
-Or whither shallIfleefrom thy presence?
-
-If I ascend up into heaven, thou art there:
-If I make mybedin the grave, behold! thou artthere.
-
-```
-If I take the wings of the morning,
-Anddwellin the uttermostparts of the sea ;
-```
-```
-Even there shall thy hand lead me,
-And thy right handshallhold me.
-```
-```
-If I say, Surely the darkness shall cover me,
-Eventhe night shall be light aboutme.
-```
-```
-The darkness hideth not from thee, but the night shineth
+V. O Lord! whither shall I go from thy spirit?
+R. Or whither shallIfleefrom thy presence?
+V. If I ascend up into heaven, thou art there:
+R. If I make my bed in the grave, behold! thou art there.
+V. If I take the wings of the morning,
+R. And dwellin the uttermost parts of the sea ;
+V. Even there shall thy hand lead me,
+R. And thy right handshallhold me.
+V. If I say, Surely the darkness shall cover me,
+R. Even the night shall be light about me.
+V. The darkness hideth not from thee, but the night shineth
 as the day:
-Thedarkness and the light are both alike to thee.
-```
-```
-The Lord revealeth his loving-kindness in the daytime,
-And in the night my song shallbe of him, and my prayer
+R. The darkness and the light are both alike to thee.
+V. The Lord revealeth his loving-kindness in the daytime,
+R. nd in the night my song shallbe of him, and my prayer
 unto the God of my life.
-```
-```
-1 will lay me down in peace and take my rest,
-For thou, O Lord! makest me to dwell in safety.
-```
-```
-Great peace have they that love thy law:
-Thou wilt not suffer them that seek thee to fail.
-```
-```
-Thou wilt keep him in perfect peace,
-Whose heart is stayed on thee.
-```
+V. 1 will lay me down in peace and take my rest,
+R. For thou, O Lord! makest me to dwell in safety.
+V. Great peace have they that love thy law:
+V. Thou wilt keep him in perfect peace,
+R. Whose heart is stayed on thee.
+V. Let the words of my mouth,
+R. And the meditation of my heart,
+V. Be acceptable in thy sight,
+R. O Lord! my strength andmy redeemer.
 
-## EVENING. 29
 
-```
-Let the words of my mouth,
-Andthe meditation of my heart,
-```
-```
-Be acceptable in thy sight,
-O Lord! my strength andmy redeemer.
-```
-## ALL.
+### ALL.
+OUR FATHER who art in heaven, hallowed be thy name. Thy kingdom come. Thy will be done on earth as it is in heaven. Give us this day our daily bread. Forgive us our trespasses as we forgive them that trespass against us. Lead us not into temptation; but deliver us from evil. For thine is the kingdom, and the power, and the glory, forever and ever. Amen.
 
-```
-QUR FATHER who art in heaven, hallowed be thy
-name. Thy kingdom come. Thy will be done on
-earthas it is in heaven. Give us this day ourdaily bread.
-Forgive us our trespasses as we forgive them thattrespass
-against us. Lead us not into temptation; but deliver us
-from evil. For thine is the kingdom, and the power, and
-the glory, foreverand ever. Amen.
-```
-```
-m
-Glorybe to the Father who is in heaven, The rlighand Ho - ly One.
-B * P*>
-```
-## 1 — 9 — 1 —(S> — 1
+Glory be to the Father, the high and holy One! As it was in the beginning, is now, and every shall be, world without end! Amen.
 
-```
-<w_J - —&—^1 —&— F^=F-4
-```
-p— ■ ^ g Lg-L j. J J. -
-As it was in the beginning, is now, and
-/_«,.„ s> ■ ■ r-.
+Here may be sung a Hymn.
 
-```
-ev • er shall be, World with - out end, J
-g r iC ■
-```
-## V - MEN.
 
-```
-g ;g_q^g 1 Jgrrr <S>^1 g1 -ri
-g 1 —u
-Heremay be sung a Hymn.
-```
-
-## 3© BOOK OF WORSHIP.
-
-## PRAYER.
-
-```
+### PRAYER.
 For a Lay Service.
-RAISE be to thee, thou Eternal Rulerof the universe,
-whose word callsforththe evening twilight,and whose
-wisdom guides the stars in immeasurable space. Thine is
-the day, and thine also is the night: thou causest times
-and seasons to change according to thy law : thou unfoldest
-the wings of light and the shadowsof darkness, andnothing
-is hid from thine eye. We praise thee, O thou ever-living
-Eternal, whose wisdom shields us even in darkness. May
-the peace which rests on all the earth descend upon our
-hearts. Maythe care that never faileth guard andkeep us.
-May the love which brightens every morning abide with
-us at the eventide. And when our days on earth are num
-bered, and we lie down to our last sleep,may we awake in
-the light of that heavenly day whose sun goeth no more
-down forever. Amen.
-```
+
+PRAISE be to thee, thou Eternal Ruler of the universe, whose word calls forth the evening twilight, and whose wisdom guides the stars in immeasurable space. Thine is the day, and thine also is the night: thou causest times and seasons to change according to thy law : thou unfoldest the wings of light and the shadows of darkness, and nothing is hid from thine eye. We praise thee, O thou ever-living Eternal, whose wisdom shields us even in darkness. May
+the peace which rests on all the earth descend upon our hearts. May the care that never faileth guard and keep us. May the love which brightens every morning abide with us at the eventide. And when our days on earth are numbered, and we lie down to our last sleep, may we awake in the light of that heavenly day whose sun goeth no more down forever. Amen.
 
 ## CHRISTMAS
 
