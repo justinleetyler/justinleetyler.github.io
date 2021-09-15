@@ -7107,3 +7107,7 @@ Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553
 ### 20210911_190618 
 Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- Title from amazon.com viewed Sat 09/11/2021. -- AISN B077J7X6H7. -- DBID 20210911_190618. -- DDC 813. 
 >Read 2021-06. -- Grade C.
+
+### 20210915_0737
+Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlier; Translated by Rebecca Neal. -- 50minutes.com, c2017. -- Mode of Access: World Wide Web. -- URL https://www.hoopladigital.com/play/13056250 -- ISBN 9782808000390. -- DBID 20210915_0737.
+> Formulate a plan: Analyse your professional history; analyse your ambitions, motivations, and potential; define your professional cand career choices; identify the means at your disposal; implement a strategy and plan of action towards your objectives. -- Stages in drawing up your career strategy: set deadlines; use various tools to create your personal brand; network effectively; extablish a career plan in line with your skills, objectives and career path; evaluate your skills and objectives ; identify your personality type; analysis your professional journey. -- 
