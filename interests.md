@@ -14,6 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#Milton2019) / Nicholas Milton | 940 | |
 |2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | |
 |2021-07 | C | 5 Edward Heath / Michael McManus | 920 ||
 |2021-06 | C | 4 [The heirs of Earth](https://justinleetyler.github.io/catalog#20210911_190618) / Daniel Arenson | 813 | |

@@ -4814,6 +4814,38 @@ Becoming minimalist / [edited by] Joshua Becker. -- Computer data. -- Mode of Ac
 > What we create becomes meaningful to us only once we stop creating it and start to think about why we did so. -Rabbi Elijah of Vilna. -q
 > It is true that many of the benefits from concentrated rest are not tangible; but then again, only a fool believes all good things can be counted. -q
 
+### Milton2019
+Milton, Nicholas. -- Neville Chamberlain's legacy. -- Pen & Sword, 2019. -- Title from title page viewed Sept. 9, 2021. -- Mode of Access: [World Wide Web](https://www.hoopladigital.com/play/13917369). -- ISBN 9781526732262. -- DDC 941.
+> Read 2021-08. Grade C. -r
+> Where Churchill was impulsive and relied very much on his instincts, Chamberlain was utterly methodical and much more consensual in his approach.
+> horrors, atrocities and monstrosities’.
+> Chamberlain’s tenure at the Ministry of Health also resulted in marked improvements in both ante-natal and post-natal care.
+> The negotiated a reduction in interest payments from five per cent to three-and-a-half per cent, a notable achievement.
+> It is a sad fact that the presentable specimens there might have been counted on the fingers of one hand
+> Chamberlain reported to Hilda on 23 March 1935 that he had now become ‘a sort of Acting P.M. – only without the actual power of the P.M. I have to say “Have you thought” or “What would you say” when...
+> Dear Sir The Prime Minister asks me go thank you for your letter of 16 November. He was interested to hear of the redpoll. With reference to the suggestion that he should become a Vice-President ...
+> Musso’s latest outburst,’ he told Ida, ‘is I think to be attributed to a request from the Germans who appear to be
+> Foreign Office, S.W.1., 20th February, 1938. My dear Prime Minister, The events of the last few days have made plain a difference between us on a decision of great importance in itself and far-r...
+> He tried to negotiate with Ribbentrop, but felt it was hopeless, ‘He is so stupid, so shallow, so self centred and self satisfied and so totally devoid of intellectual capacity that he never seems ...
+> ‘But all the same I can’t help liking Winston although I think him nearly always wrong and impossible as a colleague.
+> ‘Well, it has been a pretty awful week – enough to send most people off their heads, if their heads were not as firmly screwed on as mine.’ The febrile atmosphere in Downing Street had begun to tak...
+> Up to this point Chamberlain had kept his counsel, and his calm, but he now reacted,
+> Exhausted after the encounter by Hitler’s mood swings and histrionics, Chamberlain
+> WOTD: foreboding -f
+> increasing incredulity
+> WOTD: indignant
+> This has not been a victory for reason and humanity. It has been a victory for brute force.
+> Chamberlain now hoped for the best but increasingly feared the worst.
+> It was pragmatic talk born out of realism, but it was also dangerously defeatist.
+> WOTD: intransigence
+> 11.15 am on Sunday 3 September 1939, Chamberlain broadcast to the nation that a state of war existed between Britain and Germany
+> He damned Hitler, saying, ‘We have to kill one another just to satisfy that accursed madman. I wish he could burn in Hell for as many years as he is costing lives.’
+> It was classic Chamberlain, but by being so overly optimistic he was also now dangerously in denial.
+> This is what Cromwell said to the Long Parliament when he thought it was no longer fit to conduct the affairs of the nation: ‘You have sat too long here for any good you have been doing. Depart, I ...
+> Churchill was to be true to his word when, just seven months after Chamberlain’s death, the old enmity returned when he described him as ‘the narrowest, most ignorant, most ungenerous of men,’ who ...
+> Chamberlain was a lapsed Unitarian
+> A dedicated and committed conservationist who was years ahead of his time,
+
 ### &nbsp;
 Ming-Dao, Deng. -- Scholar warrior. -- HarperCollins, c1990. -- vi, 351 p. -- ISBN 0062502328. -- DDC 299
 > I. Beginnings (The scholar and warrior are not separate ways. Both skills are needed for balance) -o
@@ -4916,29 +4948,29 @@ Minkman, Jen. -- The island. -- Computer data (1 file : 248 KB). -- Patchwork Pr
 > ... was making a book to give himself and the others around him courage through stories. To tell them that the Force would always be with them, even if their parents weren’t.
 > The very first Bookkeeper. The man who taught us about the importance of knowledge in books. -q
 
-### &nbsp;
+### mit
 MIT OpenCourseWare [website]. -- Computer data. -- [S.l.], s.n., c2002- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://ocw.mit.edu/ ) -- DBID 3083 -- DDC 375.
 
-### &nbsp;
+### mitchell-m
 Mitchell, J. Baron. -- Midnight city. -- Thomas Dunn Books, c2012. -- 392 p. -- ISBN 9781250036285. -- DDC 813.
 > 10 Holt finds a girl named Zoey; the assembly is after her; she knows his name before he tells it. -s
 > It's not my problem... I don't get involved. It's my ule. I only do what I have to do to survive, and right no that means taking you back. -Holt -p. 90 -q
 > 11-15 S They run into Mantis's; Zoey and Mira get away, but he finds them again. And Holt turns Zoey loose. -s
 > 17 They come across an abandoned city, and a flash flood. Mira saves Holts life. -s
 
-### &nbsp;
+### moan-s
 Moan, Lee. -- Symbiosis. -- Computer data (1 file). -- [S.l. : Wierd New Ink, 2011]. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3046 -- DDC 813.
 
-### &nbsp;
+### moods-e
 Moods Unlimited Orchestra (Musical group). -- The Elton John Story: Vol. 2. -- Computer data. -- St-Laurent, Quebec: Image, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### moore-m-t
 Moore, Michael. -- Talisman of Ictis. -- 2nd ed. -- Computer data (1 file : 356 KB). -- M.J. Moore, 2013.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00D0CISY0. -- DDC 813.
 
-### &nbsp;
+### moore-t-a
 Moore, Thomas. -- All books are sacred. -- Computer data (1 file : 607 kb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3017.pdf). -- DBID 3017. -- IN: The Huffington Post [website]. -- (May 16, 2012) -- DDC 303.
 
-### &nbsp;
+### moore-t-s
 Moore, Thomas. -- The soul's religion. -- 1st ed. -- HarperCollins, c2002. -- xx, 294 p. -- ISBN 0060192860. -- DDC 291.4.
 > Foundation of religious experience: Emptiness -- Mystery. -f
 > Certainly facts can be tested, but in the long run human beings don't live by facts, they live by belief and imagination. -q -p. 12
@@ -4990,48 +5022,48 @@ Moore, Thomas. -- The soul's religion. -- 1st ed. -- HarperCollins, c2002. -- xx
 > Secularism might be defined as a life without sacrifice. -p. 211 -q 
 > We have yet to learn that the only humanism which is ultimately effective is religious humanism, a combination of human effort and divine influence. -p. 211 -q 
 
-### &nbsp;
+### morris-t-t
 Morris, Trevor. -- The Tudors: Music from the Showtime Original Series. -- Computer data. -- Studio City, Calif: Vare?se Sarabande, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542
 
-### &nbsp;
+### mountjoy-g-3
 Mountjoy, G.R. -- 3 years after... -- Computer data (1 file : 245 KB). -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### mtv
 MTV, the First 1000 Years: New Wave. -- Computer data. -- New York: MTV Networks, 1999. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
-### &nbsp;
+### mullin-m-a
 Mullin, Mike. -- Ashfall. -- Tanglewood, c2011. -- 466 p. -- ISBN 9781933718552. -- DDC 813.
 > Catastrophy: An Investigation into the Origins of the Modern World by David Keyd. Ballantine, 1999. Describes how a volcanic event in 535 A.C.E. changed civilizations across the globe. Very useful for considering the possible political, social, and epidemiological consequences of a supervolcano. -p. 460 -q
 
-### &nbsp;
+### hero
 My Hero. -- [S.l. : s.n., 2000.] -- 2 video discs. -- Starring Emily Joyce, Geraldine McNulty, Hugh Dennis, Lill Roughley -- DDC 791.43.
 
-### &nbsp;
+### murray-k-o
 Murray, Katherine. -- Own your future. -- Computer data (1 file). -- Microsoft Press, c2010. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3330.pdf. -- DDC 158.
 
-### &nbsp;
+### naco-p
 NACO participants' manual / edited by Patricia Van Ryn and William L. Starck. -- Computer data (1 file : 516 kb) -- [Washington, D.C.] : Library of Congress, 2005. -- Title from cover. -- File name: (7051.pdf) -- DBID 7051. 025.4.
 
-### &nbsp;
+### nair-r-p
 Nair, R. Raman. -- Public library systems in ancient South India. -- Computer data (1 file) -- on 1 external hard drive. -- Title from resource. -- File name: 0942.pdf . -- IN ILA Bulletin. -- Vol. 27, no. 2 (Jul.-Sept. 1991). -- DDC 027.
 
-### &nbsp;
+### nasa
 NASA  - NASA TV. -- Computer data. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.nasa.gov/multimedia/nasatv/index.html. -- IN NASA [homepage]. -- [United States?] : NASA, [n.d.] -- URL http://www.nasa.gov -- DDC 629.
 
-### &nbsp;
+### nasaw-d-a
 Nasaw, David. -- Andrew Carnegie. -- New York : The Penguin Press, 2006. -- xiv, 878 p.
 > Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q
 
-### &nbsp;
+### nat-b
 National Research Council (U.S.). Committee on Digital Archiving and the National Archives and Records Administration. -- Building an electronic records archive at the National Archives and Records Administration. -- Computer data (1 file : 679 kb) -- Washington, DC : National Academies Press, 2005. -- on 1 external hard drive. -- Title from title page. -- File name: (8851.pdf) -- ISBN 0309551811 -- DBID 8851 -- DDC 025.17.Neary, Peter
 
-### &nbsp;
+### neary-p-m
 Neary, Peter. -- The morning after a general election: the vice-regal perspective. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3270.pdf -- IN Canadian Parliamentary Review. -- Vol. 35, no. 3. (Autumn 2012). -- DDC 324.
 
-### &nbsp;
+### nemko-m-s
 Nemko, Marty. -- Simple techniques to increase your likeability at work. -- Computer data (1 file : 364 kb). -- U.S. News and World Report, c2013. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3260.pdf. -- DDC 395.
 
-### &nbsp;
+### nevada-p-p
 Nevada, P.J. -- A Princely Affair. -- Computer data (1 file). -- [S.n., n.d.] -- Title from Amazon.com. -- System requirements: Kindle app. -- DDC 813.
 > think many people are more excited about having a relationship than who they have in that relationship.
 > Principality of Raska.”
@@ -5044,33 +5076,33 @@ Nevada, P.J. -- A Princely Affair. -- Computer data (1 file). -- [S.n., n.d.] --
 > home to Long Branch
 > I hope it’s more than sex, though. Love and devotion can feel amazing. 
 
-### &nbsp;
+### new-s
 New E. Collective (Musical group). -- Seasons of New England. -- Computer data. -- S.l.: Agents C. Records, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### newsweek
 Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, Inc., etc.], 1933- . -- v. -- Weekly. -- DBID 3144. -- ISSN 0028-9604 -- DDC 051.
 
 ### newton2006
 Newton, Jim. -- Justice for all -- Riverhead books, c2006. -- Title from title page. -- Mode of Access: World Wide Web. -- EISBN 9781594482700. -- DDC 347. 
 >Trop Cuse, Jenner - Butler Bill -- Barkus -- John Birch Society. -- Impeachment -- For informat for FBI in Warren Commission -- Segregation, demestic savalence, redistricting -- Baker -s -- A Mediocre high school student, Summer job at pacific rail ehere his das worked -s -- "Warren focused sufficiently on his studies to be awarded a bachelor of letters in jurisprudence on May 15, 1912. -q -- WOTD: brusque, irascible -f -- had a Bad boss at associated oil, EW becomes DA -s -- He tended to trust majorities and to express skepticism for extremist or radical thought. And just as he was moderate ideologically, he was also cautious temperamentally. -q -- To Warren—at least the Warren of the early 1930s—the New Deal was worse than impractical. It was immoral. Its fluid experimentation offended his sense of stability... -q -- Once he himself governed from the nation’s capital, Warren would view centralized authority with less suspicion and would see states more as obstacles to freedom than protectors -q -- humiliating employment practice known as the “shape-up,” -q -- WOTD listlessness, splenetic -f -- Roughly speaking, Justices Jackson and Frankfurter had become advocates of a restrained judiciary, while Black and Douglas argued a view that gave the Court a more robust place in American life. -q -- ...practical, not heartfelt. -q -- Like other experiences that deeply upset Warren, he responded by minimizing it, in this case pushing it out of his official history altogether. -q -- Warren the stable political moderate, in contrast to Langer the ping-pongy individualist. -- ...most intellectually dishonest rulings in its history, Plessy v. Ferguson. -q -- Ada Lois Sipuel -f -- It was his separation from his fellow students that caused the inequality of his education, the Court realized. -q -- union membership protected him to some degree from reprisals -q -- John W. Davis -- As a governor, Warren had assumed the good will of his adversaries until it was proven otherwise. As a justice, he saw no need to change that practice. -q -- ...the prickly Douglas... -q -- Instead, nearing the end of his long memo, he concluded that Negroes had advanced so far in their years of segregation that they had “overcome the presumptions on which it was based.” It was a tortuous analysis, revealing the intense strain upon Jackson as he wrestled with one of the most difficult decisions of his life. -q -- It may not have been true in the nineteenth century, but in the twentieth century, Warren wrote, “No child can reasonably be expected to succeed in life today if he is deprived of the opportunity of an education.” -q -- ... evolving nature of public education... -q -- For Warren, it was “unthinkable” because the Constitution was a good and fair document written for a good and fair country. -q -- justice Benjamin Cardozo: “The final cause of law is the welfare of society.” -f -- language of “all deliberate speed.” -- As Robert Jackson had long ago noted, the justices are not final because they are infallible, but they are infallible because they are final. -q -- And yet to Frankfurter, Warren looked suspiciously like a thickheaded pol. -q -- Always suspicious of big business—Warren -q -- With Frankfurter, disagreement almost always slid into contempt. -q -- Warren chose to let Eisenhower dangle a bit. -q -- “If the courts lean too far backward in the maintenance of theoretical individual rights it may be that we have tied the hands of our country and have rendered it incapable of carrying out the first law of mankind—the right of self-preservation.” -q -- vacuity -f -- Learned Hand -f -- “The Amendment must draw its meaning from the evolving standards of decency that mark the progress of a maturing society.” -q -- ... the public did not need protection from ideas. -q -- World Fellowship Center -f -- “In the final analysis, after one has prayed, after one has thought of all aspects, one must, before God, make up his own mind or his own heart and conscience as to what he shall do." - E.R. -q -- “Supreme Court is trimming its sails to ride out a gale.” -q -- Nixon was crafting a new Republican Southern strategy -q -- WOTD: inchoate -f -- Herman Talmadge, m, 20th c., Senator. -f -- That crude, self-pitying display -q -- ... said in Lucas that democracy was so important it could not be curtailed even through the democratic process. -f -- Douglas relied existed not in any specific amendment but rather in his imaginative reading of all of those amendments together. -- WOTD: opprobrium -f -- ABC interrupted its programming to bring the pictures, and thus many viewers learned about the Selma brutality in the midst of watching that night’s special presentation, Judgment at Nuremberg. The juxtaposition, though unintentional, spoke for itself. -q -- March 7 became known as “Bloody Sunday,”... -q -- Their cause must be our cause, too. Because it’s not just Negroes, but really it’s all of us, who must overcome the crippling legacy of bigotry and injustice. -q -- The insistence on equality started for Warren’s Court with schools before it moved to voting. -- “appealing to prurient interest" -q -- Honey Bear’s polio was staggering, but her recovery was complete. -q -- “Under our Constitution,” Warren wrote, “the freedom to marry, or not marry, a person of another race resides with the individual and cannot be infringed by the State.” -E.W. -q -- ‘conduct’ is speech within the First Amendment,” -q -- “I understand the man’s anger,” he told his grandson. “What a shame that our generation and past generations have created a world that promotes such rage.” -E.W. -f -- “How can you respect a man who uses such bad language?” -E.W. -q -- “utter perversions. -q -- Whitney v. California -f -- Warren’s book, A Republic, If You Can Keep It:   Where there is injustice, we should correct it; where there is poverty, we should eliminate it; where there is corruption, we should stamp it out; where there is violence we should punish it; where there is neglect, we should provide care; where there is war, we should restore peace; and wherever corrections are achieved we should add them permanently to our storehouse of treasures. --E.W. -q -- nation’s unwinnable argument between the forces of security and those of liberty. -q -- Must liberty be curtailed in order to preserve the nation, or is the nation better understood as an expression of its freedoms? -q -- Eldridge Cleaver -f
 
-### &nbsp;
+### nietzsche-f-p
 Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p -- DDC 193.9.
 > The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q
 > I teach you the overman. -Zarathustra -p. 124 -q
 > When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 -q
 > Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q
 
-### &nbsp;
+### nixon-r-l
 Nixon, Robin. -- Learning PHP, MYSQL, and Javascript. -- Computer data (1 file : 7.3 mb) -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8847.pdf) -- DBID 8847 -- DDC 005.
 > The process of separating your data into tables and creating primary keys is called normalization. , p. 203 -q
 > E. F. Codd: inventor of the relational model. -p. 203 -q
 > On a very popular site, if you have normalized tables, your database access will slow down considerably once you get above a few dozen concurrent users. -p. 210 -q
 
-### &nbsp;
+### norwood-t-p
 Norwood, Thomas. -- Perfect animals. -- Computer data (1 file : 428 KB). -- Global Activision Limited, 2013.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00G190NXS. -- DDC 813
 
-### &nbsp;
+### nouwen-h-w
 Nouwen, Henri J.M. -- With burning hearts : a meditation on the eucharistic life. -- Orbis Books, c1994. -- 95 p. -- ISBN 0883449846. -- DDC 234
 > III Inviting the stranger; 'I believe'.
 > Their empty house has become a place of welcome, a place to receive guests, a place to continue the conversation they had so unexpectedly begun. -p. 53 -q
@@ -5079,16 +5111,16 @@ Nouwen, Henri J.M. -- With burning hearts : a meditation on the eucharistic life
 > That's what true hospitality is all about, to offer a safe place, where the stranger can become friend. -p. 60 -q
 > We are most vulnerable when we sleep or eat together. Bed and table are the two places of intimacy. Also the two places of greatest pain... There is intimacy, friendship, community... And as their host he invites them to enter into full communion with him. -p. 61 -q
 
-### &nbsp;
+### now13
 Now That's What I Call Music!: 13. -- Computer data. -- Santa Monica, CA: Universal Music Group, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. --  File name: (music/) -- DDC 781.64.
 
-### &nbsp;
+### nozick-r-a
 Nozick, Robert. -- Anarchy, state, and utopia. -- Computer data (1 file).. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3047 -- DDC 320.
 
-### &nbsp;
+### nui-e
 NuÌ? zi shi er yue fang. -- Eastern Energy / [by the Twelve Girls Band]. -- Computer data. -- Los Angeles, CA: Platia Entertainment USA, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.68.
 
-### &nbsp;
+### nus-j-m
 Nusbaum, J.C. -- The mystic travelogues (volume 1). -- Computer data (1 file : 1506 KB). -- Eltanin, 2011. -- on ASUS tranformer tablet. -- System requirements: kindle app. -- ASIN B005465JCO. -- DDC 813.
 > Ch. 5: Tug and Jodie discover the key opens a trunk in Uncle Oscar's closet. But they are discourage when, upon opening it, it contained absolutely nothing. -s
 > Ch. 9: Tug and Jodie meet King Renatus, who tells them that if they go back, they will forget everything. -s
@@ -7114,3 +7146,4 @@ Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlie
 
 ### 20210916_215003 
 Kroese, Robert. -- The Dream of the Iron Dragon. -- St. Culain Press, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B078WLB2CR). -- Title from amazon.com viewed Thu 09/16/2021. -- AISN B078WLB2CR. -- DBID 20210916_215003. -- DDC 813. 
+
