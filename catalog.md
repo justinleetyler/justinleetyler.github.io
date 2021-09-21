@@ -1828,16 +1828,16 @@ Cutter, O.A. -- Cutter's three figure author table. -- Computer data (1 file : 5
 D
 ---
 
-### &nbsp;
+### damm-n-l
 Damm, Nate. -- Life on foot. -- Computer data (1 file : 1977 KB). -- [S.n.], 2014. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00K5YVRF8. -- DDC 917.
 
-### &nbsp;
+### damon-n-s
 Damon, Nick. -- Shadow of Oz. -- 1st ed. -- Computer data (1 file : 557 KB) -- Secret Origin Press, 2012. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
 ### 1455
 Daniel, Anthony. -- [Hero motifs]. -- Computer data (1 file : 58 kb) -- [S.l.] : A. Daniel, 2007. -- Title supplied by cataloger. -- File name: (1455.doc) -- DBID 1455 -- DDC 398.
 
-### &nbsp;
+### daviels-v-f
 Daniels, Valmore. -- Forbidden the stars. -- Computer data (1 file). -- [The author], c2010. -- System requirements: Kobo app. -- Title from title page. -- ISBN 9780986659324. -- DDC 813.
 
 ### 1511
@@ -1937,10 +1937,10 @@ Davidson, Basil. -- African Kingdoms / by Basil Davidson and the editors of Time
 ### &nbsp;
 Davis, Chip. -- A Fresh Aire Christmas / [by] Chip Davis and John Rutter. -- Computer data. -- Omaha, Neb.: American Gramaphone, 1988. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
-### &nbsp;
+### davis-w-w
 Davis, Wade. -- The wayfinders. -- DBID 3212. -- DDC 306.
 
-### &nbsp;
+### dejohnette-j-p
 DeJohnette, Jack. -- Peace time. -- Computer data. -- Golden Beams Productions, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- DDC 781.67.
 
 ### dekler1998
@@ -1952,13 +1952,13 @@ De Kler, F.W. -- The last trek -- a new beginning. -- St. Martin's Press, c1998.
 > The first impression that he [Mandella] conveyed  were dignity, courtesy and self-confidence. He also had the ability to radiate unusual  warmth and charm - when he so chose. He was every inch a Tembu patriarch and bore the mantle of authority with the ease of those who are not troubled by self-doubt. -p. 157 -q
 > Ch. 16: De Klerk becomes president. Meeting with Mandella. -s
 
-### &nbsp;
+### derosa-c-p
 De Rosa, Cathy. -- Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes. -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005. -- Computer data (1 file : 4.43 mb). -- Title from cover. -- File name: (0349.pdf). -- DBID 0349 -- DDC 020.
 
-### &nbsp;
+### devillers-m-t
 De Villers, Marq. -- Timbuktu / [by] Marq De Villiers and Sheila Hirtle. -- New York : Walker & Co., 2007. -- xiv, 202 p. -- ISBN 0802714978. -- DBID 2916 -- DDC 966.
 
-### &nbsp;
+### death
 Death of Ivan Ilych. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1727. -- DDC 891.
 > Ivan Ilych's life had been most simple and most ordinary and therefore most terrible. -p. -q
 > Ilya Epimovich GolovinPrivy Councillor -p. -f
@@ -1998,10 +1998,10 @@ Death of Ivan Ilych. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1727. -- DDC 891.
 > Chapter 11lisa asks if his sickness is their fault. -ivan takes communion. -p. -s
 > Chapter 12 -p. -s
 
-### &nbsp;
+### deepforest-b
 Deep Forest (Musical group). -- Boheme. -- Computer data. -- S.l: Columbia, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### deepforest-m
 Deep Forest (Musical group). -- Made in Japan. -- Computer data. -- New York, NY: Epic/550 Music, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
 ### delancy2014
@@ -2019,13 +2019,13 @@ DeLancy, Craig. -- Well of Furies. -- 10th ed. -- Perfect Number, 2014. -- Title
 > bria's daughter Treuntilliasussarius -f
 > Theyre going to the wondering double-world system to find the ultrans. -s
 
-### &nbsp;
+### delsey-t-r
 Delsey, Tom. -- RDA database implementation scenarios. -- Computer Data (1 file : 55 kb) -- [S.l. : s.n.], 2007. -- File name: (2007.pdf). -- DBID 6569 -- DDC 025.3.
 
-### &nbsp;
+### delta-l-o
 Delta College. Library. -- Outline of the Library of Congress Classification system. -- Computer data (1 file : 46 kb). -- [University Center, Mich. : Delta College, n.d.] -- Title from p -- DDC -- File name: (1690.doc). -- DBID 1690 -- DDC 025.4.
 
-### &nbsp;
+### delta-l-p
 Delta College. Library. -- Publication Manual of the American PsychologicalAssociation (APA) for Citing Resources in Print Form. -- Computer data (1 file : 55 kb). -- [University Center, Mich. : Delta College, 2006]. -- Title from resource. -- File name: (1366.doc). -- DBID 1366 -- DDC 808.
 
 ### Dennen2001
@@ -2039,20 +2039,20 @@ Dennen, W.H -- The rocks of Cape Ann. -- [S.n., 2001]. -- 32 p. -- DDC 552.1
 > Temperature rises about 35 degrees Fahrenheit per mile as you travel downward [through the earth]... -p. 23 -q
 > The plates move at about the rate that your fingernails grow, an inch or so a year. -p. 28 -q
 
-### &nbsp;
+### dept-d
 Department of Defense. Chief Information Officer. -- Cloud computing strategy. -- Computer data (1 file : 1.6 mb) -- [Washington, D.C. : Dept. of Defense], 2012. -- Title from cover. -- File name: (3000.pdf) -- DBID 3100. 1.004.6
 
-### &nbsp;
+### parliament
 Parliament of World's Religions. Editorial Committee. -- Declaration toward a global ethic. -- Computer data (1 file) PWR, 1993. -- Mode of Access: World Wide Web (http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf). -- Title from p -- DDC -- DDC 170.
 > Irrevocable directives 1) a commitment to a culture of nonviolence and respect for life; 2) a commitment to a culture of solidarity and a just economic order; 3) a commitment to a culture of tolerance and a life of truthfulness; and 4) a commitment to a culture of equal rights and partnership between men and women. -f
 
-### &nbsp;
+### diack-m-l
 Diack, Michael. -- The light and the glass. -- Computer data (1 file). -- M. D., c2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00GQZD1JA. -- DDC 813.
 
-### &nbsp;
+### diamon-n-h
 Diamond, Neil. -- His 12 Greatest Hits. -- Computer data. -- Universal City, Calif: MCA Records, 1985. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### diamond-n-12
 Diamond, Neil. -- 12 Songs / [by] Neil Diamond and David Campbell. -- Computer data. -- New York, NY: Columbia, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
 ### diamond2012
@@ -2087,6 +2087,7 @@ Diamond, Jared. -- The world until yesterday. -- Penguin Books, c2012. -- xi, 49
 > ... Brazil's Yanomamo Indians, whose staple food is low-sodium bananas. -p. 416 -q
 > Those changes include: not smoking; exercising regularly; limiting our intake of total calories, alcohol, salt and salty foods, sugar and sugared soft drinks, saturated and trans fats, processed foods, buttter, cream, and red meat; and increasing our intake of fiber, fruits and vegetables, calcium, and cmplex carbohydrates. Another simple change is to eat more slowly... italians are slim... because they linger talking over their  meals. -p. 451 -q 
 
+### adiemus-as
 Adiemus. -- Adiemus: Songs of Sanctuary. -- Computer data. -- New York?: Virgin Records, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 ### dickens2000
@@ -2100,61 +2101,61 @@ Dickens, Charles. -- The old curiosity shop. -- London : Penguin Books, 2000. --
 > Ch. 8: Richard Swiveller goes to a dance but it goes horribly wrong, and reconsiders the possibility of marrying Nelly. -p. -s
 > I came here... with my bosom expanded, my heart dilated, and my sentiments of a corresponding description. I go away with feelings that my be conceived but cannot be described, feeling within myself the desolating truth that my best affections have been experienced this night a stffler! -Richard -p. 75 -q
 
-### &nbsp;
+### dicksion-w
 Dicksion, William Wayne. -- Sagebrush. -- Computer data. -- W.D., c2008. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00FVCV7K4. -- DDC 813.
 
-### &nbsp;
+### dinerstein-e
 Dinerstein, Eric -- The kingdom of rarities. -- Computer data (1 file : 3848 KB). -- Island Press, 2013. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00B2IRHKA. -- DDC 574.
 
-### &nbsp;
+### dion-c-a
 Dion, Celine. -- A New Day Has Come. -- Computer data. -- New York, NY: Epic, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### dion-c-al
 Dion, Celine. -- All the Way . . a Decade of Song. -- Computer data. -- New York: Sony Music Entertainment, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### daoism
 Daoism. -- Computer data (1 file). -- on 1 external hard drive. -- System requriements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3309.pdf. -- IN World religions reference library. -- Cengage Learning, c2007. -- DDC 299.
 > Religious Daoism is also known as Dao jiao (also spelled Tao chiao). -q
 > ... Daoism emphasizes following one's own instincts to reach a true awareness and understanding of existence. Simplicity and spontaneity, or following natural impulses, are also important. To return to the Dao, a person needs to remove the clutter from his or her life. 
 
-### &nbsp;
+### davis-j
 Davis, Joanna. -- The book of the shepherd / by the Scribe; as discovered by Joanne David; with illustrations by Sudi McCollum. -- HarperCollins, c2009. -- xiii, 187 p. -- ISBN 9780061732300. -- DDC 813.
 1. A boy commits an offence at the marketplace, and a merchant throws him on he ground and beats him. But the Shephard sees, and is concerned by the harshness of the punishment. -s
 
-### &nbsp;
+### dockins-b
 Dockins, Brian. -- Betrayal of Magic / Brian Dockins (Author); Onaje Beal (Illustrator). -- Computer data (1 file : 760 KB). -- Siege Tower Publishing, 2011. -- on ASUS tranformer tablet. -- System requirements: Amazon Kindle file reader. -- Title from Amazon.com. -- DDC 813.
 > Ch. 03: Cadan learns that Simon isn't his father, and that his real parents are dead. But his real last name must remain a secret. He decides to run away.
 > Ch. 04: Cadan runs away, hitchhikes to New York City, and get's captured by monsters in the alley.
 > Monsters were indeed alive and roaming the earth. -q
 
-### &nbsp;
+### dodd-s
 Dodd, Sue. -- Cataloging machine-readable data files / Sue A. Dodd. -- Chicago : American Library Association, 1982. -- xix, 247 p. -- ISBN 0838903657 -- DDC 025.3.
 
-### &nbsp;
+### domville-c
 Domville-Fife, Charles W. -- Among the wild tribes of the Amazon. -- DBID 3211. -- DDC 306.
 
-### &nbsp;
+### dorsey-b
 Dorsey, Brian. -- Gateway. -- 2nd ed. -- Computer data (1 file). -- Mountaineer West Productions, 2016. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B01KXUWFDG. -- DDC 813.
 
-### &nbsp;
+### dotson-r
 Dotson, Rex. -- [eMail, 2013 Jan. 10, Mich. to Justin Lee Tyler, Ipswich, Mass. / Rex Dotson]. -- on 1 external hard drive. -- System requirements: USB drive, txt file reader. -- Title supplied by cataloger. -- File name: 3246.txt. -- DDC 090.
 
-### &nbsp;
+### douglas
 Douglas, Karlton B. -- Griffin island. -- Computer data (1 file : 288 KB). -- [S.n., n.d.]. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from amazon.com desc. -- ASIN B003ICXHJ8. -- DDC 913.
 
-### &nbsp;
+### dowd-t
 Dowd, Thomas B. III. -- The transformation of a doubting Thomas. -- Computer data (1 file : 408 KB). -- [Published by the author, 2013?].. -- Title from cover. -- System requirements: Kindle app. -- DDC 650.
 
-### &nbsp;
+### dragon-d
 Dragon, Debbie, -- The organized year. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader -- Title from p -- DDC -- File name: 3237.pdf. -- IN Wise Bread. -- (Jan. 3, 2013). -- DDC 650.
 
-### &nbsp;
+### drake-m
 Drake, Miriam A. -- Academic library challenges. -- Computer data (1 file : 2.75 mb) -- Title from resource. -- File name: (9078.pdf). -- DBID 9078. -- IN Academic Libraries. -- Vol. 18, no. 9 (Nov. 2010) -- DDC 027.
 
-### &nbsp;
+### driscoll
 Driscoll, Sally. -- [Hiking.] -- Computer data (1 file : 1.6 mb) -- Title from p -- DDC -- File name: (10123.pdf) -- DBID 10123. -- IN Hobby Profile. -- [United States?] : Great Neck Publishing, 2007 -- DDC 796.51.
 
-### &nbsp;
+### dube
 Dube, Ryan. -- Be the king of the world with Imperia Online. -- Computer file (1 file : 15 kb). -- Title from resource. -- File name: (3005.txt). -- DBID 3005 -- IN MakeUseOf.com. -- (May 4, 2012) -- DDC 794.8
 
 ### ducie2012
@@ -2188,16 +2189,21 @@ Ducie, Joe. -- Distant star. -- Computer data (1 file). -- Cedar Sky Publishing,
 > I may have been less than an insignificant speck on the face of an immense and cold universe, but I still found meaning... I mattered to me. -q
 > Don't touch me — you'll create a paradox that'll destroy the universe. -q
 
-### &nbsp;
+### dudley-a
 Dudley, Anne. -- The 10th kingdom / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.] -- Computer data. -- New York: Hallmark Entertainment, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
-### &nbsp;
+### duff-w
 Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file : 1.4 mb). -- Title from resource. -- File name: (10065.pdf). -- DBID 10065. -- ISSN 0318-6954. -- IN Archicaria. -- No. 58 (Aug. 1, 2004) -- DDC 027.
 
-### &nbsp;
+### duke
 [Duke and Dutchess of Windor's home in France]. -- Computer data (1 file : 63.9 KB). -- [S.n., n.d.] -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger. -- Filename: 3308.mp4. -- DDC 724.
 
-### &nbsp;
+### duncan-d-f
+Duncan, David Ewing. -- From Cape to Cairo. -- Weidenfeld & Nicolson, c1989. -- xvii, 330 p. -- ISBN 1555840450. -- DDC 916.
+> Read 2021-09. Grade C. -r
+> Now, after a half-decade of Mubarak's low-key, technocratic leadership, which had icluded substantial loosening of economic and political bnds, the tension seemed to have evaporated. -p. 313 -q -- Our object is to create a new order in Africa... based on simplicity, justice, equality and humanity. Julius Nyerere -p. 190 -q -- Naw, course not I keep my bloody mouth shut over there on that side of the river. It ain't healthy to go spoutin' off, yah know. -unknown -p. 120 -q -- 'Roades was the fool who started it all,' mused A.J., 'but if it hadn't been him, it wouldn've been someone else.' -p. 100 -q -- 'To make it out here, there is one siimple rule,' said Atom... 'You adapt. When you stop adapting it's time to cash it in.' -p. 98 -q -- 'I'm a family man,' he [Milo] said in a low rumble, adding that he disliked politics. 'I am mostly interested in just living.' -p. 92 -q -- ... purely Western-looking outposts proclaiming the ethos of the Caucasion pioneer: independence, hard work and self-sufficiency. -p. 34 -q -- 
+
+### dwight-t-c
 Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.
 
 ### ebooks2012

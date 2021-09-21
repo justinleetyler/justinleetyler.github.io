@@ -14,6 +14,7 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-09 | C | 8 [From Cape to Cairo](https://justinleetyler.github.io/catalog#duncan-d-f) / David Ewing Duncan | 941 | |
 |2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#milton2019) / Nicholas Milton | 940 | |
 |2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | |
 |2021-07 | C | 5 Edward Heath / Michael McManus | 920 ||
