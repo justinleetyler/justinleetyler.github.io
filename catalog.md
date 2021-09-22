@@ -92,7 +92,7 @@ Adiemas (Musical Group). -- The Eternal Knot. -- Computer data. -- Great Britain
 ### &nbsp;
 Adiemus. -- Adiemus III: Dances of Time. -- Computer data. -- Mississauga, Ont: Virgin Music Canada/Venture, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### akers-d-h
 Akers, D.C. -- Haven. -- Computer data (1 file : 782 KB). -- S.n., 2013. -- Title supplied by Amazon.com. -- System requirements: Kindle app. -- AISN B00CR4IR7A. -- DDC 813.
 Alexander, Scott W. -- Everyday spiritual practice. -- Computer data (1 file). -- Skinner House, 2001. -- System requirements: Kindle app. -- Title from title page. -- AISN B004Q7CI4E. -- DDC 289.1.
 > On some days mere survival—without murdering spouse, children, or pets—seems downright miraculous. -q
@@ -122,7 +122,7 @@ Alexander, Scott W. -- Everyday spiritual practice. -- Computer data (1 file). -
 > All of us have become dis-integrated and experienced the mind-body split. If re-integration is our goal, then the methods involved should include something physical as well as mental. To the extent that there is re-integration, there is healing, and he furthering of one's spiritual journey. -q
 > ... in his A Brief History of Everything, philosopher Ken Wilber argues that many of our current difficulties can be traced to the Western world's failure to develope any 'truly contemplative practices.' -q
 
-### &nbsp;
+### ali-a-h
 Ali, Ayaan Hirsi. -- Heretic. -- Harper, c2015. -- 272 p. -- ISBN 9780062333933. -- DDC 297.272.
 > 3 Muhammad and the Qur'an
 > Until Islam can do what Judaism and Christianity have done - question, critique, interpret, and ltimately modernize its holy scripture - it cannot free Muslims of a host of anacharonistic and at times deadly beliefs and practices. -p. 90 -q
@@ -137,7 +137,7 @@ Ali, Ayaan Hirsi. -- Heretic. -- Harper, c2015. -- 272 p. -- ISBN 9780062333933.
 > And religious toleration, howver long it took to tbe established in practice, is one of the greatest achivements of the Western world. -p. 209 -q
 > The extremists are afraid of books and pens. The power of education frightens them. -Malala Yousafzai -p. 289 -q
 
-### &nbsp;
+### allende-i-c
 Allende, Isabel. -- City of the beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. -- HarperTrophy, c2002. -- 406, 15 p. -- ISBN 9780060535032. -- DDC 813.
 > Ch. 06: Mauro Carias and Captain Ariosto are up to something. -s
 > Ch. 08: The group travels further in the Amazon. One person dies from an arrow shot from the forest. -s
@@ -163,10 +163,10 @@ Allende, Isabel. -- City of the beasts / Isabel Allende; translated from the Spa
 > 'There are many victims in this world, Alexander, and many noble causes to defend. A good warrior name helps in the fight of justice.' -Kate -p. 338 -q
 > Tapirawa-teri: the village of the People of the Myst. -p. 199 -f
 
-### &nbsp;
+### all
 All-American Rejects (Musical group). -- Move Along. -- Computer data. -- Santa Monica, CA: Interscope/Doghouse Records, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### amazon
 Amazon.com -- [Computer data]. -- [United States?] : Amazon.com, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amazon.com) -- DDC 330.
 
 ### 9059
@@ -181,16 +181,16 @@ American Library Association. Committee on Cataloging : Description & Access. Ta
 ### 3012
 American Library Association. Resources and Technical Services Div. -- Final report of the catalog code revisions committee. Subcommittee on the ruels for cataloging machine-readable data files. -- Computer data (1 file : 864 kb). -- Chicago, Ill. : American Library Association, 1976. -- Title from p -- DDC -- File name: (3012.pdf). -- DBID 3012 -- DDC 025.3
 
-### &nbsp;
+### amethystium-o
 Amethystium (Musical group). -- Odonata. -- Computer data. -- Ft. Lauderdale, Fla: Neurodisc, 2001. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### amethystium-a
 Amethystium (Musicial group). -- Aphelion. -- Computer data. -- Ft. Lauderdale, Fla: Neurodisc, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### amethystium-e
 Amethystium (Musicial group). -- Evermind. -- Computer data. -- Ft. Lauderdale, FL: Neurodisc Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
+### anderson-j-j
 Anderson, John A. -- The Jager journal. -- Computer data (1 file). -- [S.n.], c2013. -- on 1 Asus tranformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813 
 > Ch. 13: Greta is at the family home. There is a spy watching them. -- They attack, but Jim and Stuart save them. -- Uncle Keiths cabin is burned doown. -s
 > Ch. 14: Jim speaks to the FBI. -s
@@ -198,7 +198,7 @@ Anderson, John A. -- The Jager journal. -- Computer data (1 file). -- [S.n.], c2
 > Annette
 > Jim Harrison
 
-### &nbsp;
+### anderson-k-r
 Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN 0061052477. -- DDC 813.
 > Cassandra: Daughter of Vladimir Rubicon; goes missing during an archological expedition in Central America.
 > Ch. 06: Mulder, Scully, and Rubiicon fly to Cancun on their way to the Yucatan. -s
@@ -207,15 +207,15 @@ Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN 0061052477. 
 ### 8377
 Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
 
-### &nbsp;
+### anonymous-l
 Anonymous 4 (Musical group). -- Legends of St. Nicholas: Medieval Chant and Polyphony. -- Computer data. -- London: Harmonia Mundi, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.723.
 
-### &nbsp;
+### answers
 Answers.com. -- Computer program. -- [Wesley Hills, N.Y.] : GuruNet, c1999- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.answers.com) -- DDC 030.
 > ZHONGLI QUAN a/k/a HAN ZHONGLI, the most ancient of the immortals in Taoism. -f
 
-### &nbsp;
-The AODA new candidate guide. -- 1st ed. -- Telluric Press, c2016. -- Title from title page; viewed 4/6/2020. -- Mode of access: [World Wide Web](http://www.justinleetyler.com/aoda2016.pdf). -- DDC 299.
+### ancient-a
+Ancient Order of Druids in America. -- The AODA new candidate guide. -- 1st ed. -- Telluric Press, c2016. -- Title from title page; viewed 4/6/2020. -- Mode of access: [World Wide Web](http://www.justinleetyler.com/aoda2016.pdf). -- DDC 299.
 >For example, for the element of air, positive qualities include focus, clarity, justice, reason, learning, and clear articulation of ideas, while negative qualities might be pride, aloofness, anger, or detachment. The element of fire might include the positive qualities of passion, determination, inspiration, and creativity, while negative qualities might involve intensity, ego, or rashness. The element of water might include the positive qualities of intuition, compassion, empathy, and being in tune with one’s own heart, while the negative qualities might involve emotional volatility, irritability, and oversensitivity. The positive qualities of earth might include steadfastness, never giving in, and staying the course, while the negative qualities might include stubbornness and not letting go. -p. 38 -q
 >V. The Sun Path   A. Awen: divine Inspiration.   B. Symbolism.   1. Air/East/Spring/Waxing moon/Yellow/Hawk.   2. Fire/South/Summer/Full Moon/Red/White Stag.   3. Water/West/Fall/Waining Moon/Blue/Salmon   4. Earth/North/Winter/New-Dark Moon/Green/Bear.   C. The Three Currents.   1. Nwyfra: the life force.   2. Solar Current, from the sun.   a. Birds and circle are symbols.   3. Telluric current, from the earth.   a. Serpent, dragon, and triangle are symbols.   4. Lunar current is created when solar and telluric are brought into content. Symbols are moon, egg. Color is white.   D. Druid Element.   1. Nwyfre (life force).   2 .Gwyar (principle of flow)   3. Calas (principle of solidity)   E. Seasonal Celebrations.   1. a/k/a the "Alban Gates".   2. Alban Eiler (spring equinox) - Fomalhaut    3. Alban Heruin (summer solstice)  Aldebaran   4. Alban Elued (autumn equinox) - Regulus     5. Alban Arthuan (winter solstice) Antares.    F. The Druid Altar.   1. Four bowls for earth (soil or salt), air (incense), fire (a candle), and water (a bowl of water). Also a sickle and spring of mistletoe (or pine cone), sword.   G. Druid Ritual, for putting us in a different kind of space (out of time?). -s
 >VI. The sun path.   A. Discursive meditation.   1. Redirected and clarified thoughts; not abolished.   2. Focus on a specific topic.   3. Process:   a. Sit straight up in chair.   b. Focus on breathing for 5 min.   c. Focus on topic for 10 min.   d. Focus on breathing for 1 min.   B. Druid Journal.   1. Purpose: engage in reflective activity.   2. Write about a practice right after doing it.   3. Write detailed account on seasonal celebrations.   4. Write abuot nine books, and studies. -s
@@ -223,7 +223,7 @@ The AODA new candidate guide. -- 1st ed. -- Telluric Press, c2016. -- Title from
 ### 3063
 Appalachian Mountain Club. Boston Chapter. -- Boston Chapter of the Appalachian Mountain Club [website]. -- Computer data. -- [Mass.?] : The chapter, [20--?]- -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amcboston.org) . -- DBID 3063 -- DDC 796.
 
-### &nbsp;
+### archer-r-a
 Archer, Richard. -- As if an enemy's country. -- Oxford University Press, c2010. -- xviii, 284 p. -- ISBN 9780199895779. -- DDC 973.
 > This book explores the major events (sugar, stamp, and townshend acts, Boston's occupation, and the massacre) that lead to the revolution. -s
 > SUAGAR ACT, leg. of Brit. Parl. 'delineated taxable commodities and outlined measures for eliminating or at least significantly reducing, smuggling' (6). -f
@@ -235,7 +235,7 @@ Archer, Richard. -- As if an enemy's country. -- Oxford University Press, c2010.
 > 3 The group of nine, lead by Ebenezer Macintosh, lead thousands in protest. -s
 > 4 Repeal of the stamp actin 1766; frayed relationship between the crown and Mass. house; intrusion into the house of Daniel Malcolm. -s
 
-### &nbsp;
+### argent-j-f
 Argent, Jay. -- Fairmont Boys Series: Books 1–5 (Gay Teen Romance). -- Computer data (1 file). -- [S.n., n.d.] -- Title from Amazon.com. -- System requirements: Kindle app. -- DDC 813.
 > "Actually, I am sure it likes you, and I like you, too. I mean, I like you in that way,"
 > Rick Donovan,
@@ -253,19 +253,19 @@ Argent, Jay. -- Fairmont Boys Series: Books 1–5 (Gay Teen Romance). -- Compute
 > 8 m is on drugs, and comes on tk l
 > 10 m and a finally meet. There is tention
 
-### &nbsp;
+### arkenstone-da-a
 Arkenstone, David. -- Atlantis: A Symphonic Journey. -- Computer data. -- Milwaukee: Narada Classics, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
+### arkenstone-da-sk
 Arkenstone, David. -- Sketches from an American Journey. -- Computer data. -- U.S.: Paras Recordings, 2002. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### arkenstone-da-sp
 Arkenstone, David. -- The spirit of Olympia / David Arkenstone, Kostia ; with David Lanz. -- Computer data (18 files : 144 mb). -- Milwaukee, WI : Narada Productions, p1992. -- on 1 external hard drive. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File folder: /music/ . -- Contents: Prelude. Let the games begin! (4:03) -- Savannah runner (3:33) -- Memories of gold (3:14) -- Keeper of the flame (3:23) -- From the forge to the field (3:35) -- Heartfire (3:19) -- Celebration (5:00) -- Close without touching (5:24) -- Glory (2:19) -- A night in the village (14:44) -- Walk with the stars (4:45) -- Marathon man (5:29) -- The spirit of Olympia (3:41). -- DBID: 3224. -- DDC 781.67.
 
-### &nbsp;
+### arkenstone-di-
 Arkenstone, Diane. -- Ancient Voices. -- Computer data. -- Cortez, Colo.: Paras/Neo Pacifica, 2001. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
+### aslan-r-z
 Aslan, Reza. -- Zealot : the life and times of Jesus of Narareth. -- Random House, c2013. --xxxiv, 296 p. -- 9781400069224. -- DDC 232.
 > Ch. 7: a discussion of John the Baptist; how Jesus likely began his ministry as a disciple of John; and how the early Christians needed to present Jesus as superior then John. -s
 > Ch. 8: Jesus begins his ministry in Capernaum. -s
@@ -296,7 +296,7 @@ Aslan, Reza. -- Zealot : the life and times of Jesus of Narareth. -- Random Hous
 > HEGESIPPUS, 110-180 A.D., Roman. Early Christian historyian. -p. 197 -f
 > ARIUS: A bishop during the 4th century who taught that Jesus seemed to be just a man; "there was a time when [Jesus] was not" -p. 214 -f 
 
-### &nbsp;
+### austen-j-e
 Austen, Jane. -- Emma. -- Computer data (1 file). -- [S.l.], 2010. -- System requirements: Kindle app. -- Title from cover page. -- DDC 823
 > CH. 01: Emma Woodhouse is girl who lives in Highbury, and likes matchmaking. She just set up her governess, Mrs. Taylor, with Mr. Weston. -- Mr. Knightly visits the family. -- I think Emma's dad may be interested in a match between Mr. Elton and his daughter. -s
 > CH. 02: Mr. Weston and Miss Taylor are married. -s
@@ -304,13 +304,13 @@ Austen, Jane. -- Emma. -- Computer data (1 file). -- [S.l.], 2010. -- System req
 > CH. 09: Mr. Knightly and Emma have a fiece disagreement about Harriet. -s
 > Isabella Woodhouse: Fictional character. -- Emma Woodhouse's sister. -f
 
-### &nbsp;
+###austen-j-p
 Austen, Jane. -- Persuasion. -- Computer data (1 file). -- e-artnow, 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- Also available on the World Wide Web (https://read.amazon.com/?asin=B0797TCF3F). -- AISN B0797TCF3F. -- DDC 823.
 
-### &nbsp;
+### Australis-l
 Australis (Musical group). -- Life giving. -- Computer data. -- [S.l. : s.n.], 2005. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
+### axelrod-a-p
 Axelrod, Alan. -- Profiles in audacity. -- New York : Sterling Publishing, c2006. -- x, 309 p. -- ISBN 1402732821 -- DDC 921.
 > Andrew Carnegie, 19th-20th c., m., industrialist; philanthropist. Author of WEALTH -p. 272 -f
 > 'The problem of our age... is the proper administration of wealth, so that ties of brotherhood may still bind together the rich and the poor in harmonious relationship.' -Andrew Carnegie -p. 272 -q
@@ -349,7 +349,7 @@ Bannister, Paul. -- The king's cavalry. -- Computer data (1 file). -- Endeavour 
 ### 3354
 Barlow, Connie. -- Ritualizing big history. -- Computer data (1 file). -- System requirements: USB drive, pdf file reader. -- Title from resource. -- Filename: 3354.pdf -- Also available on the World Wide Web: http://www.metanexus.net/blog/ritualizing-big-history.  -- IN Metanexus. (2013 Mar 14) -- DDC 113
 
-### &nbsp;
+### barry-d-i
 Barry, Dave. -- Insane city. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 9780399158681. -- DDC 813
 > Ch. 1-2: Marty puts a male sex device in Seth's carry-on. -- Laurette, a Hatian refugee, is chucked off the boat from Haiti to Miame. -s
 > Ch. 3-4: Seth and co. talk of weddings, etc. at the bar. -- The TSA gives Seths wife, Tina, a hard time. -- Laurette thinks she and her kids will die in the Atlantic. -s
@@ -360,28 +360,28 @@ Barry, Dave. -- Insane city. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 978
 > But he [Sid] preferred to perceive the world through the ever-present interface of Rose so that his impressions and opinions would always be in sync with hers; this, Sid had learned over the years, was the key to a peaceful marriage, if not necessarily a happy one. -p. 77 -q 
 > ... whose official title was Director of Operations, in which capacity he spent the bulk of his day picking up monkey shit. p. 105 -q This is how I feel at work, with my title; compared to what I actually do. -r
 
-### 2100
+### barber-d-b
 Barber, David. -- Building a digital library. -- Computer data (1 file : 15.4 kb). -- Title from resource. -- DBID 2100. -- File name: (2100.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/2100.txt). -- IN Library Technology Reports. -- (Sept. 01, 1996) -- DDC 027.
 
-### &nbsp;
+### barnes-g-a
 Barnes, Gary. -- Aquifer. -- 1st ed. -- Computer data (1 file : 601 KB). -- Blue Spring Press, 2013.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00907BWIS. -- DDC 813.
 
-### &nbsp;
+### barr-r-r
 Barr, Roseanne. -- Roseanarchy. -- Computer data (1 file). -- [S.l.] : Gallery, 2011.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 0515 -- DDC 817
 
-### &nbsp;
+### barry-d-c
 Barry, Dave. -- Dave Barry in cyberspace. -- New York : Crown, 1996. -- viii, 215 p. -- ISBN 0517595753 -- DDC 818.
 
-### &nbsp;
+### barry-d-o
 Barry, Dave. -- Dave Barry's only travel guide you'll ever need. -- New York : Fawcett Columbine, c1991. -- xi, 171 p. -- ISBN 0449906515 -- DDC 818.
 
-### 3240
+### basic
 Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State. -- Computer data (1 file). - [S.n., n.d.]. -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- Title from resource. -- File name: 3240.pdf. -- DDC 305.8
 > Decisions made through consensus ... The disgruntled members leave. -q
 > Religion is generally based on family tradition, individual experience, or counsel from a shaman.
 > However they do have a leader that settles disputes and fulfills ceremonial roles. The !Kung leader is known as the 'headman.' -q
 
-### &nbsp;
+### baker-j-h
 Baker, Jean H. -- James Buchanan. -- Henry Holt and Co., c2004. -- xviii, 172 p. -- ISBN 9780805069464. -- DDC 923.
 > On the basis of slender evidence, mostly the circumstances of his bachelorhood and three asides by contemporaries about his effeminacy, Buchanan has been dubbed America's first homosexual president. Referring to his femininity, Andrew Jackson once calleed him an 'Aunt Nancy'... Absent the discovery of new material, no one will ever know whether Buchanan and King (the only man whom his name was ever erotically connected) had sexual relations.  -p. 25 -q
 > The best speculation about the sexuality of nonshaving Buchanan, who in his portrates has eunuchlike, endomorphic features of body and face as well as the low hairline characteristic of asexual men with low levels of testosterone, is that he had little interest in sex. -p. 26 -q
@@ -409,7 +409,7 @@ Bates, Henry Walter. -- the naturalist on the river Amazons. -- Computer data (1
 ### 10062
 Bates, Marcia J. -- Improving user access to library catalog and portal information. -- Computer data (1 file : 6579 kb.) -- [S.l. : M. Bates], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10063 -- DDC 025.3
 
-### &nbsp;
+### battles-m-l
 Battles, Matthew. -- Library : an unquiet history. -- [S.n., n.d.] -- v. -- DDC 020.
 > The library in the digital age is in a state of flux, which is indistinquishable from a state of crisis - not only for institutions but for the books they contain, preserve, and propogate, a crisis for the culture of letters whose roots are firmly planted in the library. -p. 212 -q
 > And yet, they very fact that the library has endured these cycles seems to offer hope. -p. 213 -q
@@ -428,21 +428,21 @@ Becker, Joshua. -- 12 reasons I have decided to read one book per week. -- Compu
 Beisler, Amalia. -- Beyond Theory: preparing Dublin Core metadata for OAI-PMH harvesting / Amalia Beisler, Glee Willis. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB port; PDF file reader. -- Title from page 1. -- File name: 3210.pdf. -- DOi 10.1080/19386380903095099. -- IN Journal of Library Metadata. -- Vol. 9 (2009). -- DDC 025.3. 
 > Includes a DUBLIN CORE-MARC METADATA TRANSFORMATION / mappings. -f
 
-### &nbsp;
+### bellin-j-s
 Bellin, Joshua David. -- Survial colony 9. -- Margaret K. McElderry Books, c2014 -- 325 p. -- ISBN 9781481403542. -- DDC 813.
 > I'd been so fcused on tracking this wounded thin, I'd forgotten that wounded things can be the most dangerous. -p. 258 -q
 > A global war has decimated humanity. A boy named Querry is found by survival colony 9, but he has no memory. Creatures known as the Scaldi are after him. -s
 
-### &nbsp;
+### benesh-s-b
 Benesh, Sean. -- The bikeable church: A bicyclist's guide to church planting / [by] Sean Benesh; [forward by] Caleb Crider. -- Computer data (1 file : 251 KB). -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- AISN B009AAN20Q. -- DDC 266.
 
 ### 3289
 Bennington-Castro, Joseph. -- The science of what makes an introvert and an extrovert. -- Computer data (1 file : 71 KB). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Filename: 3289.txt. -- IN IO9.com -- (Sept. 11, 2013). -- DDC 155. 
 
-### &nbsp;
+### benin-k-t
 Benin, Kate. -- Transformative travel in Nepal. -- Computer data (1 file : 457 KB). -- [GypsyDuo], 2012.. -- System requirements: kindle app. -- Title from title page. -- ASIN B008EAUYEA. -- DDC 915.
 
-### &nbsp;
+### benton-m-w
 Benton, Michael J. -- When life nearly died. -- Thames & Hudson, c2003. -- 336 p. -- ISBN 50005116X. -- DDC 576.
 > ... fishes came first, then amphibians evolved from fishes when they took their first faltering steps on to land, and finally the reptiles evolved from the amphibians by dispensing with liffe in the water altogether. -p. 19 -20150607 -q
 > SYNAPSIDS, mammal-life reptiles. -p. 20 -f
@@ -497,7 +497,7 @@ Bhagavad-Gita: The song of God / [translated by] Christopher Isherwood . -- New 
 > Now I have taght youu that wisdom is the secret of secrets. Ponder it carefully. Then act as you think best. -p. 129 -q
 > You must never tell this holy truth to anyone who lacks self-control and devotion. -p. 129 -q
 
-### &nbsp;
+### bible-e-m
 Bible, English. Message. 2002. -- The Message : The bible in contemporary language / Eugene H. Peterson. -- Large Print Numbered ed. -- Computer data (1 file). -- Navpress, c2002.. -- Title from Title Page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1576836738. -- DDC 220.
 > Prosperity is as short-lived as a wildflower, so don't ever count on it. -James 1 -q
 > The temptation to give in to evil comes from us and only us.... Lust gets pregnant, and has a baby: sin! Sin grows up to adulthood, and becomes a real killer. -James 1 -q
@@ -521,16 +521,16 @@ Bible, English. Message. 2002. -- The Message : The bible in contemporary langua
 ### 10106
 Bisac codes and literals. -- Computer data. -- [S.l. : s.n., 2010?] -- Title from p -- DDC -- File name: (10106.pdf). -- DBID 10106 -- DDC 025.4.
 
-### &nbsp;
+### bill-j-m
 Bill, J. Brent. -- Mind the light : learning to see with spiritual eyes. -- Computer data (1 file : 242 KB). -- J. Brent Bill, c2006. -- on 1 ASUS transformer tablet. -- Title from title page. -- System requirements: Kindle app. -- DDC 248.
 
-### &nbsp;
+### billing-b-n
 Billig, Barbara Griffin. -- The nuclear catastrophe. -- Computer data (1 file : 590 kb). -- Clearview Investments, Inc., 2011.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### 9054
+### bland-r-r
 Bland, Robert N. -- Returning classification to the catalog. -- Computer data (1 file : 2 mb) -- Title from resource. -- File name: (9054.pdf) -- DBID 9054. -- IN Information techology and libraries. -- Vol. 27, no. 3 (Sept. 2008) -- ISSN 0730-9295 -- DDC 025.4.
 
-### &nbsp;
+### blackaby-d-l
 Blackaby, Daniel. -- Legend of the book keeper. -- Computer data (1 file). -- Russell Media, [n.d.] -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 > CH. Cody goes to Jade's house to ask for help. -s
 > CH. Cody and Jade find themselves at area 51 by a secret underground tunnel\. -s
@@ -577,10 +577,10 @@ Blackaby, Daniel. -- Legend of the book keeper. -- Computer data (1 file). -- Ru
 > The power of the universe has been reduced to petty rules and chants. -q
 > Cody felt like his four limbs were being pulled in opposing directions. -q
 
-### &nbsp;
+### blunt-j-a
 Blunt, James. -- All the Lost Souls. -- Computer data. -- New York: Custard/Atlantic, 2007. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### blunt-j-b
 Blunt, James. -- Back to Bedlam. -- Computer data. -- West Hollywood, Calif.: Custard Records, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.65.
 
 ### 0360
@@ -589,10 +589,10 @@ Book of common prayer according to the use of King's Chapel. -- Computer data. -
 ### 3362
 The Book of Common Prayer and administration of the sacraments and other rites and ceremonies of the church, together with the Psalter or Psalms of David : according to the use of The Episcopal Church. -- Computer data (1 file). -- Church Publishing, [2007?] -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- Title from title page. -- Filename: 3362. -- DDC 264.
 
-### &nbsp;
+### bosgoed-r-p
 Bosgoed, Reed. -- The purging. -- Computer data (1 file). -- R. B., 2013.. -- System requirements: Kindle app. -- Title from title page.  ASIN B00DQCP1J4. -- DDC 813.
 
-### &nbsp;
+### bourke-m-j
 Bourke, Martha. -- Jaguar sun. -- Computer data (1 file). -- Balam Press, 2012. -- System requrements: Kindle app. -- Title from amazon.com. -- AISN B006V4XLUK. -- DDC 813.
 
 ### bova1992
@@ -633,7 +633,7 @@ Braun, Evan. -- The book of creation / by Evan Braun and Clint Byars. -- [S.n.],
 > He wanted to close his eyes, to shut out the struggle, but he could not look away. -q
 > All he could do was present the information; what Wörtlich did with it was his own choice. -q
 
-### &nbsp;
+### brinkbaumer-k-v
 Brinkbaumer, Klaus. -- The voyage of the Vizcaína  / [by] Klaus Brinkbäumer and Clemens Höges ; translated from the German by Annette Streck. -- Harcourt, c2006. -- 328 p. -- ISBN 0151011869. -- DDC 970.
 > Is. conveniens a commission -- "Columbus probably did not help his case. He is known to have been a terrible diplomat, both obstinate and dogmatic, and very likely he told the experts exactly what he tought of their calculations." -p. 6 -- C. received a stipend while waiting for a decision -- C. began an affair with Beatriz de Arana, giving birith to Fernando. -- Never married -- [88] perceptions -- Varela/Gil house/archives -- 90 Archivo General de Indias --  "The Spaniards were fanatics when it came to beureaucracy. Anything undertaken by one of His or Her Majesty's subjects had to be recorded, copied out, countersigned, and filed away. -- C.'s writings at archives -- "In her [Varela] view, Columbus was a liar and so mistrustful of others because he assumed they were as untruthful as he... He didn't need other people" -p. 91-2 -- 92 Columbus as an Egoist -- "He [Columbus] ignored everything ut his goal, yet that single-mindedness was he needed to suceed." -- "He [Columbus] was inconsiderate and ruthless" -- "... Columbus's intense egoism stemmed from an unwavering belief that he was a tool of fate... he was certain that he of all men had been chosen to bear the one faith across the seas to new lands." -- 93 Dulmo/Estreito set sail west -- Dias around Cape of Good hope -- 94 C. anxious -- The Biblioteca Colombus at Saville's catheral -- 95 arguements against doubts of the commission -- arguements in support -- 96 C. and I affair -o
 > At the time of their 'discovery,' the 'Indians' had no name by which they referred to themselves. Later they were called the Tainos, a term for Indians who spoke Arawak. The Tainos from the Bahamas Were called he Lucayas. Mainly fishermen and gatherers, and perhaps the most most peace-loving people living on the entire continent. there would probably have beenabout fifty thousand of them, living in villages consisting of ten to twelve huts. -p. 119 -q
@@ -641,37 +641,37 @@ Brinkbaumer, Klaus. -- The voyage of the Vizcaína  / [by] Klaus Brinkbäumer an
 > Unlike his father, he [Diego] never spoke openly of his goals. -p. 287 -q
 > Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -q
 
-### 1399
+### brazier-c-c
 Brazier, Caroline. -- Cataloguing policy and practice  - 2007 and beyond: a view from the British Library. -- Computer data (1 file : 5.8 mb) -- [S.l., s.n.], 2007. -- Title from slide 1. -- File name: (1399.ppt) -- DBID 1399 -- DDC 025.3
 
 ### 10179
 Brenndorfer, Thomas. -- RDA in 10 easy steps (for cataloging a book). -- Computer data (1 file : 6.51 kb) -- [S.l. : T. Brenndorfer, 2012?] -- Title from resource. -- File name: (10179.txt). -- DBID 10179 -- DDC 025.3.
 
-### &nbsp;
+### brickman-j-d
 Brickman, Jim. -- Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al]. -- Computer data. -- New York, N.Y: Windham Hill, 1999. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
-### &nbsp;
+### brickman-j-l
 Brickman, Jim. -- Love Songs & Lullabies. -- Computer data. -- New York, N.Y: Windham Hill, 2001. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-mi
 Brickman, Jim. -- Missing Moments. -- Computer data. -- S.l.: Renegade Entertainment, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-my
 Brickman, Jim. -- My romance. -- Computer data. -- Stanford, CA : Windham Hill, p2000. -- on 1 external hard drive. -- System requirements: USB drive, MP3 file reader. -- Title from CD case. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-pe
 Brickman, Jim. -- Peace / [by] Jim Brickman, Anne Cochran, Tracy S. Silverman, ... [et al]. -- Computer data. -- New York: Arista, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-pi
 Brickman, Jim. -- Picture This. -- Computer data. -- Beverly Hills, Calif: Windham Hill Records, 1997. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-s
 Brickman, Jim. -- Simple Things. -- Computer data. -- New York, N.Y: Windham Hill, 2001. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-e
 Brickman, Jim. -- Escape / [by] Jim Brickman , Marc Antoine, Sara Evans, ... [et al]. -- Computer data. -- Santa Monica, CA: Savoy Label Group, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### brickman-j-f
 Brickman, Jim. -- From the Heart. -- Computer data. -- Toronto, Ontario: Avalon/Somerset Entertainment, 2009. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
 ### 3016
@@ -940,7 +940,7 @@ Brown, Dan. -- The Da Vinci code. -- Doubleday, c2003. -- 454 p. -- DBID 0029. -
 Brown, Dan. -- Inferno. -- Computer data. -- Anchor, c2013. -- Mode of Access: World Wide Web (https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865. -- Title from title page. -- DDC 813.
 > Madness breeds madness. -q
 
-### &nbsp;
+### brown-p-r
 Brown, Pierce. -- Red rising. -- Del Rey, c2014. -- 382 p. -- ISBN 9780345539793. -- DDC 813.
 > Those who bow their heads and accept the rule of Society and their place in Society, as all Colors do, live on wih relative freedom. -p. 70 -q
 > And those Obsidians are only the elite. The Gray soldiers prowl he cities ensuring order, ensuring obedience to the hierarchy. The Whites arbitrate their justice and push their philosophy. Pinks pleasure and serve in highColor homes. Silvers count and mniplulate currency and logistics. Yellows study the medicines and sciences. Greens develope techology. Blues navigate the stars. Coppers un the beauracracy. Every olor has a purpose. Every Color props up the Golds. -p. 72 -q
@@ -968,14 +968,14 @@ Bruce Lee's top 20 tips for living a successful life. -- Computer data (1 file :
 ### 3306
 Bruce, James. -- Surviving an apocalypse. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3306.pdf. -- DBID 3306. -- IN MakeUseOf [website]. -- (Dec. 3, 2013). -- DDC 613.6
 
-### &nbsp;
+### bryson-b-w
 Bryson, Bill. -- A walk in the woods. -- 1st ed. -- Anchor Books, 2007, c1998. -- 397 p. -- ISBN 9780307279460. -- DDC 917.
 > Life takes on a neat simplicty, too. Time ceases to have any meaning. When it is dark, you go to bed, and when it is light again you get up, and everything in between is just in between... All that is requird of you is a wilingness to truge. There is no point in hurrying ecause you are not actually going anywhere. However far or long you plod, you are always in the same place: in the woods. -p. 101 -q
 
-### &nbsp;
+### buble-c
 Buble, Michael. -- Call Me Irresponsible / Michael Buble and Ivan Lins. -- Computer data. -- Burbank, CA: 143 Records, 2007. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.66.
 
-### &nbsp;
+### buchmann-j-i
 Buchmann, Jacinda. -- Indigo incident. -- Computer data. -- J.C., c2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ASIN B00CT9XL42. -- DDC 813.
 
 ### 0153
@@ -1047,7 +1047,7 @@ Buehrens, John A. -- A chosen faith / John A. Buehrens and Forrest Church. -- Re
 > The mission of liberal religion is to make religion more liberal and to make liberals moe religious. -Wallace Robbins -p. 175 -q
 > But the amazing thing to me about the Unitarian Union of Northease India is that it is not the product of mission work; it is an indigenious movement that looked for partners. -p. 178 -q
 
-### &nbsp;
+### burroughs-a-r
 Burroughs, Augusten -- Running with scissors. -- St. Martin's Press, c2011. -- 304 p. -- ISBN 0312283709. -- DDC 920. 
 > A.'s mom goes nuts. -s
 > And he [A.'s father] had the loving, affectionate and outgoing personality of petrified wood. -p. 13 -q
@@ -1180,10 +1180,10 @@ Burton, Tara. -- Strange rites : new religions for a godless world. -- PublicAff
 C
 ---
 
-### &nbsp;
+### caballero-d-e
 Caballero, David. -- Ethereality. -- Computer data. -- Hollywood, CA: Only New Age Music, 2005. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67.
 
-### &nbsp;
+### caine-r-i
 Caine, Rachel. -- Ink and bone. -- Computer data. -- New American Library, c2015. -- Mode of Access: World Wide Web. -- System requirements: Kindle file reader. -- Title from title page. -- DDC 813.
 > Guillaume Danton -f
 > I gambled for the soul of the Library. And I lost. Past is past. -q
@@ -1210,16 +1210,16 @@ Caine, Rachel. -- Ink and bone. -- Computer data. -- New American Library, c2015
 > When you steal a book, you steal from the world, the Library propaganda said -q
 > St Paul’s Serapeum, the physical presence of the Great Library -q
 
-### &nbsp;
+### calhoun-k-o
 Calhoun, Karen. -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Computer data (1 file : 1429 kb.) -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- Title from resource. -- File name: (10060.pdf). -- DBID 10060. -- ISBN 1556535116 -- DDC 025.3
 
-### &nbsp;
+### calm
 Calm.com. -- Computer data. -- [S.l. : s.n., n.d.]. -- Mode of Access: World Wide Web (http://www.calm.com) -- Title from homepage. -- DDC 158.1
 
-### &nbsp;
+### camp
 Camp Delta standard operating procedures (SOP). -- Computer data (1 file : 4.3 mb.) -- [S.l., s.n.], 2003. -- Title from cover. -- File name: (6409.pdf). -- DBID 6409 -- DDC 355.
 
-### &nbsp;
+### camus-a-p
 Camus, Albert. -- The plague. -- London: Penguin, 2002. -- 256 p -- DDC 843.
 > 'Tarrou, Jean'a visitor to Oran -p. 21 -f
 > -p. 21- -s
@@ -1246,7 +1246,7 @@ Camus, Albert. -- The plague. -- London: Penguin, 2002. -- 256 p -- DDC 843.
 > 'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 -q
 > Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f
 
-### &nbsp;
+### cantor-n-a
 Cantor, Norman. -- Antiquity. -- 1st ed. -- HarperCollins, c2003. -- ix, 240 p. -- ISBN 0060174099. -- DDC 930.
 > Prometheus: the personification of reason. -p. 131 -f
 > Sophists: A philosophical school that would teach anyone for a price -- Believed that "Education was to be put to use in society... that there was no absolute truth" -p. 137 -- Trained pupils in rhetoric and argument, not to pursue the truth, but to win arguments in the Athenian Assembly. -p. 136-7 -f
@@ -1254,7 +1254,7 @@ Cantor, Norman. -- Antiquity. -- 1st ed. -- HarperCollins, c2003. -- ix, 240 p. 
 > All of Western philosophy, as the eminent twentieth-century thinker A.N. Whitehead hs said, is but 'a series of footnotes to Plato'. -p. 138 -q
 > The Laws / by Plato: May have been Plato's last work -- attempted to draw up a constitution of the perfect state. -p. 139 -q
 
-### &nbsp;
+### caraway-b-n
 Caraway, Beatrice L. -- Notes for remote access computer file serials. -- Computer file. -- [S.n.], c2002. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3258.pdf. -- DDC 025.3
 
 ### carter2005
@@ -1280,10 +1280,10 @@ Carter, Jimmy. -- Our endangered values. -- Simon & Schuster, c2005. -- x, 212 p
 > ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 -q
 > Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q
 
-### &nbsp;
+### carson-h-p
 Carson, Heather. -- Project Dandelion. -- [S.n.], 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07TLF8HN7). -- AISN B07TLF8HN7. -- DDC 813.
 
-### &nbsp;
+### casey-m-s
 Casey, Mike. -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- Computer data (1 file : 5.7 mb.) -- [S.n., s.l.], c2007. -- Title from cover. -- File name: (6445.pdf). -- DBID 6445 -- DDC 025.8.
 
 ### &nbsp;
