@@ -3990,18 +3990,18 @@ Kennedy, Roger G. -- Mr. Jefferson's lost cause : land, farmers, slavery, and th
 > ... republican order... bottomed [upon]... a mass of small independent farmers... -Thomas Jefferson -p. 67 -q
 > The Lost Cause of Thomas Jefferson -- a Southland republic of free and independent yeoman... -p. 73 -q
 
-### &nbsp;
+### kenyon-n-d
 Kenyon, Nate. -- Day one. -- St. Martin's Press, c2013. -- 289 p. -- ISBN 978125013217. -- DDC 813
 > 1-?: A hacker group, called "Anonymous" has infected thw worlde computers. I'm having trouble determining what the protaagonist, Jonathan Hawke, has to do with the story. -s
 > ?-230: We learn that a self-aware program named Jane Doe, acting like a virus, has taken over every electronic device in Manhattan (and maybe the world) in order to kill most people. But she seems to be targeting Hawke and a few others. -s
 
-### &nbsp;
+### kephart-c-w
 Kephart, Carolyn. -- Wysard. -- 2nd ed. -- Computer data (1 file : 3501 KB). -- Samarkand Press, 2013.. -- System requirements: Kindle app. -- Title from by Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### kerley-b-k
 Kerley, Brian K. -- The octagan key. -- 2nd ed. -- Computer data (1 file : 932 KB). -- Wolf & Sparrowhawk Wilderness Press, 2013. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B008G32CL8. -- DDC 813
 
-### &nbsp;
+### kerman-p-o
 Kerman, Piper. -- Orange Is the New Black: My Year in a Women's Prison. -- Computer data. -- Spiegel & Grau, 2010. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- DDC 920.
 > We now lock up one out of every hundred adults, far more than any other country in the world. -q 360
 > "You just keep to yourself, you’re gonna be fine." -q 626
@@ -4025,32 +4025,32 @@ Kerman, Piper. -- Orange Is the New Black: My Year in a Women's Prison. -- Compu
 > THE BIGGEST problem with the MCC was that there was nothing to do. -q 4435
 > Great institutions have leaders who are proud of what they do, and who engage with everyone who makes up those institutions, so each person understands their role. -q 4588
 
-### &nbsp;
+### keys-l-l
 Keys, Logan. -- The last city. -- Computer data (1 file). -- Le Chat Publishing, 2015. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B00ZUA2X3M. -- DDC 813.
 
-### &nbsp;
+### kindle
 Kindle Buffet. -- Computer data. -- [S.l., n.d.] -- Mode of Access: World Wide Web. -- Title from home page. -- Frequency: Daily. -- URL http://www.weberbooks.com/kindle/ -- DDC 002.
 
-### &nbsp;
+### king-a-n
 King, Austin. -- Nimbus : a steampunk novel (part one) / Austin King; B.J. Keeton. -- Computer data (1 file : 307 KB). -- [S.n., 20--]. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B007YJ5A82. -- DDC 813.
 
-### &nbsp;
+### king-m-i
 King, Martin Luther. -- The influence of the mystery religions on Christianity. -- Computer data (1 file : 86 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1453.doc) -- DBID 1542 -- DDC 260.
 
-### &nbsp;
+### kingsley-c-t
 Kingsley, Charles. -- The water-babies / by Charles Kingsley; Illustrated by Jessie Willcox Smith. -- Computer data (1 file). -- Dodd, Mead and Company, Inc., c1916.. -- System requirements: Kindle app. -- Title from cover page. -- DDC 813.
 > Ch. 3: Tom becomes a waterbaby.
 
-### &nbsp;
+### kiorgaard-d-r
 Kiorgaard, Deirdre. -- RDA and MARC21. -- Computer data (1 file : 2.9 kb) -- [S.l., s.n.], 2006. -- Title from p -- DDC -- File name: (6568.pdf). -- DBID 6568 -- DDC 025.3.
 
-### &nbsp;
+### kipp-m-s
 Kipp, Margaret E.I. -- Searching with tags. -- Computer data (1 file : 182 kb) -- Title from resource. -- File name: (10157.pdf) -- DBID 10157. -- IN Knowledge Organization. -- Vol. 37, no. 4 (2010) -- DDC 025.
 
-### &nbsp;
+### klass-m-m
 Klass, Myleene. -- Moving on. -- Computer data. -- United Kingdom: Universal Classics and Jazz, 2003. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.66.
 
-### &nbsp;
+### klein-e-t
 Klein, Ezra. -- This 4x6 index card has all the financial advice you'll ever need. -- Computer file. -- Mode of Access: World Wide Web (http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/). -- Title from header. -- IN The Washington Post [website]. -- Sept. 16, 2013. -- DDC 332.
 
 > Max your 401(k) or equivalent employee contribution
@@ -4063,33 +4063,33 @@ Klein, Ezra. -- This 4x6 index card has all the financial advice you'll ever nee
 > Make financial advisor commit to a fiduciary standard.
 > Promote social insurance programs to help people when things go wrong.
 
-### &nbsp;
+### kling-m-n
 Kling, Michael. -- 9 frugal ways to treat the common cold. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 5378.pdf. -- IN Wise Bread. -- (Jan. 4, 2012) -- DDC 613.
 
-### &nbsp;
-Klosowki, Thorin. -- The best productivity tricks used by evil dictators. -- Computer data (1 file : 2 mb) -- on 1 external hard drive. -- System requirements: PDF file reader; USB port. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012). -- DDC 150.
+### klosowki-t-b
+Klosowski, Thorin. -- The best productivity tricks used by evil dictators. -- Computer data (1 file : 2 mb) -- on 1 external hard drive. -- System requirements: PDF file reader; USB port. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012). -- DDC 150.
 > 1. Force difficult decisions on people when their willpower is weak. -- 2. Create a five-year place. -- 3. Purge threats to your power. -- 4. Embrace your "Cult of Personality" . -- 5. Give direct, powerful speeches. -- 6. Learn from experiences, not books.
 
-### &nbsp;
+### Klosowski-t-i
 Klosowski, Thorin. -- The importance of self-awareness, and how to become more self aware. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; txt file reader. -- Filename: 3333.txt. -- Also available on the WWW (http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518). -- DBID 3333. -- IN Lifehacker. -- (Aug 21, 2014). -- DDC 158.1.
 > Learn to look at yourself objectively -- Write your own manifesto -- Keep a journal -- Perform a self interview. -o
 
-### &nbsp;
+### kohn-s-o
 Kohn, Sally. -- The opposite of hate. -- Computer data -- Algonquin Books, 2018. -- System requirements: Kindle app. -- Title from amazon.com. -- Also available on the World Wide Web. -- URL https://read.amazon.com/?asin=B075G4W7VF . AISN B075G4W7VF. -- DDC 152.
 
-### &nbsp;
+### kolata-g-f
 Kolata, Gina. -- Flu : The story of the great influenza pandemic of 1918 and the search for the virus that caused it. -- New York : Simon & Schuster, c1999, 2005. -- xi, 338 p. -- ISBN 9780743203982. -- DBID 3028 -- DDC 614.
 
-### &nbsp;
+### kooks-i
 Kooks (Musical group). -- Inside In, Inside Out. -- Computer data. -- on 1 external hard drive. -- England: Virgin Records, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### kosciejew-m-i
 Kosciejew, Marc. -- Inside an Axis of Evil Library. -- Computer data (1 file : 165 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10159.pdf) -- DBID 10159. -- IN Feliciter. -- Vol. 55, no. 4 (2009), p. 167-170. 028.
 
-### &nbsp;
+### koven-s-c
 Koven, Suzanne. -- Charting the human condition. -- Computer data (1 file : 8 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10143.txt) -- DBID 10143. -- IN The Boston Globe. -- (Jan. 22, 2012) -- DDC 808.
 
-### &nbsp;
+### kraybill-d-a
 Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; Photographs by Daniel Rodriguez. -- Computer data (1 file : 2926 KB). -- Stackpole Books, 2008. -- on ASUS tranformer tablet. -- Title from cover. -- System requirements: Kindle app. -- DDC 289.7.
 > ... a combination of biological reproduction, cultural resistance, and cultural -q
 > ... compromise has enabled the Amish to flourish and grow as a distinctive people in the midst of modern life. -q
@@ -4127,7 +4127,7 @@ Kress, Nancy. -- Tomorrow's kin. -- Tor, c2017. -- 367 p. -- ISBN 078065390301. 
 > Actually, he never weeps at all... [he] holes up in his lab at Cambridge and glowers at the world through medieval arrow slits. -p. 61 -q
 > Something about the United States seemed to provide a fertile medium for cultural hate groups, irrational scapegats, mass shootings, and the blame game. -p. 204 -q
 
-### &nbsp;
+### kules-b-c
 Kules, Bill. -- Categorizing Web Search Results into Meaningful and Stable Categories Using Fast-Feature Techniques / [by] Bill Kules, Jack Kustanowitz and Ben Shneiderman. -- Computer data (1 file : 52 kb) -- [S.l. : The authors, n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: 3117.txt -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3117.txt). -- DBID 3117 -- DDC 025.3.
 
 L
@@ -4157,11 +4157,11 @@ Lamoreux, Daniel. -- Apparition Lake / Daniel Lamoreux, Doug Lamoreux. -- Comput
 > Years of taking game illegally had taught Jessie two things; first, let only your friends watch you work and, second, you have no friends. -q
 > The Spirit Bear saw my heart and knew I posed no threat to Mother Earth. And, instead of killing me, it delivered a warning. -q
 
-### &nbsp;
+### lanz-d-c
 Lanz, David. -- Cristofori's Dream. -- Computer data. -- Milwaukee: Etats-Unis, 1998. -- on 1 external hard drive. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
-Lao Tsu. -- Tao Te Ching / Lao Tsu; translated by Gia-Fu Feng and Jane English. -- Vintage Books, c1997, c1992. -- 1 v. [unpaged]. -- ISBN 0679776192. -- DDC 299.5.
+### lao-t1
+Laozi. -- Tao Te Ching / Lao Tsu; translated by Gia-Fu Feng and Jane English. -- Vintage Books, c1997, c1992. -- 1 v. [unpaged]. -- ISBN 0679776192. -- DDC 299.5.
 > Tao means 'The Way.'. The Tao is the Way to live in order to achive by non-doing. -q
 > The basic tenets [of Taoism] are four: 1) that the "Way" of Tao underlies all things, 2) that human action that is harmonious with Tao is spontaneous, effortless, and inexhaustible, 3) that the perfected individual is a sage, free from desire and strife, and 4) that the sage conducts government by guiding his people back to a state of harmony with the Tao. -q
 > ... shamanism, the aboriginal root of religions. -q
@@ -4181,40 +4181,40 @@ Lao Tsu. -- Tao Te Ching / Lao Tsu; translated by Gia-Fu Feng and Jane English. 
 > There is no greater sin than desire, no greater curse than discontent, no greater misfortune than wanting something for oneself. Therefore he who knows that enough is enough will always have enough. -q
 > The sage has no mind of his own. He is aware of the needs of others. ... The sage is shy and humble - to the world he seems confusing. Men look to him and listen. He behaves like a little child. -q
 
-### &nbsp;
-Lao Tzu. -- Tao Te Ching / Lao Tzu; Dennis Waller. -- Computer data (1 file : 143 kb). -- D. Waller, c2012. -- on ASUS tranformer tablet. -- Title from cover. -- System requirements: Kindle app.  -- ASIN B0096DIIHE. -- DDC 299.
+### lao-t2
+Laozi. -- Tao Te Ching / Lao Tzu; Dennis Waller. -- Computer data (1 file : 143 kb). -- D. Waller, c2012. -- on ASUS tranformer tablet. -- Title from cover. -- System requirements: Kindle app.  -- ASIN B0096DIIHE. -- DDC 299.
 
-### &nbsp;
+### lardinois-f-w
 Lardinois, Frederic. -- What are you looking at? -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10073.pdf). -- DBID 10073. -- IN ReadWriteWeb (Feb. 6, 2009) -- DDC 004.67.
 
-### &nbsp;
+### larson-e-l
 Larson, Elizabeth. -- Library renewals. -- Computer data (1 file : 38.3 kb). -- on 1 external hard drive. -- Title from resource. -- File name: (0302.pdf). -- IN Reason. (Mar. 1994). -- DBID 302 -- DDC 020
 
-### &nbsp;
+### laurent-p-c
 Laurent, Peter. -- The Covert Academy. -- Computer data (1 file). -- [S.n., n.d.].. -- System requirments: Kindle app. -- Title from title page. -- DDC 813.
 
-### &nbsp;
+### lasar-m-t
 Lasar, Mars. -- Tahoe Spirit. -- Computer data (1 file). -- [S.n.], 2009. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-### &nbsp;
+### lasar-m-y
 Lasar, Mars. -- Yosemite. -- Computer data (1 file). -- [S.n.], 2006. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-### &nbsp;
+### leclair-d-e
 LeClair, Dave. -- The Elder Scolls is going to be massive; massively multiplayer, that is [updates]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: (3004.pdf). -- DBID 3004. -- IN MakeUseOf.com. -- (May 4, 2012).
 
-### &nbsp;
+### lea-c-c
 Lea, Catherine. -- The candidate's daughter. -- Computer data (1 file : 490 KB). -- Brakelight Press, 2013.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00D3DDNJQ. -- DDC 813.
 
-### &nbsp;
+### lesiem-a
 Lesiem. -- Auracle. -- Computer data. -- City Hall Records, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### lesiem-i
 Lesiem. -- Illumination. -- Computer data. -- Anaheim, CA: Intentcity, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### lesium-m
 Lesiem. -- Mystic Spirit Voices. -- Computer data. -- Miami, FL: Alcione, 2001. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### leuchtenburg-w-h
 Leuchtenburg, William E. -- Herbert Hoover. -- Time Books, c2009. -- xviii, 186 p. -- ISBN 9780805069587. -- DDC 922.
 > Ch. 3: Hoovers efforts during WWI. He preached volunteerism and philanthropy; but he also recieved lots of money from the gov't. -- Leading the food administration. Put in place rationing and price fixing. -s 
 > Hoover's feisty behavior helps account for why he had not a friend in cabinet. Unable to understand how anyone could disagree with him, he flew into tantrums when men he did not think were his equals raised objections. -p. 64 -q
@@ -4222,34 +4222,34 @@ Leuchtenburg, William E. -- Herbert Hoover. -- Time Books, c2009. -- xviii, 186 
 > Hoover is our shepherd / We are in want / He maketh us to lie / Down on the park benches / He leadeth us beside the still factories / He disturbeth our soul. -Parody circulated by war veterans in the '32 campaign. -p. 140 -f
 > Critics also misrepresented Hoover as a Wall Street lackey. 'The only trouble with capitalism is the capitalists,' he had told the columnist Mark Sullivan. 'They're too damned greedy.' -q -p. 148
 
-### &nbsp;
+### lewis-b-2
 Lewis, Benny. -- 29 life lessons learned in travelling in the world for 8 years straight. -- on 1 external hard drive. -- Computer data (1 file : 748 kb). -- Title from p -- DDC -- File name: (10133.pdf) -- DBID 10133. -- IN Fluent in 3 months. -- [2011?] -- URL http://www.fluentin3months.com -- DDC 910.
 
-### &nbsp;
+### library-b
 Library bill of rights. -- Computer data (1 file : 2 kb) -- [S.l.] : American Library Association, 1996. -- on 1 external hard drive. -- Title from resource. -- File name: (1080.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1080.txt) -- DBID 1080 -- DDC 020.
 
-### &nbsp;
+### library-o-a
 Library of Congress. -- American memory [database]. -- Computer file (1 file : 141 mb) -- [Washington, D.C.] : Library of Congress, [n.d.]. -- Mode of Access: Gopher (gopher://justinleetyler.com/0/databases/american_memory.mrk). -- DBID 3129 -- DDC 973.05.
 
-### &nbsp;
+### library-o-d
 Library of Congress. -- Disseminating information on the internet. -- Computer data (1 file : 1.6 mb) -- [S.l.] : Library of Congress, 1994. -- on 1 external hard drive. -- Title from cover. -- File name: (10134.pdf) -- DBID 10134 -- DDC 025.
 
-### &nbsp;
+### library-o-ma
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 Format for Authority Data / Network Development and MARC Standards Office. -- 1999 ed. -- Computer data (1 file : 80 kb). -- [Washington, DC] : Library of Congress, 2006. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (5574.txt). -- DBID 5574 -- DDC 025.4
 
-### &nbsp;
+### library-o-mc
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- Computer data (1 file : 33 kb) -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3089.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3089.txt) -- DBID 3089 -- DDC 025.4.
 
-### &nbsp;
+### library-o-h
 Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- Computer data (1 file : 34 kb). -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- Title from p.1. -- File name: (1703.txt). -- Also available on the [World Wide Web](http://www.justinleetyler.com/1703.txt). -- DBID 1703 -- DDC 025.3.
 
-### &nbsp;
+### library-o-o
 Library of Congress. Working group on the future of of bibliographic control. -- On the record. -- Computer data (1 file : 442 kb.) -- [Washington, D.C. : Library of Congress], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (6452.pdf). -- DBID 6452 -- DDC 025.3.
 
-### &nbsp;
+### lifehacker
 Lifehacker. -- Gizmodo Media Group, c2017. -- Title from homepage. -- -- Mode of Access: World Wide Web.Frequency: Daily. -- URL http://www.lifehacker.com. -- DDC 001.
 
-### &nbsp;
+### lightfoot-g-i
 Lightfoot, Gordon. -- If You Could Read My Mind. -- Computer data. -- Burbank, Calif.: Reprise Records, 1980. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
 ### lindborg2007
@@ -4270,17 +4270,17 @@ Lindborg, Kristina. -- A natural history of Boston's North Shore. -- University 
 > The great horned owl is one of the first birds to nest and will lay its eggs as early as January despite a snow-covered landscape. -p. 84 -q
 > ... life span [of the fox] is sadly brief, only four to five years. Predation and competition for resources are the main cause. -p. 98 -q
 
-### &nbsp;
+### lislevand-r-d
 Lislevand, Rolf. -- Diminuito / [by] Rolf Lislevand ... [et al.]. -- Computer data. -- Munchen: ECM Records, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.68.
 
-### &nbsp;
-A liturgy for the use of the church at King's Chapel. -- Computer data 1 file). -- James Munroe and Company, 1845. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: 3361.pdf. -- DDC 289.1.
+### liturgy
+A liturgy for the use of the church at King's Chapel. -- James Munroe and Company, 1845. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: 3361.pdf. -- DDC 289.1.
 
-### &nbsp;
+### litore-s-a
 Litore, Stant. -- Ansible 15715 : Season 1, episode 1. -- Computer data. -- Westmarce Publishing, c2014. -- System requirements: kindle app. -- DDC 813.
 > Malala Ali, f 25th c. Graduated from Kaust. She transferred into a male body, and is on a world with lots of hunger. Aliens keep humans as cattle. They enter malala's mind, tell her to tell the humans on earth, but earth won't believe her. There appers to be a time travel dimension. When she comes back, they think she is a heretic, and burn her at the steak. Feels very much like matrix.
 
-### &nbsp;
+### livingston-j-a
 Livingston, James C. -- Anatomy of the sacred. -- 2nd ed. -- New York : Macmillan, c1993. -- xvi, 460 p. -- ISBN 0023714018. -- DBID 1697. -- DDC 200.
 > 'I. What is Religion A. Defining Religion 1. Theism v.s. Non-Theism 2. Sacred v.s. secular 3. Mono v.s. polytheism 4. Why define religion a. religions do share charactoristics b. avoid confusion 5. Substantive v.s. functional B. Why are humans religious? C. Why Study Religion D. How to study religion' -p. 3-23 -o
 > 'II. Ways of Studying Religion A. Theology and religios studies. B. Literary Criticism C. Historiography D. Anthropology E. Sociology F. Psychology G. Philosophy H. Phenomenology 1. 'meaning that which appears' -40 2. Study of structures and forms' -p. 24- -O
@@ -4327,7 +4327,7 @@ Livingston, James C. -- Anatomy of the sacred. -- 2nd ed. -- New York : Macmilla
 > Ethics of obligation/dutyof what ought to be done -p. 306 -d
 > Is something right because God commands it or does He command it because it is right?Socrates -p. 322 -q
 
-### &nbsp;
+### llywelyn-m-g
 Llywelyn, Morgan. -- The greener shore. -- New York : Ballantine, c2006. -- 301 p. -- ISBN 9780345477668. -- DBID 1732. -- DDC 813.
 > Let the past go? How can I let go of something that's entangled with my spirit like mistletoe on an oak tree? -p. 5 -q
 > Druids served in a number of capacities. Their principle obligation was to maintain the harmony between the visible and invisible worlds. They also kept the laws of their race and were the only members of a tribe exempt from battle. -p. 4 -q
@@ -4357,16 +4357,16 @@ Llywelyn, Morgan. -- The greener shore. -- New York : Ballantine, c2006. -- 301 
 > Trees are a visible representation of the sacred forces of wind and water and son. Their shapes conform to the wind that swirls around them -p. 27 -q
 > 'A conqueror's most dangerous opponents are not the warriors, but the thinkers. Realizing this, Caesar had ordered his legions to hunt down the Order of the Wise and put all thye found to the sword. With those murdered men and women died must of our past.' -p. 70 -q
 
-### &nbsp;
+### lombardi-e-h
 Lombardi, Esther. -- How To keep a reading log or book journal. -- Computer data (1 file). -- [S.n., n.d.]. -- On 1 external hard drive. -- System requirements: USB drive, TXT file reader. -- File name: 3266.txt. -- DBID 3266. -- DDC 808.
 
-### &nbsp;
+### lopez-r-s
 Lopez, Rob. -- Solar Storm. -- [S.n.], 2017. -- Mode of Access: World Wide Web http://www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- DDC 813.
 
-### &nbsp;
+### lost
 Lost lore. -- Computer data. -- 1st ed. -- Terrible Ten, 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- Also available on the World Wide Web (https://read.amazon.com/?asin=B078YH28M6). -- AISN B078YH28M6. -- DDC 813.
 
-### &nbsp;
+### lowry-l-g
 Lowry, Lois. -- The giver. -- Houghton Mifflin Harcourt, 1993. -- 225 p. -- ISBN 9780554336261. -- DDC 813.
 > 5 When puberty comes, they refer to sexual attraction as 'the stirrings', and have a pill to make them go away. -s
 > 6 Description of the very structured community, marked by the ceremony. Passing out of new children, the nines getting bikes, etc. -s
@@ -4379,13 +4379,13 @@ Lowry, Lois. -- The giver. -- Houghton Mifflin Harcourt, 1993. -- 225 p. -- ISBN
 > I have great honor... but ou will find that that is not the same as power. -RofM -p. 106 -q
 > 11 The RofM gives three memories to Jonas: Snow sliding, sunshine, and a sunburn. the old RofM becomes The Giver. -s
 
-### &nbsp;
+### luoma-m-v
 Luoma, Mike. -- Vatican assassin. -- 1st ed. -- Computer data (1 file : 579 KB). -- Lulu, 2005. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- AISN B001F5188C. -- DDC 813
 
-### &nbsp;
+### luther-j-s
 Luther, Judy. -- Streamlining book metadata workflow. Computer data. -- [S.l.] : NISO, c2009. -- on 1 external hard drive. -- Title from cover. -- File name: (10076.pdf) -- DDC 025.3.
 
-### &nbsp;
+### luther-k-s
 Luther, Kate. -- 7 ways to get your life back into balance. -- Computer data. -- Mode of Access: World Wide Web. -- Title from resource (http://www.wisebread.com/7-ways-to-get-your-life-back-into-balance?). -- IN Wisebread. -- (May 13, 2014). -- DDC 152.
 > 1 Learn to say no. 
 > 2 Let go of guilt
@@ -4395,10 +4395,10 @@ Luther, Kate. -- 7 ways to get your life back into balance. -- Computer data. --
 > 6 Meditate
 > 7 Choose
 
-### &nbsp;
+### lynch-r-n
 Lynch, Ray. -- Nothing Above My Shoulders but the Evening. -- Computer data. -- Stanford, CA: Windham Hill Records, 1993. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### lysik-s-p
 Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- Computer data. -- 2012- . -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Directory name: 3271. -- DBID 3271. -- DDC 779.
 
 M
