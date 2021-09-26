@@ -14,17 +14,17 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
-|2021-09 | C | 8 [From Cape to Cairo](https://justinleetyler.github.io/catalog#duncan-d-f) / David Ewing Duncan | 941 | |
-|2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#milton2019) / Nicholas Milton | 940 | |
-|2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | |
-|2021-07 | C | 5 Edward Heath / Michael McManus | 920 ||
+|2021-09 | C | 8 [From Cape to Cairo](https://justinleetyler.github.io/catalog#duncan-d-f) / David Ewing Duncan | 941 | An african travel autobiography |
+|2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#milton2019) / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
+|2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | A humor book about politics. |
+|2021-07 | C | 5 Edward Heath / Michael McManus | 920 | A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. |
 |2021-06 | C | 4 [The heirs of Earth](https://justinleetyler.github.io/catalog#20210911_190618) / Daniel Arenson | 813 | |
 |2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
 |2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
 |2021-05 | C | 1 [Prince Charles](https://justinleetyler.github.io/catalog#smith2017) | 920 | A biography of Prince Charles. |
 |2020-12 | C | 28 [Life in the shifting dunes](https://justinleetyler.github.io/catalog#white1960) / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
 |2020-12 | C | 27 [Well of Furies](https://justinleetyler.github.io/catalog#delancey2014) / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
-|2020-12 | D | 26 [Port State](https://justinleetyler.github.io/catalog#bowden2020) / William Bowden. | 823 | A spacecraft docks in Bristol. |
+|2020-12 | D | 26 [Port State](https://justinleetyler.github.io/catalog#bowden2020) / William Bowden. | 823 | A spacecraft docks in Bristol, U.K. |
 |2020-10 | D | 25 [The book of creation](https://justinleetyler.github.io/catalog#braun2011) / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
 |2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
 |2020-10 | D | 23 [The rocks of Cape Ann](https://justinleetyler.github.io/catalog#dennen2001) / W.H. Dennen.| 552 | |
