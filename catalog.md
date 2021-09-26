@@ -1100,6 +1100,7 @@ Byne, Logan. -- Banded. -- Computer data. -- [n.p], c2014. -- System requirement
 
 ### burton2020
 Burton, Tara. -- Strange rites : new religions for a godless world. -- PublicAffairs, 2020. -- Title from Amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07W56MQLJ). -- AISN B07W56MQLJ. -- ISBN 9781541762510. -- DDC 200.
+> Read 2020-08. -- Grade C. -r --
 > “collective effervescence,” -- 
 > The ultimate object of worship he sees in a society’s church is society itself. “God,” he writes in Elementary Forms, “and society are one of the same.… The god of the clan -- 
 > What matters is that participants have a common symbolic object of worship—and that they have rituals and routines to help them solidify their social bonds around that object. -- 
@@ -1287,56 +1288,56 @@ Carson, Heather. -- Project Dandelion. -- [S.n.], 2019. -- Title from Amazon.com
 ### casey-m-s
 Casey, Mike. -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- Computer data (1 file : 5.7 mb.) -- [S.n., s.l.], c2007. -- Title from cover. -- File name: (6445.pdf). -- DBID 6445 -- DDC 025.8.
 
-### &nbsp;
+### casson-l-l
 Casson, Lionel. -- Libraries in the ancient world. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094 -- DDC 027.
 > The BeginningsA. Clay 1. Durable 2. ok in fire -p. -
 > PrefaceA. covers from 3000 BCE-500 CEB. -p. -
 > 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
 
-### &nbsp;
+### cataloging
 Cataloging internet resources / Nancy B. Olson, editor. -- Computer data. -- United States : Online Computer Library Center, c1995. -- on 1 external hard drive. -- Title from cover. -- Filename: 10126.txt -- DBID 10126 -- DDC 025.3.
 
-### &nbsp;
+###catchpole-j-i
 Catchpole, John E. -- The International Space Station. -- Computer data (1 file). -- [S.l.] : Praxis, 2008. --. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3034 -- DDC 624.4
 
-### &nbsp;
+### cathedral
 Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.) -- In celebration and of thanksgiving for the life of Gerald Rudolph Ford. -- Computer data (1 file : 156 kb) -- [Washington, D.C. : The cathedral, 2006] -- Title from cover. -- File name: (0589.pdf) -- DBID 0589 -- DDC 923.1.
 
-### &nbsp;
+### cauvin-j-b
 Cauvin, Jacques. -- The birth of the gods and the orgins of agriculture / Jacques Cauvin; translated by Trevor Watkins. -- Computer data (1 file). -- Cambridge University Press, 2000. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Filename: 3368.pdf. -- DDC 939.
 
-### &nbsp;
+### cerdwen-o
 Cerdwen. -- Or Mabinogi. -- Computer data. -- [S.l.: s.n.], 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### cha-j-f
 Cha, Jiyoung. -- Factors affecting the frequency and amount of social networking site use. -- Computer data. -- Title from resource. -- File name: (libary/9080.pdf) -- DBID 9080. -- IN First Monday. -- Vol. 15, no. 12. (Dec. 2010) -- DDC 305.
 
-### &nbsp;
+### change
 Change of issuence : MARC 21 bibliographic level code "m" still used (code "I" not yet implemented). -- Computer data (1 file : 67 kb). -- [S.l., s.n., n.d.] -- Title from cover. -- File name: (9053.pdf) -- DBID 9053 -- DDC 025.3.
 
-### &nbsp;
+### chant-g-l
 Chant Gregorien: Liturgie Dominicaine. -- Computer data. -- France: Jade, 2007. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67
 
-### &nbsp;
+### chants
 Chants of the Season. -- Computer data. -- New York, NY: RCA Victor, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.723.
 
-### &nbsp;
+### charlton-r-s
 Charlton, Reno. -- The secret portal. -- Computer data (1 file : 323 KB). -- R. Charlton, c2012.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B007IWDCK8. -- DDC 813.
 
-### &nbsp;
+### chastain-c-e
 Chastain, Coleman. -- Earth and shadows. -- Computer data (1 file). -- [The author], c2013. -- on ASUS tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
-### &nbsp;
+### cher-v
 Cher. -- The Very Best of Cher. -- Computer data. -- Burbank, CA: Warner Bros. Records, 2003. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64
 
-### &nbsp;
+### chernoff-m-12
 Chernoff, Marc. -- 12 rituals happy, successful people practice every day. -- Computer file. -- Mode of Access: World Wide Web (http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day/). -- Title from resource. -- IN Marc and Angel hack life (June 2014). -- DDC 152.
 > 1.  Exercise your integrity. -- 2.  Steer clear of drama and those who create it. -- 3.  Replace judgment with encouragement. -- 4.  Be positive and spend time with positive people. -- 5.  Make new choices as needed, rather than letting old ones make you. -- 6.  Simplify whatever you can, whenever you can. -- 7.  Uphold your truth. -- 8.  Express your love without reservations. -- 9.  Nurture your relationship with your significant other. -- 10.  Loosen your grip on what’s not meant to fit in to your life. -- 11.  Embrace your humanness. -- 12.  Ask yourself the right questions. -o
 > Judge a man by his questions rather than by his answers. -Voltaire -q
 > 12: The right questions: Who am I? -- What do I need? -- How do I function best? -- What do I have to give? -- What's the next step I can take right now? -q
 > A relationship should be healthy, caring, loving, kind, upbeat and positive.  It should make your smile a little wider... -q
 
-### 1689
+### choo-c-i
 Choo, Chun Wei. -- Information seeking in organizations. -- Computer data (1 file : 271 kb). -- Title from p.1. -- File name: (1689.mht). -- DBID 1689. -- IN Information Research. -- Vol. 12, no. 22 (Jan. 2007) -- DDC 025.5.
 
 ### child2009
@@ -1353,214 +1354,220 @@ Child, Lincoln. -- Terminal freeze. -- 1st ed. -- Random House, c2009. -- 320 p.
 > Ultimately, it becomes its own worse enemy. It kills everything - leaving itself without sustenance. -p. 182 -q
 > Ch. 42-45: The truck carrying the evacuees hit a rock, and the fuel take is punctured. They may not have enough fuel to make it back. -- The creature may be susseptable to sound.
 
-### 3286
+### chung-j-k
 Chung, Jackson. -- Kids : Past v.s. internet generation. -- Computer data (1 file). -- on 1 external hard drive. -- Title from resource. -- System requirements: USB drive; JPG file reader. -- Filename: 3286.jpg. -- DBID 3286. -- DDC 305.23.
 
-### &nbsp;
+### cistercian-m-c
 The Cistercian Monks of Stift Heiligenkreuz. -- Chant. -- Computer data. -- on 1 external hard drive. -- Universal Music Classics, c2008. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disk. -- File Directory: /music/ . -- DDC 781.67.
 
-### &nbsp;
+### city-states
 The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- Title from header. -- Mode of Access: World Wide Web (http://www.aetolia.com/cities). -- DDC 342.
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
 ### clarke1968
 Clarke, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title from title page viewed June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01A6E8EQ6). -- AISN B01A6E8EQ6. -- DDC 823.
-> The truth, as always, will be far stranger.
-> Honor had been satisfied; each group had staked its claim to its own territory.
-> The harsh logic of survival ruled out such fancies, and not a voice was raised in protest from the listening hillside. Every cave was silent, lest it also attract disaster.
-> 1 moonwatcher sees a ufo. -s
-> 2 the ufo scans tgem, makes tgem do things -s
-> They could not eat it, and it could not eat them; therefore it was not important.
-> 3 the ufo rewires the brains and mooknwatcher kills a pig, bscomes canablistic -s
-> 4 they killed a leopald -s
-> Their ritual rage ebbed away,
-> 5 moonwatcher kills one ear of the others. -s
-> They had learned to speak, and so had won their first great victory over Time. Now the knowledge of one generation could be handed on to the next, so that each age could profit from those that had gone before.
-> Unlike the animals, who knew only the present, Man had acquired a past; and he was beginning to grope toward a future.
-> 7 drfloyd goes to tge moon bc of an eoedemic. -s
-> 8 floyd arruces on tge moon -s
-> 10 heywood floyd arrives at clovis moon bsase. Thwrs no plague. But TMA-1 whatever atat is. -s
-> 11 tma1 is not created my humans -s
-> Deep Space Monitor 79
-> 14 the artifact sends a rfipple through space -s
-> 15 first appearanced ofc hal and davr -s
-> Hal (for Heuristically programmed ALgorithmic computer,
-> advance the Master Hibernation Timer twelve hours.
-> Frank Poole
-> 17 life on discovery -s
-> 19 they reach jupiter -s
-> 21 antenna goes out -s
-> They were usually christened with feminine names, perhaps in recognition of the fact that their personalities were sometimes slightly unpredictable.
-> Take things easy—never move quickly—stop and think—these were the rules for extravehicular activity.
-> 22 poole goes out to vfix the anntenna-s
-> 23 the antenna was fine after all. Mission control thjnks sonetgibg is wrokng with hal. -s
-> Chief Programmer, Dr. Simonson.
-> 24 missuon control calls bjt its a bad connection. Shananagans frokm hal?
-> 27 pooles vehicle goes crazy and takes off. Hal again ? -s
-> 26 hal argues about bowmans to wake ceveryonne up. He hes, but as tgey di, tge airlock ipens. -s
-> He had begun to make mistakes, although, like a neurotic who could not observe his own symptoms, he would have denied it.
-> 29;hal is takijnh contril -s
-> 28 dave unplugs hals cognitive thought -s
-> Heywood Floyd
-> Japetus.
-> 30 the real mission is to go to japetus, whose brightness on okne side may be connected with tma-1 -s
-> Work is the best remedy for any shock,
-> Wotd: anthropomorphic
-> Plenipotentiary
-> 34 discovery enters saterns area -s
-> 36 the moon has a huged versin of tmA-1
-> 37 this is an experiment by bodiless aliens. -s
-> 38 there is a stargate -s
-> Note:tma is a stargate.
-> 42 biwen gies thourgh a stargate, and comes to an abandoned xsoaceporft
-> 44 dave enters what is a very good creplica of a studio apartment. -s
-> twenty thousand light-years from Earth,
-> 47- he comes vacj wuth either a bomb or godxlike powers
+> Read 2020-06. -- Grade B. -r --
+> The truth, as always, will be far stranger. -- 
+> Honor had been satisfied; each group had staked its claim to its own territory. -- 
+> The harsh logic of survival ruled out such fancies, and not a voice was raised in protest from the listening hillside. Every cave was silent, lest it also attract disaster. -- 
+> 1 moonwatcher sees a ufo. -s -- 
+> 2 the ufo scans tgem, makes tgem do things -s -- 
+> They could not eat it, and it could not eat them; therefore it was not important. -- 
+> 3 the ufo rewires the brains and mooknwatcher kills a pig, bscomes canablistic -s -- 
+> 4 they killed a leopald -s -- 
+> Their ritual rage ebbed away, -- 
+> 5 moonwatcher kills one ear of the others. -s -- 
+> They had learned to speak, and so had won their first great victory over Time. Now the knowledge of one generation could be handed on to the next, so that each age could profit from those that had gone before. -- 
+> Unlike the animals, who knew only the present, Man had acquired a past; and he was beginning to grope toward a future. -- 
+> 7 drfloyd goes to tge moon bc of an eoedemic. -s -- 
+> 8 floyd arruces on tge moon -s -- 
+> 10 heywood floyd arrives at clovis moon bsase. Thwrs no plague. But TMA-1 whatever atat is. -s -- 
+> 11 tma1 is not created my humans -s -- 
+> Deep Space Monitor 79 -- 
+> 14 the artifact sends a rfipple through space -s -- 
+> 15 first appearanced ofc hal and davr -s -- 
+> Hal (for Heuristically programmed ALgorithmic computer, -- 
+> advance the Master Hibernation Timer twelve hours. -- 
+> Frank Poole -- 
+> 17 life on discovery -s -- 
+> 19 they reach jupiter -s -- 
+> 21 antenna goes out -s -- 
+> They were usually christened with feminine names, perhaps in recognition of the fact that their personalities were sometimes slightly unpredictable. -- 
+> Take things easy—never move quickly—stop and think—these were the rules for extravehicular activity. -- 
+> 22 poole goes out to vfix the anntenna-s -- 
+> 23 the antenna was fine after all. Mission control thjnks sonetgibg is wrokng with hal. -s -- 
+> Chief Programmer, Dr. Simonson. -- 
+> 24 missuon control calls bjt its a bad connection. Shananagans frokm hal? -- 
+> 27 pooles vehicle goes crazy and takes off. Hal again ? -s -- 
+> 26 hal argues about bowmans to wake ceveryonne up. He hes, but as tgey di, tge airlock ipens. -s -- 
+> He had begun to make mistakes, although, like a neurotic who could not observe his own symptoms, he would have denied it. -- 
+> 29;hal is takijnh contril -s -- 
+> 28 dave unplugs hals cognitive thought -s -- 
+> Heywood Floyd -- 
+> Japetus. -- 
+> 30 the real mission is to go to japetus, whose brightness on okne side may be connected with tma-1 -s -- 
+> Work is the best remedy for any shock, -- 
+> Wotd: anthropomorphic -- 
+> Plenipotentiary -- 
+> 34 discovery enters saterns area -s -- 
+> 36 the moon has a huged versin of tmA-1 -- 
+> 37 this is an experiment by bodiless aliens. -s -- 
+> 38 there is a stargate -s -- 
+> Note:tma is a stargate. -- 
+> 42 biwen gies thourgh a stargate, and comes to an abandoned xsoaceporft -- 
+> 44 dave enters what is a very good creplica of a studio apartment. -s -- 
+> twenty thousand light-years from Earth, -- 
+> 47- he comes vacj wuth either a bomb or godxlike powers -- 
 
 ### clarke1982
 Clarke, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
-> 1 leonov and heywood have xa secret meeting about discovery. -s 
-> 2 discovery is ablout tgo crash into Io. -s
-> Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition)
-> 4 floyd is ging on the leoov. -s
-> all human plans were subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe.
-> 6 ghey wake up after hybetnation. -s
-> 8 the tsienis going to europa fir water. -s
-> 18 thwy enter discovery.
-> 21 hal is turned on. -s
-> 22 boqem tapped a messed to his motger. Tgey fwded it. -s
-> Hofstadter—Moebius loop -f
-> The human mind has an astonishing capacity to adapt; after a while, even the incredible becomes commonplace. -q
-> 33 dave returns w/o a body. Tslks to betty. -s
-> 41 a phantom of david bowen appears to dr floys -s
-> Haldane’s famous remark: The Universe is not only stranger than we imagine—but stranger than we can imagine.” -q
-> Once is an accident; twice is a coincidence; three times is a conspiracy.” -q
-> 44 big brither cdisalpears. -s
-> 47 leonov leves jupiter, discovery stays behind, tge black stain expands on jupiter -s
-> Zagadka, the other name for the monolith -f
-> 49 tma is a neumann machine. -s
-> disconsolate -wotd
-> 50 dr chabdra disconnected hals cut iff months ago. -s
-> 51 the aliens exist in pure enerhy. -s
-> 52 jupiter ecplodes. -s
-> 53 they send a msg to eatth saying to stay iff of europa. -s
-> epilogue: life is developing on europa -s
-
+> Read 2020-06. -- Grade C. -r --
+> 1 leonov and heywood have xa secret meeting about discovery. -s  -- 
+> 2 discovery is ablout tgo crash into Io. -s -- 
+> Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition) -- 
+> 4 floyd is ging on the leoov. -s -- 
+> all human plans were subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe. -- 
+> 6 ghey wake up after hybetnation. -s -- 
+> 8 the tsienis going to europa fir water. -s -- 
+> 18 thwy enter discovery. -- 
+> 21 hal is turned on. -s -- 
+> 22 boqem tapped a messed to his motger. Tgey fwded it. -s -- 
+> Hofstadter—Moebius loop -f -- 
+> The human mind has an astonishing capacity to adapt; after a while, even the incredible becomes commonplace. -q -- 
+> 33 dave returns w/o a body. Tslks to betty. -s -- 
+> 41 a phantom of david bowen appears to dr floys -s -- 
+> Haldane’s famous remark: The Universe is not only stranger than we imagine—but stranger than we can imagine.” -q -- 
+> Once is an accident; twice is a coincidence; three times is a conspiracy.” -q -- 
+> 44 big brither cdisalpears. -s -- 
+> 47 leonov leves jupiter, discovery stays behind, tge black stain expands on jupiter -s -- 
+> Zagadka, the other name for the monolith -f -- 
+> 49 tma is a neumann machine. -s -- 
+> disconsolate -wotd -- 
+> 50 dr chabdra disconnected hals cut iff months ago. -s -- 
+> 51 the aliens exist in pure enerhy. -s -- 
+> 52 jupiter ecplodes. -s -- 
+> 53 they send a msg to eatth saying to stay iff of europa. -s -- 
+> epilogue: life is developing on europa -s -- 
 
 ### clarke1987
 Clarke, Arthur C. -- 2061 : odyssey three . -- RosettaBooks, c1987, 2012. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XF9ZZWG). -- Title from amazon.com viewed July 11, 2020. -- AISN B07XF9ZZWG. -- DDC 823.
-> 1 floyd gets ready for cruusing on "tge universe"
-> There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting.
-> 3 tge new wirld govt
-> 6 europa is massively chaanging. -s
-> 16 the universe lands on halleys comet. -s
-> 18 lake tuonella. -s
-> 19 theu enter a cave and find a luminious glow. -s
-> 20 galaxy crashes on europa. -s
-> diurnal rhythm,
-> 27 rose mcmHon tajes over galaxy. -s
-> 31 tge ship lands on europa. Sees a shark like thing. -s
-> It is surprising how quickly the most bizarre situation can become routine.
-> There was nothing worse for morale than idleness,
-> 43 galaxy is on land now. -s
-> 48 mt zeus is a diamond. -s
-> 56 mt zeus us gone, but massive duanonds Are all over tge juvian system. -s
+> Read 2020-06. -- Grade C. -r --
+> 1 floyd gets ready for cruusing on "tge universe" -- 
+> There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting. -- 
+> 3 the new world govt -- 
+> 6 europa is massively chaanging. -s -- 
+> 16 the universe lands on halleys comet. -s -- 
+> 18 lake tuonella. -s -- 
+> 19 theu enter a cave and find a luminious glow. -s -- 
+> 20 galaxy crashes on europa. -s -- 
+> diurnal rhythm, -- 
+> 27 rose mcmHon tajes over galaxy. -s -- 
+> 31 tge ship lands on europa. Sees a shark like thing. -s -- 
+> It is surprising how quickly the most bizarre situation can become routine. -- 
+> There was nothing worse for morale than idleness, -- 
+> 43 galaxy is on land now. -s -- 
+> 48 mt zeus is a diamond. -s -- 
+> 56 mt zeus us gone, but massive duanonds Are all over tge juvian system. -s -- 
 > epilogue: jupiter dies out. Massive duamoknd space ekevators connect with rings around the planet. -s
 
 ### clarke1997
 Clarke, Arthur C. -- 3001 : The final odyssey. -- RosettaBooks, c1997. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07X8ZR72R). -- Title from title page viewed July 11, 2020. -- ISBN 9780795324895. -- AISN B07X8ZR72R. -- DDC 823.
-> 1 the spcetug goliath finds an ancient astronaut. -s
-> 8 earthsx monolyth was discovered 500 yrs ago in 2500
-> Of course, like most dabblers with infinity, he [Einstein] went insane.
-> inertial field.
-> I don’t know how many acres of land it took to feed one cow, but at least ten humans could survive on the plants it produced.
-> Lucretius hit it on the nail when he said that religion was the by-product of fear—a reaction to a mysterious and often hostile universe.
-> But cranks often get that way because they know a Big Truth—can you hear my capitals?—and no one will listen…
-> Never attribute to malevolence what is merely due to incompetence.
-> It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government.
-> 36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. -s
+> Read 2020-07. -- Grade C. -r --
+> 1 the spcetug goliath finds an ancient astronaut. -s -- 
+> 8 earthsx monolyth was discovered 500 yrs ago in 2500 -- 
+> Of course, like most dabblers with infinity, he [Einstein] went insane. -- 
+> inertial field. -- 
+> I don’t know how many acres of land it took to feed one cow, but at least ten humans could survive on the plants it produced. -- 
+> Lucretius hit it on the nail when he said that religion was the by-product of fear—a reaction to a mysterious and often hostile universe. -- 
+> But cranks often get that way because they know a Big Truth—can you hear my capitals?—and no one will listen… -- 
+> Never attribute to malevolence what is merely due to incompetence. -- 
+> It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government. -- 
+> 36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. -s -- 
 > All energy eventually degrades to heat, and if everyone had a few million kilowatts to play with, this planet would soon be heading the way of Venus—several hundred degrees in the shade.
 
 ### clarke1951
 Clarke, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 823. 
-> He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q 
-> 1 the aliens arrive -s 
-> "Freedom to control our own lives, under God’s guidance." -q 
-> 3 the overlords work through the UN, and bought peace and raised the standards of living. -s 
-> their only concern was earning a living with the minimum of work. -q 
-> 3 stormgen is kidnapped, but is freed. Kargen is watching the ind. movements. -s 
-> 4  k sAys humanity can see him in 50 years. -s 
-> 5 karellan shows humself. He looks like a devil. -s 
-> it was Utopia. Ignorance, disease, poverty, and fear had virtually ceased to exist. -q 
-> When no one lacks anything, there is no point in stealing. -q 
-> 7 a guy named ruperrtf has lots of paranormal book that an overlord uses -s 
-> For Jan was still suffering from the romantic illusion—the cause of so much misery and so much poetry—that every man has only one real love in his life. -q 
-> WOTD: credulous. 
-> 8 rupert creates something like a oiluijij board, and it sats tge overlords are frolm ngs549672 -s 
-> Men were needed for trouble-shooting, for making decisions, for planning new enterprises. The robots did the rest. -q 
-> 12 jan is planning to sneak overlords homeworld in on of their supply ships -s 
-> the artist colony governance, “We’re ruled by a council of eight directors, representing production, power, social engineering, art, economics, science, sport, and philosophy. There’s no permanent chairman or president. The chair’s held by each of the directors in rotation for a year at a time." -n 
-> "Here on this island we’re trying to save something of humanity’s independence, its artistic traditions. We’ve no hostility towards the Overlords: we simply want to be left alone to go our own way." -q 
-> 15 the colony -s 
-> 17 the overlord visits. Take an intrestg in jeff -s 
-> the Overlords were trapped in some evolutionary cul-de-sac. -q 
-> 18 jeff has telepathic powers -s 
-> 19 soon all kids are telepathic -s 
-> 20 the overlords begin evacuation the kids -s 
-> 21 the artist colony island is destroyed -s 
-> 22 jan returns -s 
-> "no one of intelligence resents the inevitable.” -q 
+> Read 2020-06. -- Grade B. -r --
+> He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q  -- 
+> 1 the aliens arrive -s  -- 
+> "Freedom to control our own lives, under God’s guidance." -q  -- 
+> 3 the overlords work through the UN, and bought peace and raised the standards of living. -s  -- 
+> their only concern was earning a living with the minimum of work. -q  -- 
+> 3 stormgen is kidnapped, but is freed. Kargen is watching the ind. movements. -s  -- 
+> 4  k sAys humanity can see him in 50 years. -s  -- 
+> 5 karellan shows humself. He looks like a devil. -s  -- 
+> it was Utopia. Ignorance, disease, poverty, and fear had virtually ceased to exist. -q  -- 
+> When no one lacks anything, there is no point in stealing. -q  -- 
+> 7 a guy named ruperrtf has lots of paranormal book that an overlord uses -s  -- 
+> For Jan was still suffering from the romantic illusion—the cause of so much misery and so much poetry—that every man has only one real love in his life. -q  -- 
+> WOTD: credulous.  -- 
+> 8 rupert creates something like a oiluijij board, and it sats tge overlords are frolm ngs549672 -s  -- 
+> Men were needed for trouble-shooting, for making decisions, for planning new enterprises. The robots did the rest. -q  -- 
+> 12 jan is planning to sneak overlords homeworld in on of their supply ships -s  -- 
+> the artist colony governance, “We’re ruled by a council of eight directors, representing production, power, social engineering, art, economics, science, sport, and philosophy. There’s no permanent chairman or president. The chair’s held by each of the directors in rotation for a year at a time." -n  -- 
+> "Here on this island we’re trying to save something of humanity’s independence, its artistic traditions. We’ve no hostility towards the Overlords: we simply want to be left alone to go our own way." -q  -- 
+> 15 the colony -s  -- 
+> 17 the overlord visits. Take an intrestg in jeff -s  -- 
+> the Overlords were trapped in some evolutionary cul-de-sac. -q  -- 
+> 18 jeff has telepathic powers -s  -- 
+> 19 soon all kids are telepathic -s  -- 
+> 20 the overlords begin evacuation the kids -s  -- 
+> 21 the artist colony island is destroyed -s  -- 
+> 22 jan returns -s  -- 
+> "no one of intelligence resents the inevitable.” -q  -- 
 > 23 the overmind completely took over the minds of the kids -s
 
 ### clarke1951
 Clarke, Arthur C. -- The fall of moondust -- RosettaBooks, c1951, c2012. -- Title from amazon.com desc. viewed July 26, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H18VSWK). -- AISN B07H18VSWK. -- DDC 823.
-> 3 the selene is missing. -s
-> “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q
-> Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q
-> 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s
-> 9 they play a court of inquiry game. -s
-> 14 they found serene. -s
-> Chief Engineer Lawrence did not believe that committees ever achieved anything. -q
-> 17 as the crescue is undeeweigh, the co2 is rising. -s
-> Don’t look as if you’re expecting a fight; that’s the best way to start one. -q
-> Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q
-> Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q
-> 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s
-> Look up Atlantis, then Lemuria or Mu. -r
-> Having lost faith in themselves, men had sought salvation in the sky. -q
-> American astronomer named O’Neill observed something very remarkable here on the Moon. -q
-> WOTD: Saucerites
-> 30 they are pulledd out. -s
-
+> Read 2020-07. -- Grade D. -r --
+> 3 the selene is missing. -s -- 
+> “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q -- 
+> Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q -- 
+> 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s -- 
+> 9 they play a court of inquiry game. -s -- 
+> 14 they found serene. -s -- 
+> Chief Engineer Lawrence did not believe that committees ever achieved anything. -q -- 
+> 17 as the crescue is undeeweigh, the co2 is rising. -s -- 
+> Don’t look as if you’re expecting a fight; that’s the best way to start one. -q -- 
+> Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q -- 
+> Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q -- 
+> 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s -- 
+> Look up Atlantis, then Lemuria or Mu. -r -- 
+> Having lost faith in themselves, men had sought salvation in the sky. -q -- 
+> American astronomer named O’Neill observed something very remarkable here on the Moon. -q -- 
+> WOTD: Saucerites -- 
+> 30 they are pulledd out. -s -- 
+ -- 
 ### clarke2012
 Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
-> 4 kali is hitting earth -s
-> Commonwealth of American States -f
-> 9 menose was killed
-> 12 Robert is asked ti captain the goliath -s
-> 15 chrislam and the prophet fatima
-> The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price.
-> 18 excalaber project
-> 19 someone heard tge excalaber wave. -s
-> “Voice of Sirius.”
-> Claimes to have interpreted the excaliber signal -f
-> 25 goliath begins prep to deploy ATLAS. -s
-> It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q
-> 26 prep for blowing kali offcourse is in progress -s
-> 32 atlas is gone. Plan b
-> Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q
-> 36 kali stops, but the fanatics try to push it. Its not an asteroid.
-> 41 goliTh will not excape the explosion -s
-> 43 the bomb detonates and the shock wave hits -s
-> 44 the bomb fails to detinate -s
-> 45 the bomb split the astferoid in two
-> kali 2: "but the Great Thaw would change coastlines all around the world." -f
+> Read 2020-06. -- Grade C. -r --
+> 4 kali is hitting earth -s -- 
+> Commonwealth of American States -f -- 
+> 9 menose was killed -- 
+> 12 Robert is asked ti captain the goliath -s -- 
+> 15 chrislam and the prophet fatima -- 
+> The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price. -- 
+> 18 excalaber project -- 
+> 19 someone heard tge excalaber wave. -s -- 
+> “Voice of Sirius.” -- 
+> Claimes to have interpreted the excaliber signal -f -- 
+> 25 goliath begins prep to deploy ATLAS. -s -- 
+> It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q -- 
+> 26 prep for blowing kali offcourse is in progress -s -- 
+> 32 atlas is gone. Plan b -- 
+> Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q -- 
+> 36 kali stops, but the fanatics try to push it. Its not an asteroid. -- 
+> 41 goliTh will not excape the explosion -s -- 
+> 43 the bomb detonates and the shock wave hits -s -- 
+> 44 the bomb fails to detinate -s -- 
+> 45 the bomb split the astferoid in two -- 
+> kali 2: "but the Great Thaw would change coastlines all around the world." -f -- 
 > kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
 
-### &nbsp;
+### classic-a-g
 Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
 
-### &nbsp;
+### classic-r-m
 Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada: Madacy, 1994. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.68.
 
 ### clay1914
@@ -1652,25 +1659,25 @@ Coelho, Paul. -- The alchemist. -- Computer data (1 file). -- [San Francisco] : 
 > '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 -q
 > '...when we strive to become better than we are, everything around us becomes better, too.' -p. -qT
 
-### 3316
+### colony
 The Colony / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe. -- Computer data (1 file). -- RLJ Entertainment, [2013]. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title from WorldCat desc. -- Filename: 3316.mp4. -- DDC 791.43.
 
-### 3235
+### complete
 The complete home / edited by Clara E. Laughlin. -- Computer data (1 file). -- D. Appleton and Co., 1912. -- on 1 external hard drive. -- System requirments: USB drive; PDF file reader. -- Title from title page. -- File name: 3235.pdf. -- DDC 640.
 
-### &nbsp;
+### cohen-l-e
 Cohen, Leonard. -- The Essential Leonard Cohen. -- Computer data. -- New York, NY: Columbia, 2002. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
-### 3287
+### college-p
 College physics. -- Computer data (1 file : 97.1 MB). -- Rice University, c2013. -- on 1 external hard drive. -- Title from cover. -- System requirements: USB drive; PDF file reader. -- Filename: 3287.pdf. -- DBID 3287. -- DDC 530.
 
-### &nbsp;
+### collins-p-f
 Collins, Phil. -- Face Value. -- Computer data. -- New York, NY: Atlantic, 1985. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
 
-### 3236
+### comparison
 Comparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards / [by] Amy P. Eklund, Shawne D. Miksa, William E. Meon... [et al.] -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title fr25om cover. -- File name: 3236.pdf. -- DOI 10.1080/19386380903095073. -- IN Journal of Library Metadata. -- Vol 9 (2009). -- ISSN 1937-5034. -- DDC 025.3.
 
-### 1725
+### confessions
 Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. -- DDC 1725.
 > 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
 > 'But no one doth well against his will, even though what he doth, be well.' -p. -q
@@ -1739,7 +1746,7 @@ Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. 
 > Elpidius -p70. -q
 > FaustusA teacher of the Manacians -p. -f
 
-### &nbsp;
+### connors-p-f
 Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780061859366. -- DDC 634.
 > ... I'd have told you you were stark raving mad... -p. 80 -q
 > Every so often my stripping away of need and worry leaves me eager to be shed of even more. -p. 85 -q
@@ -1750,16 +1757,16 @@ Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780
 > Then it's back to my duties as a smoke-besotted stylite. -p. 138 -q
 > Do not miss a chance to nap -- Leave the place better than you found it -- Never piss into the wind -- Go buck naked in the tower now and then for kicks -- Learn what it means to ride the lightning -- Cut a good supply of wood for he start of the next year -- Feed the hummingbirds -- Have a hobby: readying, knitting, playing the ukelele. Something. -- Sleep outside when the weather permits -- Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q
 
-### 7086
+### conser
 CONSER standard record documentation -- Computer data (1 file : 417 kb) -- [S.l., s.n.], 2007. -- Title from cover. -- File name: (7068.pdf) -- DBID 7068 -- DDC 025.3.
 
-### &nbsp;
+### constitution
 Constitution daily. -- Computer data. -- [S.n, 200-] -- Mode of Access: World Wide Web (http://blog.constitutioncenter.org/). -- Title from homepage. -- Frequency: Daily. -- DDC 320.
 
-### 3369
+### rda-w
 The RDA workbook / Margaret Mering, Editor. -- Computer data (1 file). -- Libraries Unlimited, c2014. -- on 1 external hard drive. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 3369.pdf -- ISBN 9781610694902. -- DDC 025.
 
-### &nbsp;
+### rethinking
 Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Computer data. -- Facet publishing, c2013. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB). -- ISBN 9781856048224. -- Available to patrons with membership to institutions subscribing to EBSCO ebooks. -- DDC 028.7.
 > This book presents a curriculum for information literacy. -s
 > People need the skills and values to enable them not just to access information but to use it to make informed judgements and choices, to make their voices heard and make a difference. Librarians have recognized this for many years and call these skills and values ‘information literacy’. -q
@@ -1774,21 +1781,25 @@ Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Comp
 UNESCO (2005) 
 > Information literacy is a continuum of skills, behaviours, approaches and values that it is so deeply entwined with the use of information as to be a fundamental part of learning, scholarship and research. It is the defining characteristics of the discerning scholar, the informed and judicious citizen and the autonomous learner. -q
 
-### &nbsp;
+### cooper-p-b
 Cooper, Peter. -- Beginning Ruby. -- Computer file (1 file) -- [S.l.] : Apress, 2007.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3035 -- DDC 005.
 
-### &nbsp;
+### corey-j-l
+Corey, James S. A. -- Leviathan wakes. -- [S.l., 20--?]. -- [1] v. -- DDC 813.
+> Read 2020-03. -- Grade D. -r
+
+### coryell-s-g
 Coryell, Skip. -- The God virus. -- Computer data. -- [S. Coryell]?, c2012.. -- System requirements: Kindle app. -- Title from title page. -- ASIN B0078T0DWQ. -- ISBN 9781618080295. -- DDC 813.
 
-### 2071
+### crease-r-w
 Crease, Robert P. -- World in the balance. -- New York : W.W. Norton, c2011. -- 317 p. -- ISBN 9780393072983 . -- DBID 2071. -- DDC 530.
 > Nothing is inherently unscientific about using improvised measures, as long as they are accessible, appropriate, and assured. -p. 21 -q
 > We tend to trust measurements -- and without such trust, modern life would grind to a halt like a michine drained of oil. -p. 32 -q
 
-### 3206
+### crown
 A crown of maples. -- 2012 ed. -- Computer data (1 file) -- [Canada] : Dept. of Canadian Heritage, c2012. -- on 1 external hard drive. -- Title from title page. -- File name: 3206.pdf. -- DBID 3206. -- ISBN 9781100200798 -- DDC 320.971.
 
-### &nbsp;
+### cunningham-s-w
 Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, Minnesota : Llewellyn Publications, c2004. -- xiv, 239 p. -- ISBN 9780875421186 -- DDC 133.
 > The person practicing the ritual or spell determines its success. -p. ix -q
 > In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix -q
@@ -1808,22 +1819,22 @@ Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, 
 >  I. Days of power: A. Yule (1. circa dec. 21 -- 2. The goddess gives birth to a son, the god.) -- B. Imbolic (1. Feb. 2 2. recovery of the goddess after giving birth.) -- C. Ostara (1. circa Mar. 21 -- 2. Marks the spring; goddess blankets the earth with fertility) -- D. Beltane (1. Apr. 30 -- 2. Marks the emergence of the young god into manhood.) -- E. Midsummer / Litha (1. circa jun 21 -- 2. the powers of nature reach highest point -- 3. earth awash in fertility of the goddess and god) -- F. Lughnasadh (1. Aug. 1 -- 2. time of harvest -- 3. the god lose his strenth) -- G. Mahon (1. circa sept. 21 -- 2. the god prepares to leave physical body) -- H. Samhain (1. oct. 31 -- 2. says farwell to the god.)  -s
 > VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)
 
-### &nbsp;
+### curlie
 Curlie. -- Computer data -- Curlie, c2018. -- Mode of Access: World Wide Web. -- Title from homepage. -- URL https://curlie.org/ . -- DDC 017.
 
-### &nbsp;
+### cusco-apu
 Cusco. -- Apurimac III. -- Computer data (1 directory). -- [S.n.], 1997. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-### &nbsp;
+### cusco-anc
 Cusco. -- Ancient journeys. -- Computer data (1 directory). -- [S.n.], 2000. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-### &nbsp;
+### cusco-i
 Cusco. -- Inner Journeys. -- Computer data (1 directory). -- [S.n.], 2003. -- on 1 external hard drive. -- System requirements: MP3 file reader. -- Title from resource. -- DDC 781.67.
 
-### &nbsp;
+### cutter-c-r
 Cutter, Charles A. -- Rules for a printed dictionary catalog. -- Computer data. -- Washington : Government Printing Office, 1876. -- Title from Google Books desc. -- Mode of Access: World Wide Web (http://books.google.com/books?id=rj-f4-Ps-AkC) -- DDC 025.3
 
-### 10064
+### cutter-0-c
 Cutter, O.A. -- Cutter's three figure author table. -- Computer data (1 file : 50.6 mb). -- Englewood, CO : Libraries Unlimited, Inc., 1969. -- Title from resource. -- File name: (10064.pdf). -- DBID 10064 -- DDC 025.4
 
 D
@@ -2649,61 +2660,62 @@ The foresters. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1729. -- DDC 823.
 
 ### foner2019
 Foner, Eric. -- The second founding. -- 1st ed. -- W. W. Norton & Company, 2019. -- Title from amazon.com desc., viewed May 24, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07P769MSX). -- AISN B07P769MSX. -- DDC 327. 
->Reconstruction has conventionally been dated from the war’s end in 1865 to 1877,
->the process by which the United States tried to come to terms with the momentous results of the Civil War,
->The Tragic Era
->Whether the courts should base decisions on “originalism” is a political, not a historical, question.
->Ambiguity creates possibilities.
->Principles which we all thought to have been firmly and permanently settled,” Frederick Douglass observed, were “boldly assaulted and overthrown.”
->The historian Linda Colley has observed that written constitutions often function as “weapons of control” rather than “documents of liberation and rights.”
->constitution should not be construed as denying to any citizens the privileges and immunities to which they were entitled,
->As Alexis de Tocqueville observed, a passion for equality animated American democracy. But the concept of equality before the law—something enjoyed by all persons regardless of social status—barely existed before the Civil War.
->pursuit of happiness (often understood as the right to enjoy the fruits of one’s own labor and rise in the social scale).
->Before Reconstruction the federal government played almost no role in defining or protecting Americans’ rights.
->Colored Convention” movement,
->Frederick Douglass, after several years of adhering to the Garrisonian position, changed his mind and declared the Constitution “a glorious liberty document.” “I am for strict construction,” he declared, and the word “slavery” could not be found in the Constitution’s text. Nor did it contain language allowing for “discrimination in favor of, or against, any class of people.”
->Free Soil party
->barring slavery’s expansion into the territories, the issue that brought on the Civil War—
->And the abolitionist critique of the Fugitive Slave Act of 1850, which provided that the status of an accused runaway would be determined by a federal commissioner, not a jury, and that the alleged fugitive could not testify in his or her own behalf, led to the elevation of “due process of law” as essential to equitable judicial proceedings.
->made the federal government for the first time what Sumner called “the custodian of freedom.”
->During the conflict, Lincoln felt obligated to stretch constitutional authority to its limits and beyond.
->Roughly 150 amendments to resolve the secession crisis were proposed during the winter of 1860–61.
->He did not share the abolitionists’ commitment to ending slavery immediately nor their belief that free
->blacks and emancipated slaves should become equal members of American society.
->Women’s Loyal National League, founded in 1863. For the time being women activists suspended the movement for woman suffrage to press for an end to slavery, the route, they believed, to blacks and white women obtaining their “rights and privileges as free and equal citizens of a common republic.”
->Kentucky also refused. The place of Lincoln’s birth would have the distinction of being the only state to reject the Thirteenth, Fourteenth, and Fifteenth Amendments. It finally decided to ratify them in 1976.
->Along with the right to “personal liberty,” declared another, the “right of a husband to his wife” and of a “father to his child” comprised the “three great fundamental natural rights of human society.” The amendment was intended to restore these rights, not undermine them.42
->For decades, those who would later become Radical Republicans had defended the unpopular causes of black suffrage and equal citizenship.
->Another option was to base representation on voters, not total population, as Stevens had proposed.
->“the wildest fancy of a distempered brain”
->Congressman Giles Hotchkiss of New York,
->THE LAST-MINUTE ADDITION of a definition of American citizenship constitutionalized the principle that virtually every person born in the country is a citizen, regardless of race, national origin, or the political affiliation or legal status of one’s parents. Today, the United States stands almost alone among industrialized nations in this;
->birthright citizenship, with which the Fourteenth Amendment begins, remains an eloquent statement about the nature of American society,
->The first sentence of the Fourteenth Amendment also marked a radical change in the role of black women within American society. As slaves, they gave birth to property; now their children were citizens of the nation, rather than economic assets of white southerners.
->“Due process” suggests procedural fairness, not substantive rights.
->The Declaration of Independence contained the stirring words “all men are created equal,” a radical pronouncement at a time when most countries were ruled by monarchs and hereditary aristocrats.
->The Fourteenth Amendment for the first time elevates equality to a constitutional right of all Americans. It makes the Constitution a vehicle through which aggrieved groups and individuals who believe that they are being denied equality can take their claims to court.
->“A true republic,” said William Windom, a Republican congressman from Minnesota, “rests upon the absolute equality of rights of the whole people, high and low, rich and poor, white and black.”
->In the context of the violence sweeping the postwar South, the word “protection” in the Fourteenth Amendment conjured up not simply unequal laws but personal safety.
->WOTD: raison d’être. -f
->Democratic candidate for vice president, Francis Preston Blair Jr.,
->Horatio Seymour, the presidential candidate,
->State control of voting qualifications, claimed Senator Oliver P. Morton of Indiana, was a relic of state sovereignty, the frame of mind that had produced secession.
->“The whole fallacy,” said Morton, “lies in denying our nationality. I assert that we are one people and not thirty-seven different peoples; that we are one nation, and as such we have provided for ourselves a national Constitution.”
->John A. Bingham, the key author of the Fourteenth Amendment,
->The eleventh former Confederate state, Tennessee, rejected the amendment in 1869; it would ratify it in 1997.
->“crack brained harlequin and semi-lunatic,”
->Nonetheless, over time, the Court played a crucial role in the long retreat from the ideals of Reconstruction.
->Increasingly, the Court construed the Fourteenth Amendment as a vehicle for protecting corporate rights rather than those of the former slaves, striking down state regulations of working conditions and railroad rates on the grounds that they violated “freedom of contract” protected under the Due Process Clause.
->Edward D. White,
->breakdown of the Republican consensus in support of Reconstruction in the 1870s and the retreat that accelerated in the following decades.
->privileges or immunities
->involved far more significant rights than Miller mentioned. For John A. Bingham, as noted in Chapter Two, they comprised those enumerated in the Bill of Rights
->railroad companies, hotel keepers, and “managers of places of public amusement” should be considered “agents or instrumentalities of the state,” as they were licensed and performed a public service.
->“It seems . . . that now, as long ago,” wrote the Harrisburg Telegraph, “freedom cannot be made safe in the United States as long as we have a Supreme Court.”
->culminating in decisions of the Warren Court during the Second Reconstruction of the 1950s and 1960s,
->The state, for example, required a photo ID to vote and then closed driver’s license offices—where such documents can be obtained—in counties with the highest percentage of blacks in the population.
->The elevation of the Commerce Clause into a “charter of human rights,” a way of compensating for the Supreme Court’s cramped view of the Reconstruction amendments, has made the judiciary look ridiculous.
+> Read 2020-04. -- Grade C. -r --
+>Reconstruction has conventionally been dated from the war’s end in 1865 to 1877, -- 
+>the process by which the United States tried to come to terms with the momentous results of the Civil War, -- 
+>The Tragic Era -- 
+>Whether the courts should base decisions on “originalism” is a political, not a historical, question. -- 
+>Ambiguity creates possibilities. -- 
+>Principles which we all thought to have been firmly and permanently settled,” Frederick Douglass observed, were “boldly assaulted and overthrown.” -- 
+>The historian Linda Colley has observed that written constitutions often function as “weapons of control” rather than “documents of liberation and rights.” -- 
+>constitution should not be construed as denying to any citizens the privileges and immunities to which they were entitled, -- 
+>As Alexis de Tocqueville observed, a passion for equality animated American democracy. But the concept of equality before the law—something enjoyed by all persons regardless of social status—barely existed before the Civil War. -- 
+>pursuit of happiness (often understood as the right to enjoy the fruits of one’s own labor and rise in the social scale). -- 
+>Before Reconstruction the federal government played almost no role in defining or protecting Americans’ rights. -- 
+>Colored Convention” movement, -- 
+>Frederick Douglass, after several years of adhering to the Garrisonian position, changed his mind and declared the Constitution “a glorious liberty document.” “I am for strict construction,” he declared, and the word “slavery” could not be found in the Constitution’s text. Nor did it contain language allowing for “discrimination in favor of, or against, any class of people.” -- 
+>Free Soil party -- 
+>barring slavery’s expansion into the territories, the issue that brought on the Civil War— -- 
+>And the abolitionist critique of the Fugitive Slave Act of 1850, which provided that the status of an accused runaway would be determined by a federal commissioner, not a jury, and that the alleged fugitive could not testify in his or her own behalf, led to the elevation of “due process of law” as essential to equitable judicial proceedings. -- 
+>made the federal government for the first time what Sumner called “the custodian of freedom.” -- 
+>During the conflict, Lincoln felt obligated to stretch constitutional authority to its limits and beyond. -- 
+>Roughly 150 amendments to resolve the secession crisis were proposed during the winter of 1860–61. -- 
+>He did not share the abolitionists’ commitment to ending slavery immediately nor their belief that free -- 
+>blacks and emancipated slaves should become equal members of American society. -- 
+>Women’s Loyal National League, founded in 1863. For the time being women activists suspended the movement for woman suffrage to press for an end to slavery, the route, they believed, to blacks and white women obtaining their “rights and privileges as free and equal citizens of a common republic.” -- 
+>Kentucky also refused. The place of Lincoln’s birth would have the distinction of being the only state to reject the Thirteenth, Fourteenth, and Fifteenth Amendments. It finally decided to ratify them in 1976. -- 
+>Along with the right to “personal liberty,” declared another, the “right of a husband to his wife” and of a “father to his child” comprised the “three great fundamental natural rights of human society.” The amendment was intended to restore these rights, not undermine them.42 -- 
+>For decades, those who would later become Radical Republicans had defended the unpopular causes of black suffrage and equal citizenship. -- 
+>Another option was to base representation on voters, not total population, as Stevens had proposed. -- 
+>“the wildest fancy of a distempered brain” -- 
+>Congressman Giles Hotchkiss of New York, -- 
+>THE LAST-MINUTE ADDITION of a definition of American citizenship constitutionalized the principle that virtually every person born in the country is a citizen, regardless of race, national origin, or the political affiliation or legal status of one’s parents. Today, the United States stands almost alone among industrialized nations in this; -- 
+>birthright citizenship, with which the Fourteenth Amendment begins, remains an eloquent statement about the nature of American society, -- 
+>The first sentence of the Fourteenth Amendment also marked a radical change in the role of black women within American society. As slaves, they gave birth to property; now their children were citizens of the nation, rather than economic assets of white southerners. -- 
+>“Due process” suggests procedural fairness, not substantive rights. -- 
+>The Declaration of Independence contained the stirring words “all men are created equal,” a radical pronouncement at a time when most countries were ruled by monarchs and hereditary aristocrats. -- 
+>The Fourteenth Amendment for the first time elevates equality to a constitutional right of all Americans. It makes the Constitution a vehicle through which aggrieved groups and individuals who believe that they are being denied equality can take their claims to court. -- 
+>“A true republic,” said William Windom, a Republican congressman from Minnesota, “rests upon the absolute equality of rights of the whole people, high and low, rich and poor, white and black.” -- 
+>In the context of the violence sweeping the postwar South, the word “protection” in the Fourteenth Amendment conjured up not simply unequal laws but personal safety. -- 
+>WOTD: raison d’être. -f -- 
+>Democratic candidate for vice president, Francis Preston Blair Jr., -- 
+>Horatio Seymour, the presidential candidate, -- 
+>State control of voting qualifications, claimed Senator Oliver P. Morton of Indiana, was a relic of state sovereignty, the frame of mind that had produced secession. -- 
+>“The whole fallacy,” said Morton, “lies in denying our nationality. I assert that we are one people and not thirty-seven different peoples; that we are one nation, and as such we have provided for ourselves a national Constitution.” -- 
+>John A. Bingham, the key author of the Fourteenth Amendment, -- 
+>The eleventh former Confederate state, Tennessee, rejected the amendment in 1869; it would ratify it in 1997. -- 
+>“crack brained harlequin and semi-lunatic,” -- 
+>Nonetheless, over time, the Court played a crucial role in the long retreat from the ideals of Reconstruction. -- 
+>Increasingly, the Court construed the Fourteenth Amendment as a vehicle for protecting corporate rights rather than those of the former slaves, striking down state regulations of working conditions and railroad rates on the grounds that they violated “freedom of contract” protected under the Due Process Clause. -- 
+>Edward D. White, -- 
+>breakdown of the Republican consensus in support of Reconstruction in the 1870s and the retreat that accelerated in the following decades. -- 
+>privileges or immunities -- 
+>involved far more significant rights than Miller mentioned. For John A. Bingham, as noted in Chapter Two, they comprised those enumerated in the Bill of Rights -- 
+>railroad companies, hotel keepers, and “managers of places of public amusement” should be considered “agents or instrumentalities of the state,” as they were licensed and performed a public service. -- 
+>“It seems . . . that now, as long ago,” wrote the Harrisburg Telegraph, “freedom cannot be made safe in the United States as long as we have a Supreme Court.” -- 
+>culminating in decisions of the Warren Court during the Second Reconstruction of the 1950s and 1960s, -- 
+>The state, for example, required a photo ID to vote and then closed driver’s license offices—where such documents can be obtained—in counties with the highest percentage of blacks in the population. -- 
+>The elevation of the Commerce Clause into a “charter of human rights,” a way of compensating for the Supreme Court’s cramped view of the Reconstruction amendments, has made the judiciary look ridiculous. -- 
 >David E. Kyvig, ed., Unintended Consequences of Constitutional Amendments (Athens, 2000).
 
 ### &nbsp;
@@ -3019,11 +3031,12 @@ Greenberg, David. -- Calvin Coolidge. -- Time Books, c2006. -- xviii, 202 p. -- 
 
 ### greenburg2007
 Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. -- ISBN 9781594201011. -- DDC 347.
->Criminal laws are supposed to be clear, and most justices accept that when laws are unclear, the criminal defendant should get the benefit of the doubt, since he may not have known his conduct was wrong. -p. 131 -q
->But floor statements and committee repors aren't the law, Thomas explained, an courts can't expect people to know about them. -p. 132 -q
->'Whenever there is some uncertainty aabout the meaning of a statute, it is prudent to examine its legislative history' -Stevens -q -p. 134
->As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 -q
-> cch. 4 about keennedy's drift to the left. -s
+> Read 2020-03. -- Grade C. -r -- 
+>Criminal laws are supposed to be clear, and most justices accept that when laws are unclear, the criminal defendant should get the benefit of the doubt, since he may not have known his conduct was wrong. -p. 131 -q -- 
+>But floor statements and committee repors aren't the law, Thomas explained, an courts can't expect people to know about them. -p. 132 -q -- 
+>'Whenever there is some uncertainty aabout the meaning of a statute, it is prudent to examine its legislative history' -Stevens -q -p. 134 -- 
+>As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 -q -- 
+> cch. 4 about keennedy's drift to the left. -s -- 
 
 ### &nbsp;
 Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p -- DDC -- File name: (10093.pdf). -- DBID 10093 -- DDC 025.
@@ -3543,6 +3556,10 @@ How-to geek. -- Computer program. -- HowToGeek.com, c2006- . -- Mode of Access: 
 ### howarth-l-a
 Howarth, Lynn C. -- Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth. -- Computer data (1 file : 141 kb). -- [S.l.] : IFLA, 2009. -- Title from resource. -- File name: (10077.pdf). -- DBID 10077 -- DDC 025.3
 
+### howey-h-b
+Howey, Hugh.-- Beacon 23. -- [S.n., 20--?]. -- [1] v. -- DDC 813.
+> Read 2020-02. -- Grade E. -r
+
 ### hsieh-c
 Hsieh-Yee, Igrid. -- Cataloging and metadata education. -- Computer file (1 file : 466 kb.) -- [S.l. : I. Hsieh-Yee], 2003. -- Title from resource. -- File name: (10062.pdf). -- DBID 10062 -- DDC 025.3.
 
@@ -3725,37 +3742,38 @@ Joel, Billy. -- The Greatest Hits Collection: Vol. I, II & III. -- Computer data
 ### &nbsp;
 Jim Berry looking through binoculars. -- Computer data (1 file). -- 2014 May. -- Title supplied by cataloger. -- Mode of Access: JPG file reader; USB drive. -- DBID 3351. -- DDC 779.
 
-### &nbsp;
+### john-e-p
 John, Elton. -- Peachtree Road. / by Elton John and Bernie Taupin. -- Computer data. -- New York, N.Y: Rocket/Universal Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66
 
-### &nbsp;
+### john-e-s
 John, Elton. -- Songs from the West Coast. -- Computer data. -- London, England & NYC: Mercury Records Ltd.(London, 2001. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-### &nbsp;
+### john-e-ro
 John, Elton. -- The Road to El Dorado / [by] Elton John, Randy Newman, and Tim Rice. -- Computer data. -- Beverly Hills, CA: DreamWorks, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
-### &nbsp;
+### john-e-el
 John, Elton. -- Elton John Live in Australia / [by] Elton John, Bernie Taupin, [and] James N. Howard. -- Computer data. -- Universal City, Calif: MCA Records, 1987. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66
 
-### &nbsp;
+### john-e-eg
 John, Elton. -- Elton John's Greatest Hits: Volume III, 1979-1987. -- Computer data. -- Los Angeles: Geffen Records, 1987. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64
 
-### &nbsp;
+### john-e-go
 John, Elton. -- Goodbye Yellow Brick Road / [by] Elton John and Bernie Taupin. -- Computer data. -- [New York], NY: Rocket, 1995. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### john-e-gr
 John, Elton. -- Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.] -- Computer data. -- New York: Mercury Records, 2002. -- on 1 external hard drive. -- Title from Compact Disk. 
 
-### &nbsp;
+### john-e-m
 John, Elton. -- Me. -- [S.n., 2019]. -- Title from resource, viewed Feb. 9, 2020. -- Mode of Access: [World Wide Web](http://www.justinleetyler.com/john2019.txt). -- DDC 921.
+> Read 2020-01. -- Grade C. -r
 
-### &nbsp;
+### john-e-o
 John, Elton. -- One Night Only: The Greatest Hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.] -- Computer data. -- New York: Universal Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-### &nbsp;
+### john-e-re
 John, Elton. -- Reg Strikes Back / [by] Elton John and Bernie Taupin. -- Universal City, Calif: MCA, 1988. -- Computer data. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-### &nbsp;
+### john-e-c
 John, Elton. -- The Captain & the Kid / [by] Elton John and Bernie Taupin. -- Computer data. -- Santa Monica, Calif: Interscope, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
 ### &nbsp;
@@ -4128,10 +4146,11 @@ Kraybill, Donald B. -- The Amish of Lancaster County / [by] Donald B. Kraybill; 
 
 ### kress2017
 Kress, Nancy. -- Tomorrow's kin. -- Tor, c2017. -- 367 p. -- ISBN 078065390301. -- DDC 813.
-> Marianne Jenner, scientist. -- Ryan, Elizabeth, Noah, siblings, Kids of Marianne -- 1 M. has a party to celebrate her paper. FBI picks her up -- 2 M. meets aliens, who are our cousins) -- 4 M. tours the embassy -- 5 Noah is adopted, and is becoming one of them. -- 9 An explosion at the embassy. -- 10 the research into a vaccine stalls. 11 Humans, it turns out, were never at risk. Debians (the aliens) neede dus to do their research because we know more about genetics. Harrison, boyfriend. Sissy, secretary. 12 d. left plans for a ship, but theres lots of opposition. 13 Jonah Stubbins, libertarian, wants to donate to build ship. The family reunion goes badly. 14. +1 yrs, connie, ryans wife, dies of caner. Harrison is boyfriend. His daughter is sarah, who kills herself. so Harrison and M break up. Kids are born w/ defects or constant crying. 15. +4 mths A tornadio in NM kills Sissy. 16 +1 yr Jasman and Colin, Ryan's kids. Mice die of the spores. Tim and M. are together. Ryan is in bad shape. 17 The kids call M, who takes R to the hospital. Colin hears lower frequences. 18. M goes to see Harrison about his research. 19. +1 yr. Paul Tyson, a kid in collins class, discovers who Colin is, beats him up, damages C's spleen. M agree sto Stubbins offer to move them to PA. 20 Stubbins has a feance, who is really ugly, and the feance has a kid who has low frequency hearing, and behavior issues (related b/c cannot distinquish btw voices) 23 +15 mnths The teacher might have HFRS, and M. is suspicious its being made into a weapon. End: The virus is a weapon, the base is attached, the ship is accidently launched with the infected mice, but they manage to get ship down, and Stubbins is arrested. 
-> You replace evolution of the fittest with evolution of the most cooperative -p. 38 -q
-> He became in turn an observant child, a tough loner, a pensive outsider, a friendly panhandler. -p. 52 -q
-> Actually, he never weeps at all... [he] holes up in his lab at Cambridge and glowers at the world through medieval arrow slits. -p. 61 -q
+> Read 2020-07. -- Grade C. -r --
+> Marianne Jenner, scientist. -- Ryan, Elizabeth, Noah, siblings, Kids of Marianne -- 1 M. has a party to celebrate her paper. FBI picks her up -- 2 M. meets aliens, who are our cousins) -- 4 M. tours the embassy -- 5 Noah is adopted, and is becoming one of them. -- 9 An explosion at the embassy. -- 10 the research into a vaccine stalls. 11 Humans, it turns out, were never at risk. Debians (the aliens) neede dus to do their research because we know more about genetics. Harrison, boyfriend. Sissy, secretary. 12 d. left plans for a ship, but theres lots of opposition. 13 Jonah Stubbins, libertarian, wants to donate to build ship. The family reunion goes badly. 14. +1 yrs, connie, ryans wife, dies of caner. Harrison is boyfriend. His daughter is sarah, who kills herself. so Harrison and M break up. Kids are born w/ defects or constant crying. 15. +4 mths A tornadio in NM kills Sissy. 16 +1 yr Jasman and Colin, Ryan's kids. Mice die of the spores. Tim and M. are together. Ryan is in bad shape. 17 The kids call M, who takes R to the hospital. Colin hears lower frequences. 18. M goes to see Harrison about his research. 19. +1 yr. Paul Tyson, a kid in collins class, discovers who Colin is, beats him up, damages C's spleen. M agree sto Stubbins offer to move them to PA. 20 Stubbins has a feance, who is really ugly, and the feance has a kid who has low frequency hearing, and behavior issues (related b/c cannot distinquish btw voices) 23 +15 mnths The teacher might have HFRS, and M. is suspicious its being made into a weapon. End: The virus is a weapon, the base is attached, the ship is accidently launched with the infected mice, but they manage to get ship down, and Stubbins is arrested. --
+> You replace evolution of the fittest with evolution of the most cooperative -p. 38 -q --
+> He became in turn an observant child, a tough loner, a pensive outsider, a friendly panhandler. -p. 52 -q -- 
+> Actually, he never weeps at all... [he] holes up in his lab at Cambridge and glowers at the world through medieval arrow slits. -p. 61 -q -- 
 > Something about the United States seemed to provide a fertile medium for cultural hate groups, irrational scapegats, mass shootings, and the blame game. -p. 204 -q
 
 ### kules-b-c
@@ -5098,6 +5117,7 @@ Newsweek. -- v. 1- Feb. 17, 1933- . -- [Los Angeles, Calif., etc., : Newsweek, I
 
 ### newton2006
 Newton, Jim. -- Justice for all -- Riverhead books, c2006. -- Title from title page. -- Mode of Access: World Wide Web. -- EISBN 9781594482700. -- DDC 347. 
+> Read 2020-05. -- Grade C. -r --
 >Trop Cuse, Jenner - Butler Bill -- Barkus -- John Birch Society. -- Impeachment -- For informat for FBI in Warren Commission -- Segregation, demestic savalence, redistricting -- Baker -s -- A Mediocre high school student, Summer job at pacific rail ehere his das worked -s -- "Warren focused sufficiently on his studies to be awarded a bachelor of letters in jurisprudence on May 15, 1912. -q -- WOTD: brusque, irascible -f -- had a Bad boss at associated oil, EW becomes DA -s -- He tended to trust majorities and to express skepticism for extremist or radical thought. And just as he was moderate ideologically, he was also cautious temperamentally. -q -- To Warren—at least the Warren of the early 1930s—the New Deal was worse than impractical. It was immoral. Its fluid experimentation offended his sense of stability... -q -- Once he himself governed from the nation’s capital, Warren would view centralized authority with less suspicion and would see states more as obstacles to freedom than protectors -q -- humiliating employment practice known as the “shape-up,” -q -- WOTD listlessness, splenetic -f -- Roughly speaking, Justices Jackson and Frankfurter had become advocates of a restrained judiciary, while Black and Douglas argued a view that gave the Court a more robust place in American life. -q -- ...practical, not heartfelt. -q -- Like other experiences that deeply upset Warren, he responded by minimizing it, in this case pushing it out of his official history altogether. -q -- Warren the stable political moderate, in contrast to Langer the ping-pongy individualist. -- ...most intellectually dishonest rulings in its history, Plessy v. Ferguson. -q -- Ada Lois Sipuel -f -- It was his separation from his fellow students that caused the inequality of his education, the Court realized. -q -- union membership protected him to some degree from reprisals -q -- John W. Davis -- As a governor, Warren had assumed the good will of his adversaries until it was proven otherwise. As a justice, he saw no need to change that practice. -q -- ...the prickly Douglas... -q -- Instead, nearing the end of his long memo, he concluded that Negroes had advanced so far in their years of segregation that they had “overcome the presumptions on which it was based.” It was a tortuous analysis, revealing the intense strain upon Jackson as he wrestled with one of the most difficult decisions of his life. -q -- It may not have been true in the nineteenth century, but in the twentieth century, Warren wrote, “No child can reasonably be expected to succeed in life today if he is deprived of the opportunity of an education.” -q -- ... evolving nature of public education... -q -- For Warren, it was “unthinkable” because the Constitution was a good and fair document written for a good and fair country. -q -- justice Benjamin Cardozo: “The final cause of law is the welfare of society.” -f -- language of “all deliberate speed.” -- As Robert Jackson had long ago noted, the justices are not final because they are infallible, but they are infallible because they are final. -q -- And yet to Frankfurter, Warren looked suspiciously like a thickheaded pol. -q -- Always suspicious of big business—Warren -q -- With Frankfurter, disagreement almost always slid into contempt. -q -- Warren chose to let Eisenhower dangle a bit. -q -- “If the courts lean too far backward in the maintenance of theoretical individual rights it may be that we have tied the hands of our country and have rendered it incapable of carrying out the first law of mankind—the right of self-preservation.” -q -- vacuity -f -- Learned Hand -f -- “The Amendment must draw its meaning from the evolving standards of decency that mark the progress of a maturing society.” -q -- ... the public did not need protection from ideas. -q -- World Fellowship Center -f -- “In the final analysis, after one has prayed, after one has thought of all aspects, one must, before God, make up his own mind or his own heart and conscience as to what he shall do." - E.R. -q -- “Supreme Court is trimming its sails to ride out a gale.” -q -- Nixon was crafting a new Republican Southern strategy -q -- WOTD: inchoate -f -- Herman Talmadge, m, 20th c., Senator. -f -- That crude, self-pitying display -q -- ... said in Lucas that democracy was so important it could not be curtailed even through the democratic process. -f -- Douglas relied existed not in any specific amendment but rather in his imaginative reading of all of those amendments together. -- WOTD: opprobrium -f -- ABC interrupted its programming to bring the pictures, and thus many viewers learned about the Selma brutality in the midst of watching that night’s special presentation, Judgment at Nuremberg. The juxtaposition, though unintentional, spoke for itself. -q -- March 7 became known as “Bloody Sunday,”... -q -- Their cause must be our cause, too. Because it’s not just Negroes, but really it’s all of us, who must overcome the crippling legacy of bigotry and injustice. -q -- The insistence on equality started for Warren’s Court with schools before it moved to voting. -- “appealing to prurient interest" -q -- Honey Bear’s polio was staggering, but her recovery was complete. -q -- “Under our Constitution,” Warren wrote, “the freedom to marry, or not marry, a person of another race resides with the individual and cannot be infringed by the State.” -E.W. -q -- ‘conduct’ is speech within the First Amendment,” -q -- “I understand the man’s anger,” he told his grandson. “What a shame that our generation and past generations have created a world that promotes such rage.” -E.W. -f -- “How can you respect a man who uses such bad language?” -E.W. -q -- “utter perversions. -q -- Whitney v. California -f -- Warren’s book, A Republic, If You Can Keep It:   Where there is injustice, we should correct it; where there is poverty, we should eliminate it; where there is corruption, we should stamp it out; where there is violence we should punish it; where there is neglect, we should provide care; where there is war, we should restore peace; and wherever corrections are achieved we should add them permanently to our storehouse of treasures. --E.W. -q -- nation’s unwinnable argument between the forces of security and those of liberty. -q -- Must liberty be curtailed in order to preserve the nation, or is the nation better understood as an expression of its freedoms? -q -- Eldridge Cleaver -f
 
 ### nietzsche-f-p
@@ -6083,48 +6103,53 @@ The sayings of Lao Tzu / [translated by] Lionel Giles. -- Computer file. -- on 1
 
 ### scalzi2017
 Scalzi, John. -- The collapsing empire -- Tor, 2017. -- Title from amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01F20E7CO) -- AISN B01F20E7CO. -- DDC 813.
->Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short.
->Batrin Wu, Cardenia’s father, was formally Attavio VI, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, King of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Father of All, Eighty-seventh Emperox of the House of Wu, which claimed its lineage to the Prophet-Emperox Rachela I, founder of the Interdependency and Savior of Humanity.
->Xi’an, capital world. -f
->The executive committee consisted of three guild representatives, three ministers of parliament, and three archbishops of the church.
->Dalasýsla
->“Our father believed in the balance of power that has allowed the Interdependency to thrive: the parliament for the laws and justice; the guilds for trade and prosperity; the church for spirituality and community. And above them, the emperox, mother of all, for order.”
->Earth is where humans originally come from, and like on End, you could walk around on its surface. But the Earth isn’t part of the Interdependency. We lost contact with the Earth over a thousand years ago when the single Flow stream to it disappeared.”
->We don’t know if they’re competent to find their asshole with a flashlight and a map.
->“What does that abject pile of shit want?”
->she was the head of the Interdependent Church, technically the Cardinal of Xi’an and Hub,
->the emperox was always the minister of parliament for Xi’an,
->Rachela I, prophet-emperox, the legendary founder of the Interdependency.
->rucksack -wotd
->You tried to extort an imperial official in front of a fucking cop. You have to be spectacularly dense to try to pull a stunt like that.”
->I have two responses to that. One, fuck you, you shitty little example of a human. Two,
->So you don’t listen to the story. You listen to the pattern.
->Ghreni, it doesn’t matter whether you actually have anything to apologize for. The act of apologizing is the thing. You should know that already. That’s basic diplomacy.”
->officious cockwomble.
->Guild Court of Grievances
->finally getting its comeuppance.
->“I’m continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too.
+> Read 2020-01. -- Grade C. -r -- 
+>Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short. -- 
+>Batrin Wu, Cardenia’s father, was formally Attavio VI, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, King of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Father of All, Eighty-seventh Emperox of the House of Wu, which claimed its lineage to the Prophet-Emperox Rachela I, founder of the Interdependency and Savior of Humanity. -- 
+>Xi’an, capital world. -f -- 
+>The executive committee consisted of three guild representatives, three ministers of parliament, and three archbishops of the church. -- 
+>Dalasýsla -- 
+>“Our father believed in the balance of power that has allowed the Interdependency to thrive: the parliament for the laws and justice; the guilds for trade and prosperity; the church for spirituality and community. And above them, the emperox, mother of all, for order.” -- 
+>Earth is where humans originally come from, and like on End, you could walk around on its surface. But the Earth isn’t part of the Interdependency. We lost contact with the Earth over a thousand years ago when the single Flow stream to it disappeared.” -- 
+>We don’t know if they’re competent to find their asshole with a flashlight and a map. -- 
+>“What does that abject pile of shit want?” -- 
+>she was the head of the Interdependent Church, technically the Cardinal of Xi’an and Hub, -- 
+>the emperox was always the minister of parliament for Xi’an, -- 
+>Rachela I, prophet-emperox, the legendary founder of the Interdependency. -- 
+>rucksack -wotd -- 
+>You tried to extort an imperial official in front of a fucking cop. You have to be spectacularly dense to try to pull a stunt like that.” -- 
+>I have two responses to that. One, fuck you, you shitty little example of a human. Two, -- 
+>So you don’t listen to the story. You listen to the pattern. -- 
+>Ghreni, it doesn’t matter whether you actually have anything to apologize for. The act of apologizing is the thing. You should know that already. That’s basic diplomacy.” -- 
+>officious cockwomble. -- 
+>Guild Court of Grievances -- 
+>finally getting its comeuppance. -- 
+>“I’m continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too. -- 
+
+### scalzi-j-c
+Scalzi, John. -- The consuming fire. -- [S.n., 20--?]. -- [1] v. -- DDC 823.
+> Read 2020-01. -- Grade C. -r
 
 ### scalzi2020
-Scalzi, John. -- The last emperox. -- Tor books, 2020. -- Title from amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07QPGW9FS). -- AISN B07QPGW9FS. -- 813.
+Scalzi, John. -- The last emperox. -- Tor books, 2020. -- Title from amazon.com, viewed Aug. 9, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07QPGW9FS). -- AISN B07QPGW9FS. -- DDC 813.
 > Read 2020-08. -- Grade C. -r
->you fucking cognitive mudfart,
->executive committee consisted of three ministers of parliament, three members of the Church of the Interdependency and three members of the guild houses.
->Her policy of “fuck you, what’s in it for me”
->Grayland II, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, Queen of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Mother to All, Eighty-Eighth Emperox of the House of Wu.
->3 deran wu is assassinated. Houses are moving resojrces to end. -s
->7 nadashe assembles the conspirators -s
->One could anthropomorphize the Flow all one wanted, but the Flow would not agree or consent to it. It was literally alien to this universe. The only way to understand it was to take it on its own terms.
->extraneous dimwit
->12 kira resigns from the exec to infiltrate the conspiracy. -s
->Imperial Information Office -f
->Rachela concurred, and once again Cardenia was reminded that this version of Rachela was not burdened with ego, and was therefore not concerned with justifying her actions in any way.
->15 kira is captured. -s
->18 kira gets thr crew on her side. -
->19 the emporex is assassinated -s
->20 ndine is chosen as empoorox, and the archbishop resignes. -s
->23 greyland aappears as a ghose at nadase,s coronation, and announces tfhat fhe monopies ae over, and kirA is hed successod. -s
->so if you live in the United States, and you are reading this prior to November 2020, please do me a favor and (a) Register to vote, or check to make sure your registration is still valid, (b) Remember to vote on election day (or before if you take an early ballot) and (c) Try not to vote for anyone who is a whirling amoral vortex of chaos. I
+>you fucking cognitive mudfart, -- 
+>executive committee consisted of three ministers of parliament, three members of the Church of the Interdependency and three members of the guild houses. -- 
+>Her policy of “fuck you, what’s in it for me” -- 
+>Grayland II, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, Queen of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Mother to All, Eighty-Eighth Emperox of the House of Wu. -- 
+>3 deran wu is assassinated. Houses are moving resojrces to end. -s -- 
+>7 nadashe assembles the conspirators -s -- 
+>One could anthropomorphize the Flow all one wanted, but the Flow would not agree or consent to it. It was literally alien to this universe. The only way to understand it was to take it on its own terms. -- 
+>extraneous dimwit -- 
+>12 kira resigns from the exec to infiltrate the conspiracy. -s -- 
+>Imperial Information Office -f -- 
+>Rachela concurred, and once again Cardenia was reminded that this version of Rachela was not burdened with ego, and was therefore not concerned with justifying her actions in any way. -- 
+>15 kira is captured. -s -- 
+>18 kira gets thr crew on her side. - -- 
+>19 the emporex is assassinated -s -- 
+>20 ndine is chosen as empoorox, and the archbishop resignes. -s -- 
+>23 greyland aappears as a ghose at nadase,s coronation, and announces tfhat fhe monopies ae over, and kirA is hed successod. -s -- 
+>so if you live in the United States, and you are reading this prior to November 2020, please do me a favor and (a) Register to vote, or check to make sure your registration is still valid, (b) Remember to vote on election day (or before if you take an early ballot) and (c) Try not to vote for anyone who is a whirling amoral vortex of chaos.  -- 
 
 ### sachaffner-j-s
 Schaffner, Jennifer. -- Scan and deliver / [by] Jennifer Schaffner, Francine Snyder, [and] Shannon Supple. -- Computer data (1 file : 167 kb) -- [S.l.] : OCLC, c2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10095.pdf) -- DBID 10095 -- DDC 025.17.
@@ -6475,6 +6500,7 @@ Stevens, Deborah. -- The serpent's disciple. -- 1st ed. -- Computer data (1 file
 
 ### stevens2011
 Stevens, John Paul. -- Five chiefs. -- Little, Brown, and Company, 2011. -- First e-book ed. -- Mode of Access: World Wide Web. -- Title from title page viewed Apr. 20, 2020. -- ISBN 9780316199780. -- DDC 920.
+> Read 2020-04. -- Grade C. -r --
 >Article, section, paragraph -- Whitney vs. Calif: Substrancial due process -- Find an arguement pursuasive. -- Earl warren received nomination for governor for both the dem and republication parties. -- Clariance Thomas' reliance on historical analysis. -- As a matter of settled practice... -- I had assumed that the due process clause protects only a right to fair procedures before a state could deprive a citizen of life, liberty, or property—that that had been the real point of Holmes’s Lochner dissent. -- due process clause of the Fourteenth Amendment applies to matters of substantive law as well as to matters of procedure. -- find that argument persuasive. -- interpreted the commerce clause broadly, as John Marshall had in his Gibbons opinion. -- Because the second case arose in the District of Columbia—which, of course, is not a state—the Fourteenth Amendment was inapplicable. -- in forma pauperis -- Justice Stewart’s explanation that the Griswold decision that had upheld the right to use contraceptives could “be rationally understood only as a holding that the Connecticut statute substantively invaded the ‘liberty’ that is protected by the Due Process Clause of the Fourteenth Amendment.” -- While Thurgood’s jurisprudence reflected an understanding that the Constitution was drafted “to form a more perfect Union”—and thus to accommodate unforeseen changes in society—Justice Thomas’s repeated emphasis on historical analysis seems to assume that we should view the Union as perfect at the beginning and subject to improvement only by following the cumbersome process of amending the Constitution. -- In 1939, in the Miller case, a unanimous Court had held that the scope of the right protected by the amendment was delimited by its relationship to the preservation of a well-regulated militia. -- In the last four decades, more than one hundred death-row inmates have been exonerated, a number of them on the basis of DNA evidence. -- Historical analysis is usually relevant and interesting, but it is only one of many guides to sound adjudication. -- Moreover, just as the meaning of the Eighth Amendment itself responds to evolving standards of decency in a maturing society... -- As Thurgood Marshall observed on more than one occasion, the Constitution does not prohibit Congress from enacting stupid laws.
 
 ### stewart-k-t
@@ -6781,8 +6807,9 @@ Tin, Christopher. -- The drop that contained the sea. -- Computer data. -- Tin W
 ### &nbsp;
 Tingstad, Eric. -- In the garden / Eric Tingstad and Nancy Rumbel. -- Computer data (14 files : 93.1 mb). -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /music/ . -- Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225. -- DDC 781.67.
 
-### &nbsp;
+### toobin-j-n
 Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; accessed 03/29/2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/). -- eISBN 9780307472892. -- DDC 347.
+> Read 2020-04. -- Grade C. -r --
 > for O’Connor there was little difference between a judicial and a political philosophy. -- She had an uncanny ear for American public opinion, and she kept her rulings closely tethered to what most people wanted or at least would accept. -- William Brennan, observed in 1985, “the genius of the Constitution rests not in any static meaning it might have had in a world that is dead and gone, but in the adaptability of its great principles to cope with current problems and current needs.” p. 18 -q -- John Marshall Harlan II, m, 20th c, Supreme Court Justice. -f -- [Souter] believed that law existed to preserve the stability of society and that adherence to precedent best guaranteed a limited and predictable role for the judiciary. Above all, he believed in the rule of stare decisis. -p. 53 -q -- Souter believed that the Constitution expressed a libertarian ideal—that freedom from the restrictions of government counted as much as, or more than, the right of legislators to pass laws limiting individual freedom. -q -- And the people’s rights were not limited by the precise language of the Constitution, either. One of the strongest arguments against so-called unenumerated rights in the Constitution is that a written document should be limited in meaning to its precise terms. -q -- Souter avoided attention, loathed controversy, and disliked high-profile cases. -q -- Equanimity, WOTD -f -- waylaid, WOTD -f -- alacrity, WOTD -- Clinton's thoughts about abortion: safe, legal—and rare. -- [RBG] felt laws banning abortion were a form of sex discrimination—a violation of equal protection of the laws—rather than an affront to the right to privacy, as Blackmun’s opinion had held. -- choice of Ruth Bader Ginsburg—arguably Clintons seventh choice -f -- James Madison in Federalist No. 45, Rehnquist wrote, “The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite.” -- “color-blind Constitution -- If one wants to be popular, it is counterproductive to disagree with the majority. If one just wants to tread water until the next vacation, it isn’t worth the agony. If one just wants to muddle through, it is not worth it. -Clarence Thomas -q -- [Clarence Thomas'] office, a little sign reads: ‘To avoid criticism, say nothing, do nothing, be nothing. -- [Renquist] had reduced the job to its essentials: a morning meeting with his law clerks to talk about the progress of opinions, a meeting with his administrative assistant to address issues affecting the federal judiciary, lunch at his desk, review of paperwork after lunch, and limousine home by 4:00 p.m. -- Gilbert and Sullivan operettas, Iolanthe: “I did nothing in particular, and I did it very well.” -- O’Connor, the practical consequences would matter more than the legal theory, -- reading briefs, hearing arguments, and writing opinions. -- The gay clerks changed the Court, not because of their advocacy but because of their existence. -- (As usual at oral argument, the lawyer was largely a spectator as the justices talked to one another.) -- sophistry, WOTD -- [O'Connor's] judicial approach was indefensible in theory and impeccable in practice. -- For a Court majority determined never to stray too far from what the public believed, -- It is during our most challenging and uncertain moments that our Nation’s commitment to due process is most severely tested; and it is in those times that we must preserve our commitment at home to the principles for which we fight abroad.” -- Souter’s New England frugality -- Souter spoke of “every judge’s common obligations: suspicion of easy cases, skepticism about clear-edged categories, modesty in the face of precedent, candor in playing one worthy principle against another, and the nerve to do it in concrete circumstances on an open page. -- prickly personality --  ch. 20 in the wake of oconnors retiremenu conservaives come out against gonzolas. -s -- When she joined the Court in 1981, not one other justice believed that abortion laws should be tested under an “undue burden standard,” but O’Connor had invented that test and over time persuaded a majority of her colleagues to agree with her. She had single-handedly remade the law in the most controversial area of Supreme Court jurisprudence. -q -- Even Thomas had long since passed Scalia, en route to a kind of nineteenth-century conservatism. -q -- John Robert's philosophy: Decide more cases; achieve more unanimity; write narrower opinions—judicial minimalism. -f -- Cass Gilbert’s steps represent at some level a magnificent illusion—that the Supreme Court operates at a higher plane than the mortals who toil on the ground. But the Court is a product of a democracy and represents, with sometimes chilling precision, the best and worst of the people. We can expect nothing more, and nothing less, than the Court we deserve. -q -- Reserved, almost diffident, WOTD -f -- The framers viewed freedom from unlawful restraint as a fundamental precept of liberty, and they understood the writ of habeas corpus as a vital instrument to secure that freedom. -q -- These meditations were in the tradition of ‘penumbras,’ ‘emanations,’ and other airy constructs the Court has employed over the years as poor substitutes for clear and rigorous constitutional reasoning.” -q -- As a result of the Court’s decision in Heller, it will be judges, not voters and elected officials, who will be answering these questions. And it will be years, and perhaps decades, before the courts even debate them. -q
 
 ### &nbsp;
