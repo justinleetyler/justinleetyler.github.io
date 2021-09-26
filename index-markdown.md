@@ -4,11 +4,12 @@ Senior Content Integration Engineer, EBSCO Information Services
 
 Currently Reading
 ---
-Arenson, Daniel. -- A memory of Earth. -- Title from title page, viewed Sept. 25, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- AISN B077J8WH3B. -- DDC 813.
+- Arenson, Daniel. -- A memory of Earth. -- [S.n., 202-?] -- Title from title page, viewed Sept. 25, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- AISN B077J8WH3B. -- DDC 813.
+- Cannadine, David. -- Victorious Century. -- Penguin book, 2019.-- Title from title page, viewed Sept. 26, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B073TJNTKM). -- AISN B073TJNTKM. -- DDC 941.
 
-Archives
+[Archives](/interests)
 ---
-including reading [notes](/catalog) and [logs](/interests), a [catalog](/kindle_books.html) of my kindle books, and my favorite [websites](/bookmarks).
+a reading log!
 
 [Resume](resume) 
 ---  
@@ -23,3 +24,4 @@ including reading [notes](/catalog) and [logs](/interests), a [catalog](/kindle_
 email: justinleetyler at yahoo dot com
 
 [Leave](http://www.google.com)   
+---
