@@ -1846,13 +1846,13 @@ Damm, Nate. -- Life on foot. -- Computer data (1 file : 1977 KB). -- [S.n.], 201
 ### damon-n-s
 Damon, Nick. -- Shadow of Oz. -- 1st ed. -- Computer data (1 file : 557 KB) -- Secret Origin Press, 2012. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### 1455
+### daniel-a-h
 Daniel, Anthony. -- [Hero motifs]. -- Computer data (1 file : 58 kb) -- [S.l.] : A. Daniel, 2007. -- Title supplied by cataloger. -- File name: (1455.doc) -- DBID 1455 -- DDC 398.
 
 ### daviels-v-f
 Daniels, Valmore. -- Forbidden the stars. -- Computer data (1 file). -- [The author], c2010. -- System requirements: Kobo app. -- Title from title page. -- ISBN 9780986659324. -- DDC 813.
 
-### 1511
+### darling-a-b
 Darling, Alistair. -- Back from the brink. -- Computer data (1 file). -- [S.l.] : Atlantic, 2011.. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 1511 -- DDC 320.941.
 
 ### davidson1966
@@ -2364,16 +2364,16 @@ Ehrman, Bart D. -- The new testament. -- New York : Oxford University Press, 200
 > Empathy is the ability to understand another person's way of thinking. -p. 74 -q
 > There is always something we can do. If we can no longer cure, then we can ease the suffering. If we cannot do that, we can comfort. >And if we can no longer comfort, we can simple be there. -p. 90 -q
 
-### &nbsp;
+### ellis-b-v
 Ellis, Brandon. -- Veil rising. -- LMBPN publishing, 2020. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B085YBT6WM). -- AISN B085YBT6WM. -- DDC 813.
 
-### &nbsp;
+### elrod-j-s
 Elrod, J. McRee. -- Streaming videos. -- Computer data. -- [S.l. : Special Libraries Cataloguing, c2010. -- Title from p -- DDC -- File name: (10074.pdf). -- DBID 10074 -- DDC 025.3.
 
-### &nbsp;
+### elton-j-l
 Elton, John. -- Love Songs. -- Computer data. -- New York, NY: Mercury, 1996. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-### &nbsp;
+### elwell-f-h
 Elwell, Frank. -- Hunting and gathering socities. -- Computer data (1 file). -- [F. Elwell, n.d.]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3238.pdf. -- DDC 305.8.
 > Tools: Spears, Bows and arrows, nets and traps, digging sticks, needles, pin awls, antler hammers, axes
 > H&Gs are notoriously lacking in occupation specialization beyond subsistence tasks.
@@ -2388,33 +2388,33 @@ Elwell, Frank. -- Hunting and gathering socities. -- Computer data (1 file). -- 
 > Not 'do this!' but rather 'If this is done, it will be good' -q
 > Religions: Sympathetic magic and Ceremony and ritual -q
 
-### &nbsp;
+### elysium-m-d
 Elysium Mind. -- Desert wind. -- Computer data (1 file : 9 MB). -- [S.n.], 2012. -- on 1 external hard drive. --  System requirements: USB drive; MP3 file reader. -- Title from file name. -- File name: ElysiumMind_DesertWind.mp3 . -- DDC 781.67.
 
-### &nbsp;
+### elysium-m-l
 Elysium mind. -- Lay it down. -- Computer data (1 file : 8.6 MB). -- [S.n.], 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from file name. -- File name: ElysiumMind_LayItDown.mp3. -- DDC 781.67.
 
-### &nbsp;
+### elysium-m-m
 Elysium Mind. -- Marginal illusion. -- Computer data (1 file : 7.6 MB). -- [S.n., n.d.]. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from file name. -- File name: ElysiumMind_MarginalIllusion.mp3 . -- DDC 781.67.
 
-### &nbsp;
+### emerson-k-l
 Emerson, Keven. -- The lost code. -- Katherine Tegen Books, c2012. -- 435 p. -- ISBN 9780062062803. -- DDC  813.
 > Ch. 1: Owen almost (does he?) dies during a swim test. He is in Camp Eden. -s
 > Ch. 5: Owen tours the EdenEast control center. A fire breaks out, and he wonders how safe the dome actually is. -s
 > Ch. 6: It turns out the 'injury' in his neck are gills. And Owen meets more kids who developed gills. -s
 > Ch. 11: An explosion, caused by the Nomads. The nomad says that they must stop Project Elysium. -q
 
-### &nbsp;
+### emerson-w-o
 Emerson, Winston. -- The object / Winston Emerson (Author); Justin Comley (Illustrator). -- Computer data (1 file : 386 KB). -- [S.n., n.d.] -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ISBN 9781477635087. -- AISN B009ZVFDBG. -- DDC 813.
 
-### &nbsp;
+### ency
 Encyclopaedia Britannica Online. -- Computer data. -- [S.l. : s.n., n.d.]. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.loc.gov/cgi-bin/zgate?ACTION=INIT&FORM_HOST_PORT=/prod/www/data/z3950/encybrit.html,z3950.eb.com,210&CI=074416). -- DBID 3057 -- DDC 031.
 > His [Saint-Exupery] works exalt perilous adventures at the cost of life as the highest realization of man's vocation. -q
 > The growing sadness and pessimism in Saint-Exupery's view of man appears in Citadelle (1948; The Wisdom of the Sands, 1952), a posthumous volume of reflections that show Saint-Exupery's persistent belief that man's only lasting reason for living is as repository of the values of civilization. -q
 > ANTIPAS: Tetarach of Galilee during the Ministry of Jesus. -f
 > MASSACHUSET: A Native American tribe with ~ 20 villages on the Mass coast -- Members of the Algonquian language family. -- Cultivated corn and other vegetables, gathered wild plants, hunted and fished. -- Moved each season to take advantage of food sources. -- Tribe was divided into bands, ruled by a Chief, or Sachem. -- Experienced warfare with the Tarratine. -- Decimated by the pestilence of 1617. -f
 
-### &nbsp;
+### empty
 The empty mirror. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1728. -- DDC 284.3
 > '?In India a hermit was meditating on the shore of a river when he was disturbed by a young man. The young man knelt down and said: ?Master, I want to become your disciple.? ?Why?? asked the master. ?Because I want to find God.? The master jumped up, took the young man by the scruff of the neck, dragged him to the river and pushed his head under water. After a minute the master released the young man and pulled him out of the river. The young man spat out some of the water which he got in his mouth and began to cough. After a while he became quiet. ?What did you want most of all while I kept you under water?? asked the master. ?Air,? said the young man. 'Very well,? the master said. ?Go back to wherever you have come from, and come back to me when you want God as much as you wanted air just now.?' -p. 88 -q
 
@@ -2426,43 +2426,43 @@ Ende, Michael. -- The neverending story / Michael Ende ; translated from the Ger
 > You have no right to ask that of Ygramul even if you are wearing AURYN, the Gem. The Childlike Empress takes us as we are. That's why Ygramul respects her emblem.  -p. 066 -q
 > She [The Childlike Empress] didn't rule, she never used force or made use of her power. She never issued commands and she never judged anyone. She never interfered with anyone and never had to defend herself against any assailant; for no one would have thought of rebelling against her or of harming her in any way. in her eyes all her subjects were equal. She was simply there in a special way. She was the center of all life in Fantastica.   -p. 31-32 -q
 
-### &nbsp;
+### enigma-c
 Enigma (Musical group). -- The Cross of Changes. -- Computer data. -- New York: Charisma Records America, 1993. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67
 
-### &nbsp;
+### enya-d
 Enya. -- A Day Without Rain. -- Computer data. -- Burbank, CA: Reprise Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### enya-a
 Enya. -- Amarantine. -- Computer data. -- [S.l.: Reprise, 2005.] -- on 1 external hard drive. -- Title from CD. -- File name: (music) -- DDC 781.67.
 
-### &nbsp;
+### enya-p
 Enya. -- Paint the Sky with Stars: The Best of Enya. -- Computer data. -- Burbank, CA: Reprise Records, 1997. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### enya-s
 Enya. -- Shepherd Moons. -- Computer data. -- Burbank, Calif: Reprise Records, 1991. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### enya-c
 Enya. -- The Celts. -- Computer data. -- Burbank, CA: Reprise, 1992. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### enya-w
 Enya. -- Watermark. -- Computer data. -- New York, NY: Reprise, 1988. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
-### &nbsp;
+### ercegovac-z-m
 Ercegovac, Zorana. -- Minimal level cataloging. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- Filename: 3329.pdf. -- IN Journal of the American Society for Information Science. -- (Jun. 1998). -- DDC 025.3.
 > There is evidence attesting that most academic library users at the University of Bath are not interested in more than five bibliographic elements (e.g.. Seal 1983; Stamm 1996). -q
 > others have experimented with their own in-house standards of what minimal-level cataloging should be (e.g., Stanford's Freund, 1990; Northwestem's Homy, 1991; Stamm, 1996; Michigan's Marko & von Wahlde, 1986). -q
 > Core Record Pilot Project -f
 
-### &nbsp;
+### escobar-a-t
 Escobar, Alesha. -- The tower's alchemist. -- Computer data (1 file). -- A.E., c2011. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B005QSFXC6. -- DDC 813
 
-### &nbsp;
+### essex-c-g
 Essex County Greenbelt [homepage]. -- Computer data. -- [Mass.?] : ECGA, 2011- -- Mode of Access: World Wide Web (http://www.ecga.org/). -- DBID 3062 -- DDC 796.51.
 
-### &nbsp;
+### essex-c-t
 Essex County Trail Association [homepage]. -- Computer file. -- [Mass.?] : ECTA, 2011- -- Title from home page. -- Mode of Access: World Wide Web (http://www.ectaonline.org/). -- DBID 3061 -- DDC 796.51.
 
-### &nbsp;
+### ethics
 Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Conn. : Quorum Books, 2002. -- xii, 266 p. -- ISBN 1567205623 -- DDC 174.
 > 'II. Spirituality at work by Ian I. MitroffA. Results of study 1. 92% of managers favor integrating spiritual values. 2. There is a lack of models and tools for integration. 3. The spiritual organization has specific charactoristics 4. Crisis is usually the starting point 5. ''Religion'' and ''Spirituality'' percieved differentlyB The paths 1. Religious-based organization 2. Evolutionary organization 3. Recovering organization 4. Socially responsible organization 5. Values-based organization' -p. 35- -o
 > ...spirituality at work would allow them to live a more integrated and more systemic life? -p. 35 -q
@@ -2474,13 +2474,13 @@ Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Co
 > 'V. On Smith A. Career as an anglican priest 1. Seemed to loose his faith B. Rigid ethical views' -p. 149- -o
 > Non-ParochialBishop's approval for nonecclesiastical employment -p. 150 -d
 
-### &nbsp;
+### evaluate-e
 Evacuate Earth. -- Computer data (1 file : 334 MB). -- National Geographic, [20--?] -- on 1 external hard drive. -- System requirements: USB drive : MP4 file reader. -- Title from title screen. -- Filename: 3317.mp4. -- DBID 3317. -- DDC 363.3
 
-### &nbsp;
+### evans-j-u
 Evans, Joanne. -- Utilizing systems development methods in archival systems / [by] Joanne Evans and Nadav Rouche. -- Computer file (1 file : 258 kb). -- Title from resource. -- File name: (10066.pdf). -- DBID 10066. -- DOI 10.1007/s10502-005-2598-4. -- IN Archival Science. -- Vol. 4 (2004) -- DDC 027.
 
-### &nbsp;
+### evangelism
 Evangelism. -- Computer data. -- 2000. -- Mode of Access: World Wide Web (http://www.uua.org/growth/midsize/conferences/2000/129093.shtml). -- ON [the] Unitarian Universalist Association [website]. -- URL http://www.uua.org. -- DDC 289.1
 > Before we can be an inviting church that attracts and keeps visitors, we have to know who we are, what we stand for, what we have to offer. It arises from the deepest place of our sense of what is sacred, of what it means to live religiously. -q
 > Evangelism is founded on the beliefs that people have a need for religious community, for deep relationships, for spiritual exploration, for social involvement. -q
@@ -2489,7 +2489,7 @@ and isolation.  -q
 > Evangelism is, then, a religious orientation based on an eagerness to share something precious, to share our good news. Evangelism goes to the core of a church's culture and identity. -q
 > The beginning of a transition to a culture of evangelism, a culture of reaching out and sharing, is for our members to touch again the source of their connection to their faith. 
 
-### &nbsp;
+### evans-r-r
 Evans, Robert. -- Robert's rules of order. -- Computer data (1 file) -- [S.l.] : Da Capo Press, 2004.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3036 -- DDC 060.
 
 ### cenkner1997
@@ -2524,19 +2524,19 @@ Evil and the response of world religion / edited by William Cenkner. -- 1st ed. 
 > Divine Goodness and Demonic Evil -by David Ray Griffin -p. 223-240 -s
 > 'We have created the possibility of utterly destroying the planet, a possibility that Jewish and Christian imagination had relegated to God alone. This is a unique situation that has already streated traditional teologies and theodicies, often beyond the breaking point. Certainly one result of the Holocause has been that Jews have plunged into theological crisis. The old images and beliefs do not satisfy the vast manjority. The evolution of this mellennia-old tradition requires that we move into a new phase of conversation about God and evil.' -p. 16 -q
 
-### &nbsp;
+### every-n
 Every nation kneeling : and other services of prayer and praise / compiled by Will Hayes. -- Computer data (1 file). -- The Order of the Great Companions, 1954. -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- title from title page. -- Filename: 3364.pdf. -- DDC 289.1
 
-### &nbsp;
+### exploring-p
 Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. -- Grand Rapids, Mich. : William B. Eerdmans Pub., 2004. -- xix, 297 p. -- ISBN 0802821200 -- DDC 238.
 
-### &nbsp;
+### exploring-n
 Exploring New Hampshire's White Mountains. -- 1st ed. -- Scale 1:62,500. and 1:100,000. -- Twin Mt., N.H. : Wilderness Map Co., 2009. -- 2 maps on 1 sheet. -- ISBN 0978593242 : $7.95. -- DBID 3123 -- DDC 912.742.
 
 F
 ---
 
-### &nbsp;
+### fagan-b-f
 Fagan, Brian. -- The first North Americans. -- Thames & Hudson, 2011. -- 272 p. -- ISBN 9780500021200. -- DDC 970.
 > How large this population was [that came across the Bering Land Bridge] is still a matter of debate and guesswork, with figures ranging from a mere seventy individuals to between 1,000 and 5,400 people. -p. 16 -q
 > The earliest widely accepted pre-Clovis site comes... from mount Verde in southern Chile... About 15,000 years ago... a small group of people camped on the sandy banks of a creek subsisted off game and especially lant foods. They lived in a cluser of near-rectangular huts... Traces of mastodon and paleo-llama hide are adhered to a number of the posts that covered the structure... There were communal and individual hearths inside the huts. -p. 19 -q
@@ -2568,19 +2568,18 @@ Fagan, Brian. -- The first North Americans. -- Thames & Hudson, 2011. -- 272 p. 
 > Bruce Trigger: Increased warfare lead to larger communities = leading to less intervillage marriage = less contact/association = more warfare. "Thus... the men assumed a prestigious role in a society that was becoming more and more sedentary and agricultural". -p. 244-5 -f
 
 
-### &nbsp;
+### farley-m-j
 Farley, Margaret. -- Just love. -- DBID 3031.
 
-### &nbsp;
+### farish-r-l
 Farish, Ryan. -- Life in stereo. -- Computer data. -- RYTONE Entertainment, LLC., c2012. -- on 1 external hard drive. -- System requirments: USB drive; MP3 file reader. -- File directory: 3275. -- DBID 3275. -- DDC 781.67.
 
-### &nbsp;
+### fattahi-r-a
 Fattahi, Rahmatollah. -- AACR2 and catalogue production technology. -- Computer data (1 file : 108 kb) -- [S.l. : s.n.], 2007. -- Title from resource. -- File name: (1079.pdf) -- DBID 1079 -- DDC 025.3
 
-
-### &nbsp;
+### ferlo-r-o
 Ferlo, Roger. -- Opening the Bible. -- Cambridge, Mass. -- Cowley Publicatinos, c1997. -- xv, 153 p. -- ISBN 1561011444. -- LJLT 1713 -- DDC 220.
-> 'When Jesus read in the synagogue, it is possible that he used the Targum [Arabic translation/parahrase of the Hebrew Scriptures) as the starting place for his dramatic reinterpretation of Scripture.' -p. 35 -q
+> 'When Jesus read in the synagogue, it is possible that he used the Targum (Arabic translation/parahrase of the Hebrew Scriptures) as the starting place for his dramatic reinterpretation of Scripture.' -p. 35 -q
 > 'For now, just notice that the gospel writer (rf. LK. 4:16) does not say explicitly that Jesus read the Isiah scripture aloud. Of course, the episode makes no sence unless he did.' -p. 17 -q
 > 'By the end the second century, this new approach to the Hebrew Bible (midrash) had caused an all but irreparable rift between Jew and Christian in their reading of the sacred texts they shared.' -p. 40 -q
 > 'Writing a letter using a famous name seems odd and dishonest to us, who are so used to grappling with issues of copyright, plagiarism, and intellectual property. But the practice was quite common in the ancient world, and was considered a way f honoring the memory of a movement's founder.' -p. 29 -q
@@ -2590,7 +2589,7 @@ Ferlo, Roger. -- Opening the Bible. -- Cambridge, Mass. -- Cowley Publicatinos, 
 > 'In the end, God's truth is to be found not in the book, but in the presence of the risen Christ, recognized in the breaking of the bread.' -p. 13 -q
 > 'It is our history, the history of God's continuing actions among us - a history of God's relationship with humanity in Jesus the Christ that is at once cosmic and intimate, both timeless and immediate. Though our baptism, we laim God's history as our own.' -p. 8 -q
 
-### &nbsp;
+### fisher-c-h
 Fisher, Catherine. -- The hidden coronet. -- Dial Books, 2011. -- 421 p. -- ISBN 9780803736757. -- DDC 813.
 > Over the centuries the Order built up these fancy stories about them [the makers] and forgot all the important bits. -Marco -p. 141 -q A reference to the Church, and the story of Jesus. -r
 > 11 Solon drinks some water, and has a vision of the coronet. They head to the observatory. -s
@@ -2635,13 +2634,13 @@ Fisher, Catherine. -- Relic master. Part 1. -- Firebird, 2013. -- 362 p. -- ISBN
 > Awen: energy, power, life -p. 282 -f
 > ch 19 the break into the watchhouse and get the girl, the interrex. -s
 
-### 3352
+### flaherty-r-j
 Flaherty, Robbie. -- [Justin Tyler looking out a window]. -- Computer data (1 file). -- 2014 May. -- Title supplied by cataloger. -- System requirements: JPG file reader ; USB drive. -- DBID 3352. -- DDC 779.
 
-### &nbsp;
+### fleming-t-t
 Fleming, Tommy. -- Tommy Fleming: Voice of Hope / [by] Tommy Fleming and Vincent Donnelly. -- Computer data. -- Detroit?, Mich.: DPTV Media, 2005. -- on 1 external hard drive. -- DDC 782.
 
-### 1719
+### flesher-j-s
 Fletcher, Joseph F. -- Situation ethics. -- Philadelphia : Westminster Press, [1966]. -- 176 p. -- DBID 1719. -- DDC 170.
 > The classic rule of moral theology has been to follow lasws but do in as much as possible according to love and according to reason. -p. -q
 > 'He [the legalist] forgot the purpose of the game? He no longer thought of winning the hand, but of being able to justify himself by invoking the rule.'' -p. -q
@@ -2649,10 +2648,10 @@ Fletcher, Joseph F. -- Situation ethics. -- Philadelphia : Westminster Press, [1
 > 'Three Approaches -by Joseph FletcherI. Three Approaches to Moral Theology A. Legalism 1. Two Types a. Reason (based on natural law) b. Revelation (based on scripture) B. Antinomianism (literally 'against law') 1. Types a. libertinism 1) Saved by grace, so who cares? b. special knowledge 2) We just know c. existentialism (Sartre) 1) unity or coherence in life is 'bad faith' C. Situational 1. Ethical principles are not codes' -p. -o
 > They [the legalists] have lost touch with the headaches and heartbreaks of life. -p. -q
 
-### 10056
+### flynn-m-f
 Flynn, Martin. -- From dominance to decline? The future bibliographic discovery, access, and delivery. -- Computer data (1 file : 69 kb) -- [S.l. : s.n.], 2010. -- Title from resource. -- File name: (10056.pdf). -- DBID 10056 -- DDC 025.3.
 
-### 1729
+### foresters
 The foresters. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1729. -- DDC 823.
 > '?but with the whole passion of love that existed in her nature, she embraced her husband's neck, and with every kindest and most encouraging word, addressed to his own ear, mingled prayers of holiest fervour for his peace of mimd to the Giver of all merices.' -p. 38-39 -q
 > 'Chapter 5-Able forged a document to pay off a businessman from Edinburgh. Michael took responsibility for the debt, and after his father dies, will have to sell Dovenest. -Agnes is pregnant.' -p. 37-44 -s
@@ -2718,21 +2717,21 @@ Foner, Eric. -- The second founding. -- 1st ed. -- W. W. Norton & Company, 2019.
 >The elevation of the Commerce Clause into a “charter of human rights,” a way of compensating for the Supreme Court’s cramped view of the Reconstruction amendments, has made the judiciary look ridiculous. -- 
 >David E. Kyvig, ed., Unintended Consequences of Constitutional Amendments (Athens, 2000).
 
-### &nbsp;
+### forbes-m-h
 Forbes, M.R. -- His dark empire. -- Computer data (1 file : 645 KB). -- Protoculture Press, 2013.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### forseth-m-f
 Forseth, Mike. -- Free TV over the air. -- Computer data (1 file). -- Invigorating Publishing, c2014.. -- System requirements: Kindle app. -- ASIN B00IX0BTCM. -- DDC 643.
 
-### 1448
+### foster-a-n
 Foster, Andrea L. -- New programs teach undergraduates how to use the Internet and the online card catalog in search of the best sources. -- Computer data (1 file : 15 kb) -- On external hard drive. -- Title from resource. -- File name: (1448.doc) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1448.txt) -- DBID 1448. -- IN The Chronicle of Higher Education. -- Vol. 53, no. 27 (Mar. 9, 2006) -- DDC 025.5.
 
 
-### &nbsp;
+### fortney-r-p
 Fortney, Ryan S. -- PaxCorpus / Ryan S. Fortney, Author; Anastasia Rivera, Editor; Leah Moore, Illustrator. -- Computer data (1 file : 501 KB). -- [S.n.], 201-? -- System requirements: Kindle app. -- Title from Amazon.com. -- ASIN B004XMY84U. -- DDC 813.
 
 
-### &nbsp;
+### four
 Four faces of Jesus. -- [S.l. : s.n., n.d.] -- [1] v -- DDC 232.
 > 'Luke, like Mark, sought out others in compiling his portrait?' -p. -q
 > 'A. Mark 1. Writing for a Roman Audience B. Matthew 1. Written in Antioch, Syria. 2. Written for Jews; a ''new moses'' 3. Works similar to a catechism 4. A work of several discources a.The Sermon on the Mount (Matthew 5:3-7:27) b. The Missionary Discourse (Matthew 10:5-42) c. The Parable Discourse (Matthew 13:3-52) d. The Church Community Discourse (Matthew 18:3-35) e. The Eschatological (Last Things) Discourse (Matthew 24:4-25:46) C. Luke 1. Achaia D. John 1. Jesus is divine.' -p. -o
@@ -2746,38 +2745,38 @@ Four faces of Jesus. -- [S.l. : s.n., n.d.] -- [1] v -- DDC 232.
 > He doesn't like big social gatherings much, after all, despite having an easier time with it, since he met Evan.
 > They doesn't say any vows;
 
-### 10067
+### fox-m-p
 Fox, Michael. -- Professional training for Encoded Archival Description in Europe. -- Computer data (1 file : 586 kb). -- Title from resource. -- File name: (10067.pdf). -- DBID 10067. -- IN Journal of archival organization. -- Vol. 3, no. 2/3 (Apr. 1, 2005). -- ISSN 1533-2748 -- DDC 025.3.
 
-### 1037
+### framework
 Framework for a feminist ethics. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1037. -- DDC 170.
 > '?the analysis of the root of oppression is a key factor in feminist ethics? Self-determination for woemn, autonomy, and an inviolable sence of embodiedness figure prominently in all feminists' visions of a new social order.' -p. -q
 > A. Types of Feminist Ethics 1. Radical feminist perspective 2. Sex-rolism 3. Socialist feminism 4. Marxist-Leninist feminism -p. -o
 
-### &nbsp;
+### franconia
 Franconia Notch [map] : Franconia Notch State Park, New Hampshire. -- Scale: 1:40,000) -- Twin Mt, NH : The Wilderness Map Company, c2007. -- 1 map. -- ISBN 0974843989 : :$2.95. -- DBID 3125 -- DDC 912.742.
 
-### &nbsp;
+### franks-d-o
 Franks, Daniel J. -- The order of Ascalon. -- Computer data (1 file). -- D. Franks, c2014. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
-### &nbsp;
+### fredriksson-b-p
 Fredriksson, Berndt. -- Postmodernistic archival science : rethinking the methodology. -- Computer data (1 file : 1.1 mb) -- Title from resource. -- File name: (10068.pdf). -- DBID 10068. -- IN Archival Science. -- Vol. 3 (2003) -- DDC 027.
 
-### 10042
+### friedman-t-p
 Friedman, Thomas L. -- Postcard from a free Egypt. -- Computer file (1 file : 85 kb). -- Title from resource. -- File name: (10042.pdf). -- DBID 10042. -- IN The New York Times. -- (Feb. 11, 2011). 1.962.
 
-### 10057
+### fritzier-j-b
 Fritzier, James. -- Behavior toolkit / James Fritzier [and] Susan G. Friedman. -- Computer data (1 file : 574 kb). -- [S.l. : s.n.], c2010. -- Title from resource. -- File name: (10057.pdf). -- DBID 10057 -- DDC 153.
 
-### &nbsp;
+### fulbright-a-u
 Fulbright, Audette. -- UU Evangelism / sharing our good news. -- Computer data. -- c2006. -- Mode of Access: World Wide Web (http://www.uuroanoke.org/sermon/060521Sermon.htm). -- ON [the] Unitarian Universalist Church of Roanoke [website]. -- URL http://www.uuroanoke.org. -- DDC 289.1
 > This is what an evangelist believes: that there is a wonderful idea that should be shared, because it is likely to be gift to others; because it has the power to transform people and lives for the better; because it is an idea that can save something worth saving. -q
 > 1: Live the faith. 2: Be comfortable in talking about the faith. -o
 
-### 3355
+### fulghum-r-a
 Fulghum, Robert. -- All I really need to know I learned in kindergarden. -- 25th anniversary ed. -- Computer data. -- Ballantine books, c2003. -- on 1 external hard drive. -- System requirements: USB drive; epub file reader. -- Title from title page. -- File name: 3355.epub. -- ISBN 9780345479105. -- LJLT 3355 -- DDC 128.
 
-### &nbsp;
+### fuller-a-p
 Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Adams, c1994. -- [1 v.] -- ISBN 0822630362 -- DDC 200.
 > 'Science is grounded in reason, religion in mystical experience? both provide genuine access to an incredibly rich universe.' -p. 25 -q
 > Supernaturalism -p. 25 -d
@@ -2785,28 +2784,28 @@ Fuller, Andrew Reid. -- Psychology and religion. -- Lanham, Md. : Littlefield Ad
 > Twice-borness -p. 28 -d
 > Salvation -p. 29 -d
 
-### 3036
+### future
 Future libraries : change, options and how to get there. -- Computer data (1 file : 1032 kb). -- London : Local Government Group, c2011. -- Title from cover. -- File name: (3036.pdf). -- DBID 3036 -- DDC 027.4
 
 G
 ---
 
-### 10069
+### gabriel-c-s
 Gabriel, Claire. -- Subject access to archives and manuscript collections: an historical review. -- Computer data (1 file : 730 kb). -- Title from resource. -- File name: (10069.pdf). -- DBID 10069. -- IN Journal of archival organization. -- Vol. 1, no. 4 (Oct. 10, 2002) -- ISSN 1533-2748.  -- DDC 025.3
 
-### &nbsp;
+### gaddy-a-w
 Gaddy, Alex. -- Wicked roots / by Alex Gaddy and Aaron Roark. -- Computer data (1 file : 520 KB). -- [S.l., n.d.].. -- Title from cover. -- System requirements: Kindle app. -- ASIN B00A1QP6AC. -- DDC 813.
 
-### &nbsp;
+### gandalf-c
 Gandalf. -- Colors of a New Dawn. -- Computer data. -- Sausalito, CA: Real Music, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### gandhi-m-a
 Gandhi, Mohandas K. -- An autobiography / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. -- Boston : Beacon Press, c1993. -- xxix, 528 p. -- ISBN 0807059099 -- DDC 923.
 
-### &nbsp;
+### generous
 A generous communion. -- Computer data (1 file). -- Worship Panel of the General Assembly of Unitarian and Free Christian Churches, 2008. -- on 1 external hard drive. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 3365.pdf. -- DDC 289.1
 
-### &nbsp;
+### gilbert-e-e
 Gilbert, Elizabeth. -- Eat, pray, love. -- [S.n., n.d.]. -- [1] v. -- DDC 306.  
 > In desperate love, we always invent the charators of our partners, demanding that they be what we need hem, and then feeling devastated when they refused to perform the role we created in the first place.	19 -q
 > I had become addicted to David...	20
@@ -2828,25 +2827,25 @@ Gilbert, Elizabeth. -- Eat, pray, love. -- [S.n., n.d.]. -- [1] v. -- DDC 306.
 > 'Remember - everything you do, you do for God. And everything God does, He do for you.' -unknown.	-131
 > In a way, this little episode had all the hallmarks of a typical Christian conversion experience - the dark night of the soul, the call for help, the responding voice, the sense of transformation.	16
 
-### &nbsp;
+### gillespie-m-a
 Gillespie, Mark. -- Apocolypse No.1. -- [S.n.], 2020. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B083S986KS). -- AISN B083S986KS. -- DDC 813.
 
-### 10070
+### gilliland-a-b
 Gilliland, Anne. -- Building an infrastructure for archival research / [by] Anne Gilliland and Sue McKemmish. -- Computer data (1 file : 366 kb). -- Title from resource. -- File name: (10070.pdf). -- DBID 10070. -- DOI 10.1007/s10502-006-6742-6. -- IN Archival Science. -- Vol. 4 (2004) -- DDC 027.
 
-### 1686
+### giordano-t-e
 Giordano, Tommaso. -- Electronic resources management and long term preservation. -- Computer data (1 file : 74 kb). -- [S.l. : s.n., 2007]. -- Title from p.1. -- File name: (1686.pdf). -- DBID 1686 -- DDC 025.8.
 
-### 10167
+### gnd-m
 GMD mapped to Content Type, Media Type, Carrier Type, and Unit of Extent, with MARC fixed fields. -- Computer data (1 file : 219 kb). -- [S.l. : s.n., 2011?] -- Title from p -- DDC -- File name: (10167.pdf) -- DBID 10167 -- DDC 025.3.
 
-### &nbsp;
+### goldstein-j-1
 Goldstein, Jack. -- 101 amazing facts. -- 1st ed. -- Jack Goldstein books, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based amazon.com viewed Jan 5, 2019. -- DDC 001.
 
-### goodall1997
+### goodall-m-a
 Goodall, Medwyn. -- Ancient Nazca: Inca Mysteries. -- Computer data. -- Aerdenhout, Holland: Oreade Music, 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### goodkind-t-w
 Goodkind, Terry. -- Wizard's First Rule. -- Computer file. -- RosettaBooks, 2010. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- DDC 813.
 > 2 richard and kjaylen kills men of thge quad. she came from the boarder. -s 
 > 3 michael gives a speech tries to force himself on kaylan. -s 
@@ -2922,23 +2921,23 @@ Goodkind, Terry. -- Wizard's First Rule. -- Computer file. -- RosettaBooks, 2010
 > Wizard’s First Rule: people are stupid, they believe what they want to believe. -q
 > 46 r fins zedd and co, but tghe spell sides his identity from them. he fibds michael, and learns hge is the one whok betrayed.  -s
 
-### &nbsp;
+### gorman-m-c
 Gorman, Michael. -- The concise AACR2 -- 4th ed. -- ALA, 2004. -- on 1 external hard drive -- System requirements: USB drive; PDF file reader. -- Title based on title page viewed Jan 1, 2019. -- File name: Gorman2004.pdf. -- ISBN 0888023111. -- DDC 025.3.
 > As a basic minimum, include at least the areas and elements (provided that they apply to the bibliographic resource) set out in this illustration: Title proper / first statement of responsibility[2]. -- Edition statement. -- Special area for serials, maps, music. -- First named publisher, etc., date. -- Extent of item. -- Required note(s). -- Standard number... 2. If the person or body named in this statement is recognizably the same as the person or body chosen as the main entry heading (see rules 23–28) and there are no other words or only the word “by” (or its equivalent in another language) in the statement, you may omit the statement.
 
-### 10146
+### gordan-w-t
 Gordon, Whitson. -- Top 10 ways to speed up your computer's boot time. -- Computer data (1 file : 7.6 kb) -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 10146.txt -- DBID 10146. -- IN Lifehacker. -- (Jul. 16, 2011) -- DDC 004.
 
-### &nbsp;
+### gorman-m-r
 Gorman, Michael. -- RDA -- Computer data (1 file : 85.5 kb) -- [S.l. : The author, n.d.] -- Title from resource. -- File name: (10169.pdf) -- DBID 10169 -- DDC 025.3.
 
-### &nbsp;
+### gottwald-m-s
 Gottwald, Norman. -- Self-inventory on biblical hermeneutics. -- Computer data (1 file : 10 kb) -- [S.l. : s.n., 2007?] -- Title supplied by cataloguer. -- File name: (1373.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1373.txt) -- DBID 1373. -- DDC 220.
 
-### &nbsp;
+### grant-b-v
 Grant, Brian. -- Vertical gardening. -- Computer data (1 file). -- Brian Grant and Random Techonologies, c2014. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B00IICK9K8. -- DDC 635.
 
-### &nbsp;
+### grant-m-g
 Grant, Michael. -- Gone. -- Harper, c2008. -- 558, 4 p. -- ISBN 9780061448782. -- DDC 813.
 > Sam Temple, m. Protagonist. -f
 > Quinn, Sams best friend. -f
@@ -2955,7 +2954,7 @@ Grant, Michael. -- Gone. -- Harper, c2008. -- 558, 4 p. -- ISBN 9780061448782. -
 > But Astrid had argued that symbols are important... -p. 439 -q
 > ch 38 Pete caused the FAYZ by stopping a meltdown at the nuclear power plant. Drake and co encounters the darknness. Luna heals drakes arm. -s
 
-### &nbsp;
+### grant-m-l
 Grant, Michael. -- Lies. -- Katherine Tegen Books, c2010. -- 447 p. -- ISBN 9780061449116. -- DDC 813.
 > Sam, there comes a time when the world no longer needs heroes. And then the the true ero knows to walk away. -Orsay -p. 11 -q
 > 1 Orsay is conducting seance's.
@@ -2968,7 +2967,7 @@ Grant, Michael. -- Lies. -- Katherine Tegen Books, c2010. -- 447 p. -- ISBN 9780
 > Rules of the FAYZ: Each of us has the right to be free and do whatever we want so long as nothing we do hurts anyone else -- No one can hurt another person except in self-defence -- No one can take another person's posessions -- We're all equal and have exactly the same rights, Freak or Normal. -- Anyone who commits a crime - stealing or hurting someone - will be accused and then tried by a jury of six kids -- Lying to the jury is a crime -- Penalties can be anything from a fine to getting locked up in a jail for a period of a month or more, to permanent exile Perdido Beach. -- We'll elect a new town council every six months. But the council cannot change these firt nine rules. -- Everyone has to live by these laws. Except in the event of an emergency. The council will have the right to suspend all other rules for a period of twenty-four hours if there's a major emergency. In that case the council can appoint a person, or several people, to act as Town Defenders. -f
 > He [Alfred] was, as usual, the neatest, cleanest, calmest, most focused person there. -p. 360 -q
 
-### &nbsp;
+### grant-m-h
 Grant, Michael. -- Hunger. -- HarperCollins, c2009. -- 590 p. -- ISBN 9780061449062. -- DDC 813.
 > WHO: Sam (Protaganist), Caine (Antaganist), Zil (Antaganist) -- WHAT/WHY: Caine, in an attempt to take control, attempts to capture the power plant. And Zil, believing those with powers are subjegating those w/o powers, leads a fight between 'normals' and 'freaks' -- WHEN: After the first battle between Sam and Caine. -- WHERE: the "FAZE".
 > 3 A description of the FAYZ. When turnign 15, a person can decide to go over, or stay. -- I think Mary is Balemic. -s
@@ -2993,20 +2992,20 @@ Grant, Michael. -- Hunger. -- HarperCollins, c2009. -- 590 p. -- ISBN 9780061449
 > 41 Sam takes Morphine, but it doesn't really help. Quinn comes to his help, and they take off. -s
 > 42 Nemesis is the gaiaphage's name for little Pete.  -s
 
-### &nbsp;
+### grease
 Grease: The Original Soundtrack from the Motion Picture. -- Computer data. -- New York: Polydor, 1991. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542
 
-### &nbsp;
+### great-b
 Great Britian. House of Commons. Select committee on the Public Administration. -- Fourth report. -- Computer data (1 file : 161 kb) -- [United Kingdom : Parliament, c2004]. -- Title from cover. -- File name: (9077.pdf) -- DBID 9077 -- DDC 342.42.
 
-### green2018
+### Green-c-v
 Green, Cara. -- Vegan instant pot cookbook. -- Computer data (1 file). -- [S.l.], 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B078VTKYJW. -- DDC 641.
 
-### &nbsp;
+### greenbaum-d-j
 Greenbaum, Dave. -- Journaling at the end of the day could increase your productivity. -- Computer data. -- Mode of Access: World Wide Web (http://lifehacker.com/1590024732). -- Title from resource. -- IN Lifehacker [website]. -- (Jun. 15, 2014). -- DDC 808.06692.
 > ... a recent study shows that 15 minutes of reflection at the end of the day leads to better productivity. -q
 
-### &nbsp;
+### greenbert-d-c
 Greenberg, David. -- Calvin Coolidge. -- Time Books, c2006. -- xviii, 202 p. -- ISBN 9780805069570. -- DDC 923.
 > Coolidge was fiercely unrevealing about his personal thoughts and feelings. -p. 7 -q
 > If you keep dead still, they will run down in three or four minutes. If you even cough or smile they will start up all over again. -Calvin Coolidge -p. 9 -q
@@ -3038,10 +3037,10 @@ Greenburg, Jan Crawford. -- Supreme Conflict. -- Penguin Press, 2007. -- 340 p. 
 >As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 -q -- 
 > cch. 4 about keennedy's drift to the left. -s -- 
 
-### &nbsp;
+### greene-m-a
 Greene, Mark A. -- More product, less process / Mark A. Greene, Dennis Meissner. -- Computer data (1 file : 520 kb). -- [S.l. : s.n., n.d.]. -- Title from p -- DDC -- File name: (10093.pdf). -- DBID 10093 -- DDC 025.
 
-### &nbsp;
+### greenwood-a-i
 Greenwood, Andrea. -- An introduction to the unitarian and universalist traditions / Andrea Greenwood, Mark W. Harris. -- Computer data (1 file). -- Cambridge University Press, c2011. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3367.pdf. -- DDC 289.1.Gregson-Williams, Harry. -- The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe / [by] Harry Gregson-Williams ... [et al.] -- Computer data. -- Burbank, CA: Walt Disney Records, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.542.
 
 ### greer2007
@@ -3050,7 +3049,7 @@ Greer, John Michael. -- The druid magic handbook. -- Red Wheel/Weiser, c2007. --
 ### greer2006
 Greer, John Michael. -- The druidry handbook. -- Red Wheel/Weiser, c2006. -- Title from resource, viewed Aug 29, 2020. -- Mode of Access: [World Wide Web](https://justinleetyler.github.io/greer2006). -- ISBN 1578633540. -- DDC 299.1.
 
-### &nbsp;
+### grigg-r-t
 Grigg, Richard. -- To re-enchant the world. -- Computer data (1 file : 213 KB). -- Xlibris, 2004. -- System requirements: Kindle app. -- Title from title page. -- AISN B007EC5CTG. -- DDC 289.1.
 > 2: Five (and more)-in-one: humanism, nature, social justice, the arts, a creative source/Abyss of the Universe -s
 > 4: Four basic patters of religion: Christendom -- Secularism -- inclusive pluralism -- exclusive pluralism. -o
@@ -3093,14 +3092,11 @@ Grigg, Richard. -- To re-enchant the world. -- Computer data (1 file : 213 KB). 
 > ... the Mysterious Depth... -q
 > ... can we help our society uncover the "divine," the sacred, the Mysterious Depth? -q
 
-### &nbsp;
+### guengerich-g-10
 Guengerich, Galen. -- 10 things I wish everyone knew about Unitarian Universalism. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374). -- Title from resource. -- IN onFaith [website]. -- (20--?). -- DDC 289.1
 > Unitarians played a pivotal role in founding the United States. -- Religiously speaking, we’re in our adolescence. -- We focus on what we know by experience. -- Our name refers to historic heresies that matter today. -- We don’t believe in the God many others don’t believe in either. -- We’ve revised our view of God — and of everything else. -- We believe that freedom is a consequence of belonging, not its antithesis. -- We’re the gratitude people. -- The discipline of gratitude calls us to worship together. -- The ethic of gratitude calls us to serve a broken and needy world. -o
 
-### &nbsp;
-Guide to camping in Massachusetts State Parks. -- [Mass. : DCR], 2010. -- 1 sheet. -- DBID 3133 -- DDC 796.54.
-
-### &nbsp;
+### guidon-e-a
 Guindon, Eric. -- Apprentice. -- Computer data. -- E.G., c2013. -- on 1 ASUS transformmer tablet. -- System requirements: kindle app. -- Title from cover. -- ASIN B00DA1O2UA. -- DDC 813
 > Who: Benen -- What: a wizard's apprentice -- When: 7 y/o, through his teens. -- Where: A place referred to as the four kingdoms. -- Why: Benen could see the stars and constellations in the sky when other kinds his age could not. -o
 > Benen, m. The protaganist. A boy. from a village called Oster's Gift. -f
@@ -3115,7 +3111,7 @@ Guindon, Eric. -- Apprentice. -- Computer data. -- E.G., c2013. -- on 1 ASUS tra
 > Oster, m, the wizard. -f
 > The movements and the incantations are crutches to help you channel the power properly. Once you’re used to a spell, you can gradually let those become more and more minimal until eventually you forgo them altogether. -q
 
-### &nbsp;
+### gulley-p-l
 Gulley, Philip. -- Living the Quaker way. -- Covergent Books, c2013. -- 212 p. -- ISBN 9780307955784. -- DDC 248.
 > Rather, they [people drawn to Quakerism] have found its focus on the inner life to be an antidote to the complexities and challenges of modern life. The Quaker values, what we call testimonies -- simplicity, peace, integrity, community, and equality -- offer an ethical and spiritual platform upon which people can happily build their lives. -p. 4 -q
 > ... it confirmed what had become a growing desire on their part: to live a liberated life, freed from multiple distractions. I suspect the word Simplify on their wall was their initial movement toward a more meaningful life. p. 27 -q
@@ -3604,10 +3600,10 @@ I
 ### iacovino-l-m
 Iacovino, Livia. -- Multi-method interdisciplinary research in archival science : the case of recordkeeping, ethics and law. -- Computer data. -- Title from resource. -- File name: (10072.pdf). -- DBID 10072. -- DOI 10.1007/s10502-005-2595-7 -- IN Archival Science. -- Vol. 4 (2004) -- DDC 025.17.
 
-### &nbsp;
+### iglasias-e-e
 Iglesias, Enrique. -- Enrique / [by] Enrique Iglasias and Whitney Houston. -- Computer data. -- Los Angeles: Interscope, 1999. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.67.
 
-### &nbsp;
+### illuminator
 The illuminator. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 0430. -- DDC 813.
 > 'Alas, celibacy - and platonic friendship- is all I can afford.' -p. 80 -q
 > 'Love? What is love... Groping,panting in the dark - the satisfaction of carnal lust.' -p. 79 -q
@@ -3623,48 +3619,42 @@ The illuminator. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 0430. -- DDC 813.
 > Harry Despenser -p. -f
 > Chapter 5 -p. -s
 
-### &nbsp;
+### inside
 Inside story : how coalition government works. -- Computer data. -- [S.l., s.n.], 2011. -- Title from p -- DDC -- File name: (10109.pdf). -- DBID 10109 -- DDC 321.
 
-### &nbsp;
+### instructions-d
 Instructions to depository libraries. -- Computer Data (1 file : 719 kb) -- [United States] : U.S. G.P.O., 2000. -- Title from resource. -- File name: (0067.pdf) -- DBID 0067 -- DDC 025.
 
-### &nbsp;
+### integrated
 Integrated Resources. -- Computer data (1 file : 6.5 kb) -- [S.l., n.d.], 2008. -- Title from resource. -- File name: (7067.pdf) -- DBID 7067 -- DDC 025.3.
 
-### &nbsp;
+### international-d
 International Docking System Standard (IDSS) Interface Definition Document (IDD). -- Computer data (1 file : 1 mb) -- [S.l., s.n.], 2010. -- Title from cover. -- File name: (9060.pdf) -- DBID 9060 -- DDC 629.
 
-### &nbsp;
+### international-s
 International standard bibliographic description (ISBD) / recommended by the ISBD Review Group. -- Consolidated ed. -- Computer file. -- [S.n.], 2010. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3259.pdf. -- DDC 025.3.
 
-### &nbsp;
-Ipswich Public Library [homepage]. -- Computer data. -- Ipswich Public Library, [2012?- ] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ipswichlibrary.org) -- DDC 027.4.
-
-### &nbsp;
+### isad
 ISAD (G). -- 2nd ed. -- Computer data (1 file : 256 kb). -- Ottawa : ICA, 2000. -- Title from cover. -- File name: (0455.pdf). -- ISBN 096960355X. -- DBID 0455 -- DDC 025.3.
 
-### &nbsp;
+### isham-m-v
 Isham, Mark. -- Vapor Drawings. -- Computer data. -- Stanford, CA: Windham Hill Records, 1983. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67
 
-### &nbsp;
+### islam-y-o
 Islam, Yusuf. -- An Other Cup. -- Computer data. -- New York, NY: Atlantic, 2006. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.64.
-
-### &nbsp;
-Iving reviews in solar physics [database]. -- Computer data (1 file : 60.8 kb) -- [S.l.] : Max-Planck-Gesellschaft, [19--]. -- Mode of Access: Gopher(gopher://justinleetyler.com/0/databases/archive%20of%20european%20integration.mrk) -- Also avialable on the World Wide Web (http://solarphysics.livingreviews.org/) -- DBID 3106 -- DDC 539.016
 
 J
 ---
 
-### &nbsp;
+### jabr-f-w
 Jabr, Ferris. -- Why your brain needs more downtime. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from p -- DDC -- Filename: 3295.txt. -- Also available on the World Wide Web (http://www.scientificamerican.com/article.cfm?id=mental-downtime). -- IN Scientific American [website].-- (Oct. 15, 2013). -- DDC 647.7
 > For 92 days he lived at Insight Meditation Society’s Forest Refuge facility... He spent most of his time meditating, practicing yoga and walking through fields and along trails in surrounding farmland and woods... -q
 > Downtime replenishes the brain’s stores of attention and motivation, encourages productivity and creativity, and is essential to both achieve our highest levels of performance and simply form stable memories in everyday life. -q
 
-### &nbsp;
+### jacabs-a-g
 Jacobs, Alan. -- Google-trained minds can't deal with terrible research databases IU. -- Computer data (1 file : 298 kb) -- Title from resource. -- File name: (10160.pdf) -- DBID 10160. -- IN The Atlantic. -- (Feb. 29, 2012) -- DDC 808.
 
-### &nbsp;
+### jacobs-d-c
 Jacobs, Donald R. -- Consider Jesus. -- Scottdale, Pa. : Herald Press, c2006. -- 367 p. -- ISBN 0836193474 -- DDC 242.
 > Chapter 1 : A living tradition -p. 1-18 -o
 > The experience of salvation coming from God through Jesus makes him fundamentally interesting. -p. 4 -q
@@ -3679,10 +3669,10 @@ Jacobs, Donald R. -- Consider Jesus. -- Scottdale, Pa. : Herald Press, c2006. --
 > '? love is heart of the reign of God; not an easy love but a self-giving love on the model of God. Such love grounds the law, puts it in correct perspective, and fulfills it. Loving this way, Jesus creatres a liberating life-style and shows a wonderful freedom to do good.' -p. 56 -q
 > Chapter 6 : Liberation Christology -p. 83- -o
 
-### &nbsp;
+### jeagher-p-o
 Jaegher, Paul de. -- One with Jesus. -- Westminster, Md. : Christian Classics, 1993. -- xv, 93 p. -- DDC 248.
 
-### &nbsp;
+### james-p-c
 James, P. D. -- The children of men. -- Vintage books, c1992.  -- 241 p. -- ISBN 0307275434. -- DDC 813
 > Helena: Theo's ex-wife. -f
 > Rupert: Helena's new husband. -f
@@ -3703,13 +3693,13 @@ James, P. D. -- The children of men. -- Vintage books, c1992.  -- 241 p. -- ISBN
 > From being the potent symbol of continuity and tradition, [the king] has become an unemployable archaic reminder of what we have lost.  -p. 89 -q
 > Security, comfort, pleasure. Xan and his Council would approve. p. 118 -1
 
-### &nbsp;
+### jantsch-j-h
 Jantsch, John. -- How to build a remarkable business by focusing on the total customer experience. -- Computer data (1 file : 1.6 kb) -- [S.l.] : Ducktapemarketing.com, [2012?] -- Title from cover. -- File name: (3126.pdf) -- DBID 3126 -- DDC 330.
 
-### &nbsp;
+### jefferson-t-j
 Jefferson, Thomas. -- The Jefferson Bible. -- Computer data (1 file : 275 KB) . -- Sandbox Press, 2011. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- ISBN 9781937810092. -- DDC 226.
 
-### &nbsp;
+### jefferts-k-w
 Jefferts Schori, Katharine. -- A wing and a prayer. -- Harrisburg, PA : Morehouse Pub., c2007. -- 169 p. -- ISBN 9780819222718. -- DBID 0027. -- DDC 252.
 > 'Breathe deeply, know the wind of God is always beneath your wings, receive holy spirit, and change the world.' -p. 4 -q
 > Is there anyone we feel we have no need of? A good spiritual exercise might be to figure out where and howw we can reach out to someone we would rather ignore. -p. 10 -q
@@ -3718,29 +3708,29 @@ Jefferts Schori, Katharine. -- A wing and a prayer. -- Harrisburg, PA : Morehous
 > The ministry we receive at baptism calls us to transform our communities into something that looks more like the reign of God. -p. 22 -q
 > We need leades in the church -- and I insist -p. 23 -q
 
-### &nbsp;
+### jenkins-d-s
 Jenkins, Dennis R. -- Space Shuttle. -- [S.l. : s.n.], c2002. -- 513 p. -- ISBN 0963397451 -- DDC 629.
 
-### &nbsp;
+### jenkins-p-j
 Jenkins, Philip. -- Jesus wars. -- Computer data (1 file). -- [S.l.] : HarperColins e-books, c2010.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3040. -- ISBN 9780061981418. -- DDC 270.
 
-### &nbsp;
+### jenkins-p-l
 Jenkins, Philip. -- The lost history of Christianity. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 270.
 
-### &nbsp;
+### jesus
 Jesus, the compassion of God. -- Computer data (1 file : 24 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (1364.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1364.txt) -- DBID 1364 -- DDC 232.
 
-### &nbsp;
+### joel-b-b
 Joel, Billy. -- Billy Joel Greatest Hits: Vol. III. -- Computer data. -- New York, NY: Sony Music Entertainment; Manufactured by Columbia Records (452, 1997. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64
 
-### &nbsp;
+### joel-b-gh
 Joel, Billy. -- Greatest Hits, Volume I & Volume II. -- Computer data. -- New York, NY: Columbia, 1985. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64
 
-### &nbsp;
+### joel-b-ghc
 Joel, Billy. -- The Greatest Hits Collection: Vol. I, II & III. -- Computer data. -- Australia: Columbia/Sony Music Entertainment (Australia, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
-Jim Berry looking through binoculars. -- Computer data (1 file). -- 2014 May. -- Title supplied by cataloger. -- Mode of Access: JPG file reader; USB drive. -- DBID 3351. -- DDC 779.
+### jim-b
+[Jim Berry looking through binoculars]. -- Computer data (1 file). -- 2014 May. -- Title supplied by cataloger. -- Mode of Access: JPG file reader; USB drive. -- DBID 3351. -- DDC 779.
 
 ### john-e-p
 John, Elton. -- Peachtree Road. / by Elton John and Bernie Taupin. -- Computer data. -- New York, N.Y: Rocket/Universal Records, 2004. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66
@@ -3776,29 +3766,29 @@ John, Elton. -- Reg Strikes Back / [by] Elton John and Bernie Taupin. -- Univers
 ### john-e-c
 John, Elton. -- The Captain & the Kid / [by] Elton John and Bernie Taupin. -- Computer data. -- Santa Monica, Calif: Interscope, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-### &nbsp;
+### john-a-l
 Johnson, Alexandra. -- Leaving a trace. -- Boston : Little, Brown, 2001. -- viii, 242 p. -- DBID 3072 -- DDC 808.06692.
 
-### &nbsp;
+### johnson-c-i
 Johnson, Clay A. -- The information diet. -- Shebastopol, CA : O'Reilly Media, c2012. -- ix, 150 p. -- ISBN 9781449304683. -- DBID 3013 -- DDC 303.
 
-### &nbsp;
+### johnson-p-h
 Johnson, Paul. -- History of the Jews. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- 1. 909.
 
-### &nbsp;
+### johnston-r-r
 Johnston, Robert K. -- Reel spirituality. -- 2nd ed., Rev. and expanded. -- Grand Rapids, Mich. : Baker Academic, c2006. -- 351 p. -- 9780801031878 -- DDC 261.
 
-### &nbsp;
+### joint
 Joint Steering Committee for the development of RDA. -- Outcomes of the Meeting of the Joint Steering Committee. -- Computer data (1 file : 191 kb) -- [S.l.] : JSC, 2008. -- Title from p -- DDC -- File name: (7064.pdf) -- DBID 7064 -- DDC 025.3.
 
 ### Jorgensen-n-g
 Jorgensen, Neil. -- A guide to New England’s landscape. -- [1] v. -- DDC 551.
 > Read 2021-11. -- Grade C. -- A non-fiction book about the landforms and forest ecology of New England. -s
 
-### &nbsp;
+### journey
 Journey into the hidden web: a guide for new reseachers. -- [S.n., n.d.] -- Title from resource, viewed Jan. 28, 2020. -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/). -- DDC 001.
 
-### &nbsp;
+### jung-p-m
 Jung, Patricia Beattie. -- Moral issues and Christian responses. -- 7th ed. -- Austria; Belmont, CA : Thomas/Wadsworth, c2003. -- xvi, 463 p. -- ISBN 0155058959 -- DDC 241.
 > It is not wrong to want to live better -p. 406 -q
 > The Church and Marriage: Looking for a New Ethic -by Jean Ponder SotoA. The Second Vatican Council stated two reasons for sex 1. The procreation and education of children 2. The mutual love and support of the spousesB. Our concept of marriage comes from greco-roman society -- DDC A citizens duty to have children 2. Marriage a social contract.C. Sexual Intimacy as Aestetic 1. Something like art -p. 55 -o
@@ -3848,22 +3838,22 @@ Junger, Sebastian. -- Tribe. -- Twelve, c2016. -- xvii, 168 p. -- ISBN 978145556
 K
 ---
 
-### &nbsp;
+### kater-p-i
 Kater, Peter. -- In a Dream / [by] Peter Kater ... [et al]. -- Computer data. -- S.l.: Q-rious Music, 2009. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64.
 
-### &nbsp;
+### kato-j-z
 Kato, John. -- Zen -- Computer data (1 file). -- J.K., c2014.. -- System requirements: Kindle app. -- Title from title page. -- ASIN B00IVF7RDO. -- DDC 294.3.
 
-### &nbsp;
+### kanaparti-p-d
 Kanaparti, Priya. -- Dracian legacy. -- 1st ed. -- Computer data (1 file). -- [S.n.], 2013.. -- System requirements: Kindle app. -- Title from title page. -- DDC 813.
 
-### &nbsp;
+### kasser-t-h
 Kasser, Tim. -- The high price of materialism. -- Cambridge, Mass : MIT press, c2002. -- xvi, 149 p. -- ISBN 026211268X. -- DBID 3115 -- DDC 339.4.
 
-### &nbsp;
+### kayak
 Kayak. -- Computer data. -- [S.l.] : Kayak.com, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web (http://www.kayak.com) -- DDC 912.
 
-### &nbsp;
+### kazin-m-a
 Kazin, Michael. -- American dreamers. -- Alfred A. Knoph, 2011. -- xix, 329 p. -- ISBN 9780307266286. -- DDC 320.
 > It is a sttled maxim with me... that the existing public sentiment on any subject is wrong. -Elizabeth Cady Stanton. -p. 38 -q
 > As long as property is unequal... then those who possess it will live on the labors of others. -Thomas Skidmore -p. 4 -q
@@ -3883,10 +3873,10 @@ Kazin, Michael. -- American dreamers. -- Alfred A. Knoph, 2011. -- xix, 329 p. -
 > MARGARET SANGER, f. 20th c., f, American. Nurse, feminist. -- coined "birth control"
 > Thus the dream of a joyful march to socialist democracy ws buried in the mire of government crackdowns and internal conflict. -p. 153 -q
 
-### &nbsp;
+### keating-r-10
 Keating, Ronan. -- 10 Years of Hits. London: Wise, 2004. -- on 1 external hard drive. -- DDC 781.64.
 
-### 3014
+### keen-a-c
 Keen, Andrew. -- The cult of the amateur / [by] Andrew Keen. -- New York : Doubleday, c2007. -- 228 p. -- ISBN 978038552080. -- DBID 3014 -- DDC 303.
 > Read ? -- Grade ? -r
 > Talent, as ever, is a limited resource, the needle in today's digital haystack  -p. 30 -q
@@ -3962,7 +3952,7 @@ Kellar, Melanie. -- A Goal-based Classification of Web Information Tasks. -- [1]
 > These interined convictions - divine prpovidence and the brotherhood of man - are the two premises of his {Marcus Aurelius] life. From them he derives a litany of virtues that he praises throughout the Meditations: courtesy, piety, serenity, generosity, simplicity, love, duty, justice, industriousness, charity, kindliness, and unselfconscious diginity. -p. 290 -q
 > 'Life is short', Marcus warns, 'and this early existence has but a single fruit to yield - holiness within and selfless action without.' -p. 291 -q
 
-### &nbsp;
+### kellogg-m-k
 Kellogg, Michael K. -- Three questions we never stop asking. -- Amherst, N.Y. : Prometheus Books, 2010.  -- 282 p. -- ISBN 9781616141868. -- DBID 3145. -- DDC 100
 > I. What can I know? -- II What may I hope? -- III What ought I do? -o
 > Ch. 5: NIETZSCHE AND THE DEATH OF GOD: A. Life (1. Father was a pastor -- 2. Schooling -- 3. Medical assistant int he Franco-Prussian War -- 4. Professorship and resignation -- 5. A 'wonderer'of the earth; insanity.) -- B. The Death of God (1. Belief in absolute truth and value is untenable. -- 2. Creation of values by man -- 3. 'A will to power and self-overcoming') -- C. The genealogy of morals. (1. The dismissal of universal values (Both from religion and from reason See ON THE GENEALOGY OF MORALS) -- 2. The concept of ressentiment (a. The weak get jealous of the power -- b. Christianity turns 'traditional' morality on it's head ( 1) as in The meek shall inhearite the earth.) -- 3. The Noble Man -- 4. Nietzsche finds so objectionable in Christian morality (a. revenge -- b. punishment -- c. retribution -- d. reward)) -- D. Overcoming nihilism. (1. Caused by abandoning an absolute fixed-point.) -- E. The philosopher of the future. (1. Challenging beliefs and value -- 2. ON THE THREE METAMORPHOSES (a. The camel- a long disipline -- b. The lion - a fierse rebellion -- c. the child- a new beginning) -- 3. Becoming who you are! (a. A pricute of one, not of society or institution)) -o
@@ -3998,13 +3988,13 @@ Kellogg, Michael K. -- Three questions we never stop asking. -- Amherst, N.Y. : 
 > Their [a penal code/morality] origins lie instead in altogether human concepts of retribution and revenge. -p. 146 -q
 > The religious person is an exception in every religion. -p. 147 -q
 
-### &nbsp;
+### kelsey-m-c
 Kelsey, Morton T. -- Companions on the inner way. -- Crossroad, 1985. -- xiii, 222 p. -- ISBN 0824505603 -- DDC 248.
 
-### &nbsp;
+### keeneally-t-a
 Keneally, Thomas. -- Abraham Lincoln. -- Viking, 2003. -- 175 p. -- (Penguin Lives) -- ISBN 0670031755. -- DBID 3080 -- DDC 923.3.
 
-### &nbsp;
+### kennedy-r-g
 Kennedy, Roger G. -- Mr. Jefferson's lost cause : land, farmers, slavery, and the Louisiana Purchase. -- Oxford University Press, 2003. -- xv, 350 p. -- ISBN 0195153472. -- DDC 973.4
 > How much better to have every 160 acres settled by an  able-body militia man, than by purchasers with their hordes of Negroes, to add weakness instead of strength. - T.J. to Albert Galatin, Dec. 24, 1807.
 > One reason for Jefferson's bias against cities in general, and against industrial cities expecially, was surely that even in the South cities were places where black articians congregated... Black articians had repeatedly led revolts to overturn slavery... Jefferson could not be expected to look beyond the conventions he feared from the presence of free blacks everywhere in the South to envision a future when a flight of blacks to cities reduced the role of rural slavery and thus not only increase the resilience of yeoman agrarianism but also provided urban markets close by. -p. 53-4 -q
@@ -4431,29 +4421,29 @@ Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- Comp
 M
 ---
 
-### &nbsp;
+### m-h-r
 M.H. -- The right way to write in a journal. -- Computer data (1 file : 81 kb.) -- Title from resource. -- File name: (10058.pdf). -- DBID 10058. -- IN Shape. -- Vol. 24, no. 2 (Oct. 2004) -- DDC 808.06692.
 
-### &nbsp;
+### ma-y-c
 Ma, Yan. -- Cataloging internet resources. -- [S.l. : s.n.], 2000. -- Title from resource. -- Mode of Access: World Wide Web ( http://www.uri.edu/personal/yanma/550/cataloginginternet2/ ) -- DBID 3077 -- DDC 025.3.
 
-### &nbsp;
+### mackey-c-m
 MacKay, Charles. -- Memoirs of extraordinary popular delusions and the madness of crowds. -- Computer data (1 file). -- London : Office of the National Illustrated Library, 1852. -- Title from title page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3064 -- DDC 001.
 
-### &nbsp;
+### macleod-n-g
 MacLeod, Norman. -- The great extinctions. -- Firefly books, c2013. -- 208 p. -- ISBN 9781770851870. -- DDC 576.
 
-### &nbsp;
+### madden-d-o
 Madden, Diana. -- An overview of the USMARC archival and manuscripts control format. -- Computer data (1 file : 1 mb) -- on 1 external hard drive. -- Title from resource. -- File name: (8444.pdf) -- DBID 8444. -- IN S.A. archives journal. -- Vol. 33 (Jan. 1991)
 > What happened down in the dungeons between you and Professor Quirrel is a complete secret, so, naturally, the whole school knows. -Dumbledore. -p. 368 -q
 
-### &nbsp;
+### madela
 [Madela - "No one is born..." poster]. -- Computer data. -- [S.n., 2013]. -- on 1 external hard drive. -- System requirements: USB drive; jpg file reader. -- Title supplied by cataloger. -- Filename: 3307.jpg. -- DBID 3307. -- DDC 170.
 
-### &nbsp;
+### maharaj-m-h
 Maharaj, Maharishi Santsevi Ji. -- Harmony of all religions /  Maharishi Santsevi Ji Maharaj; translated from Hindi by Veena Rani Howard. -- Computer data (1 file). -- Santmat Society, c2006. -- System requirements: PDF file reader, USB drive. -- Title from title page. -- Filename: 3358.pdf. -- DDC 290.
 
-### &nbsp;
+### malernan-j-b
 Malernan, Josh. -- Bird box. -- Computer data (1 file). -- [S.n., n.d.]. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- DDC 813.
 > Henry Martin, the baby dady. -f
 > 2 Malie is pregnant, and something is happening in Russia and Alaska. -s
@@ -4481,7 +4471,7 @@ Malernan, Josh. -- Bird box. -- Computer data (1 file). -- [S.n., n.d.]. -- Titl
 > 42 Gary, hding in the basement with Don, convinces don to take the curtain down. Meanwhile, Olympia and M. give birth. Everone dies except M and the babies. then, rick calls with instructions to the new place.
 > The book ends with M and the two kids arriving at the new place, populated initially by the blind, and people who destroyed their eyes. -s
 
-### &nbsp;
+### mandel-e-s
 Mandel, Emily St. John. -- Station eleven. -- Computer data. -- Alfred A. Knopf, 2014. -- Title from cover. -- Mode of Access: World Wide Web (https://read.amazon.com/?asin=B00J1IQUYM). -- DDC 808.
 > 5 The guard calls Arthurs wife. -s
 > 6 The world colapses. -s
@@ -4521,31 +4511,31 @@ Mandel, Emily St. John. -- Station eleven. -- Computer data. -- Alfred A. Knopf,
 > Miranda gives the comics to Arthur, and he gives them to Tonya. -f
 > The Symphony goes to the Airport -s
 
-### &nbsp;
+### mandelson-p-t
 Mandelson, Peter. -- The third man. -- Computer data. -- [S.l.] : Harper Press, 2010.. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3042 -- DDC 320.
 
-### &nbsp;
+### manilow-b-u
 Manilow, Barry. -- Ultimate Manilow. -- Computer data. -- New York, NY: Arista, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 782.
 
-### &nbsp;
+### manjarrez-c-w
 Manjarrez, Carlos A. -- Who's in the queue? / by Carlos A. Manjarrez and Kyle Schoembs. -- Computer data (1 file : 469 kb) -- Washington, DC : Institute of Museums and Library Services, 2011. -- on 1 external hard drive. -- Title from cover. -- File name: (10112.pdf) -- DBID 10112 -- DDC 025.5.
 
-### &nbsp;
+### manley-w-w
 Manley, Will. -- Winning the budget wars. -- Computer data (1 file : 113 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (9048.pdf) -- DBID 9048 -- IN American Libraries. -- (Jun/Jul. 2010) -- DDC 025.1.
 
-### &nbsp;
+### mann-t-o
 Mann, Thomas. -- "On the record" but off the track. -- Computer data (1 file : 336 kb) -- [S.l. : s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- Mode of Access: World Wide Web (http://www.justinletyler.com/library/7000.pdf). -- DBID 7000 -- DDC 025.3.
 
-### &nbsp;
+### map
 Map and Guide : White Mountains and New Hampshire Attractions 2012; highways and byways; listings for dinning, lodging, shopping scenic tours and more; also, statewide attractions inside. -- Scale indeterminable-- [S.l. : hite Mountains New Hampshire], 2012. -- 2 maps on 1 sheet. -- DBID 3124 -- DDC 912.742.
 
-### &nbsp;
+### marlow-f-h
 Marlow, Frank. -- The Hadza : hunter-gatherers of Tanzania. -- Berkeley : University of California Press, c2010. -- x, 325 p. -- ISBN 9780520253414 -- DDC 305.
 
-### &nbsp;
-Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title from resource and supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443 -- DDC 090.
+### marriage
+Marriage Licence [between George Thompson and Julie Jacobs]. -- Computer data (1 file : 2.4 mb) -- 1923 Aug. 1st. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (1443.pdf) -- DBID 1443 -- DDC 090.
 
-### &nbsp;
+### marsden-j-t
 Marsden, John. -- Tomorrow, when the war began. -- Scholastic Inc., c1993. -- 277 p. -- ISBN 0439829100. -- DDC 823.
 > 1 introduction to characters. A group of 7 teens plan to go camping. -s
 > 2 hiking. -s
@@ -4559,22 +4549,22 @@ Marsden, John. -- Tomorrow, when the war began. -- Scholastic Inc., c1993. -- 27
 > All these words, words like 'evil' and 'cicious', they meant nothing to nature. Yes, evil was a human invention. -p. 235 -q
 > 20 They plan on blowing up the bridge. -s
 
-### &nbsp;
+### marton-j-j
 Martin, James, S.J. -- The Jesuit guide to (almost) everything. -- New York, NY : HarperOne, c2010. -- vii, 420 p. -- ISBN 9780061432682. -- DBID 10116 -- DDC 248.
 
-### &nbsp;
+### martucci-j-p
 Martucci, Jennifer. -- Planet Urth / [Jennifer and Christopher Martucci]. -- 1st ed. -- Computer data (1 file). -- [The authors], c2013. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- DDC 813.
 
-### &nbsp;
+### maziarek-j-s
 Maziarek, Jeff. -- Spirituality simplified. -- Computer data (1 file : 397 KB). -- Spirit Simple Enterprises, 2012. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from amazon.com desc. -- ASIN B007AMMYG4. -- DDC 210.
 
-### &nbsp;
+### massa-o
 Massachusetts outdoor recreation map. -- Scale [1:316800] and [1:158400]. -- [Mass.] : DCR, [20--?] -- 2 maps on 1 sheet. -- DDC 912.744.
 
-### &nbsp;
+### mass-s
 Massachussetts Society of Certified Public Accountants, Inc. Federal Tax Committee. -- The record retention guide. -- Computer data (1 file : 657 kb). -- Massachussets Society of CPAs, Inc., c2004. -- On external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3263.pdf. -- DDC 651.5
 
-### &nbsp;
+### mastbaum-b-c
 Mastbaum, Blair. -- Clay's way. -- Los Angeles : Alyson Books, 2004. -- 246 p. -- ISBN 1555838197 -- DDC 813.
 > I don't know how to seem normal. I need a prop. -p. -q
 > My dick is the center of my existence -p. 112 -q
@@ -4584,7 +4574,7 @@ Mastbaum, Blair. -- Clay's way. -- Los Angeles : Alyson Books, 2004. -- 246 p. -
 > I think it's disgusting that I'm related to them. They envy dudes that own yachts but don't have any books on the shelves. -p. 21 -q
 > I'm so trapped inside my mind I didn't even notice this shit all over me. -p. 5 -q
 
-### &nbsp;
+### masur-l-c
 Masur, Louis P. -- The civil war. -- New York, NY : Oxford University Press, c2011. -- xii, 118 p. -- ISBN 9780199740482. -- DBID 3074 -- DDC 973.7.
 > In the late eighteenth century, when Americans spoke of their country they still meant their state, not the nation.  -p. 4 -q
 > From 1840 to 1850, the population of the United States increased from seventeen to twenty-three million. There were more than three million slaves, half a million more than ten years earlier.  -p. 9 -q
@@ -4593,28 +4583,28 @@ Masur, Louis P. -- The civil war. -- New York, NY : Oxford University Press, c20
 > Ralph Waldo Emerson: 19th c., m., Founder of transcendentalism and public lecturer.  -p. 11 -f
 > Hartford Convention: 19th c. American (New England. A federalist movement for succession in response to anti-federalist (particularly, Jefferson's and Madison's) policies.  -p. 5 -f
 
-### &nbsp;
+### mattewson-j-m
 Matthewson, Jennifer. -- The moments of your life. -- Computer data (1 file : 5.5 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10134.PDF) -- DBID 10134. -- IN Writer. -- Vol. 117, no. 3 (Mar. 2004) -- DDC 808.
 
-### &nbsp;
+### maur-d-c
 Maurer-Mathison, Diane V. -- Chapter 2 : Mastering folded-paper designs. -- Computer data (1 file : 8.6 kb) -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (10124.pdf) -- DBID 10124. -- IN Maurer-Mathison, Diane V. -- Paper in three dimensions. -- New York : Watson-Guptill, 2006. -- ISBN 9780823067787 -- DDC 736.98.
 
-### &nbsp;
+### maxwell-m-m
 Maxwell, Robert L. -- Maxwell's guide to authority work. -- Chicago : American Library Association, 2002. -- xi, 275 p. -- ISBN 0838908225 -- DBID 7060 -- DDC 025.3.
 
-### &nbsp;
+### mayes-l-d
 Mayes, L.M. -- Dark days. -- Computer data (1 file : 470 KB). -- BB Books, 2013.. -- System requirements: Kindle app. -- Title from amazon.com desc. -- AISN B00BNZDOFE. -- DDC 813.
 
-### &nbsp;
+### mayes-d-l
 Mayes, D.R. -- The last shaman. -- Computer data (1 file : 326 kb). -- [S.n., n.d.].. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### mccahill-m-e
 McCahill, Mark P. -- Evolution of Internet Gopher / Mark P. McCahill, Farhad X. Ankesaria -- Computer data (1 file) -- System requirements: USB drive; PDF file reader. -- Title from p -- DDC -- File name: 8373.pdf -- IN Journal of Universal Computer Science. -- Vol. 1, no. 4 (1995) -- DDC 004.69.
 
-### &nbsp;
+### mccammon-j-a
 McCammon, Jason. -- The ancient lands. -- Computer data (1 file). -- Brown-Eyed Dreams LLC., 2009. -- System requirements: Kindle app. -- Title supplied by cataloger. -- AISN B002YX0NIU. -- DDC 813.
 
-### &nbsp;
+### mccarthy-c-r
 McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 9780307476302. -- DDC 813.
 > A person who had no one would be well advised to cobble together some pasable ghost. -57 -q
 > All of this like some ancient anointing. So be it. Evoke the forms. Where you've nothing else construct ceremonies out of the air and breathe upon them. -p. 74 -q
@@ -4628,10 +4618,10 @@ McCarthy, Cormac. -- The road. -- Vintage Books, c2006. -- 287 p. -- ISBN 978030
 > You have to carry the fire. It's inside you. It was always there. I can see it. -p. 279 -q
 > If I'm not here you can still talk to me. You can talk to me and I'll talk to you. You'll see. -p. 279 -q
 
-### &nbsp;
+### mccarthy-i-b
 McCarthy, Ingrid. -- The black pearl of Osis. -- Computer data (1 file : 318 kb). -- [S.n., n.d.].. -- System requirements: kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### mccartney-j-l
 McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPublishers, 2018. -- 170 p. -- ISBN 9780008313692. -- DDC 306
 > The Slow Book Movement advocates reading at a relaxed pace - the idea being that slow reading increases pleasure, insight and comprehension. -p. 86 -q
 > Random yet practicle tips to slothify your daily life: 1. Drive below the speed limit. 2. Buy a pair of those fuzzy, shearling-lined shoes that double as slipers.  3. Remove one clock from your home. 4. Do a bit of day drinking. 
@@ -4641,79 +4631,75 @@ McCartney, Jennifer. -- The little book of sloth philosophy. -- HarperCollinsPub
 > It's OK to just exist in the world sometimes without seeking the spotlight - just watching, observing and learning. p. 141 -q
 > They die in a place they love and cherish (a tree), clinging to the things they probably love most (a branch). What more could we hope for when it comes times for our own passing? -p. 168 -q
 
-### &nbsp;
+### mccoo-m-w
 McCoo, Marilyn. -- White Christmas. -- Computer data. -- Santa Monica, CA: Laserlight Digital, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
-### &nbsp;
+### mcdonald-d-c
 McDonald, D. R. -- Cape Breton Road. -- 1st ed. -- New York : Harcourt, c2000. -- 288 p. -- ISBN 0151005230 -- DDC 813.
 
-### &nbsp;
+### mcdonald-m-i
 McDonald, M.P. -- Infection. -- Computer data (1 file). -- MPMcD Publishing, 2016. -- System requirements: Kindle app. -- Title from amazon.com. -- AISN B01FYBBC2Y. -- DDC 813.
 
-### &nbsp;
+### mcelhaney-s-m
 McElhaney, Scott. -- The mystic saga. -- Computer data (1 file : 518 KB). -- Superluminal, 2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### mcguffie-d-h
 McGuffie, Duncan. -- The hymn sandwich : a brief history of Unitarian worship. -- Computer data (1 file). -- [S.n., 19--]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3366.pdf. -- DDC 289.1
 
-### &nbsp;
+### mckey-b-c
 McKay, Brett. -- The cabinet of invisible counselors / Brett McKay, Kate McKay. -- Computer data (1 file : 22.5 kb) -- Title from resource. -- on 1 external hard drive. -- File name: (10165.txt) -- DBID 10165. -- IN The Art of Manliness -- DDC 646.7
 
-### &nbsp;
+### mckay-b-l
 McKay, Brett. -- The libraries, studies, and writing rooms of 15 famous men / by Brett & Kate McKay. -- Computer data (1 file : 13.7 mb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3068.pdf). -- DBID 3069. -- IN The art of manliness [website]. -- (June 19, 2012) -- DDC 690.
 
-### &nbsp;
+### mckay-b-h
 McKay, Brett. -- How and why to become a lifelong learner. -- Computer data. -- Mode of Access: World Wide Web (http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/). -- Title from resource. -- IN The art of Manliness [website]. -- (Mar. 18, 2013). -- DDC 374.
 > Why become a lifelong learner? 1) You'll earn more 2) You'll be more interesting and charismatic. 3) You'll be a better leader. 4) You'll be a better leader. 5) You'll be independent and handy. 6) It keeps your brain healthy 7) You'll feel more satisfied with life 8) You'll become more human.
 
-### &nbsp;
+### mckenna-c-l
 McKenna, Caitlin. -- Logging off. -- Computer data (1 file : 552 KB). -- C. McKenna, c2006, 2012. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ASIN B005QCC6KE. -- DDC 813
 
-### &nbsp;
+### mckennitt-l-w
 McKennitt, Loreena. -- A Winter Garden: Five Songs for the Season. -- Computer data. -- Burbank, CA: Warner Bros, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### mckennitt-l-a
 McKennitt, Loreena. -- An Ancient Muse. -- Computer data. -- New York: Verve Music Group, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### mckennitt-l-p
 McKennitt, Loreena. -- Parallel Dreams. -- Computer data. -- Stratford, Ontario: Quinlan Road Limited, 1989. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### mckennitt-l-b
 McKennitt, Loreena. -- The Book of Secrets. -- Computer data. -- Burbank, Calif: Warner Bros, 1997. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- on 1 external hard drive. -- DDC 781.67
 
-### &nbsp;
+### mckibben-b-e
 McKibben, Bill. -- Deep economy. -- New York : Times Books, 2007. -- 361 p. -- ISBN 9780805076264. -- DBID 3111 -- DDC 330.9
 
-### &nbsp;
+### mckibben-n-c
 McKibben, Nancy. -- The chaos protocol. -- Computer data (1 file : 525 KB). -- Malmesbury Books, 2012.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B009N83PSO. -- DDC 813.
 
-### &nbsp;
+### mclaughin-b-w
 McLaughlin, Brett. -- What is HTML5? -- Computer data (1 file). -- [S.l. : s.n., 2011].. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043 -- DDC 005.
 
-### &nbsp;
+### mclennan-s-c
 McLennan, Scotty. -- Christ for Unitarian Universalist. -- Computer data. -- Skinner House, 2016. -- System requirements: Kindle app. -- Title from title page. -- ISBN 9781558967724. -- DDC 232.
 > Borg ... finds ... Jesus does not about being the messiah ... the pre-easter Jesus was a Jewish Prophet (ad mystic, wisdom teacher, leader, and mevemtn builder), but but the jewish messiah. -q -- He was a Jewish Prophet, who proclaimed the in-breaking kingdom of God, which was to change the course of human history. He was also a mystic, wisdom teacher, and healer. -q -- He stood on the side of the poor and oppressed against the domination system of the larger society. -q -- Christmas brings us back to the crib of life to start over: aware of what has gone before, conscious that nothing can last, but full of hope that this time, finally, we can learn what it takes to live well grow to full stature of soul and spirit, get it right. Joan Chittister. -q -- Why ... celebrate christmas? ... we believe in songs that are born in the hearts and minds of people. WE believe that some stories deserve to lie forever because of what they tell of uf ourselves. -q -- Oregin found celebrations of births objectioable, too pagan. -q -- Shepherds, helping watch flocks by night in the fields, ocured not in winter, but summer. -f -- Jesus... had a special capacity to help humanity rise to a higher level of love and wisdom. -q -- Incarnation : an embodyment of those spiritual gifts in human life. -q -- Move from selfishness to selflessness, from pettiness to transcendence ... we can help others lift theirs. -q Their music [christmas carols] is wonderful, they fill us with joy, they are infused with a feeling of hospitality and goodwill, which is what Christianity as a whole insists upon. -q -- Worldly power comes and goes, but the power that eminates from this poor baby's birth last forever. -q -- Ch 2: Jesus as the one who so completely incarnates spiritual gifts. -- How does this help us get through the day or experience a better tomorrow? -q -- 
 
-
-### &nbsp;
+### mcmahan-j-p
 McMahan, Jennifer L. -- Public records resources online. -- Computer data. -- [S.l. : J. McMahan], 2011. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10111.pdf). -- DBID 10111 -- DDC 011.53.
 
-### &nbsp;
+### mcnally-s-r
 McNally, S. Matthew. -- The reclaiming. -- Computer data (1 file). -- Omnifisc, 2013.  -- on ASUS tranformer tablet. -- System requirements: kindle app. -- Title from title page. -- ASIN B00E806C0G. -- DDC 813.
 
-### &nbsp;
+### mead-c-2
 Mead, Charles. -- 20XX. -- Computer data (1 file : 672 KB). -- C. Mead, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B00ACLCXV6. -- DDC 813
 
-### &nbsp;
+### mead-w-o
 Mead, Walter Russell. -- The one and future liberalism. -- Computer data (1 file : 49.7 kb) -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10144.txt) -- DBID 10144. -- IN The American Interest. -- Jan. 24, 2012 -- DDC 330.
 > A rich and rewarding human life neither comes from nor depends on consumption, even lots of consumption; it comes from producing goods and services of value through the integration of technique with a vision of social and personal meaning. Being fully human is about doing good work that means something. -p. -q
 > A liberal is someone who seeks ordered liberty through politics?namely, the reconciliation of humanity?s need for governance with its drive for freedom in such a way as to give us all the order we need (but no more) with as much liberty as possible. -p. -q
 > Americans want to believe that all four goals work together: that defending their security, promoting their prosperity, preserving their freedom and equality and fulfilling their global mission are all part of an integrated package and worldview -p. -q
 
-### &nbsp;
-Mel : The Michigan eLibrary. -- Computer data. -- [Lansing : State of Michigan], n.d. -- Mode of Access: World Wide Web (http://www.mel.org). -- Title from homepage. -- DDC 025.06.
-
-### &nbsp;
+### merton-t-w
 Merton, Thomas. -- The waters of Siloe. -- New York : Harcourt, Brace and Company c1949. -- xxxvii, 377 p. -- DDC 270.
 > They [the trappists] have not come to the monastery to excape from the realities of life but to find those realities: they have felt the terrible insufficiency of life in a civilization that is entirely dedicated to the pursuit of shadows. -p. xvii -q
 > That is what is called the contemplative life: a life that is deoted before all else to the knowledge and love of God and to the love of other men in him and For His sake. -p. xix -q
@@ -4722,7 +4708,7 @@ Merton, Thomas. -- The waters of Siloe. -- New York : Harcourt, Brace and Compan
 > It [the contemplative life] takes a man above the terrors and sorrows of modern life as well as above its passing satisfactions. It elevates his life to a superhuman level to the peace of the spiritual stratosphere where the storms of human existence become a distant echo and do not disturb the center of the sou - no matter how uch they may rage in the senses ad fealings. -p. xxviii -q
 > This means that the best Orders  are the ones which are able to cling most closely to the ideal of their founders and to live their lives most perfectly accordig to their own particular Rules. -p. xxxiv -q
 
-### &nbsp;
+### michael-p-10
 Michael, Paul. -- 10 mantras that will transform your life. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/10-mantras-that-will-transform-your-life). -- Title from resource. -- IN WiseBread. -- (Nov. 6, 2013). -- DDC  152.
 > 'We see what we look for' -Sir John Lubbock 
 > 'The past has no power over the present moment' -Echart Tolle. 
@@ -4735,17 +4721,17 @@ Michael, Paul. -- 10 mantras that will transform your life. -- Computer data (1 
 > "Believe you can and you're halfway there." — Theodore Roosevelt
 > "Be the change you wish to see in the world." — NOT Gandhi
 
-### &nbsp;
+### michigan-r
 Michigan. Dept. of History, Arts and Libraries. -- Records retention and disposal schedule. -- Computer data (1 file : 949 kb) -- [Lansing, Mich. : State of Michigan], 1998. -- on 1 external hard drive. -- Title from resource. -- File name: (8803.pdf) -- DBID 8803 -- DDC 651.5.
 
-### &nbsp;
+### millard-c-r
 Millard, Candice. -- The river of doubt. -- Computer data (1 file). -- [S.l.] : Anchor books, 2009.. -- Title from cover. -- System requirements: Kindle app. -- DBID 3044 -- DDC 918.
 
-### &nbsp;
+### miller-j-p
 Miller, John Jackson. -- Precipice. -- Computer data (1 file). -- [S.l.] : LucasBooks, 2009.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DBID 3045 -- DDC 813.
 
-### &nbsp;
-Miller, Zana Kate. -- How to organize a library. -- Computer data (1 file). -- Libary Bureau, c1921. -- on 1 external hard drive. -- System requriements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3319.pdf. -- LJLT 3319. -- DDC 023.
+### miller-z-h
+Miller, Zana Kate. -- How to organize a library. -- Computer data (1 file). -- Libary Bureau, c1921. -- on 1 external hard drive. -- System requriements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3319.pdf. -- Also available on the [World Wide Web](https://www.google.com/books/edition/_/6n4wAAAAMAAJ). -- DBID 3319. -- DDC 023.
 
 ### &nbsp;
 Ming-Dao, Deng. -- 365 Tao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 9780062502230. -- DDC 299.
