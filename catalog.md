@@ -5,20 +5,20 @@
 A
 ---
 
-### 3292
+### tyler-j-p-back
 Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3292. -- DBID 5392.
 
-### &nbsp;
+### -nsync-n
 -NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive. 
 
-### &nbsp;
+### 12-o
 12 outstanding personality traits of a great boss. -- Computer data. -- Mode of Access: World Wide Web (http://www.officevibe.com/blog/infographic-great-boss). -- Title from resource. -- IN Officevibe [website].  1. 650.
 > Think positive -- Be honest -- Delegate -- Communicate -- Inspire -- Align the team -- Balanced (People perform better when they're able to balance life and work") -- Give credit -- Encourage growth -- Praise -- Mentor -- Fair. -o
 
-### 10152
+### 15-t
 15 tested tips for creative efficiency. -- Computer data (1 file : 27 kb) -- on 1 external hard drive. -- Title from p. 1. -- File name: 10153.txt -- DBID 10152. -- IN Lifehacker. -- (Feb. 8, 2012). -- DDC 153.
 
-### 3314
+### 21-s
 [21 simple actions towards a simpler life]. -- Computer data (1 file). -- [S.n., 2012?]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title supplied by cataloger. -- Filename: 3314.pdf. -- DBID 3314. -- DDC 178.
 > 1 Perform a cluttee bust
 > 2 Practice gratitude
@@ -44,52 +44,52 @@ Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Th
 > Meditation brings perspective, it brings calm, it brings peace and leaves you feeling grounded and well-prepared for the day. -q
 > Steps to meditiation: Take a deep breath, close your eyes, and think of your five senses. Immerse yourself in your immediate surroundings; be present in the moment. -o
 
-### 3219
+### tyler-j-2007-t
 Tyler, Justin Lee. -- [2007 taxes]. -- Computer data. -- 2007. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3219. -- DBID 3219. -- DDC 091.
 
-### 3220
+### tyler-j-2008-t
 Tyler, Justin Lee. -- [2008 taxes]. -- Computer data. -- 2008. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3220. -- DBID 3220. -- DDC 091.
 
-### 3221
+### tyler-j-2009-t
 Tyler, Justin Lee. -- [2009 taxes]. -- Computer data. -- 2009. -- on 1 external hard drive. -- System requirements: USB drive, PDF and TXT file reader. -- Title supplied by cataloger. -- File Directory: 3221. -- DBID 3221. -- DDC 091.
 
-### 3261
+### tyler-j-2012-t
 Tyler, Justin Lee. -- [2012 taxes]. -- Computer data (5 files : 416 KB). -- on 1 external hard drive. -- System requirements: USB drive, PDF and JPG file reader. -- Title supplied by cataloger. -- File Directory: 3261. -- DBID 3221. -- DDC 091.
 
-### 3359
+### tyler-j-2016-t
 Tyler, Justin Lee. -- [2016 taxes]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, PDF reader. -- Title supplied by cataloger. -- File Directory: 3359. -- DBID 3359. -- DDC 091.
 
-### &nbsp;
+### winfrey-s-29
 Winfrey, Sarah. -- 29 scientifically proven ways to be happy this year. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year). -- Title from resource. -- IN Wisebread [website]. -- (Jan. 23, 2014) -- DDC 150.
 > Work with your hands -- Practice 'taking in the good' -- Help others -- Stop caring about what others think. -- Let go of perfection -- Become calm -- Hold the small things -- Guzzle H20 -- Disconnect -- Fake it 'til you make it (smile). -- Embrace the great outdoors. -- Stop whining -- Hold your tongue -- Use your time well -- Get your sweat on (excercise) -- Leave blame behind -- Get the sleep you need -- Talk it up (vocalize your gratefulness) -- Engage in Aid -- Reach out -- Don't fear failure -- See yourself different -- Pay attention -- Find a new mantra -- Don't eat alone -- Get creative -- Dream about getting away. -o
 
-### &nbsp;
+### cole-a-w
 Cole, Allen. -- The wolf worlds / Allan Cole and Chris Bunch. -- Ballantine Books, c1984. -- 298 p. -- ISBN 0345312295. -- DDC 813.
 > 3. Sten encounters the natives who challenge him to a fight. Sten wins.  
 
-### &nbsp;
+### columbus-n-3
 Columbus, Nocomus. -- 3:53 am : Book 1. -- Computer data (1 file : 208 KB). -- S.n., 2014. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- AISN B00C3341BG. -- DDC 813.
 5 tactics for relieving work-related stress. -- Computer data. -- [S.n., n.d.]. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 3252.txt -- DDC 155.
 
-### &nbsp;
+### 50-c
 50 core American documents. -- Ashbrook Press, 2014. -- Mode of Access: World Wide Web www.amazon.com. -- Description based on page viewed Jan. 5, 2019. -- AISN B00IA6R7CK -- DDC 973.
 
-### &nbsp;
+### manual
 A manual of AARC2 level 1 examples / compiled by the Minnesota AACR2 Trainers ; edited by Marilyn H. McClaskey and Edward Swanson. -- v, 32 p. -- ISBN 9780936996035 -- DDC 025.3.
 
-### 3066
+### about-h
 About the [Hearst Free] Library. -- Computer data (1 file : 1.18 mb). -- Anaconda, MT : Hearst Free Library, c2012. -- Title supplied by cataloger. -- File name: (3066.pdf). -- DBID 3066 -- DDC 027.4.
 
-### &nbsp;
+### achillea-n
 The nine worlds / Achillea. -- Computer data (18 files : 107 mb). -- BSC Music GmbH, c2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### ackerman-w-s
 Ackerman, Will. -- Sound of wind driven rain. -- Computer data. -- New York, NY : Winham Hill records, c1998. -- on 1 external hard drive. -- System Requirements: USB drive, MP3 file reader. -- Title from compact disc. -- DDC 781.67. 
 
-### &nbsp;
+### adiemas-e
 Adiemas (Musical Group). -- The Eternal Knot. -- Computer data. -- Great Britain: Karl Jenkins Music Ltd, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### adiemus-a3
 Adiemus. -- Adiemus III: Dances of Time. -- Computer data. -- Mississauga, Ont: Virgin Music Canada/Venture, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 ### akers-d-h
@@ -169,16 +169,16 @@ All-American Rejects (Musical group). -- Move Along. -- Computer data. -- Santa 
 ### amazon
 Amazon.com -- [Computer data]. -- [United States?] : Amazon.com, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.amazon.com) -- DDC 330.
 
-### 9059
+### american-association
 American Association of Law Libraries. Classification and Subject Cataloging Policy Advisory Working Group. -- Genre/form terms for law materials. -- Buffalo, N.Y. : William S. Hein & Co., 2006. -- Computer data (1 file : 121 kb) -- File name: (9059.pdf) -- DBID 9059 -- DDC 025.3.
 
-### 10096
+### american-library-association-ala-ad
 American Library Association. ALA Advocacy University. -- Frontline Fundraising toolkit. -- Computer data (1 file : 1.6 mb). -- [S.l.] : American Library Association, c2011. -- Title from cover. -- File name: (10096.pdf). -- DBID 10096 -- DDC 020.
 
-### 8004
+### american-library-association-committee-c
 American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes. -- Differences between changes within. -- Computer data (1 file : 197 kb) -- Chicago : American Library Association, 2004. -- Title from cover. -- File name: (8004.pdf) -- DBID 8004 -- DDC 025.3
 
-### 3012
+### american-library-association-resources
 American Library Association. Resources and Technical Services Div. -- Final report of the catalog code revisions committee. Subcommittee on the ruels for cataloging machine-readable data files. -- Computer data (1 file : 864 kb). -- Chicago, Ill. : American Library Association, 1976. -- Title from p -- DDC -- File name: (3012.pdf). -- DBID 3012 -- DDC 025.3
 
 ### amethystium-o
@@ -204,7 +204,7 @@ Anderson, Kevin J. -- Ruins.-- HarperPrism, 1996. -- 291 p. -- ISBN 0061052477. 
 > Ch. 06: Mulder, Scully, and Rubiicon fly to Cancun on their way to the Yucatan. -s
 > Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. -s 
  
-### 8377
+### anglo
 Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. -- Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. -- 1 v. (loose-leaf). -- ISBN 0888023006. -- DBID 8377 -- DDC 025.3
 
 ### anonymous-l
@@ -4733,7 +4733,7 @@ Miller, John Jackson. -- Precipice. -- Computer data (1 file). -- [S.l.] : Lucas
 ### miller-z-h
 Miller, Zana Kate. -- How to organize a library. -- Computer data (1 file). -- Libary Bureau, c1921. -- on 1 external hard drive. -- System requriements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3319.pdf. -- Also available on the [World Wide Web](https://www.google.com/books/edition/_/6n4wAAAAMAAJ). -- DBID 3319. -- DDC 023.
 
-### &nbsp;
+### mingdao-d-3
 Ming-Dao, Deng. -- 365 Tao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 9780062502230. -- DDC 299.
 > They won't suffer damnation; they will only walk a different path. -q
 > Useful trees are cut down. Useless ones survive. The same is true of people... we should live our lives in simplicity... to be considered useless... is the chance to live without interference to express one's own individuality. -q 
@@ -4757,7 +4757,7 @@ Ming-Dao, Deng. -- 365 Tao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 97800625
 > Short-term als help us determine each stage of our lives and experience it completely. Long-term goals give us perspective and continuity... Our goals should be entirely personal... There is only one universal goal: a gracious death with no regrets. -240.
 >Therefore, tuning ourselves to Tao is the basic task.
 
-### &nbsp;
+### miller-r-ma
 Miller, Rand. -- Myst : the book of Atrus / [by] Rand and Robyn Miller; with David Wingrove. -- New York : Hyperion, c1995. -- 422 p. -- ISBN 0786881887. -- DBID 3101 -- DDC 813.
 > Seven years he had lived with her now; seven years in this dry and desolate place, and never once had she let them go hungry. That in itseld, he [Atrium] knew, was a kind of miracle... 1ach night, surviving, they gave thanks.  -p. 10 -q
 > Always look at the interrelatedness of things, and remember that the whole of one thing is always just a part of something else, something larger. -Anna  -p. 27 -q
@@ -4766,7 +4766,7 @@ Miller, Rand. -- Myst : the book of Atrus / [by] Rand and Robyn Miller; with Dav
 > To that end, you will keep a notebook while you are here; in it you will write down your observations about this age.  -p. 198 -q
 > Myst : the book of Atrus, by Rand and Robyn Miller with David Wingrove, is a work of fiction. Atrus is D'ni, a people with the ability to create worlds through writing.  The story begins with Atrus living with his grandmother; helping her around her estate, and learning about the world. Then his father Ghen comes to take him away to the age of D'ni. Here, the father teaches the son the art of writing. Atrus quickly excels, so quickly that he is able to see fatal flaws in the way that his father writes. After many disagreements, Ghen locks him away. But Ghen's fiance Catherine helps rescues Atrus. The story ends with Catherine and Atrus creating their own age to live in. I would recommend this to one who enjoys fantasy, books, and parent/child relationships.  -p.  -r
 
-### &nbsp;
+### miller-r-mt
 Miller, Rand. -- Myst : the book of Ti'ana / [by] Rand Miller; with David Wingrove. -- 1st ed. -- Hyperion, c1996. -- 322 p. -- ISBN 0786861606. -- DDC 813
 > p. 1-28: A tunnel is being built to make contact with the surface dwellers; The Book of Earth, written by Grand Master Ri'Neref, is mentioned. -s
 > It was not often that one saw all eighteen major Guilds represented in a single place... p. 50 -q
@@ -4774,12 +4774,12 @@ Miller, Rand. -- Myst : the book of Ti'ana / [by] Rand Miller; with David Wingro
 > You were born old, Aitrus... too old and too serious... -p. 51 -q
 > The rock was predictable. It had its moods, yet it could be read, its actions foreseen. But who could say as much of a man? -p. 56 -q
 
-### &nbsp;
+### miller-t-a
 Miller, Timothy. -- America's alternative religions. -- Computer data. -- State University of New York Press, 1995. -- Title from EBSCO desc. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live). -- DDC 299
 > All members are expected to do their own study and thinking and to arrive at their own convictions about matters of religious faith. Faith is viewed as a religious quest involving the celebration of life rather than the giving of intellectual assent to some fixed, traditional creed which originated iys: "Unitarian Universalism is cooperation with a universe that created us; it is a celebration of life; it is being in love with goodness and justice; it is a sense of humor about absalists. For some of the Transcendentalists such as Ralph Waldo Emerson, there was a world soul which permeated all of life. With "intuition" one could place oneself in contact with it. Hence the solitary individual walking in the autumn woods may well intuit his or her relationship to the world soul. -q
 > The purpose of a liberal religious society was to provide a place for bringing people together for addressing personal, community, and world problems and aspirations. For the humanists, then, one could be religious even without belief in God. -q
 
-### &nbsp;
+### miller-t-h
 Miller, Timothy. -- How to want what you have. -- New York : Henry Holt and Company, c1995. -- xv, 4 p. -- ISBN 0805033173. -- DDC 170.
 > There may be people among us who know that this [the present moment] is the precious present but who don't write poetry, preach sermons, or bost about how happy they are. If so, they live quitely, enjoying the world rightly, loving other people, loving nature, behaving decently, wisely, and generously... Some religious traditions teach that such people make it possible for civilized life to continue. -p. 5 -q
 > Look at the facts: people who live in big houses are no happier than people who live in small houses. Powerful, influetial people are contented than ordinary citizens. Owners of Porshes and Aston Martins are no more at peace than owners of Toyotas and Chevrolets. -p. 8 -q
@@ -4824,10 +4824,10 @@ Miller, Timothy. -- How to want what you have. -- New York : Henry Holt and Comp
 > A cognitive approach to gratitude: 1) identify non-grateful thoughts; 2) Formulate Gratitude-supporting thoughts; 3) contunually substitute new gratitude-supporting thoughts in place of the non-grateful thoughts; 4) wait for the internal response of grateful feeling. -p. 170 -o
 > Schedule for practicing gratitude: Day 1: Practice Gratitude for the food you eat, regardless of whether it is special or routine. Don't alter your usual practices; 
 
-### &nbsp;
+### mills-b-n
 Mills, Becca. -- Nolander. -- Computer data (1 file : 470 KB). -- [S.n.], c2012. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from cover. -- AISN B007R6PPZA. -- DDC 813.
 
-### &nbsp;
+### becoming
 Becoming minimalist / [edited by] Joshua Becker. -- Computer data. -- Mode of Access: World Wide Web (http://www.becomingminimalist.com/). -- Title from homepage. -- DDC 657.7
 > I. Benefits from resting one day a week: (healthier body -- less stress -- deeper relationships -- opportunity for reflection -- balance (an identity outside of of your fellow occupation). -- Reserve for live's emergencies). -- II. How do do it: (Find contentment in your current life. -- Plan your rest -- Take responsibility for your life -- Embrace simplity -- Include your family -- Live within your income -- Realize the shallow nature of results-oriented culture). -o
 > What we create becomes meaningful to us only once we stop creating it and start to think about why we did so. -Rabbi Elijah of Vilna. -q
@@ -5150,27 +5150,24 @@ Nusbaum, J.C. -- The mystic travelogues (volume 1). -- Computer data (1 file : 1
 O
 ---
 
-### &nbsp;
+### oaklander-m-25
 Oaklander, Mandy. -- 25 delectable detox smoothies. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3325.pdf. -- IN Prevention. -- (Jan. 2012). -- DDC 641.
 
-### &nbsp;
+### obama-b-a
 Obama, Barack. -- The audacity of hope. -- New York: Crown Publishers, c2006. -- 365 p. -- ISBN 0307237699 -- DDC 923.2.
 > Or should we just stick to the Sermon on the Mount - a passage so radical that it's doubtfull that our Defence department would survive its application? -p. 218 -q
 > 'What our deliberative, pluralistic democracy does demand is that the religiously motivated translate their concerns into universal, rather than religion-specific, values.' -p. 219 -q
 
-### &nbsp;
+### ohearn-p-i
 O'Hearn, Patrick. -- Indigo. -- Computer data. -- Private Music, p1991. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from compact disc. -- DDC 781.67.
 
-### &nbsp;
-Ogg, Frederic Austin Ogg. -- The governments of Europe. -- Computer data (1 file : 29990 kb). -- New York : The Macmillan Company, 1923. -- on 1 external hard drive. -- [Title from cover page]. -- File name: 2802.pdf. -- DBID 2802 -- DDC 320.
+### ogg-f-g
+Ogg, Frederic Austin Ogg. -- The governments of Europe. -- Computer data (1 file : 29990 kb). -- New York : The Macmillan Company, 1923. -- on 1 external hard drive. -- [Title from cover page]. -- File name: 2802.pdf. -- Also available on the [World Wide Web](https://www.gutenberg.org/ebooks/21006) -- DBID 2802 -- DDC 320.
 
-### &nbsp;
+### oke,j-m
 Oke, Janette. -- The meeting place / Janette Oke, T. Davis Bunn. -- Computer data (1 file). -- Bethany House, 1999. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B005BOXJ5S. -- DDC 813.
 
-### &nbsp;
-OneHundredFreeBooks.com [website]. -- Computer data. -- [S.l. : s.n., 2012?] -- Title from homepage. -- Mode of Access: World Wide Web. -- URL http://ohfb.com. -- DBID 3088 -- DDC 002.
-
-### &nbsp;
+### onelook
 Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide Web (http://www.onelook.com). -- Title from homepage. -- DDC 428.
 > ACUMEN, noun, shrewdness shown by keen insight. -f
 > BELLICOSE, adj, someone who is bellicose enjoys fighting or arguing. -f
@@ -5184,19 +5181,19 @@ Onelook.com. -- Computer program. -- [S.n., n.d.] -- Mode of Access: World Wide 
 > PHYSIOGNOMY, noun: they way that someone's face looks. -f
 > PROFUNDITY, noun:  intellectual depth; penetrating knowledge; keen insight; etc -q
 
-### &nbsp;
+### open-y
 Open Yale courses [website]. -- Computer data. -- [S.l.] : Yale University, c2012- . -- Title from homepage. -- Mode of Access: World Wide Web ( http://oyc.yale.edu/ ) -- DBID 3086 -- DDC 375.
 
-### &nbsp;
+### opencourseware
 OpencourseWare Consortium [website]. -- Computer data. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.ocwconsortium.org/) -- DBID 3084 -- DDC 375
 
-### &nbsp;
+### operating-s-i
 Operating system interface design between 1981-2009. -- Computer data (1 file : 1.8 mb) -- [S.l. : s.n., 2009?] -- on 1 external hard drive. -- Title from resource. -- File name: (8816.pdf) -- Also available on the World Wide Web: http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/ . -- DBID 8816 -- DDC 003.
 
-### &nbsp;
+### oppenheimer-m-b
 Oppenheimer, Mark. -- Boycott the royal wedding. -- Computer data (1 file : 147 kb). -- on 1 external hard drive. -- Title from p.1. -- File name: (10098.pdf). -- DBID 10098. -- IN Slate. -- (Aug. 28, 2011) -- DDC 941.
 
-### &nbsp;
+### opton-f-l
 Opton, Frank G. -- Liberal religion. -- Buffalo, N.Y. : Prometheus Books, 1982. -- 295 p. -- ISBN 087975155X. -- DBID 2922 -- DDC 289.1.
 > Liberal Religion requires everybody to think of himself or herself as part of the whole. -p. -q
 > The root of the evil is apathy and indifference -p. 11 -q
@@ -5214,19 +5211,19 @@ Orton, Linda. -- Soapmaking for the first time. -- Sterling Publishing Co., c200
 > What do I use to add scent: Essential oils (use pure oils; not mixed with base oils) -- Fragrance Oils (usually less expensive)-- Botanicals (can be used in conjunction with essential or fragrance oils.
 > Calendula leaves, chamomile, ground cinnamon, lemon verbena, oatmeal, peppermint, rosebuds, and rosemary are some of the most common botanicals used in soapmaking. -p. 20 -q
 
-### &nbsp;
+### overall-r-b
 Overall Ranking : best countries. -- Computer data (1 file : 98 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010) -- DDC 910.
 
-### &nbsp;
+### owen-j-k
 Owen, Julie. -- The kind. -- Mean Time Press, 2017. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B077LMKSNF). -- AISN B077LMKSNF. -- DDC 813.
 
 P
 ---
 
-### &nbsp;
+### palmer-b-i
 Palmer, Brian. -- Ignore your oven dial. -- Computer data (1 file : 25.9 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (3137.txt). -- DBID 3137 -- DDC 641.
 
-### &nbsp;
+### panza-c-e
 Panza, Christopher. -- Existentialism for dummies / by Christopher Panza and Gregory Gale. -- Hoboken, NJ : Wiley Publishing, c2008. -- xvi, 366 p. -- ISBN 9780470276990 -- DDC 142.
 > Having the constant luxury and responsibility to make a choice is part of the human condition. Why? Because no matter what your situation is, you choose that situation. -p. 159 -q
 > When we're born, we're simply there, no reason or meaning. -p. 165 -q
@@ -5234,7 +5231,7 @@ Panza, Christopher. -- Existentialism for dummies / by Christopher Panza and Gre
 > If God doesn't esist, no eternal, objective measure of value exists, and nothing has any inherent meaning. This doesn't mean, however, that life has no meaning or value at all. It's just that every meaning and value is a human meaning or a human value. And because human beings have no human nature and no inherent values or meaning, we're constantly creating those human meanings and values. -p. -q
 > The only measure of what a person is capable of is what she actually does... Therefore, you're no more than the sum of your actions. -p. -q
 
-### &nbsp;
+### paragament-k-i
 Paragament, Kenneth I. -- The psychology of religion and coping. -- New York : Guilford Press, c1997. -- xii, 548 p. -- ISBN 1572302143 -- DDC 200.
 > 'IV. Introduction to the concept of coping A. Historical context 1. Cultural influences a. Rules b. roles c. standards d. morals 2. Increasingly difficult for ppl to develop structures. B. Responses to tragedy / coping techniques 1. Intrapsychic response a. Freud b. conflict btw the id and society c. Defensive mechanisms 1) Denial 2) Repression 3) projection 4) regression 5) sublimation 6) reaction formation d. forced to accept reality 2. Physiological response a. bioloogical responses b. Cannon, Selye c. General Adaption Syndrome 1) the alarm reaction 2) the stage of resistance 3) stage of exhaustion 3. The psychological response to stress a. Grinker, Spriegel, Erich Lindemann 4. Social Stressors a. identifies conditions that cause stress. b. Emiile Durkheim, Holmes, Rahe C. Beginning of the study of coping 1. Focused on deterministic theories 2. A move towards individuals striving for perfection and superiority. D. Central qualities of coping 1. It is an encounter between person and situation. 2. It is multidementional a. frustrations, fear, anger, etc... 3. It is communial 4. It can be viewed as possibilities and choices. 5. It is diverse (see #2)' -p. 71-89 -o
 > 'V. Assumptions of Coping A. People seek significance. B. the meaning of events depend on that significance. C. people bring their paradygm to the coping process. D. and abstract paradigm is made into objective tools. E. Significance in the coping process come from 1. conservation a. holding on to it. 2. Transformation F. People cope in ways meaningful to them. G. Coping is embedded to culture. H. Keys to goo coping 1. outcomes 2. Process' -p. 90- -o
@@ -5246,38 +5243,38 @@ Paragament, Kenneth I. -- The psychology of religion and coping. -- New York : G
 > 'VI. Turning to religion A. reviewing the literature 1. Summarizing the findings 2. Results are self-reports 3. The extent of religious coping B. turning to religion is a prevailing thing. C. When religion and coping converge 1. Depends on a. nature of the person b. nature of event c. context of the enviroment 2. Different levels a. personal level b. situational level c. contextual level' -p. 131- -o
 > 'To pray is to take notice of the woder, to regain a scense of the mystery that animates all beings, the divine margine in all attainments. -Abraham Joshua Heschel' -p. 138 -q
 
-### &nbsp;
+### parris-s-h
 Parris, S. J. -- Heresy. -- New York, Doubleday, c2010. -- 435 p. -- ISBN 9780385531283 -- DDC 823.
 
-### &nbsp;
+### Parrish-r-o
 Parrish, Robin. -- Offworld. -- 1st ed. -- Computer data (1 file : 576 KB). -- Bethany House Publishers, 2009.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- ASIN B00AFWLZXE. -- DDC 813.
 
-### &nbsp;
+### pash-a-h
 Pash, Adam. -- How to crack a wi-fi network's WPA password with Reaver. -- Computer data (1 file : 1.2 mb). -- on 1 external hard drive. -- Title from p -- DDC -- File name: (3068.pdf). -- DBID 3068. -- IN Lifehacker. -- DDC 004.6.
 
-### &nbsp;
+### pearson-r-c
 Pearson, Ryne Douglas. -- Cloudburst. -- Computer data (1 file). -- [S.l.] : Schmuck & Underwood, 2011.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3043 -- DDC 813.
 
-### &nbsp;
+### penalvo-f-q
 Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata best practices for gredos / [by] Francisco Jose Garcia Penalvo, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.] . -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live). -- DOI 10.1080/19386380903546976. -- IN Journal of Library Metadata. -- Vol. 10. -- 2010. -- DDC 025.3
 > Descriptive metadata: information used to index, describe, and identify a digital resource. Some examples are: the title of the resource, the author of the resource, and the subject of the resource. -q
 > Structural metadata: information used to visualize and navigate the digital resources; information on the internal organization of the digital resource; information on the visualizer or plug-in reader necessary to open the digital resource. -q
 > Administrative metadata: information needed to manage the resource over time, including technical information such as image resolution, file size, file format, hardware/software used to produce the digital resource, and so on. -q
 > The 15 elements of the Dublin Core format can be classified according to three aspects: 1. Contents: Title, Subject, Description, Source, Type, Relation, and Coverage 2. Intellectual property: Creator, Publisher, Contributor, and Rights  3. Application: Date, Format, Identifier, and Language. -q
 
-### &nbsp;
+### peebles-c-r
 Peebles, Chrissy. -- Rebellious. -- [S.n.], 2017. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B0765ZNYPD). -- AISN B0765ZNYPD. -- DDC 813.
 
-### &nbsp;
+### pendleton-p-k
 Pendleton, Paige W. -- The keeper and the rune stone. -- Computer data (1 file : 2037 KB.) -- Pig Wing Press, 2012.. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
 
-### &nbsp;
+### pennell-c-s
 Pennell, Charley. -- Synchronizing catalog externalities. -- Computer data (1 file : 57 kb) -- [S.l.] : Catalog Form & Function Interest Group, 2009. -- on 1 external hard drive. -- Title from slide 1. -- File name: (8407.ppt) -- DBID 8407 -- DDC 025.3
 
-### &nbsp;
+### pennock-m-m
 Pennock, Maureen. -- Managing and preserving e-mails. -- Computer data (1 file : 148 kb) -- [S.l.] : Digital Curation Centre, 2006. -- on 1 external hard drive. -- File name: (1076.pdf) -- DBID 1076 -- DDC 025.17.
 
-### &nbsp;
+### percy-b-d
 Percy, Benjamin. -- The dead lands. -- New York; Boston : Grand Central Publishing, c2015. -- 403 p. -- ISBN 9781455528240 -- DDC 813.
 > York, m., Clark's brother. -f
 > I miss my books. My desk. Stillness. Aloneness. -Louis. -p. 140 -q
@@ -5291,13 +5288,13 @@ Percy, Benjamin. -- The dead lands. -- New York; Boston : Grand Central Publishi
 > Trees don't love and they don't mourn, but they strive for sun and for water. They live. That is the one true impulse, she supposes, that everything wants to live. -p. 324 -q
 > 44 Gawea was sent to get Lewis, and is planning to betray them. -s
 
-### &nbsp;
+### pet-s-p
 Pet Shop Boys (Musical group). -- Pet Shop Boys Discography: The Complete Singles Collection. -- Computer data. -- Hollywood, CA: Capitol Records, 1991. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-### &nbsp;
+### pet-s-v
 Pet Shop Boys (Musical group). -- Very. -- Computer data. -- New York: EMI Records, 1993. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### peters-k-d
 Peters, Karl E. -- Dancing with the sacred. -- Trinity Press International, c2002. -- x, 171 p. -- ISBN 1563383934. -- DDC 210.
 > We become part of hte dance of the sacred - the danceof that system of interactions in the universe and society that brought us into being, that sustains us in our living, and that continually transforms us as part of the ever changing future. -p. 51 -q
 > If we regard ideas as tools to help us get around in the world, we might say that he sciences and various religions offer different maps of the same world. -p. 52 -q
@@ -5311,22 +5308,22 @@ Peters, Karl E. -- Dancing with the sacred. -- Trinity Press International, c200
 > How then can we live more at peace with ourselves and more in tune with our social and natural worlds? ... see  our sacred center... -p. 97
 > Religions have different names for what I am calling our sacred center. It is efered to as Soul, Spirit, Christ Nature, ... Buddha Nature... These names point to a stte of mind that is centered, calm, creative, and compassionate - present fully in the mooment for oneself and for others... The self is thus the mindful observer of all that is happening. -p. 99 -q
 
-### &nbsp;
+### pfeffer-s-l
 Pfeffer, Susan Beth. -- Life as we knew it. -- Orlando : Harcourt, c2006. -- 337 p. -- ISBN 0152058265. -- DDC 813.
 > Explores survival after an asteroid hits the moon; pushes closer to earth. -s
 
-### &nbsp;
+### pfitsch-p-r
 Pfitsch, Patricia Curtis. -- Riding the flume. -- New York : Aladdin Paperbacks, c2002. -- viii, 232 p. -- ISBN 0689866925. -- DBID 3139 -- DDC 813.
 
-### &nbsp;
+### philbrick-r-b
 Philbrick, Rodman. -- The big dark. -- Blue Sky Press, c2016. -- 178 p. -- ISBN 9780545789752. -- DDC 813. 
 > 'don't be afraid... Some of my residence [in the mental institution] may say things you find strange, but hey won't harm you. Best just do nod and agree.' -p. 124 -q
 > Nobody knows how many people died when the lights went out. Millions, probably. But more of us survived. They said it would take years to rebuild the power rid and get back to nromal, and they're still working on it. Until then, we'll get by with the generosity of our neighbors, and with the help of those who have the courage to rise in defiance of tyranny and ignorance. From the storis people have told and are still telling, Reggie Kingman was far from alone. All across the nation and all around the world, good people helped us find our way. They shone a light, and the light is love. Remember that and you'll be okay. -p. 176 -q
 
-### &nbsp;
+### Tyler-j-p-l
 [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler]. -- Computer data (1 directory). -- [October, 2014]. -- on 1 external hard drive. -- System requirements: USB drive; JPG and MP4 file reader. -- Title supplied by cataloguer. -- File directory: 3349. -- LJLT 3349. -- DDC 080.
 
-### &nbsp;
+### Pierce-l-c
 Pierce, Linda Breen. -- Choosing Simplicity. -- Carmel, CA : Gallagher Press, c2000. -- 348 p. -- ISBN 0967206715. -- DDC 178.
 > The fact, we are struggling to make sense of the spiritual an emotional wastland we call modern life. We feel trapped in an almost compuslsive drive to amass more wealth, status, and power. There is an addictive quality to this consumer-driven lifestyle. -p. 22 -q
 > Livign simply can facilitate a life of balance, purpose, and joy. -p. 24 -q
@@ -5342,31 +5339,29 @@ Pierce, Linda Breen. -- Choosing Simplicity. -- Carmel, CA : Gallagher Press, c2
 > Her [Melissa] tyical day starts with rising early and spending some quiet time reading or meditating. She then progresses to her puttering phase - listening to the radio 	 while she waters the plants, doing some light housekeeping or sewing,, filing papers or taking care of minor household repairs. After a light breakfast, Melissa might tend the garden or start baking a few loaves of bread, followed by some time on her computer, either writing letters, organizing recipies, or helping out a local charitable organization by entering data on spreadsheets for them. By late morning, melissa takes off on her bicycle to visit family or fiends, go to the library (where she spends time on personal research projects), or run errands. Lunch and dinner are usually simple one-dish affairs made from scratch. She spends her afternoons and evenings either taking care of her friend's daughter or working on whatever I might be interested in [...]. I go to bed fairly early and usually read again until I get tired. It's a low-key life but very satisfying for me.' - p. 192 -q 
 > I think that a bicycle is the essence of simple, effective technology. there's very little to learn about riding or maintaining one, and much of that is readily aparaent. -188 -q
 
-### &nbsp;
+### pimental-d-n
 Pimentel, David. -- Natural resources and an optimum human population. -- Computer data (1 file : 2 mb) -- Title from resource. -- on 1 external hard drive. -- File name: (1047.pdf) -- DBID 1047. -- IN Population and Environment. -- Vol. 15, no. 45 (May 1994), p. 347-369 -- DDC 577.
 
-### &nbsp;
+### pinola-m-f
 Pinola, Melanie. -- Four signs your relationship might be doomed. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Also available on the World Wide Web (http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed). -- IN Lifehacker. -- (Mar. 15, 2013). -- DDC 158.
-
-### &nbsp;
 > Four signs your relationship might be doomed: Criticism -- Defensiveness -- Contempt -- Stonewalling
 
-### &nbsp;
+### pinola-m-m
 Pinola, Melanie. -- The most important life lesson older people want younger ones to know. -- Computer data (1 file). -- on 1 external hard drive. -- Title from resource. -- System requirements: USB drive; PDF file reader. -- Filename: 3288.pdf. -- DBID 3288. -- IN Lifehacker. -- (Aug. 3, 2013). -- DDC 152.
 > Health + Work + Love = Happiness and Bliss (infographic). -f
 
-### &nbsp;
+### Pinola-m-s
 Pinola, Melanie. -- Seven important lessons from world religions everyone should know. -- Computer data (1 file : 14 KB). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Title from resource. -- File name: 3328.txt. -- In Likehacker. -- (Aug 1, 2014). -- DDC 291.
 > The golden rule -- Work for the happiness of others, especially the poor and unfortunate. -- Focus on the present (mindfulness and meditation) -- Aim for achievements, not money. -- Interact with community -- Take responsibility for your actions. -- Know yourself (make up your own mind). -- Bonus: "Do. Or do not. There is no try." -o
 
-### &nbsp;
+### pinola-m-wha
 Pinola, Melanie. -- What is "mindfulness," and why is everyone talking about it. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; TXT file reader. -- Filename: 3315.txt. -- DBID 3315. -- DDC 291.4
 
-### &nbsp;
+### Pinola-m-why
 Pinola, Melanie. -- Why you learn more effectively by writing then typing. -- Computer data (1 file). -- Mode of Access: World Wide Web (http://lifehacker.com/5738093). -- Title from resource. -- In Lifehacker [website]. -- (Jan. 21, 2011). -- DDC 153.
 > The act of writing helps you clarify your thoughts, remember things better, and reach your goals more surely. -q
 
-### &nbsp;
+### pitt-c-e
 Pitt, Christopher. -- Electronic components. -- Computer data (1 file : 5.94 MB). -- On 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3327.pdf. -- DBID 3327. -- IN Medium.com. -- (Jul. 23, 3014). -- DDC 621.3.Positive Evolutions. -- Computer data. -- [KPM, c1999]. -- on 1 external hard drive. -- Title from Amazon.com. -- System requirements: USB drive; mp3 file reader -- DDC 781.
 
 ### pohl2019
@@ -5410,24 +5405,24 @@ Pohl, Laura. -- The last 8. -- Sourcebooks Fire, 2019. -- Title from Amazon.com,
 >45 a plan is hatched to distroy ghe vhive ship of the hostemn. -s
 >bubble of happiness growing inside me, and it doesn’t matter how long it will last, because at least for tonight, it exists. And that’s all that matters.
 
-### &nbsp;
+### premis-e-d
 Premis Editorial Comittee. -- Data dictionary for preservatino metadata. -- Computer data (1 file : 3.06 mb) -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- Title from cover. -- File name: (8001.pdf) -- DBID 8001 -- DDC 024.4.
 
-### &nbsp;
+### presley-e-e
 Presley, Elvis. -- Elvis' Golden Records. -- Computer data. -- New York, N.Y: RCA Victor, 1985. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.66.
 
-### &nbsp;
+### pritchard-p-w
 Pritchard, Paul. -- The way forward. -- Computer data. -- [KPM, c1996]. -- on 1 external hard drive. -- Title from Amazon.com. -- DDC 781.
 
-### &nbsp;
+### proceedings
 Proceedings and ordinances of the Privy Council of England. Volume VII. / edited by Sir Harris Nicholas. -- Computer data (1 file : 11.2 mb) -- [Great Britain] : The Commissioners of the Public Records of the Kingdom, 1837. -- on 1 external hard drive. -- Title from title page. -- File name: (9041.pdf) -- DBID 9041 -- DDC 324.
 
-### &nbsp;
+### progoff-i-a
 Progoff, Ira. -- At a journal workshop. -- Jeremy P. Tarcher, c1975, 1992. -- x, 422 p. -- ISBN 0874776384. -- DDC 808.06692.
 > Ch. 5: Twilight Imagery and Life Correlation. -s
 > Ch. 6: Daily Log: 'keep a current basis with the movement of our lives' -- Basically, diary writing. -- Two types: Recapitulation, and current recording. -s
 
-### &nbsp;
+### prothero-s-r
 Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux, 2003. -- 364 p. -- ISBN 0374178909. -- DBID 1695 -- DDC 230.
 > Nearly one-quarter of the Christians in the United States now believe in reincarnation. -p. 6 -q
 > 'While there are likely more Muslims than Episcopalians in the United States, there are infinitely more Episcopalians than Muslims (44 to 0, to be exact) in the 108th Congess.' -p. 6 -q
@@ -5456,22 +5451,22 @@ Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux
 > 'The book of morman as ''choloform in print.'''Mark Twain -p. 182 -q
 > Mormons continued to accept the Bible as God's word only 'as far as it is translated correctly.' -p. 186 -qProven. -- Computer data (1 program). -- Proven.com, c2011. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.proven.com). -- DDC 331.
 
-### &nbsp;
+### pure-m-3
 Pure Moods III. -- Computer data. -- Beverly Hills, Calif: Virgin Records America, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### pure-m-1
 Pure Moods. -- Computer data. -- Beverly Hills, CA: Virgin Records America, 1997. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### pure-m-4
 Pure Moods: IV. -- Computer data. -- Beverly Hills, CA: Virgin Records America, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
 Q
 ---
 
-### &nbsp;
+### quinn-s-l
 Quinn, Susan Kaye. -- The legacy human. -- Twisted Space, 2015. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B00U1VKGSE). -- AISN B00U1VKGSE. -- DDC 813.
 
-### &nbsp;
+### quinn-s-o
 Quinn, Susan Kaye. -- Open minds. -- [S.n., 20--]. -- Title from Amazon.com, viewed Aug 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B005Z1RRUU). -- AISN B005Z1RRUU -- DDC 813.
 > At the end of the 22nd century, the world is composed of readers (those who can read minds). While Kira believes she is a "zero" (a non-reader), she meets Simon, and learns she's actually a powerful jacker, someone who can "jack" into people's minds and control them. Simon introduces her to a secret society to jackers. During Simons initiation ceremony, govn't agents, being afraid of their abilities, take them to a jacker concentration camp where jackers can be control, and to perform experiments. She excapes, and is able to go to the press and expose the scandal. -s
 > 5 when the girl and raf touches the boy faints -s
