@@ -5492,14 +5492,14 @@ Quinn, Susan Kaye. -- Open minds. -- [S.n., 20--]. -- Title from Amazon.com, vie
 R
 ---
 
-### &nbsp;
+### Raines-j-j
 Raines, John C. -- The justice men owe women. -- Computer data (1 file : 6.6 mb) -- [S.l.] : Fortress Press, 2001. -- on 1 external hard drive. -- Title from cover. -- File name: (1609.pdf) -- DBID 1609 -- DDC 291.
 
-### &nbsp;
+### rains-j-o
 Rains, Julie. -- The only 4 things a vegetable garden needs. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- File name: 3294.pdf. -- IN WiseBread [website]. -- (Oct. 18, 2013). -- DDC 635.
 > Soil -- Sun -- Water -- Seeds. -o
 
-### &nbsp;
+### raphael-r-m
 Raphael, Ray. -- Mr. President : how and why the founders created a chief executive. -- New York : Alfred A. Knopf, 2012. -- 324 p. -- ISBN 9780307595270. -- DBID 3026 -- DDC 352.
 > He [James Wilson] alone among the delegates believed that representatives, senators, and the president should all be elected directly by the people. -57 -q
 > All delegates wated the government they created to be philospophically grounded in the people, yet not one of them wished to place the operations of that government under the people's direct control. -57 -q
@@ -5515,16 +5515,16 @@ Raphael, Ray. -- Mr. President : how and why the founders created a chief execut
 ### &nbsp;
 Rathbone, Brian. -- Call of the Herald. -- Computer data (1 file). -- [S.l.] : White Wolf Press, 2010.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3049 -- DDC 813.
 
-### &nbsp;
+### rayappan-a-n
 Rayappan, Anbu. -- Non-fiction writing machine. -- Computer data (1 file : 461 KB). -- [S.n., 20--?]. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- System requirements: Kindle app. -- DDC 808.
 
-### &nbsp;
+### rawsley-a-s
 Rawnsley, Andrew. -- Servants of the people. -- Computer data (1 file). -- [S.l.] : ePenguin, 2001.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3051 -- DDC 320.
 
-### &nbsp;
+### rawnsley-a-e
 Rawnsley, Andrew. -- The end of the party. -- Computer data (1 file). -- [S.l. : s.n., n.d.]. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3050 -- DDC 320.
 
-### &nbsp;
+### razevich-a-s
 Razevich, Alexes. -- Shadowline drift. -- Computer data. -- Razor Street Publishing, 2014. -- Title from cover. -- System requirements: Kindle app. -- DDC 813.
 > Jake, in the Amazon. Tobna, a tribe. Joaquin, the FUNAI rep. 2 Benesha is poisonious to people, and has magical transport properties. 3 Mawgic intends to trade Benesha, so it will kill everyone and rebalance the Earth. He leaves jack stranded in the junge. 4 Jake is hungry, unable to spear a fish. Out of bug spray. 5 Jake lost his knife in the river. He kills a sloth for foot, but without knwing if they eat Benesha, he cannot risk eating it. Ilar Ranirex, an anthropolitis. Naheye, Prist/Shaman. Lulunta Village. 6 Jake stumbles on a village, is saved, but the Shaman doesn't trust him. 7 N. considers J. evil, and they are harvesting a flower that blooms once every three  years. Benesha? Benesha has protein enhancing properites. Salen, a missionary found the tribe 3 yrs ago. 9 They begin the exorcism, mawgin appears to Jake. 10 Jake thinks he's left the village, but it is a dream. Or the Bensha. 11 Jake and Pillar steep together. 15 J --- the shadow drift, adnmagic leaves. 
 > He wanted to step in, to warn them, to sweep up the naked child sitting alone and crying. But he was a phanton here, no more a solid presence here than he'd been in President Dalacort's bedroom - as useless as dust. -q
@@ -5534,19 +5534,16 @@ Razevich, Alexes. -- Shadowline drift. -- Computer data. -- Razor Street Publish
 > The bigger the river, the mroe chance of people living along it. -q
 > Why should I believe you?... Because to not believe is to risk that I told the truth and you did nothing to stop it. -q
 
-### &nbsp;
+### recommend
 Recommended record retention periods for business records. -- Computer data (1 file). -- [S.n., n.d.]. -- on 1 external hard drive.-- Title supplied by cataloger. -- File name: 3262.pdf. -- DDC 651.5
 
-### &nbsp;
+### redford
 Redford Township District Library. -- [Michicard Letter]. -- Computer data (1 file : 1.1 mb) -- Redford, MI : RTDL, 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (7022.pdf) -- DBID 7022 -- DDC 025.5.
 
-### &nbsp;
+### reed-c-w
 Reed, Cliff. -- We are here : a book of prayers for corporate worship. -- Computer data (1 file). -- Lindsey Press, c1992. -- on 1 external hard drive. -- System requirements: USB drive, PDF file reader. -- Filename: 3363.pdf. -- DDC 289.1
 
-### &nbsp;
-Reese, Terry. -- Scale calculator [for map cataloging]. -- Computer data. -- Title from resource and supplied by cataloger. -- Mode of Access: World Wide Web (http://people.oregonstate.edu/~reeset/html/scale.html). -- DBID 3135. -- IN Origon State University [website]. -- (Oct. 23, 2000) -- DDC 025.3.
-
-### &nbsp;
+### reeve-p-m
 Reeve, Philip. -- Mortal engines. -- Scholastic, c2001. -- 296 p. -- ISBN 9781338201123. -- DDC 813.
 > CH 25: The historians meet to discuss what to do about MEDUSA. -d
 > Up at the mooring platform Anna Fang had stooped to kiss the feet of one [monk], and given six bronze coins for him to bless the Jenny Haniver. -q
@@ -5558,7 +5555,7 @@ Reeve, Philip. -- Mortal engines. -- Scholastic, c2001. -- 296 p. -- ISBN 978133
 > I used to think you [V] were the wonderful... I used to think that you were the best, bravest, wisest person in the world. But you're not. You're not een very clever, are you?" -K. -p. 244 -q
 > CH 31 K. and B. decides to build a bomb and destroy MEDUSA. -s 
 
-### &nbsp;
+### reid-r-s
 Reid, Ruthanne. -- The Sundered. -- 1st ed. -- Computer data (1 file). -- 4th Floor Publication, c2012. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from title page. -- ISBN 9780985260019. -- DDC 813
 > Questions aren't really encouraged among the Iskinder bloodline. We paddle the world, scavenging salvage, and looking for the Hope. It's what we do, what my father did, and what I do, and what my son will someday be expected to do, end of story. -q
 > I don't like it when things don't make sense. -q
@@ -5577,7 +5574,7 @@ Reid, Ruthanne. -- The Sundered. -- 1st ed. -- Computer data (1 file). -- 4th Fl
 > I'm cursed with an analytical mind, and I could not see how the world would change so much... -q
 > I don't know what's right. I just know what's wrong. -q
 
-### &nbsp;
+### religion-c
 Religion and the clinical practice of psychology / [edited by] Edward P. Shafranske. -- 1st ed. -- Washington, DC : American Psychological Association, c1996. -- xvi, 619 p. -- ISBN 1557983216. -- DBID 1717. -- DDC 291.
 > 'II. Faith development (William James) by James Fowler A. We should address impact of faith on human action. B. Faith 1. An integral centering process 2. Functions a. Coherence and direction b. community c. Provides a frame of reference d. Prioritizes life 3. Stages of faith a. Primal 1. Infancy stage 2. Trust begins to form b. Intuitive 1. early childhood 2. imagination w/o logic c. Mythic - literal faith 1. childhood and beyond 2. imgaination with logic d. Synthetic - conventional faith 1. Adolescence and beyond 2. e. Individuative - reflexive faith 1. internalization 2. young adulthood and beyond f. Conjunctive faith 1. Early Midlife and beyond 2. embracing the polarities g. Universalizing faith 1. midlife and beyond 2. grounded in a power of being. C. Similarities btw fowler and James 1. Nonreductionistic and indirect 2. Empirical approach 3. Genetics underlying faith 4. Pragmatic, functiona with evaluative criteria. 5. Pluralism in faith 6. Feeling and construing self 7. Grounding convictions 8. James = twice-born. Fowler = once-born' -p. -o
 > 'XII. The religious dimension in psyc A. Denominations 1. Judaism a. emphisises orthopraxis b. more likely to find free association and introspection useful 2. Catholicism a. 20% of U.S. 3. Mainline Protestantism and Anglicanism 4. New scripture churches a. Mormons 1) family oriented 2) coffee, tea, tobacco alcohal, and pre- or extramarital sex are prohibited -336 b. Christian Science 1) lack of medical treatment may lead to feeling of abandonment 5. Millennial churches a. concerned about judgementalism or attack on their religion 6. Fundamentalist, Evangelical, Holiness, and Pentecostal. a. Fundamentalists concerned w/ dispensational premillenialism b. creation v.s. evolution c. evangelicals willing to compromise w/ larger society more than fundamentalists d. 4/5 of evangelicals find consolation w/ religion. e. Holiness movement 1) first blessing (baptism, removal of original sin) 2) second blessing (eradication of sin) 3) third blessing (baptism in the holy spirit) 4) decorous and restrained f. pentecostal churches are vocal 7. African american churches a. suffering as a message from God to change one's ways 8. Islam a. leading a ''modest, diginified, and satisfying life'' -342 b. Sufism reselmbles ''psychoanalytic ego psychology'' B. The bible 1. Pay attention to translations, language qualities, and different aspects C. Assessment of factors 1. Pargaments copping styles a. self-directed b. collaborative c. deferring 2. Markers of Pathology a. Self-oriented display b. Religion as reward c. Scrupulosity d. Relinguishing responsibility e. Ecstatic frenzy f. Persistent church-shopping 1) indication of severe narcissistic vulnerability or object permanence g. Indiscriminate enthusiasm h. tough love i. Bible as moment-to-moment guide to life j. spirit possession 3. A mature adjustment to religion a. Awareness of complexity/ambiguity b. choice in religious afiliation c. Value-bases congruence d. recognicion of shortcomings e. respect for boundaries of religion/secular 4. Is religion the problem or solution? a. a problems if atleast D. Psychotherapy 1. Initial obstacles a. developing a therapeutic alliance b. religious beliefs and practices c. client feels that faith has failed. 1) explore what is faith. 2. Client's religious issues a. scriptural interpretation 1) explore clients understing of text 2) ask client to point out text 3) look at context 4) look at translations 5) exisialism 3. Therapists' personal background 4. Treatment of religious imagery a. draw attention to parallells btw dream and story b. explore clients overall theology' -p. 327-364 -o
@@ -5620,36 +5617,36 @@ Religion and the clinical practice of psychology / [edited by] Edward P. Shafran
 > MT. 19:19dbid904p357-8 -p. 651 -r
 > 'XIII : Religion in Clinical Practice : Implicit and explicit integration by Siang-Yang Tan A. Implicit integration 1. A more covert approach B. Explicit integration 1. Orthodox Christians seem to prefer this. 2. Must be conducted in this atmosphere a. clinically sensitive b. ethically responsible c. professionally competent 3. Ethical guidelines a. dealing w/ problems would be helped by doing it. b. working within clients belief system c. an agreement to do so. C. Explicit integration techniques 1. Prayer a. not only ''talking'' b. therapist may impose: 1) imagery, script, or agenda 2. Scriputre a. therapist may impose in authoritative way b. be aware of interpretations 3. Referral to church or clergy D. Developing a mature and deep faith 1. Inward disciples a. Mediation/prayer b. fasting c. study 2. Outward disciples a. simplicity b. solitdue c. submisssion d. service 3. Corporate disciples a. confession b. worship/celebration c. guidance'the actual use of religion in clinical practice. - implicit and explicit -p. 365- -o
 
-### &nbsp;
+### reher-c-o
 Reher, Chris. -- Only human. -- Computer data (1 file : 464 KB). -- C. Reher, c2012, 2013. -- on 1 ASUS tranformer tablet. -- System requirements: Kindle app. -- title from Amazon.com dec. -- ISBN 9780991698516. -- AISN B009QAIRT6. -- DDC 813
 
-### &nbsp;
+### religion-p
 Religion and Psychology. -- Computer data. -- Title from resource. -- Mode of Access: World Wide Web. -- DBID 0970. -- DDC 200.
 > 'I. What is Psychology A. Def -- DDC Give more control over what we have no conrol of. 2. The science of mental life 3. How ppl behave ; looking at behavior. B. Systematic and objective C. Theoretical Perspectives 1. Nural-biological approach 2. Psycho-anolytic approach a) keeps part of experience out of awareness. 3. Cognitive approach 4. Humananist a. a/k/a Phenominological b. Subjective c. Individualistic d. Self-actualization a. Becoming all that you can be. b. Enviroment to flurish D. Areas of PSY 1. Expirimental 2. Socia 3. Clinical 4. Developmental 5. And Others?' -p. -o
 > 'II. What is Religion B. Def -- DDC Helps ppl appreciate what you cannot control 2. Framework of beliefs beyond yourself. 3. James 'Religion is the feelings, acts in relation to their divinity.' 4. The belief of God, and the rituals directed toward that power. 5. Teachers definition : A search for significance in ways related to the sacred. C. Awareness of the Several Traditions 1. Different ways to account for God; accessing the Sacred. 2. Varies in the way formed a) expsed to a tradition b) Active searching 3. Rituals become a way of knowing the world and understanding it.' -p. -o
 > 'III. Beverly Sinke A. Bio 1. PH.D. a. disertation on peak experiences 2. Five kids, one died. 3. Diagnosed w/ cancer 1983 4. Book about confronting the issue. 5. Stay at home mom, got bored' -p. -o
 > 'IV. Faith Development (Fowler) A. Stages of Development 1. Intuitive Projective a. children dominated by fantasy b. Begininnings of awareness 2. Undifferentiated faith a. must have consistency of care 3. Mythic-literal faith a. Legalism 4. Synthetic-conventional faith a. Concerned with fairness and reciprocity b. Abstractness 5. Individuative-Reflective faith a. Sence of self b. critical reflection 6. Paradoxical-Consolidated Faith a. Re-work the past b. evertything falls apart 7.Universalizing Faith a. A sense of inclusiveness with everyone b. A power to see diversity' -p. -o
 
-### &nbsp;
+### responsible
 The responsible self. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1737. -- DDC 171.
 > ?our quest for truth about oursleves and in our quest for true existence. -p. -q
 > 'The Stoic's main question is: 'How may one react to events not with passion - that is, as one whois passive or who is subject to raw emotions called for by events - but with reason?'' -p. -q
 > Two things in particular we say about ourselves: we act toward an end or ore purposive -p. -q
 > I. What is a good person? A. Man the Maker B. Man the Citizen C. Man the Answerer 1. Dialogue is important 2. A 'psychology of interaction' 3. Elements a. idea of response b. our interpretation c. anticipation of reaction to our action -p. -o
 
-### &nbsp;
+### reverence
 Reverence : a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events. -- Computer data (1 file). -- Boy Scouts of America, 2010. -- on 1 external hard dive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- Filename: 3348.pdf. -- DDC 264.
 
-### &nbsp;
+### reuters
 Reuters. -- Computer data. -- [S.l. : s.n., n.d.] -- Title from homepage. -- Mode of Access: World Wide Web (http://www.reuters.com) -- DDC 070.
 
-### &nbsp;
+### rice-m-m
 Rice, Morgan. -- A march of kings. -- Computer data (1 file : 1.6 MB). -- M. Rice, 2013. -- on 1 ASUS tranformer tablet. -- System requriments: Kindle app. -- Title from Amazon.com desc. -- ASIN B00B47BM2S. -- DDC 813.
 
-### &nbsp;
+### rice-m-q
 Rice, Morgan. -- A quest for heroes. -- Computer data (1 file : 1.74 MB). -- M. Rice, 2013. -- on 1 ASUS transformer tablet. -- System requirments: Kindle app. -- Title from Amazon.com desc. -- ASIN B00AFROVQC. -- DDC 813.
 
-### &nbsp;
+### rich-l-w
 Rich, Louise Dickinson. -- We took to the woods. -- Down East, c1942, 1970. -- xxv, 325 p. -- ISBN 9780892727360. -- DDC 920.
 > I always like to know what people do for a living. This is probably just plain nosiness, but I like to call it scientific interest. -p. 30 -q
 > come-uppence. what does this mean? -p. 37 -q
@@ -5691,10 +5688,10 @@ Rich, Louise Dickinson. -- We took to the woods. -- Down East, c1942, 1970. -- x
 > I can't stand being jostled physically, and I can't stand having my actions questinoed or commended upon. I could, quite literally, kill anyone who says to me, "A penny for your thoughts." I'm a New Englander so I can't talk about love. -p. 321 -q
 > Discontent is only the fear of missing something. Content is the knowledge that you aren't missing a thing worth-while. -p. 322 -q
 
-### &nbsp;
+### rinpoche-s-r
 Rinpoche, Sakyong Mipham. -- Running with the mind of meditation. -- DBID 3214. -- DDC 158.1.
 
-### &nbsp;
+### ritchie-s-c
 Ritchie, Susan J. -- Children of the same god. -- Computer data (1 file). -- Skinner House books, 2014. -- Title from Amazon.com. -- System Requirements: Kindle app. -- ASIN B00NVTH1LI. -- DDC 289.
 > Unitarianism often found that its nearest theological kin were not Christian.
 > I concluded that Unitarian identity in Europe emerged as a defense of the inherent kinship between Christianity, Islam, and Judaism.
@@ -5767,10 +5764,10 @@ Ritchie, Susan J. -- Children of the same god. -- Computer data (1 file). -- Ski
 > 'Our interest lies not in the particular ites but in their essential significance and their relativfe positions within ceremonial wholes -- that is, their order.'The Thesis -p. 191 -q
 > 'I. Different Voice in Moral Decisions -by Carol Gilligan A. Two Strans of Western Moral Tradition 1. Self-Interested Form a. Grounded in experience of Inequality b. Concerned w/ justice, fairness, equality, rights. c. Social Contract Theory 2. Self-Sacrifice a. Grounded in experience of attachment b. concerned w/ interdependence, caretaking, responding to needs.' -p. -o
 
-### &nbsp;
+### ritzenthaler-m-p
 Ritzenthaler, Mary Lynn. -- Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson. -- Chicago, Il : Society of American Archivists, c2006. -- xvi, 529 p. -- ISBN 1931666172 -- DDC 771.
 
-### &nbsp;
+### roberts-c-f
 Roberts, Cokie. -- Founding mothers. -- 1st Perennial ed. -- New York : Perennial, 2005, c2004. -- xx, 359 p. -- ISBN 0060090251. -- DBID 2834. -- DDC 973.
 > Eliza Lcas Pickney, F, American. -p. 1 -f
 > Ester Edwards Burr, F, American. Mother of Aaron Burr. -p. 15 -f
@@ -5784,19 +5781,19 @@ Roberts, Cokie. -- Founding mothers. -- 1st Perennial ed. -- New York : Perennia
 > Lord Loudon, 18th c., M, British. Commander of British forces in America. -p. 28 -f
 > Catharine Ray Greene, 18th c., F, American. Friend (maybe more?) of Benjamin Franklin. -p. 30 -f
 
-### &nbsp;
+### robinson-a-1
 Robinson, Ann E. -- 101+ commonly asked interview questions. -- Computer data (1 file : 23.2 kb). -- [S.l. : A. Robinson, c1996, 1999]. -- on 1 external hard drive. -- Title from resource. -- File name: (0509.html). -- DBID 0509 -- DDC 331.12.
 
-### &nbsp;
+### rollins-j-b
 Rollins, James. -- Black order. -- Computer data (1 file). -- [S.n., 19--]. -- System requirements: Nook app. -- Title from BN.com. -- DDC 813.
 
-### &nbsp;
+### rollins-j-i
 Rollins, James. -- Ice hunt. -- Computer data (1 file). -- (S.n., n.d.] -- System requirements: Nook app. -- Title from BN.com. -- DDC 813
 
-### &nbsp;
+### roquet-a-g
 Roquet, Angela. -- Graveyard shift. -- Computer data (1 file : 1047 KB). -- [S.n.], 2014. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- AISN B009M0ARH0. -- DDC 813.
 
-### &nbsp;
+### ross-v-i
 Ross, Veronica. -- Insurgent. -- Computer data. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- IN Ross, Veronica. -- The Divergent Series. -- Katherine Tegen Books, [20--]?. -- DDC 813.
 > Ch. 2: Amity extablishes their headquarters as a safehouse for all factions with 4 rules: 1) No weapons 2) If any serious conflict arises, all involved parties will be asked to leave 3) The civil war cannot be discussed in the compound 4) everyone must contribute to the welfare by working. -s
 > Ch 3: Marcus tells Joannna that Abnegation has secret information and that is why Jeanine attacked. -s
@@ -5813,7 +5810,7 @@ Ross, Veronica. -- Insurgent. -- Computer data. -- on ASUS tranformer tablet. --
 > Jeanine announces she will kill a doughtless every so often until Tris turns herself in. -s
 > ch 29 tris turns herself in -s
 
-### &nbsp;
+### rothfuss-p-n
 Rothfuss, Patrick. -- The name of the wind. -- Dow Books, Inc., c2007. -- 722 p. -- ISBN 9780756404741. -- DDC 813.
 > I'm an arcanist, you great dithering heap of idiot. -Kvothe's father. -p. 54 -q REFLECTION: I need to use this phrase!
 > Like hell if I'm spending a night in the rain because of your think head... I don't need your permissionto rent a room or do buisines in the street. Now get away from me or I'll show you firsthand what sort of trouble MY KIND can be. -Kvothe's father. -p. 65 -q
@@ -5871,7 +5868,7 @@ Rothfuss, Patrick. -- The name of the wind. -- Dow Books, Inc., c2007. -- 722 p.
 > I will teach you to understand... the nature of names cannot be described, only experienced and understood. -p. 672 -q
 > 'This is what I do,' Chronicler said, irritated. 'I collect stories. And when I get the chance I investigate odd rumors and see if there's any truth behind them.' -p. 715 -q
 
-### &nbsp;
+### rothfuss-p-w
 Rothfuss, Patrick. -- The wise man's fear. -- Dow Books, c2011. -- 993 p. -- ISBN 9780756404734. -- DDC 813.
 > Ch. 07: Ambrose drugs Kvothe. -s
 > Ch. 09: K.'s second term admission -s
@@ -5897,7 +5894,7 @@ Rowe, Sara. -- Write it out : how journaling can drastically improve your physic
 ### &nbsp;
 Rox, Mikey. -- Cooking for beginners. -- Computer data. -- [S.n.], 2012. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3269.pdf. -- DDC 614.
 
-### &nbsp;
+### rolling-j-hc
 Rowling, J.K. -- Harry Potter and the chamber of secrets. -- Computer data (1 file) -- New York, NY : Scholastic Inc., 1999. -- System requirements: MOBI file reader; USB drive. -- Filename: 2792a.mobi and 2792b.epub. -- ISBN 9780439064864. -- DDC 823.
 > ch. 1: harry goes to his room to find someone on his bed -p. -s
 > ch. 2 dobby tells harry he must not go back to hogwarts -p. -s
@@ -5905,7 +5902,7 @@ Rowling, J.K. -- Harry Potter and the chamber of secrets. -- Computer data (1 fi
 > 'Flint, Marcus'Captain of the Slytherian Qidditch team. -p. 110 -f
 > the prudent wizard keeps his head down in such times. -Horice Slughorn -q
 
-### &nbsp;
+### rowling-j-hph
 Rowling, J. K.. -- Harry Potter and the philosopher's stone. -- New York : Scholastic, 2001. -- 384 p. -- ISBN 043936213X. -- DDC 823
 > CH. 1: Dumbledore and Hagrid takes Harry to the Dursleys. -p. -s
 > CH. 2: To a trip to the zoo, the glass of a snakes cage vanishes. -p. -s
@@ -5960,14 +5957,14 @@ Rowling, J. K.. -- Harry Potter and the philosopher's stone. -- New York : Schol
 > It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. -Dumbledore -p. 381 -q
 > ... their wardrobes were empty, their trunks were packed... -p. 382 -q
 
-### &nbsp;
+### rowling-j-hg
 Rowling, J.K. -- Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. -- New York, NY : Scholastic, c2000. -- 734 p. -- ISBN 0439139597. -- DBID 3079 -- DDC 823.
 
-### &nbsp;
+### rowling-j-hpr
 Rowling, J.K. -- Harry Potter and the prisoner of Askaban / by J. K. Rowling; [illustrations by Mary Grandpre]. -- Computer data (1 file). -- [S.n., 200-]. -- System requirements: EPUB reader, USB drive. -- Title from title page. -- DBID 3356. -- DDC 823.
 > 17 Black and Lupin reveal themselves in the shrieking shack.
 
-### &nbsp;
+### rowling-j-ho
 Rowling, J.K. -- Harry Potter and the order of the phoenix / by J.K. Rowling; illustrations by Mary Grandpre. -- Computer Data (91 file). -- New York, NY : Scholastic, Inc., 2003. -- System requirements: PDF file. -- ISBN 043935806X -- DBID 3025 -- DDC 823.
 > CH.5: The Order of the Phoenix is committed to defeating V. Its headquarters is in the family house of Black.  -p. 79-97 -q
 > Ch. 11: Harry arrives at Hogwards. Events included opening ceremony where the sorting had gives a warning, and a confrontation with another student over what his mother read in the Daily Prophet.  -p. 200-220 -s
@@ -6011,38 +6008,41 @@ Rowling, J.K. -- Harry Potter and the order of the phoenix / by J.K. Rowling; il
 > CH. 18. The first meeting of D.A.  -p. 274-396 -s
 > American Colonial Society: 19th-20th c. 'Formed to the belief that blacks would be better off settled in colonies back in Africa.'  -p. 6 -f
 
-### &nbsp;
+### rowling-j-hs
 Rowling, J.K. -- Harry Potter and the sorcerer's stone. -- Computer data. -- [S.l. : s.n., n.d.] -- File name: (8032.txt) -- DBID 8032 -- DDC 823.
 
-### &nbsp;
+### rowling-j-c
 Rowling, J.K. -- The casual vacancy. -- [S.l. : s.n., 2012]. -- [1 v.]. -- DBID 3201 -- DDC 823
 
-### &nbsp;
+### rubin-g-n
 Rubin, Gretchen. -- Nine quick tips to identify clutter. -- Computer data (1 file : 4 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10154.txt) -- Also available at: http://zenhabits.net/identify-clutter/. -- DBID 10154. -- IN ZenHabits. -- (Oct. 12, 2012) -- DDC 640.
 > Does this thing work? -- Would I replace it if it were broken or lost? -- Does it seem potentially useful—but never actually gets used? -- Was I "saving" it? -- Does it serve its purpose well?  -- Has it been replaced by a better model? -- Is it nicely put away in an out-of-the-way place? -- Does this memento actually prompt any memories? -- Have I ever used this thing? -o
 
-### &nbsp;
+### ruddock-b-a
 Ruddock, Bethan. -- Alternative uses of the library degree / by Bethan Ruddock. -- Computer data (1 file : 69 kb). -- [S.l. : s.n., 2011?]. -- on 1 external hard drive. -- Title from p.1. -- File name: (3033.pdf ). -- DBID 3033 -- DDC 020.
 
-### &nbsp;
+### ruiz-m-f
 Ruiz, Miguel. -- The four agreements. -- San Rafael, Calif. : Amber-Allen Pub, c1997. -- xix, 138 p. -- ISBN 1878424319. -- DBID 3010 -- DDC 299.
 
-### &nbsp;
+### rule-s
 Rule of St. Columbia. -- Computer data. -- on 1 external hard drive. -- File name: (10107.pdf. -- DBID 10107. -- IN Medieval Sourcebook. -- URL http://www.fordham.edu/halsall/sbook.html -- DDC 255.
 
-### &nbsp;
+### rules-a
 Rules for archival description / prepared under the direction of the Planning Committee on Descriptive Standards, a committee of the Bureau of Canadian Archivists, representing l'Association des archivistes du Quebec, the Association of Canadian Archivists. -- Revised version. -- Computer data (1 file : 2.3 mb) -- Ottawa, Canada : The Bureau, 1990, 2008. -- on 1 external hard drive. -- Title from title page. -- File name: (10100.pdf). -- DBID 10100. -- ISBN0969079737 -- DDC 025.3
 
-### &nbsp;
+### rybak-a-n
 Rybak, Alexander. -- No Boundaries. -- Computer data. -- S.l.: Art, 2010. -- on 1 external hard drive. -- Title from Compact Disk. -- DDC 781.64.
 
-### &nbsp;
+S
+---
+
+### saffady-w-r
 Saffady, William. -- Records and information management. -- Lenexa, Kansas : ARMA International, c2004. -- x, 218 p. -- ISBN 1931786178 -- DDC 651.
 
-### &nbsp;
+### sahli-n-i
 Sahli, Nancy A. -- Interpretation and application of the AMC format. -- Computer data (1 file : 762 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (8445.pdf) -- DBID 8445. -- IN American Archivists. -- Vol. 49, no. 1 (Winter 1986) -- DDC 025.3.
 
-### &nbsp;
+### samuelson-s-d
 Samuelson, Scott. -- The deepest human life. -- Chicago and London: The University of Chicago Press, c2014. -- xiv, 216 p. -- ISBN 9780226130385. -- DDC 100
 > Religion is built on authority, which could be wrong. Science is built on the senses, which could be wrong. Mathematics and logic are built on reason, which could be wrong. -p. 86 -q
 > ... a few things become clear beyond all doubt to al-Ghazali: first, God is real; second, at our innermost point we are connected to God (in other words, the soul is immortal); and third, od wants something of us, namely, for us to be and do good. -p. 89 -q
@@ -6060,9 +6060,6 @@ Samuelson, Scott. -- The deepest human life. -- Chicago and London: The Universi
 > A sensible religion is absurd because human nature is anything but sensible. -- In short, Pascal thinks that Christianity, the most scandalous of all religions, is our only hope. Islam and Judaism makes too much sense. I can only imagine what he would have made of Unitarianism. -p. 133 -q
 > 'Man's greatness comes from knowing he is wretched,' in Pascal's fine phrase. We stand a much better chance of winning hte forgiveness game than the law game. Yet forgiveness can take place only within a context of the law. -p. 134 -q
 > Christianity is, as I said, a religion that stretches credulity. To be a Christian is to belive any number of paradoxes: that true morality appears in the context of immorality, that god is human, that power is expressed in suffering, and that this human God, uttering the famous cry of abandonment on the cross, is something of an athiest. -p. 135 -q
-
-S
----
 
 ### samuelson-r-j
 Samuelson, Robert J. -- The real generation gap. -- Computer data. -- on 1 external hard drive. -- Title from p -- DDC -- File name: (10108.pdf). -- DBID 10108. -- IN Newsweek. -- Vol. 155, no. 11 (Mar. 15, 2010) -- DDC 305.
@@ -6327,7 +6324,7 @@ Smith, Huston. -- The world's religions. -- HarperCollins, c1958, 1991. -- xvi, 
 > All formalism, show, and ceremony left them cold. -214 -q
 > Those who meditate on this [yin/yang] symbol... will find that it affords better access to the world's secrets than any length of words and discussion. -q
 
-### 3217
+### smith-m-w
 Smith, Mark. -- Writing and keeping journals. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive, .pdf file reader. -- Title from resource. -- File name: 3217.pdf. -- DBID 3217. -- IN Infed. -- (1999, 2006). -- DDC 808.06692.
 
 ### smith2017
@@ -6342,13 +6339,13 @@ Smith, Sally Bedell. -- Prince Charles. -- Random House, c2017. -- xx, 596 p. --
 > Asked if as king he would continue to "champion big thesmes," he hedged, saying hat he hoped to use his ability to bring people together to discuss issues. -p. 435. -q
 > Their [William and Kate] impeccable behavior kept the monarchy on an even keel, and they learned to fuse informality ith dignity - a difficult balance ot achieve. -p. 492. -q
 
-### 3055
+### somlin-l-l
 Smolin, Lee. -- The life of the cosmos. -- Computer data (1 file). -- New York : Oxford University Press, 1999.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3055 -- DDC 523.
 
-### 9050
+### snow-k-t
 Snow, Karen. -- Transcript of "Technical services: past, present, future" program of the ALISE Technical Services Education SIG at the ALISE annual conference in Boston, Mass., January 15, 2010. -- Computer data (1 file : 229 kb) -- S.l. : s.n., n.d.] -- on 1 external hard drive. -- Title from cover. -- File name: (9050.pdf) -- DBID 9050 -- DDC 025.3.
 
-### 3008
+### snyder-c-3
 Snyder, Chris. -- The 3 MMOs to play in beta & pre-order before summer [MUO gaming]. -- Computer file (1 file). -- Title from resource. -- on 1 external hard drive. --DBID 3008. -- IN MakeUseOf.com. -- (Apr. 29, 2012) -- DDC 794.8.
 
 ### snyder-t-o
@@ -6597,25 +6594,25 @@ Swedo, Suzanne. -- Wilderness survival. -- 3rd ed. -- Computer data (1 file). --
 T
 ---
 
-### &nbsp;
+### take-t-b
 Take That (Musical group). -- Beautiful world. -- Computer data. -- [S.l. : s.n., n.d.] -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### taliesin-o-m
 Taliesin Orchestra (Musical group). -- Maiden of Mysteries: [the Music of Enya]. -- Computer data. -- Roswell, GA: Intersound, 1998. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### tangerine-d-j
 Tangerine Dream (Musical group). -- Jean D'arc. -- Computer data. -- Berlin, Germany: TDI, 2005. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### tangerine-d-t
 Tangerine Dream (Musical group). -- Tyranny of Beauty. -- Computer data. -- Seattle, Wash: Miramar Recordings, 1995. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### tate-p-s
 Tate, Paul A. -- Seasons of Grace: Piano Reflections. -- Computer data. -- Chicago, Ill.: GIA Publications, 2006. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### taylor-a-i
 Taylor, Arlene G. -- Introduction to cataloging and classification / Arlene G. Taylor; with the assistance of David P. Miller. -- Tenth ed. -- Westport, Connecticut : Libraries Unlimited, c2006. -- xviii, 589 p. -- ISBN 1591582350 -- DDC 025.
 
-### &nbsp;
+### taylor-m-m
 Taylor, Mark Stephen. -- Moon of the White Wolf. -- Computer data (1 file). -- CreateSpace, 2014. -- System requirements: Kindle app. -- Title from Amazon.com. -- AISN B00K7JXOA. -- DDC 813.
 > 14 lone wolf gets into it with jim bodeen. B tells him to come live with her. -s
 > those whose spirits are in disarray due to the harshness of human existence in a fallen world. -l. 53 -q
@@ -6635,27 +6632,27 @@ Taylor, Mark Stephen. -- Moon of the White Wolf. -- Computer data (1 file). -- C
 > "Make sense, and I'll listen.-l. 2178 -q
 > He said that they taught of things that people should come to know and live by—things like faith, hope, goodness, and love.-l. 2261 -q
 
-### &nbsp;
+### taylor-k-b
 Taylor, Keary. -- The bane. -- Computer data (1 file). -- Keary Taylor books, 2013.. -- System requirements: kindle app. -- AISN B00BP1ZKJ4. -- DDC 813.
 
-### &nbsp;
+### taylor-m-c
 Taylor, Meadows. -- Confessions of a thug. -- Stein and Day, c1968. -- vii, 338 p. -- DDC 823.
 > Ch. 01: Writing a letter to Sahib -- A robbery; his parents die, but the Thugs spare him.
 > Ch. 02: He learns about Islam.
 
-### &nbsp;
+### tears-f-t
 Tears for Fears (Musical group). -- Tears Roll Down. -- Computer data. -- New York: Mercury, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-### &nbsp;
+### ten-i-p
 Ten important points to remember when the priest calls. -- Computer data (1 file : 1.3 mb) -- [S.l., s.n., n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: (7004.pdf) -- DBID 7004 -- DDC 253.
 
-### &nbsp;
+### teng-v-w
 Teng, Vienna. -- Waking Hour. -- Computer data. -- Brighton, MA: Virt Records, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### 10-e
 The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10166.pdf) -- DBID 10166. -- IN Backpacker. -- Vol. 40, no. 3 (Apr. 2012). -- ISSN 0277-867X -- DDC 796.51.
 
-### &nbsp;
+### access-b
 The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
 
 ### &nbsp;
@@ -6664,62 +6661,59 @@ The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco :
 > 'The development of early agrarian or fertility festivals into the mystery religions involved, first and foremost, the conviction on the part of the worshippers that the cycle of nature related directly to human life? Hence, if human beings could assimilate the power that made life triumphant in the world of nature, they too might live in a more complete way.' -p. 7-8 -q
 > 'Aristotle concludes that initiates into the mysteries do not learn anything, but rather have an experience and are put in a certain state of mind.' -p. 12 -q
 
-### &nbsp;
+### benedicine-m-s
 The Benedictine Monks of St. Michael's. -- Computer data. -- Santa Monica, CA: LaserLight, 1994. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### bishops-w
 The bishop's wife. -- [S.l. : MGM Home Entertainment, c2001.] -- 1 videodisc (h hr 49 min) -- Director, Henry Koster ; screenplay, Robert E. Sherwood, Leonardo Bercovici ; Starring Cary Grant, Loretta Young, David Niven, Monty Woolley -- DDC 791.43.
 
-### &nbsp;
+### book-d
 The book of Daniel. -- [S.l.] : Universal Studios, 2006. -- 2 videodiscs (345 min.) -- Starring Aidan Quinn -- DDC 791.45.
 
-### &nbsp;
+### busines-m-c
 The business model canvas. -- Computer data (1 file : 997 kb). -- [S.l. : Business Model Foundry, 2011?]. -- on 1 external hard drive. -- Title from resource. -- File name: (3034.pdf). -- DBID 3034 -- DDC 330
 
-### &nbsp;
+### crain-e
 The Crane Estate : trail map and guide. -- Scale 1:21120. -- [S.l.] : The Trustees of Reservations, c2009. -- 1 map. -- DBID 3132 -- DDC 912.744.
 
-### 3032
+### governor-g-g
 The Governor-General is the guardian of our Constitution -- Computer data (1 file : 90 kb). -- on 1 external hard drive. -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000) -- DDC 321.
 > [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is  reserved, and that her servants, our servants, do not become our masters.  -p.  -q
 > The Governor-General and the Lieutenant Governors have the right to be consulted by their ministers, and the right to  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.  -p.  -q
 
-### &nbsp;
+### growth-g-t
 The growth of the gospel tradition. -- Computer data (1 file : 380 kb.) -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- Title from resource. -- File name: (5665.pdf). -- DBID 5665 -- DDC 226.
 
-### &nbsp;
+### collins-s-h
 The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481 -- DDC 813.
 > So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market... I avoid discussing tricky topics.  -p. 6 -q
 
-### &nbsp;
+### khan-a
 The Khan academy / [by Salman Khan]. -- Computer file. -- [Menlo Park, CA] : Salman Khan, 2004- . -- Mode of Access: World Wide Web (http://www.khanacademy.org/) -- DBID 3143 -- DDC 025.06.
 
-### &nbsp;
-The Merriam-Webster dictionary. -- Springfield, Mass. : Merriam-Webster, c2004. -- 939 p. -- ISBN 087779930X : $6.50. -- DBID 3121 -- DDC 423.
-
-### &nbsp;
+### moscow-s
 The Moscow story. -- [S.l : s.n., n.d.] -- 18 p. -- Title from cover. -- DBID 1651 -- DDC 977.4
 
-### &nbsp;
+### one-p-b
 The one-page business plan. -- Computer data (1 file : 95.5 kb). -- [S.l.] : 100startup.com, [n.d.]. -- on 1 external hard drive. -- Titles from p -- DDC -- File name: (3067.pdf). -- DBID 3067 -- DDC 380.
 
-### &nbsp;
+### queen
 The Queen. -- Computer data (3 file : 701 mb) -- [London] : Grenada Screen Ltd., c2007 [2007]. -- File name: (9056/) -- Director of photography, Affonso Beato ; editor, Lucia Zucchetti ; music by Alexandre Desplat ; archive consultant, Adam Curtis. ; Helen Mirren (HM Queen Elizabeth II), Michael Sheen (Tony Blair), James Cromwell (Prince Philip), Helen McCrory (Cherie Blair), Alex Jennings (Prince Charles), Roger Allam (Robin Janvrin), and Sylvia Syms (HM The Queen Mother). -- DBID 9056 -- DDC 791.43.
 
-### &nbsp;
+### road-a
 The road atlas. -- Scales vary. -- Chicago, Il. : Rand McNally and Company, c2012. -- 1 atlas (184 p.) -- ISBN 9780528003639 : $9.95. -- DBID 10110 -- DDC 912.73.
 
-### &nbsp;
+### rough-g-m
 The Rough Guide to the Music of Zimbabwe. -- Computer data. -- London: World Music Network, 1996. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
 
-### &nbsp;
+### west-m
 The west wing. -- [S.l.] : Warner Home Video, 1999. -- 4 videodiscs (956 min.) -- Starring Jason Ensler, Martin Sheen, Stockard Channing, Allison Janney, Moira Kelly -- DDC 791.45.
 
-### &nbsp;
+### thanksgiving-t-s
 Thanksgiving table settings + place setting diagram. -- Computer data (1 file). -- on 1 external hard dive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3304.pdf. -- IN Lifehacker [website]. -- (Nov. 19, 2013). -- DDC 395.
 
-### &nbsp;
-Thather, Margaret. -- The Downing Street years. -- Computer data (1 file). -- HarperPerennial, c1995, c1993. -- Mode of Access: World Wide Web (http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- System requirements: Kindle or Adobe eBook file reader. -- Title from resource. -- Available to Ipswich Public Library card holders. -- DDC 922.
+### thatcher-m-d
+Thatcher, Margaret. -- The Downing Street years. -- Computer data (1 file). -- HarperPerennial, c1995, c1993. -- Mode of Access: World Wide Web (http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- System requirements: Kindle or Adobe eBook file reader. -- Title from resource. -- Available to Ipswich Public Library card holders. -- DDC 922.
 > (As Arthur Shenfield put it, the difference between the public and private sectors was that the private sector was controlled by government, and the public sector wasn't controlled by anyone.) - -q
 > I was always asked how it felt to be a woman prime minister. I would reply: 'I don't know: I've never experienced the alternative.' -q
 > The desire to win is born in most of us. The will to win is a matter of training. The manner of winning is a matter of honour. -q
@@ -6759,11 +6753,11 @@ Thather, Margaret. -- The Downing Street years. -- Computer data (1 file). -- Ha
 > ... they become touchy and uncertain about their standing; and all this makes them vulnerable. -q
 > It seemed to me that what happened there contained important lessons which we should heed. First, it is unwise to intervene in such situations unless you have a clear, agreed objective and are prepared and able to commit the means to secure it. Second, there is no point in indulging in retaliatory action which changes nothing on the ground. Third, one must avoid taking on a major regional power, like Syria, unless one is prepared to face up to the full consequences of doing so. -q
 
-### &nbsp;
+### thavis-j-v
 Thavis, John. -- The Vatican diaries. -- Viking, c2013. -- 321 p. -- ISBN 9780670026715. -- DDC 262.
 > Ch. 05: The fight between SSPX and the Vatican. -s
 
-### &nbsp;
+### theology-c-e
 Theology and Christian ethics. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1743. -- DDC 174.
 > I. Ways of Using Scripture -by James M. Gustafson A. Revelation of a Morality 1. In accordance with moral laws 2. Principles for ethical interpretations 3. Problems for Christians has they have a new covenant a. Rom. 8:2 b. 'Christians have no codifications of the moral law of scripture.' B. Revelation of the Actions of God 1. Answering the question 'what is god doing in our time' -p. -o
 Theology and scripture. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1742. -- DDC 220. 
@@ -6773,19 +6767,19 @@ Theology and scripture. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1742. -- DDC 22
 > 'I. Genesis 1-2 A. a 'theological meditiation in story form.' 1. Not scientific fact B. Gen 1 1. Priestly account 2. Written 2nd 3. transcentdent C. Gen 2 1. Yahwist 2. Written 1st 3. anthropormiphic D. Humans given central part of creation' -p. -s
 > 'II. Genesis 3 A. an aetiological story 1. A story about how things got to be where they are today.- B. A narrative theodicy C. Gen. 3 isn't necessariry for original sin' -p. -s
 
-### &nbsp;
+### theriault-m-15
 Theriault, Myscha. -- 15 healthy and cheap 5-minute dinners. -- Computer data. -- [S.n., n.d.]. -- System requirements: USB drive; txt file reader. -- Title from resource. -- File name: 3253.txt. -- DDC 641.
 
-### &nbsp;
+### tillett-b-w
 Tillett, Barbara. -- What is FRBR? -- Computer data (1 file : 2839 kb. -- [Washington, DC] : Library of Congress, 2003. -- on 1 external hard drive. -- Title from title page. -- File name: (10061.pdf). -- DBID 10061 -- DDC 025.3
 
-### &nbsp;
+### tin-c-c
 Tin, Christopher. -- Calling All Dawns: A Song Cycle. -- Computer data. -- S.l.: Tin Works Pub, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### &nbsp;
+### tin-c-d
 Tin, Christopher. -- The drop that contained the sea. -- Computer data. -- Tin Works, 2014. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Amazon.com. -- DDC 781.67.
 
-### &nbsp;
+### tingstad-e-i
 Tingstad, Eric. -- In the garden / Eric Tingstad and Nancy Rumbel. -- Computer data (14 files : 93.1 mb). -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- System requirements: USB drive, MP4 file reader. -- Title from resource. -- File directory: /music/ . -- Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225. -- DDC 781.67.
 
 ### toobin-j-n
@@ -6793,181 +6787,181 @@ Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- Title from title page; 
 > Read 2020-04. -- Grade C. -r --
 > for O’Connor there was little difference between a judicial and a political philosophy. -- She had an uncanny ear for American public opinion, and she kept her rulings closely tethered to what most people wanted or at least would accept. -- William Brennan, observed in 1985, “the genius of the Constitution rests not in any static meaning it might have had in a world that is dead and gone, but in the adaptability of its great principles to cope with current problems and current needs.” p. 18 -q -- John Marshall Harlan II, m, 20th c, Supreme Court Justice. -f -- [Souter] believed that law existed to preserve the stability of society and that adherence to precedent best guaranteed a limited and predictable role for the judiciary. Above all, he believed in the rule of stare decisis. -p. 53 -q -- Souter believed that the Constitution expressed a libertarian ideal—that freedom from the restrictions of government counted as much as, or more than, the right of legislators to pass laws limiting individual freedom. -q -- And the people’s rights were not limited by the precise language of the Constitution, either. One of the strongest arguments against so-called unenumerated rights in the Constitution is that a written document should be limited in meaning to its precise terms. -q -- Souter avoided attention, loathed controversy, and disliked high-profile cases. -q -- Equanimity, WOTD -f -- waylaid, WOTD -f -- alacrity, WOTD -- Clinton's thoughts about abortion: safe, legal—and rare. -- [RBG] felt laws banning abortion were a form of sex discrimination—a violation of equal protection of the laws—rather than an affront to the right to privacy, as Blackmun’s opinion had held. -- choice of Ruth Bader Ginsburg—arguably Clintons seventh choice -f -- James Madison in Federalist No. 45, Rehnquist wrote, “The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite.” -- “color-blind Constitution -- If one wants to be popular, it is counterproductive to disagree with the majority. If one just wants to tread water until the next vacation, it isn’t worth the agony. If one just wants to muddle through, it is not worth it. -Clarence Thomas -q -- [Clarence Thomas'] office, a little sign reads: ‘To avoid criticism, say nothing, do nothing, be nothing. -- [Renquist] had reduced the job to its essentials: a morning meeting with his law clerks to talk about the progress of opinions, a meeting with his administrative assistant to address issues affecting the federal judiciary, lunch at his desk, review of paperwork after lunch, and limousine home by 4:00 p.m. -- Gilbert and Sullivan operettas, Iolanthe: “I did nothing in particular, and I did it very well.” -- O’Connor, the practical consequences would matter more than the legal theory, -- reading briefs, hearing arguments, and writing opinions. -- The gay clerks changed the Court, not because of their advocacy but because of their existence. -- (As usual at oral argument, the lawyer was largely a spectator as the justices talked to one another.) -- sophistry, WOTD -- [O'Connor's] judicial approach was indefensible in theory and impeccable in practice. -- For a Court majority determined never to stray too far from what the public believed, -- It is during our most challenging and uncertain moments that our Nation’s commitment to due process is most severely tested; and it is in those times that we must preserve our commitment at home to the principles for which we fight abroad.” -- Souter’s New England frugality -- Souter spoke of “every judge’s common obligations: suspicion of easy cases, skepticism about clear-edged categories, modesty in the face of precedent, candor in playing one worthy principle against another, and the nerve to do it in concrete circumstances on an open page. -- prickly personality --  ch. 20 in the wake of oconnors retiremenu conservaives come out against gonzolas. -s -- When she joined the Court in 1981, not one other justice believed that abortion laws should be tested under an “undue burden standard,” but O’Connor had invented that test and over time persuaded a majority of her colleagues to agree with her. She had single-handedly remade the law in the most controversial area of Supreme Court jurisprudence. -q -- Even Thomas had long since passed Scalia, en route to a kind of nineteenth-century conservatism. -q -- John Robert's philosophy: Decide more cases; achieve more unanimity; write narrower opinions—judicial minimalism. -f -- Cass Gilbert’s steps represent at some level a magnificent illusion—that the Supreme Court operates at a higher plane than the mortals who toil on the ground. But the Court is a product of a democracy and represents, with sometimes chilling precision, the best and worst of the people. We can expect nothing more, and nothing less, than the Court we deserve. -q -- Reserved, almost diffident, WOTD -f -- The framers viewed freedom from unlawful restraint as a fundamental precept of liberty, and they understood the writ of habeas corpus as a vital instrument to secure that freedom. -q -- These meditations were in the tradition of ‘penumbras,’ ‘emanations,’ and other airy constructs the Court has employed over the years as poor substitutes for clear and rigorous constitutional reasoning.” -q -- As a result of the Court’s decision in Heller, it will be judges, not voters and elected officials, who will be answering these questions. And it will be years, and perhaps decades, before the courts even debate them. -q
 
-### &nbsp;
+### toobin-j-o
 Toobin, Jeffery. -- The oath. -- [S.l. : s.n., 2012?]. -- [1] v. -- DBID 3202 -- DDC 347.
 
-### &nbsp;
+### trease-g-g
 Trease, Geoffrey -- The grand tour. -- Computer data (1 file : 3685 KB). -- The Odyssey press, 2017. -- System requirements: Kindle app. -- Title from amazon.com -- AISN B06XKQ49Y4. -- DDC 910.
 
-### &nbsp;
+### tudor-p-c
 Tudor, Philippa. -- The ceremony of the Introduction of Bishops to the House of Lords. -- Computer data (1 file). -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from resource. -- Filename: 3332.pdf. -- IN Parliamentary History, Vol. 221 (2002). -- DDC 321.
 
-### &nbsp;
+### tyler-c-pp
 Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- Computer data (1 file : 373 kb) -- 200-? -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (8821.jpg) -- DBID 8821 -- DDC 779.4.
 
-### &nbsp;
+### tyler-c-pp
 Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler]. -- Computer data (1 file : 2.60). -- 1999. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (2058.jpg). -- DBID 2058 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pb
 Tyler, Justin Lee. -- [Photograph of a butterfly on Paw-Paw's land] -- Computer data (1 file). -- 2013 Oct 24 -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3347.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3347.jpg). -- LJLT 3346 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pb
 Tyler, Justin Lee. -- [Photograph of Byron G. Merrill Library, Rumney, N.H.]. -- Computer data (1 file : 1.94 MB). -- [2014 May 25]. -- System requirements: USB drive; JPG file reader. -- Filename: 3328.jpg. -- DDC 779.4.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin. -- [Photograph of caterpiller (unknown)]. -- Computer file (1 file). -- on 1 external hard drive. -- System requirments: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3337.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3337.jpg). -- LJLT 3337. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler and the Lisa Ann III in Newburyport, Mass]. -- Computer data (1 file). -- [2014 Oct 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-10-25 14.06.23.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler at the Flume Gorge]. -- Computer data. -- [2014 Oct 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-10-25 11.07.25.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird flying away from her hand at the bird santuary, Ipswich, Mass.] -- Computer data (1 file). -- 2012 Oct 20. -- System requirements: USB drive; JPG file reader. -- Filename: 2012-10-20 14.58.06.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass.] -- Computer data (1 file). -- 2012 Oct 20. -- System requirements: USB drive; JPG file reader. -- Filename: 2012-10-20 14.58.04.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass. #2] -- Computer data (1 file). -- 2012 Oct 20. -- System requirements: USB drive; JPG file reader. -- Filename: 2012-10-20 15.02.41.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a duck at the bird sanctuary, Ipswich, Mass.] -- Computer data (1 file). -- 2013 May 31. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Filename: 3336.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich.] -- Computer data (1 file). -- 2013 Oct 23. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3346.jpg. -- LJLT 3346 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler photographing a butterfly.] -- Computer data (1 file). -- 2013 Oct 22. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3345.jpg. -- LJLT 3345 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of clouds on the mountains in Lincoln, N.H.]. -- Computer data (1 file). -- [2014 May 23]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title supplied by cataloger. -- Filename: 3327.jpg. -- DDC 779.3
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of a cover bridget in Stowe, Vt.]. -- Computer data (1 file). -- 2015 May 04. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-05-04 12.45.09.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of a crab.] -- Computer data (1 file). -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3334.jpg. -- LJLT 3334 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pd
 Tyler, Justin Lee. -- [Photograph of a duck at Crane Beach (in the dunes), Ipswich, Mass.]. -- 2013 May 30. -- System requirements: USB drive; JPG file reader. -- Filename: 3335.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3335.jpg). -- DDC 779.
 
-### &nbsp;
+### tyler-j-pf
 Tyler, Justin Lee. -- [Photograph of a frog]. -- 2013 June 30. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Filename: 3343.jpg. -- Title supplied by cataloger. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3343.jpg). -- DDC 779.
 
-### &nbsp;
+### tyler-j-pf
 Tyler, Justin Lee. -- [Photograph of a Flume Gorge informational sign]. -- Computer data. -- [2014 Oct 25]. -- on 1 external hard drive. -- System requirments: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2014-10-25 10.49.48.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of marshes at Crane Castle, Ipswich, Mass.]. -- Computer data (1 file). -- 2013 June 15. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3338.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3338.jpg). -- LJLT: 3338. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of a Mourning Cloak butterfly taken at Po Hill, Amesbury, MA] . -- Computer data (1 file : 639 KB). -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3323.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of the mountains from an overlook on N.H. route 118]. -- Computer data (1 file : 1.54 MB). -- [2014 May 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3330.JPG. -- DDC 779.3
 
-### &nbsp;
+### tyler-j-pr
 Tyler, Justin Lee. -- [Photograph of the Redstone Rocket in Warren, N.H.]. -- Computer data (1 file : 1.32 MB). -- [2015 May 25]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3329.jpg. -- DDC 779.9
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of Shawn in sunlight at Crane Beach]. -- Computer data (1 file). -- 2013 July 17. -- on 1 external hard drive. -- System requirements: USB drive, JPG file reader. -- Title supplied by cataloger. -- Filename: 3344.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of Shawn standing under the cover bridge in Vermont]. -- Computer data (1 file). -- 2014. -- Title supplied by cataloger. -- System requirements: JPG file reader ; USB drive. -- Filename: 3353.jpg. -- DBID 3353. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of sun shining through trees]. -- Computer data (1 file : 2.67 MB). -- 2012 Oct 18. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Filename: 3321. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- Photograph of sunrays hitting a snow-covered lake. -- Computer data (1 file : 1.59 MB). -- 2012 Oct 18. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Filename: 3322.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of sunrays over the marshes at Crane Castle, Ipswich, Mass.]. -- Computer data (1 file). -- 2013 June 15. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3340.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3340.jpg). -- LJLT 3340. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of sunrays over a trail at Crane Castle, Ipswich, Mass.]. -- Computer data (1 file). -- 2013 June 15. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 3341.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3341.jpg). -- LJLT 3341. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- Photograph of a tree across a bridget at the bird sanctuary. -- Computer data (1 file). -- 2013 Oct 20. -- System requriments: USB drive; JPG file reader. -- Title supplied by cataloger. -- Filename: 2012-10-20 13.32.04.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-e
 Tyler, Justin Lee -- [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich. / Justin Lee Tyler]. -- on 1 external hard drive. -- System requirements: USB drive, txt file reader. -- Title supplied by cataloger. -- File name: 3248.txt. -- DDC 090.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Colleen Tyler, Jim and Natalie Berry, and Jan]. -- [2012]. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File name: 3256.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of Shawn]. -- Computer data. -- [2012]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File name: 3254.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of Shawn near a railroad crossing sign]. -- Computer data. -- [2012]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File name: 3255.jpg. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pb
 Tyler, Justin Lee. -- [Photographs of Burlington and Shelborne, Vermont]. -- Computer data. -- [2014]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title from cataloger. -- File directory: 3321. -- DBID 3321. -- DDC 799.
 
-### &nbsp;
+### tyler-j-pt
 Tyler, Justin Lee. -- [Photographs taken around the Blue Hills, Ipswich, Massachusetts]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3326. -- DDC 779.
 
-### &nbsp;
+### &tyler-j-pt
 Tyler, Justin Lee. -- [Photographs taken at Biolabs, Ipswich, Massachussets]. -- Computer data. -- 2013- . -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3274. -- DBID 3274. -- DDC 779.
 
-### &nbsp;
+### tyler-j-l
 Tyler, Justin Lee. -- Lyme disease caution [sign photograph]. -- Computer file (1 file : 488 kb). -- May 2, 2011. -- on 1 external hard drive. -- Title from resource and supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024 -- DDC 779.
 
-### &nbsp;
+### tyler-j-po
 Tyler, Justin Lee. -- [Photograph of an old building in San Fransisco]. -- Computer data (1 file : 85 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5655.jpg). -- DBID 5655 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Photograph of Carwash]. -- Computer data (1 file : 13 kb). -- [2007?]. -- on 1 external hard drive. -- Title supplied by Cataloger. -- File name: (5542.jpg). -- DBID 5542 -- DDC 779.3
 
-### &nbsp;
+### tyler-j-pg
 Tyler, Justin Lee. -- [Photograph of Grace Cathedral courtyard]. -- Computer data (1 file : 89 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5652.jpg). -- DBID 5652 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pg
 Tyler, Justin Lee. -- [Photograph of Grace Cathedral gardens]. -- Computer data (1 file : 116 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5654.jpg). -- DBID 5654 -- DDC 779.
 
-### &nbsp;
+### tyler-j-j
 Tyler, Justin Lee. -- [Photograph of Justin Tyler's bedroom in Saginaw]. -- Computer data (1 file : 35 kb). -- 2002. -- on 1 external hard drive. -- File name: (8818.jpg) -- DBID 8818 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of map of Hamilton Reservation]. -- Computer data (1 file : 376 kb). -- 2011 May 26. -- Title supplied by cataloger. -- Mode of Access: http://www.justinleetyler.com/library/3023.jpg. -- DBID 3023.jpg -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of Mass at Grace Cathedral, San Francisco, Calif.] -- Computer data (1 file : 21 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5658.jpg). -- DBID 5658.jpg -- DDC 779.
 
-### &nbsp;
+### tyler-j-pm
 Tyler, Justin Lee. -- [Photograph of mural in San Fransisco]. -- Computer data (1 file : 27 kb). -- [2007]. -- on 1 external hard drive. -- Title supplied by cataloger. -- File name: (5650.jpg). -- DBID 5651 -- DDC 779.4.
 
-### &nbsp;
+### tyler-j-pp
 Tyler, Justin Lee. -- [Photograph of Peconte]. -- Computer data (1 file : 52 kb). -- Title supplied by Cataloger. -- File name: (5541.jpg). -- DBID 5541 -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of San Francisco skyline]. -- Computer data (1 file : 15 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652 -- DDC 779.
 
-### &nbsp;
+### tyler-j-ps
 Tyler, Justin Lee. -- [Photograph of San Fransisco Chinatown]. -- Computer data (1 file : 102 kb). -- [2007]. -- on 1 external hard drive. -- File name: (5656.jpg). -- DBID 5656 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pa
 Tyler, Justin Lee. -- [Photograph of the Academy of Art University building in San Francisco, Calif.] -- Computer Data (1 file : 101 kb.) -- [2007?]. -- on 1 external hard drive. -- Title supplied by cataloguer. -- File name: (5657.jpg). -- DBID 5657 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pr
 Tyler, Justin Lee. -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.). -- Computer data (14 files). -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger.
 
-### &nbsp;
+### tyler-j-pv
 Tyler, Justin Lee.  -- [Photographs and videos of Justin and Shawn on Mt. Liberty]. -- Computer data (50 files : 35.4 mb). -- [2012]. -- on 1 external hard drive. -- System requirements: USB drive, MP4 and JPG file reader. -- Title supplied by cataloguer. -- File directory: /3227 . -- DBID 3227. -- DDC 917.42.
 
-### &nbsp;
+### tyler-j-pv
 Tyler, Justin Lee. -- [Photographs and videos of Justin on Mt. Osceola on Aug. 10, 2013]. -- Computer data. -- [2013]. -- on 1 external hard drive. -- System requirements: USB drive, MP4 and JPG file reader. -- Title supplied by cataloguer. -- File directory: 3289. -- DBID 3289. -- DDC 917.42.
 
-### &nbsp;
+### tyler-j-pg
 Tyler, Justin Lee. -- [Photographs of the George and Cherie Thompson estate]. -- Computer data (26 files : 8.79 mb. -- [2010]. -- on 1 external hard drive. -- System requrements: JPG file reader. -- Title supplied by cataloger. -- File directory: /3228 . -- DBID 3228. -- DDC 779.
 
-### &nbsp;
+### tyler-j-pd
 Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- Computer data (2 files) -- [200-?]-- on 1 external hard drive. -- Title supplied by cataloger. -- DBID 8825 -- DDC 779.
 
-### &nbsp;
+### tyler-j-pc
 Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- Computer data (11 files : 348 mb) -- 2012 Oct. 20. -- on 1 external hard drive. -- System requirements: .mp4 file reader. -- Title supplied by cataloger. -- File name: 3215. -- DBID 3215. -- DDC 384.55.
 
 U
