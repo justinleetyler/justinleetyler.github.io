@@ -7158,3 +7158,19 @@ Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlie
 ### 20210916_215003 
 Kroese, Robert. -- The Dream of the Iron Dragon. -- St. Culain Press, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B078WLB2CR). -- Title from amazon.com viewed Thu 09/16/2021. -- AISN B078WLB2CR. -- DBID 20210916_215003. -- DDC 813. 
 
+### openstax 
+Openstax. -- Rice University, c2021. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](https://openstax.org/). -- DDC 002.
+
+### open-t-l
+Open textbook library -- University of Minnesota, [202-?] -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](https://open.umn.edu/opentextbooks/). -- DDC 002.
+
+### free-k-b
+Free kids books. -- Free Kids Books, 2021. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](https://freekidsbooks.org/). -- DDC 002.
+
+### ellefson-l-h
+Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589) -- IN Lifehacker. -- (Oct. 13, 2021) -- DDC 650.
+> Calmly address the situation with your boss: I feel ___ when you ___ because I think it means ___. -q -- ... remind them that you’ll show them your results through your output, not minute-by-minute updates on what you’re doing, how you’re doing it, and what you’ve accomplished that day. -q -- Show, don't tell. -q
+
+## kindle-4
+Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.
+
