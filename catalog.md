@@ -498,7 +498,7 @@ Bhagavad-Gita: The song of God / [translated by] Christopher Isherwood . -- New 
 > You must never tell this holy truth to anyone who lacks self-control and devotion. -p. 129 -q
 
 ### bible-e-m
-Bible, English. Message. 2002. -- The Message : The bible in contemporary language / Eugene H. Peterson. -- Large Print Numbered ed. -- Computer data (1 file). -- Navpress, c2002.. -- Title from Title Page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1576836738. -- DDC 220.
+Bible. English. Message. 2002. -- The Message : The bible in contemporary language / Eugene H. Peterson. -- Large Print Numbered ed. -- Computer data (1 file). -- Navpress, c2002.. -- Title from Title Page. -- System requirements: Asus Transformer; Android OS; Kindle app. -- ISBN 1576836738. -- DDC 220.
 > Prosperity is as short-lived as a wildflower, so don't ever count on it. -James 1 -q
 > The temptation to give in to evil comes from us and only us.... Lust gets pregnant, and has a baby: sin! Sin grows up to adulthood, and becomes a real killer. -James 1 -q
 > Lead with your ears, follow up with your tongue, and let anger straggle along in the rear. -James 1. -q
@@ -6641,19 +6641,13 @@ Taylor, Meadows. -- Confessions of a thug. -- Stein and Day, c1968. -- vii, 338 
 > Ch. 02: He learns about Islam.
 
 ### tears-f-t
-Tears for Fears (Musical group). -- Tears Roll Down. -- Computer data. -- New York: Mercury, 2004. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
-
-### ten-i-p
-Ten important points to remember when the priest calls. -- Computer data (1 file : 1.3 mb) -- [S.l., s.n., n.d.] -- on 1 external hard drive. -- Title from resource. -- File name: (7004.pdf) -- DBID 7004 -- DDC 253.
-
-### teng-v-w
-Teng, Vienna. -- Waking Hour. -- Computer data. -- Brighton, MA: Virt Records, 2002. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.64.
+Tears for Fears (Musical group). -- Tears Roll Down. -- Computer data. -- New York: Mercury, 2004. -- on 1 external hard drive. -
 
 ### 10-e
 The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard drive. -- Title from resource. -- File name: (10166.pdf) -- DBID 10166. -- IN Backpacker. -- Vol. 40, no. 3 (Apr. 2012). -- ISSN 0277-867X -- DDC 796.51.
 
 ### access-b
-The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
+Bible. English. New Revised Standard. 1999. -- The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
 
 ### &nbsp;
 The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco : Harper & Row, c1987. -- xii, 267 p. -- ISBN 0060655771 -- DDC 291.
