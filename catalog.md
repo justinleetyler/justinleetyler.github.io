@@ -304,7 +304,7 @@ Austen, Jane. -- Emma. -- Computer data (1 file). -- [S.l.], 2010. -- System req
 > CH. 09: Mr. Knightly and Emma have a fiece disagreement about Harriet. -s
 > Isabella Woodhouse: Fictional character. -- Emma Woodhouse's sister. -f
 
-###austen-j-p
+### austen-j-p
 Austen, Jane. -- Persuasion. -- Computer data (1 file). -- e-artnow, 2018. -- System requirements: Kindle app. -- Title from Amazon.com. -- Also available on the World Wide Web (https://read.amazon.com/?asin=B0797TCF3F). -- AISN B0797TCF3F. -- DDC 823.
 
 ### Australis-l
@@ -322,31 +322,31 @@ Axelrod, Alan. -- Profiles in audacity. -- New York : Sterling Publishing, c2006
 B
 ---
 
-### 9057
+### babauta-l-f
 Babauta, Leo. -- Focus : a simplicity manifesto in the age of distraction. -- Computer data (1 file : 451 kb) -- [S.l., s.n., 2010?] -- Title from title page. -- File name: (9057.pdf) -- DBID 9057 -- DDC 647.7.
 
-### 8373
+### balas-j-l
 Balas, Janet L. -- Will the ILS soon be as obsolete as the card catalog. -- Computer data (1 file : 11 kb) -- Title from p -- DDC -- File name: (8373.txt) -- DBID 8373. -- IN Computers in Libraries. -- Vol. 37, no. 9 (Oct. 2007) -- DDC 025.3.
 
-### &nbsp;
+### baldron-n-s
 Baldron, NAK. -- Sourcerer's quest. -- Aconite Cafe, 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B0833HHLDH). -- AISN B0833HHLDH. -- DDC 813.
 
-### 10150
+### balmer-j-c
 Balmer, John M.T. -- Corporate heritage brands and the precepts of corporate heritage brand management. -- Computer data (1 file : 266 kb) -- Title from p -- DDC -- File name: (10150.pdf) -- DBID 10150. -- IN Journal of Brand Management -- Vol. 18, no. 8 (Jun. 2011) -- DDC 342.42.
 
-### 3267
+### balmoral
 [Balmoral]. -- Computer data (1 file : 224 MB). -- [BBC, n.d.] -- on 1 external hard drive. -- System requirements: USB drive; FLV file reader. -- Title supplied by cataloger. -- File name: 3267.flv. -- DDC 728.
 
-### 3239
+### bands-t
 Bands and tribes. -- Computer data (1 file). -- [S.n., n.d.]. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3239.pdf. -- DDC 305.8.
 > However, some individuals in a band stand out for their skills and knowledge.  These often are the people who have the best memories, are the best hunters, most successful curers, most gifted speakers, or have some other special ability.  Such people become informal leaders. -q
 > They [Informal leaders] can give advice and propose action, but they do not have the formal authority to force others to accept their decisions. -q
 > The principle goal of politics in most bands is making sure that people get along with each other. -q
 
-### &nbsp;
+### bannister-p-k
 Bannister, Paul. -- The king's cavalry. -- Computer data (1 file). -- Endeavour Press, 2014. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app. -- Title from cover. -- ASIN B00IGJ1KDS. -- DDC 813
 
-### 3354
+### barlow-c-r
 Barlow, Connie. -- Ritualizing big history. -- Computer data (1 file). -- System requirements: USB drive, pdf file reader. -- Title from resource. -- Filename: 3354.pdf -- Also available on the World Wide Web: http://www.metanexus.net/blog/ritualizing-big-history.  -- IN Metanexus. (2013 Mar 14) -- DDC 113
 
 ### barry-d-i
@@ -5449,7 +5449,7 @@ Prothero, Stephen R. -- American Jesus. -- New York : Farrar, Straus, and Giroux
 > Great Disappointment -p. 167 -f
 > His [Joseph Smith] was unabashedly masculine and unapologetically majestic -p. 178 -q
 > 'The book of morman as ''choloform in print.'''Mark Twain -p. 182 -q
-> Mormons continued to accept the Bible as God's word only 'as far as it is translated correctly.' -p. 186 -qProven. -- Computer data (1 program). -- Proven.com, c2011. -- Title from homepage. -- Mode of Access: World Wide Web (http://www.proven.com). -- DDC 331.
+> Mormons continued to accept the Bible as God's word only 'as far as it is translated correctly.' -p. 186 -q
 
 ### pure-m-3
 Pure Moods III. -- Computer data. -- Beverly Hills, Calif: Virgin Records America, 2000. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
@@ -6223,7 +6223,7 @@ Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of 
 > 'God is Father, but above all Mother.'John Paul II -p. -q
 > 'Others have noted the correspondence between the Christian doctrine of the Holy Spirit and the Hindu idea of shako, the generating strength, the creative power of God, thought of as female in Hinduism' -p. -q
 > theopathy -p. -d
-> I. The Image of the Biblical God -p. -oShelfari. -- Computer program. -- Shelfari, c2006- -- Mode of Access: World Wide Web (http://www.shelfari.com). -- Title from homepage. -- DDC 002.
+> I. The Image of the Biblical God -p. -o
 
 ### shore-h-m
 Shore, Howard. -- Music from the Lord of the Rings, the Trilogy. -- Computer data. -- Portugal: IMC Music, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
@@ -6513,7 +6513,7 @@ Stoll, Scott. -- Yes, plants have protein. -- Computer data. -- Mode of Access: 
 > Broccoli contains more protein per calorie than steak and, per calorie, spinach is about equal to chicken and fish. -q
 > How can you add more plant-based protein to your diet? By simply eating more plants. Beans (27% protein) lentils (36%), chickpeas (33%), peas (30%), and kale (22%)... -q
 
-###stone-a-e
+### stone-a-e
 Stone, Andria. -- Edge of the future. -- Computer data (1 file). -- S.n., 2017. -- Title supplied by Amazon.com. -- System requirement: Kindle app. -- AISN B06XD3J7K7. -- DDC 813.
 
 ### stories2011
