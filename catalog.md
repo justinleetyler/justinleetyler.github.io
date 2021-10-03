@@ -6471,6 +6471,3 @@ Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Title from
 
 ## kindle-4
 Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.### 20211003_064033 
-n/a. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](288). -- Title from homepage viewed Sun 10/03/2021. -- DDC n/a. 
-### 20211003_064620 
-n/a. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](288). -- Title from homepage viewed Sun 10/03/2021. -- DDC n/a. 
