@@ -7173,3 +7173,5 @@ Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Title from
 
 ## kindle-4
 Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.
+### 20211003_072454 
+ Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
