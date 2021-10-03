@@ -1946,7 +1946,7 @@ Davidson, Basil. -- African Kingdoms / by Basil Davidson and the editors of Time
 > He [the witch-doctor] was often able to settle disputes between rivals that may have led to voilence, and his knowledge of the medicinal value of herbs frequently led him to prescribe remedies that actually cured. Also, through his intimate knowledge of the lives of the people of in his community, and of human nature in general, it was not unusual for him to fuction as a sort of prescientist psychologist -p. 128 -q
 > For Africans the goal in life was to live as one's fathers had lived. It might not be progress, but it was stability. -p. 128 -q
 
-### &nbsp;
+### davis-c-f
 Davis, Chip. -- A Fresh Aire Christmas / [by] Chip Davis and John Rutter. -- Computer data. -- Omaha, Neb.: American Gramaphone, 1988. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.723.
 
 ### davis-w-w
@@ -2605,7 +2605,7 @@ Fisher, Catherine. -- The hidden coronet. -- Dial Books, 2011. -- 421 p. -- ISBN
 > 26 at the center of the hoard lies Kest, and in his hands, the coronet. -s
 > 27 The sekoi uses the coronet. -s
 
-### &nbsp;
+### fisher-c-r
 Fisher, Catherine. -- Relic master. Part 1. -- Firebird, 2013. -- 362 p. -- ISBN 9780142426876. -- DDC 813
 > I The dark City -- II The Lost Heiress
 > But a keeper's soul was linked with the earth, deep with stone and tree and soil... p. 244 -q
@@ -3279,7 +3279,7 @@ Hannan, Daniel. -- Inventing freedom. -- 1st ed. -- Broadside books, c2013. -- 3
 > He would recognize India as a staet hat met the criteria he saw as essential to civilization, namely a mechanism to change the government peacefully, a legal system that is independent of the rulers, and a conception of property rights that protects the freedom of the individual. -p. 376 -q
 > You, reading these words in his language, are the heirs to a subline tradition. A tradition that gave us liberty, property, and democracy, and that raised our species to a pinnacle of wealth and happiness hitherto unimaginable. Act worthy of yourselves. -p. 377 -q
 
-### &nbsp;
+### harari-y-s
 Harari, Yuval Noah. -- Sapiens. -- 1st ed. -- HarperCollins, c2015. -- 443 p. -- ISBN 9780062316097. -- DDC 909.
 > The chimpanzees are the closest. Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, and the other is our own grandmother. -p. 5 -q
 > The more eastern regions of Asia were populated by Homo erectus. 'Upright Man', who survived there for close to 2 million years, making it the most durabe human species ever. This record is unlig\kely to be broken even by our own species. It is douhtful whether Homo sapiens will still be around a thousand years fro nw, so 2 milion years is really out of our leaue. -p. 6 -q
@@ -3900,7 +3900,7 @@ Keen, Andrew. -- The cult of the amateur / [by] Andrew Keen. -- New York : Doubl
 > But technology doesn't create human genius.  -p. 204 -q
 > ... I believe our real moral responsibility is to protect mainstream media against the cult of the amateur.  -p. 204 -q
 
-### &nbsp;
+### kellar-m-g
 Kellar, Melanie. -- A Goal-based Classification of Web Information Tasks. -- [1] v. -- Title from OCLC record. -- DBID 2018. -- IN Proceedings of the American Society for Information Science and Technology. -- Vol. 43, no. 1 (Oct. 10, 2007), p. 1-22. -- DDC 025.3.
 > I. Classification Techiques -p. -o
 > II. Web information searching -p. -o> 2 Marcus Tullius Cicero, the good citizen: The new man -- De Republica -- De Legibus -- De Officiis -- On the good life -- On friendship -- On old age -- Death. -o
@@ -5512,7 +5512,7 @@ Raphael, Ray. -- Mr. President : how and why the founders created a chief execut
 > 'Such an officer as vice-President was not wated. He was introduced only for the sake of a valuable mode of election which requires two to be chosen at the same time.' -Williamson. -118 -q
 > To avoid intrigue and cabal, electors were to meet simultaneously in their separate staates. To offset the favorite-son temptation, each elector was to vote or two men, including at least one from another state... the runner-up vice president, an office that made its first appearance in the Committee of Eleven's report... but the second ballot created a problem: there was no appropriate office for that man fill...  -109-118  -q
 
-### &nbsp;
+### rathbone-b-c
 Rathbone, Brian. -- Call of the Herald. -- Computer data (1 file). -- [S.l.] : White Wolf Press, 2010.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3049 -- DDC 813.
 
 ### rayappan-a-n
@@ -5888,10 +5888,10 @@ Rothfuss, Patrick. -- The wise man's fear. -- Dow Books, c2011. -- 993 p. -- ISB
 > Ciridae: the highest order of the Amyr. -p. 289 -f
 > You might be a see-er eventually, but not yet. Now you are a look-er. YOu'll be a true E'lir at some point. If you learn to relax... Too much looking can get in the way of seeing... -Puppet -p. 299 -q
 
-### &nbsp;
+### row-s-w
 Rowe, Sara. -- Write it out : how journaling can drastically improve your physical, emotional, and mental health. -- Computer data. -- on 1 external hard drive. -- Title from resource. -- File name: (3205.pdf). -- DBID 3205. -- IN Vibrant life. -- Vol. 28, no. 2 (Mar.-Apr. 2012) -- DDC 808.06692.
 
-### &nbsp;
+### rox-m-c
 Rox, Mikey. -- Cooking for beginners. -- Computer data. -- [S.n.], 2012. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- File name: 3269.pdf. -- DDC 614.
 
 ### rolling-j-hc
@@ -6649,7 +6649,7 @@ The 10 essentials. -- Computer data (1 file : 183 kb) -- on 1 external hard driv
 ### access-b
 Bible. English. New Revised Standard. 1999. -- The Access Bible / Gail R. O'Day [and] David Petersen, General Editors. -- Oxford, New York : Oxford University Press, c1999. -- 1 v. (various pagings). -- ISBN 0195282361. -- DBID 5361 -- DDC 220.
 
-### &nbsp;
+### ancient-m
 The ancient mysteries / edited by Marvin W. Meyer. -- 1st ed. -- San Francisco : Harper & Row, c1987. -- xii, 267 p. -- ISBN 0060655771 -- DDC 291.
 > 'I. Introduction A. Secret ceremonies 1. The legomena (things recited) a. 'mythological foundation for the celebration of the mysteries.' -10 b. performed by Priests. 2. The deiknymena (things shown) a. Visual images 3. The dromena (things performed) a. variety of rituals' -p. 1- -o
 > 'The development of early agrarian or fertility festivals into the mystery religions involved, first and foremost, the conviction on the part of the worshippers that the cycle of nature related directly to human life? Hence, if human beings could assimilate the power that made life triumphant in the world of nature, they too might live in a more complete way.' -p. 7-8 -q
@@ -6961,13 +6961,13 @@ Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- C
 U
 ---
 
-### &nbsp;
+### uremovich-c-f
 Uremovich, Christopher. -- Fable hill. -- Computer file (1 file). -- [S.n.], 2017. -- Title from Amazon.com. -- System requirements: Kindle app. -- AISN B0771MP592. -- DDC 813.
 
-### &nbsp;
+### united-states-rda
 U.S. RDA Test Coordinating Committee. -- Report and recommendations of the U.S. RDA test coordinating committee. -- Computer data (1 file : 2.51 mb) -- [S.l. : The committee], 2011. -- Title from resource. -- File name: (10163.pdf) -- DBID 10162 -- DDC 025.3.
 
-### &nbsp;
+### unitarian-u
 Unitarian Universalism: respecting diversity. -- Computer data. -- Mode of Access: World Wide Web. -- Title from resource. -- IN Skipping Stones. -- (1994). -- DDC 289.1.
 > The inherent worth and dignity of every person. We believe that each and every person is important. -q
 > Justice, equity, and compassion in human relations. We believe that all people should be treated fairly. -q
@@ -6977,25 +6977,25 @@ Unitarian Universalism: respecting diversity. -- Computer data. -- Mode of Acces
 > The goal of world community with peace, liberty, and justice for all. We believe in working for a peaceful, fair, and free world. -q
 > Respect for the interdependent web of all existence of which we are a part. We believe in caring for our planet earth. -q
 
-### &nbsp;
+### unitarian-u-c-p
 Unitarian Universalist Church of the Palouse. -- Celebrant's guide / UU Church of the Palouse. -- Computer data (1 file). -- [The author], 2013. -- Mode of Access: World Wide Web (http://www.palouseuu.com/#/worship-services/4556396206). -- Title from p -- DDC -- DDC 289.1
 
-### &nbsp;
+### united-nations-s
 United Nations. Secretariat. -- Record-keeping and the management of United Nations archives. -- Computer data (1 file : 41 kb). -- [S.l. : s.n., 2007]. -- Title from p -- DDC -- File name: (1680.pdf). -- DBID 1680 -- DDC 651.
 
-### &nbsp;
+### united-states-c
 United States. Central Intelligence Agency. -- The 2009 CIA world factbook. -- Computer data (1 file : 6.4 mb) -- [S.l. : s.n., 2009?] -- on Asus Transformer. -- Title from resource. -- System Requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3117 -- DDC 310.
 
-### &nbsp;
+### university-d-m
 University of Detroit Mercy. -- 2007-2008 tuition & fees schedule. -- Computer data (1 file : 306 kb). -- [Detroit, Mich. -- UDM, 2008]. -- File name: (5377.PDF). -- DBID 5377 -- DDC 378.
 
-### 10172
+### using-l
 Using the Library of Congress : MARVEL gopher. -- Computer data (1 file : 6 kb) -- [S.l. : s.n., n.d.] -- Title from resource. -- File name: (10172.txt) -- DBID 10172 -- DDC 027.
 
 V
 ---
 
-### &nbsp;
+### vance-j-h
 Vance, J.D. -- Hillbilly elegy. -- Harper, 2016 -- v. -- DDC 305.
 > As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201
 > It’s about a culture that increasingly encourages social decay instead of counteracting it. -location 228
@@ -7038,23 +7038,23 @@ Vance, J.D. -- Hillbilly elegy. -- Harper, 2016 -- v. -- DDC 305.
 > I’ve learned that the very traits that enabled my survival during childhood inhibit my success as an adult. -location 3293
 > whether he can access a church that teaches him lessons of Christian love, family, and purpose; -location 3392
 
-### &nbsp;
+### vangelis-o
 Vangelis. -- Odyssey: The Definitive Collection / [by] Vangelis and Jon Anderson. -- Computer data. -- Santa Monica, CA: Hip-O, 2003. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.67.
 
-### 3268
+### tyler-j-v-w
 Tyler, Justin Lee. -- [Video of Mt. Wolf summit]. -- Computer data (1 file : 14 MB). -- July 21, 2012. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title supplied by cataloger.-- File name: 3268.mp4 -- DDC 917.42.
 
-### 3065
+### vinge-v-c
 Vinge, Vernor. -- The children of the sky. -- 1st ed. -- New York : Tor, c2011. -- 444 p. -- ISBN 9780312875626. -- DBID 3065 -- DDC 813.
 > Vendacious and Chitiratifor visits the tycoon; offering information about the humans.  -p. 11-16 -o
 
-### &nbsp;
+### vollenwwider-a
 Vollenweider, Andreas. -- Behind the Gardens. United States: Kin Kou, 2005. -- Title from Compact Disk. -- DDC 781.67
 
 W
 ---
 
-### &nbsp;
+### waal-f-b
 Waal, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- 289 p. -- ISBN 9780393073775. -- DDC 599.
 > CH. 1: What if human morality is not top-to-bottom, but bottom-to-top based on our experience, and interactions in community? -s
 > CH. 2: Things (such as sex, love; for reproduction) evolved for a reason, but we are not a slave to it. -s
@@ -7117,42 +7117,49 @@ White, Laurence B. -- Life in the shifting dunes / by Laurence B. White, Jr.; Il
 > Fox's eat mice
 > weasals kill for the fun of it
 
-### Deng1992 
+### deng-m-265
 Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021. -- DDC k299. 
-### 20210628_074109 
+
+### 12-outstanding
 12 outstanding personality traits of a great boss. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.officevibe.com/blog/infographic-great-boss). -- Title from homepage viewed Mon 06/28/2021. -- DDC w650. 
-### 20210628_074902 
+
+### 12-rituals
 12 rituals happy, successfull people practice every day. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day). -- Title from homepage viewed Mon 06/28/2021. -- DDC w152. 
-### 20210628_103204 
+
+### answers
 Answers.com. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.answers.com). -- Title from homepage viewed Mon 06/28/2021. -- DDC w030. 
-### Tanner[n.d.] 
+
+### tanner-o-n
 Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a -- DDC b500. 
-### Krakauer[n.d.] 
+
+### krakauer-j-i
 Krakauer, Jon. -- Into the wild. -- [s.n, n.d]. -- v. -- DDC b920. 
-### 20210629_063003 
+
+### 10-simple
 10 Simple CSS Code Examples You Can Learn in 10 Minutes. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/simple-css-code-examples/). -- Title from homepage viewed Tue 06/29/2021. -- DDC w006. 
-### Wallc2013 
-Wall, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- v. -- ISSN 9780393073775 -- DDC b599. 
-### 20210629_210606 
+
+### unitarian-u-f-a
 The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021. -- DDC w. 
-### White1960 
+
+### white-l-l
 White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k574.
-### DeLancey2014 
+
+### DeLancey-c-w
 DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021. -- DDC k813.
 
-### 20210911_185623 
+### asimov-i-f
 Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553293357. -- DBID 20210911_185623. -- DDC 813. 
 > Read 2021-09. -- Grade C. -- It is uncientific to suppose meaningless cases. -p. 259. -q -- I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q -- A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
 
-### 20210911_190618 
+### arenson-d-h
 Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- Title from amazon.com viewed Sat 09/11/2021. -- AISN B077J7X6H7. -- DBID 20210911_190618. -- DDC 813. 
 >Read 2021-06. -- Grade C.
 
-### 20210915_0737
+### charlier-m-d
 Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlier; Translated by Rebecca Neal. -- 50minutes.com, c2017. -- Mode of Access: World Wide Web. -- URL https://www.hoopladigital.com/play/13056250 -- ISBN 9782808000390. -- DBID 20210915_0737.
 > Formulate a plan: Analyse your professional history; analyse your ambitions, motivations, and potential; define your professional cand career choices; identify the means at your disposal; implement a strategy and plan of action towards your objectives. -- Stages in drawing up your career strategy: set deadlines; use various tools to create your personal brand; network effectively; extablish a career plan in line with your skills, objectives and career path; evaluate your skills and objectives ; identify your personality type; analysis your professional journey. -- 
 
-### 20210916_215003 
+### kroese-r-d
 Kroese, Robert. -- The Dream of the Iron Dragon. -- St. Culain Press, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B078WLB2CR). -- Title from amazon.com viewed Thu 09/16/2021. -- AISN B078WLB2CR. -- DBID 20210916_215003. -- DDC 813. 
 
 ### openstax 
