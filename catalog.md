@@ -7142,10 +7142,7 @@ DeLancey, Craig. -- Well of Furies. -- na, 2014. -- Mode of Access: [World Wide 
 
 ### 20210911_185623 
 Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553293357. -- DBID 20210911_185623. -- DDC 813. 
-> Read 2021-09. -- Grade C.
-> It is uncientific to suppose meaningless cases. -p. 259. -q
-> I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q
-> A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
+> Read 2021-09. -- Grade C. -- It is uncientific to suppose meaningless cases. -p. 259. -q -- I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q -- A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
 
 ### 20210911_190618 
 Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- Title from amazon.com viewed Sat 09/11/2021. -- AISN B077J7X6H7. -- DBID 20210911_190618. -- DDC 813. 
@@ -7173,5 +7170,6 @@ Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Title from
 
 ## kindle-4
 Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.
-### 20211003_072454 
- Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
+
+### bennett-m-d
+Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
