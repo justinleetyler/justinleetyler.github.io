@@ -301,6 +301,7 @@ Star gazing log
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
+|2021-10 | [The unitarian way](https://archive.org/details/unitarianway0000hewe) / Phillip Hewett. | 288 |
 |2021-04 | The good fight / Walter Mondale ||
 |2020-07 | Indistinguishable from Magic / Robert L. Forward ||
 |2020-06 | The blue saphire of the mind / Douglas E. Christie  | |

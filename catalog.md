@@ -6470,4 +6470,5 @@ Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Title from
 > Calmly address the situation with your boss: I feel ___ when you ___ because I think it means ___. -q -- ... remind them that you’ll show them your results through your output, not minute-by-minute updates on what you’re doing, how you’re doing it, and what you’ve accomplished that day. -q -- Show, don't tell. -q
 
 ## kindle-4
-Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.
+Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 2021. -- Mode of Access: [World Wide Web](http://kindle4rss.com/). -- DDC 005.### 20211003_064033 
+n/a. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](288). -- Title from homepage viewed Sun 10/03/2021. -- DDC n/a. 
