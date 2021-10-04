@@ -7180,3 +7180,6 @@ Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 20
 
 ### bennett-m-d
 Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
+
+### american-u-u
+American Unitarian Association -- Unitarian service book -- [S.n.], 1903. -- Title from title page viewed Oct. 4, 2021. -- Mode of Access: [World Wide Web](https://archive.org/details/unitarianservice00amer). -- DDC 288.
