@@ -183,9 +183,9 @@ Star gazing log
 |2012-11 |   |Choosing simplicity / Linda Breen Pierce. | 178|
 |2012-11 |   |The Downing Street years / Margaret Thatcher.|
 |2012-09 |   |The traveler | 813|
-|2012-08 |   |Round the moon | by Jules Verne. | 843|
-|2012-08 |   |Riding the flume | Patricia Curtis Pfitsch. | 813|
-|2012-07 |   |Abraham Lincoln, vampire hunter | [by] Seth Grahame-Smith. | 813|
+|2012-08 |   |Round the moon / by Jules Verne. | 843|
+|2012-08 |   |Riding the flume / Patricia Curtis Pfitsch. | 813|
+|2012-07 |   |Abraham Lincoln, vampire hunter / [by] Seth Grahame-Smith. | 813|
 |2012-07 |   |The man who quit money / [by] Mark Sundeen. | 332|
 |2012-07 |   |Abraham Lincoln / Thomas Keneally. | 923.2|
 |2012-07 |   |Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. | 823|
@@ -446,24 +446,24 @@ Star gazing log
 |2011-10 | Pamphlets on the Constitution of the United States published during its discussion by the people, 1787-1788. | 342|
 	  
 ## HIKING LOG
-LACE. | DATE/TIME. | MILES. | WEATHER. | NOTES. |
-------|------------|--------|----------|--------|
-arold Parker State Forest. | 11/12/2016, 2 hrs. | n/a | Sunny, 40's.|
-ard Reservation. | 11/17/2015.|
-t. Osceola. | 08/14/15; 8 hrs. | sunny; 70s. | via Mt. Osceola trail w/ Rob M.|
-arold Parker State Forest. | 11/23/14; 2 hrs.|
-t. Osceola via Greeley Pond (Wht Mtn's, NH). | 05/21/14; 8 hrs. | 7.6 mi. | pt. cloudy; 60s. | Steep grades, loose rock. |
-owow Hill (Amesbury, MA). | 05/20/14; .5 hrs.|
-rane Beach trails. | Mar 30, 2014. | 2 hrs. | pt. cloudy; 50's.|
-host Trail (Amesbury/Salisbury, Mass). | Jan 26, 2014. | 3 mi; 1.5 hrs. | pt. cloudy; 20s. | Marsh Trail was closed. Trail includes roads.|
+| PLACE. | DATE/TIME. | MILES. | WEATHER. | NOTES. |
+|------|------------|--------|----------|--------|
+| Harold Parker State Forest. | 11/12/2016, 2 hrs. | n/a | Sunny, 40's.|
+| Ward Reservation. | 11/17/2015.|
+| Mt. Osceola. | 08/14/15; 8 hrs. | sunny; 70s. | via Mt. Osceola trail w/ Rob M.|
+| Harold Parker State Forest. | 11/23/14; 2 hrs.|
+| Mt. Osceola via Greeley Pond (Wht Mtn's, NH). | 05/21/14; 8 hrs. | 7.6 mi. | pt. cloudy; 60s. | Steep grades, loose rock. |
+| Powow Hill (Amesbury, MA). | 05/20/14; .5 hrs.|
+| Crane Beach trails. | Mar 30, 2014. | 2 hrs. | pt. cloudy; 50's.|
+| host Trail (Amesbury/Salisbury, Mass). | Jan 26, 2014. | 3 mi; 1.5 hrs. | pt. cloudy; 20s. | Marsh Trail was closed. Trail includes roads.|
 | Harold Parker State Forest. | Sept. 15, 2013; 2 hrs. | Saw one snake. 	 |
-ast Osceola (White Mtn's, NH). | 8/10/2013; 5 hrs. | Sunny.|
-ard Reservation (Andover, MA). | 06/25/2013; 1.5 hrs. | Sunny.|
+| ast Osceola (White Mtn's, NH). | 8/10/2013; 5 hrs. | Sunny.|
+| Ward Reservation (Andover, MA). | 06/25/2013; 1.5 hrs. | Sunny.|
 | Mt. Osceola (White Mtn's, NH). | 05/19/13; 10:30-4:00; 5.5 hrs. | Sunny, 65 F.	 |
-ow Brook Conservation Area (Ipswich, MA). | 05/15/13; 1 hr.|
-ost Nations (Hillsdale, MI). | 04/27/13; 5hr 30 min. | Sunny.|
-alem State Forest (Salem, N.H.). | 04/14/2013; 1hr 45 min.  |
-udding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
+| ow Brook Conservation Area (Ipswich, MA). | 05/15/13; 1 hr.|
+| Lost Nations (Hillsdale, MI). | 04/27/13; 5hr 30 min. | Sunny.|
+| Salem State Forest (Salem, N.H.). | 04/14/2013; 1hr 45 min.  |
+| Pudding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
 | Ward Reservation (Andover, MA). | 02/03/2013; 2hr. | 6 mi.(?).|
 | Ward Reservation (Andover, MA). | 01/22/2013; 2hr 15 min. | 6 mi.(?).|
 | Winnekenni Park (Haverhill, MA). | January 6, 2013; 1.5 hrs. | 6 mi.(?).|
