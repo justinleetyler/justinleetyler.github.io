@@ -14,7 +14,8 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
-|2021-09 | D | 9 Any job will do / John Wilker |813 | |
+|2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
+|2021-09 | D | 9 Any job will do / John Wilker | 813 | |
 |2021-09 | C | 8 [From Cape to Cairo](https://justinleetyler.github.io/catalog#duncan-d-f) / David Ewing Duncan | 941 | An african travel autobiography |
 |2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#milton2019) / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
 |2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | A humor book about politics. |

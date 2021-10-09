@@ -6642,7 +6642,12 @@ Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553
 
 ### arenson-d-h
 Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- Title from amazon.com viewed Sat 09/11/2021. -- AISN B077J7X6H7. -- DBID 20210911_190618. -- DDC 813. 
->Read 2021-06. -- Grade C.
+> Read 2021-06. -- Grade C. -r
+> Palaevia was the largest city on the warm, verdant planet of Paev. -- They said that Queen Einav Ben-Ari, the Golden Lioness of Earth, -- Our flaws always seem magnified to our own eyes, Rowan thought, even if others barely notice them. -- Their theology seemed laughable. Ancient beings living in a higher plane of existence, sending down mystical aether? Glowing tattoos that could summon magic? -- "You cannot defeat the scorpions with your starships, mighty as they may be, Emet Ben-Ari! Only the light of aether can defeat evil." -- Godblade -- maybe Latin American, unlike her father and brother who were fairer. But the old distinctions no longer mattered. They were all one nation in the darkness of space. -- No human has set foot on Earth in two thousand years, not since the Hydrian Empire destroyed -- Leona smiled as she flew. Let them banter. Let them joke. The galaxy was filled with horror, with death and suffering, with millions crying out in agony. -- Let us cling to whatever joy, whatever laughter we can find, she thought. There's always time for joy. -- 4 leona will lead a scout expedition to earth while tge rest fight scorpians. -s -- 5 the scorpions attack but leona and co get out. -s -- We lost this battle, Coral thought. But we live to fight another day. -- 6 coral leaves to find the godblade. -s -- But I can't control how folks are talkin'." -- "Today goodness won," she finally said. "Today I was kind, and I swayed him with my kindness, without needing your gun." She looked at him. "Sir, perhaps I'm naive. But I believe that goodness always wins." -- Elysium, the planet of the Weeping Guildhall. -- 13 they made it through rhe front line on the way to the weavers ghildhall planet. -s
+
+### arenson-d-m
+Arenson, Daniel. -- A memory of Earth. -- Moonclipse, 2018. -- Title from amazon.com viewed Oct 9, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- ASIN B077J8WH3B. -- DDC 813.
+> Read 2021-10 -- Grade C. -r
 
 ### charlier-m-d
 Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlier; Translated by Rebecca Neal. -- 50minutes.com, c2017. -- Mode of Access: World Wide Web. -- URL https://www.hoopladigital.com/play/13056250 -- ISBN 9782808000390. -- DBID 20210915_0737.
@@ -6669,6 +6674,3 @@ Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 20
 
 ### bennett-m-d
 Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
-
-### american-u-u
-American Unitarian Association -- Unitarian service book -- [S.n.], 1903. -- Title from title page viewed Oct. 4, 2021. -- Mode of Access: [World Wide Web](https://archive.org/details/unitarianservice00amer). -- DDC 288.
