@@ -252,7 +252,7 @@ Star gazing log
 |2011-10 |   |The Da Vinci Code. | 813|
 |2011-10 |   |Empty Mirror, The. | 294.3|
 |2011-10 |   |Foresters, The. | 823|
-|2011-10 |   |Greener Shore, The. | 813|
+|2011-10 | B |The Greener Shore / Morgan Llywelyn | 813 | We know who we are by knowing what we have done. |
 |2011-10 |   |Illuminator, The. | 813|
 |2011-10 |   |Philosophy : | 190|
 |2011-10 |   |Responsible Self, The. | 171|
