@@ -5005,6 +5005,9 @@ Sheng, C.L. -- A defense of utilitarianism. -- Lanham, MD : University Press of 
 > 'I regard the aggregated or social utility as the ultimate objective of human beings. The ultimate objective naturally leads to the principle of utility, which is the core of utilitiarianism.' -p. 8 -q
 > 'I. Introduction A. Development of Modern Unilitarianiam 1. Plato a. 'greatest balance of pleasure over pain' yes 2. Aristotle a. Happeness is the greatest attainable virtue. 3. Francis Hutcheson a. came up with the phrase 'greatest happiness for the greatest number' yes 4. Jeremy Bentham a. hutchesons phrase is 'the measure of right and wrong' yes 5. John Steward Mills 6. Henry Sidgwich a. wrote 'Method of Ethics': exploring self-interest and altruism. 7. Hastings Rashdall a. Ethics must be teleological.Traditional utilitariansim v.s rule-utilitariasm act utilitarianism a. a comparison of values instead of rules rule-utiliariansim a. nonstrict moral principles as thumb for guidance S.E. ToulminJ.O. urmson also must be teleologicalC. Difficulties with utilitariansim 1. Interpretation of the principle of utility. 2. Determination of value and utility 3. Individual v.s. societal points of view. 4. Distribution a. 'involved in the very meaning of utility, or the great' -p. 1- -o
 > During much of modern philosophy the predominant systematic theory has been some form of utilitariansim. -p. 9 -q
+
+### women-w-r
+Women in the world's religions, past and present / edited by Ursula King. --  Paragon House, c1987. -- x, 261 p. -- ISBN 9780913757321. -- DDC 291.08.
 > 'The God of Abraham, Isaac and Jacob did not turn out to be, in the same way, the God of Sarah, Rebecca and Rachel.' -p. -q
 > In the doctrine of the Trinity we speak of three moments in the only self-communication of God. -p. -q
 > The eternal feminine was joined to the feminine created to associate it eternally to the mystery of the Holy Trinity.what? -p. -q
