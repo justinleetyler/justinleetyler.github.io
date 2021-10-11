@@ -2607,6 +2607,8 @@ Jung, Patricia Beattie. -- Moral issues and Christian responses. -- 7th ed. -- A
 > 'Christian theology demands that all people enjoy the God-Given blessings of creation equally, because all are created in the image of God and all are given the privilege of enjoying this creation equally.' -p. 422 -q
 > To have and have not by Michael LindA. Two major classes in America 1. Credentialed minority a. making a living from fees supplemended by stock options 2. Salaried salariedB. Causes of disparities 1. Immigration 2. Tax reform 3. Free Trade -p. 411-416 -o
 > Christian Theology and Development by Gnana RobinsonA. Pyramid 1. Pattern on dominance and dependenceB. Ladder 1. Under-development countries must imitate the developed countriesC. Life-Boat 1. 'white mans burden'D. Piece of the Development Pie 1. Ever-increasing production 2. Overlooks need for justice and resouce limitationE. Just Relations 1. Based on self-reliance and welfare to all. -p. 420-423 -o
+
+### junger-s-t
 Junger, Sebastian. -- Tribe. -- Twelve, c2016. -- xvii, 168 p. -- ISBN 9781455566389. -- DDC 302.
 > Financial independence can lead to isolation, and isolation can put people at a greatly increased risk of depression and suicide. -p. 91 -q
 > Self-determination theory Iin order to be content): 1. Need to feel content 2. need to feel authentic. 3 need to feel conected with others. -p. 22 -q
