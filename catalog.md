@@ -3109,28 +3109,6 @@ Livingston, James C. -- Anatomy of the sacred. -- 2nd ed. -- New York : Macmilla
 > Ethics of Virtueof what is morally commendable or ideal -p. 305 -d
 > Ethics of obligation/dutyof what ought to be done -p. 306 -d
 > Is something right because God commands it or does He command it because it is right?Socrates -p. 322 -q
-> 'I. What is Religion A. Defining Religion 1. Theism v.s. Non-Theism 2. Sacred v.s. secular 3. Mono v.s. polytheism 4. Why define religion a. religions do share charactoristics b. avoid confusion 5. Substantive v.s. functional B. Why are humans religious? C. Why Study Religion D. How to study religion' -p. 3-23 -o
-> 'II. Ways of Studying Religion A. Theology and religios studies. B. Literary Criticism C. Historiography D. Anthropology E. Sociology F. Psychology G. Philosophy H. Phenomenology 1. 'meaning that which appears' -40 2. Study of structures and forms' -p. 24- -O
-> Chapter III : The Sacred and the Holy -p. 53- -o
-> Religiona system of activities and beliefs directed toward that which is percieved to be sacred or of ultimate value and power. -p. 53 -d
-> ReligionWealm of the Sacred -p. 55 -d
-> Chapter 7 : Diety: conceptions of the Divine and the Ultimate -p. 169-198 -o
-> 'The Earth is our mother, the Sky is our father. The Sky fertilizes the Earth with rain, the Earth produces grains and graces.'from the Pleiades of Dodona -p. 171 -q
-> 'While the problem in the East was how to reconcile the fact of a world of plurality with the intuition of a single would-soul or ground, the problem for the western historical religions was how to reconcile the presence of sacred power in the would with its wholly otherness or transcendence of the world.'The incarnation. -p. 189 -q
-> 'The divine name YHWH is here connected with the ver hayah, to be. In ancient Hebrew texts only consonants and not vowels were written to produce the name.' -p. 192 -q
-> Anthropomorphismtendency to view God in too human terms. -p. 195 -d
-> CosmogonyAn account of the emergence or creation of world order. -p. 223 -d
-> IX. Cosmogony: Origins of the natural and social order. -p. 223- -s
-> NousPlato's intelligent and purposeful Mind. -p. 224 -d
-> NunEgyptian concept of primordial watery abyss. -p. 226 -d
-> Adrogynousbisexual fashon. -p. 226 -d
-> MardukThe Babolonian high-god. -p. 232 -d
-> Taablets of Destinies.An interesting phrase. -p. 233 -f
-> TheogonyA myth about the creation of gods. -p. 240 -d
-> 'XII. Ethics A. Ancient Greece 1. wisdom 2. temperance 3. courage 4. justice B. Buddhism 1. love 2. equanimity 3. patience 4. Bodhisattva C. Christianity 1. Seven cardinal virtues D. Sources of Moral authority 1. Cosmic/natural law a. Confucism b. Roman Catholic natural law 1) Thomas Aquinas E. Confucism 1. Mencius F. Charismatic Leaders 1. ghandi 2. Amos (ethical prophet)' -p. 304 -o
-> Ethics of Virtueof what is morally commendable or ideal -p. 305 -d
-> Ethics of obligation/dutyof what ought to be done -p. 306 -d
-> Is something right because God commands it or does He command it because it is right?Socrates -p. 322 -q
 
 ### llywelyn-m-g
 Llywelyn, Morgan. -- The greener shore. -- New York : Ballantine, c2006. -- 301 p. -- ISBN 9780345477668. -- DBID 1732. -- DDC 813.
