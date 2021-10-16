@@ -5959,3 +5959,7 @@ Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -
  
 ### 20211009_075322 
 How To Whittle a Wood Duck. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html). -- Title from homepage viewed Sat 10/09/2021. -- DDC 736.4. 
+
+### verne-j-2
+Verne, Jules. -- 20,000 leagues under the sea. -- Bantam Books, 1964. -- 371 p. -- ISBN 0553212524. -- DDC 843. 
+
