@@ -486,30 +486,7 @@ Caballero, David. -- Ethereality. -- Computer data. -- Hollywood, CA: Only New A
 
 ### caine-r-i
 Caine, Rachel. -- Ink and bone. -- Computer data. -- New American Library, c2015. -- Mode of Access: World Wide Web. -- System requirements: Kindle file reader. -- Title from title page. -- DDC 813.
-> Guillaume Danton -f
-> I gambled for the soul of the Library. And I lost. Past is past. -q
-> Give in. Give up. Survive. -f
-> Find a way to forgive. Find a way to live. Find a way to be free. Find a way back to me. -q
-> I won’t waste my breath. You have to learn how to listen before you will hear. -q
-> Desperate people do desperate things. You cannot be one of them. You must be better. -q
-> Jess felt oddly divorced from it all, even as he was in the middle of it. -q
-> The city stank of waste and sickness and unburied death -q
-> There is no place in the world for librarians who lack the will to defend books against wars, rebels, and Burners. Books cannot fight for themselves. -q
-> principle of similarity. As above, so below. -q
-> She was always reading now. It was probably why she would survive them all in the cut-throat world of the Library. -q
-> The Codex is like a tablet -f
-> Jess Brightwell, the protagonist. -f
-> Danton had no readable expression on his face, but his body language was guarded. -q
-> Jack of all trades, master of none... -q
-> Librarians instruct, assist, research, develop, create … and protect -q
-> The first purpose of a librarian is to preserve and defend our books. -q
-> Tota est scientia.’ Knowledge is all. -q
-> the Doctrine of Ownership. -f
-> Doctrine of Mirroring -f
-> create a work schedule and properly fill a patron’s request... -q
-> After all, the Library provided them free on the birth of a child, and encouraged every citizen of the world to write their thoughts and memories from the earliest age possible. Everyone kept a record of the days and hours of their lives to be archived in the Library upon their deaths. The Library was a kind of memorial, in that way. It was one reason the people loved it so, for the fact it lent them a kind of immortality. -q
-> When you steal a book, you steal from the world, the Library propaganda said -q
-> St Paul’s Serapeum, the physical presence of the Great Library -q
+> Guillaume Danton -f -- I gambled for the soul of the Library. And I lost. Past is past. -q -- Give in. Give up. Survive. -f -- Find a way to forgive. Find a way to live. Find a way to be free. Find a way back to me. -q -- I won’t waste my breath. You have to learn how to listen before you will hear. -q -- Desperate people do desperate things. You cannot be one of them. You must be better. -q -- Jess felt oddly divorced from it all, even as he was in the middle of it. -q -- The city stank of waste and sickness and unburied death -q -- There is no place in the world for librarians who lack the will to defend books against wars, rebels, and Burners. Books cannot fight for themselves. -q -- principle of similarity. As above, so below. -q -- She was always reading now. It was probably why she would survive them all in the cut-throat world of the Library. -q -- The Codex is like a tablet -f -- Jess Brightwell, the protagonist. -f -- Danton had no readable expression on his face, but his body language was guarded. -q -- Jack of all trades, master of none... -q -- Librarians instruct, assist, research, develop, create … and protect -q -- The first purpose of a librarian is to preserve and defend our books. -q -- Tota est scientia.’ Knowledge is all. -q -- the Doctrine of Ownership. -f -- Doctrine of Mirroring -f -- create a work schedule and properly fill a patron’s request... -q -- After all, the Library provided them free on the birth of a child, and encouraged every citizen of the world to write their thoughts and memories from the earliest age possible. Everyone kept a record of the days and hours of their lives to be archived in the Library upon their deaths. The Library was a kind of memorial, in that way. It was one reason the people loved it so, for the fact it lent them a kind of immortality. -q -- When you steal a book, you steal from the world, the Library propaganda said -q -- St Paul’s Serapeum, the physical presence of the Great Library -q
 
 ### calhoun-k-o
 Calhoun, Karen. -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Computer data (1 file : 1429 kb.) -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- Title from resource. -- File name: (10060.pdf). -- DBID 10060. -- ISBN 1556535116 -- DDC 025.3
@@ -522,64 +499,18 @@ Camp Delta standard operating procedures (SOP). -- Computer data (1 file : 4.3 m
 
 ### camus-a-p
 Camus, Albert. -- The plague. -- London: Penguin, 2002. -- 256 p -- DDC 843.
-> 'Tarrou, Jean'a visitor to Oran -p. 21 -f
-> -p. 21- -s
-> Castel'one of Rieux's colleagues' (33) -p. 33 -f
-> There have been as many plagues as wars in history; yet always plagues and wars take people equally by surprised. -p. 34 -q
-> 'Grand, joseph'Clerk of Oran (38) -missing upper teeth -'attributes of insignificance (41) -little ambition in life (41) -p. 38 -f
-> '? he [Joseph] had the walk of a shy young priest, sidling along walls and slipping mouselike into doorways.' -p. 41 -q
-> And lastly - this was the real trouble - Joseph Grand couldn't find his words? this difficulty in finding his words had come to be the bane of his life. -p. '42,43' -q
-> '? he [Joseph] refused to use expressions such as 'your kindness,' 'gratitude,' or even 'solicit,' which, to his thinking, were incompatible with his personal dignity.' -p. 42 -q
-> ? he [Joseph] was one of those rare people? who have the courage of their good feeling. What little he told of his personal life vouched for acts of kindness and a capacity for affection that no one in our times dares own to. -p. 43 -q
-> '-Richard, Rieux, and the prefect discusses the situation -Richard wants action, Rieux wants caution, proper timing.' -p. 44-47 -s
-> Cottard -p. 49 -f
-> 'Like Cottard he [Rieux] felt a need for friendly contacts, human warmth.' -p. 53 -q
-> Rigaudarchitect (54) -p. 54 -f
-> People always talk? That's only to be expected. -p. 55 -q
-> Never had Rieux known his profession to weigh on him so heavily. -p. 55 -q
-> Castel went back to his old books and spent long hours in the public library. -p. 57 -q
-> Orders? when what's needed is imagination. -p. 58 -q
-> Oran -p. 3 -f
-> 'Rieux, Bernard (Dr.)'medical doctor -main character -wife went to sanitoriam (8) -30 y/o (8) -p. 7 -f
-> 'Michel, M'concerge (9) -p. 9 -f
-> 'Othon, M'magistrate (10) -p. 10 -f
-> 'Ramber, Raymond'jounralist (11) -p. 11 -f
-> 'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 -q
-> Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f
+> 'Tarrou, Jean'a visitor to Oran -p. 21 -f -- -p. 21- -s -- Castel'one of Rieux's colleagues' (33) -p. 33 -f -- There have been as many plagues as wars in history; yet always plagues and wars take people equally by surprised. -p. 34 -q -- 'Grand, joseph'Clerk of Oran (38) -missing upper teeth -'attributes of insignificance (41) -little ambition in life (41) -p. 38 -f -- '? he [Joseph] had the walk of a shy young priest, sidling along walls and slipping mouselike into doorways.' -p. 41 -q -- And lastly - this was the real trouble - Joseph Grand couldn't find his words? this difficulty in finding his words had come to be the bane of his life. -p. '42,43' -q -- '? he [Joseph] refused to use expressions such as 'your kindness,' 'gratitude,' or even 'solicit,' which, to his thinking, were incompatible with his personal dignity.' -p. 42 -q -- ? he [Joseph] was one of those rare people? who have the courage of their good feeling. What little he told of his personal life vouched for acts of kindness and a capacity for affection that no one in our times dares own to. -p. 43 -q -- '-Richard, Rieux, and the prefect discusses the situation -Richard wants action, Rieux wants caution, proper timing.' -p. 44-47 -s -- Cottard -p. 49 -f -- 'Like Cottard he [Rieux] felt a need for friendly contacts, human warmth.' -p. 53 -q -- Rigaudarchitect (54) -p. 54 -f -- People always talk? That's only to be expected. -p. 55 -q -- Never had Rieux known his profession to weigh on him so heavily. -p. 55 -q -- Castel went back to his old books and spent long hours in the public library. -p. 57 -q -- Orders? when what's needed is imagination. -p. 58 -q -- Oran -p. 3 -f -- 'Rieux, Bernard (Dr.)'medical doctor -main character -wife went to sanitoriam (8) -30 y/o (8) -p. 7 -f -- 'Michel, M'concerge (9) -p. 9 -f -- 'Othon, M'magistrate (10) -p. 10 -f -- 'Ramber, Raymond'jounralist (11) -p. 11 -f -- 'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 -q -- Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f
 
 ### cantor-n-a
 Cantor, Norman. -- Antiquity. -- 1st ed. -- HarperCollins, c2003. -- ix, 240 p. -- ISBN 0060174099. -- DDC 930.
-> Prometheus: the personification of reason. -p. 131 -f
-> Sophists: A philosophical school that would teach anyone for a price -- Believed that "Education was to be put to use in society... that there was no absolute truth" -p. 137 -- Trained pupils in rhetoric and argument, not to pursue the truth, but to win arguments in the Athenian Assembly. -p. 136-7 -f
-> "The unexamined life is not worth living" -Socrates -p. 138 -q
-> All of Western philosophy, as the eminent twentieth-century thinker A.N. Whitehead hs said, is but 'a series of footnotes to Plato'. -p. 138 -q
-> The Laws / by Plato: May have been Plato's last work -- attempted to draw up a constitution of the perfect state. -p. 139 -q
+> Prometheus: the personification of reason. -p. 131 -f -- Sophists: A philosophical school that would teach anyone for a price -- Believed that "Education was to be put to use in society... that there was no absolute truth" -p. 137 -- Trained pupils in rhetoric and argument, not to pursue the truth, but to win arguments in the Athenian Assembly. -p. 136-7 -f -- "The unexamined life is not worth living" -Socrates -p. 138 -q -- All of Western philosophy, as the eminent twentieth-century thinker A.N. Whitehead hs said, is but 'a series of footnotes to Plato'. -p. 138 -q -- The Laws / by Plato: May have been Plato's last work -- attempted to draw up a constitution of the perfect state. -p. 139 -q
 
 ### caraway-b-n
 Caraway, Beatrice L. -- Notes for remote access computer file serials. -- Computer file. -- [S.n.], c2002. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from cover. -- File name: 3258.pdf. -- DDC 025.3
 
 ### carter2005
 Carter, Jimmy. -- Our endangered values. -- Simon & Schuster, c2005. -- x, 212 p. -- ISBN 9780743284578. -- DDC 306.
-> Such confessions [resulting from torture] are, of course, not admissible in trials in civilized nations. -p. 129 -q
-> Rather than let the controversial issue remain so divisive among our citizens, perhaps we should separate the two basic approaches, by letting governments define and protect equal rights for citizens, includign those of 'civil unions,' and letting church congregations define 'holy matrimony'. -p. 69 -q
-> Many fervent pro-life activists do not extend their concern to the baby who is born, and are the least likely to support benevolent programs that they consider 'socialistic.' . Two-thirds of women who have abortions claim their primary reason is that they cannot afford a child. -p. 73 -q
-> ix in ten of these women are already mothers, with 40 percent being white, 32 percent black, and 20 percent Hispanic. More than half are in their twenties, and about 15 percent are teenagers. There is no clear pattern of race, age, marital status, or previous children. The most prevailing common factor is poverty -concerning abortion. -p. 74 -q
-> One of the key reasons proponets of the death penalty put forward is that it is a strong deterrent to murder and other capital crimes. In fact, the evidence shows just the opposite. -q
-> 'An eye for an eye, and a tooth for a tooth.overlooks the fact that this was promulgated by Moses as a limitation - a prohibition against taking both eyes or all of an offender's teeth in retribution. -p. 82 -q
-> Dispite the fact that Jesus Christ was the greatest liberator of women. -p. 87 -q
-> One of the most bizarre admixtures of religion and government is the strong influence of some Christian fundamentalists on U.S. policy in the Middle East. -p. 113 -q
-> ... the U.S. Supreme Court, which elected a president in 2000 with a  five-to-four partisan ruling. -p. 62 -q
-> The general consensus of these experts on democracy and freedom was that policies based on violence always result in a cycle of escalated violence. -p. 125 -q
-> In my speech at the beginning of the new millennium, I outlined a few proposals for meeting this standard, including increased development assistance with fewer strings, forgiveness of foreign debts of the poorest nations, seeking peaceful solutions which there are known to be threats to peace, getting to know the poor, giving people authority and responsibility over their own affairs, enhancing cooperation among doners, and recognizing the inevitable impact of abject poverty on human rights, violence, and susceptibility to recruitment for violent acts. -p. 180 -q
-> There are now almost 30,000 nuclear weapons worldwide, of which the United States posesses about 12,000, Russia 16,000, China 400, France 350, Israel 200, Britain 185, and India and Pakistan 40 each. It is believed that North Korea has enough enriched nuclear fuel for a half dozen weapons. -p. 135 -q
-> I cherished a plaque that a cabinet member gave me the day I left office, with a quote from Thomas Jefferson: 'I have the consolation to reflecct that during the period of my Administration not a drop of the blood of a single citizen was shed by the sword of war. -p. 149 -q
-> The preeminent criterion for a just war is that it can only be waged as a last resort, with all non-violent options exhaused -p. 153 -q
-> Weapons used in war must discriminate between combatats and non-combatants. -p. 153 -q
-> Violence used in the war must be proportional to the injury suffered. -p. 154 -q
-> The attackers must have legitimate authority sanctioned by the society they profess to represent... -p. 154 -q
-> The peace to be extablished must be a clear improvement over what exists. -p. 154 -q
-> ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 -q
-> Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q
+> Such confessions [resulting from torture] are, of course, not admissible in trials in civilized nations. -p. 129 -q -- Rather than let the controversial issue remain so divisive among our citizens, perhaps we should separate the two basic approaches, by letting governments define and protect equal rights for citizens, includign those of 'civil unions,' and letting church congregations define 'holy matrimony'. -p. 69 -q -- Many fervent pro-life activists do not extend their concern to the baby who is born, and are the least likely to support benevolent programs that they consider 'socialistic.' . Two-thirds of women who have abortions claim their primary reason is that they cannot afford a child. -p. 73 -q -- ix in ten of these women are already mothers, with 40 percent being white, 32 percent black, and 20 percent Hispanic. More than half are in their twenties, and about 15 percent are teenagers. There is no clear pattern of race, age, marital status, or previous children. The most prevailing common factor is poverty -concerning abortion. -p. 74 -q -- One of the key reasons proponets of the death penalty put forward is that it is a strong deterrent to murder and other capital crimes. In fact, the evidence shows just the opposite. -q -- 'An eye for an eye, and a tooth for a tooth.overlooks the fact that this was promulgated by Moses as a limitation - a prohibition against taking both eyes or all of an offender's teeth in retribution. -p. 82 -q -- Dispite the fact that Jesus Christ was the greatest liberator of women. -p. 87 -q -- One of the most bizarre admixtures of religion and government is the strong influence of some Christian fundamentalists on U.S. policy in the Middle East. -p. 113 -q -- ... the U.S. Supreme Court, which elected a president in 2000 with a  five-to-four partisan ruling. -p. 62 -q -- The general consensus of these experts on democracy and freedom was that policies based on violence always result in a cycle of escalated violence. -p. 125 -q -- In my speech at the beginning of the new millennium, I outlined a few proposals for meeting this standard, including increased development assistance with fewer strings, forgiveness of foreign debts of the poorest nations, seeking peaceful solutions which there are known to be threats to peace, getting to know the poor, giving people authority and responsibility over their own affairs, enhancing cooperation among doners, and recognizing the inevitable impact of abject poverty on human rights, violence, and susceptibility to recruitment for violent acts. -p. 180 -q -- There are now almost 30,000 nuclear weapons worldwide, of which the United States posesses about 12,000, Russia 16,000, China 400, France 350, Israel 200, Britain 185, and India and Pakistan 40 each. It is believed that North Korea has enough enriched nuclear fuel for a half dozen weapons. -p. 135 -q -- I cherished a plaque that a cabinet member gave me the day I left office, with a quote from Thomas Jefferson: 'I have the consolation to reflecct that during the period of my Administration not a drop of the blood of a single citizen was shed by the sword of war. -p. 149 -q -- The preeminent criterion for a just war is that it can only be waged as a last resort, with all non-violent options exhaused -p. 153 -q -- Weapons used in war must discriminate between combatats and non-combatants. -p. 153 -q -- Violence used in the war must be proportional to the injury suffered. -p. 154 -q -- The attackers must have legitimate authority sanctioned by the society they profess to represent... -p. 154 -q -- The peace to be extablished must be a clear improvement over what exists. -p. 154 -q -- ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 -q -- Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q
 
 ### carson-h-p
 Carson, Heather. -- Project Dandelion. -- [S.n.], 2019. -- Title from Amazon.com, viewed Aug. 29, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07TLF8HN7). -- AISN B07TLF8HN7. -- DDC 813.
@@ -589,9 +520,7 @@ Casey, Mike. -- Sound directions : best practices for audio preservation / by Mi
 
 ### casson-l-l
 Casson, Lionel. -- Libraries in the ancient world. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094 -- DDC 027.
-> The BeginningsA. Clay 1. Durable 2. ok in fire -p. -
-> PrefaceA. covers from 3000 BCE-500 CEB. -p. -
-> 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
+> The BeginningsA. Clay 1. Durable 2. ok in fire -p. - -- PrefaceA. covers from 3000 BCE-500 CEB. -p. - -- 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
 
 ### cataloging
 Cataloging internet resources / Nancy B. Olson, editor. -- Computer data. -- United States : Online Computer Library Center, c1995. -- on 1 external hard drive. -- Title from cover. -- Filename: 10126.txt -- DBID 10126 -- DDC 025.3.
@@ -631,27 +560,14 @@ Cher. -- The Very Best of Cher. -- Computer data. -- Burbank, CA: Warner Bros. R
 
 ### chernoff-m-12
 Chernoff, Marc. -- 12 rituals happy, successful people practice every day. -- Computer file. -- Mode of Access: World Wide Web (http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day/). -- Title from resource. -- IN Marc and Angel hack life (June 2014). -- DDC 152.
-> 1.  Exercise your integrity. -- 2.  Steer clear of drama and those who create it. -- 3.  Replace judgment with encouragement. -- 4.  Be positive and spend time with positive people. -- 5.  Make new choices as needed, rather than letting old ones make you. -- 6.  Simplify whatever you can, whenever you can. -- 7.  Uphold your truth. -- 8.  Express your love without reservations. -- 9.  Nurture your relationship with your significant other. -- 10.  Loosen your grip on what’s not meant to fit in to your life. -- 11.  Embrace your humanness. -- 12.  Ask yourself the right questions. -o
-> Judge a man by his questions rather than by his answers. -Voltaire -q
-> 12: The right questions: Who am I? -- What do I need? -- How do I function best? -- What do I have to give? -- What's the next step I can take right now? -q
-> A relationship should be healthy, caring, loving, kind, upbeat and positive.  It should make your smile a little wider... -q
+> 1.  Exercise your integrity. -- 2.  Steer clear of drama and those who create it. -- 3.  Replace judgment with encouragement. -- 4.  Be positive and spend time with positive people. -- 5.  Make new choices as needed, rather than letting old ones make you. -- 6.  Simplify whatever you can, whenever you can. -- 7.  Uphold your truth. -- 8.  Express your love without reservations. -- 9.  Nurture your relationship with your significant other. -- 10.  Loosen your grip on what’s not meant to fit in to your life. -- 11.  Embrace your humanness. -- 12.  Ask yourself the right questions. -o -- Judge a man by his questions rather than by his answers. -Voltaire -q -- 12: The right questions: Who am I? -- What do I need? -- How do I function best? -- What do I have to give? -- What's the next step I can take right now? -q -- A relationship should be healthy, caring, loving, kind, upbeat and positive.  It should make your smile a little wider... -q
 
 ### choo-c-i
 Choo, Chun Wei. -- Information seeking in organizations. -- Computer data (1 file : 271 kb). -- Title from p.1. -- File name: (1689.mht). -- DBID 1689. -- IN Information Research. -- Vol. 12, no. 22 (Jan. 2007) -- DDC 025.5.
 
 ### child2009
 Child, Lincoln. -- Terminal freeze. -- 1st ed. -- Random House, c2009. -- 320 p. -- ISBN 9780385515511. -- DDC 813.  
-> Old Rag Lodge: Secret goverment hideaway. -p. 41. Based on Project Greek Island -f
-> Omega Archive -f
-> Ch. 16: The specimine goes missing -s
-> Ch. 19: Logan says he found a report that a team of scientists were dispatched to Fear Base, 7 died there, 1 died later. He's there to investigate why. -s
-> Ch. 25: Condi wants to change to the documentary to a murder documentary -s
-> Ch. 26-31: Faraday proposes a theory: The ice (ice-15) can unthaw at below freezing point, the creature was originally flash-frozen, leading to a cryogenic sleep. -- Logan finds a hidden journal from one of the original scientists. -s
-> Ch. 32-41: Marshall goes to find and brings back the shaman (Usuguk) becasue the journal says the Tunit has the answers. -- Most of the crew at Fear Base leave, save the army, scientists, and a few production people. -- We learn the 
-> Callisto Effect: A fictional evolutionary theory stating that when a species becomes too comfortable and numerous, another creature evolves to thin out the numbers. -p. 181-2 -f
-> Vigenere Cipher: mentioned on p. 183.
-> Ultimately, it becomes its own worse enemy. It kills everything - leaving itself without sustenance. -p. 182 -q
-> Ch. 42-45: The truck carrying the evacuees hit a rock, and the fuel take is punctured. They may not have enough fuel to make it back. -- The creature may be susseptable to sound.
+> Old Rag Lodge: Secret goverment hideaway. -p. 41. Based on Project Greek Island -f -- Omega Archive -f -- Ch. 16: The specimine goes missing -s -- Ch. 19: Logan says he found a report that a team of scientists were dispatched to Fear Base, 7 died there, 1 died later. He's there to investigate why. -s -- Ch. 25: Condi wants to change to the documentary to a murder documentary -s -- Ch. 26-31: Faraday proposes a theory: The ice (ice-15) can unthaw at below freezing point, the creature was originally flash-frozen, leading to a cryogenic sleep. -- Logan finds a hidden journal from one of the original scientists. -s -- Ch. 32-41: Marshall goes to find and brings back the shaman (Usuguk) becasue the journal says the Tunit has the answers. -- Most of the crew at Fear Base leave, save the army, scientists, and a few production people. -- We learn the  -- Callisto Effect: A fictional evolutionary theory stating that when a species becomes too comfortable and numerous, another creature evolves to thin out the numbers. -p. 181-2 -f -- Vigenere Cipher: mentioned on p. 183. -- Ultimately, it becomes its own worse enemy. It kills everything - leaving itself without sustenance. -p. 182 -q -- Ch. 42-45: The truck carrying the evacuees hit a rock, and the fuel take is punctured. They may not have enough fuel to make it back. -- The creature may be susseptable to sound.
 
 ### chung-j-k
 Chung, Jackson. -- Kids : Past v.s. internet generation. -- Computer data (1 file). -- on 1 external hard drive. -- Title from resource. -- System requirements: USB drive; JPG file reader. -- Filename: 3286.jpg. -- DBID 3286. -- DDC 305.23.
@@ -666,202 +582,34 @@ The city-states of Aetolia. -- Computer data. -- [S.l.] : Iron Realms Entertainm
 ### clarke1968
 Clarke, Arthur C. -- 2001 : a space odyssey -- Reissue ed. -- Ace, 2000. -- Title from title page viewed June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B01A6E8EQ6). -- AISN B01A6E8EQ6. -- DDC 823.
 > Read 2020-06. -- Grade B. -r --
-> The truth, as always, will be far stranger. -- 
-> Honor had been satisfied; each group had staked its claim to its own territory. -- 
-> The harsh logic of survival ruled out such fancies, and not a voice was raised in protest from the listening hillside. Every cave was silent, lest it also attract disaster. -- 
-> 1 moonwatcher sees a ufo. -s -- 
-> 2 the ufo scans tgem, makes tgem do things -s -- 
-> They could not eat it, and it could not eat them; therefore it was not important. -- 
-> 3 the ufo rewires the brains and mooknwatcher kills a pig, bscomes canablistic -s -- 
-> 4 they killed a leopald -s -- 
-> Their ritual rage ebbed away, -- 
-> 5 moonwatcher kills one ear of the others. -s -- 
-> They had learned to speak, and so had won their first great victory over Time. Now the knowledge of one generation could be handed on to the next, so that each age could profit from those that had gone before. -- 
-> Unlike the animals, who knew only the present, Man had acquired a past; and he was beginning to grope toward a future. -- 
-> 7 drfloyd goes to tge moon bc of an eoedemic. -s -- 
-> 8 floyd arruces on tge moon -s -- 
-> 10 heywood floyd arrives at clovis moon bsase. Thwrs no plague. But TMA-1 whatever atat is. -s -- 
-> 11 tma1 is not created my humans -s -- 
-> Deep Space Monitor 79 -- 
-> 14 the artifact sends a rfipple through space -s -- 
-> 15 first appearanced ofc hal and davr -s -- 
-> Hal (for Heuristically programmed ALgorithmic computer, -- 
-> advance the Master Hibernation Timer twelve hours. -- 
-> Frank Poole -- 
-> 17 life on discovery -s -- 
-> 19 they reach jupiter -s -- 
-> 21 antenna goes out -s -- 
-> They were usually christened with feminine names, perhaps in recognition of the fact that their personalities were sometimes slightly unpredictable. -- 
-> Take things easy—never move quickly—stop and think—these were the rules for extravehicular activity. -- 
-> 22 poole goes out to vfix the anntenna-s -- 
-> 23 the antenna was fine after all. Mission control thjnks sonetgibg is wrokng with hal. -s -- 
-> Chief Programmer, Dr. Simonson. -- 
-> 24 missuon control calls bjt its a bad connection. Shananagans frokm hal? -- 
-> 27 pooles vehicle goes crazy and takes off. Hal again ? -s -- 
-> 26 hal argues about bowmans to wake ceveryonne up. He hes, but as tgey di, tge airlock ipens. -s -- 
-> He had begun to make mistakes, although, like a neurotic who could not observe his own symptoms, he would have denied it. -- 
-> 29;hal is takijnh contril -s -- 
-> 28 dave unplugs hals cognitive thought -s -- 
-> Heywood Floyd -- 
-> Japetus. -- 
-> 30 the real mission is to go to japetus, whose brightness on okne side may be connected with tma-1 -s -- 
-> Work is the best remedy for any shock, -- 
-> Wotd: anthropomorphic -- 
-> Plenipotentiary -- 
-> 34 discovery enters saterns area -s -- 
-> 36 the moon has a huged versin of tmA-1 -- 
-> 37 this is an experiment by bodiless aliens. -s -- 
-> 38 there is a stargate -s -- 
-> Note:tma is a stargate. -- 
-> 42 biwen gies thourgh a stargate, and comes to an abandoned xsoaceporft -- 
-> 44 dave enters what is a very good creplica of a studio apartment. -s -- 
-> twenty thousand light-years from Earth, -- 
-> 47- he comes vacj wuth either a bomb or godxlike powers -- 
+> The truth, as always, will be far stranger. -- Honor had been satisfied; each group had staked its claim to its own territory. -- The harsh logic of survival ruled out such fancies, and not a voice was raised in protest from the listening hillside. Every cave was silent, lest it also attract disaster. -- 1 moonwatcher sees a ufo. -s -- 2 the ufo scans tgem, makes tgem do things -s -- They could not eat it, and it could not eat them; therefore it was not important. -- 3 the ufo rewires the brains and mooknwatcher kills a pig, bscomes canablistic -s -- 4 they killed a leopald -s -- Their ritual rage ebbed away, -- 5 moonwatcher kills one ear of the others. -s -- They had learned to speak, and so had won their first great victory over Time. Now the knowledge of one generation could be handed on to the next, so that each age could profit from those that had gone before. -- Unlike the animals, who knew only the present, Man had acquired a past; and he was beginning to grope toward a future. -- 7 drfloyd goes to tge moon bc of an eoedemic. -s -- 8 floyd arruces on tge moon -s -- 10 heywood floyd arrives at clovis moon bsase. Thwrs no plague. But TMA-1 whatever atat is. -s -- 11 tma1 is not created my humans -s -- Deep Space Monitor 79 -- 14 the artifact sends a rfipple through space -s -- 15 first appearanced ofc hal and davr -s -- Hal (for Heuristically programmed ALgorithmic computer, -- advance the Master Hibernation Timer twelve hours. -- Frank Poole -- 17 life on discovery -s -- 19 they reach jupiter -s -- 21 antenna goes out -s -- They were usually christened with feminine names, perhaps in recognition of the fact that their personalities were sometimes slightly unpredictable. -- Take things easy—never move quickly—stop and think—these were the rules for extravehicular activity. -- 22 poole goes out to vfix the anntenna-s -- 23 the antenna was fine after all. Mission control thjnks sonetgibg is wrokng with hal. -s -- Chief Programmer, Dr. Simonson. -- 24 missuon control calls bjt its a bad connection. Shananagans frokm hal? -- 27 pooles vehicle goes crazy and takes off. Hal again ? -s -- 26 hal argues about bowmans to wake ceveryonne up. He hes, but as tgey di, tge airlock ipens. -s -- He had begun to make mistakes, although, like a neurotic who could not observe his own symptoms, he would have denied it. -- 29;hal is takijnh contril -s -- 28 dave unplugs hals cognitive thought -s -- Heywood Floyd -- Japetus. -- 30 the real mission is to go to japetus, whose brightness on okne side may be connected with tma-1 -s -- Work is the best remedy for any shock, -- Wotd: anthropomorphic -- Plenipotentiary -- 34 discovery enters saterns area -s -- 36 the moon has a huged versin of tmA-1 -- 37 this is an experiment by bodiless aliens. -s -- 38 there is a stargate -s -- Note:tma is a stargate. -- 42 biwen gies thourgh a stargate, and comes to an abandoned xsoaceporft -- 44 dave enters what is a very good creplica of a studio apartment. -s -- twenty thousand light-years from Earth, -- 47- he comes vacj wuth either a bomb or godxlike powers -- 
 
 ### clarke1982
 Clarke, Arthur C. -- 2010 : odyssey two. -- RosettaBooks, c2012, c1982. -- Title from title page viewed June 20, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XG1S8LM). -- AISN B07XG1S8LM. -- DDC 823.
 > Read 2020-06. -- Grade C. -r --
-> 1 leonov and heywood have xa secret meeting about discovery. -s  -- 
-> 2 discovery is ablout tgo crash into Io. -s -- 
-> Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition) -- 
-> 4 floyd is ging on the leoov. -s -- 
-> all human plans were subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe. -- 
-> 6 ghey wake up after hybetnation. -s -- 
-> 8 the tsienis going to europa fir water. -s -- 
-> 18 thwy enter discovery. -- 
-> 21 hal is turned on. -s -- 
-> 22 boqem tapped a messed to his motger. Tgey fwded it. -s -- 
-> Hofstadter—Moebius loop -f -- 
-> The human mind has an astonishing capacity to adapt; after a while, even the incredible becomes commonplace. -q -- 
-> 33 dave returns w/o a body. Tslks to betty. -s -- 
-> 41 a phantom of david bowen appears to dr floys -s -- 
-> Haldane’s famous remark: The Universe is not only stranger than we imagine—but stranger than we can imagine.” -q -- 
-> Once is an accident; twice is a coincidence; three times is a conspiracy.” -q -- 
-> 44 big brither cdisalpears. -s -- 
-> 47 leonov leves jupiter, discovery stays behind, tge black stain expands on jupiter -s -- 
-> Zagadka, the other name for the monolith -f -- 
-> 49 tma is a neumann machine. -s -- 
-> disconsolate -wotd -- 
-> 50 dr chabdra disconnected hals cut iff months ago. -s -- 
-> 51 the aliens exist in pure enerhy. -s -- 
-> 52 jupiter ecplodes. -s -- 
-> 53 they send a msg to eatth saying to stay iff of europa. -s -- 
-> epilogue: life is developing on europa -s -- 
+> 1 leonov and heywood have xa secret meeting about discovery. -s  -- 2 discovery is ablout tgo crash into Io. -s -- Crew The crew of Spacecraft Alexei Leonov will consist of: Captain Tatiana Orlova (Engineering—Propulsion) Dr. Vasili Orlov (Navigation—Astronomy) Dr. Maxim Brailovsky (Engineering—Structures) Dr. Alexander Kovalev (Engineering—Communications) Dr. Nikolai Ternovsky (Engineering—Control Systems) Surgeon—Commander Katerina Rudenko (Medical—Life-Support) Dr. Irina Yakunina (Medical—Nutrition) -- 4 floyd is ging on the leoov. -s -- all human plans were subject to ruthless revision by Nature, or Fate, or whatever one preferred to call the powers behind the Universe. -- 6 ghey wake up after hybetnation. -s -- 8 the tsienis going to europa fir water. -s -- 18 thwy enter discovery. -- 21 hal is turned on. -s -- 22 boqem tapped a messed to his motger. Tgey fwded it. -s -- Hofstadter—Moebius loop -f -- The human mind has an astonishing capacity to adapt; after a while, even the incredible becomes commonplace. -q -- 33 dave returns w/o a body. Tslks to betty. -s -- 41 a phantom of david bowen appears to dr floys -s -- Haldane’s famous remark: The Universe is not only stranger than we imagine—but stranger than we can imagine.” -q -- Once is an accident; twice is a coincidence; three times is a conspiracy.” -q -- 44 big brither cdisalpears. -s -- 47 leonov leves jupiter, discovery stays behind, tge black stain expands on jupiter -s -- Zagadka, the other name for the monolith -f -- 49 tma is a neumann machine. -s -- disconsolate -wotd -- 50 dr chabdra disconnected hals cut iff months ago. -s -- 51 the aliens exist in pure enerhy. -s -- 52 jupiter ecplodes. -s -- 53 they send a msg to eatth saying to stay iff of europa. -s -- epilogue: life is developing on europa -s -- 
 
 ### clarke1987
 Clarke, Arthur C. -- 2061 : odyssey three . -- RosettaBooks, c1987, 2012. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07XF9ZZWG). -- Title from amazon.com viewed July 11, 2020. -- AISN B07XF9ZZWG. -- DDC 823.
 > Read 2020-06. -- Grade C. -r --
-> 1 floyd gets ready for cruusing on "tge universe" -- 
-> There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting. -- 
-> 3 the new world govt -- 
-> 6 europa is massively chaanging. -s -- 
-> 16 the universe lands on halleys comet. -s -- 
-> 18 lake tuonella. -s -- 
-> 19 theu enter a cave and find a luminious glow. -s -- 
-> 20 galaxy crashes on europa. -s -- 
-> diurnal rhythm, -- 
-> 27 rose mcmHon tajes over galaxy. -s -- 
-> 31 tge ship lands on europa. Sees a shark like thing. -s -- 
-> It is surprising how quickly the most bizarre situation can become routine. -- 
-> There was nothing worse for morale than idleness, -- 
-> 43 galaxy is on land now. -s -- 
-> 48 mt zeus is a diamond. -s -- 
-> 56 mt zeus us gone, but massive duanonds Are all over tge juvian system. -s -- 
-> epilogue: jupiter dies out. Massive duamoknd space ekevators connect with rings around the planet. -s
+> 1 floyd gets ready for cruusing on "tge universe" -- There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting. -- 3 the new world govt -- 6 europa is massively chaanging. -s -- 16 the universe lands on halleys comet. -s -- 18 lake tuonella. -s -- 19 theu enter a cave and find a luminious glow. -s -- 20 galaxy crashes on europa. -s -- diurnal rhythm, -- 27 rose mcmHon tajes over galaxy. -s -- 31 tge ship lands on europa. Sees a shark like thing. -s -- It is surprising how quickly the most bizarre situation can become routine. -- There was nothing worse for morale than idleness, -- 43 galaxy is on land now. -s -- 48 mt zeus is a diamond. -s -- 56 mt zeus us gone, but massive duanonds Are all over tge juvian system. -s -- epilogue: jupiter dies out. Massive duamoknd space ekevators connect with rings around the planet. -s
 
 ### clarke1997
 Clarke, Arthur C. -- 3001 : The final odyssey. -- RosettaBooks, c1997. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07X8ZR72R). -- Title from title page viewed July 11, 2020. -- ISBN 9780795324895. -- AISN B07X8ZR72R. -- DDC 823.
 > Read 2020-07. -- Grade C. -r --
-> 1 the spcetug goliath finds an ancient astronaut. -s -- 
-> 8 earthsx monolyth was discovered 500 yrs ago in 2500 -- 
-> Of course, like most dabblers with infinity, he [Einstein] went insane. -- 
-> inertial field. -- 
-> I don’t know how many acres of land it took to feed one cow, but at least ten humans could survive on the plants it produced. -- 
-> Lucretius hit it on the nail when he said that religion was the by-product of fear—a reaction to a mysterious and often hostile universe. -- 
-> But cranks often get that way because they know a Big Truth—can you hear my capitals?—and no one will listen… -- 
-> Never attribute to malevolence what is merely due to incompetence. -- 
-> It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government. -- 
-> 36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. -s -- 
-> All energy eventually degrades to heat, and if everyone had a few million kilowatts to play with, this planet would soon be heading the way of Venus—several hundred degrees in the shade.
+> 1 the spcetug goliath finds an ancient astronaut. -s -- 8 earthsx monolyth was discovered 500 yrs ago in 2500 -- Of course, like most dabblers with infinity, he [Einstein] went insane. -- inertial field. -- I don’t know how many acres of land it took to feed one cow, but at least ten humans could survive on the plants it produced. -- Lucretius hit it on the nail when he said that religion was the by-product of fear—a reaction to a mysterious and often hostile universe. -- But cranks often get that way because they know a Big Truth—can you hear my capitals?—and no one will listen… -- Never attribute to malevolence what is merely due to incompetence. -- It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government. -- 36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. -s -- All energy eventually degrades to heat, and if everyone had a few million kilowatts to play with, this planet would soon be heading the way of Venus—several hundred degrees in the shade.
 
 ### clarke1951
 Clarke, Arthur C. -- Childhood's end. -- RosettaBooks, c1951, c2013. -- Title from title page viewed May 23, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07XG6MG3Y). -- ISBN 9780795324970. -- AISN B07XG6MG3Y -- DDC 823. 
-> Read 2020-06. -- Grade B. -r --
-> He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q  -- 
-> 1 the aliens arrive -s  -- 
-> "Freedom to control our own lives, under God’s guidance." -q  -- 
-> 3 the overlords work through the UN, and bought peace and raised the standards of living. -s  -- 
-> their only concern was earning a living with the minimum of work. -q  -- 
-> 3 stormgen is kidnapped, but is freed. Kargen is watching the ind. movements. -s  -- 
-> 4  k sAys humanity can see him in 50 years. -s  -- 
-> 5 karellan shows humself. He looks like a devil. -s  -- 
-> it was Utopia. Ignorance, disease, poverty, and fear had virtually ceased to exist. -q  -- 
-> When no one lacks anything, there is no point in stealing. -q  -- 
-> 7 a guy named ruperrtf has lots of paranormal book that an overlord uses -s  -- 
-> For Jan was still suffering from the romantic illusion—the cause of so much misery and so much poetry—that every man has only one real love in his life. -q  -- 
-> WOTD: credulous.  -- 
-> 8 rupert creates something like a oiluijij board, and it sats tge overlords are frolm ngs549672 -s  -- 
-> Men were needed for trouble-shooting, for making decisions, for planning new enterprises. The robots did the rest. -q  -- 
-> 12 jan is planning to sneak overlords homeworld in on of their supply ships -s  -- 
-> the artist colony governance, “We’re ruled by a council of eight directors, representing production, power, social engineering, art, economics, science, sport, and philosophy. There’s no permanent chairman or president. The chair’s held by each of the directors in rotation for a year at a time." -n  -- 
-> "Here on this island we’re trying to save something of humanity’s independence, its artistic traditions. We’ve no hostility towards the Overlords: we simply want to be left alone to go our own way." -q  -- 
-> 15 the colony -s  -- 
-> 17 the overlord visits. Take an intrestg in jeff -s  -- 
-> the Overlords were trapped in some evolutionary cul-de-sac. -q  -- 
-> 18 jeff has telepathic powers -s  -- 
-> 19 soon all kids are telepathic -s  -- 
-> 20 the overlords begin evacuation the kids -s  -- 
-> 21 the artist colony island is destroyed -s  -- 
-> 22 jan returns -s  -- 
-> "no one of intelligence resents the inevitable.” -q  -- 
-> 23 the overmind completely took over the minds of the kids -s
+> Read 2020-06. -- Grade B. -r --He didn’t like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. -q  -- 1 the aliens arrive -s  -- "Freedom to control our own lives, under God’s guidance." -q  -- 3 the overlords work through the UN, and bought peace and raised the standards of living. -s  -- their only concern was earning a living with the minimum of work. -q  -- 3 stormgen is kidnapped, but is freed. Kargen is watching the ind. movements. -s  -- 4  k sAys humanity can see him in 50 years. -s  -- 5 karellan shows humself. He looks like a devil. -s  -- it was Utopia. Ignorance, disease, poverty, and fear had virtually ceased to exist. -q  -- When no one lacks anything, there is no point in stealing. -q  -- 7 a guy named ruperrtf has lots of paranormal book that an overlord uses -s  -- For Jan was still suffering from the romantic illusion—the cause of so much misery and so much poetry—that every man has only one real love in his life. -q  -- WOTD: credulous.  -- 8 rupert creates something like a oiluijij board, and it sats tge overlords are frolm ngs549672 -s  -- Men were needed for trouble-shooting, for making decisions, for planning new enterprises. The robots did the rest. -q  -- 12 jan is planning to sneak overlords homeworld in on of their supply ships -s  -- the artist colony governance, “We’re ruled by a council of eight directors, representing production, power, social engineering, art, economics, science, sport, and philosophy. There’s no permanent chairman or president. The chair’s held by each of the directors in rotation for a year at a time." -n  -- "Here on this island we’re trying to save something of humanity’s independence, its artistic traditions. We’ve no hostility towards the Overlords: we simply want to be left alone to go our own way." -q  -- 15 the colony -s  -- 17 the overlord visits. Take an intrestg in jeff -s  -- the Overlords were trapped in some evolutionary cul-de-sac. -q  -- 18 jeff has telepathic powers -s  -- 19 soon all kids are telepathic -s  -- 20 the overlords begin evacuation the kids -s  -- 21 the artist colony island is destroyed -s  -- 22 jan returns -s  -- "no one of intelligence resents the inevitable.” -q  -- 23 the overmind completely took over the minds of the kids -s
 
 ### clarke1951
 Clarke, Arthur C. -- The fall of moondust -- RosettaBooks, c1951, c2012. -- Title from amazon.com desc. viewed July 26, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H18VSWK). -- AISN B07H18VSWK. -- DDC 823.
-> Read 2020-07. -- Grade D. -r --
-> 3 the selene is missing. -s -- 
-> “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q -- 
-> Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q -- 
-> 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s -- 
-> 9 they play a court of inquiry game. -s -- 
-> 14 they found serene. -s -- 
-> Chief Engineer Lawrence did not believe that committees ever achieved anything. -q -- 
-> 17 as the crescue is undeeweigh, the co2 is rising. -s -- 
-> Don’t look as if you’re expecting a fight; that’s the best way to start one. -q -- 
-> Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q -- 
-> Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q -- 
-> 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s -- 
-> Look up Atlantis, then Lemuria or Mu. -r -- 
-> Having lost faith in themselves, men had sought salvation in the sky. -q -- 
-> American astronomer named O’Neill observed something very remarkable here on the Moon. -q -- 
-> WOTD: Saucerites -- 
-> 30 they are pulledd out. -s -- 
+> Read 2020-07. -- Grade D. -r --3 the selene is missing. -s -- “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q -- Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q -- 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s -- 9 they play a court of inquiry game. -s -- 14 they found serene. -s -- Chief Engineer Lawrence did not believe that committees ever achieved anything. -q -- 17 as the crescue is undeeweigh, the co2 is rising. -s -- Don’t look as if you’re expecting a fight; that’s the best way to start one. -q -- Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q -- Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q -- 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s -- Look up Atlantis, then Lemuria or Mu. -r -- Having lost faith in themselves, men had sought salvation in the sky. -q -- American astronomer named O’Neill observed something very remarkable here on the Moon. -q -- WOTD: Saucerites -- 30 they are pulledd out. -s -- 
  -- 
 ### clarke2012
 Clarke, Arthur C. -- The hammer of God. -- RosettaBooks, 2012. -- Title from amazon.com desc. viewed on June 6, 2020. -- Mode of Access: [World Wide Web](https://read.amazon.com/?aisn=B07H17TRDS). -- AISN B07H17TRDS. -- DDC 823.
-> Read 2020-06. -- Grade C. -r --
-> 4 kali is hitting earth -s -- 
-> Commonwealth of American States -f -- 
-> 9 menose was killed -- 
-> 12 Robert is asked ti captain the goliath -s -- 
-> 15 chrislam and the prophet fatima -- 
-> The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price. -- 
-> 18 excalaber project -- 
-> 19 someone heard tge excalaber wave. -s -- 
-> “Voice of Sirius.” -- 
-> Claimes to have interpreted the excaliber signal -f -- 
-> 25 goliath begins prep to deploy ATLAS. -s -- 
-> It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q -- 
-> 26 prep for blowing kali offcourse is in progress -s -- 
-> 32 atlas is gone. Plan b -- 
-> Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q -- 
-> 36 kali stops, but the fanatics try to push it. Its not an asteroid. -- 
-> 41 goliTh will not excape the explosion -s -- 
-> 43 the bomb detonates and the shock wave hits -s -- 
-> 44 the bomb fails to detinate -s -- 
-> 45 the bomb split the astferoid in two -- 
-> kali 2: "but the Great Thaw would change coastlines all around the world." -f -- 
-> kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
+> Read 2020-06. -- Grade C. -r --4 kali is hitting earth -s -- Commonwealth of American States -f -- 9 menose was killed -- 12 Robert is asked ti captain the goliath -s -- 15 chrislam and the prophet fatima -- The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price. -- 18 excalaber project -- 19 someone heard tge excalaber wave. -s -- “Voice of Sirius.” -- Claimes to have interpreted the excaliber signal -f -- 25 goliath begins prep to deploy ATLAS. -s -- It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q -- 26 prep for blowing kali offcourse is in progress -s -- 32 atlas is gone. Plan b -- Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q -- 36 kali stops, but the fanatics try to push it. Its not an asteroid. -- 41 goliTh will not excape the explosion -s -- 43 the bomb detonates and the shock wave hits -s -- 44 the bomb fails to detinate -s -- 45 the bomb split the astferoid in two -- kali 2: "but the Great Thaw would change coastlines all around the world." -f -- kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
 
 ### classic-a-g
 Classic arcade games [homepage]. -- Computer data. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- Titles supplied by cataloger. -- Mode of Access: World Wide Web (http://www.classicgamesarcade.com/ ). -- DBID 3048 -- DDC 794.8.
@@ -871,92 +619,15 @@ Classics for Relaxation and Meditation. -- Computer data. -- St.-Laurent, Canada
 
 ### clay1914
 Clay, Rotha Mary. -- The hermits and anchorites of England. -- Computer data. -- Methuen & Co, 1914. -- Mode of Access: World Wide Web (https://archive.org/stream/hermitsanchorite00clayuoft). -- Title from title page. -- DDC 271.
-> There were two classes of solitaries: anchorites (restricted to a place), and hermits (not restricted. -- Some hermits were caretakers, such as lightkeepers, keepers of highway and bridges, or shrines, or special chaplains (minister to strangers and the poor, and to pray for the people). Many saw them as a sort of prophet or seer. -- Solitaries had 'rules of life', used moreso as 'friendly councel' (p. 89). -- Hermits 'signed a deed of profession, made a vow, and received a charge as to his future manner of living...' (p. 86) -- Solitiaries were typically held to a vegetarian diet -- 'In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host.' (p. 147). -s
-> Withdrawal from the world was not at first encouraged by the Christian religion. -p. 13 -q
-> Paul of Egypt -- called 'the first hermit'... -p. 13 -q
-> It is true that their primary objective in retiring into solitude was the cultivation of the soul, but in doing so they became living witnesses to the reality of the spiritual world. -p. 13 q
-> They upheld a lofty and austere moral ideal in the face of self-indulgence, and their manner of llfe was a silent rebuke to rudeness, and excercised a chastening influence in an age of violence. -p. 13 -q
-> There were, indeed, two distinct classes of solitaries: the anchorite, enclosed within four walls, and the hermit, who went out of his cell and mingled with his fellow-man. -p. j13 -q
-> In some cases anchorites devoted their quiet hours to study, and placed their literary or artistic powers at the service of others. -p. 14 -q
-> In fact, the hermits were pioneers of philanthropic works which in these days are undertaken and carried out by public bodies. -p. 15 -q
-> ... Wulfric of Haselbury -- prophet and confessor, stern and uncompromising alike with himself and his king... -p. 15 -q
-> The life of action, indeed, was apt to be despised by religious teachers, save by such rare saints as Hugh of Lincoln... -p. 16 -q
-> ... lead the contemplative life. -p. 23 -q
-> The hermit 'led his life, present to the Lord, and unknown to man' -p. 23 -q
-> Kenyth, who after eighteen years of solitude found a companion to share his ascetic life... -p. 24 -q
-> 3 CAVE DWELLERS: Wulsi -- Robert of Knarseborougg -o
-> 4 LIGHTKEEPERS: John Puttock -- Nicholas de Legh -- David Welkes -o
-> The Church was the pioneer in many works of mercy and utility, including the provision and maintenance of beacons, bridgets, roads, harbours, and even forts. -49 -q
-> 5 HIGHWAY AND BRIDGES HERMITS: Hugh Garth -- Langland -- John le Marechal -- Adam de Whenby
-> Some unscrupulous people "took the habit for the sake of an idle life, preferring alms to wages. -61 -q
-> The vow of Richard Ludlow... he undertook to have the minister's profession in worship and reverence, to live to his life's end in temperance, soberness, and chastity, to eschew all open spectacles, common scot=ales, tavers, and other suspect places of sin; to hear Mass, pray, and fast; and lastly, he undertook that whatever he should recieve by the way of charity, he would expend truly, without deceit, upon the mending of the bridge and common ways of the town, reserving only sufficent to support himself. -62 -q
-> 6 TOWN HERMITS: Thomas de Byreford, Alan Chauns, John "the hermit" (John le Megre?)
-> Town-hermits often undertook definite employment [like caretakers of bridges and roads, gates, lepers, or a special chaplain (minister to strangers and the poor, and to pray for the people)]. -p. 71 -q
-> 7 ANCHORITES: Wulfric, Lauretta, Katherine of Ledbury, -s
-> The anchorite differed from the hermit in that he lived in stricter seclusion, and was not free to wander at will. -p. 73 -q
-> Through on window, towards the choir, the recluse partook of the Blessed Sacrament; through another, on the opposite side, he recieved his food; a third, closed with glass or horn, lighted the dwelling. -p. 79 -q
-> VII ORDER AND RULE
-> The hermit signed a deed of profession, made a vow, and received a charge as to his future manner of living. -p. 86 -q
-> The Order of St. Paul the First Hermit -p. 86 -f
-> The hermit should make obedience to God alone, because he himself is abbot, prior, and prefect in the cloister of his heart. Episcopal Charge Pontifical, 16th c. -p. 88 -q
-> The recluse's Rule of Life consisted of friendly councel rather than rigid regulation. -p. 9 -q
-> Rules: Rule of Aelred, Ancren Riwle, Form of Perfect Living / by Richard Rolle, The Scale (or Ladder) of Perfection / by Walter Hilton, Book for Recluses. -q
-> The early hermits lived a primitive life as tillers of the soil, and their food consisted of herbs, roots, grain, and fruit... he also kept cows... -p. 101 -q
-> IX CONCERNING THE BODY: Food -- Clothing -- Property -- Burial. -o
-> Flesh was rarely tasted by the hermit. -p. 102 -q
-> The recluse lived on simple foods, chiefly vegetarian. -p. 104 -q
-> No man felt himself a hermit until he had assumed some distinctive dress. -p. 105 -q
-> To forsake all was the initial step of the hermit's career. -p. 108 -q
-> Trading is condemmed: 'an achoress that is a buyer and seller, selleth ehr soul to the chapman of hell'. -p. 109 -q
-> In early days it was customary for the cell to become the tomb of its tenant, whether hermit or anchorite. -p. 113 -q
-> X TRIAL AND TEMPTATION
-> To learn to suffer, and to suffer well, was one of the chief ambitions of the anchoress. -p. 124 -q
-> XII HUMAN INTERCOURSE: A. Companionship in the cell -- B. Intercourse with the world -- C. Constancy of Abode
-> The 'solitary' was not condemned to a self-centered and self-sufficing life of utter separation and silence. Companionship was permitted, even  encouraged, on the ground that to live entirely apart from human converse was positively dangerous to the soul... The rules therefore impressed the avisability of fellowship with another of like mind and purpose. -p. 128 -q
-> Guthlac formed a group of recluses who were in touch with one another. -p. 128 -q
-> Nor did the enclosed person necessarily live alone. Wulfric, for example, seems to have the company of Brichtic (p. 74). Richard de Coupe of Swepestone, priest, and Geoffrey Richard, layman, dwelt together in London in the churchyard of St. Lawrence, Jewry (1367). -p. 130 -q
-> Recluses had to avoid the pettiness, suspician, and ill-temper which a narrow life might foster... A spirit of unity was to be cultivated: 'Let your dear faces be always turned to each other with kind affection, a cheerful countenance, adn gentle courtesy'. [Ancren Riwle] -p. 131 -q
-> It was customary for the enclosed person to have servants. -p. 131 -q
-> Although recluses were permitted to speak at discression, they bore the reputation of being taciturn; 'Little will they speak'. -p. 135 -q
-> ... but an anchoress ought to give her thoughts to God only. -Ancren Riwle. -p. 136 -q
-> XII PROPHETS AND CONSELLORS
-> The hermits and achorites of England occupied an independent position somewhat akin to that of the Hebrew seer... follower of Elijah and John the Baptist. It was therefore hsi vocation to read the signs of the times, to declare, to preach, and, it may be, to predict. -p. 146 -q
-> In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host. -p. 147 -q
-> Claiming to know the Divine will by special revelation, the recluse often exercised an important influence both in public and private affairs. -p. 155 -q
-> XII LITERARY RECLUSES (St. Jerome, Gildas, historian, Cuthbert, Billfrith, Plegmund, Dunstan, Guy (Wido), Wechelen, Godric of Finchale, Simon Stock, hymn-writer, Thomas Scrope, historian, Geoffrey, grammarian, George (or Gregory) Ripley, alchemist, Margery Kemp and Julian, mystics, Richard Rolle, composer of poetry and prose, Symon, compiler of a manual of meditations ("The Fruyte of Redempcyon")
-> The solitary, therefore, ought to be learned, not one who needs to be taught; also he aught to be wise and learned in the Divine law, that he may know whnce he may bring forth things new and old. -Grimlaic, Regula Solitariorum (9th c.) -p. 167 -q
-> There is a tradition that a a British recluse (Eremita Brytannus), living in the time of Ina, King of Wesses, collected the history of his country, and expecially the deeds of King Arthur. -p. 167 -q
-> The eleventh-century chronicler, Osbern, visited [Dunstan's] cell or den, which he describes as being more like a tomb than a human habitation. It seems incredible that it measured only 5 feed by 2 1/2 feet. Tn this narrow dwelling the gifted young solitary studied the Scriptures, transcribed and illimited manuscripts, and even, so it said, practiced various arts, such as casting bells and making organs. -p. 169 -q
-> The solitary now belongs to a bygone age... Recluses were swept away by the flood which carried off all that was in any way connected with monasticism... They were not a class composed wholly of eccentric and fanatical, or selfish and morbid persons who shirked the duties of life. They were often men and women of strong and saintly character whose life commanded respect and won gratitude from their fellow-man, who recoognized them as workers. At it's best, the contemplative life was a career and a noble one. -p. 191-2. -q
+> There were two classes of solitaries: anchorites (restricted to a place), and hermits (not restricted. -- Some hermits were caretakers, such as lightkeepers, keepers of highway and bridges, or shrines, or special chaplains (minister to strangers and the poor, and to pray for the people). Many saw them as a sort of prophet or seer. -- Solitaries had 'rules of life', used moreso as 'friendly councel' (p. 89). -- Hermits 'signed a deed of profession, made a vow, and received a charge as to his future manner of living...' (p. 86) -- Solitiaries were typically held to a vegetarian diet -- 'In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host.' (p. 147). -s -- Withdrawal from the world was not at first encouraged by the Christian religion. -p. 13 -q -- Paul of Egypt -- called 'the first hermit'... -p. 13 -q -- It is true that their primary objective in retiring into solitude was the cultivation of the soul, but in doing so they became living witnesses to the reality of the spiritual world. -p. 13 q -- They upheld a lofty and austere moral ideal in the face of self-indulgence, and their manner of llfe was a silent rebuke to rudeness, and excercised a chastening influence in an age of violence. -p. 13 -q -- There were, indeed, two distinct classes of solitaries: the anchorite, enclosed within four walls, and the hermit, who went out of his cell and mingled with his fellow-man. -p. j13 -q -- In some cases anchorites devoted their quiet hours to study, and placed their literary or artistic powers at the service of others. -p. 14 -q -- In fact, the hermits were pioneers of philanthropic works which in these days are undertaken and carried out by public bodies. -p. 15 -q -- ... Wulfric of Haselbury -- prophet and confessor, stern and uncompromising alike with himself and his king... -p. 15 -q -- The life of action, indeed, was apt to be despised by religious teachers, save by such rare saints as Hugh of Lincoln... -p. 16 -q -- ... lead the contemplative life. -p. 23 -q -- The hermit 'led his life, present to the Lord, and unknown to man' -p. 23 -q -- Kenyth, who after eighteen years of solitude found a companion to share his ascetic life... -p. 24 -q -- 3 CAVE DWELLERS: Wulsi -- Robert of Knarseborougg -o -- 4 LIGHTKEEPERS: John Puttock -- Nicholas de Legh -- David Welkes -o -- The Church was the pioneer in many works of mercy and utility, including the provision and maintenance of beacons, bridgets, roads, harbours, and even forts. -49 -q -- 5 HIGHWAY AND BRIDGES HERMITS: Hugh Garth -- Langland -- John le Marechal -- Adam de Whenby -- Some unscrupulous people "took the habit for the sake of an idle life, preferring alms to wages. -61 -q -- The vow of Richard Ludlow... he undertook to have the minister's profession in worship and reverence, to live to his life's end in temperance, soberness, and chastity, to eschew all open spectacles, common scot=ales, tavers, and other suspect places of sin; to hear Mass, pray, and fast; and lastly, he undertook that whatever he should recieve by the way of charity, he would expend truly, without deceit, upon the mending of the bridge and common ways of the town, reserving only sufficent to support himself. -62 -q -- 6 TOWN HERMITS: Thomas de Byreford, Alan Chauns, John "the hermit" (John le Megre?) -- Town-hermits often undertook definite employment [like caretakers of bridges and roads, gates, lepers, or a special chaplain (minister to strangers and the poor, and to pray for the people)]. -p. 71 -q -- 7 ANCHORITES: Wulfric, Lauretta, Katherine of Ledbury, -s -- The anchorite differed from the hermit in that he lived in stricter seclusion, and was not free to wander at will. -p. 73 -q -- Through on window, towards the choir, the recluse partook of the Blessed Sacrament; through another, on the opposite side, he recieved his food; a third, closed with glass or horn, lighted the dwelling. -p. 79 -q -- VII ORDER AND RULE -- The hermit signed a deed of profession, made a vow, and received a charge as to his future manner of living. -p. 86 -q -- The Order of St. Paul the First Hermit -p. 86 -f -- The hermit should make obedience to God alone, because he himself is abbot, prior, and prefect in the cloister of his heart. Episcopal Charge Pontifical, 16th c. -p. 88 -q -- The recluse's Rule of Life consisted of friendly councel rather than rigid regulation. -p. 9 -q -- Rules: Rule of Aelred, Ancren Riwle, Form of Perfect Living / by Richard Rolle, The Scale (or Ladder) of Perfection / by Walter Hilton, Book for Recluses. -q -- The early hermits lived a primitive life as tillers of the soil, and their food consisted of herbs, roots, grain, and fruit... he also kept cows... -p. 101 -q -- IX CONCERNING THE BODY: Food -- Clothing -- Property -- Burial. -o -- Flesh was rarely tasted by the hermit. -p. 102 -q -- The recluse lived on simple foods, chiefly vegetarian. -p. 104 -q -- No man felt himself a hermit until he had assumed some distinctive dress. -p. 105 -q -- To forsake all was the initial step of the hermit's career. -p. 108 -q -- Trading is condemmed: 'an achoress that is a buyer and seller, selleth ehr soul to the chapman of hell'. -p. 109 -q -- In early days it was customary for the cell to become the tomb of its tenant, whether hermit or anchorite. -p. 113 -q -- X TRIAL AND TEMPTATION -- To learn to suffer, and to suffer well, was one of the chief ambitions of the anchoress. -p. 124 -q -- XII HUMAN INTERCOURSE: A. Companionship in the cell -- B. Intercourse with the world -- C. Constancy of Abode -- The 'solitary' was not condemned to a self-centered and self-sufficing life of utter separation and silence. Companionship was permitted, even  encouraged, on the ground that to live entirely apart from human converse was positively dangerous to the soul... The rules therefore impressed the avisability of fellowship with another of like mind and purpose. -p. 128 -q -- Guthlac formed a group of recluses who were in touch with one another. -p. 128 -q -- Nor did the enclosed person necessarily live alone. Wulfric, for example, seems to have the company of Brichtic (p. 74). Richard de Coupe of Swepestone, priest, and Geoffrey Richard, layman, dwelt together in London in the churchyard of St. Lawrence, Jewry (1367). -p. 130 -q -- Recluses had to avoid the pettiness, suspician, and ill-temper which a narrow life might foster... A spirit of unity was to be cultivated: 'Let your dear faces be always turned to each other with kind affection, a cheerful countenance, adn gentle courtesy'. [Ancren Riwle] -p. 131 -q -- It was customary for the enclosed person to have servants. -p. 131 -q -- Although recluses were permitted to speak at discression, they bore the reputation of being taciturn; 'Little will they speak'. -p. 135 -q -- ... but an anchoress ought to give her thoughts to God only. -Ancren Riwle. -p. 136 -q -- XII PROPHETS AND CONSELLORS -- The hermits and achorites of England occupied an independent position somewhat akin to that of the Hebrew seer... follower of Elijah and John the Baptist. It was therefore hsi vocation to read the signs of the times, to declare, to preach, and, it may be, to predict. -p. 146 -q -- In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host. -p. 147 -q -- Claiming to know the Divine will by special revelation, the recluse often exercised an important influence both in public and private affairs. -p. 155 -q -- XII LITERARY RECLUSES (St. Jerome, Gildas, historian, Cuthbert, Billfrith, Plegmund, Dunstan, Guy (Wido), Wechelen, Godric of Finchale, Simon Stock, hymn-writer, Thomas Scrope, historian, Geoffrey, grammarian, George (or Gregory) Ripley, alchemist, Margery Kemp and Julian, mystics, Richard Rolle, composer of poetry and prose, Symon, compiler of a manual of meditations ("The Fruyte of Redempcyon") -- The solitary, therefore, ought to be learned, not one who needs to be taught; also he aught to be wise and learned in the Divine law, that he may know whnce he may bring forth things new and old. -Grimlaic, Regula Solitariorum (9th c.) -p. 167 -q -- There is a tradition that a a British recluse (Eremita Brytannus), living in the time of Ina, King of Wesses, collected the history of his country, and expecially the deeds of King Arthur. -p. 167 -q -- The eleventh-century chronicler, Osbern, visited [Dunstan's] cell or den, which he describes as being more like a tomb than a human habitation. It seems incredible that it measured only 5 feed by 2 1/2 feet. Tn this narrow dwelling the gifted young solitary studied the Scriptures, transcribed and illimited manuscripts, and even, so it said, practiced various arts, such as casting bells and making organs. -p. 169 -q -- The solitary now belongs to a bygone age... Recluses were swept away by the flood which carried off all that was in any way connected with monasticism... They were not a class composed wholly of eccentric and fanatical, or selfish and morbid persons who shirked the duties of life. They were often men and women of strong and saintly character whose life commanded respect and won gratitude from their fellow-man, who recoognized them as workers. At it's best, the contemplative life was a career and a noble one. -p. 191-2. -q
 
 ### clayton1988
 Clayton, Peter A. -- The seven wonders of the ancient world / Peter Clayton and Martin J. Price. -- Routledge, 1988. -- xiii, 178 p. -- ISBN 0415050367. -- DDC 930.
-> The seven wonders of the ancient world: The great pyramid of Giza. -- The hanging gardens of Babylon. -- The statue  of Zeus at Olympia. -- The temple of Artemis at Ephesos. -- The Mausoleum at Halicarnassus. -- The Colossus of Rhodes. -- The Pharos at Alexandria. -f
-> It [the Great Pyramid of Giza] is the only one of the Seen wonders that still stands in an almost complete and recognizable form; it is also the oldest. -p. 13 -q
-> It is interesting to reflect that until the nineteenth century AD the Great Pyramid was the tallest man-made building in the world -- it held its record for over four thousand years without the aid of modern technology! -p. 23 -q
-> It is difficult to calculate the number of blocks used [in the great pyramid of Giza] because of the unknown quantity of mass of natural rock in the centre, but figures of 2,300,000 separate blocks of between 2 and 15 tons have been quoted. -p. 25 -q
-> 'Man fears Time, yet Time fears the pyramids.' -Arab proverb. -p. 37 -q
-> Babylon is the largest city of ancient Mesopotamia, exceeding even Nineveh, covering an area of some 850 hectars... -p. 48 -q
-> The absence of references to it [the Hanging Gardens] is admittedly a difficulty, graver perhaps than its omission in Herodotus' description of Babylon. -p. 58 -q
-> The Greek temple has been characterised as a house of the soul, different from the Egyptian temple, which was the house of the god, and the cathedral, the house of the people. -p. 79 -q
-> The Rhodians sold the equipment for a large sum of money which they spent on the creation and erection of an enormous bronze statue of their patron deity, Helios he Sun God. The schulptor they chose for the commission [of the Colossus of Rhodes] was Chares of Lindos, a pupil of the famous sculptor Lysipus. Between 294 and 282 BC... -p. 127 -q
-> The Museum (a temple of the Muse) was essentially a monastic establishment where scholarship flourished and where accredited scholars were privileged with exemption from taxation and given free board and lodging... The two institutions at Alexandria, the Museum and the Library, were a metaphorical beacon in the ancient world of learning... -p. 142 -q
-> The Colossus was destroyed by an earthquake some 56 yrs after construction. -p. 128 -f
-> CTESIAS, fl. 400BC, m., physican. -Wrote about the Hanging Gardens of Babylon. -p. 44 -f
-> STRABO. -Wrote about the Hanging Gardens of Babylon. -p. 44 -f
-> PHILO, of Byzantium, fl. 250 BC. -Wrote about the Hanging Gardens of Babylon. p. 45 -fCoastal trails. -- Coastal Trails Coalition, c2005. -- 17 p. -- DDC 796.51
+> The seven wonders of the ancient world: The great pyramid of Giza. -- The hanging gardens of Babylon. -- The statue  of Zeus at Olympia. -- The temple of Artemis at Ephesos. -- The Mausoleum at Halicarnassus. -- The Colossus of Rhodes. -- The Pharos at Alexandria. -f -- It [the Great Pyramid of Giza] is the only one of the Seen wonders that still stands in an almost complete and recognizable form; it is also the oldest. -p. 13 -q -- It is interesting to reflect that until the nineteenth century AD the Great Pyramid was the tallest man-made building in the world -- it held its record for over four thousand years without the aid of modern technology! -p. 23 -q -- It is difficult to calculate the number of blocks used [in the great pyramid of Giza] because of the unknown quantity of mass of natural rock in the centre, but figures of 2,300,000 separate blocks of between 2 and 15 tons have been quoted. -p. 25 -q -- 'Man fears Time, yet Time fears the pyramids.' -Arab proverb. -p. 37 -q -- Babylon is the largest city of ancient Mesopotamia, exceeding even Nineveh, covering an area of some 850 hectars... -p. 48 -q -- The absence of references to it [the Hanging Gardens] is admittedly a difficulty, graver perhaps than its omission in Herodotus' description of Babylon. -p. 58 -q -- The Greek temple has been characterised as a house of the soul, different from the Egyptian temple, which was the house of the god, and the cathedral, the house of the people. -p. 79 -q -- The Rhodians sold the equipment for a large sum of money which they spent on the creation and erection of an enormous bronze statue of their patron deity, Helios he Sun God. The schulptor they chose for the commission [of the Colossus of Rhodes] was Chares of Lindos, a pupil of the famous sculptor Lysipus. Between 294 and 282 BC... -p. 127 -q -- The Museum (a temple of the Muse) was essentially a monastic establishment where scholarship flourished and where accredited scholars were privileged with exemption from taxation and given free board and lodging... The two institutions at Alexandria, the Museum and the Library, were a metaphorical beacon in the ancient world of learning... -p. 142 -q -- The Colossus was destroyed by an earthquake some 56 yrs after construction. -p. 128 -f -- CTESIAS, fl. 400BC, m., physican. -Wrote about the Hanging Gardens of Babylon. -p. 44 -f -- STRABO. -Wrote about the Hanging Gardens of Babylon. -p. 44 -f -- PHILO, of Byzantium, fl. 250 BC. -Wrote about the Hanging Gardens of Babylon. p. 45 -f
 
 ### coelho1993
 Coelho, Paul. -- The alchemist. -- Computer data (1 file). -- [San Francisco] : HarperSanFrancisco, c1993. -- on 1 external hard drive. -- System requirements: Palm eReader (pdb) file reader. -- Title from resource. -- DBID 8337. -- DDC 398.
-> '...they would have to share living space with those who lived there, and would be given the best accommodations. That was the law of hospitality.' -p. -q
-> 'Now, I'm beginning what I could have started ten years ago. But I'm happy at least that I didn't wait twenty years.' -p. -q
-> Everything that happens once can never happen again. But everything that happens twice will surely happen a third time.'' They mounted their horses. -p. -q
-> 'He was at home with the silence of the desert, and he was content just to look at the trees.' -p. -q
-> 'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -p. -q
-> 'Because, when you know that language [Love], it's easy to understand that someone in the world awaits you, whether it's in the middle of the desert or in some great city.' -p. -q
-> '...and their eyes meet, the past and the future become unimportant... 'Without such love, one's dreams would have no meaning.' -p. -q
-> '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 -q
-> '...when we strive to become better than we are, everything around us becomes better, too.' -p. -qT
+> '...they would have to share living space with those who lived there, and would be given the best accommodations. That was the law of hospitality.' -p. -q -- 'Now, I'm beginning what I could have started ten years ago. But I'm happy at least that I didn't wait twenty years.' -p. -q -- Everything that happens once can never happen again. But everything that happens twice will surely happen a third time.'' They mounted their horses. -p. -q -- 'He was at home with the silence of the desert, and he was content just to look at the trees.' -p. -q -- 'No matter what he does, every person on earth plays a central role in the history of the world. And normally he doesn't know it.' -p. -q -- 'Because, when you know that language [Love], it's easy to understand that someone in the world awaits you, whether it's in the middle of the desert or in some great city.' -p. -q -- '...and their eyes meet, the past and the future become unimportant... 'Without such love, one's dreams would have no meaning.' -p. -q -- '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 -q -- '...when we strive to become better than we are, everything around us becomes better, too.' -p. -q
 
 ### colony
 The Colony / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe. -- Computer data (1 file). -- RLJ Entertainment, [2013]. -- on 1 external hard drive. -- System requirements: USB drive; MP4 file reader. -- Title from WorldCat desc. -- Filename: 3316.mp4. -- DDC 791.43.
@@ -978,83 +649,10 @@ Comparison of MARC content designation utilization in OCLC WorldCat records with
 
 ### confessions
 Confessions of Saint Augustine. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1725. -- DDC 1725.
-> 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
-> 'But no one doth well against his will, even though what he doth, be well.' -p. -q
-> 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q
-> 'And what is it that I delight in, but to love, and be beloved?' -p. -q
-> 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q
-> 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q
-> 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q
-> 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q
-> '...dedicate these books unto Hierius, an orator of Rome' -p. -f
-> 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q
-> Simplicainus -p. -f
-> Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s
-> But how could I expect that the Platonist books would ever teach me charity? -p. -q
-> ? O Life of my life? -p. -q
-> Nebridius -p. -f
-> ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q
-> ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q
-> Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s
-> Bishop Ambrose -p. -s
-> 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q
-> Elpidius -p. -q
-> FaustusA teacher of the Manacians -p. -f
-> 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
-> 'But no one doth well against his will, even though what he doth, be well.' -p. -q
-> 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q
-> 'And what is it that I delight in, but to love, and be beloved?' -p. -q
-> 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q
-> 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q
-> 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q
-> 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q
-> '...dedicate these books unto Hierius, an orator of Rome' -p. -f
-> 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q
-> Simplicainus -p. -f
-> Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s
-> But how could I expect that the Platonist books would ever teach me charity? -p. -q
-> ? O Life of my life? -p. -q
-> Nebridius -p. -f
-> ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q
-> ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q
-> Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s
-> Bishop Ambrose -p. -s
-> 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q
-> Elpidius -p. -q
-> FaustusA teacher of the Manacians -p. -f
-> 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q
-> 'But no one doth well against his will, even though what he doth, be well.' -p. -q
-> 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q
-> 'And what is it that I delight in, but to love, and be beloved?' -p. -q
-> 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q
-> 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q
-> 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q
-> 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q
-> '...dedicate these books unto Hierius, an orator of Rome' -p. -f
-> 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q
-> Simplicainus -p. -f
-> Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s
-> But how could I expect that the Platonist books would ever teach me charity? -p. -q
-> ? O Life of my life? -p. -q
-> Nebridius -p. -f
-> ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q
-> ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q
-> Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s
-> Bishop Ambrose -p. -s
-> 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q
-> Elpidius -p70. -q
-> FaustusA teacher of the Manacians -p. -f
+> 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q -- 'But no one doth well against his will, even though what he doth, be well.' -p. -q -- 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q -- 'And what is it that I delight in, but to love, and be beloved?' -p. -q -- 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q -- 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q -- 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q -- 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q -- '...dedicate these books unto Hierius, an orator of Rome' -p. -f -- 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q -- Simplicainus -p. -f -- Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s -- But how could I expect that the Platonist books would ever teach me charity? -p. -q -- ? O Life of my life? -p. -q -- Nebridius -p. -f -- ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q -- ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q -- Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s -- Bishop Ambrose -p. -s -- 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q -- Elpidius -p. -q -- FaustusA teacher of the Manacians -p. -f -- 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q -- 'But no one doth well against his will, even though what he doth, be well.' -p. -q -- 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q -- 'And what is it that I delight in, but to love, and be beloved?' -p. -q -- 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q -- 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q -- 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q -- 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q -- '...dedicate these books unto Hierius, an orator of Rome' -p. -f -- 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q -- Simplicainus -p. -f -- Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s -- But how could I expect that the Platonist books would ever teach me charity? -p. -q -- ? O Life of my life? -p. -q -- Nebridius -p. -f -- ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q -- ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q -- Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s -- Bishop Ambrose -p. -s -- 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q -- Elpidius -p. -q -- FaustusA teacher of the Manacians -p. -f -- 'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. -q -- 'But no one doth well against his will, even though what he doth, be well.' -p. -q -- 'No doubt, then, that a free curiosity has more force in our learning these things, than a frightful enforcement.' -p. -q -- 'And what is it that I delight in, but to love, and be beloved?' -p. -q -- 'To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.To whom am I narrating all this? Not to thee, O my God, but to my own kind in thy presence -- to that small part of the human race who may chance to come upon these writings.' -p. -q -- 'Ambition seeks honor and glory, whereas only thou shouldst be honored above all, and glorified forever' -p. -q -- 'And since at that time (Thou, O light of my heart, knowest) Apostolic Scripture was not known to me.' -p. -q -- 'Descend, that ye may ascend, and ascend to God. For ye have fallen, by ascending against Him.' -p. -q -- '...dedicate these books unto Hierius, an orator of Rome' -p. -f -- 'She had the weak body of a women but the strong faith of a man, the composure of hier years, a mother's love for her son, and the devotion of a Christian.'A rather sexist statement; but rather like Maw-Maw. -p. -q -- Simplicainus -p. -f -- Book VIIAugustine looses confidence in astrology. -Story of his conversion. -p. -s -- But how could I expect that the Platonist books would ever teach me charity? -p. -q -- ? O Life of my life? -p. -q -- Nebridius -p. -f -- ?because I had certainly been both rash and impious in speaking out in condemnation of a matter on which I ought to have taken pains to be better informed.A lesson I could learn from. -p. -q -- ? wen I use to criticize your saints for holding beliefs what they had never really held at all. -p. -q -- Book VAugustine's 29th year. -Expresses disappointment in meeting Faustus. -p. -s -- Bishop Ambrose -p. -s -- 'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. -q -- Elpidius -p70. -q -- FaustusA teacher of the Manacians -p. -f
 
 ### connors-p-f
-Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780061859366. -- DDC 634.
-> ... I'd have told you you were stark raving mad... -p. 80 -q
-> Every so often my stripping away of need and worry leaves me eager to be shed of even more. -p. 85 -q
-> ... the skills required of a person here, aside from the use of the Osborne Firefinder, and more intuitive than mechncial and therefore difficult to impart. -p. 110 -q
-> Never in history had a government body, American or otherwise, surveyed the values of so large a piecce of country and decided that its highest values of so large a pience of country and decdied that its highest use lay not in economic exploitation or -- as in the case of national parks -- scenic wonders, but in no use at all expect by the nonmotoized traveler. -p. 128 -q
-> ... the bearded sage John Muir, advocated preserving the wilderness both for its own sake and as a natural cathedral for the human spirit... He called the forests of California, 'God's first temples... proclaiming the gospel of beauty like apostles.' -p. 130
-> ... povisions for an overnight camp: water, matches, a sleeping bag. -p. 138 -q
-> Then it's back to my duties as a smoke-besotted stylite. -p. 138 -q
-> Do not miss a chance to nap -- Leave the place better than you found it -- Never piss into the wind -- Go buck naked in the tower now and then for kicks -- Learn what it means to ride the lightning -- Cut a good supply of wood for he start of the next year -- Feed the hummingbirds -- Have a hobby: readying, knitting, playing the ukelele. Something. -- Sleep outside when the weather permits -- Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q
+Connors, Philip. -- Fire season. -- HarperCollins, c2011. -- 246 p. -- ISBN 9780061859366. -- DDC 634. -- ... I'd have told you you were stark raving mad... -p. 80 -q -- Every so often my stripping away of need and worry leaves me eager to be shed of even more. -p. 85 -q -- ... the skills required of a person here, aside from the use of the Osborne Firefinder, and more intuitive than mechncial and therefore difficult to impart. -p. 110 -q -- Never in history had a government body, American or otherwise, surveyed the values of so large a piecce of country and decided that its highest values of so large a pience of country and decdied that its highest use lay not in economic exploitation or -- as in the case of national parks -- scenic wonders, but in no use at all expect by the nonmotoized traveler. -p. 128 -q -- ... the bearded sage John Muir, advocated preserving the wilderness both for its own sake and as a natural cathedral for the human spirit... He called the forests of California, 'God's first temples... proclaiming the gospel of beauty like apostles.' -p. 130 -- ... povisions for an overnight camp: water, matches, a sleeping bag. -p. 138 -q -- Then it's back to my duties as a smoke-besotted stylite. -p. 138 -q -- Do not miss a chance to nap -- Leave the place better than you found it -- Never piss into the wind -- Go buck naked in the tower now and then for kicks -- Learn what it means to ride the lightning -- Cut a good supply of wood for he start of the next year -- Feed the hummingbirds -- Have a hobby: readying, knitting, playing the ukelele. Something. -- Sleep outside when the weather permits -- Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q
 
 ### conser
 CONSER standard record documentation -- Computer data (1 file : 417 kb) -- [S.l., s.n.], 2007. -- Title from cover. -- File name: (7068.pdf) -- DBID 7068 -- DDC 025.3.
@@ -1067,18 +665,8 @@ The RDA workbook / Margaret Mering, Editor. -- Computer data (1 file). -- Librar
 
 ### rethinking
 Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Computer data. -- Facet publishing, c2013. -- Mode of Access: World Wide Web (http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB). -- ISBN 9781856048224. -- Available to patrons with membership to institutions subscribing to EBSCO ebooks. -- DDC 028.7.
-> This book presents a curriculum for information literacy. -s
-> People need the skills and values to enable them not just to access information but to use it to make informed judgements and choices, to make their voices heard and make a difference. Librarians have recognized this for many years and call these skills and values ‘information literacy’. -q
-> Information-literate people... are judicious citizens who can use information to transform their circumstances, create new knowledge and reach their full potential. -q
-> Yet in a world awash with information and knowledge, young people appear increasingly unable to carry out independent research, reluctant to argue and to challenge big ideas and to take risks to discover new knowledge. Instead they readily copy and paste ideas rather than read and critique them. -q
-> If librarians are not needed to manage books, perhaps they canevolve into a new role as information literacy experts? -q  I think this exaggerates the situation. Librarians continue to manage books (and other information packets), digital or otherwise. -r
-> Libraries have a fundamental role in providing access to information and knowledge, to enable it to be used and communicated to others. In essence, libraries... facilitate learning. Learning enables research and research brings about transformation and progress. -q
-> . While librarians may no longer be gatekeepers of knowledge, they can be valuable trusted guides and through information literacy initiatives they can help learners become autonomous and able to make their own informed judgements. -q
-> ... we work towards the shared ambition of developing autonomous, lifelong learners who are able to use information effectively in their academic studies and in their personal and professional lives. -q
-> The term ‘information literacy’ was first used almost 40 years ago and was coined by Paul Zurkowski, a US librarian (Zurkowski, 1974). -q
-> Information literacy empowers people in all walks of life to seek, evaluate, use and create information effectively to achieve their personal, social, occupational and educational goals. It is a basic human right in a digital world and promotes social inclusion in all nations. -q
-UNESCO (2005) 
-> Information literacy is a continuum of skills, behaviours, approaches and values that it is so deeply entwined with the use of information as to be a fundamental part of learning, scholarship and research. It is the defining characteristics of the discerning scholar, the informed and judicious citizen and the autonomous learner. -q
+> This book presents a curriculum for information literacy. -s -- People need the skills and values to enable them not just to access information but to use it to make informed judgements and choices, to make their voices heard and make a difference. Librarians have recognized this for many years and call these skills and values ‘information literacy’. -q -- Information-literate people... are judicious citizens who can use information to transform their circumstances, create new knowledge and reach their full potential. -q -- Yet in a world awash with information and knowledge, young people appear increasingly unable to carry out independent research, reluctant to argue and to challenge big ideas and to take risks to discover new knowledge. Instead they readily copy and paste ideas rather than read and critique them. -q -- If librarians are not needed to manage books, perhaps they canevolve into a new role as information literacy experts? -q  I think this exaggerates the situation. Librarians continue to manage books (and other information packets), digital or otherwise. -r -- Libraries have a fundamental role in providing access to information and knowledge, to enable it to be used and communicated to others. In essence, libraries... facilitate learning. Learning enables research and research brings about transformation and progress. -q -- . While librarians may no longer be gatekeepers of knowledge, they can be valuable trusted guides and through information literacy initiatives they can help learners become autonomous and able to make their own informed judgements. -q -- ... we work towards the shared ambition of developing autonomous, lifelong learners who are able to use information effectively in their academic studies and in their personal and professional lives. -q -- The term ‘information literacy’ was first used almost 40 years ago and was coined by Paul Zurkowski, a US librarian (Zurkowski, 1974). -q -- Information literacy empowers people in all walks of life to seek, evaluate, use and create information effectively to achieve their personal, social, occupational and educational goals. It is a basic human right in a digital world and promotes social inclusion in all nations. -q
+UNESCO (2005)  -- Information literacy is a continuum of skills, behaviours, approaches and values that it is so deeply entwined with the use of information as to be a fundamental part of learning, scholarship and research. It is the defining characteristics of the discerning scholar, the informed and judicious citizen and the autonomous learner. -q
 
 ### cooper-p-b
 Cooper, Peter. -- Beginning Ruby. -- Computer file (1 file) -- [S.l.] : Apress, 2007.. -- Title from cover. -- System requirements: Asus Transformer; Android OS; Kindle app. -- DBID 3035 -- DDC 005.
@@ -1100,23 +688,7 @@ A crown of maples. -- 2012 ed. -- Computer data (1 file) -- [Canada] : Dept. of 
 
 ### cunningham-s-w
 Cunningham, Scott. -- Wicca : a guide for the solitary practioner. -- Woodbury, Minnesota : Llewellyn Publications, c2004. -- xiv, 239 p. -- ISBN 9780875421186 -- DDC 133.
-> The person practicing the ritual or spell determines its success. -p. ix -q
-> In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix -q
-> ...I [the author] prefer the medium of printed words... -p. xi -q
-> The shamans were the first humans with knowledge. They created, discovered, nurtured, and used it. -p. 3 -q
-> Magic is natural. It is a harmonious movement of energies to create needed change. -p. 6 -q
-> Wicca -- it is a joyous union with nature. -p. 6 -q
-> When we lose touch with our blessed planet, we lose touch with deity. -p. 7 -q
-> Magic is the projection of natural energies to produce needed effects. -p. 21 -q
-> Magic... is a religious act in which Wiccans unite with theeir deities to better themselves and their world. -p. 25 -q
-> If you wish to make your magic broom, you might try the old magical formula of an ash staff, birth twigs, and a willow binding. The ash is protective, the birch is purifying, and the willow is sacred to the Goddess. -p. 29 -q
-> What isn't easy to see is that all the power and luck we need is within ourselves. -p. 52 -q
-> Each tradition (expression) of Wicca, whether passed down or intuitively performed, is akin to a petal of a flower. No one petal constitutes the whole; all are necessary to the flower's existence. The solitary path is as much a part of Wicca as is any other. -p. 55 -q
-> I. WICCA AND SHAMANISM: A. The shamans -- B. Principles of Wicca (1. Recognizes deity as duel. -- 2. Physical world is one of many realities -- 3. Embraces the doctrine of reincarnation. -- 4. Do what you want, as long as you harm none. -- 5. Religion that utilizes magic -- 6. A religion of nature ) -o
-> III. Magic: A. Three sources (1. Personal Power: The life force that sustains our earthy existence. -- 2. Earth Power: Resides within our planet and its natural products. -- 3. Divine Power: manifestation of personal and earth power.) -o
-> IV. Tools: A. The Broom (1. Used to magically clean an area -- 2. May also be used to represent astrol projection. -- 3. Linked with element of water.) -- B. Wand (1. Direct energy. -- 2. Linked with air, sacred to the God.) -- C. Censer (insense burner) -- D. Cauldron (1. A container in which magical tranformations occur.) -- E. Magic Knife (1. Causes physical change; associated with fire; linked with the god.) -- F. Chrystal Sphere (1. used in contemplative divination. -- 2. psychic faculties.) -- G. Cup (1. Simply a cauldron on a stem. -- 2. associated with the Goddess and fertility -- 3. related to element of water.) -- H. Pentacle (1. An element of protection -- 2. Associated with element of earth.) -- I. The Book of Shadows (1. Spell and ritual book) -- J. Bell (1. powerful effects according to its volume, tone, and material of construction -- 2. Used to a. ward off evil spirts and spells  b. protection  c. evoke good energies.) -s 
->  I. Days of power: A. Yule (1. circa dec. 21 -- 2. The goddess gives birth to a son, the god.) -- B. Imbolic (1. Feb. 2 2. recovery of the goddess after giving birth.) -- C. Ostara (1. circa Mar. 21 -- 2. Marks the spring; goddess blankets the earth with fertility) -- D. Beltane (1. Apr. 30 -- 2. Marks the emergence of the young god into manhood.) -- E. Midsummer / Litha (1. circa jun 21 -- 2. the powers of nature reach highest point -- 3. earth awash in fertility of the goddess and god) -- F. Lughnasadh (1. Aug. 1 -- 2. time of harvest -- 3. the god lose his strenth) -- G. Mahon (1. circa sept. 21 -- 2. the god prepares to leave physical body) -- H. Samhain (1. oct. 31 -- 2. says farwell to the god.)  -s
-> VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)
+> The person practicing the ritual or spell determines its success. -p. ix -q -- In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix -q -- ...I [the author] prefer the medium of printed words... -p. xi -q -- The shamans were the first humans with knowledge. They created, discovered, nurtured, and used it. -p. 3 -q -- Magic is natural. It is a harmonious movement of energies to create needed change. -p. 6 -q -- Wicca -- it is a joyous union with nature. -p. 6 -q -- When we lose touch with our blessed planet, we lose touch with deity. -p. 7 -q -- Magic is the projection of natural energies to produce needed effects. -p. 21 -q -- Magic... is a religious act in which Wiccans unite with theeir deities to better themselves and their world. -p. 25 -q -- If you wish to make your magic broom, you might try the old magical formula of an ash staff, birth twigs, and a willow binding. The ash is protective, the birch is purifying, and the willow is sacred to the Goddess. -p. 29 -q -- What isn't easy to see is that all the power and luck we need is within ourselves. -p. 52 -q -- Each tradition (expression) of Wicca, whether passed down or intuitively performed, is akin to a petal of a flower. No one petal constitutes the whole; all are necessary to the flower's existence. The solitary path is as much a part of Wicca as is any other. -p. 55 -q -- I. WICCA AND SHAMANISM: A. The shamans -- B. Principles of Wicca (1. Recognizes deity as duel. -- 2. Physical world is one of many realities -- 3. Embraces the doctrine of reincarnation. -- 4. Do what you want, as long as you harm none. -- 5. Religion that utilizes magic -- 6. A religion of nature ) -o -- III. Magic: A. Three sources (1. Personal Power: The life force that sustains our earthy existence. -- 2. Earth Power: Resides within our planet and its natural products. -- 3. Divine Power: manifestation of personal and earth power.) -o -- IV. Tools: A. The Broom (1. Used to magically clean an area -- 2. May also be used to represent astrol projection. -- 3. Linked with element of water.) -- B. Wand (1. Direct energy. -- 2. Linked with air, sacred to the God.) -- C. Censer (insense burner) -- D. Cauldron (1. A container in which magical tranformations occur.) -- E. Magic Knife (1. Causes physical change; associated with fire; linked with the god.) -- F. Chrystal Sphere (1. used in contemplative divination. -- 2. psychic faculties.) -- G. Cup (1. Simply a cauldron on a stem. -- 2. associated with the Goddess and fertility -- 3. related to element of water.) -- H. Pentacle (1. An element of protection -- 2. Associated with element of earth.) -- I. The Book of Shadows (1. Spell and ritual book) -- J. Bell (1. powerful effects according to its volume, tone, and material of construction -- 2. Used to a. ward off evil spirts and spells  b. protection  c. evoke good energies.) -s  --  I. Days of power: A. Yule (1. circa dec. 21 -- 2. The goddess gives birth to a son, the god.) -- B. Imbolic (1. Feb. 2 2. recovery of the goddess after giving birth.) -- C. Ostara (1. circa Mar. 21 -- 2. Marks the spring; goddess blankets the earth with fertility) -- D. Beltane (1. Apr. 30 -- 2. Marks the emergence of the young god into manhood.) -- E. Midsummer / Litha (1. circa jun 21 -- 2. the powers of nature reach highest point -- 3. earth awash in fertility of the goddess and god) -- F. Lughnasadh (1. Aug. 1 -- 2. time of harvest -- 3. the god lose his strenth) -- G. Mahon (1. circa sept. 21 -- 2. the god prepares to leave physical body) -- H. Samhain (1. oct. 31 -- 2. says farwell to the god.)  -s -- VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)
 
 ### curlie
 Curlie. -- Computer data -- Curlie, c2018. -- Mode of Access: World Wide Web. -- Title from homepage. -- URL https://curlie.org/ . -- DDC 017.
