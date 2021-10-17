@@ -5342,3 +5342,6 @@ Barnes, Max. -- Raising goats for beginners. -- s.n., 2021. -- Mode of Access: [
  
 ### 20211017_171939 
 caard. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://carrd.co/build). -- Title from homepage viewed Sun 10/17/2021. -- DDC 004. 
+ 
+### 20211017_172136 
+Glide. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://www.glideapps.com/). -- Title from homepage viewed Sun 10/17/2021. -- DDC 005. 
