@@ -5334,3 +5334,5 @@ Clayton, Matt. -- Egyptian mythology. -- [S.n.], c2017. -- Title from amazon.com
 ### 
 The Assyrian empire. -- Sea Vision Publishing, c2021, 2019. -- Title from amazon.com desc. viewed Oct. 17, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07S9T6DSX). -- AISN B07S9T6DSX. -- DDC ### 20211017_122539 
 #C Asthana, S.A.. -- At tge edges. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09DTN7SZH). -- Title from amazon.com viewed Sun 10/17/2021. -- AISN B09DTN7SZH. -- DBID 20211017_122539. -- DDC 080. 
+### 20211017_122859 
+#C Barnes, Max. -- Raising goats for beginners. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09J9XHS31). -- Title from amazon.com viewed Sun 10/17/2021. -- AISN B09J9XHS31. -- DBID 20211017_122859. -- DDC 636. 
