@@ -872,7 +872,8 @@ Duff, Wendy. -- Finding and using archival resources. -- Computer data (1 file :
 
 ### duncan-d-f
 Duncan, David Ewing. -- From Cape to Cairo. -- Weidenfeld & Nicolson, c1989. -- xvii, 330 p. -- ISBN 1555840450. -- DDC 916.
-> Read 2021-09. Grade C. -r -- Now, after a half-decade of Mubarak's low-key, technocratic leadership, which had icluded substantial loosening of economic and political bnds, the tension seemed to have evaporated. -p. 313 -q -- Our object is to create a new order in Africa... based on simplicity, justice, equality and humanity. Julius Nyerere -p. 190 -q -- Naw, course not I keep my bloody mouth shut over there on that side of the river. It ain't healthy to go spoutin' off, yah know. -unknown -p. 120 -q -- 'Roades was the fool who started it all,' mused A.J., 'but if it hadn't been him, it wouldn've been someone else.' -p. 100 -q -- 'To make it out here, there is one siimple rule,' said Atom... 'You adapt. When you stop adapting it's time to cash it in.' -p. 98 -q -- 'I'm a family man,' he [Milo] said in a low rumble, adding that he disliked politics. 'I am mostly interested in just living.' -p. 92 -q -- ... purely Western-looking outposts proclaiming the ethos of the Caucasion pioneer: independence, hard work and self-sufficiency. -p. 34 -q -- 
+> Read 2021-09. Grade C. -r 
+> Now, after a half-decade of Mubarak's low-key, technocratic leadership, which had icluded substantial loosening of economic and political bnds, the tension seemed to have evaporated. -p. 313 -q -- Our object is to create a new order in Africa... based on simplicity, justice, equality and humanity. Julius Nyerere -p. 190 -q -- Naw, course not I keep my bloody mouth shut over there on that side of the river. It ain't healthy to go spoutin' off, yah know. -unknown -p. 120 -q -- 'Roades was the fool who started it all,' mused A.J., 'but if it hadn't been him, it wouldn've been someone else.' -p. 100 -q -- 'To make it out here, there is one siimple rule,' said Atom... 'You adapt. When you stop adapting it's time to cash it in.' -p. 98 -q -- 'I'm a family man,' he [Milo] said in a low rumble, adding that he disliked politics. 'I am mostly interested in just living.' -p. 92 -q -- ... purely Western-looking outposts proclaiming the ethos of the Caucasion pioneer: independence, hard work and self-sufficiency. -p. 34 -q -- 
 
 ### dwight-t-c
 Dwight, Timothy. -- The conquest of Canaan : a poem, in eleven books. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079 -- DDC 811.
@@ -5316,8 +5317,20 @@ Kindle4Rss. -- kindle4rss.com, c2019. -- Title from resource viewed Sept. 30, 20
 Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021. -- DDC 288. 
  
 ### 20211009_075322 
-How To Whittle a Wood Duck. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html). -- Title from homepage viewed Sat 10/09/2021. -- DDC 736.4. 
+How To whittle a wood duck. -- [s.n., n.d.]. -- Mode of Access: [World Wide Web](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html). -- Title from homepage viewed Sat 10/09/2021. -- DDC 736.4. 
 
 ### verne-j-2
 Verne, Jules. -- 20,000 leagues under the sea. -- Bantam Books, 1964. -- 371 p. -- ISBN 0553212524. -- DDC 843. 
 
+### cambridge-m-h
+The Cambridge medieval history collection. --  Mario Brito Publishing, 2000. -- Title from amazon.com desc. viewed Oct. 17, 2021. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B08KHH4DV4). -- AISN B08KHH4DV4. -- DDC 940.
+
+### ford-l-c
+Ford, Lincoln. -- Coin collecting. -- [S.n.], 2021. -- Title from amazon.com desc. viewed Oct 17, 2021. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B08ZW84QTD) -- AISN B08ZW84QTD. -- DDC 737.
+
+### clayton-m-e
+Clayton, Matt. -- Egyptian mythology. -- [S.n.], c2017. -- Title from amazon.com desc. viewed Oct. 17, 2021. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B0738H8PM6). -- AISN B0738H8PM6. -- DDC 932.
+
+### 
+The Assyrian empire. -- Sea Vision Publishing, c2021, 2019. -- Title from amazon.com desc. viewed Oct. 17, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07S9T6DSX). -- AISN B07S9T6DSX. -- DDC ### 20211017_122539 
+#C Asthana, S.A.. -- At tge edges. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09DTN7SZH). -- Title from amazon.com viewed Sun 10/17/2021. -- AISN B09DTN7SZH. -- DBID 20211017_122539. -- DDC 080. 
