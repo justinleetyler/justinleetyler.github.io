@@ -4410,8 +4410,8 @@ Sissel. -- Into Paradise. -- Computer data. -- New York, NY: Decca Records, 2006
 ### sleepthief-l
 Sleepthief (Musical group). -- Labyrinthine Heart. -- Computer data. -- Weston, FL: Neurodisc Records, 2009. -- on 1 external hard drive. -- System requirements: USB drive; MP3 file reader. -- Title from Compact Disc. -- DDC 781.66.
 
-### small
-The small school library. -- Computer data. -- Alaska Dept. of Education, 1967. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page. -- Filename: 3305.pdf. -- DDC 020.
+### small-s-l
+The small school library. -- Alaska Dept. of Education, 1967. -- on 1 external hard drive. -- System requirements: USB drive; PDF file reader. -- Title from title page viewed Oct. 21, 2021. -- Filename: 3305.pdf. -- Also available on the [World Wide Web](http://files.eric.ed.gov/fulltext/ED035508.pdf). -- DDC 020.
 
 ### smash-b-w
 Smash, B.J. -- The witches of Merribay / B.J. Smash (Author), Kelly McGough (Editor). -- Computer data (1 file : 437 KB). -- B.J. Smash, 2013. -- on ASUS tranformer tablet. -- System requirements: Kindle app. -- Title from Amazon.com desc. -- DDC 813.
