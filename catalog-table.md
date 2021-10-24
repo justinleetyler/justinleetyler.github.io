@@ -1,4 +1,5 @@
 | desc | notes | 
+| ---- | ----- |
 | Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3292. -- DBID 5392. |
 | -NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive.  |
 | 12 outstanding personality traits of a great boss. -- Computer data. -- Mode of Access: World Wide Web (http://www.officevibe.com/blog/infographic-great-boss). -- Title from resource. -- IN Officevibe [website].  1. 650. |  Think positive -- Be honest -- Delegate -- Communicate -- Inspire -- Align the team -- Balanced (People perform better when they're able to balance life and work") -- Give credit -- Encourage growth -- Praise -- Mentor -- Fair. -o |
