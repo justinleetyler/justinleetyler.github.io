@@ -2143,3 +2143,5 @@ caard. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://carrd.co/build
 Glide. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://www.glideapps.com/). -- Title from homepage viewed Sun 10/17/2021. -- DDC 005. 
 
 Stulberg, Brad. -- 8 rules to do everything better. -- [S.n., 2021?]. -- Title from resource viewed Oct. 20, 2021. -- Mode of Access: [World Wide Web](https://getpocket.com/explore/item/8-rules-to-do-everything-better). -- DDC 152. --  Stress + Rest = Growth -- Focus on the Process, Not Results -- Stay Humble -- Build Your Tribe -- Take Small, Consistent Steps to Achieve Big Gains -- Be a Minimalist -- Make the Hard Thing Easier -- Remember to Experience Joy -- There’s an old saying that you’re the average of the five people you spend the most time with. -q. -- 
+ 
+Padron, Paul. -- The gift of samuel. -- In Libras Libertas LLC, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B08W4QMR32). -- Title from amazon.com viewed Sun 10/24/2021. -- AISN B08W4QMR32. -- DBID 20211024_165254. -- DDC 813. 
