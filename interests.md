@@ -14,48 +14,49 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
+|2021-10 | C | 11 20,000 leagues under the sea / Jules Verne. | 843. | "Our chances seemed slim, but hope springs eternal in the human beast." |
 |2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
 |2021-09 | D | 9 Any job will do / John Wilker | 813 | |
-|2021-09 | C | 8 [From Cape to Cairo](https://justinleetyler.github.io/catalog#duncan-d-f) / David Ewing Duncan | 941 | An african travel autobiography |
-|2021-09 | C | 7 [Neville Chamberlain's legacy](https://justinleetyler.github.io/catalog#milton2019) / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
+|2021-09 | C | 8 From Cape to Cairo / David Ewing Duncan | 941 | An african travel autobiography |
+|2021-09 | C | 7 Neville Chamberlain's legacy / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
 |2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | A humor book about politics. |
 |2021-07 | C | 5 Edward Heath / Michael McManus | 920 | A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. |
-|2021-06 | C | 4 [The heirs of Earth](https://justinleetyler.github.io/catalog#20210911_190618) / Daniel Arenson | 813 | |
+|2021-06 | C | 4 The heirs of Earth / Daniel Arenson | 813 | |
 |2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
 |2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
-|2021-05 | C | 1 [Prince Charles](https://justinleetyler.github.io/catalog#smith2017) | 920 | A biography of Prince Charles. |
-|2020-12 | C | 28 [Life in the shifting dunes](https://justinleetyler.github.io/catalog#white1960) / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
-|2020-12 | C | 27 [Well of Furies](https://justinleetyler.github.io/catalog#delancey2014) / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
-|2020-12 | D | 26 [Port State](https://justinleetyler.github.io/catalog#bowden2020) / William Bowden. | 823 | A spacecraft docks in Bristol, U.K. |
-|2020-10 | D | 25 [The book of creation](https://justinleetyler.github.io/catalog#braun2011) / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
+|2021-05 | C | 1 Prince Charles | 920 | A biography of Prince Charles. |
+|2020-12 | C | 28 Life in the shifting dunes / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
+|2020-12 | C | 27 Well of Furies / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
+|2020-12 | D | 26 Port State / William Bowden. | 823 | A spacecraft docks in Bristol, U.K. |
+|2020-10 | D | 25 The book of creation / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
 |2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
-|2020-10 | D | 23 [The rocks of Cape Ann](https://justinleetyler.github.io/catalog#dennen2001) / W.H. Dennen.| 552 | |
-|2020-09 | D | 22 [A natural history of Boston's North Shore](https://justinleetyler.github.io/catalog#lindborg2007) / Kristina Lindborg. | 508| |
-|2020-08 | D | 21 [The Last 8](https://justinleetyler.github.io/catalog#pohl2019) / Laura Pohl | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
-|2020-08 | C | 20 [The Last Emperox](https://justinleetyler.github.io/catalog#scalzi2020) / John Scalzi | 813 | |
-|2020-08 | C | [Strange rites](https://justinleetyler.github.io/catalog#burton2020) / Tara Burton | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
-|2020-07 | D | [The fall of moondust](https://justinleetyler.github.io/catalog#clarke1951) / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
-|2020-07 | C | [Tomorrow's kin](https://justinleetyler.github.io/catalog#kress2017) / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
-|2020-07 | C | [3001 : the final odyssey ](https://justinleetyler.github.io/catalog#clarke1997) / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
-|2020-06 | C | [2061 : odyssey three](https://justinleetyler.github.io/catalog#clarke1987) / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
-|2020-06 | C | [2010 : odyssey two](https://justinleetyler.github.io/catalog#clarke1982) / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
-|2020-06 | C | [2001 : A space odyssey](https://justinleetyler.github.io/catalog#clarke1968) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
-|2020-06 | C | [The hammer of God](https://justinleetyler.github.io/catalog#clarke2012) / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
-|2020-06 | B | [Childhood's end](https://justinleetyler.github.io/catalog#clarke1951) / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
-|2020-05 | C | [Justice for all](https://justinleetyler.github.io/catalog#newton2006) / Jim Newton | BPL 920 | A biography of Earl Warren. |
-|2020-04 | C | [Five justices](https://justinleetyler.github.io/catalog#stevens2011) / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
-|2020-04 | C | [The second founding](https://justinleetyler.github.io/catalog#foner2019) / Eric Foner | BPL 327 |
+|2020-10 | D | 23 The rocks of Cape Ann / W.H. Dennen.| 552 | |
+|2020-09 | D | 22 A natural history of Boston's North Shore / Kristina Lindborg. | 508| |
+|2020-08 | D | 21 The Last 8 / Laura Pohl | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
+|2020-08 | C | 20 The Last Emperox / John Scalzi | 813 | |
+|2020-08 | C | Strange rites / Tara Burton | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
+|2020-07 | D | The fall of moondust / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
+|2020-07 | C | Tomorrow's kin / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
+|2020-07 | C | 3001 : the final odyssey  / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
+|2020-06 | C | 2061 : odyssey three / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
+|2020-06 | C | 2010 : odyssey two / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
+|2020-06 | C | 2001 : A space odyssey / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
+|2020-06 | C | The hammer of God / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
+|2020-06 | B | Childhood's end / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
+|2020-05 | C | Justice for all / Jim Newton | BPL 920 | A biography of Earl Warren. |
+|2020-04 | C | Five justices / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
+|2020-04 | C | The second founding / Eric Foner | BPL 327 |
 |2020-04 | C | The nine / Jeffrey Toobin | 347 | 
-|2020-03 | C | [Supreme Conflict](https://justinleetyler.github.io/catalog#greenburg2007) /  Greenburg, Jan Crawford | 347 | 
+|2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
 |2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
 |2020-02 | E | Howey, Hugh. -- Beacon 23. | 920 |
 |2020-01 | C | Me / Elton John | 920 |
 |2020-01 | C | The consuming fire / John Scalzi. | 813 |
-|2020-01 | C | [The collapsing empire](https://justinleetyler.github.io/catalog#scalzi2017) / John Scalzi. | BPL 813 |
-|2019-09 | C | [First King of Shannara](https://justinleetyler.github.io/catalog#brooks1996) / Terry Brooks. | 813 |
-|2019-08 | C | [Mars](https://justinleetyler.github.io/catalog#bova1992) / Ben Bova. | 813 |
+|2020-01 | C | The collapsing empire / John Scalzi. | BPL 813 |
+|2019-09 | C | First King of Shannara / Terry Brooks. | 813 |
+|2019-08 | C | Mars / Ben Bova. | 813 |
 |2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909 |
-|2019-07 | B | [Little book of sloth philosophy](https://justinleetyler.github.io/catalog#mccartney2018) / Jennifer McCartney. | LJLT 306 |
+|2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | LJLT 306 |
 |2019-06 | C | The forgotten room / Lincoln Child. | 813.|
 |2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
 |2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
@@ -74,13 +75,13 @@ Star gazing log
 |2017-11 | C | Feed / M.T. Anderson. | 813.|
 |2017-11 | C | The little old lady who broke all the rules / Catharina Ingelman-Sundberg. | 839.|
 |2017-08 | C | The unknown man. | 813.|
-|2017-08 | A | [A chosen faith](https://justinleetyler.github.io/catalog#buehrens1998) / John A. Buehrens and Forrest Church. | 289.1.|
+|2017-08 | A | A chosen faith / John A. Buehrens and Forrest Church. | 289.1.|
 |2017-07 | B | Charlotte's web / E.B. White. Pictures by Garth Williams. | 823.|
 |2017-06 | C | Escape / Jasper T. Scott. | 813.|
 |2017-06 | C | Excelsior / Jasper T. Scott. | 813.|
 |2017-05 | D | Banded / Logan Byrne. | 813.|
 |2017-05 | D | Inferno / Dan Brown. | 813.|
-|2017-05 | C | [Apparition Lake](https://justinleetyler.github.io/catalog#lamoreux2014) / Daniel D. Lamoreux. | 813.|
+|2017-05 | C | Apparition Lake / Daniel D. Lamoreux. | 813.|
 |2017-04 | C | Ink and Bone / Rachel Conrad. | 813.|
 |2017-04 | C | Minders of the mountain / S.R. Martin. | 813.|
 |2017-04 | B | Harry Potter and the Deathly Hallows / J.K. Rowling. | 813.|
@@ -185,8 +186,8 @@ Star gazing log
 |2012-09 |   |The traveler | 813|
 |2012-08 |   |Round the moon / by Jules Verne. | 843|
 |2012-08 |   |Riding the flume / Patricia Curtis Pfitsch. | 813|
-|2012-07 |   |Abraham Lincoln, vampire hunter / [by] Seth Grahame-Smith. | 813|
-|2012-07 |   |The man who quit money / [by] Mark Sundeen. | 332|
+|2012-07 |   |Abraham Lincoln, vampire hunter / by Seth Grahame-Smith. | 813|
+|2012-07 |   |The man who quit money / by Mark Sundeen. | 332|
 |2012-07 |   |Abraham Lincoln / Thomas Keneally. | 923.2|
 |2012-07 |   |Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. | 823|
 |2012-06 |   |The civil war. / Louis P. Masur | 973.7|
@@ -203,7 +204,7 @@ Star gazing log
 |2012-03 |   |Timbuktu : / Marq De Villiers and Sheila Hirtle. | 966|
 |2012-03 |   |One with Jesus : / translated from the French of Paul de Jaegher. | 248|
 |2012-03 |   |Four faces of Jesus. | 232|
-|2012-03 |   |Andrew Carnegie / [by] David nasaw. | 923|
+|2012-03 |   |Andrew Carnegie / by David nasaw. | 923|
 |2012-03 |   |Journaling : / Anne Broyles. | 248|
 |2012-03 |   |The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. | 193|
 |2012-03 |   |A chosen faith : / John A. Buehrens and Forrest Church ; new foreword by Robert Fulghum ; new preface by Denise Davidoff. | 289.1|
@@ -211,11 +212,11 @@ Star gazing log
 |2012-03 |   |Dave Barry in cyberspace / Dave Barry. | 818|
 |2012-03 |   |Dragon keeper / Robin Hobb. | 813|
 |2012-02 |   |The unconquered / Scott Wallace. | 981|
-|2012-02 |   |FlashForward / [by] Robert J. Sawyer. | 813|
+|2012-02 |   |FlashForward / by Robert J. Sawyer. | 813|
 |2012-01 |   |Harry Potter and the chamber of secrets / by J. K. Rowling. | 823|
-|2012-01 |   |Harry Potter and the sorcerer's stone / [by J.K. Rowling]. | 823|
+|2012-01 |   |Harry Potter and the sorcerer's stone / by J.K. Rowling. | 823|
 |2011-12 |   |First king of Shannara / Terry Brooks. | 813|
-|2011-11 |   |The measure of the magic / [by] Terry Brooks. | 813|
+|2011-11 |   |The measure of the magic / by Terry Brooks. | 813|
 |2011-10 |   |Reel spirituality / Robert K. Johnston. | 261|
 |2011-10 |   |Contemporary paganism / Graham Harvey. | 133|
 |2011-10 |   |Take this bread / Sara Miles. | 277|
@@ -295,14 +296,14 @@ Star gazing log
 |2013-01 |   |The elfstones of Shannara / Terry Brooks. | 813.|
 |2003-01 |   |The sword of Shannara / Terry Brooks. | 813.|
 |2002-11 |   |First king of Shannara / Terry Brooks. | 813|
-|0000-00 |   |[The cult of the amateur](https://justinleetyler.github.io/catalog#3014) / Andrew Keen. | 303|
-|0000-00 |   |Dave Barry's Money $ecrets [secrets]. / Dave Barry. | 817|
+|0000-00 |   |The cult of the amateur / Andrew Keen. | 303|
+|0000-00 |   |Dave Barry's Money $ecrets secrets. / Dave Barry. | 817|
   
 ### Books to read
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
-|2021-10 | [The unitarian way](https://archive.org/details/unitarianway0000hewe) / Phillip Hewett. | 288 |
+|2021-10 | The unitarian way / Phillip Hewett. | 288 |
 |2021-04 | The good fight / Walter Mondale ||
 |2020-07 | Indistinguishable from Magic / Robert L. Forward ||
 |2020-06 | The blue saphire of the mind / Douglas E. Christie  | |
@@ -319,7 +320,7 @@ Star gazing log
 |2020-01 | No god but God / Reza Aslan ||
 |2020-01 | 1177 B.C. / Cline ||
 |2018-06 | Gaia and God: An Ecofeminist Theology of Earth Healing  / Rosemary Ruether.|
-|2017-11 | 7th heaven series (https://www.amazon.com/gp/bookseries/B00CIVJ4ME/ref=dp_st_0375822909). | 813|
+|2017-11 | 7th heaven series . | 813|
 |2017-10 | New Views / New Views. | 910.|
 |2017-08 | The night listener /. | 813.||
 |2017-08 | Beyond words / Carl Safina. 	|
@@ -378,10 +379,10 @@ Star gazing log
 |2013-10 | Present Shock / Douglass Rushkoff.||
 |2013-10 | Looking backward / Edward Bellamy.  ||
 |2013-09 | Quiet : the power of introverts in a world that can't stop talking / Susan Cain.  ||
-|2013-09 | Skills in the workplace. | [WWW](http://www.dol.gov/odep/topics/youth/softskills/softskills.pdf)  |
+|2013-09 | Skills in the workplace. | WWW  |
 |2013-07 | Character-Shaping and Character-Showing / Henry Clay Trumbull.||
-|2013-06 | Landscape photography / Rob Sheppard. | [WWW](http://ipswich.mvlc.org/eg/opac/record/1425907.)|
-|2013-06 | Photography for kids! / Michael Ebert & Sandra Abend [translator, David Schlesinger]. | http://ipswich.mvlc.org/eg/opac/record/1423529 .|
+|2013-06 | Landscape photography / Rob Sheppard. | WWW|
+|2013-06 | Photography for kids! / Michael Ebert & Sandra Abend translator, David Schlesinger. | http://ipswich.mvlc.org/eg/opac/record/1423529 .|
 |2013-06 | Confessions of a Thug / Philip Meadows Taylor. | from "Antihero", Wikipedia.|
 |2013-06 | Tom Jones / Henry Fielding. | 813. | from "Antihero", Britannica.|
 |2013-06 | Autobiography of Saint Theresa of Lisieux. | from "The soul's religion / Thomas Moore"; and details her interior life. |
@@ -391,7 +392,7 @@ Star gazing log
 |2013-01 | Politics and History in Band Societies / edited by Eleaner Leacock and Richard Lee. | 305.8.|
 |2013-01 | The dark river / John Twelve Hawks||
 |2012-12 | The Perennial Philosophy / Aldous Huxley||
-|2012-12 | 2012 Annual RLG Meeting/Symposium |(WWW([http://web.resourceshelf.com/go/resourceblog/59616]|
+|2012-12 | 2012 Annual RLG Meeting/Symposium |(WWW(http://web.resourceshelf.com/go/resourceblog/59616|
 |2012-12 | Implications of MARC tay usage on library metadata practices.||
 |2012-11 | 8 weeks to optimum health / Andrew Weil||
 |2012-11 | The simple life : plain living and high thinking in American culture. | 178.|
@@ -399,13 +400,13 @@ Star gazing log
 |2012-09 | The casual vacancy |  823|
 |2012-08 | The Hadza : hunter-gatherers of Tanzania / Frank Marlow. | 305|
 |2012-07 | Jefferson's Vendetta / Joseph Wheelan. | 973|
-|2012-07 | The grass is always greener over the septic tank / [by] Erma Bombeck. | 818|
+|2012-07 | The grass is always greener over the septic tank / by Erma Bombeck. | 818|
 |2012-07 | Simple prosperity / David Wann. | 306|
 |2012-07 | Deep economy / Bill McKibben. | 330.9|
 |2012-07 | Plenitude / Juliet B. Schor. | 338.9|
 |2012-07 | The overspent American / Juliet B. Schor. | 339.4|
 |2012-07 | The high price of materialism / Tim Kasser. | 339.4|
-|2012-07 | Don't push the river / [by] Barry Stevens. | 818|
+|2012-07 | Don't push the river / by Barry Stevens. | 818|
 |2012-07 | 60 Hikes Within 60 Miles: Boston | 796.51|
 |2012-06 | Just Love: A Framework for Christian Sexual Ethics / Margaret Farley | 305|
 |2012-05 | Liberty's Exiles: American Loyalists in the Revolutionary World / Maya Jasanoff | n/a|
@@ -452,43 +453,43 @@ Star gazing log
 | Ward Reservation. | 11/17/2015.|
 | Mt. Osceola. | 08/14/15; 8 hrs. | sunny; 70s. | via Mt. Osceola trail w/ Rob M.|
 | Harold Parker State Forest. | 11/23/14; 2 hrs.|
-| Mt. Osceola via Greeley Pond (Wht Mtn's, NH). | 05/21/14; 8 hrs. | 7.6 mi. | pt. cloudy; 60s. | Steep grades, loose rock. |
-| Powow Hill (Amesbury, MA). | 05/20/14; .5 hrs.|
+| Mt. Osceola via Greeley Pond . | 05/21/14; 8 hrs. | 7.6 mi. | pt. cloudy; 60s. | Steep grades, loose rock. |
+| Powow Hill . | 05/20/14; .5 hrs.|
 | Crane Beach trails. | Mar 30, 2014. | 2 hrs. | pt. cloudy; 50's.|
-| host Trail (Amesbury/Salisbury, Mass). | Jan 26, 2014. | 3 mi; 1.5 hrs. | pt. cloudy; 20s. | Marsh Trail was closed. Trail includes roads.|
+| host Trail . | Jan 26, 2014. | 3 mi; 1.5 hrs. | pt. cloudy; 20s. | Marsh Trail was closed. Trail includes roads.|
 | Harold Parker State Forest. | Sept. 15, 2013; 2 hrs. | Saw one snake. 	 |
-| ast Osceola (White Mtn's, NH). | 8/10/2013; 5 hrs. | Sunny.|
-| Ward Reservation (Andover, MA). | 06/25/2013; 1.5 hrs. | Sunny.|
-| Mt. Osceola (White Mtn's, NH). | 05/19/13; 10:30-4:00; 5.5 hrs. | Sunny, 65 F.	 |
-| ow Brook Conservation Area (Ipswich, MA). | 05/15/13; 1 hr.|
-| Lost Nations (Hillsdale, MI). | 04/27/13; 5hr 30 min. | Sunny.|
-| Salem State Forest (Salem, N.H.). | 04/14/2013; 1hr 45 min.  |
+| ast Osceola . | 8/10/2013; 5 hrs. | Sunny.|
+| Ward Reservation . | 06/25/2013; 1.5 hrs. | Sunny.|
+| Mt. Osceola . | 05/19/13; 10:30-4:00; 5.5 hrs. | Sunny, 65 F.	 |
+| ow Brook Conservation Area . | 05/15/13; 1 hr.|
+| Lost Nations . | 04/27/13; 5hr 30 min. | Sunny.|
+| Salem State Forest . | 04/14/2013; 1hr 45 min.  |
 | Pudding Pond (North Conway, N.H. | 03/18, 2012; 2.5 hrs. | Sunny, 22 F.|
-| Ward Reservation (Andover, MA). | 02/03/2013; 2hr. | 6 mi.(?).|
-| Ward Reservation (Andover, MA). | 01/22/2013; 2hr 15 min. | 6 mi.(?).|
-| Winnekenni Park (Haverhill, MA). | January 6, 2013; 1.5 hrs. | 6 mi.(?).|
-| Harold Parker State Forest. | December 29, 2012; 1:10pm-3:10pm. | 10 mi.(?).|
-| Den Rock Park (Andover, MA). | November 25, 2012.	 |
+| Ward Reservation . | 02/03/2013; 2hr. | 6 mi..|
+| Ward Reservation . | 01/22/2013; 2hr 15 min. | 6 mi..|
+| Winnekenni Park . | January 6, 2013; 1.5 hrs. | 6 mi..|
+| Harold Parker State Forest. | December 29, 2012; 1:10pm-3:10pm. | 10 mi..|
+| Den Rock Park . | November 25, 2012.	 |
 | Harold Parker State Forest. | November 11, 2012; 12:00pm-2:45pm. |
 | Purgatory Chasm State Reservation. | Oct. 27, 2012.	 |
 | Benson Trail. | September 8th, 2012. | 3 mi.|
-| Bay Circuit Trail. | September 4th, 2012; 12:30pm-4:00pm; 3.5 hrs. | 8 mi.(?).|
-| Greeley Pond Trail (White Mountain National Forest). | August 26, 2012.|
-| Lincoln Woods Trail (White Mountain National Forest). | August 25, 2012; 2pm-4:30pm.|
+| Bay Circuit Trail. | September 4th, 2012; 12:30pm-4:00pm; 3.5 hrs. | 8 mi..|
+| Greeley Pond Trail . | August 26, 2012.|
+| Lincoln Woods Trail . | August 25, 2012; 2pm-4:30pm.|
 | Flume Gorge. | August 25, 2012. | 2 mi.|
 | Walden Pond. | August 18, 2012; 1 hr.|
-| Mount Liberty. | July 21, 2012; 10:26 am-5:45 pm; 7hr. | 8.8 mi. | Hiked to summit (4500 ft).|
+| Mount Liberty. | July 21, 2012; 10:26 am-5:45 pm; 7hr. | 8.8 mi. | Hiked to summit .|
 | Hamilton Reservation. | July 15th, 2012; 1:15pm to 1:50pm.|
 | Harold Parker State Forest. | July 7, 2012; 1:15pm-3:30pm.|
 | Georgetown-Rowley State Forest. | July 1, 2012; 2 hrs.|
 | Georgetown-Rowley State Forest. | June 9, 2012; 12pm-2pm. | Fair; 77 F. | Saw three snakes, and one frog.|
 | Boxford State Forest. | March 11, 2012; 2:30pm-4:30pm. | 8 mi. | Photographs.|
-| Daniel Boone Park (Ipswich, Mass.) | Jan. 01, 2012; 11am-2pm. | Daniel Boone Park is very hilly!|
-| Baw Beese Trail (Hillsdale, Mich.) | Dec. 23rd, 2011; 1:30pm - 2:30pm. | 3.2 mi.|
+| Daniel Boone Park  | Jan. 01, 2012; 11am-2pm. | Daniel Boone Park is very hilly!|
+| Baw Beese Trail  | Dec. 23rd, 2011; 1:30pm - 2:30pm. | 3.2 mi.|
 | Bradley Parker State Park. | Dec. 12, 2011, 12:30-1:45 pm. | 5 mi.|
-| Appleton Farms (Ipswich, Mass.) | Nov. 25, 2011; 1pm. | 1 hr.|
+| Appleton Farms  | Nov. 25, 2011; 1pm. | 1 hr.|
 | Donovan/Sagamore Hill Trail. | Nov. 13, 2011; 11am.|
-| Willowdale State Forest. | Oct. 23, 2011; 10am-[?] | 5 mi.|
+| Willowdale State Forest. | Oct. 23, 2011; 10am-? | 5 mi.|
 | Willowdale State Forest. | Sept. 2011. | 1 mi.|
 | Pickney State Park. | Aug. 2011. | 17 mi.|
 
@@ -531,7 +532,7 @@ Star gazing log
 | 2012-07-09 | Longhorns. |
 | 2012-07-09 | Brave. |
 | 2012-07-09 | Dorian Blues. |
-| 2012-07-01 | [War games].|
+| 2012-07-01 | War games.|
 | 2012-06-25 | Abraham Lincoln: Vampire Hunter.|
 | 2012-06-22 | Doc Martin. |
 | 2012-06-22 | Alien. |
@@ -547,7 +548,7 @@ Star gazing log
 | 2011-11-06 | Johnny English Reborn. |
 | 2011-10-28 | Skyline. |
 | 2011-10-23 | Ladies in lavender. |
-| 2011-10-23 | [Torchwood.] |
+| 2011-10-23 | Torchwood. |
 | 2011-04-16 | The book of daniel - the complete series. |
 | 2011-04-06 | In the loop. |
 
@@ -555,11 +556,11 @@ Star gazing log
 * British Politics
 * Constitutional Law
 * Hiking
-* Gopher (protocol)
-* Liberalism (religion)	 
+* Gopher 
+* Liberalism 	 
 * Anthropology
 	* Prehistoric Peoples
-	* Nonliterate Folk Society (305.8)
+	* Nonliterate Folk Society 
 * Science Fiction
 * Computers
 * Movies
@@ -573,14 +574,14 @@ Star gazing log
 * Sustainability / minimalism
 * Space Exploration
 * Religious Studies
-* Personal Finance (332)
+* Personal Finance 
 * Survival | Fiction.
-* Diaries | Authorship (808)
+* Diaries | Authorship 
 
 For AODA
 ---
 * Biotic communities -- Massachusetts.
-* Habitat (Ecology) -- Massachusetts.
+* Habitat  -- Massachusetts.
 * Natural history -- Massachusetts.
 * Medicinal plants -- Massachusetts
 * Trees -- Massachusetts
@@ -588,7 +589,7 @@ For AODA
 	 
 ## FAVORITE QUOTES
 
-You should have more skills that tools, more tools that rules, and more rules than rituals. -Mark Jenkins (Back Packer)
+You should have more skills that tools, more tools that rules, and more rules than rituals. -Mark Jenkins 
 
 Be humble, for you are made of earth. Be noble, for you are made of stars. -Serbian Proverb
 
@@ -625,7 +626,7 @@ The only rules that matter are these: What a man can do and what a man can't do.
 
 I call this divine: The universe of which we are a part. Science can prove it, philosophy can speak of it, and senses can touch it. -Alexander 
 
-Those who commit atrocities always seem to do so out of a misconceived seance of righteousness and the greater good. Pen. Jarka Russ (Terry Brooks)
+Those who commit atrocities always seem to do so out of a misconceived seance of righteousness and the greater good. Pen. Jarka Russ 
 
 He that will not work shall not eat. -John Smith
 
@@ -643,7 +644,7 @@ Steal not this book my worthy friend. For fear of the gallows will be your end. 
 
 My message today was a message of earth for our young men. How strange it seems to applaud that. -Woodrow Wilson
 
-This [The United States] will never be a civilized country until we spend more money on books than we do on chewing gum. -Elbert Hubbart
+This The United States will never be a civilized country until we spend more money on books than we do on chewing gum. -Elbert Hubbart
 
 America is the best half-educated country in the world. -Nicholas M. Butler
 
