@@ -1,4 +1,3 @@
-author.  title.  call number.
 O'Carroll, Brendan.  The Mammy.  g 813 OCA.
 Regardie, Israel.  The golden dawn.  g 133 REG.
 AODA.  The AODA guide to home circles, study groups, and groves.  g 133 AOD.
@@ -20,3 +19,11 @@ Cross, Frank Moore.  Canaanite myth and Hebrew epic.  g 221 CRO.
 Day, John.  Yahwey and hte gods and goddesses of Canaan.  g 296 DAY. 
 Intelligent Change.  The five-minute journal.  g 152 INT. 
 Bible. English. Message. 2002.  The Message / Eugene H. Peterson.  k 220 PET 
+Leadbeater, Charles W.  The science of the sacraments.  g 265 LEA. 
+Lundy, Janice.  My deepest me.  g 200 LUN 
+Shubin, Neil.  Your inner fish.  g 611 SHU 
+Phillips, Gavin.  The deep and dark web guide.  g 004 PHI 
+FastCompany.com.  135 incredibly useful things you didn't know Google could do.  g 005 FAS 
+Wyatt, N.  Religious texts from Ugarit. 2nd ed.  g 299 WYA 
+Unitarian Church (Charleston, S.C.)  Service book for worship in congregation and the home.  g 264 UNI 
+Cutter, Charles A.  Rules for a printed dictionary catalog.  w 025 CUT [link](http://books.google.com/books?id=rj-f4-Ps-AkC) 
