@@ -27,8 +27,8 @@
 - Sias, John.  100 questions that non-members ask about Unitarian Universalism.  g 289 SIA. 
 - Unitarian Church (Charleston, S.C.)  Service book for worship in congregation and the home.  g 264 UNI 
 - Wyatt, N.  Religious texts from Ugarit. 2nd ed.  g 299 WYA 
-The good old days : the Holocaust as seen by its perpetrators and bystanders / Edited by Ernest Klee, Willi Dressen, and Volker Riess. Foreward by Hugh Trevor-Roper. Translated by Deborah Burnstone.  g 940 GOO 
-Gorman, Michael.  The concise AARC2. 4th ed.  g 025 GOR 
-Greer, John Michael.  The new encyclopidia of the occult.  g 133 GRE 2003. 
-Greer, John Michael.  The druidry handbook.  g 299 GRE 2005 
-Greer, John Michael.  The druid magic handbook.  g 299 GRE 2007 
+- The good old days : the Holocaust as seen by its perpetrators and bystanders / Edited by Ernest Klee, Willi Dressen, and Volker Riess. Foreward by Hugh Trevor-Roper. Translated by Deborah Burnstone.  g 940 GOO 
+- Gorman, Michael.  The concise AARC2. 4th ed.  g 025 GOR 
+- Greer, John Michael.  The new encyclopidia of the occult.  g 133 GRE 2003. 
+- Greer, John Michael.  The druidry handbook.  g 299 GRE 2005 
+- Greer, John Michael.  The druid magic handbook.  g 299 GRE 2007 
