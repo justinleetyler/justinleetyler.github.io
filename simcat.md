@@ -32,3 +32,9 @@
 - Greer, John Michael.  The new encyclopidia of the occult.  g 133 GRE 2003. 
 - Greer, John Michael.  The druidry handbook.  g 299 GRE 2005 
 - Greer, John Michael.  The druid magic handbook.  g 299 GRE 2007 
+- 12 outstanding personality traits of a great boss.  w 650 TWE [link](http://www.officevibe.com/blog/infographic-great-boss) 
+- Dicksion, William Wayne.  Sagebrush.  k 813 DIC 
+- Dinerstein, Eric.  The kingdom of rarities.  k574 DIN 
+- Dockins, Brian.  Betrayal of magic.  k 813 DOC 
+- Dorsey, Brian.  Gateway.  k 813 DOR 
+- Douglas, Karlton B.  Griffin island.  k 913 DOU  
