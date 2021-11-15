@@ -159,30 +159,30 @@ Star gazing log
 |2013-09 | B | City of the Beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. | 813.  |
 |2013-09 | B | Zealot : the life and times of Jesus of Nazareth / Reza Aslan. | 232.  |
 |2013-08 | B | Insane City / Dave Barry. | 813.  |
-|2013-07 | C | Ashen Winter / Mike Mullin. | 823.|
-|2013-07 | B | African Kingdoms / Basil Davidson. | 916.|
-|2013-07 | C | Sahara / Michael Palin.|
-|2013-05 | C | Eden / W. A. Harbinson. | 823.  |
-|2013-05 | C | Herbert Hoover / William E. Leuchtenburg. | 922.  |
-|2013-04 |   | The City of Towers / Keith Baker. | 813.|
-|2013-04 | C | Terminal Freeze / Lincoln Child. | 813.|
-|2013-04 | C | Memory boy / Will Weaver. | 813.|
-|2013-04 | A | Education of a wandering man / Louis L'amour. | 928.|
-|2013-03 | C | Ashfall / Mike Mullin. | 813.|
-|2013-03 | D | Lost everything / Brian Francis Slattery. | 813.|
-|2013-03 | C | Ruins / Kevin J. Anderson. | 813.|
-|2013-02 | C | Tarzon of the Apes / Edgar Rice Burroughs. | 813.|
-|2013-02 | B | Game Change / John Heilemann and Mark Halperin. | 324.|
-|2013-02 | D | America Pacifica / Anna North. | 813.|
-|2013-02 | B | This world we live in  / Susan Beth Pfeffer. | 813.     |
-|2013-01 |   |Top ten tips for developing money management skills / Larry Gerber. | 332.|
-|2013-01 |   |The dead & the gone / Susan Beth Pfeffer. | 813.|
-|2013-01 |   |Life as we knew it / Susan Beth Pfeffer. | 813.|
-|2013-01 |   |The odd clauses : understanding the constitution through ten of its most curious provisions / Jay Wexler.|
-|2013-01 |   |The wise man's fear / Patrick Rothfuss. | 813.|
-|2012-12 |   |How to want what you have : Discovering the Magic and grandeur of ordinary existence / Timothy Miller.|
-|2012-11 |   |Choosing simplicity / Linda Breen Pierce. | 178|
-|2012-11 |   |The Downing Street years / Margaret Thatcher.|
+|x2013-07 | C | Ashen Winter / Mike Mullin. | 823.|
+|x2013-07 | B | African Kingdoms / Basil Davidson. | 916.|
+|x2013-07 | C | Sahara / Michael Palin.|
+|x2013-05 | C | Eden / W. A. Harbinson. | 823.  |
+|x2013-05 | C | Herbert Hoover / William E. Leuchtenburg. | 922.  |
+|x2013-04 |   | The City of Towers / Keith Baker. | 813.|
+|x2013-04 | C | Terminal Freeze / Lincoln Child. | 813.|
+|x2013-04 | C | Memory boy / Will Weaver. | 813.|
+|x2013-04 | A | Education of a wandering man / Louis L'amour. | 928.|
+|x2013-03 | C | Ashfall / Mike Mullin. | 813.|
+|x2013-03 | D | Lost everything / Brian Francis Slattery. | 813.|
+|x2013-03 | C | Ruins / Kevin J. Anderson. | 813.|
+|x2013-02 | C | Tarzon of the Apes / Edgar Rice Burroughs. | 813.|
+|x2013-02 | B | Game Change / John Heilemann and Mark Halperin. | 324.|
+|x2013-02 | D | America Pacifica / Anna North. | 813.|
+|x2013-02 | B | This world we live in  / Susan Beth Pfeffer. | 813.     |
+|x2013-01 |   |Top ten tips for developing money management skills / Larry Gerber. | 332.|
+|x2013-01 |   |The dead & the gone / Susan Beth Pfeffer. | 813.|
+|x2013-01 |   |Life as we knew it / Susan Beth Pfeffer. | 813.|
+|x2013-01 |   |The odd clauses : understanding the constitution through ten of its most curious provisions / Jay Wexler.|
+|x2013-01 |   |The wise man's fear / Patrick Rothfuss. | 813.|
+|x2012-12 |   |How to want what you have : Discovering the Magic and grandeur of ordinary existence / Timothy Miller.|
+|x2012-11 |   |Choosing simplicity / Linda Breen Pierce. | 178|
+|x2012-11 |   |The Downing Street years / Margaret Thatcher.|
 |2012-09 |   |The traveler | 813|
 |2012-08 |   |Round the moon / by Jules Verne. | 843|
 |2012-08 |   |Riding the flume / Patricia Curtis Pfitsch. | 813|
