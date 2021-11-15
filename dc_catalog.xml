@@ -183,6 +183,6 @@
 </rdf:Description>
 
 <rdf:Description> <dc:title>Mars</dc:title> <dc:creator>Bova, Ben </dc:creator> <dc:subject>g813 BOV</dc:subject> </rdf:Description>
-<rdf:Description> <dc:author>DataCamp</dc:author><dc:title>Python basics cheat sheet</dc:title><dc:subject>g005 PYT</dc:subject> </rdf:Description>
+<rdf:Description> <dc:creator>DataCamp</dc:creator><dc:title>Python basics cheat sheet</dc:title><dc:subject>g005 PYT</dc:subject> </rdf:Description>
 
 </rdf:RDF>
