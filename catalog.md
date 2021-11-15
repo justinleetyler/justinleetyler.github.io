@@ -1,3 +1,5 @@
+DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- Title from resource viewed Nov. 15, 2021. -- Mode of Access: World Wide Web. -- DDC g005 PYT.
+
 Tyler, Justin Lee. -- [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013]. -- Computer data. -- on 1 external hard drive. -- System requirements: USB drive; JPG file reader. -- Title supplied by cataloger. -- File directory: 3292. -- DBID 5392.
 
 -NSYNC. -- No strings attached. -- Computer data. -- [S.l.], 2000. -- on 1 external hard drive. 
