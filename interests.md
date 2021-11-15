@@ -145,20 +145,20 @@ Star gazing log
 |2014-01 | C | Children of men / P.D. James. | 813.  |
 |2014-01 | C | Treespeaker / Katie Stewwart. | 813.  |
 |2014-01 | C | The legend of the book keeper / Daniel Blackaby. | 813.  |
-|2013-12 | C | The Sundered / Ruthanne Reid. | 813.  |
-|2013-12 | C | The island / Jen Minkman. | 813|
-|2013-12 | B | Soulforge / Margaret Weis. | 813  |
-|2013-11 | C | The tenth order / Nic Widhalm. | 813  |
-|2013-11 | D | Battlestar Galactica / Glen A. Larson and Robert Thurston. | 813.  |
-|2013-11 | D | The mystic travelogues / J.C. Nusbaum. | 813.   |
-|2013-11 | C | James Buchanan / Jean H. Baker. | 923.  |
-|2013-10 | D | I'm proud of you / Tim Madigan. | 927.  |
-|2013-10 | C | Myst : the book of Ti'ana / Rand Miller; with David Wingrove. | 813.|
-|2013-10 | C | The seven wonders of the ancient world / edited by Peter A. Clayton and Martin J. Price. | 930.  |
-|2013-09 | B | The first North Americans / Brian Fagan. | 930.|
-|2013-09 | B | City of the Beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. | 813.  |
-|2013-09 | B | Zealot : the life and times of Jesus of Nazareth / Reza Aslan. | 232.  |
-|2013-08 | B | Insane City / Dave Barry. | 813.  |
+|x2013-12 | C | The Sundered / Ruthanne Reid. | 813.  |
+|x2013-12 | C | The island / Jen Minkman. | 813|
+|x2013-12 | B | Soulforge / Margaret Weis. | 813  |
+|x2013-11 | C | The tenth order / Nic Widhalm. | 813  |
+|x2013-11 | D | Battlestar Galactica / Glen A. Larson and Robert Thurston. | 813.  |
+|x2013-11 | D | The mystic travelogues / J.C. Nusbaum. | 813.   |
+|x2013-11 | C | James Buchanan / Jean H. Baker. | 923.  |
+|x2013-10 | D | I'm proud of you / Tim Madigan. | 927.  |
+|x2013-10 | C | Myst : the book of Ti'ana / Rand Miller; with David Wingrove. | 813.|
+|x2013-10 | C | The seven wonders of the ancient world / edited by Peter A. Clayton and Martin J. Price. | 930.  |
+|x2013-09 | B | The first North Americans / Brian Fagan. | 930.|
+|x2013-09 | B | City of the Beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. | 813.  |
+|x2013-09 | B | Zealot : the life and times of Jesus of Nazareth / Reza Aslan. | 232.  |
+|x2013-08 | B | Insane City / Dave Barry. | 813.  |
 |x2013-07 | C | Ashen Winter / Mike Mullin. | 823.|
 |x2013-07 | B | African Kingdoms / Basil Davidson. | 916.|
 |x2013-07 | C | Sahara / Michael Palin.|
