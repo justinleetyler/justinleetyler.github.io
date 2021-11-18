@@ -109,15 +109,15 @@ Star gazing log
 |2016-02 | B | The Quartet / Joseph Ellis. | 973.|
 |2016-02 | D | Rama II / Arthur C. Clarke and Gentry Lee. | 813.|
 |2015-10 | B | The deepest human life / Scott Samuelson. | 100.  |
-|2015-09 | B | The Giver / Lois Lowry. | 813.|
-|2015-08 | C | Suvival colony 9 / Joshua David Bellin. | 813.  |
-|2015-07 | C | The dead lands / Benjamin Percy. | 813.  |
-|2015-06 | C | The big tiny / Dee Williams. | 920.  |
-|2015-05 | C | The last survivors / Bobby Adair, T.W. Piperbrook. | 813.|
-|2015-05 | D | Partials / Dan Wells. | 813.  |
-|2015-05 | B | A House for Hope / John A. Buehrens and Rebecca Ann Paker. | 200.  |
-|2015-04 | C | The Elves of Cintra / Terry Brooks | 813.|
-|2015-04 | B | Fire season / Philip Connors. | 634.|
+|x2015-09 | B | The Giver / Lois Lowry. | 813.|
+|x2015-08 | C | Suvival colony 9 / Joshua David Bellin. | 813.  |
+|x2015-07 | C | The dead lands / Benjamin Percy. | 813.  |
+|x2015-06 | C | The big tiny / Dee Williams. | 920.  |
+|x2015-05 | C | The last survivors / Bobby Adair, T.W. Piperbrook. | 813.|
+|x2015-05 | D | Partials / Dan Wells. | 813.  |
+|x2015-05 | B | A House for Hope / John A. Buehrens and Rebecca Ann Paker. | 200.  |
+|x2015-04 | C | The Elves of Cintra / Terry Brooks | 813.|
+|x2015-04 | B | Fire season / Philip Connors. | 634.|
 |x2014-11 | C | The girl who owned a city / O. T. Nelson. | 813.|
 |x2014-10 | C | The art of being kind / Stefan Einhorn. | 177.|
 |x2004-09 | C | The world until yesterday / Jared Diamond. | 305.|
