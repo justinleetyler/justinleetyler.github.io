@@ -118,26 +118,26 @@ Star gazing log
 |2015-05 | B | A House for Hope / John A. Buehrens and Rebecca Ann Paker. | 200.  |
 |2015-04 | C | The Elves of Cintra / Terry Brooks | 813.|
 |2015-04 | B | Fire season / Philip Connors. | 634.|
-|2014-11 | C | The girl who owned a city / O. T. Nelson. | 813.|
-|2014-10 | C | The art of being kind / Stefan Einhorn. | 177.|
-|2004-09 | C | The world until yesterday / Jared Diamond. | 305.|
-|2014-09 | C | Tomorrow, when the war began / John Marsden. | 813.|
-|2014-09 | B | How Jesus became God / Bart D. Ehrman. | 232.|
-|2014-08 | C | As if an enemy's country / Richard Archer. | 973.|
-|2014-08 | D | Open minds / Susan Kaye Quinn. | 813.|
-|2014-07 | B | The Roman search for wisdom / Michael K. Kellogg. | 870.|
-|2014-07 | C | The time machine / H.G. Wells. | 823.|
-|2014-07 | C | Hunger / Michael Grant. | 808.|
-|2014-07 | B | To re-enchant the world / Richard Gridd. | 289.1.|
-|2014-07 | C | The hermits and anchorites of England / Rotha Mary Clay. | 271.|
-|2014-06 | C | Who is my God. | 204.|
-|2014-06 | D | Apprentice / Guindon, Eric. | 813|
-|2014-06 | C | The hidden coronet / Catherine Fisher. | 813.|
-|2014-06 | C | Gone / Michael Grant | 813.|
-|2014-05 | C | Relic master. Part 1 / Catherine Fisher. | 813.|
-|2014-04 | C | Insurgent / Veronica Ross. | 813.|
-|2014-04 | C | Divergent / Veronica Ross. | 813.|
-|2014-04 | C | Scholar Warrior / Deng Ming-Dao. | 299.5.|
+|x2014-11 | C | The girl who owned a city / O. T. Nelson. | 813.|
+|x2014-10 | C | The art of being kind / Stefan Einhorn. | 177.|
+|x2004-09 | C | The world until yesterday / Jared Diamond. | 305.|
+|x2014-09 | C | Tomorrow, when the war began / John Marsden. | 813.|
+|x2014-09 | B | How Jesus became God / Bart D. Ehrman. | 232.|
+|x2014-08 | C | As if an enemy's country / Richard Archer. | 973.|
+|x2014-08 | D | Open minds / Susan Kaye Quinn. | 813.|
+|x2014-07 | B | The Roman search for wisdom / Michael K. Kellogg. | 870.|
+|x2014-07 | C | The time machine / H.G. Wells. | 823.|
+|x2014-07 | C | Hunger / Michael Grant. | 808.|
+|x2014-07 | B | To re-enchant the world / Richard Gridd. | 289.1.|
+|x2014-07 | C | The hermits and anchorites of England / Rotha Mary Clay. | 271.|
+|x2014-06 | C | Who is my God. | 204.|
+|x2014-06 | D | Apprentice / Guindon, Eric. | 813|
+|x2014-06 | C | The hidden coronet / Catherine Fisher. | 813.|
+|x2014-06 | C | Gone / Michael Grant | 813.|
+|x2014-05 | C | Relic master. Part 1 / Catherine Fisher. | 813.|
+|x2014-04 | C | Insurgent / Veronica Ross. | 813.|
+|x2014-04 | C | Divergent / Veronica Ross. | 813.|
+|x2014-04 | C | Scholar Warrior / Deng Ming-Dao. | 299.5.|
 |x2014-03 | C | The Amish of Lancaster County / by Donald B. Kraybill |
 |x2014-03 | C | The Penkeepers / Taylor Hartley. | 813.|
 |x2014-02 | D | Jacinto's voyage / Daniel A. Kaine. | 813.|
