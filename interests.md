@@ -72,43 +72,43 @@ Star gazing log
 |2018-05 | C | So hard to say / Alex Sanchez. | 813.|
 |2018-05 | B | Just stay / Mika Fox. | 813.|
 |2018-04 | C | The Biggest Scoop / Gillian St. Kevern. | 813.|
-|2017-11 | C | Feed / M.T. Anderson. | 813.|
-|2017-11 | C | The little old lady who broke all the rules / Catharina Ingelman-Sundberg. | 839.|
-|2017-08 | C | The unknown man. | 813.|
-|2017-08 | A | A chosen faith / John A. Buehrens and Forrest Church. | 289.1.|
-|2017-07 | B | Charlotte's web / E.B. White. Pictures by Garth Williams. | 823.|
-|2017-06 | C | Escape / Jasper T. Scott. | 813.|
-|2017-06 | C | Excelsior / Jasper T. Scott. | 813.|
-|2017-05 | D | Banded / Logan Byrne. | 813.|
-|2017-05 | D | Inferno / Dan Brown. | 813.|
-|2017-05 | C | Apparition Lake / Daniel D. Lamoreux. | 813.|
-|2017-04 | C | Ink and Bone / Rachel Conrad. | 813.|
-|2017-04 | C | Minders of the mountain / S.R. Martin. | 813.|
-|2017-04 | B | Harry Potter and the Deathly Hallows / J.K. Rowling. | 813.|
-|2017-04 | B | Harry Potter and the half-blood Prince / J.K. Rowling. | 823.|
-|2017-04 | B | Harry Potter and the Order of the Phoenix / J.K. Rowling. | 823.|
-|2017-03 | B | Harry Potter and the goblet of fire / J.K. Rowling. | 823.|
-|2017-03 | B | Harry Potter and the prisoner of Azkaban / J.K. Rowling. | 823.|
-|2017-03 | B | Harry Potter and the chamber of secrets / J.K. Rowling. | 823.|
-|2017-03 | B | Harry Potter and the sorcerer's stone / J.K. Rowling. | 823.|
-|2016-10 | D | Ansible 15715 / Stant Litore. | 813|
-|2016-10 | C | Snowline Drift / Razevich, Alexes. | 813|
-|2016-10 | B | Wizard's First Rule. / Terry Goodkind | 813.|
-|2016-09 | C | Orange Is the New Black / Piper Kerman | 920.|
-|2016-08 | C | Interesting times / Matthew Storm. | 813.|
-|2016-08 | B | Tribe / Sebastian Junger. | 302.|
-|2016-07 | B | It can't happen here / Lewis Sinclair. | 813.|
-|2016-06 | B | Waterworld / Max Allan Collins. | 813.|
-|2016-06 | C | Lunatics / Dave Barry and Alan Zweibel. | 813.|
-|2016-05 | B | Deciphering ancient minds / David Lewis-Williams and Sam Challis. | 759.|
-|2016-04 | C | Running with scissors / Augusten Burroughs | 920. |
-|2016-04 | C | Flying saucers / Sean McLachlan & Charles River editors. | 001.|
-|2016-03 | C | Heads in beds / Jacob Tomsky | 818.|
-|2016-03 | C | Red Rising / Pierce Brown. | 813.|
-|2016-03 | C | The big dark / Rodman Philbrick. | 813.|
-|2016-02 | B | The Quartet / Joseph Ellis. | 973.|
-|2016-02 | D | Rama II / Arthur C. Clarke and Gentry Lee. | 813.|
-|2015-10 | B | The deepest human life / Scott Samuelson. | 100.  |
+|x2017-11 | C | Feed / M.T. Anderson. | 813.|
+|x2017-11 | C | The little old lady who broke all the rules / Catharina Ingelman-Sundberg. | 839.|
+|x2017-08 | C | The unknown man. | 813.|
+|x2017-08 | A | A chosen faith / John A. Buehrens and Forrest Church. | 289.1.|
+|x2017-07 | B | Charlotte's web / E.B. White. Pictures by Garth Williams. | 823.|
+|x2017-06 | C | Escape / Jasper T. Scott. | 813.|
+|x2017-06 | C | Excelsior / Jasper T. Scott. | 813.|
+|x2017-05 | D | Banded / Logan Byrne. | 813.|
+|x2017-05 | D | Inferno / Dan Brown. | 813.|
+|x2017-05 | C | Apparition Lake / Daniel D. Lamoreux. | 813.|
+|x2017-04 | C | Ink and Bone / Rachel Conrad. | 813.|
+|x2017-04 | C | Minders of the mountain / S.R. Martin. | 813.|
+|x2017-04 | B | Harry Potter and the Deathly Hallows / J.K. Rowling. | 813.|
+|x2017-04 | B | Harry Potter and the half-blood Prince / J.K. Rowling. | 823.|
+|x2017-04 | B | Harry Potter and the Order of the Phoenix / J.K. Rowling. | 823.|
+|x2017-03 | B | Harry Potter and the goblet of fire / J.K. Rowling. | 823.|
+|x2017-03 | B | Harry Potter and the prisoner of Azkaban / J.K. Rowling. | 823.|
+|x2017-03 | B | Harry Potter and the chamber of secrets / J.K. Rowling. | 823.|
+|x2017-03 | B | Harry Potter and the sorcerer's stone / J.K. Rowling. | 823.|
+|x2016-10 | D | Ansible 15715 / Stant Litore. | 813|
+|x2016-10 | C | Snowline Drift / Razevich, Alexes. | 813|
+|x2016-10 | B | Wizard's First Rule. / Terry Goodkind | 813.|
+|x2016-09 | C | Orange Is the New Black / Piper Kerman | 920.|
+|x2016-08 | C | Interesting times / Matthew Storm. | 813.|
+|x2016-08 | B | Tribe / Sebastian Junger. | 302.|
+|x2016-07 | B | It can't happen here / Lewis Sinclair. | 813.|
+|x2016-06 | B | Waterworld / Max Allan Collins. | 813.|
+|x2016-06 | C | Lunatics / Dave Barry and Alan Zweibel. | 813.|
+|x2016-05 | B | Deciphering ancient minds / David Lewis-Williams and Sam Challis. | 759.|
+|x2016-04 | C | Running with scissors / Augusten Burroughs | 920. |
+|x2016-04 | C | Flying saucers / Sean McLachlan & Charles River editors. | 001.|
+|x2016-03 | C | Heads in beds / Jacob Tomsky | 818.|
+|x2016-03 | C | Red Rising / Pierce Brown. | 813.|
+|x2016-03 | C | The big dark / Rodman Philbrick. | 813.|
+|x2016-02 | B | The Quartet / Joseph Ellis. | 973.|
+|x2016-02 | D | Rama II / Arthur C. Clarke and Gentry Lee. | 813.|
+|x2015-10 | B | The deepest human life / Scott Samuelson. | 100.  |
 |x2015-09 | B | The Giver / Lois Lowry. | 813.|
 |x2015-08 | C | Suvival colony 9 / Joshua David Bellin. | 813.  |
 |x2015-07 | C | The dead lands / Benjamin Percy. | 813.  |
