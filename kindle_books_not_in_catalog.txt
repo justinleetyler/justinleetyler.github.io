@@ -1,0 +1,4347 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+#myInput {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+  
+  
+#myAuthor {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+  
+#mycallnumber {
+  background-image: url('/css/searchicon.png');
+  background-position: 10px 10px;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  border: 1px solid #ddd;
+  margin-bottom: 12px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#myTable th, #myTable td {
+  text-align: left;
+  padding: 12px;
+}
+
+#myTable tr {
+  border-bottom: 1px solid #ddd;
+}
+
+#myTable tr.header, #myTable tr:hover {
+  background-color: #f1f1f1;
+}
+</style>
+</head>
+<body>
+
+<h2>My Kindle Books</h2>
+
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for title.." title="Type in a title">
+<input type="text" id="myAuthor" onkeyup="myFunction1()" placeholder="Search for author.." title="Type in a author">
+<input type="text" id="mycallnumber" onkeyup="myFunction2()" placeholder="Search for call number.." title="Type in a call number">
+
+<table id="myTable">
+  <tr class="header">
+    <th style="width:60%;">Title</th>
+    <th style="width:40%;">Author</th>
+    <th style="width:40%;">Subject</th>
+  </tr>
+  <tr> 
+<td><a href="https://read.amazon.com/?asin= ">2001 : A space odyssey</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">2010 : odyssey two</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">2061 : odyssey three</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">3001 : the final odyssey</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Childhood's end</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Five justices</a></td> 
+<td>John Paul Stevens</td> 
+<td>kBPL 920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Justice for all</a></td> 
+<td>Jim Newton</td> 
+<td>kBPL 920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Little book of sloth philosophy</a></td> 
+<td>Jennifer McCartney.</td> 
+<td>kLJLT 306</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The collapsing empire</a></td> 
+<td>John Scalzi.</td> 
+<td>kBPL 813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The fall of moondust</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The hammer of God</a></td> 
+<td>Arthur C. Clarke</td> 
+<td>kBPL 823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The second founding</a></td> 
+<td>Eric Foner</td> 
+<td>kBPL 327</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06WVZW73J">2084</a></td> 
+<td>Engel, Mason</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004YW69B4">1,001 Best Slow-Cooker Recipes: The Only Slow-Cooker Cookbook You'll Ever Need</a></td> 
+<td>Spitler, Sue ,  Yoakam, Linda R.</td> 
+<td>k641</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NS53SX0">1/2986: The Climate Fiction Saga</a></td> 
+<td>Wendeberg, Annelie</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00C4TK32U">10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School</a></td> 
+<td>Perennial, Harper</td> 
+<td>k370</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">10 steps to successful facilitation</a></td> 
+<td> </td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OR77EU6">100 RV Tips and Tricks</a></td> 
+<td>Massey, Malcom Mack</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ACLCXV6">20XX</a></td> 
+<td>Mead, Charles</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00UC6LJP2">2389: A Space Horror Novel</a></td> 
+<td>Wright, Iain Rob</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DOS5CR06">25 City Adventures for Families</a></td> 
+<td>Planet, Lonely</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00C3341BG">3:53 a.m.: Book 1</a></td> 
+<td>Columbus, Nocomus</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0121F21ZS">30 Interactive Brainteasers to Warm up your Brain</a></td> 
+<td>Puzzleland</td> 
+<td>k793</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CREFHDM">365 Tao</a></td> 
+<td>Deng</td> 
+<td>k299</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">365 Tao: daily meditations</a></td> 
+<td>Deng, Ming-Dao</td> 
+<td>k299</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ZAYEV2E">510 Creative Writing Prompts: For Aspiring and Experienced Writers</a></td> 
+<td>Wright, Jonathan</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0085HN8N6">99 Reasons to Hate Cats: Cartoons for Cat Lovers</a></td> 
+<td>Briscoe, Tom</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01H0HX340">A Bad Day to Die: The Adventures of Lucius “By God” Dodge, Texas Ranger</a></td> 
+<td>Butts, J. Lee</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KVMIS24">A Capitalist in North Korea: My Seven Years in the Hermit Kingdom</a></td> 
+<td>Abt, Felix</td> 
+<td>k915</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H5SE1TG">A Christmas Carol</a></td> 
+<td>Dickens, Charles</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PIYDH6W">A Concise History of Romanians</a></td> 
+<td>Djuvara, Neagu</td> 
+<td>k949</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004TQ136Q">A Confederate Girl's Diary</a></td> 
+<td>Dawson, Sarah Morgan</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015TWRVCS">A Coronation of Kings</a></td> 
+<td>Stokes, Samuel</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005FQN33U">A Feeble Drift: Book One of the Fugue Trilogy</a></td> 
+<td>Orgambide, Guy</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005VTVE0U">A Hidden Fire: Elemental Mysteries Book One</a></td> 
+<td>Hunter, Elizabeth</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015ULPN2I">A History of the Popes: Volume I: Origins to the Middle Ages</a></td> 
+<td>North, Wyatt</td> 
+<td>k282</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EJNWLF6">A History of the World's Ending</a></td> 
+<td>Galen, Sebastian</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ICAMF4E">A hole in my boot: Southern India to Everest Basecamp</a></td> 
+<td>Oliver, Anne Margaret ,  Zorkendorfer, Joanne Mercia</td> 
+<td>k915</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00C43FYLQ">A Legacy of Light</a></td> 
+<td>Arenson, Daniel</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B47BM2S">A March of Kings</a></td> 
+<td>Rice, Morgan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B077J8WH3B">A Memory of Earth</a></td> 
+<td>Arenson, Daniel</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M5EW2YG">A Million Doorways</a></td> 
+<td>Beckner, K. Martin</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B016VF8">A Princess of Mars</a></td> 
+<td>Burroughs, Edgar Rice</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00N0XK2K2">A Problem With Donuts</a></td> 
+<td>Woodard, Ben ,  Currier, Wendy</td> 
+<td>k817</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AFROVQC">A Quest of Heroes</a></td> 
+<td>Rice, Morgan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MQ1R1WJ">A Room with a View</a></td> 
+<td>Forster, E. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01A2R1RIO">A Star Curiously Singing</a></td> 
+<td>Nietz, Kerry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AQ37U2M">A Tall Man Rides</a></td> 
+<td>Rourke, H. Berkeley</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0055X09LW">Access to Power</a></td> 
+<td>Ellis, Robert</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HA360U4">Ace Jones: Misadventures in a Winter Wonderland</a></td> 
+<td>McAfee, Stephanie</td> 
+<td>k813 </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OYGEZX4">Activate</a></td> 
+<td>Albrinck, Alex</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004V9F2QS">Admire the Moon: Meditations</a></td> 
+<td>Wellemeyer, Mary</td> 
+<td>k811</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01708ZV9E">Adventure</a></td> 
+<td>London, Jack</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B011SMMIIA">Adventures of a Trail Stooge</a></td> 
+<td>Quinn, Chris</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EBQD1RS">Aetheric Elements: The Rise of a Steampunk Reality</a></td> 
+<td>Sivart, Travis I.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KM0T8UG">After Days: Affliction</a></td> 
+<td>Medbury, Scott</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LBOW3CW">After The Event: Book 1 of the After The Event Series</a></td> 
+<td>Williams, T. A.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00P02FBPM">After the Winter</a></td> 
+<td>Healy, Mark R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D5FAP3O">After: First Light</a></td> 
+<td>Nicholson, Scott</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AP6YRFS">After: The Shock</a></td> 
+<td>Nicholson, Scott</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DHNO7J6">Age of Mystics</a></td> 
+<td>Walters, Chris</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NMWRTNY">AL CLARK</a></td> 
+<td>Meyer, Jonathan G. ,  Dominique, Dawne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KHZY54A">Alaska Sampler 2014: Ten Authors from the Great Land: Fiction - Biography - Memoir - Humor</a></td> 
+<td> </td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VC060QK">Alaska Sampler 2015</a></td> 
+<td> </td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N76G9EU">Alexander Hamilton: The Complete Biography of a True Patriot and One of America's Most Remarkable Founding Fathers</a></td> 
+<td>Hewitt, Florian</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AN19AUM">Alexandria</a></td> 
+<td>Kaden, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013VOHK22">Alien Baggage Allowance</a></td> 
+<td>Nations, Humble</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LXM0EPH">All Guns Blazing: A Wild West Omnibus</a></td> 
+<td>David, Alan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DI55NHY">All Roads Led to Shanghai</a></td> 
+<td>Calodoukas, Clio</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B8IZIM2">All These Shiny Worlds: The 2016 ImmerseOrDie Anthology</a></td> 
+<td>Smith, Jefferson ,  Levesque, Richard ,  Anderson, Bryce ,  Adams, Brett ,  Ruz, Christopher ,  Higgins, Dave ,  Storrs, Graham ,  Morin, J. S. ,  Plexico, Van Allen ,  Kinrade, Karpov ,  Mills, Becca ,  Mellor, Belinda ,  Misha, Burnett ,  Russ, Linton ,  Regina, Richards</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">All-in-one CompTIA A+ certification exam guide: exams 220-701 & 220-702</a></td> 
+<td>Meyers, Mike</td> 
+<td>k621</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Alone: Spared : Survivors of the Apocalypse</a></td> 
+<td>Toseland, Graham</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008HRXEYC">Alterium - A New Threat</a></td> 
+<td>Snyders, Andrew</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00M5M3S6Y">Ambush at Kansas City</a></td> 
+<td>Lewis, Ron</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Anarchy, state, and utopia</a></td> 
+<td>Nozick, Robert</td> 
+<td>k321</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JTJVRPK">Ansible 15715</a></td> 
+<td>Litore, Stant</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0088THGXE">Anthem</a></td> 
+<td>Rand, Ayn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IRPTRHW">Apocalypticon</a></td> 
+<td>Smith, Clayton</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00MV571OA">Apollo11: When Men Walked on the Moon: The incredible mission of Apollo 11</a></td> 
+<td>Gibson, Philip</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LBSDE5S">Apparition Lake</a></td> 
+<td>Lamoreux, Daniel D. ,  Lamoreux, Doug</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DA1O2UA">Apprentice</a></td> 
+<td>Guindon, Eric</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00907BWIS">Aquifer: A Novel</a></td> 
+<td>Barnes, Gary</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0084FH6M8">Arctic Wargame</a></td> 
+<td>Jones, Ethan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005BOXKRA">Arena</a></td> 
+<td>Hancock, Karen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Arena one</a></td> 
+<td>Rice, Morgan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DFUUE6G">Ark-13: An Odyssey</a></td> 
+<td>Gallagher, B. B.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005KBPFAY">Around the States in 90 Days</a></td> 
+<td>Moseley, Andy</td> 
+<td>k917</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GWTXJH4">ARV-3</a></td> 
+<td>Renae, Cameo</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008AM5KGE">Auraria: A Novel</a></td> 
+<td>Westover, Tim</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B019YMEMPS">Awaiting Orders: M/M Military Straight to Gay First Time Romance</a></td> 
+<td>Cole, Jerry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004XMOOKS">Awaken</a></td> 
+<td>D'aigle, Rachel</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AA33JPK">Back from the Brink: 1000 Days at Number 11</a></td> 
+<td>Darling, Alistair</td> 
+<td>k320</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01HHI9M6U">Backyard Dragons</a></td> 
+<td>French, Lee</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005IHANGG">Bad Radio</a></td> 
+<td>Langlois, Michael</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IKU79AG">Banded</a></td> 
+<td>Byrne, Logan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0096RXT8S">Battle Earth</a></td> 
+<td>Thomas, Nick S.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PWZ7MC2">Be a Hobbit, Save the Earth: the Guide to Sustainable Shire Living</a></td> 
+<td>Bivans, Steve</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01I49BXA4">Bear Claw: A Tale of the Shoshone</a></td> 
+<td>Taylor, Mark Stephen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00I9K1TGW">Become a Natural Leader: What a Former Army Officer Can Teach You About Leadership</a></td> 
+<td>Thomas, Ryan</td> 
+<td>k174</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AOBIRIW">Becoming Human: A Dystopian Post Apocalyptic Novel</a></td> 
+<td>Green, Eliza</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Beginning ruby</a></td> 
+<td>Cooper, Peter</td> 
+<td>k005</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Beginning XSLT</a></td> 
+<td>Tennison, Jeni</td> 
+<td>k5</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0059MR4I0">Betrayal of Magic</a></td> 
+<td>Dockins, Brian ,  Beal, Onaje</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LY9FEDS">Between a Ghost and a Spooky Place</a></td> 
+<td>Saint, Nic</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ANIRFH0">Between a Rock and a White Blaze: Searching for Significance on the Appalachian Trail</a></td> 
+<td>Urbanski, Julie</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OU6O44I">Bhagavad Gita: The Oxford Centre for Hindu Studies Guide</a></td> 
+<td>Sutton, Nicholas</td> 
+<td>k287</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FJ352U6">Bird Box: A Novel</a></td> 
+<td>Malerman, Josh</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01IUFLY7E">Black Virus</a></td> 
+<td>Adair, Bobby</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004P5NUTE">Bless All Who Serve: Sources of Hope, Courage and Faith for Military Personnel and Their Families</a></td> 
+<td>Tittle, Gail ,  Tittle, Matt</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Bon Voyage!</a></td> 
+<td>Kelly, Susie</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BNGXNW2">Book of Mormon</a></td> 
+<td>The Church of Jesus Christ of Latter-day Saints</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Bounce forward: how to transform crisis into success</a></td> 
+<td>Cawthorn, Sam</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LHYIPY6">Broken World</a></td> 
+<td>Mary, Kate L.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LPX4Y3U">Buddha On The Bus</a></td> 
+<td>Damm, Nate</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BWFEOXA">Buddhism: Buddhism For Beginners - Buddhist Teachings For Living A Life Of Happiness, Peace, and Enlightenment</a></td> 
+<td>Gise, Kevin</td> 
+<td>k294</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06WVQD6QR">Bug Hunt</a></td> 
+<td>Hooke, Isaac</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00UCF3U0A">Building a Movement to End the New Jim Crow: an organizing guide</a></td> 
+<td>Hunter, Daniel</td> 
+<td>k306</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Bulfinch's mythology : the age of fabel</a></td> 
+<td>Bulfinch, Thomas</td> 
+<td>k398</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01F5Y4BLO">Business Law Basics: A Legal Handbook for Online Entrepreneurs and Startup Businesses</a></td> 
+<td>Hart, James</td> 
+<td>k343</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00266Q078">By Darkness Hid</a></td> 
+<td>Williamson, Jill ,  Gerke, Jeff</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M69HKXL">Cabin Fever</a></td> 
+<td>Bower, B. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01CFITNXO">Caesar and Cleopatra</a></td> 
+<td>Shaw, George Bernard</td> 
+<td>k822</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003ZUYQCA">Call of the Herald: Young Adult Epic Fantasy</a></td> 
+<td>Rathbone, Brian ,  Studios, T.-Rex</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Captivology: the science of capturing people's attention</a></td> 
+<td>Parr, Ben</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B012Q8WS80">Cassia - Historical Romance Series</a></td> 
+<td>Craft, Susan F.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">CCENT: Cisco Certified Entry Networking Technician (Exam 640-822).</a></td> 
+<td>Lammle, Todd</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B099CRWPF3">Cherokee Mythology: Gods, Myths, Legends and Spiritual Beliefs of the Cherokee Tribe (Easy History)</a></td> 
+<td>Barrow, Jim</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A0O4G9C">Child of Fate</a></td> 
+<td>Halstead, Jason</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Church of lies</a></td> 
+<td>Jessop, Flora ,  Brown, Paul T.</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OA35FJ4">Citations Made Simple: A Student's Guide to Easy Referencing: The Complete Guide</a></td> 
+<td>Weselby, Joanne M.</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0057XSNGS">City of Blaze</a></td> 
+<td>Charles, H. O.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0036S4B4Y">City of Towers: The Dreaming Dark, Book 1</a></td> 
+<td>Baker, Keith</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01F8V8L1A">Civil War: American Civil War in 50 Events: From the Very Beginning to the Fall of the Confederate States</a></td> 
+<td>Weber, James</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0053SFIOM">Cloudburst</a></td> 
+<td>Pearson, Ryne Douglas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VSUCKSQ">ClutterFree Revolution: Simplify Your Stuff Organize Your Life & Save The World</a></td> 
+<td>Zislis, Evan Michael</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MCQBVI9">Cocky Senator: A Bad Boy Romance</a></td> 
+<td>Hopkins, Faleena</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H0FJ3SS">Collapse: Book One in The Yellow Flag Series</a></td> 
+<td>Carter, T. K.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EA6QLMQ">Colony Z: The Complete Collection</a></td> 
+<td>Shephard, Luke</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015A2Z7ZU">Colossus</a></td> 
+<td>Jones, D. F.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00K53WAU0">Common Ground</a></td> 
+<td>Trudeau, Justin</td> 
+<td>k971</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00G190NXS">Conception: A Post Apocalyptic Thriller</a></td> 
+<td>Norwood, Thomas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BCEPO1C">Confucius, Mencius, Laozi, Zhuangzi, Xunzi: Selected Passages from the Chinese Philosophers in The Path</a></td> 
+<td> </td> 
+<td>k294</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Conroy's First Command</a></td> 
+<td>Broomall, Robert</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Contamination</a></td> 
+<td>Piperbrook, T.W.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008HI3WD4">Couponing for the Beginner: A Guide to Couponing for the Uninitiated</a></td> 
+<td>Dean, Jenny</td> 
+<td>k640</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0999GXKY9">Crazy True Tales</a></td> 
+<td>Adam Douglas</td> 
+<td>k817</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HQ7JZOM">Crowdfunding: The Next Big Thing</a></td> 
+<td>Spirer, Gary</td> 
+<td>k361</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Crucibles of leadership: how to learn from experience to become a great leader</a></td> 
+<td>Thomas, Robert Joseph</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LWOB2PW">Cruisin' the Caribbean: A newbie's guide to your first cruise</a></td> 
+<td>Bergren, Travis</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01F171QSQ">Cruising with Confidence: How to be a First Time Cruiser without Looking like One</a></td> 
+<td>Pfeifer, Deb</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FDT2EBQ">Cryo-Man</a></td> 
+<td>George, Kevin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B088K9KJVD">CSS animation</a></td> 
+<td>Rhea, John</td> 
+<td>k5</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00M4Q4B5S">Daily Prayer for All Seasons</a></td> 
+<td>Publishing, Church</td> 
+<td>k264</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BNZDOFE">Dark Days: The Long Road Home</a></td> 
+<td>May, L. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DS1S9DC">Dawn of the Dreamsmith</a></td> 
+<td>Ratcliffe, Alan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01J34T0PE">Day of Reckoning: A Lucas Wade Western - Book 3</a></td> 
+<td>McCrae, Raylan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015ENT0P8">Daygo's Fury: The Daygo Stream</a></td> 
+<td>Sullivan, John F. O'</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CC6CVF2">Dead Highways: Origins</a></td> 
+<td>Brown, Richard</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Dealing with China: an insider unmasks the new economic superpower</a></td> 
+<td>Paulson, Henry M.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LZ765ZM">Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History</a></td> 
+<td>McConnell, Miantae Metcalf</td> 
+<td>k923</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LZ765ZM">Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History</a></td> 
+<td>McConnell, Miantae Metcalf</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001C4PTLS">Democratizing Innovation</a></td> 
+<td>Hippel, Eric von</td> 
+<td>k600</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007TD9246">Demonworld</a></td> 
+<td>Stiff, Kyle B.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CPCYRJQ">Deomans of Faerel</a></td> 
+<td>Fauster, Ted</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01579VDC2">Developing Minds: An American Ghost Story</a></td> 
+<td>LaPoma, Jonathan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01373CVCQ">Diffusion</a></td> 
+<td>Smith, Stan C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07DVNC9HM">Digital literacy: succeeding in a digital world</a></td> 
+<td>The Open University</td> 
+<td>k025</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00I8PMB10">Dissension</a></td> 
+<td>Salidas, K. A. ,  Salidas, Katie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0085SYSDE">Distant Star</a></td> 
+<td>Ducie, Joe</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PNZA1LU">DIY Household Hacks: Complete Do-It-Yourself Manual For Home Repair, Maintenance and Improvement, Designed to Save You Time and Money</a></td> 
+<td>Benson, Patricia</td> 
+<td>k643</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BJUCF2K">Dog Training: Basics of Puppy and Dog Training - Your Full Guide to Dog Training</a></td> 
+<td>Lewis, Catherine</td> 
+<td>k636</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Dracian legacy</a></td> 
+<td>Kanaparti, Priya</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Dracula</a></td> 
+<td>Stoker, Bram</td> 
+<td>k891</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007ZVSNF6">Dragon Drive on Terul</a></td> 
+<td>McLaren, Wyatt</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00SZDIGYG">Dragonfly: Book One of the Dragonfly Series</a></td> 
+<td>Nelson, Resa ,  Wilder, Eric</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OV5LS2O">Dragonlands, Books 1 - 3: Hidden, Hunted, and Retribution</a></td> 
+<td>Jensen, Megg</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IMV6LRK">Dragonlyst</a></td> 
+<td>Seeley, Randall</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A9WU99Q">Dreamlander</a></td> 
+<td>Weiland, K. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H5CZNCQ">Dreams of the Turtle King: Poems Inspired by South Florida Beaches</a></td> 
+<td>Bossarte, Denise ,  Standlee, Nancy</td> 
+<td>k811</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00YO2UO9M">Drifters' Alliance, Book 1</a></td> 
+<td>Casey, Elle</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00527UG0A">Drowned in the Grenadine: or, how to fail in show business by really, really trying.</a></td> 
+<td>Gilvezan, Dan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07DVTFKZ6">Early modern Europe: an introduction</a></td> 
+<td>University, The Open</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GDH7SYK">Earth 2.1: Regenesis</a></td> 
+<td>Johnson, William Crow</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Earth and shadows</a></td> 
+<td>Chastain, Coleman</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0064P9UQ0">Earth bound</a></td> 
+<td>Nelson</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NEDGH5C">Ebola K: A Terrorism Thriller: book 1</a></td> 
+<td>Adair, Bobby</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013NYPV94">Echo Volume 1: Approaching Shatter</a></td> 
+<td>Wayne, Kent</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">ED</a></td> 
+<td>Hasan, Mehdi</td> 
+<td>k324</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DEJZZK4">Eden Rising</a></td> 
+<td>Cunningham, Andrew</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003XVZAGC">Edwina</a></td> 
+<td>Strefling, Patricia</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0089Z7S8K">Eerie</a></td> 
+<td>Crouch, Jordan ,  Crouch, Blake</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00E6VF8E2">Effective Classroom Management: An Interactive Textbook</a></td> 
+<td>Mills, Michael</td> 
+<td>k371</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01IUCQVXO">Einstein: Famous Scientist, Committed Pacifist, And Timeless Genius ,  The True Historical Biography Of The World's Greatest Thinker</a></td> 
+<td>Hewitt, Florian</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006AF90PK">Elemental Magic</a></td> 
+<td>Wallace, Angela</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Elton: The biography</a></td> 
+<td>Buckley, David</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Endless referrals: network your everyday contacts into sales</a></td> 
+<td>Burg, Bob</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ABVO2ZC">Enigma Black</a></td> 
+<td>Furlong-Burr, Sara</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006OBOIPC">Ep.#1 - Aurora: CV-01</a></td> 
+<td>Brown, Ryk</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M5FBSEB">Equity Crowdfunding: The Complete Guide For Startups And Growing Companies</a></td> 
+<td>Rose, Nathan</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AD6F2J0">Escape</a></td> 
+<td>Scott, Jasper T.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N13A9A7">ESL Classroom Games: 180 Educational Games and Activities for Teaching ESL/EFL Students</a></td> 
+<td>William, Andrew</td> 
+<td>k372</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004Q7CI4E">Everyday Spiritual Practice: Simple Pathways for Enriching Your Life</a></td> 
+<td>Alexander, Scott W.</td> 
+<td>k248</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Everyone needs a mentor</a></td> 
+<td>Clutterbuck, David</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007MM89RK">Everyone Said I Should Write A Book: The Travels and Adventures of a Sailor and Explorer</a></td> 
+<td>White, Jonathan</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0054KOKZ2">Evolution: A View from the 21st Century</a></td> 
+<td>Shapiro, James A.</td> 
+<td>k576</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BDVAX6K">Excelsior: Book 1 of the New Frontiers Series</a></td> 
+<td>Scott, Jasper T. ,  Edwards, Tom</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015M9XYHY">Exodus</a></td> 
+<td>McPhail, Courtney</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CO9Z5JQ">Extermination Day</a></td> 
+<td>Turnage, William</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X5URI">Facilitating group discussions</a></td> 
+<td>The Open University</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018NB659M">Fall of the Cities: Planting the Orchard</a></td> 
+<td>Huxley, Vance</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00G1PODH4">Fallen Palm: A Jesse McDermitt Novel</a></td> 
+<td>Stinnett, Wayne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01A3IBAE8">Falling as She Sings: A Novel</a></td> 
+<td>Sursum, C. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B099GGB7MN">Family Road Trip Trivia</a></td> 
+<td>Blake, Bradley</td> 
+<td>k791</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NMFX03Y">Feast of Fates</a></td> 
+<td>Brown, Christian A.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010II21DW">FERTS:</a></td> 
+<td>Hudson, Grace</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00S09WMWM">First Strike</a></td> 
+<td>Turner, Richard</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Fish can't see water: how national culture can make or break your corporate strategy</a></td> 
+<td>Hammerich, Kai ,  Lewis, Richard D.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06WRX24ZL">Flash Fiction Magazine - Issue 1</a></td> 
+<td>Magazine, Flash Fiction</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B002NANLCE">Flashforward</a></td> 
+<td>Sawyer, Robert J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MSXMY7F">Flying Asses Through Africa</a></td> 
+<td>Mitchell, Jack</td> 
+<td>k918</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D3UMC9A">Flying Saucers: The Mysterious History of the UFO Phenomenon</a></td> 
+<td>Editors, Charles River</td> 
+<td>k942</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PXXEWA8">Foothold: The Story of Mankind's First Expedition to the Stars</a></td> 
+<td>Ingram, Dennis</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BTKA42Y">Forging Zero</a></td> 
+<td>King, Sara</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D1FTEGC">Foundling</a></td> 
+<td>Sanders, Stacia</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007NZLQAS">Free Falling: Book 1 of the Irish End Games</a></td> 
+<td>Kiernan-Lewis, Susan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01K13FUPU">Free Innovation</a></td> 
+<td>Hippel, Eric von</td> 
+<td>k338</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IX0BTCM">Free TV Over the Air: Choosing and Using an HDTV Antenna</a></td> 
+<td>Forseth, Mike</td> 
+<td>k621</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008164K6A">Freeman</a></td> 
+<td>Jr, Leonard Pitts</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007L2R5XA">From Chaos Born</a></td> 
+<td>Hicks, Michael R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004UJTUKI">From the Earth to the Moon and Round the Moon</a></td> 
+<td>Verne, Jules</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CYR3Z2W">Frontier Justice</a></td> 
+<td>Bradley, Arthur</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007Z88RXW">Full Classrooms, Empty Selves: Reflections on a Decade of Teaching in an American High School</a></td> 
+<td>Adams, Jeremy</td> 
+<td>k371 </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X6OUK">Galaxies, stars and planets</a></td> 
+<td>The Open University</td> 
+<td>k520</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Gandhi: A Life Inspired</a></td> 
+<td>Hamilton, Lynn M. ,  North, Wyatt</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GKNFZMO">Gehenna Dawn: Portal Wars I</a></td> 
+<td>Allan, Jay</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0053H8XKO">Genesis Earth</a></td> 
+<td>Vasicek, Joe</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ZRSIQBU">Glendower Country</a></td> 
+<td>Rofheart, Martha</td> 
+<td>k942</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0087OUE7K">Gods of Kiranis</a></td> 
+<td>Geobey, Ronald A.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DQGMT6S">Goliath</a></td> 
+<td>Turner, Richard</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GFVCFWO">Gone Whalin'</a></td> 
+<td>Lastowka, Conor</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009M0ARH0">Graveyard Shift</a></td> 
+<td>Roquet, Angela</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MTEK77B">GRE Prep by Magoosh</a></td> 
+<td>Magoosh ,  Lele, Chris ,  McGarry, Mike</td> 
+<td>k370</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A6F67LK">Grounded</a></td> 
+<td>Ching, G. P.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0089MN4Y0">Gypsy Spirit: What My Boat Taught Me About Love And Life</a></td> 
+<td>Bukruian, Christine</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0736TZ3ZP">Hall of Heroes: A Fellowship of Fantasy Anthology</a></td> 
+<td>Burke, H. L. ,  Baugh, Laura VanArendonk ,  Zaplendam, Page ,  Ippolito, Janeen ,  Dearen, Tamie ,  Fugett, Deanna ,  Ashwood, Sarah ,  Luke, Frank B. ,  Daigle, Arthur ,  Silverberry, A. R. ,  Writes, E. Kaiser ,  Bakke, A. J. ,  Astle, Dianne ,  Conte, R. J. ,  Frauenfelder, D. W. ,  Bendoly, Laura Matthias ,  Horne, J. Philip ,  Gilbert, Julie C. ,  Havin, Karin Di ,  Doué, Lea ,  Jones, Katy Huth ,  Millican, David ,  Elliott, Jessica L.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0041G6LH0">Harvest: Memoir of a Mormon Missionary</a></td> 
+<td>Young, Jacob</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=Fri 07/02/2021"> </a></td> 
+<td>Akers, D.C.</td> 
+<td>813 </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B016IZYDE4">Hieroglyph</a></td> 
+<td>Scott, W. J. ,  Helle-Nielsen, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EWCNYX2">His Dark Empire</a></td> 
+<td>Forbes, M. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00Y7O6AOA">History Bytes: 37 People, Places, and Events that Shaped American History</a></td> 
+<td>Vulich, Nick</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N0FZTMJ">History of Europe 1870-1919</a></td> 
+<td>Hazen, Charles</td> 
+<td>k940</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VGUZSQE">History: American History in 50 Events: From First Immigration to World Power</a></td> 
+<td>Weber, James</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010W6OW5U">History: Ancient History in 50 Events: From Ancient Civilizations to the Fall of the Roman Empire</a></td> 
+<td>Weber, James</td> 
+<td>k930</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DCCRFGU">Homeostasis Lost</a></td> 
+<td>Yauchler, Kyan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X5X84">How to be a critical reader</a></td> 
+<td>The Open University</td> 
+<td>k378</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00N992NEA">How to be a Gentleman: What Every Modern Man Needs to Know about Manners and Behaviors to Attract Women Now</a></td> 
+<td>Schreiber, Niel</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00Q38CDKI">How To Live For Free: The Definitive Guide</a></td> 
+<td>Tailor, Deepak ,  Foulger, Laura</td> 
+<td>k332</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06W2NYYSM">How to Train Your Goat: The Unconventional Memoir of an Outdoor Humorist</a></td> 
+<td>Michaels, J. J. ,  James, Grizzly</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EZ3QW6O">How to write a business plan in 90 minutes or less: The 90 Minute Business Plan:</a></td> 
+<td>Hay, Fraser J.</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AB77M5S">How to Write a Nonfiction eBook in 21 Days - That Readers LOVE!</a></td> 
+<td>Scott, Steve</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00UK4E5BQ">Humid</a></td> 
+<td>Mohrman, Travis</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B017AIVGMU">I AM SLEEPLESS: Sim 299</a></td> 
+<td>Twiss, Johan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008UUIGB2">I Bring the Fire Part I : Wolves</a></td> 
+<td>Gockel, C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0197BHT1K">Immurement: The Undergrounders Series Book One</a></td> 
+<td>Hinkens, Norma</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HL535PO">In Japan's Backcountry</a></td> 
+<td>Newby, Jane M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HKKDGAO">In Limbo</a></td> 
+<td>Marsh, E. C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HMA9J58">In the End</a></td> 
+<td>Ward, Tracey</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01JM4FG6C">In The Land of Broken Time: The Incredible Journey</a></td> 
+<td>Evan, Maria ,  Evan, Max</td> 
+<td>k13</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008BXVQU6">In the Line of Fire: 70 Articles from the Front Lines of the Culture Wars</a></td> 
+<td>Brown, Michael L.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06XS826DM">In Their Shoes: The Trilogy (The Teacher, The Actor & The Model): The Hilarious, Uproarious and Outrageous British Satire Series!</a></td> 
+<td>Mackay, Andrew ,  Kreacher</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DNDF1UY">Incubation</a></td> 
+<td>DiSilverio, Laura</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CT9XL42">Indigo Incite: The Indigo Trilogy: Book One</a></td> 
+<td>Buchmann, Jacinda</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ANKHQK">INFECTED</a></td> 
+<td>Schannep, James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00L4MS50A">INFECtIOUS: Revised Third Edition</a></td> 
+<td>Forkey, Elizabeth</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00MPY3EAC">Inferno Park</a></td> 
+<td>Bryan, J. L.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X6UIG">Information on the web</a></td> 
+<td>The Open University</td> 
+<td>k001</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013W13L0Y">Initiate - Test (Book 1-Episode 7): The Unfinished Song Series - An Epic Faerie Tale</a></td> 
+<td>Maya, Tara</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01I5ZS4E0">INTEL 1 Omnibus: Books 1-4</a></td> 
+<td>Stebbins, Erec</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BGX9YVG">Interesting Times</a></td> 
+<td>Storm, Matthew</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LK0W54M">Into the North Wind: A thousand-mile bicycle adventure across frozen Alaska</a></td> 
+<td>Homer, Jill</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AQ8HTFU">Into Tolari Space</a></td> 
+<td>Meierz, Christie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Introduction to bookkeeping and accounting</a></td> 
+<td>The Open University</td> 
+<td>k657</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X5ZO6">Introduction to computational thinking</a></td> 
+<td>The Open University</td> 
+<td>k006</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TADUV1Q">Invasion</a></td> 
+<td>Truant, Johnny B. ,  Platt, Sean ,  Sands, Realm and</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KAWN3ZM">Irradiated</a></td> 
+<td>Brandis, S. Elliot</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">ISBD</a></td> 
+<td>Section, Standing Committee of the IFLA Cataloguing ,  Group, ISBD Review</td> 
+<td>k25</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0096Q8VV4">Island Explorer: An Indonesian Travelogue</a></td> 
+<td>Scheffler, Dan</td> 
+<td>k915</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PZ8V830">J.R.R. Tolkien: A Life Inspired</a></td> 
+<td>North, Wyatt</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008CX0C8M">Jacinto's Voyage</a></td> 
+<td>Kaine, Daniel A.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01EEOI30G">Jamey Jones and the Sons of Noah</a></td> 
+<td>Stevens, Jeremy David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B04602G">Jane Eyre</a></td> 
+<td>Brontë, Charlotte</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00395ZYVI">Jesus Wars: How Four Patriarchs, Three Queens, and Two Emperors Decided What Christians Would Believe for the Next 1,500 Years</a></td> 
+<td>Jenkins, John Philip</td> 
+<td>k270</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0087Q15Q2">John Milton's Paradise Lost In Plain English</a></td> 
+<td>Lanzara, Joseph ,  Milton, John</td> 
+<td>k821</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007S0DMT6">Joshua</a></td> 
+<td>Wilson, John S.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N753SGS">Just Do It: Ten Ways to Help Increase Making Your Dreams and Goals a Reality</a></td> 
+<td>Brodie, Paul</td> 
+<td>k152</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008E95UOK">Kahayatle</a></td> 
+<td>Casey, Elle</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00E256KNA">Kasey and His Dragon</a></td> 
+<td>White, E. H.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00F8JCVX2">Keepers of the Light: The History of the Point Conception Lighthouse</a></td> 
+<td>Thompson, Willard</td> 
+<td>k387</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0082TWQAI">Keltor</a></td> 
+<td>Sage, Jennifer</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00P0IPL38">Kiatana's Journey</a></td> 
+<td>Erin, Natalie</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B017CQAIAQ">Kihivas: Alone at the Ends of the Earth</a></td> 
+<td>Kopar, Istvan</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00U01ICUO">Killing Hemingway:</a></td> 
+<td>Byrne, Arthur</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00MKB0T1C">Kincaid, Bounty Hunter: Revenge</a></td> 
+<td>Williams, Marty</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ND98HEG">Knox's Irregulars</a></td> 
+<td>Bush, J. Wesley</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M1NUK8R">Lakeside and Tide: Inspiration For Living Your Best Life Now</a></td> 
+<td>Tomczak, Jimmy</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001U3YFP2">Landmoor</a></td> 
+<td>Wheeler, Jeff</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B08WLTGKZV">Last Light</a></td> 
+<td>Paul Stephenson</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H1G6ZGE">Last Train Home</a></td> 
+<td>Isbell, Megan Nugen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B002R5B1UO">Laughs, Luck...and Lucy: How I Came to Create the Most Popular Sitcom of All Time</a></td> 
+<td>Oppenheimer, Jess ,  Oppenheimer, Gregg</td> 
+<td>k791</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010EAR076">Lawdog: The Life and Times of Hayden Tilden</a></td> 
+<td>Butts, J. Lee</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ULKOU1O">Learn PHP: The Beginner Guide: An Introduction to PHP Programming</a></td> 
+<td>Williams, Jake Day</td> 
+<td>k005</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X5YBK">Learning how to learn</a></td> 
+<td>The Open University</td> 
+<td>k371</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B015799982">Legacy</a></td> 
+<td>Kalquist, Autumn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ZGRTIIW">Legend of the Book Keeper</a></td> 
+<td>Blackaby, Daniel</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BN2B3YK">Letters from a Stoic</a></td> 
+<td>Seneca</td> 
+<td>k188</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B82DV9K">Letting Go: An Anthology of Attempts</a></td> 
+<td> </td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01AWET3VU">Library of Alexandria</a></td> 
+<td>The Open University</td> 
+<td>k020</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005W5L38G">Lichgates: Book One of the Grimoire Saga</a></td> 
+<td>Boyce, S. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VI6IDI6">Life</a></td> 
+<td>Belliston, Rebecca</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01HC98MR4">Life Among the Apaches</a></td> 
+<td>Cremony, John</td> 
+<td>k979</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Life in the shifting dunes</a></td> 
+<td>White</td> 
+<td>k574</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00F1GW6WI">Life Lived Simply: Meditation, Spirituality, and Conscious Living</a></td> 
+<td>Hays, Ronald</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003RISMM0">Life Nomadic</a></td> 
+<td>Tynan</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00K5YVRF8">Life On Foot: A Walk Across America</a></td> 
+<td>Damm, Nate</td> 
+<td>k917</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008MP9IXU">Life Tides: Meditations</a></td> 
+<td>Tarbox, Elizabeth</td> 
+<td>k242</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LY8AQ2K">Lightning Riders: A Clay Jared Western</a></td> 
+<td>Annan, R.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BJ8GCPS">Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators</a></td> 
+<td>Cannon, Jason</td> 
+<td>k4</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HNC1AXY">Linux for Beginners: An Introduction to the Linux Operating System and Command Line</a></td> 
+<td>Cannon, Jason</td> 
+<td>k4</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CMEW7US">Live Simple: 31 Tips To Declutter, Simplify, And Organize Your Life</a></td> 
+<td>McHenry, Nate</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N8QHWF5">Lives of Signers of the Declaration of Independence</a></td> 
+<td>Lossing, Benson John</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005QCC6KE">Logging Off</a></td> 
+<td>McKenna, Caitlin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M7QYPPB">Lost Nowhere: A journey of self-discovery in a fantasy world</a></td> 
+<td>Garnsworthy, Phoebe</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00T8J1CTW">Lotion & Candle Making: Lotion Making DIY Guide & How To Make Candles At Home Boxset</a></td> 
+<td>Lockhart, Leanna</td> 
+<td>k745</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Managing</a></td> 
+<td>Mintzberg, Henry</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005BR27XA">Margaret's Ark</a></td> 
+<td>Keohane, Daniel G.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ZC6666">Marking Time</a></td> 
+<td>White, April</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006GX97JK">Mars Station Alpha</a></td> 
+<td>Penner, Stephen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0082XJGRK">Meditations</a></td> 
+<td>Aurelius, Marcus</td> 
+<td>k188</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00R7CMJ4O">Melkorka</a></td> 
+<td>Robertson, Joshua ,  Bayne, Winter ,  Vandel, Josephe</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B083X9G4BY">Memories of Darkness</a></td> 
+<td>Marcus, Robert B., Jr.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007XPPYII">Mesmer, Book 1: Sanctuary</a></td> 
+<td>Amaris, Isabella</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N54XHX3">Microwave Mug Recipes: 50 Quick and Easy Ketogenic Diet Mug Recipes - Delicious Ketogenic Recipes That Take Only Minutes to Make</a></td> 
+<td>Stone, Jeremy</td> 
+<td>k641</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00853XTLQ">Mind the Light: Learning to See With Spiritual Eyes</a></td> 
+<td>Bill, J. Brent</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N2AP210">Minimalist Living: Living Minimally-How to Reduce Your Stress and Improve Your Quality of Living Through Minimalism</a></td> 
+<td>Robbins, Hannah</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IQKDYWW">Modern Rustic: Greenhouses and Gardening: A homesteading guidebook for subsistence gardening, heirloom vegetables and greenhouse ideas</a></td> 
+<td>Beuning, Eric</td> 
+<td>k630</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004ZH8K74">Monarchy Matters</a></td> 
+<td>Whittle, Peter</td> 
+<td>k321</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HUHVWZS">Monte Vista Village: A Post-Apocalyptic, Dystopian Series</a></td> 
+<td>Lamb, Lynn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006KWTBI4">Moon Hoax</a></td> 
+<td>Gillebaard, Paul</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00K7J7XOA">Moon of the White Wolf: An untold tale of the High Sierra, 1874: A Lone Pine Western</a></td> 
+<td>Taylor, Mark Stephen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0084AN1VI">Mr. Standfast</a></td> 
+<td>Buchan, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07V4WM9FC">Multiculturalism in the British Commonwealth: Comparative Perspectives on Theory and Practice</a></td> 
+<td> </td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N1UD9A7">My Falkland Islands Life: One Family’s Very British Adventure</a></td> 
+<td>Carter, Jen</td> 
+<td>k919</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00Q3B5SDE">Mythology 101</a></td> 
+<td>Nye, Jody Lynn</td> 
+<td>k398</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00848YOGQ">Nature Mysticism</a></td> 
+<td>Mercer, John Edward</td> 
+<td>k210</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0067EZ08U">Ness City Chronicles</a></td> 
+<td>Lohnes, William</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">NET bible noteless</a></td> 
+<td> </td> 
+<td>k220</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D1REW3Y">New Sky: Eyes of the Watcher</a></td> 
+<td>Kent, Jason</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018RMI6A8">New World Rising: Book One in a Young Adult Dystopian Series</a></td> 
+<td>Wilson, Jennifer</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005CFEN1U">New World: a Frontier Fantasy Novel</a></td> 
+<td>White, Steven W.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007OVUPXU">Night of the Purple Moon</a></td> 
+<td>Cramer, Scott</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CPF7INK">Nightfall Gardens</a></td> 
+<td>Houston, Allen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007YJ5A82">Nimbus: A Steampunk Novel</a></td> 
+<td>King, Austin ,  Keeton, B. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GMTKFIA">Noah's Ark</a></td> 
+<td>Morgan, Andrew J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007R6PPZA">Nolander</a></td> 
+<td>Mills, Becca</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B6FCXA8">Non-Fiction Writing Machine - How to Write a Book in 5 1/2 Days in 3 SIMPLE Steps</a></td> 
+<td>Rayappan, Anbu</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009NNHPIA">Obsidian Son: A Novel In The Nate Temple Supernatural Thriller Series</a></td> 
+<td>Silvers, Shayne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AFWLZXE">Offworld</a></td> 
+<td>Parrish, Robin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00F6KB7I8">Oil to Ashes 1: Picnic</a></td> 
+<td>Brait, Lee</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NU8O2ZS">On Duty With the Queen: My Time as a Buckingham Palace Press Secretary</a></td> 
+<td>Arbiter, Dickie</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00APO6VDQ">One Acre Homestead: Planning for self-sufficiency and financial independence</a></td> 
+<td>McDonald, Sara Simmons</td> 
+<td>k640</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IMF6APE">One is Come</a></td> 
+<td>MacLean, C. H.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009QAIRT6">Only Human</a></td> 
+<td>Reher, Chris</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005Z1RRUU">Open Minds</a></td> 
+<td>Quinn, Susan Kaye</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D0XNSGM">Operation Janus: A Time Command Novel</a></td> 
+<td>Hunter, T. Douglas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00993QQ9S">Oral Literature in Africa</a></td> 
+<td>Finnegan, Ruth</td> 
+<td>k896</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0036S4B6M">Orange Is the New Black: My Year in a Women's Prison</a></td> 
+<td>Kerman, Piper</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0086HPJX2">Origins</a></td> 
+<td>Henrikson, Mark</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01EH0C99I">Our Authentic Selves - Reflections on What We Believe & What We Wish We Believed</a></td> 
+<td>Hampton, David</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005DLQC0I">OUTSIDE - a post-apocalyptic novel</a></td> 
+<td>Boland, Shalini</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006VL1HJ0">Outside In</a></td> 
+<td>Hain, Peter</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B6KXMY8">Outview</a></td> 
+<td>Legg, Brandt</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0082T3QU2">Pagan and Christian creeds: their origin and meaning</a></td> 
+<td>Carpenter, Edward</td> 
+<td>k290</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0095D8OQA">Panama 1914 - The Early Years of the Big Dig: The early years of the Big Dig</a></td> 
+<td>Rossignol, Ken ,  Keppler, Udo J.</td> 
+<td>k980</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TZ5XVRK">Pardner's Trust</a></td> 
+<td>Dale, Randall</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=1624820522">Paskagankee: A Paskagankee Novel</a></td> 
+<td>Leverone, Allan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018FC3MG8">Pavement Ends: The Exodus</a></td> 
+<td>Gepner, Kurt</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004XMY84U">PaxCorpus</a></td> 
+<td>Fortney, Ryan S. ,  Fortney, Meryl S.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Perl Core language--little black book</a></td> 
+<td>Holzner, Steven</td> 
+<td>k5</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FKKWQXY">Planet Urth</a></td> 
+<td>Martucci, Jennifer ,  Martucci, Christopher</td> 
+<td>kr813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007JWG7P4">Planning for Big Data</a></td> 
+<td>Dumbill, Edd</td> 
+<td>k005</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007H7QTG8">PLAZA: An Archaeological Thriller</a></td> 
+<td>Brown, Shane M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GPULOIG">Pope Francis</a></td> 
+<td>Ruszala, Michael J. ,  North, Wyatt</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004YX7MLO">Post-Apocalyptic Nomadic Warriors</a></td> 
+<td>Wallace, Benjamin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008QGUHAI">Preach My Gospel: A Guide to Missionary Service</a></td> 
+<td>Saints, Church of Jesus Christ of Latter-day</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B019JCOLB8">Prelude to Dystopia</a></td> 
+<td>Lyman, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B016SEPGY6">Pressure Suite: Digital Science Fiction Anthology</a></td> 
+<td>Quinn, Matthew W. ,  Eakin, William R. ,  Campbell, Laura J. ,  Murphy, David ,  Aisteach, Kyle ,  Glass, James C. ,  McGeever, Fox ,  O'Connor, Kate ,  Palmer, Jason ,  Fiction, Digital</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BUT3II6">Primal Shift: Part 1: A Post Apocalyptic Thriller</a></td> 
+<td>Hayes, Griffin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TWPBL3O">Professor Birdsong's 147 Dumbest Criminal Stories: Florida</a></td> 
+<td>Birdsong, Leonard</td> 
+<td>k364</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018UXGUW0">Project - 16</a></td> 
+<td>Pass, Martyn J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8X604A">Project management: the start of the project journey</a></td> 
+<td>The Open University</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AGNP82G">Project Neptune</a></td> 
+<td>Schafer, Sean</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GW4QLF6">Prophecy's Ruin</a></td> 
+<td>Bowring, Sam</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0073UPQQS">Prophet</a></td> 
+<td>Larson, R. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013L09EC0">Python Programming: Learn Python Today! - Coding & Programming For Beginners</a></td> 
+<td>Adams, Mark</td> 
+<td>k4</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00F6643SI">Quantum Entanglement</a></td> 
+<td>Hill, Liesel K.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00W0EQCC4">Quick Easy Recipes: 5 Ingredient Cookbook: Easy Recipes in 5 or Less Ingredients</a></td> 
+<td>Scott, Hannie P.</td> 
+<td>k641</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HIHMYWK">Quran: A Simple English Translation</a></td> 
+<td>Khan, Maulana Wahiduddin ,  Goodword</td> 
+<td>k297</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0121JTRG0">Radio Sphere</a></td> 
+<td>terSteeg, Devin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00M8O7V80">Raspberries and Vinegar</a></td> 
+<td>Comer, Valerie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D3MSDSS">Ravage: An Apocalyptic Horror Novel</a></td> 
+<td>Wright, Iain Rob</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CL0UQ5G">Reader</a></td> 
+<td>Stebbins, Erec</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00695MXXM">Realms Unreel</a></td> 
+<td>Auden, Audrey</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00990ITQY">Reclaiming Socialism, or: Economic Democracy</a></td> 
+<td>Rush, Brian</td> 
+<td>k335</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01E7EECOE">Recoil</a></td> 
+<td>Macgregor, Joanne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B017TRSD46">Red Dot: Contact. Will the gravest threat come from closer to home than we expect?</a></td> 
+<td>Linn, Eugene</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005N4O5Q8">Reimagining Church: Pursuing the Dream of Organic Christianity</a></td> 
+<td>Viola, Frank</td> 
+<td>k262</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OHZYWL2">Reinventing the Liberal Arts: College in One Year for $5</a></td> 
+<td>Newport, Tuck</td> 
+<td>k370</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008FK4D2I">Relentless</a></td> 
+<td>O'Dwyer, P. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00Z96Q9U0">Relics: One: Relics Singularity Series Book 1</a></td> 
+<td>Thacker, Nick</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Resource revolution: how to capture the biggest business opportunity in a century</a></td> 
+<td>Heck, Stefan ,  Rogers, Matt ,  Carroll, Paul</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00C8VWE9O">Retribution</a></td> 
+<td>McMeins, Eric</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PQRJJY0">Rise of the Dragons</a></td> 
+<td>Rice, Morgan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00T0HCQVU">Rise Of The Six</a></td> 
+<td>Ryan, Matt</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001E0HN46">Robert's Rules of Order Newly Revised in Brief</a></td> 
+<td> </td> 
+<td>k060</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00WT6PE04">ROME : Ancient Rome: Roman History and The Roman Empire</a></td> 
+<td>Jackson, Roy</td> 
+<td>k930</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003V1WSTQ">Roseannearchy: Dispatches from the Nut Farm</a></td> 
+<td>Barr, Roseanne</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FVCV7K4">Sagebrush</a></td> 
+<td>Dicksion, William Wayne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BQO25SY">Sailor of the Skysea</a></td> 
+<td>Crawford, A. C. F.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0027KRPHM">Sams Teach Yourself Regular Expressions in 10 Minutes</a></td> 
+<td>Forta, Ben</td> 
+<td>k005</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Sapiens</a></td> 
+<td>Harari, Yuval Noah</td> 
+<td>k909</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B9L2B56">Sapphire Universe</a></td> 
+<td>Herrera, Devon</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BO45BQI">Scalp Dance</a></td> 
+<td>Clifton, Lu</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N8OZK8I">SCAVENGERS: A Porter Rockwell Adventure</a></td> 
+<td>West, David J.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00P2L20NM">Seabound</a></td> 
+<td>Rivet, Jordan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B097WL1N1Z">Secrets to Early Retirement Planning That Generation X Never Learned: A 5 Step-System for Worry-Free Life</a></td> 
+<td>Lu, Heath</td> 
+<td>k331</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005K4W0QS">SECTOR C</a></td> 
+<td>Sullivan, Phoenix</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00RDGG30U">Seeker's Call</a></td> 
+<td>Boyson, Cassandra</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M291J1U">Seer of Souls</a></td> 
+<td>Faw, Susan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00390BDZE">Servants of the People: The Inside Story of New Labour</a></td> 
+<td>Rawnsley, Andrew</td> 
+<td>k320</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B017TCUYHA">Seven Will Out: A Renaissance Revel</a></td> 
+<td>Spears, JoAnn</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008FVC7PC">Shadow of Oz</a></td> 
+<td>Damon, Nick</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JEP2GBI">Shadowline Drift</a></td> 
+<td>Razevich, Alexes</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=_rw_ca_1">Shaman, Healer, Heretic: An Urban Fantasy Thriller</a></td> 
+<td>Green, M. Terry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B095B2F4MW">She Thinks Like a Boss</a></td> 
+<td>Jemma Roedel</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018MXCARW">Shipping Container Homes</a></td> 
+<td>Miller, Evan</td> 
+<td>k690</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01FPLXXLG">Shot All to Hell: Bad Ass Outlaws, Gunfighters, and Law Men of the Old West</a></td> 
+<td>Vulich, Nick ,  history-blogger</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004S7F3DU">Siege of Titan</a></td> 
+<td>Thomas, Michael G.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00XQ8F4GS">Sifting Through Static</a></td> 
+<td>Elliott, Ben Tyler</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009FKUGDW">Simple Living - 30 days to less stuff and more life</a></td> 
+<td>Lippincott, Lorilee</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M4S1XW3">Six-Gun Serenade: A Porter Rockwell Adventure</a></td> 
+<td>West, David J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NVKD9OU">Sixth Cycle</a></td> 
+<td>Wearmouth, Darren ,  Sinclair, Carl</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EXV57LO">Sky Hunter</a></td> 
+<td>Reher, Chris</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B078Q8NLW5">Socrates and the Councillor</a></td> 
+<td>Fay, Thomas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FV8LPCI">Song and Signal</a></td> 
+<td>Patterson, M. E.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A8V6DL6">Song of the Mountain</a></td> 
+<td>Isenhoff, Michelle</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004FPYKX4">Souls in Transition: The Religious and Spiritual Lives of Emerging Adults</a></td> 
+<td>Smith, Christian ,  Snell, Patricia</td> 
+<td>k200</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009XZXW2Q">Sovereign</a></td> 
+<td>Arroyo, E. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=1471652262">Spacegate: Deep Space Catastrophe</a></td> 
+<td>Kuijpers, Elaina Keighley</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07JL5XPQT">Spark of imagination</a></td> 
+<td>Lindblom, Tony</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B1WOYY4">Speak Swahili, Dammit!: A tragic, funny African childhood</a></td> 
+<td>Penhaligon, James</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004EPYUXA">Spinward Fringe Broadcast 0: Origins</a></td> 
+<td>Lalonde, Randolph</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01H7J5Z38">Star Rebels: Stories of Space Exploration, Alien Races, and Adventure</a></td> 
+<td>Faye, Audrey ,  Gockel, C. ,  Pope, Christine ,  Sharp, Anthea ,  Dunbar, D. L. ,  DaCosta, Pippa ,  Buroker, Lindsay ,  Jansen, Patty ,  Wells, James R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01C9AKYT0">Star Shroud</a></td> 
+<td>Lozito, Ken</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BJ6EWQQ">Starbound: Eleven Tales of Interstellar Adventure</a></td> 
+<td>Reine, S. M. ,  Pope, Christine ,  Sharp, Anthea ,  Lowell, Nathan ,  Dunbar, Debra ,  Faye, Audrey ,  Gockel, C. ,  Weldon, Phaedra M. ,  Cohen, L. J. ,  Madison, Shawntelle ,  Vanderlinden, Colleen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DHKEUXM">Steampunk Fairy Tales</a></td> 
+<td>Anderson, Leslie ,  Lind, Daniel ,  Castillo, Angela ,  Capes, Ashley ,  Champe, Chris ,  Latzko, Allison ,  White, Heather ,  Allen, David T.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06Y2THJY5">Stoicism: Introduction to The Stoic Way of Life</a></td> 
+<td>James, Ryan</td> 
+<td>k188</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M73AR2B">Stone Song: A Novel of the Life of Crazy Horse</a></td> 
+<td>Blevins, Win</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EQEF2LI">Stones: Data</a></td> 
+<td>Whaler, Jacob</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01NA0CFYQ">Strange Tales of Scotland</a></td> 
+<td>Strange, Jack</td> 
+<td>k941</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01EGM1PTW">Survival: After It Happened Book 1</a></td> 
+<td>Ford, Devon C. ,  Design, Book Cover by</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004QTORAA">Symbiosis</a></td> 
+<td>Moan, Lee</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CKWNQKC">Taking Ivy Seriously</a></td> 
+<td>Brozik, Matthew David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D0CISY0">Talisman of Ictis</a></td> 
+<td>Moore, Michael</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NEB6LPK">Talwan's Vengeance</a></td> 
+<td>Newman, Christy ,  Newman, Sarah</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0096DIIHE">Tao Te Ching Lao Tzu A Translation: An Ancient Philosophy For The Modern World</a></td> 
+<td>Waller, Dennis</td> 
+<td>k299</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TM7MR30">Teacher: A Woman's True Adventure Living and Working on a Remote Canadian First Nations Reserve</a></td> 
+<td>Phillips, Hillary</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01NCXF8JC">Teaching College: The Ultimate Guide to Lecturing, Presenting, and Engaging Students</a></td> 
+<td>Eng, Norman</td> 
+<td>k374</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00UNZQWDQ">Temple of the Winds</a></td> 
+<td>Goodkind, Terry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00RAWMJ1E">Tents, Tortoises, and Tailgates: My Life as a Wildlife Biologist</a></td> 
+<td>Lillie, Scott</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=testaisn">test title</a></td> 
+<td>test author</td> 
+<td>k002</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004Q3RME4">Thaw</a></td> 
+<td>Dunn, Bryan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The 24-hour customer: new rules for winning in a time-starved, always-connected economy</a></td> 
+<td>Ott, Adrian C</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0096QYCJY">The 5th Amulet</a></td> 
+<td>Hailey, S. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Academic Book of the Future</a></td> 
+<td> </td> 
+<td>k2</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004UJISMY">The Adventures of Huckleberry Finn Tom Sawyer's Comrade</a></td> 
+<td>Twain, Mark</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01JMS9CA4">The After War: The Complete Series</a></td> 
+<td>Zenner, Brandon</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00K5EBFB4">The Age of Innocence</a></td> 
+<td>Wharton, Edith</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GT5N8VI">The Alignment</a></td> 
+<td>Camden, Kay</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010KWD8OC">The Alpha Plague: A Post-Apocalyptic Action Thriller</a></td> 
+<td>Robertson, Michael</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00W2AQ1KO">The Amber Project: A Dystopian Sci-fi Novel</a></td> 
+<td>Chaney, J. N.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CBX00MM">The Amish of Lancaster County</a></td> 
+<td>Kraybill, Donald B. ,  Rodriguez, Dr Daniel</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B002YX0NIU">The Ancient Lands: Warrior Quest: Search for the Ifa Scepter</a></td> 
+<td>McCammon, Jason ,  Alleyne, Shawn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CK1271C">The Arkansas River</a></td> 
+<td>Sherman, Jory</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00C1T79DE">The Art of War</a></td> 
+<td>Tzu, Sun</td> 
+<td>k355</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World's Most Precious Manuscripts</a></td> 
+<td>Hammer, Joshua</td> 
+<td>k020</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BP1ZKJ4">The Bane</a></td> 
+<td>Taylor, Keary</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B4I8BX0">The Beauty of Simplicity: A Photobook of Inspiration</a></td> 
+<td>Janes, Faith</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00MOURK0W">The Beginning at the End of the World: A Post-Apocalyptic, Dystopian Series</a></td> 
+<td>Lamb, Lynn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01CCPAITI">The Big Bhang</a></td> 
+<td>Hill, Travis</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06XTXY8ZQ">The Black Heart of the Station</a></td> 
+<td>Jay Allan Storey</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00905U2VS">The Black Pearl of Osis</a></td> 
+<td>McCarthy, Ingrid ,  Szyc, Tom</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006O9OJ6M">The Book of Creation</a></td> 
+<td>Braun, Evan ,  Byars, Clint M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LWY9HU4">The Border Legion</a></td> 
+<td>Grey, Zane</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KKZUF5A">The Borderlands (Book One): Journey</a></td> 
+<td>Wood, Aderyn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00E9YL3HM">The Breakers Series: Books 1-3</a></td> 
+<td>Robertson, Edward W.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008RH5MFQ">The Breeders:</a></td> 
+<td>French, Katie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IL4EWQ0">The Burning Season: The Murder of Chico Mendes and the Fight for the Amazon Rain Forest</a></td> 
+<td>Revkin, Andrew</td> 
+<td>k333</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HG0B07Y">The Calypsis Project</a></td> 
+<td>Willows, Brittany M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D3DDNJQ">The Candidate's Daughter</a></td> 
+<td>Lea, Catherine</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JDNAQ36">The Cargo Ship Diaries: 44 months, 37 countries, 0 flights</a></td> 
+<td>Doherty, Niall</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B006ZTBJDM">The Cat Manual</a></td> 
+<td>Taylor, Michael Ray</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013Y6P268">The Cathedral of Cliffdale</a></td> 
+<td>Delport, Melissa</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009N83PSO">The Chaos Protocol</a></td> 
+<td>McKibben, Nancy ,  Theodore, Jim</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H06NGFS">The China Pandemic: A Post Apocalyptic Medical Thriller</a></td> 
+<td>Shaw, A. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B088SJCN1P">The chiral agent</a></td> 
+<td>Richman, L.L.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B5J4RB8">The Choice (Lancaster County Secrets Book #1): A Novel</a></td> 
+<td>Fisher, Suzanne Woods</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OPBURQC">The City of Wizards</a></td> 
+<td>Mazurek, George</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013NO6S4Q">The Complete Guide to House Sitting</a></td> 
+<td>Rivers, Nik</td> 
+<td>k640</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DE645W0">The Complete Tales and Poems of Edgar Allan Poe</a></td> 
+<td>Poe, Edgar Allan</td> 
+<td>k811</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CA5VVC4">The Complete Wizard of Oz Collection</a></td> 
+<td>Baum, L. Frank</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LYBEBM6">The Complete Works of Charles Dickens</a></td> 
+<td>Dickens, Charles</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B95YRQ8">The Covert Academy</a></td> 
+<td>Laurent, Peter</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The creator's code: the six essential skills of extraordinary entrepreneurs</a></td> 
+<td>Wilkinson, Amy</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00O705KD6">The Creator's Eye: Mover of Fate, Part I</a></td> 
+<td>Feldman, R. N.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00OZ02ONC">The Dalai Lama: A Life Inspired</a></td> 
+<td>Hamilton, Lynn M. ,  North, Wyatt</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001LRQKA0">The Dawning of Power: Young Adult Epic Fantasy Bundle</a></td> 
+<td>Rathbone, Brian ,  Brooker, Mike</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LVXG3RU">The Decadia Code</a></td> 
+<td>Yanez, Jonathan ,  Baker, Apryl</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BW3AY64">The Divergent Series Complete Collection: Divergent, Insurgent, Allegiant</a></td> 
+<td>Roth, Veronica</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018Y063XA">The Dolan Girls</a></td> 
+<td>Mallery, S. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B4CPY0Y">The Dragon Egg Curse</a></td> 
+<td>Milton, Craig</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007P02OHU">The Dragon Gem</a></td> 
+<td>Beam, Brian</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00MRGW1TI">The Dragon Ring</a></td> 
+<td>Coleman, C. Craig ,  Carlos, Rob ,  Frade, Antonio</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0131UEFOM">The Dragon Stone Trilogy: The Complete Box Set: Dragon Stones, Return of the Dragon Riders, Vosper's Revenge</a></td> 
+<td>Alva, Kristian</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The e factor: engage, energize, enrich : 3 steps to vibrant health</a></td> 
+<td>Robin, Michelle</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N38JOMO">The Early Church: From Ignatius to Augustine</a></td> 
+<td>Hodges, George</td> 
+<td>k270</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004HB1VUG">The Egg Said Nothing</a></td> 
+<td>O'Malley, Caris</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0084KT0WM">The Eighties: A Bitchen Time To Be a Teenager!</a></td> 
+<td>Harvey, Tom</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A1QP6AC">The Elsbeck Chronicles: Wicked Roots</a></td> 
+<td>Gaddy, Alex ,  Roark, Aaron</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CLI2XB8">The Emerald Rider</a></td> 
+<td>Mathias, M. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The end of the party: [the rise anf fall of New Labour]</a></td> 
+<td>Rawnsley, Andrew</td> 
+<td>k324</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004CFAP22">The Enemy of an Enemy</a></td> 
+<td>Trigili, Vincent</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0082YI9PY">The English Constitution</a></td> 
+<td>Bagehot, Walter</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The evolution of everything: how new ideas emerge</a></td> 
+<td>Ridley, Matt</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01GEPUG5S">The Extinction Switch</a></td> 
+<td>Broderick, Andrew</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07BZ5MJG1">The father unbound</a></td> 
+<td>Frank Kennedy</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009QA3GS8">The Federalist Papers</a></td> 
+<td>Hamilton, Alexander ,  Madison, James ,  Jay, John</td> 
+<td>k342</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TM5IWBS">The Fifth Floor</a></td> 
+<td>Oleszek, Julie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MR70YEV">The Fighting Blacksmith</a></td> 
+<td>Bounds, S. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07LD73841">The Final Wars Begin</a></td> 
+<td>S. A. Asthana</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0052F4GLW">The Final Winter: An Apocalyptic Horror Novel</a></td> 
+<td>Wright, Iain Rob</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003YUCBTG">The First Dragoneer</a></td> 
+<td>Mathias, M. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009DS4DB2">The First Pharaoh</a></td> 
+<td>Picker, Lester</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Flight of the Griffin</a></td> 
+<td>Gray, C. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01HHRF15M">The Footsteps of Cain</a></td> 
+<td>Kohlhagen, Derek</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00891M3WA">The Forbidden Religion</a></td> 
+<td>Aragon, Jose M. Herrou</td> 
+<td>k273</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00COPUVJY">The Forever Gate Series: Books 1-5</a></td> 
+<td>Hooke, Isaac</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B002M41TUM">The Future of Faith</a></td> 
+<td>Cox, Harvey</td> 
+<td>k270</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00V5JF4GA">The Glass Gargoyle</a></td> 
+<td>Andreas, Marie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0078T0DWQ">The God Virus</a></td> 
+<td>Coryell, Skip</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07B4QFZZL">The Golden Rule - Pathways to peace</a></td> 
+<td>Media, J. Horsfield @ Hearts Minds ,  HORSFIELD, J.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005E4I09K">The Guardian</a></td> 
+<td>Klein, Katie</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EBWRSNK">The Harvest of Area 51</a></td> 
+<td>Stephens, Elijah</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B077J7X6H7">The heirs of earth</a></td> 
+<td>Arenson, Daniel</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B017BT3KRC">The Hermit and the Wild Woman, and Other Stories</a></td> 
+<td>Wharton, Edith</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CB3SIAI">The High Frontier: Human Colonies In Space</a></td> 
+<td>O'Neill, Gerard ,  Davis, Donald ,  Rawlings, Pat ,  Sullivan, Kathy</td> 
+<td>k527</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BKT6KQI">The High-Wizard's Hunt</a></td> 
+<td>Jr, Jack D. Albrecht ,  Delay, Ashley</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001EOCFU4">The Holy Bible, English Standard Version</a></td> 
+<td> </td> 
+<td>k220</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B071HF9C9M">The Homemade Housewife: The last book you will ever need on homemaking and frugal living</a></td> 
+<td>Singh, Kate</td> 
+<td>k648</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N2W9LGX">The House of Mirth</a></td> 
+<td>Wharton, Edith</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Human Chronicles Saga (Books One & Two)</a></td> 
+<td>Harris, T.R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008LMT78U">The Illegal Gardener</a></td> 
+<td>Alexi, Sara</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0064DFST0">The Illustrated Encyclopedia of Country Living</a></td> 
+<td>Gehring, Abigail R.</td> 
+<td>k640</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0097E2O2C">The Illustrious Venom</a></td> 
+<td>Moore, P. S.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01FK2YPJO">The Impact of the Human Stress Response: The Biologic Origins of Human Stress</a></td> 
+<td>Wingo, Mary</td> 
+<td>k155</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001WAKABG">The International Space Station</a></td> 
+<td>Catchpole, John E.</td> 
+<td>k629</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Island: A Dystopian Novella</a></td> 
+<td>Minkman, Jen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00D62QEXQ">The Jäger Journal</a></td> 
+<td>Anderson, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0047DX080">The Jakarta Pandemic: A Post Apocalyptic/Dystopian Thriller</a></td> 
+<td>Konkoly, Steven</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ATINK7I">The Jefferson Bible</a></td> 
+<td>Jefferson, Thomas</td> 
+<td>k226</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005JU9BWY">THE JESUIT PAPERS</a></td> 
+<td>Fowler, A. B.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007HLYJI4">The Jesus Life: Eight Ways to Recover Authentic Christianity</a></td> 
+<td>Smith, Stephen W.</td> 
+<td>k248</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N3MYMZL">The Journals of Raymond Brooks</a></td> 
+<td>Bobrov, Amit ,  Koresh, Omri</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005792XC2">The Journey in Between: Thru-Hiking Solo on the Camino to Santiago</a></td> 
+<td>Foskett, Keith</td> 
+<td>k914</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ZSWKG0">The Keeper and the Rune Stone</a></td> 
+<td>Pendleton, Paige W. ,  Block, Thomas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DRLDRPY">The Key of Creation</a></td> 
+<td>Voss, A. R. ,  Bushnell, M. D.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01ARAG0LU">The Kid</a></td> 
+<td>Reed, N. C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01F3TZ25U">The Killing Jar</a></td> 
+<td>McCoy, R. S.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01JJYU1G0">The Killing of Sam Luke</a></td> 
+<td>Dixon, Anthony L.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IGJ1KDS">The King's Cavalry</a></td> 
+<td>Bannister, Paul</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005S2D9NA">The King's Legacy: A Story of Wisdom for the Ages</a></td> 
+<td>Stovall, Jim</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005CDZG2M">The Kingdom of God Is Within You</a></td> 
+<td>Tolstoy, Leo</td> 
+<td>k230</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00792I2VG">The Kingdom of Numidia</a></td> 
+<td>Idjennaden, Bob</td> 
+<td>k960</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B2IRHKA">The Kingdom of Rarities</a></td> 
+<td>Dinerstein, Eric</td> 
+<td>k596</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010RF882O">The Lafayette Campaign: a Tale of Deception and Elections</a></td> 
+<td>Updegrove, Andrew</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0087458M6">The Lance</a></td> 
+<td>Lukeman, Alex</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B013TDU22K">The Last Airship</a></td> 
+<td>Cartwright, Christopher</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007EDIAY4">The Last Englishman: A Thru-Hiking Adventure on the Pacific Crest Trail</a></td> 
+<td>Foskett, Keith</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EEIGHDI">The Last Firewall</a></td> 
+<td>Hertling, William</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B016VAQVXM">The Last Librarian: An AOI Thriller</a></td> 
+<td>Legg, Brandt</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009XOPYV4">The Last of the Sages</a></td> 
+<td>Clair, Julius St</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00G3LC1LG">The Last Oracle: The White Mage Saga #1</a></td> 
+<td>Hale, Ben</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=615858082">The Last Overseer</a></td> 
+<td>Troia, Anton</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BKBCL1Y">The Last Shaman</a></td> 
+<td>Mayes, D. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00O2PB03U">The Last Survivors</a></td> 
+<td>Adair, Bobby ,  Piperbrook, T. W.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0086X1HKU">The Last Volunteer</a></td> 
+<td>Wetherell, Steven</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KSOPT2M">The Liberation of Ravenna Morton</a></td> 
+<td>Jenkins, Suzanne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ZRSDEE4">The Librarian: A First Contact Story</a></td> 
+<td>Arzu, M. N.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ESVQHQ8">The Life and Prayers of Saint Benedict</a></td> 
+<td>North, Wyatt</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004TW1YY6">The Life of the Cosmos</a></td> 
+<td>Smolin, Lee</td> 
+<td>k523</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GQZD1JA">The Light and The Glass</a></td> 
+<td>Diack, Michael</td> 
+<td>k242</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005UFURVW">The Light Of Eidon</a></td> 
+<td>Hancock, Karen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0041T4FA2">The Lost Ark</a></td> 
+<td>Rain, J. R.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005LO6K54">The Lost Journal of Private Kenji Yoshida: A Secret Apocalypse Story</a></td> 
+<td>Harden, James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EZIAW38">The Lost Romans</a></td> 
+<td>Davidescu, Mircea</td> 
+<td>k930</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B019BY9M0E">The Lost Sons of Asgard</a></td> 
+<td>Brodin, Erik</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005ZTMJ2S">The Loyal Servant: A Very British Political Thriller</a></td> 
+<td>Hudson, Eva</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00CJCUCTG">The Magic Shop -</a></td> 
+<td>Swapp, Justin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01C2334GO">The Maiden Voyage of the Destiny Unknown</a></td> 
+<td>Ponticello, Nicholas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H1RMZOY">The Materialistic World</a></td> 
+<td>Scott, Grace</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The media training bible: 101 things you absolutely, positively need to know before your next interview</a></td> 
+<td>Phillips, Brad</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005BOXJ5S">The Meeting Place</a></td> 
+<td>Oke, Janette ,  Bunn, T. Davis</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DFBBBXK">The Melding of Aeris</a></td> 
+<td>Peach, D. Wallace</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IV3836G">The Message: The Bible in Contemporary Language</a></td> 
+<td> </td> 
+<td>k220</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007ZJL4TK">The Messiah Matrix</a></td> 
+<td>Atchity, Kenneth John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D8REDQ8">The Middle Ages: A History From Beginning to End</a></td> 
+<td>History, Hourly</td> 
+<td>k909</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01M1LE52M">The Mindful Walker: Rediscovering the Simple Path to a Healthier, Happier, More Peaceful Life</a></td> 
+<td>Strauss, Alex</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=-kindle-redirect">The Mindful Way To Study</a></td> 
+<td>Gibbs, Jake J. ,  Gibbs, Roddy O.</td> 
+<td>k153</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0078S9B6G">The Mine</a></td> 
+<td>Heldt, John A.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005NE552G">The Monarchy and the Constitution</a></td> 
+<td>Bogdanor, Vernon</td> 
+<td>k321</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008FJV8SQ">The Moon Dwellers</a></td> 
+<td>Estes, David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005465JCO">The Mystic Travelogues</a></td> 
+<td>Nusbaum, J. C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07HYL2C54">The natural history of eastern Massachusetts</a></td> 
+<td>Freeman, Stan</td> 
+<td>k508</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004TS08JM">The Naturalist on the River Amazons</a></td> 
+<td>Bates, Henry Walter</td> 
+<td>k574</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The new rules of lead generation: proven strategies to maximize marketing ROI</a></td> 
+<td>Scott, David T.</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00QW8ZBFI">The Night Before Christmas: The Classic Account of the Visit from St. Nicholas</a></td> 
+<td>Moore, Clement C.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004WDRWXY">The Nuclear Catastrophe</a></td> 
+<td>Billig, Barbara C. Griffin ,  Pohnka, Bett</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ZVFDBG">The Object: Book One</a></td> 
+<td>Emerson, Winston ,  Comley, Justin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008G32CL8">The Octagon Key</a></td> 
+<td>Kerley, Brian ,  Kerley, Brandi ,  Coleman, Stefan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00J5T2BJA">The Order of Ascalon</a></td> 
+<td>Franks, Daniel J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004D9FVTE">The Osiris Invasion</a></td> 
+<td>Spackman, Anne</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009D2PNIU">The Path of the Fallen</a></td> 
+<td>O'Brien, Dan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005NGKA2O">The Peacekeepers. Books 1 - 3.</a></td> 
+<td>Sides, Ricky</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003B02O0U">The Pelican Brief: A Novel</a></td> 
+<td>Grisham, John</td> 
+<td>kr813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GA2WKR8">The Penkeepers</a></td> 
+<td>Hartley, Taylor</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0140NPMZU">The Phantom of the Earth: An Epic Sci-Fi Saga, Books 1-5</a></td> 
+<td>Zen, Raeden</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01GMVWMY2">The Pharos Objective: The Morpheus Initiative: Book 1</a></td> 
+<td>Sakmyster, David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005GHQ9IY">The Phoenix Conspiracy</a></td> 
+<td>Sanders, Richard</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01EK69ARS">The Pilgrim's Progress</a></td> 
+<td>Bunyan, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Priest to the Altar: Or Aids to the Devout Celebration of Holy Communion Chiefly After the Ancient English Use of Sarum</a></td> 
+<td>Medd, Peter Goldsmith</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00UPFOQT6">The Prophecy</a></td> 
+<td>Simon, Shane P.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004LB4TL0">The Prophecy</a></td> 
+<td>Poole, Jeffrey</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0059Y4QNO">The Protocol</a></td> 
+<td>Kennedy, J. Robert</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DQCP1J4">The Purging</a></td> 
+<td>Bosgoed, Reed</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0084AOTM8">The Quest of the Simple Life</a></td> 
+<td>Dawson, William J.</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HLWOVD2">The Rain</a></td> 
+<td>Turkot, Joseph</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00ABM3WCK">The Raven Son</a></td> 
+<td>Barnes, A. E.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009QOFF3I">The Raven's Seal</a></td> 
+<td>Baltakmens, Andrei</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005C5Z31Y">THE RECKONING: A Jess Williams Western</a></td> 
+<td>Thomas, Robert J. ,  Gunia, Barb ,  Hile, Dave</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00E806COG">The Reclaiming</a></td> 
+<td>McNally, S. Matthew</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0094UT5TY">The Red Light</a></td> 
+<td>Parker, Ian</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NMVLLMA">The Rest Falls Away: Victoria Book 1</a></td> 
+<td>Gleason, Colleen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06XC6GQFQ">The Restaurant Managers’ and Waiters’ Guide Book: How to be a Great Server, Handle Difficult Customers, Earn Big Tips & Keep Your Sanity!</a></td> 
+<td>Caldwell, James ,  Caldwell, Partrick ,  Rathke, Michael</td> 
+<td>k642</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01JVN9LCY">The Retreat</a></td> 
+<td>Clare, Kelly St</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003BLPH6C">The River</a></td> 
+<td>Tardif, Cheryl Kaye</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B000Q9ITGW">The River of Doubt: Theodore Roosevelt's Darkest Journey</a></td> 
+<td>Millard, Candice</td> 
+<td>k918</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Ruins of Mars</a></td> 
+<td>Quarles, Dylan James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Ruins of Mars: Eye of the Apocalypse</a></td> 
+<td>Quarles, Dylan James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Ruins of Mars: Waking Titan</a></td> 
+<td>Quarles, Dylan James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FEG3LSI">The Saffron Falcon: Transition Magic Book Two</a></td> 
+<td>Hopkins, J. E.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FEG3LSI">The Saffron Falcon: Transition Magic Book Two</a></td> 
+<td>Hopkins, J. E.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01E0DMKMI">The Sam Reilly Collection</a></td> 
+<td>Cartwright, Christopher</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004I8WNR8">The Secret Apocalypse</a></td> 
+<td>Harden, James</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007IWDCK8">The Secret Portal</a></td> 
+<td>Charlton, Reno</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07DLPHTLT">The Seeds of Akara</a></td> 
+<td>LaPiana, David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EUBAVE0">The Serpent's Disciple</a></td> 
+<td>Stevens, Deborah</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004SIR2E2">The Seventh Mountain</a></td> 
+<td>Curtis, Gene</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DX7RBF4">The Shadow Cabinet</a></td> 
+<td>Marshall, Harol</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JNM7HT8">The Shadow Chaser</a></td> 
+<td>Birtolo, Dylan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01LZAMT4W">The Sheriff of Elk Ridge</a></td> 
+<td>Macrae, Mason</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00NK6NZ4Y">The Signal</a></td> 
+<td>Sneeden, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003HOXLHA">The Simple Dollar: How One Man Wiped Out His Debts and Achieved the Life of His Dreams</a></td> 
+<td>Hamm, Trent A.</td> 
+<td>k332</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A2H0ETI">The Simple Joy of Thanksgiving: Celebrating a Holiday Low on Stress ,  High on Joy</a></td> 
+<td>Duckworth, Jean Ann</td> 
+<td>k390</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PQT7XT6">The Singularity: Heretic:</a></td> 
+<td>Beers, David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00KK5IPN4">The Six and the Crystals of Ialana</a></td> 
+<td>Brooke, Katlynn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=_rw_ca_1">The Sixth Extinction: An Apocalyptic Tale of Survival.</a></td> 
+<td>Johnson, Glen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01HN4YERU">The Solitude of the Open Sea</a></td> 
+<td>Smith, Gregory Newell</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005RR2UI6">The Sorcerer's Ascension: Book 1 of The Sorcerer's Path</a></td> 
+<td>Deskins, Brock</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00HB8TGVS">The Sorcery Code</a></td> 
+<td>Zales, Dima</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007IUNEBM">The Spirit Keeper</a></td> 
+<td>Garrett, Melissa Luznicky</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=1463505485">The Spirit of the Moon: Sovereign Creek Series</a></td> 
+<td>Boman, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MS3RCE0">The Sun God's Heir: Return Book One</a></td> 
+<td>Baker, Elliott</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B018UR2RXC">The Supernatural Bounty Hunter Files: Special Edition Fantasy Bundle, Books 1 thru 5</a></td> 
+<td>Halloran, Craig</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00433TBUU">The Templar Concordat</a></td> 
+<td>OBrien, Terrence</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B201YRY">The Tenant of Wildfell Hall: Filibooks Classics</a></td> 
+<td>Brontë, Anne</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LA7EMS8">The Tenth Chamber: A Thriller</a></td> 
+<td>Cooper, Glenn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EO3I4Q6">The Tenth Order</a></td> 
+<td>Widhalm, Nic</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00QW8ZBDU">The Terrifying Tales</a></td> 
+<td>Poe, Edgar Allan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A73AIMA">The Theory of the Leisure Class</a></td> 
+<td>Veblen, Thorstein</td> 
+<td>k305</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FD09LE8">The Third Heaven: The Rise of Fallen Stars</a></td> 
+<td>Neal, Donovan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004PGMXL4">The Third Man: Life at the Heart of New Labour</a></td> 
+<td>Mandelson, Peter</td> 
+<td>k324</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ED23PY">The Thousand Year Voyage</a></td> 
+<td>Harmon, Casey Sean</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EB09YJ8">The Time Traveler's Apprentice</a></td> 
+<td>Grant, Kelly ,  Park, Gail</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005QSFXC6">The Tower's Alchemist</a></td> 
+<td>Escobar, Alesha</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009I427LO">The Transformation of a Doubting Thomas: Growing from a Cynic to a Professional in the Corporate World</a></td> 
+<td>III, Thomas B. Dowd</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005Q22AI2">The Trilisk Ruins</a></td> 
+<td>McCloskey, Michael</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IUXCT9E">The Turnarounders and the Arbuckle Rescue</a></td> 
+<td>Heneghan, Lou</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H8CZD50">The Underworld King</a></td> 
+<td>More, Ranjit</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07TDMS5Z2">The Unitarian Universalist Pocket Guide: Sixth Edition</a></td> 
+<td>Frederick-Gray, Susan ,  Harris-Perry, Melissa</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004TPCQWC">The United States Constitution</a></td> 
+<td>States, United</td> 
+<td>k342</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007KWENFO">The Unknown Man: Book 1 in The Keepers of the Orbs Series</a></td> 
+<td>Gatewood, J. G.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A2XQWRU">The US Manufacturing Renaissance: How Shifting Global Economics Are Creating an American Comeback</a></td> 
+<td>Sirkin, Harold L. ,  Rose, Justin ,  Zinser, Michael</td> 
+<td>k338</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">The Void Succession: Battles Won</a></td> 
+<td>Miles, Ryan</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005JQ9D8A">The Wand-Maker's Debate</a></td> 
+<td>Jr, Jack D. Albrecht ,  Delay, Ashley</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B010MH9JYS">The Wandering King</a></td> 
+<td>Marte, Stephen</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00H7YVEGQ">The War Lords</a></td> 
+<td>Taylor, A. J. P.</td> 
+<td>k940</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0088Q0F5I">The War of the Worlds</a></td> 
+<td>Wells, H. G.</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B009ITV3VO">The Water Wars</a></td> 
+<td>Stracher, Cameron</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0058KS860">The Water-Babies</a></td> 
+<td>Kingsley, Charles ,  Smith, Jessie Willcox</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00GDSLXAY">The Way Home: Fantastic Stories of Love and Longing</a></td> 
+<td>March, Carol Holland</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003P2WO5E">The Way of Kings</a></td> 
+<td>Sanderson, Brandon</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VHBIIVE">The Wealth of Nations</a></td> 
+<td>Smith, Adam ,  Krueger, Alan B.</td> 
+<td>k330</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BC1H77A">The Web Startup Roadmap: Navigate Your Way to a Successful Online Business</a></td> 
+<td>Stonestreet, J. P.</td> 
+<td>k658</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01H4ULNOU">The Wild Country: A Wild Country Western</a></td> 
+<td>Underwood, Bobby</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00EJ3U8K6">The Witches of Merribay</a></td> 
+<td>Smash, B. J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005VRZXOA">The Wonderful Wizard of Oz</a></td> 
+<td>Baum, L. Frank</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BAVIQPE">The Wonderful Wizard of Oz</a></td> 
+<td>Baum, L. Frank</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004YQVLKO">The Working Chicken: Learn everything you need to know to become a backyard egg and meat producer in 30 minutes or less!</a></td> 
+<td>Hess, Anna</td> 
+<td>k636</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00W05CUO2">The World Almanac and Book of Facts 2016</a></td> 
+<td> </td> 
+<td>k310</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01B23U472">The Worm Returns</a></td> 
+<td>Rain, J. R. ,  Anthony, Piers</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0088K74SU">Their Greatest Hour: Rome, Carthage, and the Second Punic War</a></td> 
+<td>King, Charles R.</td> 
+<td>k930</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DO6ACV8">THEM Invasion: A Scratch Sullivan Paranormal Post-Apocalyptic Action Novel</a></td> 
+<td>Massey, M. D.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00QQP1TS0">Theodore Roosevelt: An Autobiography</a></td> 
+<td>Roosevelt, Theodore</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00BER04VI">There Will be Dragons</a></td> 
+<td>Ringo, John</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B003WMAANU">This World We Live In</a></td> 
+<td>Pfeffer, Susan Beth</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01GNF4FGK">Three Hours to Kaiping: The Misadventures of an Aussie in Rural China</a></td> 
+<td>Harvey, Rob</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00B3RM1EW">Thrown Away</a></td> 
+<td>James, Glynn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B07WF27W6N">Tier 1</a></td> 
+<td>Gunderson, Cindy</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00PJBSL74">Time Heist</a></td> 
+<td>Vicino, Anthony</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Time web tremors</a></td> 
+<td>Albert, Bill</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007EC5CTG">To Re-Enchant the World : A Philosophy of Unitarian Universalism</a></td> 
+<td>Grigg, Richard</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005AK1TK0">To The Stars</a></td> 
+<td>Stone, Thomas</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00FXJTV7Q">Today Is Too Late: A Dark Fantasy</a></td> 
+<td>Fitzpatrick, Burke</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01MU6JW7Q">Tom Sawyer Collection - All Four Books</a></td> 
+<td>Twain, Mark</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01EAC9XLU">Tornado Trail</a></td> 
+<td>Fearn, John Russell</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01E46YGAA">Town Without Law</a></td> 
+<td>Fearn, John Russell</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TVYUUE2">Trailer Life: True Tales of a 7 Year RV Adventure</a></td> 
+<td>Bunting, Karrie</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B008EAUYEA">Transformative Travel in Nepal: Fulfilling a Dream in the Himalayas</a></td> 
+<td>Benzin, Kate</td> 
+<td>k915</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00X7VNQ7S">Trash To Treasure (3rd Edition): 90 Crafts That Will Reuse Old Junk To Make New & Usable Treasures!</a></td> 
+<td>Moore, Kitty</td> 
+<td>k745</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01N4S4QWZ">Travelled Far: A Collection Of Hiking Adventures</a></td> 
+<td>Foskett, Keith</td> 
+<td>k920</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004XDBOJG">Treespeaker</a></td> 
+<td>Stewart, Katie W.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Turbulent Times Leadership for Sales Managers How the Very Best Boost Sales.</a></td> 
+<td> </td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0094GEGJ2">Twas The Night Before Christmas: Edited By Santa Claus for the Benefit of Children of the 21st Century</a></td> 
+<td>Claus, Santa ,  Almazova, Elena ,  Shvarov, Vitaly</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004GB1T6S">Tyger Tyger: A Goblin Wars Book</a></td> 
+<td>Hamilton, Kersten</td> 
+<td>kr813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A1SPDBM">Unabashedly Episcopalian: Proclaiming the Good News of the Episcopal Church</a></td> 
+<td>Doyle, Andrew</td> 
+<td>k283</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01DR2DN0G">Uncle Tom's Cabin</a></td> 
+<td>Stowe, Harriet Beecher</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B014N3KWJI">Under a Broken Sun</a></td> 
+<td>Sheridan, Kevin P.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01IDNR2HY">Under Heaven's Shining Stars</a></td> 
+<td>Grainger, Jean</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00TTB2XQU">Unscheduled Departure</a></td> 
+<td>Franklin, T. M.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00P2TDGGE">Until Morning Comes</a></td> 
+<td>Sawyer, J. T.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B001F5188C">Vatican Assassin</a></td> 
+<td>Luoma, Mike</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01HSX2Z2W">Vegetarian: The Vegetarian Slow Cooker Cookbook: 150 Unbeatably Tasty Recipes</a></td> 
+<td>Collis, Jackie</td> 
+<td>k641</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IICK9K8">Vertical Gardening: What You Need to Know to Grow Organic Vegetables and Fruits for Your Family</a></td> 
+<td>Grant, Brian</td> 
+<td>k630</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007PVCVFY">Village Books</a></td> 
+<td>McLay, Craig</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00AH3R0G2">Voluntary Simplicity: How to downsize, simplify, and retire early</a></td> 
+<td>Wonderful, Jessica</td> 
+<td>k178</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Walden, and On the duty of civil disobedience</a></td> 
+<td>Thoreau, Henry David</td> 
+<td>k818</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JCDK5ME">War and Peace: With bonus material from Give War and Peace A Chance by Andrew D. Kaufman</a></td> 
+<td>Tolstoy, Leo</td> 
+<td>k891</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01IX22VE4">Washington Square</a></td> 
+<td>James, Henry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B06Y3L3W84">Websites that Convert: The fundamentals of writing compelling website copy</a></td> 
+<td>Suellentrop, Claire</td> 
+<td>k4</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0153JRFZK">WEIRD. DARK. - Tales From The Outer Limits of The Twilight Zone</a></td> 
+<td>Smitherd, Luke</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B004OEKCVK">Welcome: A Unitarian Universalist Primer</a></td> 
+<td>Frevert, Patricia</td> 
+<td>k289</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Well of Furies</a></td> 
+<td>DeLancey</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007R8BHAK">What Is Data Science?</a></td> 
+<td>Loukides, Mike</td> 
+<td>k004</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005ISQ7JM">What Is HTML5?</a></td> 
+<td>McLaughlin, Brett</td> 
+<td>k005</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005MKZEJ0">What Would Satan Do?</a></td> 
+<td>Miller, Anthony</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00V96EEGK">Whatever Works: Feminists of Faith Speak</a></td> 
+<td>Wadud, Amina</td> 
+<td>k200</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00LZVRKL0">Where the Joys Are: Bertha's Guided Journal</a></td> 
+<td>Carroll, Jane ,  Dendy, Cynthia</td> 
+<td>k808</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0165QXD4M">Whispers Out Of The Dust: A Haunted Journey Through The Lost American West</a></td> 
+<td>West, David J.</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=_rw_ca_1">White Jade</a></td> 
+<td>Lukeman, Alex</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01D3SGLMG">Wicca: The Wicca for Beginners Guide to Practicing Wicca Spells, Rituals and Witchcraft</a></td> 
+<td>Farrell, Drea</td> 
+<td>k133</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00A7CTPNY">Wilderness Survival</a></td> 
+<td>Davenport, Gregory J.</td> 
+<td>k613</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00DCKE11E">Wind Warrior</a></td> 
+<td>Messenger, Jon</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B007B3XVLY">Windigo Soul</a></td> 
+<td>Brumm, Robert</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00433TO4I">Wizard's First Rule</a></td> 
+<td>Goodkind, Terry</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005FC52L0">Wool - Part One</a></td> 
+<td>Howey, Hugh</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Words = palabras.</a></td> 
+<td> </td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Work with me: the 8 blind spots between men and women in business</a></td> 
+<td>Annis, Barbara ,  Gray, John</td> 
+<td>k </td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B01BK5NO7E">World Heritage</a></td> 
+<td>The Open University</td> 
+<td>k910</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00VMPS2RA">Wreath, a Girl</a></td> 
+<td>Christie, Judy</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00JASCIB2">WWIV - In The Beginning</a></td> 
+<td>lake, e a ,  Photography, LLPix</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B002Y26QRS">Wysard: Part One of The Ryel Saga</a></td> 
+<td>Kephart, Carolyn</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B005REXCKE">Yesterday's Gone: Season One</a></td> 
+<td>Platt, Sean ,  Wright, David</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00QVHRMQG">Z-Minus: The Zombie Apocalypse Series</a></td> 
+<td>Briar, Perrin</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin= ">Zen : simplify life with Zen</a></td> 
+<td>Kato, John</td> 
+<td>k294</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B08MBD75JF">Recasting Islamic Law: Religion and the Nation State in Egyptian Constitution Making</a></td> 
+<td>Rachel M. Scott</td> 
+<td>k342</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B08F3SQXY2">Rhythms of the Afro-Atlantic World: Rituals and Remembrances</a></td> 
+<td>Ifeoma C Nwankwo (Editor), Mamadou Diouf (Editor</td> 
+<td>k780</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B00IA6R7CK">50 core American documents</a></td> 
+<td>n/a</td> 
+<td>k973</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0797TCF3F">Persuasion</a></td> 
+<td>Austen, Jane.</td> 
+<td>k823</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=B0833HHLDH">Sorcerer's Quest</a></td> 
+<td>Baldron, NAK</td> 
+<td>k813</td> 
+</tr> 
+<tr> 
+<td><a href="https://read.amazon.com/?asin=2018">The Last Guardians</a></td> 
+<td>Veira, R.S.</td> 
+<td>Mon 07/19/2021k</td> 
+</tr> 
+<tr> 
+<td><a href="https://zapier.com/blog/plain-text-files-for-productivity/">10 Plain Text Files You Should Have on Your Desktop for Higher Productivity</a></td> 
+<td></td> 
+<td>wn/a</td> 
+</tr> 
+<tr> 
+<td><a href="https://www.makeuseof.com/tag/simple-css-code-examples">10 Simple CSS Code Examples You Can Learn in 10 Minutes</a></td> 
+<td></td> 
+<td>w006</td> 
+</tr> 
+<tr> 
+<td><a href="https://getpocket.com/explore/item/10-simple-things-to-make-you-happier-at-home">10 Simple Things to Make You Happier At Home</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf">100 questions Unitarian Universalism</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href=" ">12 outstanding personality traits of a great boss</a></td> 
+<td></td> 
+<td>w650</td> 
+</tr> 
+<tr> 
+<td><a href=" ">12 rituals happy successful people practice every day</a></td> 
+<td></td> 
+<td>w152</td> 
+</tr> 
+<tr> 
+<td><a href="http://community.fortunecity.ws/roswell/vortex/401/library/365/365date.htm">365 Tao - Daily Meditations</a></td> 
+<td></td> 
+<td>w299</td> 
+</tr> 
+<tr> 
+<td><a href="https://www.amazon.com/Best-Sellers-Kindle-Store-Fantasy/zgbs/digital-text/158576011/ref=zg_bs?_encoding=UTF8">Amazon Fantasy bestsellers</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="http://theanglicanrosary.weebly.com">anglican rosary</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href=" ">Answers.com</a></td> 
+<td></td> 
+<td>w030</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.bobarcher.org/">Bob's Home Page</a></td> 
+<td></td> 
+<td>wn/a</td> 
+</tr> 
+<tr> 
+<td><a href="http://risacher.org/">Daniel Risacher</a></td> 
+<td></td> 
+<td>wn/a</td> 
+</tr> 
+<tr> 
+<td><a href="https://meadowsweet-myrrh.blogspot.com/2007/04/druid-rosary.html">druid rosary</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://www.freebooksy.com/">freebooksy</a></td> 
+<td></td> 
+<td>w002</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.hometemple.org">home temple</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://en.wikipedia.org/wiki/Hypsistarians">Hypsistarians</a></td> 
+<td></td> 
+<td>wn/a</td> 
+</tr> 
+<tr> 
+<td><a href="https://office.johannite.tech/">johannite office of the hours</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://www.berlinnh.gov/library">Library - City of Berlin NH</a></td> 
+<td></td> 
+<td>w020</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.paganbookofhours.org">Pagan book of hours</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://plaintextproject.online/tools.html">Plain Text Project</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://sacramentalwhine.libsyn.com/">sacramental whine</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://transcription.si.edu">smithsonian volunteer</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://www.instructables.com/Some-Cool-Batch-Applications">Some cool batch applications</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="http://www.stbedeproductions.com/breviary/mobile/index.php">St. Bede's Mobile Breviary</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://stsarahs.org">St. Sarahs</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://standardebooks.org">Standard Ebooks</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="http://www.survivalebooks.com/survivalfm3-0570.html">Survival Books</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://theweek.com/articles/983063/threat-civil-war-didnt-end-trump-presidency">The threat of civil war didn't end with the Trump presidency</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href=" ">The Unitarian Universalist Fellowship of Alexandria</a></td> 
+<td></td> 
+<td>w200</td> 
+</tr> 
+<tr> 
+<td><a href="http://pages.suddenlink.net/uufoa/index.htm">The Unitarian Universalist Fellowship of Alexandria</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://www.ucofu.org">Unitarian church of Underwood</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://justinleetyler.github.io/breviary.htm">uu breviary</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="https://www.youtube.com/c/HolyNicholeanCatholicChurch">youtube Holy Nicholean Catholic Church</a></td> 
+<td></td> 
+<td>w </td> 
+</tr> 
+<tr> 
+<td><a href="http://eddiejackson.net/web_documents/Batch2.pdf">Batch file programming</a></td> 
+<td></td> 
+<td>w004</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.survivalebooks.com/survivalfm3-0570.html">U.S. Army Field Manual 3-05.70</a></td> 
+<td></td> 
+<td>wn/a</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.justinleetyler.com/Beesley2018.pdf">The Official History of the Cabinet Secretaries</a></td> 
+<td></td> 
+<td>w352</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year">29 scientifically proven ways to be happy this year</a></td> 
+<td></td> 
+<td>w150</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.justinleetyler.com/aoda2016.pdf">The AODA new candidate guide</a></td> 
+<td></td> 
+<td>w299</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.justinleetyler.com/library/2100.txt">Building a digital library</a></td> 
+<td></td> 
+<td>w027</td> 
+</tr> 
+<tr> 
+<td><a href="http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/">The 10 most important things to simply your life</a></td> 
+<td></td> 
+<td>w646.7</td> 
+</tr> 
+<tr> 
+<td><a href="https://www.freebooksifter.com/">Free book sifter</a></td> 
+<td></td> 
+<td>w002</td> 
+</tr> 
+<tr> 
+<td><a href="https://learning.oreilly.com/library/view/the-now-habit/9780470593462">The now habit at work</a></td> 
+<td></td> 
+<td>w158</td> 
+</tr> 
+</table>
+
+<script>
+function myFunction() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[0];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+  
+  function myFunction1() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myAuthor");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[1];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}  
+  
+  function myFunction2() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("mycallnumber");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i].getElementsByTagName("td")[2];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+      }
+    }       
+  }
+}
+</script>
+
+</body>
+</html>
