@@ -14,64 +14,64 @@ Star gazing log
 
 |date|grade|title and author|dewey number|notes / favorite quote|
 |----|-----|----------------|------------|-----|
-|2021-10 | C | 11 20,000 leagues under the sea / Jules Verne. | 843. | "Our chances seemed slim, but hope springs eternal in the human beast." |
-|2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
-|2021-09 | D | 9 Any job will do / John Wilker | 813 | |
-|2021-09 | C | 8 From Cape to Cairo / David Ewing Duncan | 941 | An african travel autobiography |
-|2021-09 | C | 7 Neville Chamberlain's legacy / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
-|2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | A humor book about politics. |
-|2021-07 | C | 5 Edward Heath / Michael McManus | 920 | A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. |
-|2021-06 | C | 4 The heirs of Earth / Daniel Arenson | 813 | |
-|2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
-|2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
-|2021-05 | C | 1 Prince Charles | 920 | A biography of Prince Charles. |
-|2020-12 | C | 28 Life in the shifting dunes / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
-|2020-12 | C | 27 Well of Furies / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
-|2020-12 | D | 26 Port State / William Bowden. | 823 | A spacecraft docks in Bristol, U.K. |
-|2020-10 | D | 25 The book of creation / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
-|2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
-|2020-10 | D | 23 The rocks of Cape Ann / W.H. Dennen.| 552 | |
-|2020-09 | D | 22 A natural history of Boston's North Shore / Kristina Lindborg. | 508| |
-|2020-08 | D | 21 The Last 8 / Laura Pohl | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
-|2020-08 | C | 20 The Last Emperox / John Scalzi | 813 | |
-|2020-08 | C | Strange rites / Tara Burton | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
-|2020-07 | D | The fall of moondust / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
-|2020-07 | C | Tomorrow's kin / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
-|2020-07 | C | 3001 : the final odyssey  / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
-|2020-06 | C | 2061 : odyssey three / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
-|2020-06 | C | 2010 : odyssey two / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
-|2020-06 | C | 2001 : A space odyssey / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
+|x2021-10 | C | 11 20,000 leagues under the sea / Jules Verne. | 843. | "Our chances seemed slim, but hope springs eternal in the human beast." |
+|x2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
+|x2021-09 | D | 9 Any job will do / John Wilker | 813 | |
+|x2021-09 | C | 8 From Cape to Cairo / David Ewing Duncan | 941 | An african travel autobiography |
+|x2021-09 | C | 7 Neville Chamberlain's legacy / Nicholas Milton | 940 | A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. |
+|x2021-08 | C | 6 Dave Barry hits below the beltway / Dave Barry | 817 | A humor book about politics. |
+|x2021-07 | C | 5 Edward Heath / Michael McManus | 920 | A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. |
+|x2021-06 | C | 4 The heirs of Earth / Daniel Arenson | 813 | |
+|x2021-06 | C | 3 New England Wilds / Ogden Tanner | 500 | |
+|x2021-06 | C | 2 Into the wild / Jon Krakauer | 920 | About Chris McCandless, an adventurer who died of starvation in 1992 on the Stampede Trail in Alaska. |
+|x2021-05 | C | 1 Prince Charles | 920 | A biography of Prince Charles. |
+|x2020-12 | C | 28 Life in the shifting dunes / Laurence B. White. | 574 | A directory of the life on Castle Neck, Ipswich, Mass.| 
+|x2020-12 | C | 27 Well of Furies / Craig DeLancey. | 813 | A mission to find the Ultrans on a double-system wondering planet.| 
+|x2020-12 | D | 26 Port State / William Bowden. | 823 | A spacecraft docks in Bristol, U.K. |
+|x2020-10 | D | 25 The book of creation / Evan Braun and Clint M. Byars.| 813 | An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. |
+|x2020-11 | D | 24 A guide to New England's landscape / Neil Jorgensen. | 551 | A non-fiction book about the landforms and forest ecology of New England |
+|x2020-10 | D | 23 The rocks of Cape Ann / W.H. Dennen.| 552 | |
+|x2020-09 | D | 22 A natural history of Boston's North Shore / Kristina Lindborg. | 508| |
+|x2020-08 | D | 21 The Last 8 / Laura Pohl | 813 | A science fiction book about humanity caught in the warfare of two alien civizations. |
+|x2020-08 | C | 20 The Last Emperox / John Scalzi | 813 | |
+|x2020-08 | C | Strange rites / Tara Burton | 220 | Discusses modern day movements that also have the, "pillars of what religion always has: meaning, purpose, community, ritual." |
+|x2020-07 | D | The fall of moondust / Arthur C. Clarke | BPL 823 | It’s a science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. |
+|x2020-07 | C | Tomorrow's kin / Nancy Kress. | 813 | Aliens come to earth to warn us that it is about to go through a cloud of spores. |
+|x2020-07 | C | 3001 : the final odyssey  / Arthur C. Clarke | BPL 823 | A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. |
+|x2020-06 | C | 2061 : odyssey three / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
+|x2020-06 | C | 2010 : odyssey two / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
+|x2020-06 | C | 2001 : A space odyssey / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
 |2020-06 | C | The hammer of God / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
 |2020-06 | B | Childhood's end / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
-|2020-05 | C | Justice for all / Jim Newton | BPL 920 | A biography of Earl Warren. |
-|2020-04 | C | Five justices / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
-|2020-04 | C | The second founding / Eric Foner | BPL 327 |
-|2020-04 | C | The nine / Jeffrey Toobin | 347 | 
-|2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
-|2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
-|2020-02 | E | Howey, Hugh. -- Beacon 23. | 920 |
-|2020-01 | C | Me / Elton John | 920 |
-|2020-01 | C | The consuming fire / John Scalzi. | 813 |
-|2020-01 | C | The collapsing empire / John Scalzi. | BPL 813 |
-|2019-09 | C | First King of Shannara / Terry Brooks. | 813 |
-|2019-08 | C | Mars / Ben Bova. | 813 |
-|2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909 |
-|2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | LJLT 306 |
-|2019-06 | C | The forgotten room / Lincoln Child. | 813.|
-|2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
-|2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
-|2018-08 | C | The fall of Shannara / Terry Brooks. | 813.|
-|2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
-|2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. |
-|2008-06 | C | Symbiosis / R.S. Penny. | 813.|
-|2018-05 | C | Meant for him / D.H. Starr | 813.|
-|2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
-|2018-05 | C | A Princely Affair / P.J. Nevada | 813.|
-|2018-05 | C | These Florida nights / P.J. Nevada | 813.|
-|2018-05 | C | Sunrise in the afternoon / P.J. Nevada | 813.|
-|2018-05 | C | So hard to say / Alex Sanchez. | 813.|
-|2018-05 | B | Just stay / Mika Fox. | 813.|
-|2018-04 | C | The Biggest Scoop / Gillian St. Kevern. | 813.|
+|x2020-05 | C | Justice for all / Jim Newton | BPL 920 | A biography of Earl Warren. |
+|x2020-04 | C | Five justices / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
+|x2020-04 | C | The second founding / Eric Foner | BPL 327 |
+|x2020-04 | C | The nine / Jeffrey Toobin | 347 | 
+|x2020-03 | C | Supreme Conflict /  Greenburg, Jan Crawford | 347 | 
+|x2020-03 | D | Leviathan wakes / Corey, James S.A. | 813 |
+|x2020-02 | E | Howey, Hugh. -- Beacon 23. | 920 |
+|x2020-01 | C | Me / Elton John | 920 |
+|x2020-01 | C | The consuming fire / John Scalzi. | 813 |
+|x2020-01 | C | The collapsing empire / John Scalzi. | BPL 813 |
+|x2019-09 | C | First King of Shannara / Terry Brooks. | 813 |
+|x2019-08 | C | Mars / Ben Bova. | 813 |
+|x2019-08 | B | Coming of Age in Mississippi / Anne Woody. | 909 |
+|x2019-07 | B | Little book of sloth philosophy / Jennifer McCartney. | LJLT 306 |
+|x2019-06 | C | The forgotten room / Lincoln Child. | 813.|
+|x2019-06 | C | Full Wolf Moon / Lincoln Child. | 813.|
+|x2018-08 | C | The Skaar invasion / Terry Brooks. | 813.|
+|x2018-08 | C | The fall of Shannara / Terry Brooks. | 813.|
+|x2018-08 | C | Jurassic Park / Michael Critchen. | 813.  |
+|x2018-07 | C | Gabe and the mystery light / Joy Cameron. | 813. |
+|x2008-06 | C | Symbiosis / R.S. Penny. | 813.|
+|x2018-05 | C | Meant for him / D.H. Starr | 813.|
+|x2018-05 | B | Fairmont Boys Series / Jay Argent. | 813.|
+|x2018-05 | C | A Princely Affair / P.J. Nevada | 813.|
+|x2018-05 | C | These Florida nights / P.J. Nevada | 813.|
+|x2018-05 | C | Sunrise in the afternoon / P.J. Nevada | 813.|
+|x2018-05 | C | So hard to say / Alex Sanchez. | 813.|
+|x2018-05 | B | Just stay / Mika Fox. | 813.|
+|x2018-04 | C | The Biggest Scoop / Gillian St. Kevern. | 813.|
 |x2017-11 | C | Feed / M.T. Anderson. | 813.|
 |x2017-11 | C | The little old lady who broke all the rules / Catharina Ingelman-Sundberg. | 839.|
 |x2017-08 | C | The unknown man. | 813.|
@@ -215,27 +215,27 @@ Star gazing log
 |2012-02 |   |FlashForward / by Robert J. Sawyer. | 813|
 |2012-01 |   |Harry Potter and the chamber of secrets / by J. K. Rowling. | 823|
 |2012-01 |   |Harry Potter and the sorcerer's stone / by J.K. Rowling. | 823|
-|2011-12 |   |First king of Shannara / Terry Brooks. | 813|
-|2011-11 |   |The measure of the magic / by Terry Brooks. | 813|
-|2011-10 |   |Reel spirituality / Robert K. Johnston. | 261|
+|x2011-12 |   |First king of Shannara / Terry Brooks. | 813|
+|x2011-11 |   |The measure of the magic / by Terry Brooks. | 813|
+|x2011-10 |   |Reel spirituality / Robert K. Johnston. | 261|
 |2011-10 |   |Contemporary paganism / Graham Harvey. | 133|
 |2011-10 |   |Take this bread / Sara Miles. | 277|
-|2011-10 |   |Invisible / Pete Hautman. | 813|
+|x2011-10 |   |Invisible / Pete Hautman. | 813|
 |2011-10 |   |The sovereign individual | 338|
-|2011-10 |   |Bearers of the black staff / Terry Brooks. | 813|
-|2011-10 |   |The life of the cosmos / | 523|
-|2011-10 |   |Five chiefs : / John Paul Stevens. | 347|
-|2011-10 |   |Women in the world's religions, past and present / | 291|
-|2011-10 |   |Ethics and spirituality at work : / edited by Thierry C. Pauchant. | 174|
-|2011-10 |   |A defense of utilitarianism / C. L. Sheng. | 171|
-|2011-10 |   |An autobiography : / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. | B|
-|2011-10 |   |Anatomy of the sacred : / James C. Livingston. | 200|
+|x2011-10 |   |Bearers of the black staff / Terry Brooks. | 813|
+|x2011-10 |   |The life of the cosmos / | 523|
+|x2011-10 |   |Five chiefs : / John Paul Stevens. | 347|
+|x2011-10 |   |Women in the world's religions, past and present / | 291|
+|x2011-10 |   |Ethics and spirituality at work : / edited by Thierry C. Pauchant. | 174|
+|x2011-10 |   |A defense of utilitarianism / C. L. Sheng. | 171|
+|x2011-10 |   |An autobiography : / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. | B|
+|x2011-10 |   |Anatomy of the sacred : / James C. Livingston. | 200|
 |2011-10 |   |The Ancient mysteries : / edited by Marvin W. Meyer. | 291.1|
-|2011-10 |   |Cape Breton Road : / D.R. MacDonald. | 813|
-|2011-10 |   |Clay's way / Blair Mastbaum. | 813|
-|2011-10 |   |Consider Jesus : | 242|
+|x2011-10 |   |Cape Breton Road : / D.R. MacDonald. | 813|
+|x2011-10 |   |Clay's way / Blair Mastbaum. | 813|
+|x2011-10 |   |Consider Jesus : | 242|
 |2011-10 |   |Dragons of autumn twilight / | 813|
-|2011-10 |   |Ethics and spirituality at work : / edited by Thierry C. Pauchant. | 174|
+|x2011-10 |   |Ethics and spirituality at work : / edited by Thierry C. Pauchant. | 174|
 |2011-10 |   |Evil and the response of world religion / edited by William Cenkner. | 291|
 |2011-10 |   |Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. | 238|
 |2011-10 |   |Libraries in the ancient world / Lionel Casson. | 027|
@@ -258,7 +258,7 @@ Star gazing log
 |2011-10 |   |Philosophy : | 190|
 |2011-10 |   |Responsible Self, The. | 171|
 |2011-10 |   |Rites of Passage. | 291|
-|2011-10 |   |The voyage of the Jerle Shannara. | 823|
+|x2011-10 |   |The voyage of the Jerle Shannara. | 823|
 |2011-10 |   |Light of Eidon. | 813|
 |2011-10 |   |After God : | 200|
 |2011-10 |   |The nine : inside the secret world of the Supreme Court | 347|
@@ -266,18 +266,18 @@ Star gazing log
 |2011-10 |   |The happy introvert : | 155|
 |2011-10 |   |The forgotten founding father. | 423|
 |2011-10 |   |The course of my life. | 923.2|
-|2011-10 |   |Do you want fries with that?. |  650.14|
+|x2011-10 |   |Do you want fries with that?. |  650.14|
 |2011-10 |   |1912. |  324.973/0912|
 |2011-10 |   |Tyrannosaur Canyon. |  813/.54|
-|2011-10 |   |The well-educated min/d. |  028/.9|
+|2011-10 |   |The well-educated mind. |  028/.9|
 |2011-10 |   |The pirates of Somalia. |  364|
-|2011-06 |   |Armageddon's children / | 813|
-|2011-06 |   |The alchemist / | 398|
-|2011-03 |   |The justice men owe women : | 291|
+|x2011-06 |   |Armageddon's children / | 813|
+|x2011-06 |   |The alchemist / | 398|
+|x2011-03 |   |The justice men owe women : | 291|
 |2010-11 |   |Dragons of winter night / | 813|
-|2010-11 |   |The soulforge | 813|
+|x2010-11 |   |The soulforge | 813|
 |2010-11 |   |Dragons of a vanished moon | 813|
-|2005-11 |   |Our endangered values / Carter, Jimmy. | 306|
+|x 2005-11 |   |Our endangered values / Carter, Jimmy. | 306|
 |2005-05 |   |Frankenstein.  | 823|
 |2005-05 |   |Angel and Demons / Dan Brown. | 813|
 |2005-02 |   |On the brink of Civil War / John C Waugh. | 973.|
