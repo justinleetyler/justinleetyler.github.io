@@ -41,8 +41,8 @@ Star gazing log
 |x2020-06 | C | 2061 : odyssey three / Arthur C. Clarke | BPL 823 | A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet. |
 |x2020-06 | C | 2010 : odyssey two / Arthur C. Clarke | BPL 823 | A science fiction book about the recovery of Discovery, and activities in the Jupiter system. |
 |x2020-06 | C | 2001 : A space odyssey / Arthur C. Clarke | BPL 823 | A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. |
-|2020-06 | C | The hammer of God / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
-|2020-06 | B | Childhood's end / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
+|x2020-06 | C | The hammer of God / Arthur C. Clarke | BPL 823 | A science fiction book about an asteroid approaching Earth. |
+|x2020-06 | B | Childhood's end / Arthur C. Clarke | BPL 823 | A science fiction book about an alien invasion. |
 |x2020-05 | C | Justice for all / Jim Newton | BPL 920 | A biography of Earl Warren. |
 |x2020-04 | C | Five justices / John Paul Stevens | BPL 920 | Describes the five justices with whom J.P.S had interactions|
 |x2020-04 | C | The second founding / Eric Foner | BPL 327 |
@@ -184,37 +184,37 @@ Star gazing log
 |x2012-11 |   |Choosing simplicity / Linda Breen Pierce. | 178|
 |x2012-11 |   |The Downing Street years / Margaret Thatcher.|
 |2012-09 |   |The traveler | 813|
-|2012-08 |   |Round the moon / by Jules Verne. | 843|
-|2012-08 |   |Riding the flume / Patricia Curtis Pfitsch. | 813|
-|2012-07 |   |Abraham Lincoln, vampire hunter / by Seth Grahame-Smith. | 813|
-|2012-07 |   |The man who quit money / by Mark Sundeen. | 332|
-|2012-07 |   |Abraham Lincoln / Thomas Keneally. | 923.2|
-|2012-07 |   |Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. | 823|
-|2012-06 |   |The civil war. / Louis P. Masur | 973.7|
-|2012-05 |   |Mr. President / Raphael, Ray. | 352|
-|2012-05 |   |Harry Potter and the order of the Phoenix / Rowling, J.K. | 823|
-|2012-05 |   |The children of the sky / Vinge, Vernor | 813|
-|2012-05 |   |Companions on the inner way : / Morton T. Kelsey. | 248.2|
-|2012-04 |   |The essence of Shinto : / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin. | 299.5|
-|2012-04 |   |Wicca : / Scott Cunningham. | 133|
-|2012-03 |   |Angels & demons / Dan Brown. | 813|
-|2012-03 |   |The audacity of hope : / Barack Obama. | 923.2|
-|2012-03 |   |The plague / Albert Camus. | 843|
-|2012-03 |   |Liberal religion : / Frank G. Opton. | 289.1|
-|2012-03 |   |Timbuktu : / Marq De Villiers and Sheila Hirtle. | 966|
-|2012-03 |   |One with Jesus : / translated from the French of Paul de Jaegher. | 248|
-|2012-03 |   |Four faces of Jesus. | 232|
-|2012-03 |   |Andrew Carnegie / by David nasaw. | 923|
-|2012-03 |   |Journaling : / Anne Broyles. | 248|
-|2012-03 |   |The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. | 193|
-|2012-03 |   |A chosen faith : / John A. Buehrens and Forrest Church ; new foreword by Robert Fulghum ; new preface by Denise Davidoff. | 289.1|
-|2012-03 |   |Profiles in audacity : / Alan Axelrod. | 921|
-|2012-03 |   |Dave Barry in cyberspace / Dave Barry. | 818|
-|2012-03 |   |Dragon keeper / Robin Hobb. | 813|
-|2012-02 |   |The unconquered / Scott Wallace. | 981|
-|2012-02 |   |FlashForward / by Robert J. Sawyer. | 813|
-|2012-01 |   |Harry Potter and the chamber of secrets / by J. K. Rowling. | 823|
-|2012-01 |   |Harry Potter and the sorcerer's stone / by J.K. Rowling. | 823|
+|x2012-08 |   |Round the moon / by Jules Verne. | 843|
+|x2012-08 |   |Riding the flume / Patricia Curtis Pfitsch. | 813|
+|x2012-07 |   |Abraham Lincoln, vampire hunter / by Seth Grahame-Smith. | 813|
+|x2012-07 |   |The man who quit money / by Mark Sundeen. | 332|
+|x2012-07 |   |Abraham Lincoln / Thomas Keneally. | 923.2|
+|x2012-07 |   |Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. | 823|
+|x2012-06 |   |The civil war. / Louis P. Masur | 973.7|
+|x2012-05 |   |Mr. President / Raphael, Ray. | 352|
+|x2012-05 |   |Harry Potter and the order of the Phoenix / Rowling, J.K. | 823|
+|x2012-05 |   |The children of the sky / Vinge, Vernor | 813|
+|x2012-05 |   |Companions on the inner way : / Morton T. Kelsey. | 248.2|
+|x2012-04 |   |The essence of Shinto : / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin. | 299.5|
+|x2012-04 |   |Wicca : / Scott Cunningham. | 133|
+|x2012-03 |   |Angels & demons / Dan Brown. | 813|
+|x2012-03 |   |The audacity of hope : / Barack Obama. | 923.2|
+|x2012-03 |   |The plague / Albert Camus. | 843|
+|x2012-03 |   |Liberal religion : / Frank G. Opton. | 289.1|
+|x2012-03 |   |Timbuktu : / Marq De Villiers and Sheila Hirtle. | 966|
+|x2012-03 |   |One with Jesus : / translated from the French of Paul de Jaegher. | 248|
+|x2012-03 |   |Four faces of Jesus. | 232|
+|x2012-03 |   |Andrew Carnegie / by David nasaw. | 923|
+|x2012-03 |   |Journaling : / Anne Broyles. | 248|
+|x2012-03 |   |The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. | 193|
+|x2012-03 |   |A chosen faith : / John A. Buehrens and Forrest Church ; new foreword by Robert Fulghum ; new preface by Denise Davidoff. | 289.1|
+|x2012-03 |   |Profiles in audacity : / Alan Axelrod. | 921|
+|x2012-03 |   |Dave Barry in cyberspace / Dave Barry. | 818|
+|x2012-03 |   |Dragon keeper / Robin Hobb. | 813|
+|x2012-02 |   |The unconquered / Scott Wallace. | 981|
+|x2012-02 |   |FlashForward / by Robert J. Sawyer. | 813|
+|x2012-01 |   |Harry Potter and the chamber of secrets / by J. K. Rowling. | 823|
+|x2012-01 |   |Harry Potter and the sorcerer's stone / by J.K. Rowling. | 823|
 |x2011-12 |   |First king of Shannara / Terry Brooks. | 813|
 |x2011-11 |   |The measure of the magic / by Terry Brooks. | 813|
 |x2011-10 |   |Reel spirituality / Robert K. Johnston. | 261|
@@ -236,19 +236,19 @@ Star gazing log
 |x2011-10 |   |Consider Jesus : | 242|
 |2011-10 |   |Dragons of autumn twilight / | 813|
 |x2011-10 |   |Ethics and spirituality at work : / edited by Thierry C. Pauchant. | 174|
-|2011-10 |   |Evil and the response of world religion / edited by William Cenkner. | 291|
-|2011-10 |   |Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. | 238|
-|2011-10 |   |Libraries in the ancient world / Lionel Casson. | 027|
-|2011-10 |   |Moral issues and Christian responses / Patricia Beattie Jung, Shannon Jung. | 241|
-|2011-10 |   |The New Testament : / Bart D. Ehrman. | 225.6|
-|2011-10 |   |Opening the Bible / Roger Ferlo. | 220|
-|2011-10 |   |Psychology and religion : / Andrew R. Fuller. | 200|
-|2011-10 |   |The psychology of religion and coping : / Kenneth I. Pargament. | 200|
-|2011-10 |   |Religion and the clinical practice of psychology / edited by Edward P. Shafranske. | 291.1/75|
-|2011-10 |   |The secret Gospel of Mark unveiled : / Peter Jeffery. | 229/.8|
-|2011-10 |   |Situation ethics; / by Joseph Fletcher. | 170|
-|2011-10 |   |Some things that stay / Sarah Willis. | 813/.54|
-|2011-10 |   |Work and spirit : / editors: Jerry Biberman, Michael D. Whitty. | 291.1/785|
+|x2011-10 |   |Evil and the response of world religion / edited by William Cenkner. | 291|
+|x2011-10 |   |Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. | 238|
+|x 2011-10 |   |Libraries in the ancient world / Lionel Casson. | 027|
+|x2011-10 |   |Moral issues and Christian responses / Patricia Beattie Jung, Shannon Jung. | 241|
+|x2011-10 |   |The New Testament : / Bart D. Ehrman. | 225.6|
+|x2011-10 |   |Opening the Bible / Roger Ferlo. | 220|
+|x2011-10 |   |Psychology and religion : / Andrew R. Fuller. | 200|
+|x2011-10 |   |The psychology of religion and coping : / Kenneth I. Pargament. | 200|
+|x2011-10 |   |Religion and the clinical practice of psychology / edited by Edward P. Shafranske. | 291.1/75|
+|x2011-10 |   |The secret Gospel of Mark unveiled : / Peter Jeffery. | 229/.8|
+|x2011-10 |   |Situation ethics; / by Joseph Fletcher. | 170|
+|x2011-10 |   |Some things that stay / Sarah Willis. | 813/.54|
+|x2011-10 |   |Work and spirit : / editors: Jerry Biberman, Michael D. Whitty. | 291.1/785|
 |2011-10 |   |Can Ethics Be Christian. | 170|
 |2011-10 |   |The Da Vinci Code. | 813|
 |2011-10 |   |Empty Mirror, The. | 294.3|
@@ -284,7 +284,7 @@ Star gazing log
 |2005-11 |   |What kind of nation / James F. Simon. | 973.|
 |2005-11 |   |The well-educated mind / Susan W. Bauer. | 001.|
 |2005-07 |   |William and Harry / Igrid Seward. | 923.|
-|2005-06 |   |Library : an unquiet history / Matthew Battles. | 020.|
+|x2005-06 |   |Library : an unquiet history / Matthew Battles. | 020.|
 |2005-05 |   |The Dalia Lama / Patricia Marcello. | 922.|
 |2005-06 |   |Airframe / Michael Crichton. | 813.|
 |2005-04 |   |The talismans of Shannara / Terry Brooks. | 913.|
