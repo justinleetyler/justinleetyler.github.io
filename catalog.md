@@ -3187,7 +3187,7 @@ k813 Bow -- Prophecy's Ruin / Sam Bowring -- Orbit, [n.d.] -- [www](https://read
 
 k813 Lar -- Prophet / R Larson J.. -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B0073UPQQS).
 
-k4 Ada -- Python Programming: Learn Python Today! - Coding & Programming For Beginners / Mark Adams -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013L09EC0).
+k004 Ada -- Python Programming: Learn Python Today! - Coding & Programming For Beginners / Mark Adams -- Resolute Minds Publishing, c2015 -- [www](https://read.amazon.com/?asin=B013L09EC0).
 
 k813 Hil -- Quantum Entanglement / Liesel K Hill. -- Liesel K. Hill, [n.d.] -- [www](https://read.amazon.com/?asin=B00F6643SI).
 
