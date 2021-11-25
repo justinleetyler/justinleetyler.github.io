@@ -1,3 +1,6 @@
+
+813 WEI. -- Dragons of summer flame / Margaret Weis and Tracy Hickman. -- TSR, Inc., 1995, 2001. -- on external hard drive. -- File Name: 8840.txt.
+
 g005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- www.
 
 091 TYL. [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013] / Tyler, Justin Lee -- on 1 external hard drive. -- File directory: 3292. -- DBID 5392.
@@ -60,8 +63,6 @@ w150 WIN. -- 29 scientifically proven ways to be happy this year / Winfrey, Sara
 
 781.64 ALL -- Move Along / All-American Rejects (Musical group). -- Santa Monica, CA: Interscope/Doghouse Records, 2005. -- on 1 external hard drive. -- Title from Compact Disc.
 
-025.3 AME -- Genre/form terms for law materials / American Association of Law Libraries. Classification and Subject Cataloging Policy Advisory Working Group. -- Buffalo, N.Y. : William S. Hein & Co., 2006. -- File name: (9059.pdf) -- DBID 9059
-
 020 AME -- Frontline Fundraising toolkit / American Library Association. ALA Advocacy University. -- [S.l.] : American Library Association, c2011. -- File name: (10096.pdf). -- DBID 10096
 
 025.3 AME -- Differences between changes within / American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes. -- Chicago : American Library Association, 2004. -- File name: (8004.pdf) -- DBID 8004
@@ -120,11 +121,11 @@ k813 ARG -- Fairmont Boys Series / Argent, Jay. -- [S.n., n.d.] -- [www](https:/
 
 647.7 BAB -- Focus : a simplicity manifesto in the age of distraction / Babauta, Leo. -- [S.l., s.n., 2010?] -- File name: (9057.pdf) -- DBID 9057
 
-025.3 BAL -- Will the ILS soon be as obsolete as the card catalog / Balas, Janet L. -- on external hard drive. -- File name: (8373.txt) -- DBID 8373. -- IN Computers in Libraries. -- Vol. 37, no. 9 (Oct. 2007)
-
 k813 BAL -- Sourcerer's quest / Baldron, NAK. -- Aconite Cafe, 2019. -- [www](https://read.amazon.com/?aisn=B0833HHLDH).
 
 342.42 BAL -- Corporate heritage brands and the precepts of corporate heritage brand management / Balmer, John M.T. -- on external hard drive -- File name: (10150.pdf) -- DBID 10150. -- IN Journal of Brand Management -- Vol. 18, no. 8 (Jun. 2011)
+
+539 COX -- [Large hadron collider / Brian Cox. -- S.n., n.d.] -- on external hard drive. -- File name: 7506.wmv.
 
 728 BAL -- [Balmoral]. -- [BBC, n.d.] -- on 1 external hard drive. -- File name: 3267.flv.
 
@@ -216,8 +217,6 @@ w646.7 BEC -- The 10 most important things to simply your life / Becker, Joshua.
 248 BIL -- Mind the light : learning to see with spiritual eyes / Bill, J. Brent. -- J. Brent Bill, c2006. -- on 1 ASUS transformer tablet. -- System requirements: Kindle app.
 
 813 BIL -- The nuclear catastrophe / Billig, Barbara Griffin. -- Clearview Investments, Inc., 2011.. -- Title from Amazon.com desc.
-
-025.4 BLA -- Returning classification to the catalog / Bland, Robert N. -- File name: (9054.pdf) -- DBID 9054. -- IN Information techology and libraries. -- Vol. 27, no. 3 (Sept. 2008) -- ISSN 0730-9295
 
 813 BLA -- Legend of the book keeper / Blackaby, Daniel. -- Russell Media, [n.d.] -- on 1 ASUS transformer tablet. -- Title from title page.
 > Read 2014-01. Grade C. -- CH. Cody goes to Jade's house to ask for help. -s -- CH. Cody and Jade find themselves at area 51 by a secret underground tunnel\. -s -- Do you see how pointless it is to explain something to somebody that has no point of reference? - Randilin -q  -- Ch. 1: Cody and Jade goes to Westleys bookstore; where he finds the restricted section. -s -- Cody Clemenson -f -- Cody, on the other hand, seemed to always be lost in his private thoughts as he explored fantastic worlds... -q -- Ch.2: Cody sees an apperation in his closet -s -- Cody goes back to the house, and finds a for sale sign. he breaks in through a window, and opens the restricted door. -s -- ch. Westley realizes someone has entered the room. Cody reads the first line of the book, and some monster appears. -s -- He spoke with the tone of boredom awkwardly blanketed with an ill-fitting disguise of pleasantry. -q -- gigantic demon-pig creature -f -- Sir Randilin. -f -- Fortunately for you, you have no soul in that heartless carcass to suck out! -q -- CROSS -f -- Approaching your superiors is always a nerve-inducing occurrence. -q -- Dace Ringstar, captain of the Outer-City guards. -f -- Jade Shimmers. -f -- "Hail, the Orb of holy light, humbled we by its eternal might. Hail the Orb, let it shine forever bright." -q -- Atlantis Rule Enforcement Association. -f -- She seemed completely at ease and unconcerned. -f -- Prince Kantan. -f -- Prince Foz, -f -- ESSENTIAL RULES OF ORB WORSHIP. -f -- Sli Silkian, head of the AREA. -f -- Now stop your incessant yakking before I rip my own stinking ears off to silence you. -f -- They told of Dace’s sacrifice, the brewing war between Atlantis and El Dorado, Kantan’s suspicious meeting with the activists, the King’s continual absence and even of Cody becoming the Book Keeper. -q  3021 -- High Priest Lamgorious Stalkton -f -- the only reason one should enter this Monastery is to unlock the wonders of the universe. -q -- ... first lesson is that everything functions according to rules. -q -- The Brotherhood of Light is dedicated to preserving this knowledge. -q -- ... second rule of creating: that you can only use as much power as your mental strength allows -q -- ... final, and most important rule of creation, is that it cannot be undone. -q -- ... minimal social interaction have left him with an utter lack of tact. -q  3376 -- On each door was a golden figure, a winged creature with a human head. The creatures were wielding flaming swords. -q -- Poe Dapperhio: scribe -f -- ... all hope seep from his body. -q -- He was quiet and mostly kept to himself... -q -- Unfortunately, unless you plan on dying, the responsibility for the Book is yours. We don’t always choose our circumstances, but we always choose our actions. Therefore, let us move past what you don't want to do and focus on what you need to do. -q -- ... the paint is only as good as the painter using it. -q -- ... not by an excessive knowledge of the words, but by opening your mind and being able to use the words. -q -- Randilin Stormberger's -f -- In each of us is the desire to commit evil. We all hear her seducing call lure us to action. Only for some, the call is too strong. -q -- The power of the universe has been reduced to petty rules and chants. -q -- Cody felt like his four limbs were being pulled in opposing directions. -q
@@ -397,8 +396,6 @@ k813 CAR -- Project Dandelion / Carson, Heather. -- [S.n.], 2019. -- [www](https
 
 305 CHA -- Factors affecting the frequency and amount of social networking site use / Cha, Jiyoung. -- File name: (libary/9080.pdf) -- DBID 9080. -- IN First Monday. -- Vol. 15, no. 12. (Dec. 2010)
 
-025.3 CHA -- Change of issuence : MARC 21 bibliographic level code "m" still used (code "I" not yet implemented). -- [S.l., s.n., n.d.] -- File name: (9053.pdf) -- DBID 9053
-
 781.67 CHA -- Chant Gregorien: Liturgie Dominicaine. -- France: Jade, 2007. -- on 1 external hard drive.
 
 781.723 CHA -- Chants of the Season. -- New York, NY: RCA Victor, 1994. -- on 1 external hard drive.
@@ -491,9 +488,7 @@ w271 CLA -- The hermits and anchorites of England / Clay, Rotha Mary. -- Methuen
 813 CON -- Ink and Bone / Rachel Conrad. -- [S.n., n.d.] -- v.
 > Read 2017-04. Grade C. -r
 
-025.3 CON -- CONSER standard record documentation -- [S.l., s.n.], 2007. -- File name: (7068.pdf) -- DBID 7068
-
-w320 CON -- Constitution daily. -- [S.n, 200-] -- [www](http://blog.constitutioncenter.org/). -- Daily.
+67 CON -- Constitution daily. -- [S.n, 200-] -- [www](http://blog.constitutioncenter.org/). -- Daily.
 
 025 RDA -- The RDA workbook / Margaret Mering, Editor. -- Libraries Unlimited, c2014. -- on 1 external hard drive. -- Filename: 3369.pdf -- ISBN 9781610694902.
 
@@ -566,8 +561,6 @@ w025.3 CUT -- Rules for a printed dictionary catalog / Cutter, Charles A. -- Was
 
 k813 DEL -- Well of Furies /  DeLancy, Craig -- 10th ed. -- Perfect Number, 2014. -- [www](https://read.amazon.com/?aisn=B00AR7GLZO).
 > Read 2020-12 -- Grade C. -r -- This was the Sussurat expression for you are being such an idiot that I must spare you the shame of looking at you with all four eyes. -q -- Gowgoroup: a Slug -f -- Of the four colony beings in the Galactic Alliance, the Zitherit and seQua were methane breathers, and the Graptolink and !Cla were ocean organisms. -q -- That’s what anarchist democracy meant, the Alliance constantly reminded newcomers: you had to take responsibility yourself. Governance existed only inside each citizen. No more shirking. -q -- The best thing to do when facing a terrible task was to get on with it. -q -- Something ate at her soul, hour after hour. -q -- 4 the land on dak-ull. -s -- Sussurat. Few words, the right words. -q -- 5 they find pala, but she cannot plot the planets. So they must finf a book with the raw dafta in the library of the tides. -s -- 11 brias dead. -s -- bria's daughter Treuntilliasussarius -f -- Theyre going to the wondering double-world system to find the ultrans. -s
-
-025.3 DEL -- RDA database implementation scenarios / Delsey, Tom. -- [S.l. : s.n.], 2007. -- File name: (2007.pdf). -- DBID 6569
 
 025.4 DEL -- Outline of the Library of Congress Classification system / Delta College. Library. -- [University Center, Mich. : Delta College, n.d.] -- DDC -- File name: (1690.doc). -- DBID 1690
 
@@ -961,7 +954,7 @@ k813 HAR -- Hartley, Taylor. -- The penkeepers. -- [S.n., n.d.] -- [www](https:/
 
 940 HEN -- Henderson, Ernest F. -- Select historical documents of the middle ages. -- London and New York : George Bell & Sons, 1892. -- File name: (10101.pdf). -- DBID 10101
 
-299 HER -- Herman, Jonathan R. -- Taoism for dummies. -- John Wiley & Sons, c2013. -- Filename: 7050.epub. -- ISBN 978118426654.
+299 HER -- Herman, Jonathan R. -- Taoism for dummies. -- John Wiley & Sons, c2013. -- Filename: 7050.epub; 7050.mobi. -- ISBN 978118426654.
 
 025.3 HEY -- Heymann, Paul. -- Tagging human knowledge / Paul Heymann, Andreas Paepcke, and Hector Garcia-Molina. -- Preprint Version. -- [S.l. : the authors], 2009. -- DDC -- File name: (10147.pdf) -- DBID 10147
 
@@ -1036,10 +1029,6 @@ w004 HOW -- How-to geek. -- HowToGeek.com, c2006- . -- [www](http://www.howtogee
 321 INS -- Inside story : how coalition government works. -- [S.l., s.n.], 2011. -- DDC -- File name: (10109.pdf). -- DBID 10109
 
 025 INS -- Instructions to depository libraries. -- [United States] : U.S. G.P.O., 2000. -- File name: (0067.pdf) -- DBID 0067
-
-025.3 INT -- Integrated Resources. -- [S.l., n.d.], 2008. -- File name: (7067.pdf) -- DBID 7067
-
-629 INT -- International Docking System Standard (IDSS) Interface Definition Document (IDD). -- [S.l., s.n.], 2010. -- File name: (9060.pdf) -- DBID 9060
 
 025.3 ISB -- International standard bibliographic description (ISBD) / recommended by the ISBD Review Group. -- Consolidated ed. -- [S.n.], 2010. -- on 1 external hard drive. -- File name: 3259.pdf.
 
@@ -1121,8 +1110,6 @@ w004 HOW -- How-to geek. -- HowToGeek.com, c2006- . -- [www](http://www.howtogee
 261 JOH -- Johnston, Robert K. -- Reel spirituality. -- 2nd ed., Rev. and expanded. -- Grand Rapids, Mich. : Baker Academic, c2006. -- 351 p. -- 9780801031878
 > Read 2011-10. -r
 
-025.3 RDA -- Joint Steering Committee for the development of RDA. -- Outcomes of the Meeting of the Joint Steering Committee. -- [S.l.] : JSC, 2008. -- DDC -- File name: (7064.pdf) -- DBID 7064
-
 551 JOR -- Jorgensen, Neil. -- A guide to New England’s landscape. -- [1] v.
 > Read 2020-11. -- Grade C. -- A non-fiction book about the landforms and forest ecology of New England. -s
 
@@ -1197,8 +1184,6 @@ k002 KIN -- Kindle Buffet. -- [S.l., n.d.] -- [www](http://www.weberbooks.com/ki
 813 KIN -- Kingsley, Charles. -- The water-babies / by Charles Kingsley; Illustrated by Jessie Willcox Smith. -- Dodd, Mead and Company, Inc., c1916.. -- Title from cover page.
 > Ch. 3: Tom becomes a waterbaby.
 
-025.3 KIO -- Kiorgaard, Deirdre. -- RDA and MARC21. -- [S.l., s.n.], 2006. -- DDC -- File name: (6568.pdf). -- DBID 6568
-
 025 KIP -- Kipp, Margaret E.I. -- Searching with tags. -- File name: (10157.pdf) -- DBID 10157. -- IN Knowledge Organization. -- Vol. 37, no. 4 (2010)
 
 781.66 KLA -- Klass, Myleene. -- Moving on. -- United Kingdom: Universal Classics and Jazz, 2003. -- on 1 external hard drive.
@@ -1206,7 +1191,7 @@ k002 KIN -- Kindle Buffet. -- [S.l., n.d.] -- [www](http://www.weberbooks.com/ki
 k332 KLE -- Klein, Ezra. -- This 4x6 index card has all the financial advice you'll ever need. --washingtonpost.com, 2013. -- [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/).
 > Max your 401(k) or equivalent employee contribution -- Buy inexpensive, well-diversified mutual funds such as Vangard Target 20xx funds. -- Never buy or sell an individual security. The person on the other side of the table knowsmroe than you do about this suff. -- Save 20% of your money. -- Pay your credit card balance in full every month -- Maximize tax-advantag savings vehicles like Roth, Sep, and 529 accounts. -- Pay attention to fees. Avoid actively managed funds. -- Make financial advisor commit to a fiduciary standard. -- Promote social insurance programs to help people when things go wrong.
 
-613 KLI -- Kling, Michael. -- 9 frugal ways to treat the common cold. -- on 1 external hard drive. -- DDC -- File name: 5378.pdf. -- IN Wise Bread. -- (Jan. 4, 2012)
+613 KLI -- Kling, Michael. -- 9 frugal ways to treat the common cold. -- on 1 external hard drive. -- File name: 5378.pdf. -- IN Wise Bread. -- (Jan. 4, 2012)
 
 w150 KLO -- Klosowski, Thorin. -- The best productivity tricks used by evil dictators. -- on 1 external hard drive. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012).
 > 1. Force difficult decisions on people when their willpower is weak. -- 2. Create a five-year place. -- 3. Purge threats to your power. -- 4. Embrace your "Cult of Personality" . -- 5. Give direct, powerful speeches. -- 6. Learn from experiences, not books.
@@ -1277,13 +1262,11 @@ k813 LAM -- Lamoreux, Daniel. -- Apparition Lake / Daniel Lamoreux, Doug Lamoreu
 
 025 LIB -- Library of Congress. -- Disseminating information on the internet. -- [S.l.] : Library of Congress, 1994. -- on 1 external hard drive. -- File name: (10134.pdf) -- DBID 10134
 
-025.4 LIB -- Library of Congress. Network Development and MARC Standards Office. -- MARC 21 Format for Authority Data / Network Development and MARC Standards Office. -- 1999 ed. -- [Washington, DC] : Library of Congress, 2006. -- on 1 external hard drive. -- DDC -- File name: (5574.txt). -- DBID 5574
-
 025.4 LIB -- Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for classification data. -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- DDC -- File name: (3089.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3089.txt) -- DBID 3089
 
 025.3 LIB -- Library of Congress. Network Development and MARC Standards Office. -- MARC 21 format for holds data : field list. -- [Washington, DC : Library of Congress, 2000). -- on 1 external hard drive. -- File name: (1703.txt). -- Also available on the [World Wide Web](http://www.justinleetyler.com/1703.txt). -- DBID 1703
 
-025.3 LIB -- Library of Congress. Working group on the future of of bibliographic control. -- On the record. -- [Washington, D.C. : Library of Congress], 2008. -- on 1 external hard drive. -- File name: (6452.pdf). -- DBID 6452
+247 CEL -- [Celtic cross. -- [S.n., n.d.] -- on external hard drive. -- File Name: 5553.txt.
 
 w001 LIF -- Lifehacker. -- Gizmodo Media Group, c2017. --[www](http://www.lifehacker.com). -- Daily.
 
@@ -1333,9 +1316,6 @@ w025.3 MAY -- Ma, Yan. -- Cataloging internet resources. -- [S.l. : s.n.], 2000.
 
 576 MAC -- MacLeod, Norman. -- The great extinctions. -- Firefly books, c2013. -- 208 p. -- ISBN 9781770851870.
 
-025.3 MAD -- Madden, Diana. -- An overview of the USMARC archival and manuscripts control format. -- on 1 external hard drive. -- File name: (8444.pdf) -- DBID 8444. -- IN S.A. archives journal. -- Vol. 33 (Jan. 1991)
-> What happened down in the dungeons between you and Professor Quirrel is a complete secret, so, naturally, the whole school knows. -Dumbledore. -p. 368 -q
-
 170 MAN -- [Madela - "No one is born..." poster]. -- [S.n., 2013]. -- on 1 external hard drive. -- Filename: 3307.jpg. -- DBID 3307.
 
 927 MAD -- Madigan, Tim. -- I'm proud of you. -- [S.n., n.d.] -- v.
@@ -1354,10 +1334,6 @@ k808 MAN -- Mandel, Emily St. John. -- Station eleven. -- Alfred A. Knopf, 2014.
 782 MAN -- Manilow, Barry. -- Ultimate Manilow. -- New York, NY: Arista, 2002. -- on 1 external hard drive. -- Title from Compact Disc.
 
 025.5 MAN -- Manjarrez, Carlos A. -- Who's in the queue? / by Carlos A. Manjarrez and Kyle Schoembs. -- Washington, DC : Institute of Museums and Library Services, 2011. -- on 1 external hard drive. -- File name: (10112.pdf) -- DBID 10112
-
-025.1 MAN -- Manley, Will. -- Winning the budget wars. -- on 1 external hard drive. -- DDC -- File name: (9048.pdf) -- DBID 9048 -- IN American Libraries. -- (Jun/Jul. 2010)
-
-025.3 MAN -- Mann, Thomas. -- "On the record" but off the track. -- [S.l. : s.n.], 2008. -- on 1 external hard drive. -- Mode of Access: World Wide Web (http://www.justinletyler.com/library/7000.pdf). -- DBID 7000
 
 912.742 MAP -- Map and Guide : White Mountains and New Hampshire Attractions 2012; highways and byways; listings for dinning, lodging, shopping scenic tours and more; also, statewide attractions inside. -- Scale indeterminable-- [S.l. : hite Mountains New Hampshire], 2012. -- 2 maps on 1 sheet. -- DBID 3124
 
@@ -1459,8 +1435,6 @@ k813 MCK -- Mead, Charles. -- 20XX. -- C. Mead, 2013. -- [www](https://read.amaz
 w152 MIC -- Michael, Paul. -- 10 mantras that will transform your life. -- wisebread.com, 2013. -- [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).
 > 'We see what we look for' -Sir John Lubbock  -- 'The past has no power over the present moment' -Echart Tolle.  -- "There are no failures — just experiences and your reactions to them." -- "The start is what stops most people." — Don Shula -- "Change your thoughts and you change your world." — Norman Vincent Peale -- "Aggressive goals require an aggressive work ethic." -- "Comparison is the stealer of joy." -- "You are who you are when nobody is watching." — Stephen Fry -- "Believe you can and you're halfway there." — Theodore Roosevelt -- "Be the change you wish to see in the world." — NOT Gandhi
 
-651.5 MIC -- Michigan. Dept. of History, Arts and Libraries. -- Records retention and disposal schedule. -- [Lansing, Mich. : State of Michigan], 1998. -- on 1 external hard drive. -- File name: (8803.pdf) -- DBID 8803
-
 918 MIL -- Millard, Candice. -- The river of doubt. -- [S.l.] : Anchor books, 2009.. -- DBID 3044
 
 813 MIL -- Miller, John Jackson. -- Precipice. -- [S.l.] : LucasBooks, 2009.. -- DBID 3045
@@ -1526,16 +1500,12 @@ w375 MIT -- MIT OpenCourseWare [website]. -- [S.l.], s.n., c2002- . -- [www](htt
 
 158 MUR -- Murray, Katherine. -- Own your future. -- Microsoft Press, c2010. -- on 1 external hard drive. -- Filename: 3330.pdf.
 
-025.4 VAN -- NACO participants' manual / edited by Patricia Van Ryn and William L. Starck. -- [Washington, D.C.] : Library of Congress, 2005. -- File name: (7051.pdf) -- DBID 7051.
-
 027 NAI -- Nair, R. Raman. -- Public library systems in ancient South India. -- on 1 external hard drive. -- File name: 0942.pdf . -- IN ILA Bulletin. -- Vol. 27, no. 2 (Jul.-Sept. 1991).
 
 w629 NAS -- NASA -- NASA TV. NASA, [n.d.] -- [www](http://www.nasa.gov/multimedia/nasatv/index.html.
 
 923 NAS -- Nasaw, David. -- Andrew Carnegie. -- New York : The Penguin Press, 2006. -- xiv, 878 p.
 > Read 2012-03. -r -- Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q
-
-025.17 NEA -- Neary, Peter -- National Research Council (U.S.). Committee on Digital Archiving and the National Archives and Records Administration. -- Building an electronic records archive at the National Archives and Records Administration. -- Washington, DC : National Academies Press, 2005. -- on 1 external hard drive. -- File name: (8851.pdf) -- ISBN 0309551811 -- DBID 8851
 
 813 NEL -- Nelson, O.T. -- The girl who owned a city. -- [S.n., n.d.] -- v.
 > Read 2014-11. Grade C. -r
@@ -1563,7 +1533,7 @@ k813 NEV -- Nevada, P.J. -- These Florida nights. -- [S.n., n.d.] -- [www](https
 193.9. NIE -- Nietzsche, Friedrich Wilhelm. -- The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p
 > Read 2012-03. -r -- The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q -- I teach you the overman. -Zarathustra -p. 124 -q -- When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 -q -- Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q
 
-005 NIX -- Nixon, Robin. -- Learning PHP, MYSQL, and Javascript. -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- File name: (8847.pdf) -- DBID 8847
+005 NIX -- Learning PHP, MYSQL, and Javascript / Robin Nixon. -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- File name: (8847.pdf) -- DBID 8847.
 > The process of separating your data into tables and creating primary keys is called normalization. , p. 203 -q -- E. F. Codd: inventor of the relational model. -p. 203 -q -- On a very popular site, if you have normalized tables, your database access will slow down considerably once you get above a few dozen concurrent users. -p. 210 -q
 
 813 NOR -- North, Anna. -- America Pacifica. -- [S.n., n.d.] -- v.
@@ -1611,8 +1581,6 @@ w375 OPE -- OpencourseWare Consortium [website]. -- Newton, MA : OpencourseWare 
 289.1 OPT -- Opton, Frank G. -- Liberal religion. -- Buffalo, N.Y. : Prometheus Books, 1982. -- 295 p. -- ISBN 087975155X. -- DBID 2922
 668.12. -- More recently, melt-and-pour soap bases have become the trend since the materials for them can be purchased at any the local craft store and need only be melted, colored, sented, and poured into molds. -p. 8 -q -- Scented oils and botanicals can bed added to soap for softening and soothing skin, along with any aromatherapy benefits derived from essential oils. -p. 8 -q -- In this method [Cold-processing], a combination of fats (natural oils) are mixed with a lye solution until saponification begins to take place. -p. 12 -q -- [Preparation] When using the glycerine melt-and-pour and rebatching methods, common cooking oil is sprayed into the mold(s). When using the cold-processing method, the mold is loned with a plastic garbage bag. -p. 13 -q -- Tools and supplies: Cooking oil spray -- Disposable chopstick, bamboo -- Glycerine melt-and-pour soap base, transparent or opaque -- Heat-resistant glass measuring cup -- Kitchen knife, sarp unserrated -- Kitchen range or microwave oven -- Molds -- Skillet, deep. -- Saponification is a chemical process that takes place when a solution made from water and lye crystals is mixed with melted fats. -p. 17 -q -- Color: 'Glycerine melt-and-pour soap base can be purchased clear or in a variety of colors...' -- Soap dyes (Liquid colorant is the easiest) -- Herbs and spices (one tablespoon to 1/4 cup) -- Natural pigments (be sure not to breathe in these fine powders) -- Cosmetic pigments -- When layering different colors of glycerine melt-and-pour soap bases, the soap must be thoroughly sprayed with rubbing alcolol (or witch hazel) before each new layer is applied to assure the soap layers bond together and do not separate. -p. 18 -q  -- What do I use to add scent: Essential oils (use pure oils; not mixed with base oils) -- Fragrance Oils (usually less expensive)-- Botanicals (can be used in conjunction with essential or fragrance oils. -- Calendula leaves, chamomile, ground cinnamon, lemon verbena, oatmeal, peppermint, rosebuds, and rosemary are some of the most common botanicals used in soapmaking. -p. 20 -q -- > Read 2012-3 -r -- Liberal Religion requires everybody to think of himself or herself as part of the whole. -p. -q -- The root of the evil is apathy and indifference -p. 11 -q -- Those who accept and absorb Liberal Religion feel no anxiety and are able to help overcome the disarray of society.? -p. 12 -q -- Our age does not lack reflection but passion. -Soren Kierkegaard -p. 12 -q -- Orton, Linda. -- Soapmaking for the first time. -- Sterling Publishing Co., c2001. -- 112 p. -- ISBN 0806966378.
 
-910 OVE -- Overall Ranking : best countries. -- on 1 external hard drive. -- File name: (9052.pdf) -- DBID 9052. -- IN Newsweek. -- Vol. 156, no. 9 (Aug. 30, 2010)
-
 k813 OWE -- Owen, Julie. -- The kind. -- Mean Time Press, 2017. -- [www](https://read.amazon.com/?aisn=B077LMKSNF).
 
 916 PAL -- Palin, Michael. -- Sahara. -- [S.n., n.d.] -- v.
@@ -1638,8 +1606,6 @@ w025.3 PEN -- Penalvo, Francisco Jose Garcia. -- Qualified Dublin Core metadata 
 k813 PEE -- Peebles, Chrissy. -- Rebellious. -- [S.n.], 2017. --[www](https://read.amazon.com/?aisn=B0765ZNYPD).
 
 813 PEN -- Pendleton, Paige W. -- The keeper and the rune stone. -- Pig Wing Press, 2012.. -- Title from Amazon.com desc.
-
-025.3 PEN -- Pennell, Charley. -- Synchronizing catalog externalities. -- [S.l.] : Catalog Form & Function Interest Group, 2009. -- on 1 external hard drive. -- File name: (8407.ppt) -- DBID 8407
 
 025.17 PEN -- Pennock, Maureen. -- Managing and preserving e-mails. -- [S.l.] : Digital Curation Centre, 2006. -- on 1 external hard drive. -- File name: (1076.pdf) -- DBID 1076
 
@@ -1707,8 +1673,6 @@ k813 POH -- Pohl, Laura. -- The last 8. -- Sourcebooks Fire, 2019. --[www](https
 781.66 PRE -- Presley, Elvis. -- Elvis' Golden Records. -- New York, N.Y: RCA Victor, 1985. -- on 1 external hard drive. -- Title from Compact Disk.
 
 781 PRI -- Pritchard, Paul. -- The way forward. -- [KPM, c1996]. -- on 1 external hard drive. -- Title from Amazon.com.
-
-324 PRO -- Proceedings and ordinances of the Privy Council of England. Volume VII. / edited by Sir Harris Nicholas. -- [Great Britain] : The Commissioners of the Public Records of the Kingdom, 1837. -- on 1 external hard drive. -- File name: (9041.pdf) -- DBID 9041
 
 808.06692 PRO -- Progoff, Ira. -- At a journal workshop. -- Jeremy P. Tarcher, c1975, 1992. -- x, 422 p. -- ISBN 0874776384.
 > Ch. 5: Twilight Imagery and Life Correlation. -s -- Ch. 6: Daily Log: 'keep a current basis with the movement of our lives' -- Basically, diary writing. -- Two types: Recapitulation, and current recording. -s
@@ -1831,7 +1795,7 @@ k813 ROS -- Ross, Veronica. -- Insurgent. -- [www](https://read.amazon.com). -- 
 > Read 2017-03. Grade B. -r
 
 823 ROW -- Rowling, J. K.. -- Harry Potter and the philosopher's stone. -- New York : Scholastic, 2001. -- 384 p. -- ISBN 043936213X.
-> Read 2012-01 and 2017-03. Grade B. -r -- CH. 1: Dumbledore and Hagrid takes Harry to the Dursleys. -p. -s -- CH. 2: To a trip to the zoo, the glass of a snakes cage vanishes. -p. -s -- Ch. 3: The letters from Hogwarts begin to come. -p. -s -- Ch. 4: Hagrid shows up. -p. -s -- Rubeus Hagrid: Keeper of the Keys and Grounds at Hogwarts. -p. 59 -f -- Ch. 5: Hagrid takes Harry to Diagon Alley. -p. -s -- Gringotts: The wizards bank -- Miles under London. -p. 78 -f -- Ministry of Magic: Main job is to keep the community secret from muggles. -p. 81 -f -- Money: Galleons, gold, equals 17 Sickles -- Sicles, silver?, equals 29 Knuts. -- Knuts, copper -p. 94 -f -- 'Mmm,' said Harry, wishing he could say something a bit more interesting. -p. 97 -q -- Quidditch: The Wizard sport -- Like soccer, but played with broomsticks in the air. -p. 99 -f -- ... it's the wand that chooses the wizard, of course. - Mr. Ollivander -p. 103 -q -- He [Harry] paid seven gold Galleons for his wand... -p. 107 -q -- Ch. 5: Harry gets his supplies. -p. -s -- Weasley family: Bill, Charlie, Percy, Fred, George, Ron, Molly, -p. 124 -f -- Hermione Granger. -p. 132 -f -- Crabbe, Goyal, Draco Malfoy. -p. 133 -f -- Ch. 6: 9 3/4, and the train ride. -p. -s -- Ch. 7: The sorting, and feast. -p. -s -- Prof. Sprout: Herbology professor. -p. 165 -f -- Prof. Binns: History of Magic. -p. 156 -f -- Prof. Flitwick: Charms professor. -p. 155 -f -- Prof. McGonagall: transfiguration -p. 155 -f -- Prof. Quirrell: Defense against the dark arts. -p. 156 -f -- Ch. 8: First day of classes. -p. -s -- Ch. 9: Harry becomes seeker; they find large dog protecting something. -p. -s -- Wingardium Leviosa: makes something hover. -p. 218 -f -- Ch. 10: Wood teaches Potter about Quiditch, and they take on a troll. -p. -s -- Ch. 11: The Quiditch game. -p. -s -- Madam Pince: The librarian. -p. 245 -f -- Mirror of Erised... it shows us nothing more or less than the deepest, most desperate desire of our hearts. -Dumbledore -p. 264-5 -f -- It does not do to dwell on dreams and forget to live... -Dumbledore -p. 265 -s -- Ch. 12: Harry finds the mirror. -p. -s -- Locomotor Mortis -p. 275 -f -- Ch. 13: The Quiditch game, and Snape and Quirell. -p. -s -- Wonder what it's like to have a peaceful life... -Ron -p. 290 -q -- Ch. 14: Hagrid gets a dragon and Harry gives it to Charles -- Harry forgets the cloak, and Filch catches him. -p. -s -- Remember, Firenze, we are sworn to set ourselves against the heavens. Have we not read what is to come in the movements of the planets? -Bane. -p. 320 -q -- You have slain something pure and defenseless to save yourself, and you will have but a half-life, a cursed life, from the moment the blood touches your lips. -Firenze -p. 322 -q -- Ch. 15: For detention, they go to the forest, where a centurian tells them the situation. -p. -q -- Petrificus Totalus: Make someone go stiff as a board. -p. 340 -f -- Ch. 16: Three challenges. -p. -s -- There is no good or evil, there is only power, and those to weak to seek it... -Quirrell -p. 361 -q -- After all, to the well-organized mind, death is but the next great adventure. -p. 370 -q -- Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself. -Dumbledore -p. 370 -q -- ...[Voldemort] not being truly alive, he cannot be killed. -Dumbledore. -p. 370 -q -- The truth... is a beautiful and terrible thing, and should therefore be treated with great caution. -Dumbledore -p. 371 -q -- If there is one thing Voldemort cannot understand, it is love. He didn't realize that love as powerful as your mother's for you leave its own mark... to have been loved so deeply... will give us some protection forever... Quirrell, full of hatred, greed, and ambition, shared his soul with Voldemort, could not touch you for this reason. It was agony to touch a person marked by something so good. -p. 372 -q -- ... only one who wanted to find the Stone -- find it, not use it -- would be able to get it... -p. 373 -q -- I recon he [Dumbledore] had a pretty good idea we were going to try, and instead of stopping us, he just taught us enough to help. -p. 376 -q -- It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. -Dumbledore -p. 381 -q -- ... their wardrobes were empty, their trunks were packed... -p. 382 -q
+> Read 2012-01 and 2017-03. Grade B. -r -- CH. 1: Dumbledore and Hagrid takes Harry to the Dursleys. -p. -s -- CH. 2: To a trip to the zoo, the glass of a snakes cage vanishes. -p. -s -- Ch. 3: The letters from Hogwarts begin to come. -p. -s -- Ch. 4: Hagrid shows up. -p. -s -- Rubeus Hagrid: Keeper of the Keys and Grounds at Hogwarts. -p. 59 -f -- Ch. 5: Hagrid takes Harry to Diagon Alley. -p. -s -- Gringotts: The wizards bank -- Miles under London. -p. 78 -f -- Ministry of Magic: Main job is to keep the community secret from muggles. -p. 81 -f -- Money: Galleons, gold, equals 17 Sickles -- Sicles, silver?, equals 29 Knuts. -- Knuts, copper -p. 94 -f -- 'Mmm,' said Harry, wishing he could say something a bit more interesting. -p. 97 -q -- Quidditch: The Wizard sport -- Like soccer, but played with broomsticks in the air. -p. 99 -f -- ... it's the wand that chooses the wizard, of course. - Mr. Ollivander -p. 103 -q -- He [Harry] paid seven gold Galleons for his wand... -p. 107 -q -- Ch. 5: Harry gets his supplies. -p. -s -- Weasley family: Bill, Charlie, Percy, Fred, George, Ron, Molly, -p. 124 -f -- Hermione Granger. -p. 132 -f -- Crabbe, Goyal, Draco Malfoy. -p. 133 -f -- Ch. 6: 9 3/4, and the train ride. -p. -s -- Ch. 7: The sorting, and feast. -p. -s -- Prof. Sprout: Herbology professor. -p. 165 -f -- Prof. Binns: History of Magic. -p. 156 -f -- Prof. Flitwick: Charms professor. -p. 155 -f -- Prof. McGonagall: transfiguration -p. 155 -f -- Prof. Quirrell: Defense against the dark arts. -p. 156 -f -- Ch. 8: First day of classes. -p. -s -- Ch. 9: Harry becomes seeker; they find large dog protecting something. -p. -s -- Wingardium Leviosa: makes something hover. -p. 218 -f -- Ch. 10: Wood teaches Potter about Quiditch, and they take on a troll. -p. -s -- Ch. 11: The Quiditch game. -p. -s -- Madam Pince: The librarian. -p. 245 -f -- Mirror of Erised... it shows us nothing more or less than the deepest, most desperate desire of our hearts. -Dumbledore -p. 264-5 -f -- It does not do to dwell on dreams and forget to live... -Dumbledore -p. 265 -s -- Ch. 12: Harry finds the mirror. -p. -s -- Locomotor Mortis -p. 275 -f -- Ch. 13: The Quiditch game, and Snape and Quirell. -p. -s -- Wonder what it's like to have a peaceful life... -Ron -p. 290 -q -- Ch. 14: Hagrid gets a dragon and Harry gives it to Charles -- Harry forgets the cloak, and Filch catches him. -p. -s -- Remember, Firenze, we are sworn to set ourselves against the heavens. Have we not read what is to come in the movements of the planets? -Bane. -p. 320 -q -- You have slain something pure and defenseless to save yourself, and you will have but a half-life, a cursed life, from the moment the blood touches your lips. -Firenze -p. 322 -q -- Ch. 15: For detention, they go to the forest, where a centurian tells them the situation. -p. -q -- Petrificus Totalus: Make someone go stiff as a board. -p. 340 -f -- Ch. 16: Three challenges. -p. -s -- There is no good or evil, there is only power, and those to weak to seek it... -Quirrell -p. 361 -q -- After all, to the well-organized mind, death is but the next great adventure. -p. 370 -q -- Call him Voldemort, Harry. Always use the proper name for things. Fear of a name increases fear of the thing itself. -Dumbledore -p. 370 -q -- ...[Voldemort] not being truly alive, he cannot be killed. -Dumbledore. -p. 370 -q -- The truth... is a beautiful and terrible thing, and should therefore be treated with great caution. -Dumbledore -p. 371 -q -- If there is one thing Voldemort cannot understand, it is love. He didn't realize that love as powerful as your mother's for you leave its own mark... to have been loved so deeply... will give us some protection forever... Quirrell, full of hatred, greed, and ambition, shared his soul with Voldemort, could not touch you for this reason. It was agony to touch a person marked by something so good. -p. 372 -q -- ... only one who wanted to find the Stone -- find it, not use it -- would be able to get it... -p. 373 -q -- I recon he [Dumbledore] had a pretty good idea we were going to try, and instead of stopping us, he just taught us enough to help. -p. 376 -q -- It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. -Dumbledore -p. 381 -q -- ... their wardrobes were empty, their trunks were packed... -p. 382 -q. -- What happened down in the dungeons between you and Professor Quirrel is a complete secret, so, naturally, the whole school knows. -Dumbledore. -q
 
 823 ROW -- Rowling, J.K. -- Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre. -- New York, NY : Scholastic, c2000. -- 734 p. -- ISBN 0439139597. -- DBID 3079
 > Read 2012-07 and 2017-03. Grade B. -r
@@ -1858,8 +1822,6 @@ k813 ROS -- Ross, Veronica. -- Insurgent. -- [www](https://read.amazon.com). -- 
 781.64 RYB -- Rybak, Alexander. -- No Boundaries. -- S.l.: Art, 2010. -- on 1 external hard drive. -- Title from Compact Disk.
 
 651 SAF -- Saffady, William. -- Records and information management. -- Lenexa, Kansas : ARMA International, c2004. -- x, 218 p. -- ISBN 1931786178
-
-025.3 SAH -- Sahli, Nancy A. -- Interpretation and application of the AMC format. -- on 1 external hard drive. -- File name: (8445.pdf) -- DBID 8445. -- IN American Archivists. -- Vol. 49, no. 1 (Winter 1986)
 
 100 SAM -- Samuelson, Scott. -- The deepest human life. -- Chicago and London: The University of Chicago Press, c2014. -- xiv, 216 p. -- ISBN 9780226130385.
 >  Read 2015-10. Grade B. -- Religion is built on authority, which could be wrong. Science is built on the senses, which could be wrong. Mathematics and logic are built on reason, which could be wrong. -p. 86 -q -- ... a few things become clear beyond all doubt to al-Ghazali: first, God is real; second, at our innermost point we are connected to God (in other words, the soul is immortal); and third, od wants something of us, namely, for us to be and do good. -p. 89 -q -- Once you accept that pleasure and pain are the ultimate guides to action... -p. 87 -q -- ... derangement of the sences... -p. 89 -q -- Admittedly, when discussing immersion in the divine, we're in far over our heads. -p. 91 -q -- We're presented with a paradox that is an invitation to the inmost experience of the universe. We're presented with a holy poem. -p. 94 -q -- ... the final moment involves turning to ritual practice in order to sustain in our fallible lives the infinate truth that we're been entrusted with. In the case of love, this tends to mean marriage. -p. 94 -q -- Science in the yellow snowmobile helmet will neer be able to enter into what being alive is about. -p. 96 -q -- What is philosophy or religion - or human life for that matter - but the attempt to relate to the meaningful hugeness revealed in such experiences without sounding or acting like a total fool, at our best with a touch of style? -p. 98 -q -- It occurs to him [Descartes] that the support beam of almost all our beliefs is the senses. he first muted doubt 9the doubt of the first meditation builds into a kind of intellectual crescendo) is that the senses sometimes deceives us: for instance, we see water on the road, which proves in actuality to be a mirage. -p. 103 -q -- In the beginning stages of human life, we accept the basis of culture on authority. Then, when we go deeper into the ultimate, we find that reason blanks at its sunlight intensity, and we must utilize the mirrors of myth, symbol, and ritual to picture it. Certainly, this usual relationship to the divine still holds to picture it. -p. 116 -q -- Pascal sums up our condition in three words: 'Inconstancy, bordom, anxiety' - a striking outline of the problem of being human. -p. 122 -q -- 'Wretchedness' is Pascal's shorthand for that part of the human condition he analyzes with the terms 'anxiety,' 'diversion,' 'bordom,' 'inconstancy,' and 'vanity. -p. 127 -q -- A sensible religion is absurd because human nature is anything but sensible. -- In short, Pascal thinks that Christianity, the most scandalous of all religions, is our only hope. Islam and Judaism makes too much sense. I can only imagine what he would have made of Unitarianism. -p. 133 -q -- 'Man's greatness comes from knowing he is wretched,' in Pascal's fine phrase. We stand a much better chance of winning hte forgiveness game than the law game. Yet forgiveness can take place only within a context of the law. -p. 134 -q -- Christianity is, as I said, a religion that stretches credulity. To be a Christian is to belive any number of paradoxes: that true morality appears in the context of immorality, that god is human, that power is expressed in suffering, and that this human God, uttering the famous cry of abandonment on the cross, is something of an athiest. -p. 135 -q
@@ -1987,8 +1949,6 @@ k813 SIM -- Simmon, J.B. -- The blue tower. -- Three Cord Press, 2018. -- [www](
 k523 SMO -- Smolin, Lee. -- The life of the cosmos. -- New York : Oxford University Press, 1999.. -- [www](https://read.amazon.com).
 > Read 2011-10. -r
 
-025.3 SNO -- Snow, Karen. -- Transcript of "Technical services: past, present, future" program of the ALISE Technical Services Education SIG at the ALISE annual conference in Boston, Mass., January 15, 2010. -- S.l. : s.n., n.d.] -- on 1 external hard drive. -- File name: (9050.pdf) -- DBID 9050
-
 794.8 SNY -- Snyder, Chris. -- The 3 MMOs to play in beta & pre-order before summer [MUO gaming]. -- on 1 external hard drive. --DBID 3008. -- IN MakeUseOf.com. -- (Apr. 29, 2012)
 
 321 SNY -- Snyder, Timothy -- On Tyranny. -- Tim Duggan Books, c2017. -- 126 p.
@@ -2025,8 +1985,6 @@ k813 STK -- St. Kevern, Gillian. -- The biggest scoop. -- [S.n., n.d.] -- [www](
 
 k813 STA -- Starr, D.H. -- Meant for him. -- Ai Press, 2014. -- [www](https://read.amazon.com). -- AISN B00N23JJDG.
 > Read 2018-05. Grade C. -- He shut out the self-pitying thoughts, -- Desperate to divert attention from himself, -- Most people managed to connect, a feat he seemed incapable of. -- just being without having to calculate or control situations -- you complement one another. -- He bottled up his discomfort, not wanting to push, just like he kept his growing desire to spend even more time with Andrew to himself. -- Over-thinking things wouldn’t lead to anything good. -- There’s a light inside you and since you met Andrew, it’s glowed brighter. -- “You each have strengths where the other doesn’t. It’s that simple. -- There was no thinking involved, just being and doing.
-
-025.3 STA -- Statement of international cataloguing principles. -- [S.l., s.n.], 2008. -- on 1 external hard drive. -- DDC -- File name: (7059.txt) -- DBID 7059
 
 025.3 STE -- Steele, Bill. -- After 32 years, the library card catalog is retired. -- on 1 external hard drive. -- DDC -- File name: (6603.pdf). -- DBID 6603. -- IN Chronicle Online. -- (Oct. 1,2007).
 
@@ -2292,8 +2250,6 @@ k347 TOB -- Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- [www](https
 651 UNS -- United Nations. Secretariat. -- Record-keeping and the management of United Nations archives. -- [S.l. : s.n., 2007]. -- DDC -- File name: (1680.pdf). -- DBID 1680
 
 310 USC -- United States. Central Intelligence Agency. -- The 2009 CIA world factbook. -- [S.l. : s.n., 2009?] -- on Asus Transformer. -- DBID 3117
-
-378 UDM -- University of Detroit Mercy. -- 2007-2008 tuition & fees schedule. -- [Detroit, Mich. -- UDM, 2008]. -- File name: (5377.PDF). -- DBID 5377
 
 813 UNK -- The Unknown man. -- [S.n., n.d.] -- v.
 > Read 2017-08. Grade C. -r
