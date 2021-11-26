@@ -3910,6 +3910,20 @@ k813 Kep -- Wysard: Part One of The Ryel Saga / Carolyn Kephart -- Samarkand Pre
 
 k813 Pla -- Yesterday's Gone: Season One / Sean ,  Wright, David Platt -- Collective Inkwell, [n.d.] -- [www](https://read.amazon.com/?asin=B005REXCKE).
 
+g370 ZAK -- In defense of a liberal education / Fareed Zakaria. -- W.W. Norton & Company, c2015. -- www.
+
+g523 TYS -- Origins : fourteen billion years of cosmic evolution / Neil deGrasse Tyson and Donald Goldsmith. -- W.W. Norton & Company, 2004. -- www.
+
+g813 REY -- Revelation space / Alastair Reynolds. -- [S.n.], c2000. -- [www]
+
+g576 BRA -- The ends of the world : volcanic apocalypsis, lethal oceans, and our quest to understand Earth's past mass extinctions / Peter Brannen. -- HarperCollins, c2017. -- www.
+
+g923 WOO -- Fear: Trump in the White House / Bob Woodward. -- Simon & Schuster, c2018. -- www.
+
+g303 ODE -- How to do nothing : resisting the attention economy / Jenny Odell. -- Melville House, c2019. -- www.
+
+g576 MES -- A brief history of creation: science and the search for the origin of life / Bill Mesler and H. James Cleaves II. -- W.W. Norton Company, c2016. -- www.
+
 k813 Bri -- Z-Minus: The Zombie Apocalypse Series / Perrin Briar -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00QVHRMQG).
 
 k294 Kat -- Zen : simplify life with Zen / John Kato -- [S.n., n.d.] -- [www](https://read.amazon.com/).
