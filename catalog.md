@@ -3,7 +3,7 @@
 
 g005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- www.
 
-091 TYL. [Photographs of the back field at the George and Cherie Thompson estate, Aug. 24, 2013] / Tyler, Justin Lee -- on 1 external hard drive. -- File directory: 3292. -- DBID 5392.
+091 TYL. [Photographs of the back field at the George and Cherie Thompson estate with Justin and Colleen / Justin Lee Tyler -- Aug. 24, 2013] -- on 1 external hard drive. -- DBID 3292.
 
 781 INS -- No strings attached / -NSYNC. --[S.l.], 2000. -- on 1 external hard drive. 
 
@@ -409,8 +409,6 @@ w152 CHE -- 12 rituals happy, successful people practice every day / Chernoff, M
 
 813 CHI -- Terminal freeze / Lincoln Child. -- 1st ed. -- Random House, c2009. -- 320 p. -- ISBN 9780385515511.
 > Read 2013-04. Grade C. -- Old Rag Lodge: Secret goverment hideaway. -p. 41. Based on Project Greek Island -f -- Omega Archive -f -- Ch. 16: The specimine goes missing -s -- Ch. 19: Logan says he found a report that a team of scientists were dispatched to Fear Base, 7 died there, 1 died later. He's there to investigate why. -s -- Ch. 25: Condi wants to change to the documentary to a murder documentary -s -- Ch. 26-31: Faraday proposes a theory: The ice (ice-15) can unthaw at below freezing point, the creature was originally flash-frozen, leading to a cryogenic sleep. -- Logan finds a hidden journal from one of the original scientists. -s -- Ch. 32-41: Marshall goes to find and brings back the shaman (Usuguk) becasue the journal says the Tunit has the answers. -- Most of the crew at Fear Base leave, save the army, scientists, and a few production people. -- We learn the  -- Callisto Effect: A fictional evolutionary theory stating that when a species becomes too comfortable and numerous, another creature evolves to thin out the numbers. -p. 181-2 -f -- Vigenere Cipher: mentioned on p. 183. -- Ultimately, it becomes its own worse enemy. It kills everything - leaving itself without sustenance. -p. 182 -q -- Ch. 42-45: The truck carrying the evacuees hit a rock, and the fuel take is punctured. They may not have enough fuel to make it back. -- The creature may be susseptable to sound.
-
-305.23 CHU -- Kids : Past v.s. internet generation / Chung, Jackson. -- on 1 external hard drive. -- Filename: 3286.jpg. -- DBID 3286.
 
 781.67 CIS -- Chant / The Cistercian Monks of Stift Heiligenkreuz. -- on 1 external hard drive. -- Universal Music Classics, c2008. -- File Directory: /music/ .
 
@@ -1270,15 +1268,13 @@ w152 LUT -- Luther, Kate. -- 7 ways to get your life back into balance. -- wiseb
 
 781.67 LYN -- Lynch, Ray. -- Nothing Above My Shoulders but the Evening. -- Stanford, CA: Windham Hill Records, 1993. -- on 1 external hard drive. -- Title from Compact Disc.
 
-779 LYN -- Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- 2012- . -- Directory name: 3271. -- DBID 3271.
+779 LYN -- Lysik, Shawn. -- [Photographs of Ward Reservation and Justin Lee Tyler]. -- 2012- . -- File name: 3271.jpg -- DBID 3271.
 
 w025.3 MAY -- Ma, Yan. -- Cataloging internet resources. -- [S.l. : s.n.], 2000. -- [www](http://www.uri.edu/personal/yanma/550/cataloginginternet2/).
 
 001 MAC -- MacKay, Charles. -- Memoirs of extraordinary popular delusions and the madness of crowds. -- London : Office of the National Illustrated Library, 1852. -- DBID 3064
 
 576 MAC -- MacLeod, Norman. -- The great extinctions. -- Firefly books, c2013. -- 208 p. -- ISBN 9781770851870.
-
-170 MAN -- [Madela - "No one is born..." poster]. -- [S.n., 2013]. -- on 1 external hard drive. -- Filename: 3307.jpg. -- DBID 3307.
 
 927 MAD -- Madigan, Tim. -- I'm proud of you. -- [S.n., n.d.] -- v.
 > Read 2013-10. Grade D. -r
@@ -2143,13 +2139,19 @@ k347 TOB -- Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- [www](https
 
 779 TYL -- Tyler, Justin Lee. -- [Photograph of Shawn near a railroad crossing sign]. -- [2012]. -- on 1 external hard drive. -- File name: 3255.jpg.
 
-799 TYL -- Tyler, Justin Lee. -- [Photographs of Burlington and Shelborne, Vermont]. -- [2014]. -- on 1 external hard drive. -- File directory: 3321. -- DBID 3321.
+799 TYL -- Tyler, Justin Lee. -- [Photographs of Burlington and Shelborne, Vermont with Robbie, Shawn, and Calab]. -- [2014-05-13]. -- on 1 external hard drive. -- DBID 3321.
+
+779 TYL -- [Photographs of Haley, Justin, and Shawn -- 2015-2017. -- on external hard drive. -- DBID 7069.
+
+779 TYL -- [Photographs of Chicago -- -- on external hard drive. -- DBID 6000.
 
 779 TYL -- Tyler, Justin Lee. -- [Photographs taken around the Blue Hills, Ipswich, Massachusetts]. -- on 1 external hard drive. -- File directory: 3326.
 
-779 TYL -- Tyler, Justin Lee. -- [Photographs taken at Biolabs, Ipswich, Massachussets]. -- 2013- . -- File directory: 3274. -- DBID 3274.
+779 TYL -- Tyler, Justin Lee. -- [Photographs taken at Biolabs, Ipswich, Massachussets]. -- 2012-10-18. -- File name: 3274.jpg. -- DBID 3274.
 
 779 TYL -- Tyler, Justin Lee. -- Lyme disease caution [sign photograph]. -- May 2, 2011. -- on 1 external hard drive. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024
+
+779 TYL -- [Photographs of Mt. Oceola hike with Justin and Shawn. -- 2013-05-19]. -- on external hard drive. -- DBID 3283.
 
 779 TYL -- Tyler, Justin Lee. -- [Photograph of an old building in San Fransisco]. -- [2007]. -- on 1 external hard drive. -- File name: (5655.jpg). -- DBID 5655
 
@@ -2178,10 +2180,6 @@ k347 TOB -- Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- [www](https
 779 TYL -- Tyler, Justin Lee. -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.). -- [2013]. -- on 1 external hard drive. -- Title supplied by cataloger.
 
 917.42 TYL -- Tyler, Justin Lee.  -- [Photographs and videos of Justin and Shawn on Mt. Liberty]. -- [2012]. -- on 1 external hard drive. -- File directory: /3227 . -- DBID 3227.
-
-917.42. -- Tyler, Justin Lee. -- [Photographs and videos of Justin on Mt. Osceola on Aug. 10, 2013]. -- [2013]. -- on 1 external hard drive. -- File directory: 3289. -- DBID 3289.
-
-779 TYL -- Tyler, Justin Lee. -- [Photographs of the George and Cherie Thompson estate]. -- [2010]. -- on 1 external hard drive. -- File directory: /3228 . -- DBID 3228.
 
 779 TYL -- Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- [200-?]-- on 1 external hard drive. -- DBID 8825
 
