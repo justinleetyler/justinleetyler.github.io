@@ -360,7 +360,7 @@ g025.3 CAL -- Online catalogs : What users and librarians want / Principal contr
 813 CAM --Gabe and the mystery light / Cameron, Joy. -- [S.n., n.d.] -- v.
 > Read 2018-07. Grade C. -r
 
-355 CAM -- Camp Delta standard operating procedures (SOP). -- [S.l., s.n.], 2003. -- File name: (6409.pdf). -- DBID 6409
+g355 CAM -- Camp Delta standard operating procedures (SOP). -- [S.l., s.n.], 2003. -- [www](https://drive.google.com).
 
 843 CAM -- The plague / Camus, Albert. -- London: Penguin, 2002. -- 256 p
 > Read 2012-03. -r -- 'Tarrou, Jean'a visitor to Oran -p. 21 -f -- -p. 21- -s -- Castel'one of Rieux's colleagues' (33) -p. 33 -f -- There have been as many plagues as wars in history; yet always plagues and wars take people equally by surprised. -p. 34 -q -- 'Grand, joseph'Clerk of Oran (38) -missing upper teeth -'attributes of insignificance (41) -little ambition in life (41) -p. 38 -f -- '? he [Joseph] had the walk of a shy young priest, sidling along walls and slipping mouselike into doorways.' -p. 41 -q -- And lastly - this was the real trouble - Joseph Grand couldn't find his words? this difficulty in finding his words had come to be the bane of his life. -p. '42,43' -q -- '? he [Joseph] refused to use expressions such as 'your kindness,' 'gratitude,' or even 'solicit,' which, to his thinking, were incompatible with his personal dignity.' -p. 42 -q -- ? he [Joseph] was one of those rare people? who have the courage of their good feeling. What little he told of his personal life vouched for acts of kindness and a capacity for affection that no one in our times dares own to. -p. 43 -q -- '-Richard, Rieux, and the prefect discusses the situation -Richard wants action, Rieux wants caution, proper timing.' -p. 44-47 -s -- Cottard -p. 49 -f -- 'Like Cottard he [Rieux] felt a need for friendly contacts, human warmth.' -p. 53 -q -- Rigaudarchitect (54) -p. 54 -f -- People always talk? That's only to be expected. -p. 55 -q -- Never had Rieux known his profession to weigh on him so heavily. -p. 55 -q -- Castel went back to his old books and spent long hours in the public library. -p. 57 -q -- Orders? when what's needed is imagination. -p. 58 -q -- Oran -p. 3 -f -- 'Rieux, Bernard (Dr.)'medical doctor -main character -wife went to sanitoriam (8) -30 y/o (8) -p. 7 -f -- 'Michel, M'concerge (9) -p. 9 -f -- 'Othon, M'magistrate (10) -p. 10 -f -- 'Ramber, Raymond'jounralist (11) -p. 11 -f -- 'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 -q -- Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f
@@ -373,7 +373,7 @@ g025.3 CAL -- Online catalogs : What users and librarians want / Principal contr
 
 k813 CAR -- Project Dandelion / Carson, Heather. -- [S.n.], 2019. -- [www](https://read.amazon.com/?aisn=B07TLF8HN7).
 
-025.8 CAS -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- [S.n., s.l.], c2007. -- File name: (6445.pdf). -- DBID 6445
+g025.8 CAS -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- [S.n., s.l.], c2007. -- [www](https://drive.google.com).
 
 027 CAS -- Libraries in the ancient world / Casson, Lionel. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094
 > Read 2011-10. -r -- The BeginningsA. Clay 1. Durable 2. ok in fire -p. - -- PrefaceA. covers from 3000 BCE-500 CEB. -p. - -- 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
@@ -1483,8 +1483,10 @@ k813 NEV -- These Florida nights / Nevada, P.J. -- [S.n., n.d.] -- [www](https:/
 193.9. NIE -- The portable Nietzsche / [by Friedrich Wilhelm Nietzsche]; selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p
 > Read 2012-03. -r -- The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q -- I teach you the overman. -Zarathustra -p. 124 -q -- When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 -q -- Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q
 
-005 NIX -- Learning PHP, MYSQL, and Javascript / Robin Nixon. -- Beijing; Cambridge : O'Reilly, c2009. -- on 1 external hard drive. -- File name: (8847.pdf) -- DBID 8847.
+g005 NIX -- Learning PHP, MYSQL, and Javascript / Robin Nixon. -- Beijing; Cambridge : O'Reilly, c2009. -- [www](https://drive.google.com).
 > The process of separating your data into tables and creating primary keys is called normalization. , p. 203 -q -- E. F. Codd: inventor of the relational model. -p. 203 -q -- On a very popular site, if you have normalized tables, your database access will slow down considerably once you get above a few dozen concurrent users. -p. 210 -q
+
+g220 NEW -- The new oxford annotated bible : New revised standard version with the Apocrapha / Michael D. Googan, Editor ; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors. -- 4th ed. -- Oxford University Press, c2010. -- [www](https://drive.google.com).
 
 813 NOR -- America Pacifica / North, Anna. -- [S.n., n.d.] -- v.
 > Read 2013-02. Grade D. -r
@@ -1930,7 +1932,7 @@ k813 STK -- St. Kevern, Gillian. -- The biggest scoop. -- [S.n., n.d.] -- [www](
 k813 STA -- Starr, D.H. -- Meant for him. -- Ai Press, 2014. -- [www](https://read.amazon.com). -- AISN B00N23JJDG.
 > Read 2018-05. Grade C. -- He shut out the self-pitying thoughts, -- Desperate to divert attention from himself, -- Most people managed to connect, a feat he seemed incapable of. -- just being without having to calculate or control situations -- you complement one another. -- He bottled up his discomfort, not wanting to push, just like he kept his growing desire to spend even more time with Andrew to himself. -- Over-thinking things wouldn’t lead to anything good. -- There’s a light inside you and since you met Andrew, it’s glowed brighter. -- “You each have strengths where the other doesn’t. It’s that simple. -- There was no thinking involved, just being and doing.
 
-025.3 STE -- Steele, Bill. -- After 32 years, the library card catalog is retired. -- on 1 external hard drive. -- on external hard drive. --  File name: (6603.pdf). -- DBID 6603. -- IN Chronicle Online. -- (Oct. 1,2007).
+g025.3 STE -- Steele, Bill. -- After 32 years, the library card catalog is retired. [S.n., 2007].-- [www](https://drive.google.com). -- IN Chronicle Online. -- (Oct. 1,2007).
 
 973 STE -- Stein, Mark. -- How the states got their names. -- [S.n., 19--]. -- Title from BN.com.
 
@@ -2012,7 +2014,7 @@ g200 MAN -- The birth of religion / Charles C. Mann. -- ngm.com, 2011. -- www.
 321 GOV -- The Governor-General is the guardian of our Constitution -- on 1 external hard drive. -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000)
 > [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is  reserved, and that her servants, our servants, do not become our masters.  -p.  -q -- The Governor-General and the Lieutenant Governors have the right to be consulted by their ministers, and the right to  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.  -p.  -q
 
-226 GRO -- The growth of the gospel tradition. -- [S.l., s.n.], 2007. -- on 1 external hard drive. -- File name: (5665.pdf). -- DBID 5665
+g226 GRO -- The growth of the gospel tradition. -- [S.l., s.n.], 2007. -- [www](https://drive.google.com).
 
 813 COL -- The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481
 > So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market... I avoid discussing tricky topics.  -p. 6 -q
