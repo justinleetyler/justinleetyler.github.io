@@ -3971,3 +3971,6 @@ w001 ONE -- 1 MB club. [S.n., n.d.] -- [www](https://1mb.club/).
 
 019 CAT -- Catalogue of the Mercantile Library of Boston. -- John Wilson and Son, 1854.-- [www](https://archive.org/details/supplementtocat01massgoo).
 > Good example of a Cutter's, "short-title" type of library catalog. -r
+
+813 LET -- The arrest / Jonathan Lethem. -- Ecco, c2020. -- [www](https://read.amazon.com/?asin=B084VRV91Y).
+> Read 2021-12. Grade E. -r
