@@ -2038,229 +2038,228 @@ w025.06 KHA -- The Khan academy / [by Salman Khan]. -- [Menlo Park, CA] : Salman
 
 791.45 WES -- The west wing. -- [S.l.] : Warner Home Video, 1999. -- 4 videodiscs (956 min.) -- Starring Jason Ensler, Martin Sheen, Stockard Channing, Allison Janney, Moira Kelly
 
-178 PIE -- Pierce, Linda. -- Choosing simplicity. -- [S.n., n.d.] -- v.
+178 PIE -- Choosing simplicity / Pierce, Linda. -- [S.n., n.d.] -- v.
 > Read 2012-11
 
-w922 THA -- Thatcher, Margaret. -- The Downing Street years. -- HarperPerennial, c1995, c1993. -- [www](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- Available to Ipswich Public Library card holders.
+w922 THA -- The Downing Street years / Thatcher, Margaret. -- HarperPerennial, c1995, c1993. -- [www](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- Available to Ipswich Public Library card holders.
 > Read 2012-11. -r -- (As Arthur Shenfield put it, the difference between the public and private sectors was that the private sector was controlled by government, and the public sector wasn't controlled by anyone.) - -q -- I was always asked how it felt to be a woman prime minister. I would reply: 'I don't know: I've never experienced the alternative.' -q -- The desire to win is born in most of us. The will to win is a matter of training. The manner of winning is a matter of honour. -q -- The Privy Council is one of the oldest of Britain's political institutions, with the most important of the Crown's advisers among its members, including by convention all Cabinet ministers. Its meetings — usually of a few ministers in the presence of the Queen — are now purely formal, but the oath taken by new members reinforces the obligation of secrecy in conducting government business, and the issue of 'Orders in Council' is still an important procedure for enacting the legislation not requiring the approval of Parliament. -q -- ... 'orderly management of decline' -q -- They were as appalled as I was, and retreated into their shells. -q -- It was impossible not to like Jimmy Carter. He was a deeply committed Christian and a man of obvious sincerity. -q -- President Giscard d'Estaing was never someone to whom I warmed. I had the strong impression that the feeling was mutual. -q -- ... the root of Britain's industrial problem was low productivity. -q -- We knew that we could do this only by controlling those things which government could control — namely the money supply and public borrowing. -q -- ... would only influence expectations -q -- Retreat as a tactic is sometimes necessary; retreat as a settled policy eats at the soul. -q -- .. did not know enough about the steel industry to become involved in the negotiations though, of course, I was keen to hear their views. -q -- Closure would have some awful consequences, but we must never give the impression that it was unthinkable. -q -- But this did not escape from the fact that extra public spending — whatever it was spent on — had to come from somewhere. And 'somewhere' meant either taxes levied on private individuals and industry; or borrowing, pushing up interest rates; or printing money, setting off inflation. -q -- I thrive on honest argument. I am interested in practical options. -q -- I offended on many counts. -q -- Personal incomes had been increasing while company profits had been shrinking, so it was clear that any extra taxation should be borne by the personal rather than the corporate sector. -q -- I do not greatly care what people say about me: I do greatly care what people think about our country. -q -- ... the Government found itself dragged into a crisis we had neither sought nor predicted. -q -- What was clearly lacking was a sense of pride and personal responsibility -q -- The fact that the Left howled disapproval confirmed that he was just the right man for the job. He was someone they feared. -q -- The 'wets' had been defeated, but they did not yet fully realize it... -q -- .. poisonous legacy of socialism — nationalization, trade union power, a deeply rooted anti-enterprise culture. -q -- Later I discovered how important the wives of leading Arab figures are. Indeed, many of these women are highly cultivated, very well educated and well informed. Their influence is greatly underrated in the West... -q -- ... Ronald Reagan, with his effortless amiability... -q -- To me consensus seems to be: the process of abandoning all beliefs, principles, values and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner 'I stand for consensus'... -q -- But when you are at war you cannot allow the difficulties to dominate your thinking: you have to set out... -q -- with an iron will to overcome them. -q -- old style Tory: a country gentleman and a soldier, a good tactician, but no strategist. He is a proud pragmatist and an enemy of ideology; the sort of man of whom people used to say that he would be 'just right in a crisis'...  -q -- As Frederick the Great once remarked, 'diplomacy without arms is like music without instruments. -q -- I knew that the only reason the Argentinians were prepared to negotiate at all was because they feared our task force. -q -- Our task was not to make grand plans for technological innovation but rather to see how public opinion could be influenced in order to embrace not recoil from it. -q -- ... as a passionate advocate of free enterprise capitalism I was convinced that, given the right framework of laws and an appropriately educated workforce, it could widen choice, generate wealth and jobs and improve the quality of people's lives. -q -- When I am making a big decision, I always prefer to sleep on it. -q -- Home Secretaries never do have an easy time; it is sometimes said that they possess a unique combination of responsibility without power... -q -- ... they become touchy and uncertain about their standing; and all this makes them vulnerable. -q -- It seemed to me that what happened there contained important lessons which we should heed. First, it is unwise to intervene in such situations unless you have a clear, agreed objective and are prepared and able to commit the means to secure it. Second, there is no point in indulging in retaliatory action which changes nothing on the ground. Third, one must avoid taking on a major regional power, like Syria, unless one is prepared to face up to the full consequences of doing so. -q
 
-262 THA -- Thavis, John. -- The Vatican diaries. -- Viking, c2013. -- 321 p. -- ISBN 9780670026715.
+262 THA -- The Vatican diaries / Thavis, John. -- Viking, c2013. -- 321 p. -- ISBN 9780670026715.
 > Ch. 05: The fight between SSPX and the Vatican. -s
 
 174 THE -- Theology and Christian ethics. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1743.
 Priestly 2. 7th - 6th BCE 3. Worked in Jerusalem F. Redactist 1. Editor 2. After the Exile 3.' -p. -o -- 'I. Genesis 1-2 A. a 'theological meditiation in story form.' 1. Not scientific fact B. Gen 1 1. Priestly account 2. Written 2nd 3. transcentdent C. Gen 2 1. Yahwist 2. Written 1st 3. anthropormiphic D. Humans given central part of creation' -p. -s -- 'II. Genesis 3 A. an aetiological story 1. A story about how things got to be where they are today.- B. A narrative theodicy C. Gen. 3 isn't necessariry for original sin' -p. -s -- > I. Ways of Using Scripture -by James M. Gustafson A. Revelation of a Morality 1. In accordance with moral laws 2. Principles for ethical interpretations 3. Problems for Christians has they have a new covenant a. Rom. 8:2 b. 'Christians have no codifications of the moral law of scripture.' B. Revelation of the Actions of God 1. Answering the question 'what is god doing in our time' -p. -o -- Theology and scripture. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1742. -- DDC 220.  -- 'I. Pilgrims Regress A. A superego formation in Freudian Terms B. Card is the rules of parents v.s. friends 1. Scriptural v.s. worldly wisdom' -p. -o -- 'II. Death of Ivan Illich A. General Notes 1. Death disappears. 2. A remarkable change of outlook 3. What is his sin? He's a clone of convention. He's caught up in his ''roll''. a. inauthentic self 4. Guilt is ''existential guilt. 5.' -p. -o -- 'III. Wellhausen Hypothosis A. Torah written in three different schools B. J 1. Yahwist 2. 950BCE C. E 1. Elohist D. D -- DDC Dutoronomist E. P
 
-641 THE -- Theriault, Myscha. -- 15 healthy and cheap 5-minute dinners. -- [S.n., n.d.]. -- File name: 3253.txt.
+641 THE -- 15 healthy and cheap 5-minute dinners / Theriault, Myscha. -- [S.n., n.d.]. -- on external hard drive. -- File name: 3253.txt.
 
 g025.3 TIL -- What is FRBR? / Tillett, Barbara. -- [Washington, DC] : Library of Congress, 2003. -- www.
 
-781.67 TIN -- Tin, Christopher. -- Calling All Dawns: A Song Cycle. -- S.l.: Tin Works Pub, 2009. -- on 1 external hard drive. -- Title from Compact Disc.
+781.67 TIN -- Calling All Dawns: A Song Cycle / Tin, Christopher. -- S.l.: Tin Works Pub, 2009. -- on 1 external hard drive. -- Title from Compact Disc.
 
-781.67 TIN -- Tin, Christopher. -- The drop that contained the sea. -- Tin Works, 2014. -- on 1 external hard drive. -- Title from Amazon.com.
+781.67 TIN -- The drop that contained the sea / Tin, Christopher. -- Tin Works, 2014. -- on 1 external hard drive. -- Title from Amazon.com.
 
-781.67 TIN -- Tingstad, Eric. -- In the garden / Eric Tingstad and Nancy Rumbel. -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- File directory: /music/ .
-> Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225.
+781.67 TIN -- In the garden / Eric Tingstad and Nancy Rumbel. -- Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. -- on 1 external hard drive. -- File directory: /music/ . -- Contents: The gardener (3:37) -- Bonsai picnic (3:45) -- Ghostwood (4:34) -- The parterre (4:05) -- Harvest (3:26) -- Hanging in Babylon (3:18) -- Big weather (4:23) -- Iris in moonlight (4:33) -- Medicine tree (5:04) -- Roses for Jessie (5:30) -- Monticello (4:44). -- DBID 3225.
 
-k347 TOB -- Toobin, Jeffrey. -- The nine. -- Anchor Books, c2007. -- [www](https://read.amazon.com). -- eISBN 9780307472892.
+k347 TOB -- The nine / Toobin, Jeffrey. -- Anchor Books, c2007. -- [www](https://read.amazon.com). -- eISBN 9780307472892.
 > Read 2020-04. -- Grade C. -r -- for O’Connor there was little difference between a judicial and a political philosophy. -- She had an uncanny ear for American public opinion, and she kept her rulings closely tethered to what most people wanted or at least would accept. -- William Brennan, observed in 1985, “the genius of the Constitution rests not in any static meaning it might have had in a world that is dead and gone, but in the adaptability of its great principles to cope with current problems and current needs.” p. 18 -q -- John Marshall Harlan II, m, 20th c, Supreme Court Justice. -f -- [Souter] believed that law existed to preserve the stability of society and that adherence to precedent best guaranteed a limited and predictable role for the judiciary. Above all, he believed in the rule of stare decisis. -p. 53 -q -- Souter believed that the Constitution expressed a libertarian ideal—that freedom from the restrictions of government counted as much as, or more than, the right of legislators to pass laws limiting individual freedom. -q -- And the people’s rights were not limited by the precise language of the Constitution, either. One of the strongest arguments against so-called unenumerated rights in the Constitution is that a written document should be limited in meaning to its precise terms. -q -- Souter avoided attention, loathed controversy, and disliked high-profile cases. -q -- Equanimity, WOTD -f -- waylaid, WOTD -f -- alacrity, WOTD -- Clinton's thoughts about abortion: safe, legal—and rare. -- [RBG] felt laws banning abortion were a form of sex discrimination—a violation of equal protection of the laws—rather than an affront to the right to privacy, as Blackmun’s opinion had held. -- choice of Ruth Bader Ginsburg—arguably Clintons seventh choice -f -- James Madison in Federalist No. 45, Rehnquist wrote, “The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite.” -- “color-blind Constitution -- If one wants to be popular, it is counterproductive to disagree with the majority. If one just wants to tread water until the next vacation, it isn’t worth the agony. If one just wants to muddle through, it is not worth it. -Clarence Thomas -q -- [Clarence Thomas'] office, a little sign reads: ‘To avoid criticism, say nothing, do nothing, be nothing. -- [Renquist] had reduced the job to its essentials: a morning meeting with his law clerks to talk about the progress of opinions, a meeting with his administrative assistant to address issues affecting the federal judiciary, lunch at his desk, review of paperwork after lunch, and limousine home by 4:00 p.m. -- Gilbert and Sullivan operettas, Iolanthe: “I did nothing in particular, and I did it very well.” -- O’Connor, the practical consequences would matter more than the legal theory, -- reading briefs, hearing arguments, and writing opinions. -- The gay clerks changed the Court, not because of their advocacy but because of their existence. -- (As usual at oral argument, the lawyer was largely a spectator as the justices talked to one another.) -- sophistry, WOTD -- [O'Connor's] judicial approach was indefensible in theory and impeccable in practice. -- For a Court majority determined never to stray too far from what the public believed, -- It is during our most challenging and uncertain moments that our Nation’s commitment to due process is most severely tested; and it is in those times that we must preserve our commitment at home to the principles for which we fight abroad.” -- Souter’s New England frugality -- Souter spoke of “every judge’s common obligations: suspicion of easy cases, skepticism about clear-edged categories, modesty in the face of precedent, candor in playing one worthy principle against another, and the nerve to do it in concrete circumstances on an open page. -- prickly personality --  ch. 20 in the wake of oconnors retiremenu conservaives come out against gonzolas. -s -- When she joined the Court in 1981, not one other justice believed that abortion laws should be tested under an “undue burden standard,” but O’Connor had invented that test and over time persuaded a majority of her colleagues to agree with her. She had single-handedly remade the law in the most controversial area of Supreme Court jurisprudence. -q -- Even Thomas had long since passed Scalia, en route to a kind of nineteenth-century conservatism. -q -- John Robert's philosophy: Decide more cases; achieve more unanimity; write narrower opinions—judicial minimalism. -f -- Cass Gilbert’s steps represent at some level a magnificent illusion—that the Supreme Court operates at a higher plane than the mortals who toil on the ground. But the Court is a product of a democracy and represents, with sometimes chilling precision, the best and worst of the people. We can expect nothing more, and nothing less, than the Court we deserve. -q -- Reserved, almost diffident, WOTD -f -- The framers viewed freedom from unlawful restraint as a fundamental precept of liberty, and they understood the writ of habeas corpus as a vital instrument to secure that freedom. -q -- These meditations were in the tradition of ‘penumbras,’ ‘emanations,’ and other airy constructs the Court has employed over the years as poor substitutes for clear and rigorous constitutional reasoning.” -q -- As a result of the Court’s decision in Heller, it will be judges, not voters and elected officials, who will be answering these questions. And it will be years, and perhaps decades, before the courts even debate them. -q
 
-347 TOB -- Toobin, Jeffery. -- The oath. -- [S.n., 2012?]. -- v. -- DBID 3202
+347 TOB -- The oath / Toobin, Jeffrey. -- [S.n., 2012?]. -- v. -- DBID 3202
 
-818 TOM -- Tomsky, Jacob. -- Heads in beds. -- [S.n., n.d.] -- v.
+818 TOM -- Heads in beds / Tomsky, Jacob. -- [S.n., n.d.] -- v.
 > Read 2016-03. Grade C. -r
 
-910 TRE -- Trease, Geoffrey -- The grand tour. -- The Odyssey press, 2017. -- AISN B06XKQ49Y4.
+910 TRE -- The grand tour / Trease, Geoffrey. -- The Odyssey press, 2017. -- [www](https://read.amazon.com). -- AISN B06XKQ49Y4.
 
 g321 TUD -- The ceremony of the Introduction of Bishops to the House of Lords / Philippa Tudor. -- [S.n., 2002]. -- www. -- IN Parliamentary History, Vol. 221.
 
-779.4 TYL -- Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- 200-? -- on 1 external hard drive. -- File name: (8821.jpg) -- DBID 8821
+779.4 TYL -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- 200-? -- on 1 external hard drive. -- File name: (8821.jpg) -- DBID 8821
 
-779 TYL -- Tyler, Colleen. -- [Photograph of a painting by Colleen Tyler]. -- 1999. -- on 1 external hard drive. -- File name: (2058.jpg). -- DBID 2058
+779 TYL -- [Photograph of a painting by Colleen Tyler] / Colleen Tyler. -- 1999. -- on 1 external hard drive. -- File name: (2058.jpg). -- DBID 2058
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a butterfly on Paw-Paw's land] -- 2013 Oct 24 -- on 1 external hard drive. -- Filename: 3347.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3347.jpg). -- LJLT 3346
+779 TYL -- [Photograph of a butterfly on Paw-Paw's land / Justin Lee Tyler] -- 2013 Oct 24 -- on 1 external hard drive. -- Filename: 3347.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3347.jpg). -- LJLT 3346
 
-779.4 TYL -- Tyler, Justin Lee. -- [Photograph of Byron G. Merrill Library, Rumney, N.H.]. -- [2014 May 25]. -- Filename: 3328.jpg.
+779.4 TYL -- [Photograph of Byron G. Merrill Library, Rumney, N.H. / Justin Lee Tyler]. -- [2014 May 25]. -- Filename: 3328.jpg.
 
-779 TYL -- Tyler, Justin. -- [Photograph of caterpiller (unknown)]. -- on 1 external hard drive. -- Filename: 3337.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3337.jpg). -- LJLT 3337.
+779 TYL --[Photograph of caterpille / Justin Lee Tyler]. -- on 1 external hard drive. -- Filename: 3337.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3337.jpg). -- LJLT 3337.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler and the Lisa Ann III in Newburyport, Mass]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 14.06.23.jpg.
+779 TYL -- [Photograph of Colleen Tyler and the Lisa Ann III in Newburyport, Mass / Justin Lee Tyler]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 14.06.23.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler at the Flume Gorge]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 11.07.25.jpg.
+779 TYL -- [Photograph of Colleen Tyler at the Flume Gorge / Justin Lee Tyler]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 11.07.25.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird flying away from her hand at the bird santuary, Ipswich, Mass.] -- 2012 Oct 20. -- Filename: 2012-10-20 14.58.06.jpg.
+779 TYL -- [Photograph of Colleen Tyler feeding a bird flying away from her hand at the bird santuary, Ipswich, Mass. / Justin Lee Tyler] -- 2012 Oct 20. -- Filename: 2012-10-20 14.58.06.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass.] -- 2012 Oct 20. -- Filename: 2012-10-20 14.58.04.jpg.
+779 TYL -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass. / Justin Lee Tyler] -- 2012 Oct 20. -- Filename: 2012-10-20 14.58.04.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass. #2] -- 2012 Oct 20. -- Filename: 2012-10-20 15.02.41.jpg.
+779 TYL -- [Photograph of Colleen Tyler feeding a bird from her hand at the bird santuary, Ipswich, Mass. #2 / Justin Lee Tyler] -- 2012 Oct 20. -- Filename: 2012-10-20 15.02.41.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler feeding a duck at the bird sanctuary, Ipswich, Mass.] -- 2013 May 31. -- on 1 external hard drive. -- Filename: 3336.jpg.
+779 TYL -- [Photograph of Colleen Tyler feeding a duck at the bird sanctuary, Ipswich, Mass. / Justin Lee Tyler] -- 2013 May 31. -- on 1 external hard drive. -- Filename: 3336.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich.] -- 2013 Oct 23. -- on 1 external hard drive. -- Filename: 3346.jpg. -- LJLT 3346
+779 TYL -- [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich. / Justin Lee Tyler] -- 2013 Oct 23. -- on 1 external hard drive. -- Filename: 3346.jpg. -- LJLT 3346
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler photographing a butterfly.] -- 2013 Oct 22. -- on 1 external hard drive. -- Filename: 3345.jpg. -- LJLT 3345
+779 TYL -- [Photograph of Colleen Tyler photographing a butterfly. / Justin Lee Tyler] -- 2013 Oct 22. -- on 1 external hard drive. -- Filename: 3345.jpg. -- LJLT 3345
 
-779.3 TYL -- Tyler, Justin Lee. -- [Photograph of clouds on the mountains in Lincoln, N.H.]. -- [2014 May 23]. -- on 1 external hard drive. -- Filename: 3327.jpg.
+779.3 TYL -- [Photograph of clouds on the mountains in Lincoln, N.H. / Justin Lee Tyler] -- [2014 May 23]. -- on 1 external hard drive. -- Filename: 3327.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a cover bridget in Stowe, Vt.]. -- 2015 May 04. -- Filename: 2014-05-04 12.45.09.jpg.
+779 TYL -- [Photograph of a cover bridget in Stowe, Vt. / Justin Lee Tyler] -- 2015 May 04. -- on external hard drive -- Filename: 2014-05-04 12.45.09.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a crab.] -- 2013 May 30. -- Filename: 3334.jpg. -- LJLT 3334
+779 TYL -- [Photograph of a crab / Justin Lee Tyler] -- 2013 May 30. -- on external hard drive. -- Filename: 3334.jpg. -- LJLT 3334
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a duck at Crane Beach (in the dunes), Ipswich, Mass.]. -- 2013 May 30. -- Filename: 3335.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3335.jpg).
+779 TYL -- [Photograph of a duck at Crane Beach (in the dunes), Ipswich, Mass. / Justin Lee Tyler. -- 2013 May 30. -- on external hard drive. -- Filename: 3335.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a frog]. -- 2013 June 30. -- on 1 external hard drive. -- Filename: 3343.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3343.jpg).
+779 TYL -- [Photograph of a frog / Justin Lee Tyler]. -- 2013 June 30. -- on 1 external hard drive. -- Filename: 3343.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a Flume Gorge informational sign]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 10.49.48.jpg.
+779 TYL -- [Photograph of a Flume Gorge informational sign / Justin Lee Tyler]. -- [2014 Oct 25]. -- on 1 external hard drive. -- Filename: 2014-10-25 10.49.48.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of marshes at Crane Castle, Ipswich, Mass.]. -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3338.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3338.jpg). -- LJLT: 3338.
+779 TYL -- [Photograph of marshes at Crane Castle, Ipswich, Mass. / Justin Lee Tyler] -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3338.jpg -- LJLT: 3338.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of a Mourning Cloak butterfly taken at Po Hill, Amesbury, MA] . -- on 1 external hard drive. -- Filename: 3323.jpg.
+779 TYL -- [Photograph of a Mourning Cloak butterfly taken at Po Hill, Amesbury, MA / Justin Lee Tyler] . -- on 1 external hard drive. -- Filename: 3323.jpg.
 
-779.3 TYL -- Tyler, Justin Lee. -- [Photograph of the mountains from an overlook on N.H. route 118]. -- [2014 May 25]. -- on 1 external hard drive. -- Filename: 3330.JPG.
+779.3 TYL -- [Photograph of the mountains from an overlook on N.H. route 118 / Justin Lee Tyler]. -- [2014 May 25]. -- on 1 external hard drive. -- Filename: 3330.JPG.
 
-779.9 TYL -- Tyler, Justin Lee. -- [Photograph of the Redstone Rocket in Warren, N.H.]. -- [2015 May 25]. -- on 1 external hard drive. -- Filename: 3329.jpg.
+779.9 TYL --[Photograph of the Redstone Rocket in Warren, N.H. / Justin Lee Tyler] -- [2015 May 25]. -- on 1 external hard drive. -- Filename: 3329.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Shawn in sunlight at Crane Beach]. -- 2013 July 17. -- on 1 external hard drive. -- Filename: 3344.jpg.
+779 TYL -- [Photograph of Shawn in sunlight at Crane Beach / Justin Lee Tyler]. -- 2013 July 17. -- on 1 external hard drive. -- Filename: 3344.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Shawn standing under the cover bridge in Vermont]. -- 2014. -- Filename: 3353.jpg. -- DBID 3353.
+779 TYL -- [Photograph of Shawn standing under the cover bridge in Vermont / Justin Lee Tyler]. -- 2014. -- Filename: 3353.jpg. -- DBID 3353.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of sun shining through trees]. -- 2012 Oct 18. -- on 1 external hard drive. -- Filename: 3321.
+779 TYL -- [Photograph of sun shining through trees / Justin Lee Tyler]. -- 2012 Oct 18. -- on 1 external hard drive. -- Filename: 3321.
 
-779 TYL -- Tyler, Justin Lee. -- Photograph of sunrays hitting a snow-covered lake. -- 2012 Oct 18. -- on 1 external hard drive. -- Filename: 3322.jpg.
+779 TYL -- [Photograph of sunrays hitting a snow-covered lake / Justin Lee Tyler]. -- 2012 Oct 18. -- on 1 external hard drive. -- Filename: 3322.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of sunrays over the marshes at Crane Castle, Ipswich, Mass.]. -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3340.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3340.jpg). -- LJLT 3340.
+779 TYL -- [Photograph of sunrays over the marshes at Crane Castle, Ipswich, Mass. / Justin Lee Tyler] -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3340.jpg -- LJLT 3340.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of sunrays over a trail at Crane Castle, Ipswich, Mass.]. -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3341.jpg. -- Also available on the World Wide Web (http://www.justinleetyler.com/stuff/images/3341.jpg). -- LJLT 3341.
+779 TYL -- [Photograph of sunrays over a trail at Crane Castle, Ipswich, Mass. / Justin Lee Tyler] -- 2013 June 15. -- on 1 external hard drive. -- Filename: 3341.jpg -- LJLT 3341.
 
-779 TYL -- Tyler, Justin Lee. -- Photograph of a tree across a bridget at the bird sanctuary. -- 2013 Oct 20. -- Filename: 2012-10-20 13.32.04.jpg.
+779 TYL -- [Photograph of a tree across a bridget at the bird sanctuary / Justin Lee Tyler]. -- 2013 Oct 20. -- on external hard drive. -- Filename: 2012-10-20 13.32.04.jpg.
 
-090 TYL -- Tyler, Justin Lee -- [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich. / Justin Lee Tyler]. -- on 1 external hard drive. -- File name: 3248.txt.
+090 TYL -- [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich. / Justin Lee Tyler]. -- on 1 external hard drive. -- File name: 3248.txt.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Colleen Tyler, Jim and Natalie Berry, and Jan]. -- [2012]. -- File name: 3256.jpg.
+779 TYL -- [Photograph of Colleen Tyler, Jim and Natalie Berry, and Jan / Justin Lee Tyler]. -- [2012]. -- on external hard drive. -- File name: 3256.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Shawn]. -- [2012]. -- on 1 external hard drive. -- File name: 3254.jpg.
+779 TYL -- [Photograph of Shawn / Justin Lee Tyler]. -- [2012]. -- on 1 external hard drive. -- File name: 3254.jpg.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Shawn near a railroad crossing sign]. -- [2012]. -- on 1 external hard drive. -- File name: 3255.jpg.
+779 TYL -- [Photograph of Shawn near a railroad crossing sign / Justin Lee Tyler]. -- [2012]. -- on 1 external hard drive. -- File name: 3255.jpg.
 
-799 TYL -- Tyler, Justin Lee. -- [Photographs of Burlington and Shelborne, Vermont with Robbie, Shawn, and Calab]. -- [2014-05-13]. -- on 1 external hard drive. -- DBID 3321.
+799 TYL -- [Photographs of Burlington and Shelborne, Vermont with Robbie, Shawn, and Calab / Justin Lee Tyler]. -- [2014-05-13]. -- on 1 external hard drive. -- DBID 3321.
 
-779 TYL -- [Photographs of Haley, Justin, and Shawn -- 2015-2017. -- on external hard drive. -- DBID 7069.
+779 TYL -- [Photographs of Haley, Justin, and Shawn] -- 2015-2017. -- on external hard drive. -- DBID 7069.
 
-779 TYL -- [Photographs of Chicago -- 2010?] -- on external hard drive. -- DBID 6000.
+779 TYL -- [Photographs of Chicago / Justin Lee Tyler] -- [2010?] -- on external hard drive. -- DBID 6000.
 
-779 TYL -- Tyler, Justin Lee. -- [Photographs taken around the Blue Hills, Ipswich, Massachusetts]. -- on 1 external hard drive. -- File directory: 3326.
+779 TYL -- [Photographs taken around the Blue Hills, Ipswich, Massachusetts / Justin Lee Tyler]. -- [n.d.] -- on 1 external hard drive. -- File directory: 3326.
 
-779 TYL -- Tyler, Justin Lee. -- [Photographs taken at Biolabs, Ipswich, Massachussets]. -- 2012-10-18. -- File name: 3274.jpg. -- DBID 3274.
+779 TYL -- [Photographs taken at Biolabs, Ipswich, Massachussets / Justin Lee Tyler]. -- 2012-10-18. -- File name: 3274.jpg. -- DBID 3274.
 
-779 TYL -- Tyler, Justin Lee. -- Lyme disease caution [sign photograph]. -- May 2, 2011. -- on 1 external hard drive. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024
+779 TYL -- Lyme disease caution [sign photograph]. -- May 2, 2011. -- on 1 external hard drive. -- Mode of Access: http://www.justinleetyler.com/library/3024.jpg). -- DBID 3024
 
-779 TYL -- [Photographs of Mt. Oceola hike with Justin and Shawn. -- 2013-05-19]. -- on external hard drive. -- DBID 3283.
+779 TYL -- [Photographs of Mt. Oceola hike with Justin and Shawn]. -- [2013-05-19]. -- on external hard drive. -- DBID 3283.
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of an old building in San Fransisco]. -- [2007]. -- on 1 external hard drive. -- File name: (5655.jpg). -- DBID 5655
+779 TYL -- [Photograph of an old building in San Fransisco / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5655.jpg). -- DBID 5655
 
-779.3 TYL -- Tyler, Justin Lee. -- [Photograph of Carwash]. -- [2007?]. -- on 1 external hard drive. -- File name: (5542.jpg). -- DBID 5542
+779.3 TYL -- [Photograph of Carwash / Justin Lee Tyler]. -- [2007?]. -- on 1 external hard drive. -- File name: (5542.jpg). -- DBID 5542
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Grace Cathedral courtyard]. -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652
+779 TYL --[Photograph of Grace Cathedral courtyard / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Grace Cathedral gardens]. -- [2007]. -- on 1 external hard drive. -- File name: (5654.jpg). -- DBID 5654
+779 TYL -- [Photograph of Grace Cathedral gardens / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5654.jpg). -- DBID 5654
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Justin Tyler's bedroom in Saginaw]. -- 2002. -- on 1 external hard drive. -- File name: (8818.jpg) -- DBID 8818
+779 TYL -- [Photograph of Justin Tyler's bedroom in Saginaw / Justin Lee Tyler]. -- 2002. -- on 1 external hard drive. -- File name: (8818.jpg) -- DBID 8818
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of map of Hamilton Reservation]. -- 2011 May 26. -- Mode of Access: http://www.justinleetyler.com/library/3023.jpg. -- DBID 3023.jpg
+779 TYL -- [Photograph of map of Hamilton Reservation / Justin Lee Tyler]. -- 2011 May 26. -- on external hard drive. -- DBID 3023.jpg
 
-779. TYL -- Tyler, Justin Lee. -- [Photograph of Mass at Grace Cathedral, San Francisco, Calif.] -- [2007?]. -- on 1 external hard drive. -- File name: (5658.jpg). -- DBID 5658.jpg
+779 TYL -- [Photograph of Mass at Grace Cathedral, San Francisco, Calif. / Justin Lee Tyler] -- [2007?]. -- on 1 external hard drive. -- File name: (5658.jpg). -- DBID 5658.jpg
 
-779.4 TYL -- Tyler, Justin Lee. -- [Photograph of mural in San Fransisco]. -- [2007]. -- on 1 external hard drive. -- File name: (5650.jpg). -- DBID 5651
+779.4 TYL -- [Photograph of mural in San Fransisco / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5650.jpg). -- DBID 5651
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of Peconte]. -- File name: (5541.jpg). -- DBID 5541
+779 TYL -- [Photograph of Peconte / Justin Lee Tyler]. -- on external hard drive. -- File name: (5541.jpg). -- DBID 5541
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of San Francisco skyline]. -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652
+779 TYL -- [Photograph of San Francisco skyline / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5652.jpg). -- DBID 5652
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of San Fransisco Chinatown]. -- [2007]. -- on 1 external hard drive. -- File name: (5656.jpg). -- DBID 5656
+779 TYL -- [Photograph of San Fransisco Chinatown / Justin Lee Tyler]. -- [2007]. -- on 1 external hard drive. -- File name: (5656.jpg). -- DBID 5656
 
-779 TYL -- Tyler, Justin Lee. -- [Photograph of the Academy of Art University building in San Francisco, Calif.] -- [2007?]. -- on 1 external hard drive. -- File name: (5657.jpg). -- DBID 5657
+779 TYL -- [Photograph of the Academy of Art University building in San Francisco, Calif. / Justin Lee Tyler] -- [2007?]. -- on 1 external hard drive. -- File name: (5657.jpg). -- DBID 5657
 
-779 TYL -- Tyler, Justin Lee. -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.). -- [2013]. -- on 1 external hard drive. -- Title supplied by cataloger.
+779 TYL -- [Photographs taken at the Rearing Ponds (Hillsdale, Mich.) / Justin Lee Tyler]. -- [2013]. -- on 1 external hard drive. -- Title supplied by cataloger.
 
-917.42 TYL -- Tyler, Justin Lee.  -- [Photographs and videos of Justin and Shawn on Mt. Liberty]. -- [2012]. -- on 1 external hard drive. -- File directory: /3227 . -- DBID 3227.
+917.42 TYL --  [Photographs and videos of Justin and Shawn on Mt. Liberty / Justin Lee Tyler]. -- [2012]. -- on 1 external hard drive. -- File directory: /3227 . -- DBID 3227.
 
-779 TYL -- Tyler, Justin Lee. -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- [200-?]-- on 1 external hard drive. -- DBID 8825
+779 TYL -- [Photographs of Justin Tyler's dinning room in Saginaw / taken by Justin Lee Tyler.] -- [200-?]-- on 1 external hard drive. -- DBID 8825
 
-384.55 TYL -- Tyler, Justin Lee. -- [Videos of Colleen's trip to the wildlife sanctuary]. -- 2012 Oct. 20. -- on 1 external hard drive. -- File name: 3215. -- DBID 3215.
+384.55 TYL -- [Videos of Colleen's trip to the wildlife sanctuary / Justin Lee Tyler]. -- 2012 Oct. 20. -- on 1 external hard drive. -- File name: 3215. -- DBID 3215.
 
-813 URE -- Uremovich, Christopher. -- Fable hill. -- [S.n.], 2017. -- AISN B0771MP592.
+813 URE -- Fable hill / Uremovich, Christopher. -- [S.n.], 2017. -- [www](https://read.amazon.com). -- AISN B0771MP592.
 
 289.1 UNI -- Unitarian Universalism: respecting diversity. -- Mode of Access: World Wide Web. -- IN Skipping Stones. -- (1994).
 > The inherent worth and dignity of every person. We believe that each and every person is important. -q -- Justice, equity, and compassion in human relations. We believe that all people should be treated fairly. -q -- Acceptance of one another and encouragement of spiritual growth in congregations. We believe that our churches are places where all people are accepted and where we keep on learning together. -q -- A free and responsible search for truth and meaning. We believe that each person must be free to search for what is true and right in life. -q -- The rights of conscience and the use of democratic process within our congregations and the society at large. We believe that everyone should have a vote about the things that concern them. -q -- The goal of world community with peace, liberty, and justice for all. We believe in working for a peaceful, fair, and free world. -q -- Respect for the interdependent web of all existence of which we are a part. We believe in caring for our planet earth. -q
 
-289.1 UNI -- Unitarian Universalist Church of the Palouse. -- Celebrant's guide / UU Church of the Palouse. -- [The author], 2013. -- Mode of Access: World Wide Web (http://www.palouseuu.com/#/worship-services/4556396206). -- DDC
+289.1 UNI -- Celebrant's guide / UU Church of the Palouse. -- [The author], 2013. -- [www](http://www.palouseuu.com/#/worship-services/4556396206).
 
-651 UNS -- United Nations. Secretariat. -- Record-keeping and the management of United Nations archives. -- [S.l. : s.n., 2007]. -- on external hard drive. --  File name: (1680.pdf). -- DBID 1680
+651 UNS -- Record-keeping and the management of United Nations archives / United Nations. Secretariat. -- [S.l. : s.n., 2007]. -- on external hard drive. --  File name: (1680.pdf). -- DBID 1680
 
-310 USC -- United States. Central Intelligence Agency. -- The 2009 CIA world factbook. -- [S.l. : s.n., 2009?] -- on Asus Transformer. -- DBID 3117
+310 USC -- The 2009 CIA world factbook / United States. Central Intelligence Agency. -- [S.l. : s.n., 2009?] -- [www](https://read.amazon.com) -- DBID 3117
 
 813 UNK -- The Unknown man. -- [S.n., n.d.] -- v.
 > Read 2017-08. Grade C. -r
 
 g027 LCM -- Using the Library of Congress : MARVEL gopher. -- [S.l. : s.n., n.d.] -- [S.n., n.d.] -- www.
 
-305 VAN -- Vance, J.D. -- Hillbilly elegy. -- Harper, 2016 -- v.
+305 VAN -- Hillbilly elegy / Vance, J.D. -- Harper, 2016 -- v.
 > As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201 -- It’s about a culture that increasingly encourages social decay instead of counteracting it. -location 228 -- upward mobility fell off in the 1970s and never really recovered, -location 241 -- At Mamaw Blanton’s, we’d eat scrambled eggs, ham, fried potatoes, and biscuits for breakfast; fried bologna sandwiches for lunch; and soup beans and cornbread for dinner. -location 357 -- Appalachian hills and single-room, K–12 schoolhouses don’t tend to foster big dreams. -location 422 -- Appalachian Odyssey -location 526 -- Hillbilly culture at the time (and maybe now) blended a robust sense of honor, devotion to family, and bizarre sexism into a sometimes explosive mix. -location 639 -- The never-ending conflict took its toll. Even thinking about it today makes me nervous. My heart begins to race, and my stomach leaps into my throat. When I was very young, all I wanted to do was get away from it—to hide from the fighting, go to Mamaw’s, or disappear. I couldn’t hide from it, because it was all around me. -location 1076 -- Mom would officially retain custody, but from that day forward I lived in her house only when I chose to—and Mamaw told me that if Mom had a problem with the arrangement, she could talk to the barrel of Mamaw’s gun. This was hillbilly justice, and it didn’t fail me. -location 1141 -- And unless you’re a particularly capable sociopath, dishonesty can only take you so far. -location 1173 -- We drove home in silence after Mamaw explained that if Mom lost her temper again, Mamaw would shoot her in the face. -location 1223 -- The theology she taught was unsophisticated, but it provided a message I needed to hear. To coast through life was to squander my God-given talent, so I had to work hard. I had to take care of my family because Christian duty demanded it. I needed to forgive, not just for my mother’s sake but for my own. I should never despair, for God had a plan. -location 1240 -- The road to hell, however, is paved with good intentions. -location 1284 -- In this, Dad embodied a phenomenon social scientists have observed for decades: Religious folks are much happier. Regular church attendees commit fewer crimes, are in better health, live longer, make more money, drop out of high school less frequently, and finish college more frequently than those who don’t attend church at all.16 -location 1326 -- In the middle of the Bible Belt, active church attendance is actually quite low. -location 1334 -- She said, "Don’t be a fucking idiot, how would you know that you’re gay?" -location 1398 -- And even if you did want to suck dicks, that would be okay. God would still love you." That settled the matter. -location 1401 -- "I never had a dad," I explained. "But Papaw was always there for me, and he taught me the things that men needed to know." Then I spoke the sum of his influence on my life: "He was the best dad that anyone could ever ask for." -location 1526 -- unable to follow the basic norms of adult behavior. -location 1584 -- There were three rules in her house: Get good grades, get a job, and "get off your ass and help me." -location 1823 -- The Truly Disadvantaged, -location 1973 -- Losing Ground, -location 1981 -- we’re parents. Our kids perform poorly in school. We might get angry with them, but we never give them the tools—like peace and quiet at home—to succeed. -location 2016 -- These are the lies we tell ourselves to solve the cognitive dissonance—the broken connection -location 2023 -- between the world we see and the values we preach. -location 2024 -- Not all of the white working class struggles. I knew even as a child that there were two separate sets of mores and social pressures. My grandparents embodied one type: old-fashioned, quietly faithful, self-reliant, hardworking. My mother and, increasingly, the entire neighborhood embodied another: consumerist, isolated, angry, distrustful. -location 2033 -- Thanks to Mamaw, I never saw only the worst of what our community offered, and I believe that saved me. There was always a safe place and a loving embrace if ever I needed -location 2043 -- "resilient children"—kids who prosper despite an unstable home because they have the social support of a loving adult. -location 2054 -- The Marine Corps assumes maximum ignorance from its enlisted folks. -location 2371 -- The Marine Corps demanded that I think strategically about these decisions, and then it taught me how to do so. -location 2382 -- whenever people ask me what I’d most like to change about the white working class, I say, "The feeling that our choices don’t matter." -location 2414 -- family matriarch: She put out the fires, hosted family gatherings, and kept us all from breaking apart. -location 2542 -- "adverse childhood experiences," -location 3026 -- classic fight-or-flight response -location 3049 -- The things I wanted most in the entire world—a happy partner and a happy home—required constant mental focus. -location 3094 -- being a hillbilly meant sometimes not knowing the difference between love and war. -location 3139 -- problems of family, faith, and culture -location 3190 -- "I think you have to have good role models around you. -location 3204 -- I’ve learned that the very traits that enabled my survival during childhood inhibit my success as an adult. -location 3293 -- whether he can access a church that teaches him lessons of Christian love, family, and purpose; -location 3392
 
-781.67 VAN -- Vangelis. -- Odyssey: The Definitive Collection / [by] Vangelis and Jon Anderson. -- Santa Monica, CA: Hip-O, 2003. -- on 1 external hard drive. -- Title from Compact Disc.
+781.67 VAN -- Odyssey: The Definitive Collection / [by] Vangelis and Jon Anderson. -- Santa Monica, CA: Hip-O, 2003. -- on 1 external hard drive. -- Title from Compact Disc.
 
-917.42 TYL -- Tyler, Justin Lee. -- [Video of Mt. Wolf summit]. -- July 21, 2012. -- on 1 external hard drive. -- Title supplied by cataloger.-- File name: 3268.mp4
+917.42 TYL -- [Video of Mt. Wolf summit / Justin Lee Tyler]. -- July 21, 2012. -- on 1 external hard drive. -- Title supplied by cataloger.-- File name: 3268.mp4
 
-813 VIN -- Vinge, Vernor. -- The children of the sky. -- 1st ed. -- New York : Tor, c2011. -- 444 p. -- ISBN 9780312875626. -- DBID 3065
+813 VIN -- The children of the sky / Vinge, Vernor. -- 1st ed. -- New York : Tor, c2011. -- 444 p. -- ISBN 9780312875626. -- DBID 3065
 > Read 2015-05. -r -- Vendacious and Chitiratifor visits the tycoon; offering information about the humans.  -p. 11-16 -o
 
-781.67 VOL -- Vollenweider, Andreas. -- Behind the Gardens. United States: Kin Kou, 2005. -- Title from Compact Disk.
+781.67 VOL -- Behind the Gardens / Vollenweider, Andreas. -- Kin Kou, 2005. -- on one external hard drive. -- Title from Compact Disk.
 
-599 WAA -- Waal, Frans De. -- The bonobo and the atheist. -- W.W. Norton, c2013. -- 289 p. -- ISBN 9780393073775.
+599 WAA -- The bonobo and the atheist / Waal, Frans De. -- W.W. Norton, c2013. -- 289 p. -- ISBN 9780393073775.
 > CH. 1: What if human morality is not top-to-bottom, but bottom-to-top based on our experience, and interactions in community? -s -- CH. 2: Things (such as sex, love; for reproduction) evolved for a reason, but we are not a slave to it. -s -- CH. 7: We created god, and endowed him (that is, god exists) to keep us well-behaved. -s -- Perhaps it's just me, but I am wary of any person whose belief system is the only thing standing between them and repulsive behavior. Why not assume that our humanity, including the self-control needed for a livable society, is built into us? -p. 2 -q -- Animal altruism. p. 4 -q  -- Animal empathy -p. 5 -f -- Empathy requires awareness of the other and the sensitivity to the other's needs. It probably started with parental care, like that found in the mammals, but there is also evidence for bird empathy. -p. 6 -q -- ... according to Paul MacLean, the American neuroscientist who named the limbic system the seat of the emotions... p. 6 -q -- From everything we know, the smaller the number of offspring an animal produces, the better it will take care of them... -p. 7 -q -- ... all life is caring, perhaps not consciously caring, but caring nontheless. -p. 8 -q -- If we consider our species without letting ourselves be blinded by the technical advances of the last few millennia, we see a creature of flesh and blood with a brain that, albeit three times larger than a chimpanzee's, doesn't contain any new parts. ... No one doubts the superiority of our intellect, but we have no basic wants or needs that are not also present in our closest relatives. -p. 16 -q -- Just like us, monkeys and apes strive for power, enjoy sex, want security and affection, kill over territory, and value trust and cooperation. Yes, we have computers and airplanes, but our psychological makeup remains that of a social primate. -p. 16 -q -- WESTERMARCK, EDWARD, m, Finnish. anthropoligist. Pioneer of morality research. -p. 18 -f -- This is what sets human morality apart: a move toward universal standards combined with an elaborate system of justification, monitoring, and punishment. -p. 18 -q -- The neo-atheist call themselves 'brights,' thus implying that believers are not as bright. -p. 18 -q -- Science is not in the business of spelling out the meaning of life and even less in telling us how to live our lives. -p. 19 -q  -- For example, female chimpanzees have been seen to drag reluctant males towards each other to make up after a fight, while removing weapons from their hands. Moreover, high-ranking males regularly act as impartial arbiters to settle disputes in the community. I take these hints of community concern as a sign that building blocks of morality are older than humanity, and that we don't need God to explain how we got to where we are today. -p. 20 -q -- I am profoundly skeptical of the moral purity of science, and feel that its role should never exceed that of morality's handmaiden. -p. 22 -q -- GALTON, FRANCIS, SIR, m, British, 20th c. Founder of Eugenics. -p. 22 -q -- ... what if moraliity is created in day0today social interaction... what if it is grounded in emotions... the whole point of my book is to argue a bottom-up approach... -p. 23 -q -- Daisy probbably extrapolated from how she feels leaning against the excelsior... I am convinced that apes take the perspective of others, expecially when it comes to friends in trouble. -p. 26 -q -- What permits us to tell right from wrong is our ability to be both good and bad. -p. 27 -q -- Even if one loses one's own life to save a relative, one still perpetuates genes that one has incommoon with this relative. Helping kin is therefore like helping oneself. -p. 30 -q -- Robert Trivers, an American evolutionary biologist, proposes the cooperation among nonrelatives often relies on reciprocal altruism: helpful acts that are costly in the short run nevertheless produce long-term benefits if favors are being returned. -p. 31 -q -- [Altruism] grows out of empathy with those in need, and the whole point of empathy is the blurring of the line between self and the other.  This obviously makes the difference between selfish and unselfish motives rather hazy. -p. 33 -q -- Mammels have what I call an 'altruistic impulse' in that they respond to signs of distress in others and feel an urge to improve their situation. To recognize the need of others, and react appropriately, is not the same as a preprogrammed tendency to sacrifice oneself for the genetic [maybe reproduction] good. -p. 33 -q -- VENEER THEORY, a/k/a Darwin's bulldog: seeing human kindness aas a charade and morality as a thin veneer over nasty tendencies. Developed by Huxley. -p. 34 -f  -- I decline to cite more smelly stuff. -p. 40 -q funny! -r -- Data have this wonderful quality of buryng theories. -p. 41 -q -- It is now widely assumed that we are designed in body and mind to live together and take care of each other, and that humans have a tendency to judge others in moral terms. -p. 42 -q -- In chimpanzee society, thereare no permament bonds between males and females, so that in principle any male might be your father. -p. 45 -q -- ... let's move away from such normative language and its implication that we are born to obey our genes. Even if sex evolved for reproduction, anyone is free (up to a point) to engage in it for fun. There is no law that says traits need each and every time to serve the purpose for which they evolved. -p. 47-8 -q -- Science tells us that we breathe in order to supplement our bodies with oxygen. -p. 48 -q -- ... we have 'emotional biases towards cooperation that can only be overcome with effortful cognative control.' -James Rilling -p. 48-9 -q -- Rilling further showed that when normal people aid others, brain areas associated with reward are activated. Doing good feels good. -p. 49 -q -- OXYTOCIN, hormone 'of love'. -f -p. 49 -- Mammalian maternal care is the costliest, longest-lasting investment in other beings known in nature... -p. 49 -q -- Invariably, natures associates things that we need to do with pleasure... we are group animals, who rely on each other, need each other, and therefore take pleasure in helping and sharing. -p. 51 -q -- ... self-neglect is counterproductive... -p. 52 -q -- Given its intristic rewards, some like to label care for famlily and close associates'selfish' ... ths obviously undermindes the whole distinction between selfishness and altruism. If eating all the food on thhe table is just the selfish as my sharing it with a hungry stranger, language has become obsolete. How can a signle concept cover such divergent motivations? -p. 53 -q Nice argumentative method! -q -- The end result is that altruism can be both genuine and satisfying at the same time. -p. 54 -s -- Our northern brethren [	thals] buried their dead, were skilled toolmakers, kept fires going, and took care of the inform... -p. 56 -q -- This communitarian heritage is curitial in the relation to this book's theme, since it suggests that morality predatees current civilizations and religions by at least a hundred millennia. p. 56 -q -- The first to propose human descent from the apes was the French naturalist Jean-Baptiste Lamarck, in 1809. -p. 59 -q -- What if we decend not from a blustering chimp-like ancestor but from a gentle, empathic bonobo-like ape?-p. 61 -q -- BRETHREN AND SISTERS OF THE FREE SPIRIT. 'Sought a return to humanities's original purity, including nudity and promiscuity' -- known as 'Adamites' -f -p. 73 -- ERASMAS OF ROTTERDAM, m. Called the 'Prince of the Humanists'. -f -p. 74 -- The sudden outbreak of violence suggests a deeper layer to monobo society... it resembles a moral code to defend the interests of the most vulnerable. -p. 78 -q
 
-981 WAL -- Wallace, Scott. -- The unconquered / Scott Wallace. -- [S.n., n.d.] -- v.
+981 WAL -- The unconquered / Scott Wallace. -- [S.n., n.d.] -- v.
 > Read 2012-02. -r
 
-813 WEA -- Weaver, Will. -- Memory boy. -- [S.n., n.d.] -- v.
+813 WEA -- Memory boy / Weaver, Will. -- [S.n., n.d.] -- v.
 > Read 2013-04. Grade C. -r
 
-g813 WEI -- Weis, Margaret. -- Soulforge. -- TSR, c1998. -- www.
+g813 WEI -- Soulforge / Weis, Margaret. -- TSR, c1998. -- www.
 > Read 2010-11 and 2013-12. Grade B. -r
 
-823 WEI -- Well, H.G. -- The time machine. -- [S.n., n.d.] -- v.
+823 WEI -- The time machine / Well, H.G. -- [S.n., n.d.] -- v.
 > Read 2014-07. Grade C. -r 
 
-813 WEL -- Wells, Dan. -- Partials. -- [S.n., n.d.] -- v.
+813 WEL -- Partials / Wells, Dan. -- [S.n., n.d.] -- v.
 > Read 2015-05. Grade C. -r
 
-823 WHI -- White, E.B. -- Charlotte's web / E.B. White. Pictures by Garth Williams. -- [S.n., n.d.] -- v.
+823 WHI -- Charlotte's web / E.B. White. Pictures by Garth Williams. -- [S.n., n.d.] -- v.
 > Read 2017-07. Grade B. -r
 
-574 WHI -- White, Laurence B. -- Life in the shifting dunes / by Laurence B. White, Jr.; Illustrated by Henry B. Kane. -- Museum of Science, Boston, c1960. -- ix, 85 p.
+574 WHI -- Life in the shifting dunes / by Laurence B. White, Jr.; Illustrated by Henry B. Kane. -- Museum of Science, Boston, c1960. -- ix, 85 p.
 > Read 2020-12. -- Grade C. -r -- In the beginningm, our dune dweller must be born, a difficult enough task without interferance from unkind surroundings; it must feed itself, here in a n erea where meals would certainly seem at a premium; it must grow, oftentimes shedding its skin in the process; it must live not only in the summer's heat but, if its life span is that long, in the winter's cold; it must endure long periods of drought, flood, wind, and storm; and most important of all, it must survive long enough to reporduce its kind, or else it has missed its goal. - p. 6. -q -- Dragonflies, ladybugs, and bats feed on misquitos -- Earwigs don't bite w/ their pinchers -- Buring Beatles -- only female misquitos bite -- chipmonks nest underground -- Fox's eat mice -- weasals kill for the fun of it
 
 204 WHO -- Who is my God. -- v.
 > Read 2014-06. Grade C. -r
 
-813 WID -- Widhalm, Nic. -- The tenth order. -- [S.n., n.d.] -- v.
+813 WID -- The tenth order / Widhalm, Nic. -- [S.n., n.d.] -- v.
 > Read 2013-11. Grade C. -r
 
-920 WIL -- Williams, Dee. -- The big tiny. -- [S.n., n.d.] -- v.
+920 WIL -- The big tiny / Williams, Dee. -- [S.n., n.d.] -- v.
 > Read 2015-06. Grade C. -r
 
-813 WIL -- Willis, Sarah. -- Some things that stay / Sarah Willis. -- [S.n., n.d.] -- v.
+813 WIL -- Some things that stay / Sarah Willis. -- [S.n., n.d.] -- v.
 > Read 2011-10. -r
 
-909 WOO -- Woody, Anne. -- Coming of Age in Mississippi. -- [S.n., n.d.] -- v.
+909 WOO -- Coming of Age in Mississippi / Woody, Anne. -- [S.n., n.d.] -- v.
 > Read 2019-08. Grade B. -r
 
-291.1 BIB -- Work and spirit : / editors: Jerry Biberman, Michael D. Whitty. -- [S.n., n.d.] -- v.
+291.1 BIB -- Work and spirit / editors: Jerry Biberman, Michael D. Whitty. -- [S.n., n.d.] -- v.
 > Read 2011-10.
 
-299.5 YAM -- Yamakage, Motohisa. -- he essence of Shinto : / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin. -- [S.n., n.d.] -- v.
+299.5 YAM -- The essence of Shinto / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin. -- [S.n., n.d.] -- v.
 > Read 2012-04. -r
 
-k299.5 DEN  -- Deng, Ming Dao. -- 365 Tao. -- [s.l.], 1992. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021.
+k299.5 DEN  -- 365 Tao / Deng, Ming Dao. -- [s.l.], 1992. -- [www](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021.
 
 w650 TWE-- 12 outstanding personality traits of a great boss. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.officevibe.com/blog/infographic-great-boss). -- Title from homepage viewed Mon 06/28/2021.
 
@@ -2268,34 +2267,32 @@ w650 TWE-- 12 outstanding personality traits of a great boss. -- [s.l., n.d.] --
 
 030 ANS -- Answers.com. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.answers.com). -- Title from homepage viewed Mon 06/28/2021.
 
-500 TAN -- Tanner, Ogden. -- New England Wilds. -- [s.n.], [n.d.]. -- v. -- ISSN n/a
+500 TAN -- New England Wilds / Tanner, Ogden. -- [s.n.], [n.d.]. -- v. -- ISSN n/a
 > Read 2021-06. Grade C. -r
 
-920 KRA -- Krakauer, Jon. -- Into the wild. -- [s.n, n.d]. -- v.
+920 KRA -- Into the wild / Krakauer, Jon. -- [s.n, n.d]. -- v.
 > Read 2021-06. Grade C. -r
 
 006 TEN-- 10 Simple CSS Code Examples You Can Learn in 10 Minutes. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/simple-css-code-examples/). -- Title from homepage viewed Tue 06/29/2021.
 
 w.  -- The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021.
 
-574 WHI -- White, Laurence B.. -- Life in the shifting dunes. -- [s.l, 1960. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=n/a). -- Title from amazon.com viewed Thu 07/01/2021.
-
-813 DEL -- DeLancey, Craig. -- Well of Furies. -- [S.l.], 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021.
+813 DEL -- Well of Furies / DeLancey, Craig. -- [S.l.], 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021.
 > Read 2020-12. Grade C. -r
 
-813 ASI -- Asimov, Isaac. -- Foundation. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553293357. -- DBID 20210911_185623.
+813 ASI -- Foundation / Asimov, Isaac. -- Del Rey, 2021, c1951. -- 296 p. -- ISBN 9780553293357. -- DBID 20210911_185623.
 > Read 2021-09. -- Grade C. -- It is uncientific to suppose meaningless cases. -p. 259. -q -- I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 -q -- A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q
 
-813 ARE -- Arenson, Daniel. -- The heirs of Earth. -- Moonclipse, 2017. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J7X6H7). -- AISN B077J7X6H7. -- DBID 20210911_190618.
+813 ARE -- The heirs of Earth / Arenson, Daniel. -- Moonclipse, 2017. -- [www](https://read.amazon.com/?asin=B077J7X6H7). -- AISN B077J7X6H7. -- DBID 20210911_190618.
 > Read 2021-06. Grade C. -r -- Palaevia was the largest city on the warm, verdant planet of Paev. -- They said that Queen Einav Ben-Ari, the Golden Lioness of Earth, -- Our flaws always seem magnified to our own eyes, Rowan thought, even if others barely notice them. -- Their theology seemed laughable. Ancient beings living in a higher plane of existence, sending down mystical aether? Glowing tattoos that could summon magic? -- "You cannot defeat the scorpions with your starships, mighty as they may be, Emet Ben-Ari! Only the light of aether can defeat evil." -- Godblade -- maybe Latin American, unlike her father and brother who were fairer. But the old distinctions no longer mattered. They were all one nation in the darkness of space. -- No human has set foot on Earth in two thousand years, not since the Hydrian Empire destroyed -- Leona smiled as she flew. Let them banter. Let them joke. The galaxy was filled with horror, with death and suffering, with millions crying out in agony. -- Let us cling to whatever joy, whatever laughter we can find, she thought. There's always time for joy. -- 4 leona will lead a scout expedition to earth while tge rest fight scorpians. -s -- 5 the scorpions attack but leona and co get out. -s -- We lost this battle, Coral thought. But we live to fight another day. -- 6 coral leaves to find the godblade. -s -- But I can't control how folks are talkin'." -- "Today goodness won," she finally said. "Today I was kind, and I swayed him with my kindness, without needing your gun." She looked at him. "Sir, perhaps I'm naive. But I believe that goodness always wins." -- Elysium, the planet of the Weeping Guildhall. -- 13 they made it through rhe front line on the way to the weavers ghildhall planet. -s
 
-813 ARE -- Arenson, Daniel. -- A memory of Earth. -- Moonclipse, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- ASIN B077J8WH3B.
+813 ARE -- A memory of Earth / Arenson, Daniel. -- Moonclipse, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- ASIN B077J8WH3B.
 > Read 2021-10 -- Grade C. -r -- Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. -s -- "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." -q
 
-650 CHA -- Charlier, Mailys. -- Developing your career strategy / Written by Mailys Charlier; Translated by Rebecca Neal. -- 50minutes.com, c2017. -- Mode of Access: World Wide Web. -- URL https://www.hoopladigital.com/play/13056250 -- ISBN 9782808000390. -- DBID 20210915_0737.
+650 CHA -- Developing your career strategy / Written by Mailys Charlier; Translated by Rebecca Neal. -- 50minutes.com, c2017. -- Mode of Access: World Wide Web. -- URL https://www.hoopladigital.com/play/13056250 -- ISBN 9782808000390. -- DBID 20210915_0737.
 > Formulate a plan: Analyse your professional history; analyse your ambitions, motivations, and potential; define your professional cand career choices; identify the means at your disposal; implement a strategy and plan of action towards your objectives. -- Stages in drawing up your career strategy: set deadlines; use various tools to create your personal brand; network effectively; extablish a career plan in line with your skills, objectives and career path; evaluate your skills and objectives ; identify your personality type; analysis your professional journey.
 
-813 KRO -- Kroese, Robert. -- The Dream of the Iron Dragon. -- St. Culain Press, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B078WLB2CR). -- AISN B078WLB2CR. -- DBID 20210916_215003.
+813 KRO -- The Dream of the Iron Dragon / Kroese, Robert. -- St. Culain Press, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B078WLB2CR). -- AISN B078WLB2CR. -- DBID 20210916_215003.
 
 002 RIC -- Openstax. -- Rice University, c2021. -- Mode of Access: [World Wide Web](https://openstax.org/).
 
@@ -2303,52 +2300,52 @@ w.  -- The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- M
 
 002 FRE -- Free kids books. -- Free Kids Books, 2021. -- Mode of Access: [World Wide Web](https://freekidsbooks.org/).
 
-650 ELL -- Ellefson, Lindsey. -- How to take control of a micromanaging boss. -- Mode of Access: [World Wide Web](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589) -- IN Lifehacker. -- (Oct. 13, 2021)
+650 ELL -- How to take control of a micromanaging boss / Ellefson, Lindsey. -- Mode of Access: [World Wide Web](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589) -- IN Lifehacker. -- (Oct. 13, 2021)
 > Calmly address the situation with your boss: I feel ___ when you ___ because I think it means ___. -q -- ... remind them that you’ll show them your results through your output, not minute-by-minute updates on what you’re doing, how you’re doing it, and what you’ve accomplished that day. -q -- Show, don't tell. -q
 
 005 KIN -- Kindle4Rss. -- kindle4rss.com, c2019. -- Mode of Access: [World Wide Web](http://kindle4rss.com/).
 
-288B BEN -- Bennett, Margaret L. -- Day unto day. -- American Unitarian Association, 1883. -- Mode of Access: [World Wide Web](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021.
+288B BEN -- Day unto day / Bennett, Margaret L. -- American Unitarian Association, 1883. -- [www](https://archive.org/details/dayuntoday00benngoog). -- Title from homepage viewed Sun 10/03/2021.
  
 736.4 HOW -- How To whittle a wood duck. -- [s.n., n.d.]. -- Mode of Access: [World Wide Web](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html). -- Title from homepage viewed Sat 10/09/2021.
 
-843 VER -- Verne, Jules. -- 20,000 leagues under the sea. -- Bantam Books, 1964. -- 371 p. -- ISBN 0553212524.
+843 VER -- 20,000 leagues under the sea / Verne, Jules. -- Bantam Books, 1964. -- 371 p. -- ISBN 0553212524.
 > Read 2021-10. -- Grade C. -r -- Our chances seemed slim, but hope springs eternal in the human beast. p. 60 -q -- Some of them you already know, such as the thermometer, which gives the inside temperature of the Nautilus; the baraometer, which indicates atmmospheric pressure and predicts changes of weather, the hygrometer, which shows the dryness of hte air, the storm glass, whose contents decompose and announcethe arrival of storms; the compass, which gives me my course; the sextant, which by determining hte height of the sun, gives me my latitude; my chronometers, which permit me too find out my latitude; my chronometers, which permit me to find out my longitude; and lastly my telescopes, one for the day and the other for nighttime use, which I examine every corner of the horizon when the Nautilus is on the surface... pressure guage. It's in contact with the water outside, and by giving me its pressure tells me at what depth I'm traveling... They're thermometrical sounding lines, to give me the temperature of various layers of water. -p. 97. -q -- Yes, Monsieur. But giving up the insupportable yoke of life on earth, which men mistake for liberty, will perhaps not be so unpleasant as you imagine!. -p. 84 -q -- I didn't answer, and with good reason. What use re the best of arguments when they can be destroyed by force? -p. 82. -q -- 'That's you all over, Consiel my friend... you never get riled up. Always calm. You'd be capable of thanking God before saying grace, and then dying of starvation rather than complaining! -p. 76 -q -- I have seen in this underwater tour of the Pacific Ocean, the Indian Ocean, the Red Sea, the Mediterranean, the Atlantic, the Antaarctic and northern waters!. -p. 437 -q -- For some time now, the Canadian had said nothing about excaping. He had become less talkative, and now remkained silent much of the time. I could see how this prolonged imprisonment weightd oon him. Whenever he met the captain, his eyes would gleam with a sullen fire, and I was constantly afraid that his violent instincts would cause him to do something rash. -p. 326 -q -- The charitable thing to do, therefore... would be to warn the stockholders. But who knows if such a warning would be well received. Gamblers usually prefer to lose their money than abandon their mad hopes. -p. 295 -q -- 1.7 The prof., ved, and the servant find is submarine. Hear voices. -- Ned hand, Harpooner, Canadian -f -- Conseil, m, The Servant. -f --  Prof. Pierre Aronnax, m, French, Professor of Natural history. the protagonist. Characteristics: self-confidence, caine, energy, viral nature, proud. -- 1.8. Prof. et.al are in the sub, with Three men who speak an unknown language. They bring food. -s -- - The Abraham Lincoln: The Ship they took -f -- - 1.10. The Captain and crew are Castaways who have broken with humanity. -s --  Captain Nemo of The Nautilus -f -- The Nautilis has a large library Paittings, and specinine collection. -s -- 1.12. tronnax has explained the mechanics of the Nautilis. -s -- 1.15 N. i taking A. on a henting trip. -s -- 1.16 the under water forest at crespo Island -s -- 1.17 Nantiq Enters the Torres strait. -s -- 22. They hunt on dry land, then trave The Strait. -s -- 23 Nemo locks them up again -s -- 24 Asailor dies on Board -s -- 29. They go through the Arabian tunnel. -s -- 33. Atlantis! -s -- 34. Home port of the Nautilus is an extinct volcano under the ocean. -s -- 35 .A picture taken in the sargasso Sea. -s -- -36. Ned is tired of the whole Thing, wants to get back to land. -s -- 38. Arrived at soouth pole. -s -- 42. A squid / octopus, which Nemo Kills. -s --  44. They find the the Revenge.
 
-842 VER -- Verne, Jules. -- Round the moon / by Jules Verne. -- [S.n., n.d.] -- v.
+842 VER -- Round the moon / by Jules Verne. -- [S.n., n.d.] -- v.
 > Read 2012-08.
 
 940 CAM -- The Cambridge medieval history collection. --  Mario Brito Publishing, 2000. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B08KHH4DV4). -- AISN B08KHH4DV4.
 
-737 FOR -- Ford, Lincoln. -- Coin collecting. -- [S.n.], 2021. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B08ZW84QTD) -- AISN B08ZW84QTD.
+737 FOR -- Coin collecting / Ford, Lincoln. -- [S.n.], 2021. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B08ZW84QTD) -- AISN B08ZW84QTD.
 
-932 CLA -- Clayton, Matt. -- Egyptian mythology. -- [S.n.], c2017. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B0738H8PM6). -- AISN B0738H8PM6.
+932 CLA -- Egyptian mythology / Clayton, Matt. -- [S.n.], c2017. -- Mode of access: [World Wide Web](https://read.amazon.com/?asin=B0738H8PM6). -- AISN B0738H8PM6.
 
 930 ASS -- The Assyrian empire. -- Sea Vision Publishing, c2021, 2019. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B07S9T6DSX). -- AISN B07S9T6DSX.
 
-080 AST  -- Asthana, S.A.. -- At the edges. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09DTN7SZH). -- AISN B09DTN7SZH. -- DBID 20211017_122539.
+080 AST  -- At the edges / Asthana, S.A. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09DTN7SZH). -- AISN B09DTN7SZH. -- DBID 20211017_122539.
 
-636 BAR -- Barnes, Max. -- Raising goats for beginners. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09J9XHS31). -- AISN B09J9XHS31. -- DBID 20211017_122859.
+636 BAR -- Raising goats for beginners / Barnes, Max. -- s.n., 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B09J9XHS31). -- AISN B09J9XHS31. -- DBID 20211017_122859.
  
 004 CAA -- caard. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://carrd.co/build). -- Title from homepage viewed Sun 10/17/2021.
  
 005 GLI -- Glide. -- s.n., n.d.. -- Mode of Access: [World Wide Web](https://www.glideapps.com/). -- Title from homepage viewed Sun 10/17/2021.
 
-152 STU -- Stulberg, Brad. -- 8 rules to do everything better. -- [S.n., 2021?]. -- Mode of Access: [World Wide Web](https://getpocket.com/explore/item/8-rules-to-do-everything-better).
+152 STU -- 8 rules to do everything better / Stulberg, Brad. -- [S.n., 2021?]. -- Mode of Access: [World Wide Web](https://getpocket.com/explore/item/8-rules-to-do-everything-better).
 > Stress + Rest = Growth -- Focus on the Process, Not Results -- Stay Humble -- Build Your Tribe -- Take Small, Consistent Steps to Achieve Big Gains -- Be a Minimalist -- Make the Hard Thing Easier -- Remember to Experience Joy -- There’s an old saying that you’re the average of the five people you spend the most time with. -q.
  
-813 PAD -- Padron, Paul. -- The gift of samuel. -- In Libras Libertas LLC, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B08W4QMR32). -- AISN B08W4QMR32. -- DBID 20211024_165254.
+813 PAD -- The gift of Samuel / Padron, Paul. -- In Libras Libertas LLC, 2021. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B08W4QMR32). -- AISN B08W4QMR32. -- DBID 20211024_165254.
 
 658 KAS -- Kashyap, Sandeep. -- How to make your team more perceptive to change? -- Mode of Access: [World Wide Web](https://thriveglobal.com/stories/how-to-make-your-team-more-perceptive-to-change/). -- IN Thrive Global. -- (Oct 27, 2021)
 > A. Include Them In Decision Making (consensus, transparency, same boat) -- B. Communicate Changes Effectively (Why is it happening? -- What do we wish to accomplish? -- What exactly will be changing? -- Will it be a sudden change or a slow burn? -- How many people will be affected by it? -- Why is the change happening right now?) -- C. Provide Flexibility (not rigid. be sensitive and empethetic, allow for gradual changes, have deadline, allow for wiggle room). -- D. State The Benefits of Change. -- E. Commit To Those Changes (Do not give up on decisions that you know are right for your team. -- Take risks but keep your team informed. -- Follow through with your promises. -- Be persistent and assure people that change is for the better. -- Let your team know that the particular change is going to be permanent till a better idea comes your way) -o -- More often than not a state of confusion is the primary factor that messes with your team. -q 
 
-920 MCM -- McManus, Michael. -- Edward Heath. -- [S.n., n.d.] -- v.
+920 MCM -- Edward Heath / McManus, Michael. -- [S.n., n.d.] -- v.
 > Read 2021-07. Grade C. -r --  A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. -s
 
-817 BAR -- Barry, Dave. -- Dave Barry hits below the beltway. -- [S.n., n.d.] -- v.
+817 BAR -- Dave Barry hits below the beltway / Barry, Dave. -- [S.n., n.d.] -- v.
 > Read 2021-08. Grade C. -r -- A humor book about politics. -s
 
-813 WIL -- Wilker, John. -- Any job will do. -- [S.n., n.d.] -- v.
+813 WIL -- Any job will do / Wilker, John. -- [S.n., n.d.] -- v.
 > Read 2021-09. Grade D. -r
 
 w005 EPU  -- EPUB to PDF converter. -- go4convert.com, c2021. -- Mode of Access: [World Wide Web](https://go4convert.com/ebook-to-pdf).
