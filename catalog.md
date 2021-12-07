@@ -1,7 +1,7 @@
 
 813 WEI. -- Dragons of summer flame / Margaret Weis and Tracy Hickman. -- TSR, Inc., 1995, 2001. -- on external hard drive. -- File Name: 8840.txt.
 
-g005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- [www](https://drive.google.com).
+g005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- Mode of Access: [World Wide Web](https://drive.google.com), viewed Dec. 7, 2021.
 
 091 TYL. [Photographs of the back field at the George and Cherie Thompson estate with Justin and Colleen / Justin Lee Tyler -- Aug. 24, 2013] -- on 1 external hard drive. -- DBID 3292.
 
