@@ -1,18 +1,18 @@
 
 813 WEI. -- Dragons of summer flame / Margaret Weis and Tracy Hickman. -- TSR, Inc., 1995, 2001. -- on external hard drive. -- File Name: 8840.txt.
 
-g005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- Mode of Access: [World Wide Web](https://drive.google.com), viewed Dec. 7, 2021.
+005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- Mode of Access: [World Wide Web](https://drive.google.com), viewed Dec. 7, 2021.
 
 091 TYL. [Photographs of the back field at the George and Cherie Thompson estate with Justin and Colleen / Justin Lee Tyler -- Aug. 24, 2013] -- on 1 external hard drive. -- DBID 3292.
 
 781 INS -- No strings attached / -NSYNC. - -[S.l.], 2000. -- on 1 external hard drive. 
 
-w650 TWE -- 12 outstanding personality traits of a great boss. -- [www](http://www.officevibe.com/blog/infographic-great-boss).
+650 TWE -- 12 outstanding personality traits of a great boss. -- [www](http://www.officevibe.com/blog/infographic-great-boss).
 > Think positive -- Be honest -- Delegate -- Communicate -- Inspire -- Align the team -- Balanced (People perform better when they're able to balance life and work") -- Give credit -- Encourage growth -- Praise -- Mentor -- Fair. -o
 
-g005 REG -- Appendix B. regular expression reference. -- [s.n., n.d.] -- www.
+005 REG -- Appendix B. regular expression reference. -- [s.n., n.d.] -- [www](http://drive.google.com).
 
-w178 TWE. -- [21 simple actions towards a simpler life]. -- [S.n., 2012?]. -- www.
+178 TWE. -- [21 simple actions towards a simpler life]. -- [S.n., 2012?]. -- www.
 > 1 Perform a cluttee bust -- 2 Practice gratitude -- 3 Rearrange your living room (to encourage lingering conversations, nights spent reading books and listening to music) -- 4 Add indoor plants -- 5 Keep your dinning table surface clear -- 6 use the 'good' tableware and glasses daily -- 7 Create white spaces (allows you to highlight beauty and meaning) -- 8 Prepare yourself in the morning -- 9 Find storage for your kitchen appliances -- 10 Create secondary storage for pantry items -- 11 Meal Plan -- 12 Make your bed each and every day -- 13 Start an exit drawer (where you store everything that needs to leave your house when you do) -- 14 Start a donate box -- 15 Check your mindset (Write down/consider your goals, your stengeths and weaknesses, check your answers, get to it -- 16 Get your finances in order -- 17 Be accountable by recording your simplifying effords -- 18 Declutter your wardrobe -- 19 Daily meditation -- 20 Start with acceptance -- 21 Unplug "You need time to think, time to dream, time to talk and time to do nothing at all"  -- Meditation brings perspective, it brings calm, it brings peace and leaves you feeling grounded and well-prepared for the day. -q -- Steps to meditiation: Take a deep breath, close your eyes, and think of your five senses. Immerse yourself in your immediate surroundings; be present in the moment. -o
 
 091 TYL. -- [2007 taxes] / Justin Lee Tyler. -- 2007. -- on 1 external hard drive. -- File Directory: 3219. -- DBID 3219.
@@ -25,7 +25,7 @@ w178 TWE. -- [21 simple actions towards a simpler life]. -- [S.n., 2012?]. -- ww
 
 091 TYL. -- [2016 taxes] / Justin Lee Tyler. -- on 1 external hard drive. -- File Directory: 3359. -- DBID 3359.
 
-w150 WIN. -- 29 scientifically proven ways to be happy this year / Sarah Winfrey. -- wisebread.com, 2014. -- [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).
+150 WIN. -- 29 scientifically proven ways to be happy this year / Sarah Winfrey. -- wisebread.com, 2014. -- [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).
 > Work with your hands -- Practice 'taking in the good' -- Help others -- Stop caring about what others think. -- Let go of perfection -- Become calm -- Hold the small things -- Guzzle H20 -- Disconnect -- Fake it 'til you make it (smile). -- Embrace the great outdoors. -- Stop whining -- Hold your tongue -- Use your time well -- Get your sweat on (excercise) -- Leave blame behind -- Get the sleep you need -- Talk it up (vocalize your gratefulness) -- Engage in Aid -- Reach out -- Don't fear failure -- See yourself different -- Pay attention -- Find a new mantra -- Don't eat alone -- Get creative -- Dream about getting away. -o
 
 813 COL. -- The wolf worlds / Allan Cole and Chris Bunch. -- Ballantine Books, c1984. -- 298 p. -- ISBN 0345312295.
@@ -119,9 +119,9 @@ k813 ARG -- Fairmont Boys Series / Jay Argent. -- [S.n., n.d.] -- [www](https://
 921 AXE -- Profiles in audacity / Alan Axelrod. -- New York : Sterling Publishing, c2006. -- x, 309 p. -- ISBN 1402732821
 > Read 2012-03. -r -- Andrew Carnegie, 19th-20th c., m., industrialist; philanthropist. Author of WEALTH -p. 272 -f -- 'The problem of our age... is the proper administration of wealth, so that ties of brotherhood may still bind together the rich and the poor in harmonious relationship.' -Andrew Carnegie -p. 272 -q -- For Carnegie did not advocate charity. Instead, he called on the wealthy to decide to help those who will help themselves... to give those who desire to rise the aids by which they may rise.' -p. 274 -q -- Yet through a combination of force and personality, economic savvy, and political will, Elizabeth I began the rapid transformation of England from an insular European backwater to the island nexus of what would eventually become the greatest empire since Rome. -p. 25 -q -- Elizabeth I, f, 16th c. Queen of England. -p. -f -- Sir Francis Drake, m, 16th c., English. Seafarer and privateer. -p. -f
 
-g647.7 BAB -- Focus : a simplicity manifesto in the age of distraction / Leo Babauta. -- [S.l., s.n., 2010?] -- www.
+647.7 BAB -- Focus : a simplicity manifesto in the age of distraction / Leo Babauta. -- [S.l., s.n., 2010?] -- [www](http://drive.google.com).
 
-g342 JUS -- Review of the executive royal prerogative powers: final report / [UK] Ministry of Justice. -- Ministry of Justice, 2009. -- www.
+342 JUS -- Review of the executive royal prerogative powers: final report / [UK] Ministry of Justice. -- Ministry of Justice, 2009. -- [www](http://drive.google.com).
 
 k813 BAL -- Sourcerer's quest / NAK Baldron. -- Aconite Cafe, 2019. -- [www](https://read.amazon.com/?aisn=B0833HHLDH).
 
@@ -134,7 +134,7 @@ k813 BAL -- Sourcerer's quest / NAK Baldron. -- Aconite Cafe, 2019. -- [www](htt
 
 k813 BAN -- The king's cavalry / Paul Bannister. -- Endeavour Press, 2014. -- [www](https://read.amazon.com/?asin=B00IGJ1KDS).
 
-w113 BAR -- Ritualizing big history / Connie Barlow -- metanexus, 2013. -- [www]http://www.metanexus.net/blog/ritualizing-big-history.
+113 BAR -- Ritualizing big history / Connie Barlow -- metanexus, 2013. -- [www]http://www.metanexus.net/blog/ritualizing-big-history.
 
 813 BAR -- Insane city / Dave Barry. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 9780399158681.
 > Read 2013-08. Grade B. -- Ch. 1-2: Marty puts a male sex device in Seth's carry-on. -- Laurette, a Hatian refugee, is chucked off the boat from Haiti to Miame. -s -- Ch. 3-4: Seth and co. talk of weddings, etc. at the bar. -- The TSA gives Seths wife, Tina, a hard time. -- Laurette thinks she and her kids will die in the Atlantic. -s -- Ch. 10: Seth and Cyndi pick up his parents, Rose and Sid, at the airport. -s  -- Ch. 14: Seths suitcase is left under a tarp in a cage with an orangutan. -s -- An overly agressive animal with a small brain... and no ability to think for itself... I'm not talking about the dog. -Tina -p. 22 -q -- It's Miami... There's drug dogs in the preschools. -Seth -p. 22 -q -- But he [Sid] preferred to perceive the world through the ever-present interface of Rose so that his impressions and opinions would always be in sync with hers; this, Sid had learned over the years, was the key to a peaceful marriage, if not necessarily a happy one. -p. 77 -q  -- ... whose official title was Director of Operations, in which capacity he spent the bulk of his day picking up monkey shit. p. 105 -q This is how I feel at work, with my title; compared to what I actually do. -r
@@ -168,7 +168,7 @@ k813 BAK -- The City of Towers / Keith Baker. -- [S.n., n.d.]. -- [www](http://r
 Library : an unquiet history / Matthew Battles. -- [S.n., n.d.] -- v.
 > Read 2005-06. -r -- The library in the digital age is in a state of flux, which is indistinquishable from a state of crisis - not only for institutions but for the books they contain, preserve, and propogate, a crisis for the culture of letters whose roots are firmly planted in the library. -p. 212 -q -- And yet, they very fact that the library has endured these cycles seems to offer hope. -p. 213 -q -- Destroying a library, however, is mearly the crudest form of editorializing. Libraries left intact can become tools of oppression and genocide, too, since they offer cannons that reflect the counceits of mystical nationalism and the will to purify. -p. 180 -q -- Perhaps the first prominant card catalog was Edward Gibbon's inventory on playing cards. -q
 
-w646.7 BEC -- The 10 most important things to simply your life / Joshua Becker. -- Becoming minimalist, 2012. -- [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).
+646.7 BEC -- The 10 most important things to simply your life / Joshua Becker. -- Becoming minimalist, 2012. -- [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).
 > 1. Your Posessions -- 2. Your Time Commitments -- 3. Your Gols (By reducing the number of goals... you will improve your focus and your success rate.) -- 4. Your negative thoughts -- 5. Your debt. -- 6. Yor words (a. Use fewer -- b. Keep your speech plain and honest. -- c. Mean what you say. -- d. Avoid gossip.) -- 7. Yor artificial ingredients -- 8. Your screen time. (a. It begins to dominate your life) -- 9. Yor connections to the world. (a. Relationships are good -- b. Constant stream of distraction are bad. -- c. Focus on the important, not the urgent) -- 10. Your multitasking (a. Increases stress and lowers productivity.) -o -- most quests for unusual goals are motivated by the conviction that the end is attainable if only the correct combination of fortune and persistence can be struck.   -p. 52 -q
 
 025.3 BAI -- Beyond Theory: preparing Dublin Core metadata for OAI-PMH harvesting / Amalia Beisler, Glee Willis. -- on 1 external hard drive. -- File name: 3210.pdf. -- DOi 10.1080/19386380903095099. -- IN Journal of Library Metadata. -- Vol. 9 (2009).
@@ -177,9 +177,9 @@ w646.7 BEC -- The 10 most important things to simply your life / Joshua Becker. 
 813 BEL -- Survial colony 9 / Joshua David Bellin -- Margaret K. McElderry Books, c2014 -- 325 p. -- ISBN 9781481403542.
 > Read 2015-08. Grade C. -r -- I'd been so fcused on tracking this wounded thin, I'd forgotten that wounded things can be the most dangerous. -p. 258 -q -- A global war has decimated humanity. A boy named Querry is found by survival colony 9, but he has no memory. Creatures known as the Scaldi are after him. -s
 
-266 BEN -- The bikeable church: A bicyclist's guide to church planting / [by] Sean Benesh; [forward by] Caleb Crider. -- on ASUS tranformer tablet. -- AISN B009AAN20Q.
+266 BEN -- The bikeable church: A bicyclist's guide to church planting / [by] Sean Benesh; [forward by] Caleb Crider. -- [www](https://read.amazon.cim) -- AISN B009AAN20Q.
 
-g155 BEN -- The science of what makes an introvert and an extrovert / Joseph Bennington-Castro. -- iIO9.com, 2013. -- www.
+155 BEN -- The science of what makes an introvert and an extrovert / Joseph Bennington-Castro. -- iIO9.com, 2013. -- [www](http://drive.google.com).
 
 915 BEN -- Transformative travel in Nepal / Benin, Kate. -- [GypsyDuo], 2012. -- ASIN B008EAUYEA.
 
@@ -223,7 +223,7 @@ g155 BEN -- The science of what makes an introvert and an extrovert / Joseph Ben
 
 289.1 KIN -- Book of common prayer according to the use of King's Chapel. -- [S.n.], 1918. -- on 1 external hard drive. -- Filename: 0360.pdf.
 
-g264 BOO -- The Book of Common Prayer and administration of the sacraments and other rites and ceremonies of the church, together with the Psalter or Psalms of David : according to the use of The Episcopal Church. -- Church Publishing, [2007?] -- www.
+264 BOO -- The Book of Common Prayer and administration of the sacraments and other rites and ceremonies of the church, together with the Psalter or Psalms of David : according to the use of The Episcopal Church. -- Church Publishing, [2007?] -- [www](http://drive.google.com).
 
 813 BOS -- The purging / Reed Bosgoed. -- R. B., 2013.. -- Title from title page.  ASIN B00DQCP1J4.
 
@@ -232,7 +232,7 @@ g264 BOO -- The Book of Common Prayer and administration of the sacraments and o
 813 BOV -- Mars / Ben Bova. -- Batam Books, c1992. -- 549 p. -- ISBN 055356241X.
 > Read 2019-08. Grade C. -r -- Jame Waterman, m, Protagonist. -f -- Joanna Brumado. -f -- V. and Co. arrive on Mars. Jamie flashback. -s -- A soft answer truns away wrath. -84 -q -- The Old Ones taught that miracles are not rare. The world is fulled with them. -95 -q -- The Old Ones taught that this blue world of ours is not the first world in which The People have lived. -95 -q -- Brumado had learned the traveler's secret years earlier: sleep whenever you can... The second rule of the iveterate traveler: never pass a toilet without using it. -p. 109 -q -- One of Alberto Brumado's traits was that the angrier her became, the more icy calm. Anger that would drive another man to tantrums or violence mearly made him colder, keener, more deliberate. -p. 115 -q -- She [Joanna] had pleased her mother by obeying her one unbendable rule: 'Do not do anything that you can't tell me about afterward.' -p. 140 -q -- The Gaia hypothesis sstates that all life on Earth works together as a self-regulating feedback system that maintains itself. No single species of life - not even the human race - lives in isolation. All species are part of the whole, part of the totally integrated living Gaia. -p. 180 -q -- That's against the rules. How many times has Vosnesensky drilled it into us: think ten times before you do anything. -Jamie - p. 181 -q -- In her eeys you're part of an inhuman system... -p. 194 -q -- Strange to find life on a world where we're all going to die, he thought. Strange to be sweating while you're freezing to death. -q -- Give up unnecessary things. -q -- Connor's phony enthusiasm irritated him, but he kept silent. -q  -- These people are nothing but brute beasts, born in the wild, predators on the prowl. -q -- Meditation is the key to understanding, the bridge to the great cosmic all. -q -- Jamie sat alone at the table, staring at his damaged helmet, wondering why human beings had to inflict pain on one another to gain respect. -q
 
-w813 BOW -- Port State / William Bowden. -- [S.l.], c2020. --[www](https://read.amazon.com/?aisn=B08NRLBBH1).
+813 BOW -- Port State / William Bowden. -- [S.l.], c2020. --[www](https://read.amazon.com/?aisn=B08NRLBBH1).
 > Read 2020-12. -- Grade D. -r -- NOTE: summaries are in reverse order. -- The uk stared firing missles at the cynet. -s -- The cygent takes off. -s -- The ship travels from one parallel universe to another. -f -- Mr. Day gives a book and says to disceminate. -s -- Minal and jakes spend the night in Cygent. -s -- “Can’t be bothered with all the academia bullshit,” says Minal. “Corporate bullshit’s worse. Port State Control pays well. It’s a good life.” -q -- Mr. Day announces tgat he wants a trade deal. -s
 
 974.4 BRA -- Bradford's history 'Of Plimoth plantation' / William Bradford; Printed under the direction of the Secretary of the Commonwealth, by order of the General Court. -- Boston : Wright and Potter, 1898.. -- DBID 3022
@@ -289,7 +289,7 @@ k813 BRA -- The book of creation / by Evan Braun and Clint Byars. -- [S.n.], c20
 813 BRO -- The scions of Shannara / Terry Brooks. -- [S.n., n.d.] -- [1] v.
 > We cannot pretend that the world begins and ends at the boundaries we might make for it. Sometimes, we must achnolodge that it extends itself into our lives in ways we might prefer it wouldn't, and we must face up to the challenges it offers. -Walker Boh. -q -- I live apart because I choose to. Other men in other times made me decide that it was best. Best I forget sometimes that there is a difference between disassociation and hiding. There are limits to distances we can place between ourselves and others -- because of the dictates of our world don't allow for absolutes. -Walker Boh. -q -- Am I a parrot to repeat the phrases of others for your amusement? -q -- It is not nearly so important to know who you are as who you might be. -Cogline. -q -- The question plagues me like flies on a sweating horse. -p. 252 -q
 
-g813 BRO -- The Skaar invasion / Terry Brooks. -- Del Rey, 2018. -- www.
+813 BRO -- The Skaar invasion / Terry Brooks. -- Del Rey, 2018. -- [www](http://drive.google.com).
 > Read 2018-08. Grade C. -r
 
 813 BRO -- The sword of Shannara / Terry Brooks. -- New York : Ballantine Books, c1977. -- 726 p. -- DBID 1901.
@@ -307,7 +307,7 @@ g813 BRO -- The Skaar invasion / Terry Brooks. -- Del Rey, 2018. -- www.
 813 BRO -- The Da Vinci code / Dan Brown. -- Doubleday, c2003. -- 454 p. -- DBID 0029. -- ISBN 0385504209
 > Those who seek the truth are more than friends. They are brothers. -q -- Your Heart is true my friend. -- Those who truly understnd their faiths understand the stories are metaphorical. -p. 342 -q
 
-w813 BRO  -- Inferno / Dan Brown. -- Anchor, c2013. -- [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865.
+813 BRO  -- Inferno / Dan Brown. -- Anchor, c2013. -- [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865.
 > Read 2017-05. Grade D. -r -- Madness breeds madness. -q
 
 813 BRO -- Red rising / Pierce Brown. -- Del Rey, c2014. -- 382 p. -- ISBN 9780345539793.
@@ -321,7 +321,7 @@ w813 BRO  -- Inferno / Dan Brown. -- Anchor, c2013. -- [www](https://mvlc.overdr
 
 646.7 BRU -- Bruce Lee's top 20 tips for living a successful life. -- File name: (10094.pdf). -- DBID 10094. -- IN Wake Up Cloud. -- (Apr. 4, 2011)
 
-w613.6 BRU -- Surviving an apocalypse / James Bruce. -- makeuseof.com, 2013. -- [www](https://makeuseof.com).
+613.6 BRU -- Surviving an apocalypse / James Bruce. -- makeuseof.com, 2013. -- [www](https://makeuseof.com).
 
 917 BRY -- A walk in the woods / Bill Bryson. -- 1st ed. -- Anchor Books, 2007, c1998. -- 397 p. -- ISBN 9780307279460.
 > Life takes on a neat simplicty, too. Time ceases to have any meaning. When it is dark, you go to bed, and when it is light again you get up, and everything in between is just in between... All that is requird of you is a wilingness to truge. There is no point in hurrying ecause you are not actually going anywhere. However far or long you plod, you are always in the same place: in the woods. -p. 101 -q
@@ -352,15 +352,15 @@ k200 BUR -- Strange rites : new religions for a godless world / Tara Burton. -- 
 
 781.67 CAB -- Ethereality / David Caballero. -- Hollywood, CA: Only New Age Music, 2005. -- on 1 external hard drive.
 
-g813 CAI -- Ink and bone / Rachel Caine. -- New American Library, c2015. -- [www](https://drive.google.com).
+813 CAI -- Ink and bone / Rachel Caine. -- New American Library, c2015. -- [www](https://drive.google.com).
 > Read 2017-04. Grade C. -r -- Guillaume Danton -f -- I gambled for the soul of the Library. And I lost. Past is past. -q -- Give in. Give up. Survive. -f -- Find a way to forgive. Find a way to live. Find a way to be free. Find a way back to me. -q -- I won’t waste my breath. You have to learn how to listen before you will hear. -q -- Desperate people do desperate things. You cannot be one of them. You must be better. -q -- Jess felt oddly divorced from it all, even as he was in the middle of it. -q -- The city stank of waste and sickness and unburied death -q -- There is no place in the world for librarians who lack the will to defend books against wars, rebels, and Burners. Books cannot fight for themselves. -q -- principle of similarity. As above, so below. -q -- She was always reading now. It was probably why she would survive them all in the cut-throat world of the Library. -q -- The Codex is like a tablet -f -- Jess Brightwell, the protagonist. -f -- Danton had no readable expression on his face, but his body language was guarded. -q -- Jack of all trades, master of none... -q -- Librarians instruct, assist, research, develop, create … and protect -q -- The first purpose of a librarian is to preserve and defend our books. -q -- Tota est scientia.’ Knowledge is all. -q -- the Doctrine of Ownership. -f -- Doctrine of Mirroring -f -- create a work schedule and properly fill a patron’s request... -q -- After all, the Library provided them free on the birth of a child, and encouraged every citizen of the world to write their thoughts and memories from the earliest age possible. Everyone kept a record of the days and hours of their lives to be archived in the Library upon their deaths. The Library was a kind of memorial, in that way. It was one reason the people loved it so, for the fact it lent them a kind of immortality. -q -- When you steal a book, you steal from the world, the Library propaganda said -q -- St Paul’s Serapeum, the physical presence of the Great Library -q
 
-g025.3 CAL -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- www.
+025.3 CAL -- Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. -- Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009. -- [www](http://drive.google.com).
 
 813 CAM --Gabe and the mystery light / Cameron, Joy. -- [S.n., n.d.] -- v.
 > Read 2018-07. Grade C. -r
 
-g355 CAM -- Camp Delta standard operating procedures (SOP). -- [S.l., s.n.], 2003. -- [www](https://drive.google.com).
+355 CAM -- Camp Delta standard operating procedures (SOP). -- [S.l., s.n.], 2003. -- [www](https://drive.google.com).
 
 843 CAM -- The plague / Camus, Albert. -- London: Penguin, 2002. -- 256 p
 > Read 2012-03. -r -- 'Tarrou, Jean'a visitor to Oran -p. 21 -f -- -p. 21- -s -- Castel'one of Rieux's colleagues' (33) -p. 33 -f -- There have been as many plagues as wars in history; yet always plagues and wars take people equally by surprised. -p. 34 -q -- 'Grand, joseph'Clerk of Oran (38) -missing upper teeth -'attributes of insignificance (41) -little ambition in life (41) -p. 38 -f -- '? he [Joseph] had the walk of a shy young priest, sidling along walls and slipping mouselike into doorways.' -p. 41 -q -- And lastly - this was the real trouble - Joseph Grand couldn't find his words? this difficulty in finding his words had come to be the bane of his life. -p. '42,43' -q -- '? he [Joseph] refused to use expressions such as 'your kindness,' 'gratitude,' or even 'solicit,' which, to his thinking, were incompatible with his personal dignity.' -p. 42 -q -- ? he [Joseph] was one of those rare people? who have the courage of their good feeling. What little he told of his personal life vouched for acts of kindness and a capacity for affection that no one in our times dares own to. -p. 43 -q -- '-Richard, Rieux, and the prefect discusses the situation -Richard wants action, Rieux wants caution, proper timing.' -p. 44-47 -s -- Cottard -p. 49 -f -- 'Like Cottard he [Rieux] felt a need for friendly contacts, human warmth.' -p. 53 -q -- Rigaudarchitect (54) -p. 54 -f -- People always talk? That's only to be expected. -p. 55 -q -- Never had Rieux known his profession to weigh on him so heavily. -p. 55 -q -- Castel went back to his old books and spent long hours in the public library. -p. 57 -q -- Orders? when what's needed is imagination. -p. 58 -q -- Oran -p. 3 -f -- 'Rieux, Bernard (Dr.)'medical doctor -main character -wife went to sanitoriam (8) -30 y/o (8) -p. 7 -f -- 'Michel, M'concerge (9) -p. 9 -f -- 'Othon, M'magistrate (10) -p. 10 -f -- 'Ramber, Raymond'jounralist (11) -p. 11 -f -- 'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 -q -- Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f
@@ -373,7 +373,7 @@ g355 CAM -- Camp Delta standard operating procedures (SOP). -- [S.l., s.n.], 200
 
 k813 CAR -- Project Dandelion / Carson, Heather. -- [S.n.], 2019. -- [www](https://read.amazon.com/?aisn=B07TLF8HN7).
 
-g025.8 CAS -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- [S.n., s.l.], c2007. -- [www](https://drive.google.com).
+025.8 CAS -- Sound directions : best practices for audio preservation / by Mike Casey and Bruce Gordon. -- [S.n., s.l.], c2007. -- [www](https://drive.google.com).
 
 027 CAS -- Libraries in the ancient world / Casson, Lionel. -- New Haven : Yale University Press, c2001. -- xii, 177 p. -- ISBN 0300088094
 > Read 2011-10. -r -- The BeginningsA. Clay 1. Durable 2. ok in fire -p. - -- PrefaceA. covers from 3000 BCE-500 CEB. -p. - -- 'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o
@@ -382,7 +382,7 @@ g025.8 CAS -- Sound directions : best practices for audio preservation / by Mike
 
 923.1 CAT -- In celebration and of thanksgiving for the life of Gerald Rudolph Ford / Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.) -- [Washington, D.C. : The cathedral, 2006] -- File name: (0589.pdf) -- DBID 0589
 
-g939 CAU -- The birth of the gods and the orgins of agriculture / Jacques Cauvin; translated by Trevor Watkins. -- Cambridge University Press, 2000. -- www.
+939 CAU -- The birth of the gods and the orgins of agriculture / Jacques Cauvin; translated by Trevor Watkins. -- Cambridge University Press, 2000. -- [www](http://drive.google.com).
 
 781.67 CER -- Or Mabinogi / Cerdwen. -- [S.l.: s.n.], 1997. -- on 1 external hard drive. -- Title from Compact Disc.
 
@@ -392,11 +392,11 @@ g939 CAU -- The birth of the gods and the orgins of agriculture / Jacques Cauvin
 
 813 CHA -- The secret portal / Charlton, Reno. -- R. Charlton, c2012.. -- ASIN B007IWDCK8.
 
-813 CHA -- Earth and shadows / Chastain, Coleman. -- [The author], c2013. -- on ASUS tablet. -- Title from title page.
+813 CHA -- Earth and shadows / Chastain, Coleman. -- [The author], c2013. -- [www](https://read.amazon.com). -- Title from title page.
 
 781.64 CHE -- The Very Best of Cher / Cher. -- Burbank, CA: Warner Bros. Records, 2003. -- on 1 external hard drive.
 
-w152 CHE -- 12 rituals happy, successful people practice every day / Chernoff, Marc. -- Mac and Angel hack life, 2014. -- [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day/).
+152 CHE -- 12 rituals happy, successful people practice every day / Chernoff, Marc. -- Mac and Angel hack life, 2014. -- [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day/).
 > 1.  Exercise your integrity. -- 2.  Steer clear of drama and those who create it. -- 3.  Replace judgment with encouragement. -- 4.  Be positive and spend time with positive people. -- 5.  Make new choices as needed, rather than letting old ones make you. -- 6.  Simplify whatever you can, whenever you can. -- 7.  Uphold your truth. -- 8.  Express your love without reservations. -- 9.  Nurture your relationship with your significant other. -- 10.  Loosen your grip on what’s not meant to fit in to your life. -- 11.  Embrace your humanness. -- 12.  Ask yourself the right questions. -o -- Judge a man by his questions rather than by his answers. -Voltaire -q -- 12: The right questions: Who am I? -- What do I need? -- How do I function best? -- What do I have to give? -- What's the next step I can take right now? -q -- A relationship should be healthy, caring, loving, kind, upbeat and positive.  It should make your smile a little wider... -q
 
 025.5 CHO -- Information seeking in organizations / Choo, Chun Wei. -- On external hard drive. -- File name: (1689.mht). -- DBID 1689. -- IN Information Research. -- Vol. 12, no. 22 (Jan. 2007)
@@ -412,7 +412,7 @@ w152 CHE -- 12 rituals happy, successful people practice every day / Chernoff, M
 
 781.67 CIS -- Chant / The Cistercian Monks of Stift Heiligenkreuz. -- on 1 external hard drive. -- Universal Music Classics, c2008. -- File Directory: /music/ .
 
-w342 CIT -- The city-states of Aetolia. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- [www](http://www.aetolia.com/cities).
+342 CIT -- The city-states of Aetolia. -- [S.l.] : Iron Realms Entertainment, [n.d.] -- [www](http://www.aetolia.com/cities).
 > I. Sovereign --> A. Ruling Council (elected by citizens.)  -- B. Bureaucracy (Ambassador -- Minister of War -- Minister of Security -- Treasurer -- Steward -- Minister of Trade -- Chancellor -- Minister of Cultural Affairs)  
 
 k823 CLA -- 2001 : a space odyssey / Arthur C. Clarke. -- Reissue ed. -- Ace, 2000. -- [www](https://read.amazon.com/?aisn=B01A6E8EQ6).
@@ -439,11 +439,11 @@ k823 CLA -- The hammer of God / Arthur C. Clarke. -- RosettaBooks, 2012. -- [www
 823 CLA --  Rama II / Arthur C. Clarke and Gentry Lee. -- [S.l., n.d.] -- v.
 > Read 2016-02. Grade D. -r
 
-w794.8 CLA -- Classic arcade games [homepage]. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- [www](http://www.classicgamesarcade.com/ ). -- DBID 3048
+794.8 CLA -- Classic arcade games [homepage]. -- [S.l.] : www.classicgamesarcade.com, [2012]. -- [www](http://www.classicgamesarcade.com/ ). -- DBID 3048
 
 781.68. -- Classics for Relaxation and Meditation. -- St.-Laurent, Canada: Madacy, 1994. -- on 1 external hard drive.
 
-w271 CLA -- The hermits and anchorites of England / Clay, Rotha Mary. -- Methuen & Co, 1914. --[www](https://archive.org/stream/hermitsanchorite00clayuoft).
+271 CLA -- The hermits and anchorites of England / Clay, Rotha Mary. -- Methuen & Co, 1914. --[www](https://archive.org/stream/hermitsanchorite00clayuoft).
 > Read 2014-07. Grade C. -r -- There were two classes of solitaries: anchorites (restricted to a place), and hermits (not restricted. -- Some hermits were caretakers, such as lightkeepers, keepers of highway and bridges, or shrines, or special chaplains (minister to strangers and the poor, and to pray for the people). Many saw them as a sort of prophet or seer. -- Solitaries had 'rules of life', used moreso as 'friendly councel' (p. 89). -- Hermits 'signed a deed of profession, made a vow, and received a charge as to his future manner of living...' (p. 86) -- Solitiaries were typically held to a vegetarian diet -- 'In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host.' (p. 147). -s -- Withdrawal from the world was not at first encouraged by the Christian religion. -p. 13 -q -- Paul of Egypt -- called 'the first hermit'... -p. 13 -q -- It is true that their primary objective in retiring into solitude was the cultivation of the soul, but in doing so they became living witnesses to the reality of the spiritual world. -p. 13 q -- They upheld a lofty and austere moral ideal in the face of self-indulgence, and their manner of llfe was a silent rebuke to rudeness, and excercised a chastening influence in an age of violence. -p. 13 -q -- There were, indeed, two distinct classes of solitaries: the anchorite, enclosed within four walls, and the hermit, who went out of his cell and mingled with his fellow-man. -p. j13 -q -- In some cases anchorites devoted their quiet hours to study, and placed their literary or artistic powers at the service of others. -p. 14 -q -- In fact, the hermits were pioneers of philanthropic works which in these days are undertaken and carried out by public bodies. -p. 15 -q -- ... Wulfric of Haselbury -- prophet and confessor, stern and uncompromising alike with himself and his king... -p. 15 -q -- The life of action, indeed, was apt to be despised by religious teachers, save by such rare saints as Hugh of Lincoln... -p. 16 -q -- ... lead the contemplative life. -p. 23 -q -- The hermit 'led his life, present to the Lord, and unknown to man' -p. 23 -q -- Kenyth, who after eighteen years of solitude found a companion to share his ascetic life... -p. 24 -q -- 3 CAVE DWELLERS: Wulsi -- Robert of Knarseborougg -o -- 4 LIGHTKEEPERS: John Puttock -- Nicholas de Legh -- David Welkes -o -- The Church was the pioneer in many works of mercy and utility, including the provision and maintenance of beacons, bridgets, roads, harbours, and even forts. -49 -q -- 5 HIGHWAY AND BRIDGES HERMITS: Hugh Garth -- Langland -- John le Marechal -- Adam de Whenby -- Some unscrupulous people "took the habit for the sake of an idle life, preferring alms to wages. -61 -q -- The vow of Richard Ludlow... he undertook to have the minister's profession in worship and reverence, to live to his life's end in temperance, soberness, and chastity, to eschew all open spectacles, common scot=ales, tavers, and other suspect places of sin; to hear Mass, pray, and fast; and lastly, he undertook that whatever he should recieve by the way of charity, he would expend truly, without deceit, upon the mending of the bridge and common ways of the town, reserving only sufficent to support himself. -62 -q -- 6 TOWN HERMITS: Thomas de Byreford, Alan Chauns, John "the hermit" (John le Megre?) -- Town-hermits often undertook definite employment [like caretakers of bridges and roads, gates, lepers, or a special chaplain (minister to strangers and the poor, and to pray for the people)]. -p. 71 -q -- 7 ANCHORITES: Wulfric, Lauretta, Katherine of Ledbury, -s -- The anchorite differed from the hermit in that he lived in stricter seclusion, and was not free to wander at will. -p. 73 -q -- Through on window, towards the choir, the recluse partook of the Blessed Sacrament; through another, on the opposite side, he recieved his food; a third, closed with glass or horn, lighted the dwelling. -p. 79 -q -- VII ORDER AND RULE -- The hermit signed a deed of profession, made a vow, and received a charge as to his future manner of living. -p. 86 -q -- The Order of St. Paul the First Hermit -p. 86 -f -- The hermit should make obedience to God alone, because he himself is abbot, prior, and prefect in the cloister of his heart. Episcopal Charge Pontifical, 16th c. -p. 88 -q -- The recluse's Rule of Life consisted of friendly councel rather than rigid regulation. -p. 9 -q -- Rules: Rule of Aelred, Ancren Riwle, Form of Perfect Living / by Richard Rolle, The Scale (or Ladder) of Perfection / by Walter Hilton, Book for Recluses. -q -- The early hermits lived a primitive life as tillers of the soil, and their food consisted of herbs, roots, grain, and fruit... he also kept cows... -p. 101 -q -- IX CONCERNING THE BODY: Food -- Clothing -- Property -- Burial. -o -- Flesh was rarely tasted by the hermit. -p. 102 -q -- The recluse lived on simple foods, chiefly vegetarian. -p. 104 -q -- No man felt himself a hermit until he had assumed some distinctive dress. -p. 105 -q -- To forsake all was the initial step of the hermit's career. -p. 108 -q -- Trading is condemmed: 'an achoress that is a buyer and seller, selleth ehr soul to the chapman of hell'. -p. 109 -q -- In early days it was customary for the cell to become the tomb of its tenant, whether hermit or anchorite. -p. 113 -q -- X TRIAL AND TEMPTATION -- To learn to suffer, and to suffer well, was one of the chief ambitions of the anchoress. -p. 124 -q -- XII HUMAN INTERCOURSE: A. Companionship in the cell -- B. Intercourse with the world -- C. Constancy of Abode -- The 'solitary' was not condemned to a self-centered and self-sufficing life of utter separation and silence. Companionship was permitted, even  encouraged, on the ground that to live entirely apart from human converse was positively dangerous to the soul... The rules therefore impressed the avisability of fellowship with another of like mind and purpose. -p. 128 -q -- Guthlac formed a group of recluses who were in touch with one another. -p. 128 -q -- Nor did the enclosed person necessarily live alone. Wulfric, for example, seems to have the company of Brichtic (p. 74). Richard de Coupe of Swepestone, priest, and Geoffrey Richard, layman, dwelt together in London in the churchyard of St. Lawrence, Jewry (1367). -p. 130 -q -- Recluses had to avoid the pettiness, suspician, and ill-temper which a narrow life might foster... A spirit of unity was to be cultivated: 'Let your dear faces be always turned to each other with kind affection, a cheerful countenance, adn gentle courtesy'. [Ancren Riwle] -p. 131 -q -- It was customary for the enclosed person to have servants. -p. 131 -q -- Although recluses were permitted to speak at discression, they bore the reputation of being taciturn; 'Little will they speak'. -p. 135 -q -- ... but an anchoress ought to give her thoughts to God only. -Ancren Riwle. -p. 136 -q -- XII PROPHETS AND CONSELLORS -- The hermits and achorites of England occupied an independent position somewhat akin to that of the Hebrew seer... follower of Elijah and John the Baptist. It was therefore hsi vocation to read the signs of the times, to declare, to preach, and, it may be, to predict. -p. 146 -q -- In the realm of romance, the solitary is a teacher, expounder of visions, confessor, counsellor, healer, and host. -p. 147 -q -- Claiming to know the Divine will by special revelation, the recluse often exercised an important influence both in public and private affairs. -p. 155 -q -- XII LITERARY RECLUSES (St. Jerome, Gildas, historian, Cuthbert, Billfrith, Plegmund, Dunstan, Guy (Wido), Wechelen, Godric of Finchale, Simon Stock, hymn-writer, Thomas Scrope, historian, Geoffrey, grammarian, George (or Gregory) Ripley, alchemist, Margery Kemp and Julian, mystics, Richard Rolle, composer of poetry and prose, Symon, compiler of a manual of meditations ("The Fruyte of Redempcyon") -- The solitary, therefore, ought to be learned, not one who needs to be taught; also he aught to be wise and learned in the Divine law, that he may know whnce he may bring forth things new and old. -Grimlaic, Regula Solitariorum (9th c.) -p. 167 -q -- There is a tradition that a a British recluse (Eremita Brytannus), living in the time of Ina, King of Wesses, collected the history of his country, and expecially the deeds of King Arthur. -p. 167 -q -- The eleventh-century chronicler, Osbern, visited [Dunstan's] cell or den, which he describes as being more like a tomb than a human habitation. It seems incredible that it measured only 5 feed by 2 1/2 feet. Tn this narrow dwelling the gifted young solitary studied the Scriptures, transcribed and illimited manuscripts, and even, so it said, practiced various arts, such as casting bells and making organs. -p. 169 -q -- The solitary now belongs to a bygone age... Recluses were swept away by the flood which carried off all that was in any way connected with monasticism... They were not a class composed wholly of eccentric and fanatical, or selfish and morbid persons who shirked the duties of life. They were often men and women of strong and saintly character whose life commanded respect and won gratitude from their fellow-man, who recoognized them as workers. At it's best, the contemplative life was a career and a noble one. -p. 191-2. -q
 
 930 CLA -- The seven wonders of the ancient world / Peter Clayton and Martin J. Price. -- Routledge, 1988. -- xiii, 178 p. -- ISBN 0415050367.
@@ -458,7 +458,7 @@ w271 CLA -- The hermits and anchorites of England / Clay, Rotha Mary. -- Methuen
 
 781.64 COH -- The essential Leonard Cohen / Leonard Cohen. -- New York, NY: Columbia, 2002. -- on 1 external hard drive.
 
-g530 COL -- College physics. -- Rice University, c2013. -- www.
+530 COL -- College physics. -- Rice University, c2013. -- [www](http://drive.google.com).
 
 813 COL -- Waterworld / Max Allan Collins. -- [S.l., s.n.] -- v.
 > Read 2016-06. Grade B. 
@@ -475,9 +475,9 @@ g530 COL -- College physics. -- Rice University, c2013. -- www.
 
 367 CON -- Constitution daily. -- [S.n, 200-] -- [www](http://blog.constitutioncenter.org/). -- Daily.
 
-g025 MER -- The RDA workbook / Margaret Mering, Editor. -- Libraries Unlimited, c2014. -- www.
+025 MER -- The RDA workbook / Margaret Mering, Editor. -- Libraries Unlimited, c2014. -- [www](http://drive.google.com).
 
-w028.7 RET -- Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Facet publishing, c2013. -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB). -- Available to patrons with membership to institutions subscribing to EBSCO ebooks.
+028.7 RET -- Rethinking information literacy / edited by Jane Secker and Emma Coonan. -- Facet publishing, c2013. -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB). -- Available to patrons with membership to institutions subscribing to EBSCO ebooks.
 > This book presents a curriculum for information literacy. -s -- People need the skills and values to enable them not just to access information but to use it to make informed judgements and choices, to make their voices heard and make a difference. Librarians have recognized this for many years and call these skills and values ‘information literacy’. -q -- Information-literate people... are judicious citizens who can use information to transform their circumstances, create new knowledge and reach their full potential. -q -- Yet in a world awash with information and knowledge, young people appear increasingly unable to carry out independent research, reluctant to argue and to challenge big ideas and to take risks to discover new knowledge. Instead they readily copy and paste ideas rather than read and critique them. -q -- If librarians are not needed to manage books, perhaps they canevolve into a new role as information literacy experts? -q  I think this exaggerates the situation. Librarians continue to manage books (and other information packets), digital or otherwise. -r -- Libraries have a fundamental role in providing access to information and knowledge, to enable it to be used and communicated to others. In essence, libraries... facilitate learning. Learning enables research and research brings about transformation and progress. -q -- . While librarians may no longer be gatekeepers of knowledge, they can be valuable trusted guides and through information literacy initiatives they can help learners become autonomous and able to make their own informed judgements. -q -- ... we work towards the shared ambition of developing autonomous, lifelong learners who are able to use information effectively in their academic studies and in their personal and professional lives. -q -- The term ‘information literacy’ was first used almost 40 years ago and was coined by Paul Zurkowski, a US librarian (Zurkowski, 1974). -q -- Information literacy empowers people in all walks of life to seek, evaluate, use and create information effectively to achieve their personal, social, occupational and educational goals. It is a basic human right in a digital world and promotes social inclusion in all nations. -q -- Information literacy is a continuum of skills, behaviours, approaches and values that it is so deeply entwined with the use of information as to be a fundamental part of learning, scholarship and research. It is the defining characteristics of the discerning scholar, the informed and judicious citizen and the autonomous learner. -q
 
 005 COO -- Beginning Ruby / Peter Cooper. -- [S.l.] : Apress, 2007.. -- DBID 3035
@@ -498,7 +498,7 @@ w028.7 RET -- Rethinking information literacy / edited by Jane Secker and Emma C
 133 CUN -- Wicca : a guide for the solitary practioner / Scott Cunningham. -- Woodbury, Minnesota : Llewellyn Publications, c2004. -- xiv, 239 p. -- ISBN 9780875421186
 > Read 2012-04. -r -- The person practicing the ritual or spell determines its success. -p. ix -q -- In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix -q -- ...I [the author] prefer the medium of printed words... -p. xi -q -- The shamans were the first humans with knowledge. They created, discovered, nurtured, and used it. -p. 3 -q -- Magic is natural. It is a harmonious movement of energies to create needed change. -p. 6 -q -- Wicca -- it is a joyous union with nature. -p. 6 -q -- When we lose touch with our blessed planet, we lose touch with deity. -p. 7 -q -- Magic is the projection of natural energies to produce needed effects. -p. 21 -q -- Magic... is a religious act in which Wiccans unite with theeir deities to better themselves and their world. -p. 25 -q -- If you wish to make your magic broom, you might try the old magical formula of an ash staff, birth twigs, and a willow binding. The ash is protective, the birch is purifying, and the willow is sacred to the Goddess. -p. 29 -q -- What isn't easy to see is that all the power and luck we need is within ourselves. -p. 52 -q -- Each tradition (expression) of Wicca, whether passed down or intuitively performed, is akin to a petal of a flower. No one petal constitutes the whole; all are necessary to the flower's existence. The solitary path is as much a part of Wicca as is any other. -p. 55 -q -- I. WICCA AND SHAMANISM: A. The shamans -- B. Principles of Wicca (1. Recognizes deity as duel. -- 2. Physical world is one of many realities -- 3. Embraces the doctrine of reincarnation. -- 4. Do what you want, as long as you harm none. -- 5. Religion that utilizes magic -- 6. A religion of nature ) -o -- III. Magic: A. Three sources (1. Personal Power: The life force that sustains our earthy existence. -- 2. Earth Power: Resides within our planet and its natural products. -- 3. Divine Power: manifestation of personal and earth power.) -o -- IV. Tools: A. The Broom (1. Used to magically clean an area -- 2. May also be used to represent astrol projection. -- 3. Linked with element of water.) -- B. Wand (1. Direct energy. -- 2. Linked with air, sacred to the God.) -- C. Censer (insense burner) -- D. Cauldron (1. A container in which magical tranformations occur.) -- E. Magic Knife (1. Causes physical change; associated with fire; linked with the god.) -- F. Chrystal Sphere (1. used in contemplative divination. -- 2. psychic faculties.) -- G. Cup (1. Simply a cauldron on a stem. -- 2. associated with the Goddess and fertility -- 3. related to element of water.) -- H. Pentacle (1. An element of protection -- 2. Associated with element of earth.) -- I. The Book of Shadows (1. Spell and ritual book) -- J. Bell (1. powerful effects according to its volume, tone, and material of construction -- 2. Used to a. ward off evil spirts and spells  b. protection  c. evoke good energies.) -s  --  I. Days of power: A. Yule (1. circa dec. 21 -- 2. The goddess gives birth to a son, the god.) -- B. Imbolic (1. Feb. 2 2. recovery of the goddess after giving birth.) -- C. Ostara (1. circa Mar. 21 -- 2. Marks the spring; goddess blankets the earth with fertility) -- D. Beltane (1. Apr. 30 -- 2. Marks the emergence of the young god into manhood.) -- E. Midsummer / Litha (1. circa jun 21 -- 2. the powers of nature reach highest point -- 3. earth awash in fertility of the goddess and god) -- F. Lughnasadh (1. Aug. 1 -- 2. time of harvest -- 3. the god lose his strenth) -- G. Mahon (1. circa sept. 21 -- 2. the god prepares to leave physical body) -- H. Samhain (1. oct. 31 -- 2. says farwell to the god.)  -s -- VI. Ritual and preparation for ritual: A. Points (1. See that you're not interrupted. -- 2. Purification (bath, etc.) -- 3. Choose appropriate color -- 4. amulets and talismans (a. devices to ward off or to attract forces) -- 5. Gathering with other wiccans) -- B. Colors (1. Yellow: divination -- 2. Purple: pure divine power -- 3. Blue: healers -- 4. Green: herbalists/ecologists -- 5. Brown: Animals -- 6. White: purification -- 7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect -- 8. Black: absence of color/ the ultimate source of divine energy.)
 
-w017 CUR -- Curlie. -- Curlie, c2018. -- [www](https://curlie.org).
+017 CUR -- Curlie. -- Curlie, c2018. -- [www](https://curlie.org).
 
 781.67 CUS -- Apurimac III / Cusco. -- [S.n.], 1997. -- on 1 external hard drive. -- Title from resource.
 
@@ -506,7 +506,7 @@ w017 CUR -- Curlie. -- Curlie, c2018. -- [www](https://curlie.org).
 
 781.67 CUS -- Inner Journeys / Cusco. -- [S.n.], 2003. -- on 1 external hard drive. -- Title from resource.
 
-w025.3 CUT -- Rules for a printed dictionary catalog / Charles A. Cutter -- Washington : Government Printing Office, 1876. -- [www](http://books.google.com/books?id=rj-f4-Ps-AkC).
+025.3 CUT -- Rules for a printed dictionary catalog / Charles A. Cutter -- Washington : Government Printing Office, 1876. -- [www](http://books.google.com/books?id=rj-f4-Ps-AkC).
 
 025.4 CUT -- Cutter's three figure author table /  O.A. Cutter. -- Englewood, CO : Libraries Unlimited, Inc., 1969. -- File name: (10064.pdf). -- DBID 10064
 
@@ -570,9 +570,9 @@ k813 DEL -- Well of Furies /  DeLancy, Craig -- 10th ed. -- Perfect Number, 2014
 
 781.67 ADI -- Adiemus: Songs of Sanctuary / Adiemus. -- New York?: Virgin Records, 1995. -- on 1 external hard drive. -- Title from Compact Disc.
 
-w289.1 MOR -- Sanctuary and gospel / Peter Morales. -- uuworld.com, 2017. -- [www](https://www.uuworld.org/articles/sanctuary-and-gospel)
+289.1 MOR -- Sanctuary and gospel / Peter Morales. -- uuworld.com, 2017. -- [www](https://www.uuworld.org/articles/sanctuary-and-gospel)
 
-g289.1 MOR -- Sanctuary and gospel / Peter Morales. -- uuworld.com, 2017. -- [www]
+289.1 MOR -- Sanctuary and gospel / Peter Morales. -- uuworld.com, 2017. -- [www](http://drive.google.com).
 
 823 DIC -- The old curiosity shop / Charles Dickens. -- London : Penguin Books, 2000. -- xxxi, 575 p. -- ISBN 0140437428. -- DBID 3148
 > Little Nell, 19th c., F. An orphan who works in her grandfathers curiosity shop. -p. -s -- Kit, 18th c., M. -p. -f -- Ch. 1: Nell, Kit, and the grandfather. The guy takes Nell home, and is concerned that the grandfather isn't able to take care of Nell. -s -- Ch. 4: The women chatter, and we are introduced to the despicable Mr. Quilp. -p. -s -- Ch. 5: Daniel Quilp forces a boy (who he calls dog) to open the counting-house. There, Nelly comes to give him a message -p. -q -- Ch. 6: Ness delivers Mr. Quilp a message, then he takes Ness home and gets Mrs. Quilp to fish for information on Quilps grandfather. -p. -s -- Ch. 8: Richard Swiveller goes to a dance but it goes horribly wrong, and reconsiders the possibility of marrying Nelly. -p. -s -- I came here... with my bosom expanded, my heart dilated, and my sentiments of a corresponding description. I go away with feelings that my be conceived but cannot be described, feeling within myself the desolating truth that my best affections have been experienced this night a stffler! -Richard -p. 75 -q
@@ -626,9 +626,9 @@ g289.1 MOR -- Sanctuary and gospel / Peter Morales. -- uuworld.com, 2017. -- [ww
 
 811 DWI -- The conquest of Canaan : a poem, in eleven books / Timothy Dwight. -- [United States?] : Greenwood Press, 1970. -- [1] v. -- ISBN 9780837134079
 
-w002 EBO -- eBooks habit. -- eBooksHabit, c2012. -- [www](ebookshabit.com) -- Daily.
+002 EBO -- eBooks habit. -- eBooksHabit, c2012. -- [www](ebookshabit.com) -- Daily.
 
-g025.3 EDG -- What every librarian should know about proposed changes in cataloging rules / Neal L. Edgar. -- [S.n., 1975]. -- www. -- IN American Libraries. -- (Nov. 1975).
+025.3 EDG -- What every librarian should know about proposed changes in cataloging rules / Neal L. Edgar. -- [S.n., 1975]. -- [www](http://drive.google.com). -- IN American Libraries. -- (Nov. 1975).
 >Figure 1: Title proper == parallel tile -- parallel title: other titles / statement of authorship. -- Edition Statement / statement of authorship. -- Place of publication: name of publisher, date of publication (place of printing: name of printer). -- Number of volumes and/or number of pages: illustration statement; size and accompanying materal. -- (Series; number: Subseries; number). -- Notes. -- ISBN Binding: price.
 
 928 LAM -- Education of a wandering man / Louis L'Amour. -- Bantam Books, c1989. -- 232 p. -- ISBN 0553057030.
@@ -686,14 +686,14 @@ k813 ELL -- Veil rising / Brandon Ellis. -- LMBPN publishing, 2020. -- [www](htt
               
 781.67 ENY -- Watermark / Enya. -- New York, NY: Reprise, 1988. -- on 1 external hard drive. -- Title from Compact Disc.
 
-g025.3 ERC -- Minimal level cataloging / Zorana Ercegovac. -- www. -- IN Journal of the American Society for Information Science. -- (Jun. 1998).
+025.3 ERC -- Minimal level cataloging / Zorana Ercegovac. -- [www](http://drive.google.com). -- IN Journal of the American Society for Information Science. -- (Jun. 1998).
 > There is evidence attesting that most academic library users at the University of Bath are not interested in more than five bibliographic elements (e.g.. Seal 1983; Stamm 1996). -q -- others have experimented with their own in-house standards of what minimal-level cataloging should be (e.g., Stanford's Freund, 1990; Northwestem's Homy, 1991; Stamm, 1996; Michigan's Marko & von Wahlde, 1986). -q -- Core Record Pilot Project -f
 
 813 ESC -- The tower's alchemist / Alesha Escobar. -- A.E., c2011. -- [www](https://read.amazon.com). -- ASIN B005QSFXC6.
 
-w796.51 ESS -- Essex County Greenbelt. -- [Mass.?] : ECGA, 2011- -- [www](http://www.ecga.org/).
+796.51 ESS -- Essex County Greenbelt. -- [Mass.?] : ECGA, 2011- -- [www](http://www.ecga.org/).
 
-w796.51 ESS -- Essex County Trail Association. -- [Mass.?] : ECTA, 2011- -- [www](http://www.ectaonline.org/).
+796.51 ESS -- Essex County Trail Association. -- [Mass.?] : ECTA, 2011- -- [www](http://www.ectaonline.org/).
 
 174 ETH -- Ethics and spirituality at work / edited by Thierry C. Pauchant. -- Westport, Conn. : Quorum Books, 2002. -- xii, 266 p. -- ISBN 1567205623
 Limit race for dominiation 2. Rediscover notion of limit 3. See institutions as both good and evil 4. Go beyond economic considerations 5. Secure and democritize work 6. Favor concordance btw thought and action 7. Root thought in person 8. Reinvent politics 9. Encourage ability of subtle mindfulness' -p. 130-146 -o -- 'II. Questions A. The major issues 1. Is the manuscriput authentic 2. Is the letter really from Clement? B. Looking at the ''profiler'' of the document 1. The familiar gospel of Mark 2. The Secret Gospel 3. Oral Mark 4. The Carpocratian form of the gospel' -p. 19-54 -o -- 'III. The Secret Gospel in terms of liturgy A. Liturgical elements 1. The resurrection themes 2. A linen cloth 3. A nocturnal initiation B. Alexandra 1. Baptism assoicated w/ John 2. Was the secret gospel read in secret initiations rites in church? a. Doesn't seem to fit the alexandrian pattern for epiphany C. Secret gospel doesn't seem to have a lot to do with Alexandrian worship.' -p. 55-90 -o -- 'IV. Content of Secret Gospel A. The homosexual encounter 1. simply seems to be a mosiac construction of selections from canonical gospels. 2. Text shows a series of double entendres a. Implying ancient writing knew english 3. On Greek homosexuality a. btw adult male and younger male. 4. The Uranian homosexual subculture a. 19th century english universities b. more misogynistic c. less concerned w/ greek idea d. particualarly drawned to the high chruch e. drawn to Oscar Wilde's Salome. B. Jesus regecting a group of women 1. Seems also to be a mosaic 2. Made up of apocryphal scriputres C. Smiths interpretation of the Gospel 1. Using also the same mosaic of a. Jewish hymns b. Gnositic writings c. Byzantine christian liturgy' -p. 91-225 -o -- 'V. On Smith A. Career as an anglican priest 1. Seemed to loose his faith B. Rigid ethical views' -p. 149- -o -- Non-ParochialBishop's approval for nonecclesiastical employment -p. 150 -d -- > Read 2011-10. -r -- 'II. Spirituality at work by Ian I. MitroffA. Results of study 1. 92% of managers favor integrating spiritual values. 2. There is a lack of models and tools for integration. 3. The spiritual organization has specific charactoristics 4. Crisis is usually the starting point 5. ''Religion'' and ''Spirituality'' percieved differentlyB The paths 1. Religious-based organization 2. Evolutionary organization 3. Recovering organization 4. Socially responsible organization 5. Values-based organization' -p. 35- -o -- ...spirituality at work would allow them to live a more integrated and more systemic life? -p. 35 -q -- 'VI. The Cooperative by Claude Beland A. Desjardins 1. A banking company in Quebec, Canada. 2. Cooperative ethics 3. Began with Alphones Desjardin B. Principles 1. solidarity 2. Mutual help 3. fraternity 4. charity 5. Education the public about a. democracy b. economy c. responsibility d. solidarity' -p. 77- -o -- 'XI. For a spiritual ethic of work : some inspiriation from Simone Weil. by Thierry C. Pauchant
@@ -702,7 +702,7 @@ Limit race for dominiation 2. Rediscover notion of limit 3. See institutions as 
 
 027 EVA --  Utilizing systems development methods in archival systems / [by] Joanne Evans and Nadav Rouche. -- File name: (10066.pdf). -- DBID 10066. -- DOI 10.1007/s10502-005-2598-4. -- IN Archival Science. -- Vol. 4 (2004)
 
-w289.1 ELV -- Evangelism. -- UUA, 2000. -- [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).
+289.1 ELV -- Evangelism. -- UUA, 2000. -- [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).
 > Before we can be an inviting church that attracts and keeps visitors, we have to know who we are, what we stand for, what we have to offer. It arises from the deepest place of our sense of what is sacred, of what it means to live religiously. -q -- Evangelism is founded on the beliefs that people have a need for religious community, for deep relationships, for spiritual exploration, for social involvement. -q -- A religious community is a place that can save us from the crushing banality of consumerism, instrumental relationships, superficiality, alienation 
 and isolation.  -q -- Evangelism is, then, a religious orientation based on an eagerness to share something precious, to share our good news. Evangelism goes to the core of a church's culture and identity. -q -- The beginning of a transition to a culture of evangelism, a culture of reaching out and sharing, is for our members to touch again the source of their connection to their faith. 
 
@@ -711,7 +711,7 @@ and isolation.  -q -- Evangelism is, then, a religious orientation based on an e
 291 EVI -- Evil and the response of world religion / edited by William Cenkner. -- 1st ed. -- St. Paul, Minn. : Paragon House, 1997. -- ix, 256 p. -- ISBN 1557787581.
 > Read 2011-10. -r -- ? The concept of God inposing order on chaotic material is central in understanding P's world view. -p. 13 -q -- 'From Myth to Psyche to Mythic Pychology -by Sheldon R. IsenbergA. Evil in the Book of Job 1. Shit happens, deal with it. 2. We humans can never comprehend God's plan.B. Evil in the Apocalyptic Literature 1. 'Dangeriously Dualistic' -21 2. 'Being on [Gods] side is enough and all is preordained.C. Evil and the Rabbis 1. Rules are created by Rabbis in response to God's order.D. Evil and Kabbalah 1. 'Evil we experience is due to a break that prohibits the exchange between the divine energies' -27' -p. 16-32 -o -- '?The Holocaust? has raised to new levels of sensitivity our preception of the brutality of which human beings are capable and of the agonies suffered in this world by the innocent. While the problem of why an all-good, all-powerful God can tolerate evil in creation has always been the most difficult question for a theist to face, the sheer scope and nakedness of the evil witnessed in the twentieth century has rendered banal all earlier attemps at an answer.' -p. 37 -q -- The horrors of Hiroshima and the napalm bomb seem too monstrous for theodicy to cope with? [but] the quest for theodicy is still valid if God is to continue to be worshipped in any meaningful sense. -p. 38 -q -- 'Discovery of Christian Meaning in Suffering: Transformation and Solidarity -by Jane Mary Zwerner A. The Cross 1. Soul-Making Theodicy- Individual transformation through suffering B. Suffering 1. Produces the opportunity for god to be present 2. Not external suffering, but internal C. Transformation' -p. 43-55 -o -- 'The divine power is the power to evoke and to persuade, not the power to coerce and compel.' -p. 229 -q -- ''?when you know that God is hidden, then God is hidden no longer''the Chasidim -p. 42 -q -- Divine Goodness and Demonic Evil -by David Ray Griffin A. Monotheism v.s. Monism 1. Monotheism: doctrine that there is ultimately only one power that is worthy of worship 2. Monism: doctrine that there is only one power. B.Divine Power 1. Employed persuasively and creatively 2. Always based on responsive love fro the creatures 3. Always informed by creative love a. always intends for the good C. Demonic Power 1. Empoloyed coercively and destructively 2. Based on hat and/or indifference 3. Not aimed at the good of all. D. Views of Evil 1. New Testiment a. Semidualism b. Dualism 2. Augustine 3. Griffin: Evil as produced by a necessary to survival -p. 223-239 -o -- '?as a Christian theologian I take the perfect goodness of God, as pure unbounded love, not to be negotiable.' -p. 225 -q -- The Ambiguity of the Symbol of the Cross -by Mary Ann Stenger A. Interpretations of the meaning of the Cross 1. Self-Sacrifice 2. The Love of the Divive a. I.e. God giving his only son. b. See St. John 15:13 3. The process by which Jesus became the Christ a. Jesus denies himself -p. 56-69 -o -- 'The Priestly Conceptions of Evil in the Torah, by Gene G. James.A. Creation 1. Gen. 1:26 give a polytheistic view ('let us make humans in our own image.' 2. A premordial chaos kept in place by God's hand and rules a. not unique, however to the P creation story 3. Unique to the P story a. Description of the order of creation b. Division of creation into three groups 1) birds = heavens 2) animalshumans = dry land 3) fishsea monsters = waters c. be fruitful and multiply 1) opposite told in the Atrahasis Story / Gilgamest Epic 2) Meaning humans ordered to maintain the order of creation d. vegetarianism 1) Presupposes all life is holy B. Disobedience, Destruction, and a New Beginning 1. The Flood a. Primary duty is not killing (vegetarianism), but humans do. 2. J v.s. P story a. J = 2 unclean, 7 clean b. P = 2 unclean, 2 clean 3. Eating meat is now allowedC. Holiness 1. Circumcision a) But not women b) Not unique to Israelites 2. Females not capapble of holiness,' -p. 003-014 -o -- ? evil as the breakdown of order. -p. 14 -q -- 'Mystics and philosophers from many traditions have recognized that whatever it is we mean by or call God, God is beyond human description. Hence all descriptions of God are, in a significant sence, human projections. But that doesn't mean that they are therefore fictional.' -p. 16 -q -- The Ambiguity of the Symbol of the Cross -by Mary Ann Stenger -p. 056-069 -s -- 'The discovery of Christian meaning in suffering, by Jane Mary Zwerner' -p. 043-055 -s -- Providence and the Problem of Evil in Jewish Thought by David J. Goldberg -p. 032-042 -s -- From myth to psyche to mystic psychology -by Sheldon R. IsenbergAn exploration of the evolution of the concept of evil in the jewish tradition. -p. 016-031 -s -- 'The followers of Jesus came very early to the conclusion that he had lived in order to die, that his death was not the interruption of his life at all but its ultimate purpose? The death of Jesus on the cross could have brought an end to Jesus' religious movement. But instead it becomes the focus of the Christian faith.' -p. 57 -q -- Providence and the Problem of Evil in Jewish Thought by David J. GoldbergA. Understandings of Evil 1. Traditional Biblical Understanding a. A form of Divine Punishment 2. Don't Try to Understand a. The Book of Job b. 'Where were you when I laid the foundations of the earth??' (Job 38:4) c. 'And Aaron went silent' (Lev. 10:3) 3. The Very Existence of Evil a. Ibn Daub 1) 'Evil is merely the absence of good' -34 b. Maimonides 1) Evil are privations of the good. 2) The wrong excersise of free will c. Both are semantic games. 4. As a tool to become fully human a. Irenaeus: 'an appropriate arena for the emergence of those values which make human beings God-like in their struggle for good and equip them for their role of enjoying God forever.B. Types of Evil 1. Natural a. 'Acts of God' (as found in english common law) 2. Moral a. Free Choice D. Kabbalah 1. Isaac Luria a. Theory of Tzimtzum (self-contradition) b. free choice is necessary to be fully human -p. 32-42 -o -- 'When sefirotic energy becomes mixed with that of the demonic realm of the world, the break in relationship within God is commonly described as a temporary divorce between the masculine and feminine aspects of God.' -p. 28 -q -- 'In Kabbalah evil results from breaking relationship, by not seeing, understanding and valuing the interdependent relationships without wich nothing exists, including God.' -p. 28 -q -- ? when the good impulse rules the evil inclination -p. 25 -q -- Siddur -p. 24 -f -- 'The fundamental biblical constructivist premise is subverted, not destroyed, as it is transformed from mechanical clarity to mystery.' -p. 20 -q -- To expact God to create matter which is not matter is to ask God to do the logically impossible. -p. 36 -q -- Torah -p. 17 -f -- Midrash -p. 17 -f -- Divine Goodness and Demonic Evil -by David Ray Griffin -p. 223-240 -s -- 'We have created the possibility of utterly destroying the planet, a possibility that Jewish and Christian imagination had relegated to God alone. This is a unique situation that has already streated traditional teologies and theodicies, often beyond the breaking point. Certainly one result of the Holocause has been that Jews have plunged into theological crisis. The old images and beliefs do not satisfy the vast manjority. The evolution of this mellennia-old tradition requires that we move into a new phase of conversation about God and evil.' -p. 16 -q
 
-g289.1 EVE -- Every nation kneeling : and other services of prayer and praise / compiled by Will Hayes. -- The Order of the Great Companions, 1954. -- www.
+289.1 EVE -- Every nation kneeling : and other services of prayer and praise / compiled by Will Hayes. -- The Order of the Great Companions, 1954. -- [www](http://drive.google.com).
 
 238 EXP -- Exploring and proclaiming the Apostles' Creed / edited by Roger E. Van Harn. -- Grand Rapids, Mich. : William B. Eerdmans Pub., 2004. -- xix, 297 p. -- ISBN 0802821200
 > Read 2011-10. -r
@@ -777,9 +777,9 @@ k812 FOX. -- Just stay / Mika Fox. -- [S.n., n.d.] -- [www](https://read.amazon.
 
 027 FRE -- Postmodernistic archival science : rethinking the methodology / Berndt Fredriksson. -- File name: (10068.pdf). -- DBID 10068. -- IN Archival Science. -- Vol. 3 (2003)
 
-g153 FRI -- Behavior toolkit / James Fritzier [and] Susan G. Friedman. -- [S.l. : s.n.], c2010. -- www.
+153 FRI -- Behavior toolkit / James Fritzier [and] Susan G. Friedman. -- [S.l. : s.n.], c2010. -- [www](http://drive.google.com).
 
-w289.1 FUL -- UU Evangelism : sharing our good news / Audette Fulbright. -- UUCR, c2006. -- [www](http://www.uuroanoke.org/sermon/060521Sermon.htm).
+289.1 FUL -- UU Evangelism : sharing our good news / Audette Fulbright. -- UUCR, c2006. -- [www](http://www.uuroanoke.org/sermon/060521Sermon.htm).
 > This is what an evangelist believes: that there is a wonderful idea that should be shared, because it is likely to be gift to others; because it has the power to transform people and lives for the better; because it is an idea that can save something worth saving. -q -- 1: Live the faith. 2: Be comfortable in talking about the faith. -o
 
 128 FUL -- All I really need to know I learned in kindergarden / Robert Fulghum. -- 25th anniversary ed. -- Ballantine books, c2003. -- on 1 external hard drive. -- File name: 3355.epub. -- ISBN 9780345479105. -- LJLT 3355
@@ -796,7 +796,7 @@ k813 GAD -- Wicked roots / by Alex Gaddy and Aaron Roark. -- [S.l., n.d.]. -- [w
 923 GAN -- An autobiography / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok. -- Boston : Beacon Press, c1993. -- xxix, 528 p. -- ISBN 0807059099
 > Read 2011-10. -r
 
-g289.1 GEN -- A generous communion. -- Worship Panel of the General Assembly of Unitarian and Free Christian Churches, 2008. -- www.
+289.1 GEN -- A generous communion. -- Worship Panel of the General Assembly of Unitarian and Free Christian Churches, 2008. -- [www](http://drive.google.com).
 
 306 GIL -- Eat, pray, love / Elizabeth Gilbert. -- [S.n., n.d.] -- [1] v.
 > In desperate love, we always invent the charators of our partners, demanding that they be what we need hem, and then feeling devastated when they refused to perform the role we created in the first place.	19 -q -- I had become addicted to David...	20 -- ... the object f your adoration has now become repulsed by you... You're a pathedtic mess, unrecognizable even to your on eyes... the complete and merciless devluation of self.	21 -q -- 'France or Spain, as long as I can eat.'	45 -q -- I am feeling contented in this romantic scene, even if I am all by myslf, while everyone else in the park is either fondling a lover or playing with a laughing child... Depression on my left, Loneliness on my right.	46-7 -- ...off the path... 48	Church keeps me on the path. -- He [Giulio] says all Americans are like this: repressed. Which makes them dangerous and potentially deadly when they do blow u... 'A savage people,' he diagnoses.	58 -- ... Americans have an inablility to rela into sheer pleasure. Ours is an entertainment-seeking nation, but not necessarily a pleasure-seeking one... Americansdon't really know how to do NOTHING.	61 -- When I get lonely these days, I think: So be lonely, Liz. Learn your way around loneliness. Make a map of it. Sit with it, for once in your life. Welcome to the human experience. But never again use person's body or emotions as a scratchig post for your own unfulfilled yearnings.	65 -- ... let's be honest - it might be a generous public service for me to leave intimcy alone for a while.	66 -- They are devilishly attractive' or 'cruelly handsome' or'surprisingly muscular.'	67 -- ... i was afraid of me.	67 -- .. independent, strong, self-sufficient... self-feeder. 	82 -- It has been so hard for me to imagine living a life without David in it.	83 -- My sister's faith is learning. Her sacred text is the Oxford English Dictionary. As she bows her head in study, fingers speeding across the pages, she is with her God.	91 -- ... as a good New Englander, skeptiism and pragmatism are m intellectual heritage.	-125 -- There is a theory tht if you yearn sincerey enough for a Guru, you will find one. The universe will sift, , detiny's molecules will get themselves organized and your pathwil soon intersect will the aath of the master you need.	124 -- 'Remember - everything you do, you do for God. And everything God does, He do for you.' -unknown.	-131 -- In a way, this little episode had all the hallmarks of a typical Christian conversion experience - the dark night of the soul, the call for help, the responding voice, the sense of transformation.	16
@@ -837,7 +837,7 @@ k635 GRA -- Vertical gardening / Brian Grant. -- Brian Grant and Random Techonol
 
 k641 GRE -- Vegan instant pot cookbook / Cara Green. -- [S.l.], 2018. -- [www](https://read.amazon.com). -- AISN B078VTKYJW.
 
-w808 GRE -- Journaling at the end of the day could increase your productivity / Greenbaum, Dave. --- lifehacker.com, 2014. -- [www](http://lifehacker.com/1590024732).
+808 GRE -- Journaling at the end of the day could increase your productivity / Greenbaum, Dave. --- lifehacker.com, 2014. -- [www](http://lifehacker.com/1590024732).
 > ... a recent study shows that 15 minutes of reflection at the end of the day leads to better productivity. -q
 
 923 GRE -- Calvin Coolidge / David Greenberg. -- Time Books, c2006. -- xviii, 202 p. -- ISBN 9780805069570.
@@ -848,7 +848,7 @@ w808 GRE -- Journaling at the end of the day could increase your productivity / 
 
 025 GRE -- More product, less process / Mark A. Greene, Dennis Meissner. -- [S.l. : s.n., n.d.]. -- on external hard drive. -- File name: (10093.pdf). -- DBID 10093
 
-g289.1 GRE --  An introduction to the unitarian and universalist traditions / Andrea Greenwood, Mark W. Harris. -- Cambridge University Press, c2011. -- www.
+289.1 GRE --  An introduction to the unitarian and universalist traditions / Andrea Greenwood, Mark W. Harris. -- Cambridge University Press, c2011. -- [www](http://drive.google.com).
 
 781.542 GRE -- The Chronicles of Narnia: The Lion, the Witch, and the Wardrobe / [by] Harry Gregson-Williams ... [et al.] -- Burbank, CA: Walt Disney Records, 2005. -- on 1 external hard drive. -- Title from Compact Disc.
 
@@ -859,7 +859,7 @@ g289.1 GRE --  An introduction to the unitarian and universalist traditions / An
 k289.1 GRE -- To re-enchant the world / Richard Grigg. -- Xlibris, 2004. -- [www](https://read.amazon.com). -- AISN B007EC5CTG.
 > Read 2014-07. Grade B. -r -- 2: Five (and more)-in-one: humanism, nature, social justice, the arts, a creative source/Abyss of the Universe -s -- 4: Four basic patters of religion: Christendom -- Secularism -- inclusive pluralism -- exclusive pluralism. -o -- In our own lives, we ought to seek an emptiness akin to the bowl’s. -q -- Much better to accept the fact that what is, simply is. -q -- I should empty myself of egotism, and allow the Tao, the infinite power that infuses the universe, to empower my attitudes and actions. -q -- I believe that there is indeed such an underlying unity [in UU], and that we can find it in a model of the spiritual quest that is built upon participation and self-transcendence. -q -- Participation and self-transcendence are part of what it means to be human... -q -- Frederick Streng’s definition of religion: "a means to ultimate transformation." -q -- People desire to believe in God, said Freud, because they want to be protected from the terrors of nature; they want to be reconciled to the cruelties of fate, especially death; and they want to be rewarded in the hereafter for putting up with society’s rules and prohibitions. -q -- world’s religions tend to agree that our deeper nature is aimed at the infinite... -q -- More modestly, as Unitarian Universalists, we might aver that we are aimed at the infinite and that we shall not be satisfied unless we continually pursue it. -q -- there is still plenty of room today within the encompassing Unitarian Universalist chalice for belief in God... -q -- the quest for harmony with the Tao... -q -- Creative Abyss... -q -- Paul Tillich came up with his influential definition of faith as "ultimate concern."... -q -- Mysticism can be defined technically as the attempt to attain a direct relationship to God... -q -- My guess, though, is that the Buddha would say, "It [the existence of God] doesn’t matter. Concentrate on the road to enlightenment... -q -- the Buddha had a very practical reason for denying the reality of the self, and that is that the notion of the self is the source of all the attachments, all of the selfish cravings and desires, that lead to suffering. To extinguish the illusion of self, then, is to transcend suffering. -q -- the blissful goal of the Buddhist quest... -q What is the goal of my quest? to help others help themselves? -r -- One traditional Christian theological method known as the via negativa... -q -- By 'humanism' we usually mean, in the most general of terms, that human beings are the measure of all things (an assertion made already in Ancient Greece by Pythagoras). -q -- For rather than picturing the self as a wholly autonomous entity harmoniously centered around reason, Freud paints the self as a fragile construction constantly pushed off-center by unconscious forces not under the self's control. -q -- Indeed, science has brought us to the point where we can recognize the artificiality of talking about human beings over against the world of nature: we are nature. -q -- Mindfulness means focusing one's attention just on what is happening right now, or on what one is doing in the moment... mindfulness means participating by being fully present. -q -- Engagement in the struggle for social justice can keep us honest in our quest for self-transcendence. -q -- Coterie #wotd -f -- But the Unitarian Universalist community is, among other things, an 'institutional' religion, however much some U.U.s might be horrified by the thought. -q -- ... Martin Luther King's admonition that the person dedicated to the good will will ever require a tough mind, characterized by incisive thinking, realistic appraisal and decisive judgement. -q -- theorists such as jean Francois Lyotard maintained that there is no overarching truth about the human condition. Each culture, perhaps even each individual, has its own narrative to tell. -q -- ... the peculiarly American philosophical school known as pragmatism... -q -- We know that the spiritual quest sometimes results in ecstasy... -q -- It [Flower Communion] is, after all, the contemporary U.U. version of one of humankind’s most perennial rituals, the rite of spring. -q -- Everyday, non-sacred space, time, and language induce in us the drive to mastery, the drive to make the ego its own controlling deity. -q -- ... locus of sacrality... -q -- We are on a solitary journey together in Unitarian Universalism... -q -- Drawing on the common spiritual dynamic of participation and self-transcendence, expressing that dynamic in many forms, and then bringing those forms together in a mutually supportive community that lends each quest social plausibility and hence the aura of reality, the Unitarian Universalist experience reacquaints us with Mystery and the sacred. The cosmos, and our daily lives, are re-enchanted. -q -- pornography is an example of the sort of commodification of human beings that I have been condemning above. -q -- There is no sense of religions being wholly discrete institutional entities [in Asian culture] whose boundaries prevent participation in more than one religion at a time. -q -- ... the Mysterious Depth... -q -- ... can we help our society uncover the "divine," the sacred, the Mysterious Depth? -q
 
-w289.1 GRE -- 10 things I wish everyone knew about Unitarian Universalism / Galen Guengerich. -- onfaith.com, [20--?]. -- [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).
+289.1 GRE -- 10 things I wish everyone knew about Unitarian Universalism / Galen Guengerich. -- onfaith.com, [20--?]. -- [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).
 > Unitarians played a pivotal role in founding the United States. -- Religiously speaking, we’re in our adolescence. -- We focus on what we know by experience. -- Our name refers to historic heresies that matter today. -- We don’t believe in the God many others don’t believe in either. -- We’ve revised our view of God — and of everything else. -- We believe that freedom is a consequence of belonging, not its antithesis. -- We’re the gratitude people. -- The discipline of gratitude calls us to worship together. -- The ethic of gratitude calls us to serve a broken and needy world. -o
 
 k813 GRE -- Apprentice / Eric Guindon. -- E.G., c2013. -- [www](https://read.amazon.com) -- ASIN B00DA1O2UA.
@@ -873,7 +873,7 @@ k813 GRE -- Apprentice / Eric Guindon. -- E.G., c2013. -- [www](https://read.ama
 320.941 HAI -- Outside in / Peter Hain. -- London : Biteback, 2012. -- [www](https://read.amazon.com). -- ISBN 1849541183. -- DBID 3037
 > ... the usual British pattern: first, say something won't happen and then, when it does, saying it's going to be a failure and then, when it's a success, desperately trying to catch up. -p. -q -- CH. 8: The Chapter BRITISH OUTSIDER IN EUROPE begins with Hain's responsibilities in Europe as a negotiator for British interests. As a pro-European, he worked to change Britain's image as hostile to Europe. While forging personal relationships, he made little progress. The events in this chapter include the negotiations and politics of the Euro, and the Gibraltar co-soverenty referrendum (that failed specacularly) -p. -s -- Ch.8: This begins with Hain as a foreign office minister. Points include dealing with other government departments, and with civil servants, advocacy for 'complementary' (alternative) medicine (also called 'integrated healthcare' in the book), his rather muted admiration of the queen and royal family (Hains' background is as a republican), unguarded remarks he made to the press about tax policy, and reflections of the state (bad state, according to Hain) of journalism, or investigative journalism. Hain seems to take great pride in actually not taking advice from the civil service, and forcing his will upon officials and departments. This is viewed as true leadership. He also shows distress when the press digs into the politics of a story rather than the story. One wonders what the press is to do. While saying that the press doesn't pay attention to serious, intelligent information and true debate. Yet when they do, Hain says they become part of the story. One also wonders what is virtuous with not listen to what is usually well-informed and cautious advice from his officials. -p. -s
 
-w616.9 HAL -- Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] William P. Halford, Ringo Püschel, [and] Brandon Rakowski. -- PLOS ONE, 2010. -- [www](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251).
+616.9 HAL -- Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] William P. Halford, Ringo Püschel, [and] Brandon Rakowski. -- PLOS ONE, 2010. -- [www](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251).
 
 813 HAL -- The last oracle / Ben Hale. -- Snowlight Publishing, 2013. -- [www](https://read.amazon.com). -- ASIN B0G3LC1LG.
 
@@ -932,7 +932,7 @@ k813 HAR -- The penkeepers / Taylor Hartley. -- [S.n., n.d.] -- [www](https://re
 
 941 HIC -- Beware the in-laws / Christopher Hichens. -- ON external hard drive. -- File name: (10097.pdf). -- IN Slate. -- (Apr. 18, 2011)
 
-w796.51 HIK -- Hike New England. -- [S.n.], c1998-2012. -- [www](http://www.hikenewengland.com).
+796.51 HIK -- Hike New England. -- [S.n.], c1998-2012. -- [www](http://www.hikenewengland.com).
 
 001 HIN -- What good is information / Dougald Hine. -- on external hard drive. -- Filename: 3324.pdf. -- IN Aeon [website]. -- (Mar 6, 2014).
 > The trouble is that information doesn’t nourish us. Worse, in the end, it turns out to be boring. -q -- Knowledge has a point when we start to find and make connections, to weave stories out of it, stories through which we make sense of the world and our place within it. -q -- And if there is an antidote to boredom, it is not information but meaning. -q
@@ -963,27 +963,27 @@ w796.51 HIK -- Hike New England. -- [S.n.], c1998-2012. -- [www](http://www.hike
 
 650 KHO -- How users organize electronic files on their workstations in the office environment / [by] Christopher S.G. Khoo, Brendan Luyt, Caroline Ee ... [et al.] -- File name: (1688.mht). -- DBID 1688. -- IN Information Research. -- Vol. 11, no. 2 (Jan. 2007)
 
-w004 HOW -- How-to geek. -- HowToGeek.com, c2006- . -- [www](http://www.howtogeek.com/). -- Daily.
+004 HOW -- How-to geek. -- HowToGeek.com, c2006- . -- [www](http://www.howtogeek.com/). -- Daily.
 
 025.3 HOW -- Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth. -- [S.l.] : IFLA, 2009. -- File name: (10077.pdf). -- DBID 10077
 
 813 HOW -- Beacon 23 / Hugh Howey. -- [S.n., 20--?]. -- v.
 > Read 2020-02. -- Grade E. -r
 
-g330 HUB -- Creating new money / Joseph Huber and James Robertson. -- London : New Economics Foundation, [n.d.] -- www.
+330 HUB -- Creating new money / Joseph Huber and James Robertson. -- London : New Economics Foundation, [n.d.] -- [www](http://drive.google.com).
 
 331 HUD -- Do you want fries with that / Christopher Hudson. -- [S.n.], 2005. -- v. -- ISBN 159316629.
 > Read 2011-10. -r -- Creating an effective resume (Write mini autobiography -- Secure inside information -- Start weeding -- Job history -- Profile yourself -- Turn words into literature -- Select a look for your resume). -- Resume tips (Customize for each job -- Don't lie) -- Resume outline (Objective -- Education -- Work history -- Other info -- Contacts) -- Interview Preparation (Know organization -- Know your resume) -- Ten Questions of an interview (1. Tell me about yourself= portray yourself as valuable to company. -- 2. What interests you about position= Use company info in conjunction with your abilities and experience. -- 3. Greatest strenth and weaknesses. -- 4. Work well under pressure. -- 5. Work alone or in a team -- 6. See yourself in five yrs time=long term goals. -- 7. What do you do in your spare time (team sports and volunteer work). --8. Describe a time when you suceeded/failed. -- 9. Resume questions. -- 10. What do you have to offer company) -- Workplace demands (Professional and demeanor, eye to bigger picture, punctuality, attention to detail, going the extra mile, team spirit, dependablility, grace under pressure, prioritization). -- Ethics (1. I will maintain the highest standards in dealing with clients and coworkers. -- 2. 
 
-w004 HUG -- Learn to build with PHP / Matthew Hughes. -- M. Hughes, 2014. -- [www](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf).
+004 HUG -- Learn to build with PHP / Matthew Hughes. -- M. Hughes, 2014. -- [www](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf).
 
-g004 HUG -- Learn to build with PHP / Matthew Hughes. -- M. Hughes, 2014. -- www.
+004 HUG -- Learn to build with PHP / Matthew Hughes. -- M. Hughes, 2014. -- [www](http://drive.google.com).
 
-g973 HUL -- Obama is sworn in as 44th president / Carl Hulse. -- nytimes.com, 2009. -- www.
+973 HUL -- Obama is sworn in as 44th president / Carl Hulse. -- nytimes.com, 2009. -- [www](http://drive.google.com).
 
 k813 HUN -- The Janus project / Tab Hunter. -- 1st ed. -- T. Hunter, 2013. -- [www](https://read.amazon.com/?aisn=B00D0XNSGM)
 
-g158 HUS -- The benefits of being stupid at work / Megan Hustad. -- fortune, 2013. -- www. -- Also available on [fortune.com](https://fortune.com/2013/04/17/the-benefits-of-being-stupid-at-work/#:~:text=The%20study's%20authors%20found%20that,for%20concentrating%20on%20the%20job.)
+158 HUS -- The benefits of being stupid at work / Megan Hustad. -- fortune, 2013. -- [www](http://drive.google.com). -- Also available on [fortune.com](https://fortune.com/2013/04/17/the-benefits-of-being-stupid-at-work/#:~:text=The%20study's%20authors%20found%20that,for%20concentrating%20on%20the%20job.)
 > 'disquieting questions about decisions and structures' -- Stupidy has a unifying effect, boosts productivity -- Come to a consensus easier. -o -- 'Superior intelligence often comes with hidden costs': leads to frustration when a job doesn't yield readily to effort -- Keeps you stuck in your role (because your good at it) 0o -- The trick is not to play dumb, exactly, but rather to learn when to assert your superior intelligence and when to hide your light under a bushel... For one, it can help you avoid unnecessary confrontation. -q -- Raise no objection to the proposed idea (proceed as if it's a good idea), then start asing questions about the ramifications. -r -- ... let his partner maintain a sense of superiority.. -q -- If you're not worried about being perceived as a bit slow, you can ask better questions -- better in the sense that they will likely yield more illuminating answers. -q -- 'Functional' is the key word here. Stupid works if you're smart enough to know when not to be.
 
 781.64 HYB -- Morning Sci-Fi / Hybrid (Musical group). -- S.l.: Distinctive, 2003. -- on 1 external hard drive. -- Title from Compact Disc.
@@ -1002,7 +1002,7 @@ g158 HUS -- The benefits of being stupid at work / Megan Hustad. -- fortune, 201
 
 025 INS -- Instructions to depository libraries. -- [United States] : U.S. G.P.O., 2000. -- File name: (0067.pdf) -- DBID 0067
 
-g025.3 ISB -- International standard bibliographic description (ISBD) / recommended by the ISBD Review Group. -- Consolidated ed. -- [S.n.], 2010. -- www.
+025.3 ISB -- International standard bibliographic description (ISBD) / recommended by the ISBD Review Group. -- Consolidated ed. -- [S.n.], 2010. -- [www](http://drive.google.com).
 
 025.3 ISA -- ISAD (G). -- 2nd ed. -- Ottawa : ICA, 2000. -- File name: (0455.pdf). -- ISBN 096960355X. -- DBID 0455
 
@@ -1010,7 +1010,7 @@ g025.3 ISB -- International standard bibliographic description (ISBD) / recommen
 
 781.64 ISHL-- An Other Cup / Yusuf Islam. -- New York, NY: Atlantic, 2006. -- on 1 external hard drive.
 
-w647.7 JAB -- Why your brain needs more downtime / Ferris Jabr. -- scientiticamerican.com, 2013. -- [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime).
+647.7 JAB -- Why your brain needs more downtime / Ferris Jabr. -- scientiticamerican.com, 2013. -- [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime).
 > For 92 days he lived at Insight Meditation Society’s Forest Refuge facility... He spent most of his time meditating, practicing yoga and walking through fields and along trails in surrounding farmland and woods... -q -- Downtime replenishes the brain’s stores of attention and motivation, encourages productivity and creativity, and is essential to both achieve our highest levels of performance and simply form stable memories in everyday life. -q
 
 242 JAC -- Consider Jesus / Donald R. Jacobs. -- Scottdale, Pa. : Herald Press, c2006. -- 367 p. -- ISBN 0836193474
@@ -1062,7 +1062,7 @@ w647.7 JAB -- Why your brain needs more downtime / Ferris Jabr. -- scientiticame
 
 781 JOH -- Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.] -- New York: Mercury Records, 2002. -- on 1 external hard drive. -- Title from Compact Disk. 
 
-g927.8 JOH -- Me / Elton John. -- Henry Holt, c2019. -- [www](https://drive.google.com).
+927.8 JOH -- Me / Elton John. -- Henry Holt, c2019. -- [www](https://drive.google.com).
 > Read 2020-01. -- Grade C. -r
 
 781.66 JOH -- One Night Only: The Greatest Hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.] -- New York: Universal Records, 2000. -- on 1 external hard drive. -- Title from Compact Disk.
@@ -1083,7 +1083,7 @@ g927.8 JOH -- Me / Elton John. -- Henry Holt, c2019. -- [www](https://drive.goog
 551 JOR -- A guide to New England’s landscape / Neil Jorgensen. -- [1] v.
 > Read 2020-11. -- Grade C. -- A non-fiction book about the landforms and forest ecology of New England. -s
 
-w001 JOU -- Journey into the hidden web: a guide for new reseachers. -- [S.n., n.d.] -- [www](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/).
+001 JOU -- Journey into the hidden web: a guide for new reseachers. -- [S.n., n.d.] -- [www](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/).
 
 241 JUN -- Moral issues and Christian responses / Patricia Beattie Jung, Shannon Jung. -- 7th ed. -- Austria; Belmont, CA : Thomas/Wadsworth, c2003. -- xvi, 463 p. -- ISBN 0155058959.
 > Christians tend to be a bit ambivalent about money. 2. Not all poverty is the same.B. Reconsidering help for the poor 1. Types of Help a. Business 1) a shift from donation to enterprise. 2) exporting democracy b. faith-based initiatives 1) ones inner life and social skills c. welfare 2. A need to move past 'anger, resentment, and fear. a. education and child development is key b. because it leads to alianation. b. faith, school, and family. 1) 'men need job security' -398. Why just men? 3. Intellect, social skills, interperosnal skills, personal discipline, strong motivation.C. Christian Contributions 1. Christian Self esteem grounded in God' -p. 394-403 -o -- ? poor? because they lack the skills and styles needed to enter the mainstream. -p. 401 -q -- ? [Economic] development entails much more than producing goods and services -p. 403-404 -q -- Catholic Social Teaching by Oliver F. WilliamsA. Communitarianism 1. -p. 403-411 -o -- 'Christian theology demands that all people enjoy the God-Given blessings of creation equally, because all are created in the image of God and all are given the privilege of enjoying this creation equally.' -p. 422 -q -- To have and have not by Michael LindA. Two major classes in America 1. Credentialed minority a. making a living from fees supplemended by stock options 2. Salaried salariedB. Causes of disparities 1. Immigration 2. Tax reform 3. Free Trade -p. 411-416 -o -- Christian Theology and Development by Gnana RobinsonA. Pyramid 1. Pattern on dominance and dependenceB. Ladder 1. Under-development countries must imitate the developed countriesC. Life-Boat 1. 'white mans burden'D. Piece of the Development Pie 1. Ever-increasing production 2. Overlooks need for justice and resouce limitationE. Just Relations 1. Based on self-reliance and welfare to all. -p. 420-423 -o -- > Read 2011-10. -r -- It is not wrong to want to live better -p. 406 -q -- The Church and Marriage: Looking for a New Ethic -by Jean Ponder SotoA. The Second Vatican Council stated two reasons for sex 1. The procreation and education of children 2. The mutual love and support of the spousesB. Our concept of marriage comes from greco-roman society -- DDC A citizens duty to have children 2. Marriage a social contract.C. Sexual Intimacy as Aestetic 1. Something like art -p. 55 -o -- Oregon became the first state in the union to permit assisted death. -p. 207 -q -- Baptism brings beginning and ending of human life together with sacramental power. -p. 212 -q -- '? not rights, but relationships mark the Christian life? relationships that will sustain and nurture, admonish and challenge, support us in living and accompany us through death.' -p. 214 -q -- 'Lingering in pain, suffering, and isolation constitutes the worse imaginable end.' -p. 206 -q -- 'The curtain only rises : assisted death and the practice of baptism by Martha Ellen StortzA. three tenor of debates in euthenasia 1. 'Death involves right and autonomy, choice and control' 2. 'Death is highly physicalized and medicalized 3. 'Death is a private matter.'' -p. 205-216 -o -- 'If the sting of death is sin, the sting of dying is solitude? desertion is more choking than death, and more feared. The chief problem of the dying is how not to die alone. -Paul Ramsey' -p. 204 -q -- 'Moreover, the central importance to the good society is tolerance and respect for differing moral perceptions.' -p. 204 -q -- 'Common Decency : A New Christian Sexual Ethics -by Marvin M. EllisonA. The Contexts for sexual ethics 1. Responsibility should become the norm for christian ethics. 2. If the church will take social justice seriously, it must also take sexual injustice and oppression seriously 3. All cultures organizes erotic life. 4. The church must choose between security and fullness.B. An Ethic of Common Decency 1. Justice in the relationship 2. Reclaiming the joys of sex in relationships a. staying in touch with our sences 3. Celebrate all sexual relations a. whenever they 1) deepen human intimacy 2) deepen love b. celbrate the plurality and respect differences. 4. Fidelity a. 'honoring and responding fairly to the demands of a relationship' b. cannot be predetermined in any relationship 5. What is a 'marriage' a. persons committed to eachother experiencing mutual benefit arising from mutual devotion and affection.C. What is ruled out? 1. Relations in which persons are abused, exploit' -p. 59-65 -o -- 'Rathar than proclaiming loud, dogmatic slogans about the Bible, we might do better to consider the odd and intimate ways in which we have each been lead to where we are in our relationship with the scriptures.' -p. 31 -q -- I. Biblical Authority (Walter Brueggemann) -p. 31 -o -- 'A judgement grounded in anxiety, anywhere on the thological spectrum, deos not what to be disturbed or informed by facts on the ground.' -p. 35 -q -- '?The reading of the bible is now expecially urgent because our society is sore tempted to reduce the human project to commodity. In its devotion to the making of money it reduces persons to objects and thins human communications to electronic icons. Technique in all its military modes and derivatively in every other mode treatens us. Technique is aimed at control, the fencing out of death, the fecing out of gift, and eventually, the fencing out of humanness.' -p. 37 -q -- 'Case for Physician-Assisted Suicide? By James F. KeenanA. Issues of Gender Inequalitiy 1. Due to issues of depression and poverty 2. Enuthenasia becomes not an issue of 'autonomy or rights, but with social failure'B. Pain Relief 1. There are pain relief techiquesC. Voluntary 1. Issues in the Netherlands seem to indicate active euthanasia policies.' -p. 186- -o -- 'Issues in Contemporary Christian Ethics : The Choice of Death in a Medical Context by Margaret A. FarleyA. Passivism in the early church 1. Justin Martyr a. 'The Christian must not resist attack' 2. Origen a. 'the Christian Lawmaker must not allow killing' 3. Ambrose a. the taking of life is not justified even for self defence. 4. Attitude toward war and generally one of pacifism.B. Underlying Issues 1. We don't own our life. 2. Human life is both good and badC. the limits of preserving life 1. Personal integrety, moral, and religious witness 2. Conflict between human lives. 3. Individual autonomy 4. Quality of life. 5. Meidcal futilityD. Reasons why we ought not take our own life 1. Our life is not our own 2. The law of nature is to preserve life 3. We are essentially social beingsE. Social Consequences in allowing euthanasia 1. Produces a slippery slope 2. Possible risk of medical error 3. --> crisis of professional identityF. Possible Recommendations 1. Clarify the meaning and e' -p. 193-205 -o -- '? some have recognized in human 'nature' itself a basic drive toward life, a desire to live, indicative of a moral 'law', and obligation to preserve human life.' -p. 195 -q -- Christian responses to the human genome project -by Cynthia S.W. CrysdaleA. Overview 1. nucleotide of the proteins (genes) a. Adenine b.cytosine c. Guantine d. Thymine 2. Related Issues a. genetic counseling b. genetic screening and discrimination c. patening of genes 1) inventions vs discoveries d. privacy issues e. genetic therapy (eugenenics) f. cloning h.theological issoes (free will) -p. -o -- And Christian sprirituality without erotic passion is lifeless and cold. It is also borning. -p. 65 -q -- 'Love your enemies by karen LebacqzA. Rape 1. 1/3 of woman are raped 2. Links sex and violence 3. Socialization of sex sterlotypes.B. A Christian ethic must address this 1. Sex steriotypesC. Loving your enemy 1. Forgiveness and repentence 2. Survival 3. ?...forgive... Only if he achnodoges wrong-doing, repents, and seeks a new relationship free from power, domlnation, and violence'' -p. 65-74 -o -- Sources for Body Theology by James B. NelsonA. An Anglican approach 1. Scripture 2. Reason a. Checks our own narrow and arbitrary interpretations. 3. Tradition a. Checks our own interpretation against the richness of the past. 4. Experience a. A personal touchB. Scripture 1. What did it say 2. what does lt say 3. NT a. No sex ethic only love b. A culture of 1) purity 2) property 2. OT a. No consept of orientation.C. Tradition 1. No clear answerD. Reason 1. Oreantations are given not chosen -p. 276-285 -o -- The Homosexual movement: a response by P. RamseyA. A beginnidg in the sexoal revelutionB. Heterosexual normC. The movement claims -p. 285-292 -o -- 'When Generosity is not enough by Ellen T. CharryA. Intro
@@ -1102,7 +1102,7 @@ w001 JOU -- Journey into the hidden web: a guide for new reseachers. -- [S.n., n
 
 339.4 KAS -- The high price of materialism / Kasser, Tim. -- Cambridge, Mass : MIT press, c2002. -- xvi, 149 p. -- ISBN 026211268X. -- DBID 3115
 
-w912 KAY -- Kayak. -- [S.l.] : Kayak.com, c2012- . -- [www](http://www.kayak.com).
+912 KAY -- Kayak. -- [S.l.] : Kayak.com, c2012- . -- [www](http://www.kayak.com).
 
 320 KAZ -- American dreamers / Kazin, Michael. -- Alfred A. Knoph, 2011. -- xix, 329 p. -- ISBN 9780307266286.
 > It is a sttled maxim with me... that the existing public sentiment on any subject is wrong. -Elizabeth Cady Stanton. -p. 38 -q -- As long as property is unequal... then those who possess it will live on the labors of others. -Thomas Skidmore -p. 4 -q -- FRANCES WRIGHT, 19th c., f, "pioneer of feminism, secularism, sexual freedom, and radical abolitionism. Her critics dubbed her 'the Great Red Harlot of infidelity". -p. 5 -f -- AMERICAN ANTI-SLAVERY SOCIETY -f -- The African Americans who were elected to public office during Reconstrucution generally fit the classic model of the self-made man. Whether born free or in bondage, most had learned how to read and practice a trade or profession such as teacher or minister, however poorly compensated. -p. 62 -q -- The true failure of Reconstruction lay not in the defeat of a black proletariat but in the unfulfilled promises of the American Revolution itself: the denial to individual black men and women of the freedom to pursue happiness in their own ways, aided by the strength of their own communities and a color-blind government. -p. 64 -q -- EUGENE DEBS, 19th c., m, leader of the American Railway Union. -p. 103 -f -- Manifestly the sipirit of '76 still lives. The fires of liberty and noble aspirations are not yet extinguished. -p.103 -q -- JOHN MCBRIDE, 19th c., m., American, a leader of the mine workers' union. -p.103 -f -- Inevitably, Populists wrapped their aspirationss in the Social Gospel. -p. 105 -q -- Three types of American socialism: Plain-folks, working-class Jewish, and modernist radicals. -p.114 -f -- ... Debs kept his vision fixed on the dream of proletarian revolution. -p. 122 -q -- We have been cursed with the reignof gold long enough... Money consittutes no proper basis of civilization. The time has come to regenerate society... -p. 123 -q -- MAX EASTMAN, 19th-20th c., m., American. Editor of "The Masses"-f -- EMMA GOLDMAN, 19th-20th c., f, American. Anarchist activist, feminist. -- Believed that every women should assert "herself as a personality, and not a sex commodity." -p. 135 -f -- MARGARET SANGER, f. 20th c., f, American. Nurse, feminist. -- coined "birth control" -- Thus the dream of a joyful march to socialist democracy ws buried in the mire of government crackdowns and internal conflict. -p. 153 -q
@@ -1145,7 +1145,7 @@ k920 KER -- Orange Is the New Black: My Year in a Women's Prison / Piper Kerman.
 
 813 KEY -- The last city / Logan Keys. -- Le Chat Publishing, 2015. -- [www](https://read.amazon.com) -- AISN B00ZUA2X3M.
 
-k002 KIN -- Kindle Buffet. -- [S.l., n.d.] -- [www](http://www.weberbooks.com/kindle/) -- Daily.
+w002 KIN -- Kindle Buffet. -- [S.l., n.d.] -- [www](http://www.weberbooks.com/kindle/) -- Daily.
 
 813 KIN -- Nimbus : a steampunk novel (part one) / Austin King; B.J. Keeton. -- [S.n., 20--]. -- [www](https://read.amazon.com). -- AISN B007YJ5A82.
 
@@ -1156,15 +1156,15 @@ k002 KIN -- Kindle Buffet. -- [S.l., n.d.] -- [www](http://www.weberbooks.com/ki
 
 781.66 KLA -- Moving on / Myleene Klass. -- United Kingdom: Universal Classics and Jazz, 2003. -- on 1 external hard drive.
 
-k332 KLE -- This 4x6 index card has all the financial advice you'll ever need / Klein, Ezra. -- washingtonpost.com, 2013. -- [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/).
+w332 KLE -- This 4x6 index card has all the financial advice you'll ever need / Klein, Ezra. -- washingtonpost.com, 2013. -- [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/).
 > Max your 401(k) or equivalent employee contribution -- Buy inexpensive, well-diversified mutual funds such as Vangard Target 20xx funds. -- Never buy or sell an individual security. The person on the other side of the table knowsmroe than you do about this suff. -- Save 20% of your money. -- Pay your credit card balance in full every month -- Maximize tax-advantag savings vehicles like Roth, Sep, and 529 accounts. -- Pay attention to fees. Avoid actively managed funds. -- Make financial advisor commit to a fiduciary standard. -- Promote social insurance programs to help people when things go wrong.
 
-g613 KLI -- 9 frugal ways to treat the common cold / Kling, Michael. -- wisebread, 2012. -- [www].
+613 KLI -- 9 frugal ways to treat the common cold / Kling, Michael. -- wisebread, 2012. -- [www](http://drive.google.com).
 
-w150 KLO -- The best productivity tricks used by evil dictators / Thorin Klosowski. -- on 1 external hard drive. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012).
+150 KLO -- The best productivity tricks used by evil dictators / Thorin Klosowski. -- on 1 external hard drive. -- File name: 3209.pdf. -- Also available on the World Wide Web: http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators. -- DBID 3209. -- IN Lifehacker. -- (Oct. 18, 2012).
 > 1. Force difficult decisions on people when their willpower is weak. -- 2. Create a five-year place. -- 3. Purge threats to your power. -- 4. Embrace your "Cult of Personality" . -- 5. Give direct, powerful speeches. -- 6. Learn from experiences, not books.
 
-w158.1 KLO -- The importance of self-awareness, and how to become more self aware / Thorin Klosowski. -- lifhacker.com, 2014. --[www](http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518).
+158.1 KLO -- The importance of self-awareness, and how to become more self aware / Thorin Klosowski. -- lifhacker.com, 2014. --[www](http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518).
 > Learn to look at yourself objectively -- Write your own manifesto -- Keep a journal -- Perform a self interview. -o
 
 152 KOH. -- The opposite of hate / Sally Kohn. -- Algonquin Books, 2018. -- [www](https://read.amazon.com/?asin=B075G4W7VF). AISN B075G4W7VF.
@@ -1173,7 +1173,7 @@ w158.1 KLO -- The importance of self-awareness, and how to become more self awar
 
 781.64 KOO -- Inside In, Inside Out / Kooks (Musical group). -- on 1 external hard drive. -- England: Virgin Records, 2006. -- on 1 external hard drive. -- Title from Compact Disc.
 
-g028 KOS -- Inside an Axis of Evil Library / Marc Kosciejew. -- Feliciter, 2009. -- [www](http://drive.google.com).
+028 KOS -- Inside an Axis of Evil Library / Marc Kosciejew. -- Feliciter, 2009. -- [www](http://drive.google.com).
 
 k289.7 KRA -- The Amish of Lancaster County / [by] Donald B. Kraybill; Photographs by Daniel Rodriguez. -- Stackpole Books, 2008. -- [www](https://read.amazon.com).
 > Read 2014-03. Grade C. -r -- ... a combination of biological reproduction, cultural resistance, and cultural -q -- ... compromise has enabled the Amish to flourish and grow as a distinctive people in the midst of modern life. -q -- They emphasize practical, vocational, and self-directed education. -q -- Two important books in Amish faith, in addition to the Bible, are the 1,100-page Martyrs Mirror and the Ausbund, the Amish hymnbook. Harsh persecution -q -- Jacob Amman: Founder of the Amish. -f -- I must be a Christian child, Gentle, patient, meek, and mild, Must be honest, simple, true, I must cheerfully obey, Giving up my will and way... -q -- The spirit of Gelassenheit expresses itself in obedience, humility, and simplicity. -q -- The spirit of Gelassenheit collides with the bold, assertive individualism of modern life that seeks personal achievement, self-fulfillment, and individual recognition at every turn. -q -- Regulated by the rhythm of the seasons, time expands and relaxes. -q -- ... work becomes a redemptive ritual in several ways. -q -- "Tradition to us is a sacred trust. It is part of our religion to uphold and adhere to the ideals of our forefathers." -q -- "We ask," says one Amish man, "where will these changes take us?" -q -- Amish values—obedience, humility, simplicity, hard work, and esteem for tradition—uphold their vision for an orderly and contented community. -q -- Nonviolence, nonretaliation, and love of enemies, based on Jesus' example on the cross, are central to Amish spirituality. -q -- Amish religion focuses on practicing faith, not repeating creeds or debating doctrine. -q -- Amish society is remarkably informal. The tentacles of bureaucracy are sparse. -q -- Apart from schools, committees, and the Pequea Bruderschaft Library, a historical library founded by local Amish, formal institutions do not exist. -q -- ... Amish self-sufficiency as well as their profound commitment to a humane system of social security at every turn. -q -- ... contours of Amish values—local, familial, natural, simple, and self-sufficient. -q -- Science and sex education are missing... -q -- Little attention is given to independent thinking and critical analysis... -q -- The Amish forbade the use of public electricity as power lines were creeping into rural areas in the early 1920s. -q -- The phone was banned from homes about 1910, but its use was never forbidden. -q -- Believing that coercion mocks the gentle spirit of Jesus, the Amish reject the use of force, including litigation. -q -- Amish voters tend to favor Republican candidates. -q -- Championing self-sufficiency and the separation of church and state, the Amish worry that the hand that feeds them will also control them. -q -- ... core Amish values of simplicity, humility, and mutual aid... -q
@@ -1222,7 +1222,7 @@ k813 LAM -- Apparition Lake / Daniel Lamoreux, Doug Lamoreux. -- Creativia, 2014
 
 020 LIB -- Library bill of rights. -- [S.l.] : American Library Association, 1996. -- on 1 external hard drive. -- File name: (1080.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/1080.txt) -- DBID 1080
 
-g025 LIB -- Disseminating information on the internet / Library of Congress. -- Library of Congress, 1994. -- www.
+025 LIB -- Disseminating information on the internet / Library of Congress. -- Library of Congress, 1994. -- [www](http://drive.google.com).
 
 025.4 LIB -- MARC 21 format for classification data / Library of Congress. Network Development and MARC Standards Office. -- 2000 English ed. -- [Washington, D.C. : Library of Congress], 2000. -- on 1 external hard drive. -- on external hard drive. --  File name: (3089.txt) -- Also available on the [World Wide Web](http://www.justinleetyler.com/library/3089.txt) -- DBID 3089
 
@@ -1230,7 +1230,7 @@ g025 LIB -- Disseminating information on the internet / Library of Congress. -- 
 
 247 CEL -- [Celtic cross. -- [S.n., n.d.] -- on external hard drive. -- File Name: 5553.txt.
 
-w001 LIF -- Lifehacker. -- Gizmodo Media Group, c2017. --[www](http://www.lifehacker.com). -- Daily.
+001 LIF -- Lifehacker. -- Gizmodo Media Group, c2017. --[www](http://www.lifehacker.com). -- Daily.
 
 781.64 LIG -- If You Could Read My Mind / Gordon Lightfoot. -- Burbank, Calif.: Reprise Records, 1980. -- on 1 external hard drive. -- Title from Compact Disc.
 
@@ -1259,14 +1259,14 @@ k813 LOS -- Lost lore. -- 1st ed. -- Terrible Ten, 2018. -- [www](https://read.a
 
 025.3 LUT -- Streamlining book metadata workflow / Judy Luther. -- [S.l.] : NISO, c2009. -- [www](https://read.amazon.com). -- File name: (10076.pdf)
 
-w152 LUT -- 7 ways to get your life back into balance / Kate Luther. -- wisebread.com, 2014. -- www.
+152 LUT -- 7 ways to get your life back into balance / Kate Luther. -- wisebread.com, 2014. -- www.
 > 1 Learn to say no.  -- 2 Let go of guilt -- 3 Release the need to overachive -- 4 Stop multitasking -- 5 Let good be good enough -- 6 Meditate -- 7 Choose
 
 781.67 LYN -- Nothing Above My Shoulders but the Evening / Ray Lynch. -- Stanford, CA: Windham Hill Records, 1993. -- on 1 external hard drive. -- Title from Compact Disc.
 
 779 LYN -- [Photographs of Ward Reservation and Justin Lee Tyler] / Shawn Lysik. -- 2012- . -- File name: 3271.jpg -- DBID 3271.
 
-w025.3 MAY -- Cataloging internet resources / Yan Ma. -- [S.l. : s.n.], 2000. -- [www](http://www.uri.edu/personal/yanma/550/cataloginginternet2/).
+025.3 MAY -- Cataloging internet resources / Yan Ma. -- [S.l. : s.n.], 2000. -- [www](http://www.uri.edu/personal/yanma/550/cataloginginternet2/).
 
 001 MAC -- Memoirs of extraordinary popular delusions and the madness of crowds / Charles MacKay. -- London : Office of the National Illustrated Library, 1852. -- DBID 3064
 
@@ -1275,7 +1275,7 @@ w025.3 MAY -- Cataloging internet resources / Yan Ma. -- [S.l. : s.n.], 2000. --
 927 MAD -- I'm proud of you / Tim Madigan. -- [S.n., n.d.] -- v.
 > Read 2013-10. Grade D. -r
 
-g290 MAH -- Harmony of all religions /  Maharishi Santsevi Ji Maharaj; translated from Hindi by Veena Rani Howard. -- Santmat Society, c2006. -- www.
+290 MAH -- Harmony of all religions /  Maharishi Santsevi Ji Maharaj; translated from Hindi by Veena Rani Howard. -- Santmat Society, c2006. -- [www](http://drive.google.com).
 
 k813 MAL -- Bird box / Josh Malernan. -- [S.n., n.d.]. -- [www](https://read.amazon.com).
 > Henry Martin, the baby dady. -f -- 2 Malie is pregnant, and something is happening in Russia and Alaska. -s -- 3 They head out on the river. -s -- 4 Shannons, m.s sister, see's something outside and it kills her. -s -- 6 They encounter something on the animal, but it leaves them alone. -s -- Jules, tom, Dan, Cheryl, Felix, victor the puppy -f -- 7 M's at Riverbridge. The owner of the house, george, died when he saw one of the creatures. -- 7 3 Shillingham is the address of the riverbridge. -s -- Robin, Tom's daughter, died. -f -- They encounter another boat. The guy seems crazy, he encountered a monster. -s -- Don''s sister is gone -f -- 10 George captures the villiage on videotape, but still becomes suicidal. -s -- 16 Wolves attack the boat, M. is ingured. -- 17 Don wants to have guard dogs. -- > 22 Tom and ? comes back with huskies -- 25 They explore another house, find a dead body, another husky, and a bird box -s -- 26 M. passes out in the boat -- I would have never thought... that one day the worlds most valuable tool would be a can opener. -Gary -q -- 27 Gary comes -- 29 M wakes up -- 34 Gary lied about he and his brother. -s -- 35 Tom and jules come back from his truip to his house. -s -- 37 They banish gary. -- 42 Gary, hding in the basement with Don, convinces don to take the curtain down. Meanwhile, Olympia and M. give birth. Everone dies except M and the babies. then, rick calls with instructions to the new place. -- The book ends with M and the two kids arriving at the new place, populated initially by the blind, and people who destroyed their eyes. -s
@@ -1344,9 +1344,9 @@ k813 MCD -- Infection / M.P. McDonald. -- MPMcD Publishing, 2016. -- [www](https
 
 k813 MCD -- The mystic saga / Scott McElhaney. -- Superluminal, 2012. -- [www](https://read.amazon.com).
 
-g289.1 MCD -- The hymn sandwich : a brief history of Unitarian worship / Duncan McGuffie. -- [S.n., 19--]. -- www.
+289.1 MCD -- The hymn sandwich : a brief history of Unitarian worship / Duncan McGuffie. -- [S.n., 19--]. -- [www](http://drive.google.com).
 
-w374 MCK -- How and why to become a lifelong learner / Brett McKay. -- art of manlines, 2013. -- [www](http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/).
+374 MCK -- How and why to become a lifelong learner / Brett McKay. -- art of manlines, 2013. -- [www](http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/).
 > Why become a lifelong learner? 1) You'll earn more 2) You'll be more interesting and charismatic. 3) You'll be a better leader. 4) You'll be a better leader. 5) You'll be independent and handy. 6) It keeps your brain healthy 7) You'll feel more satisfied with life 8) You'll become more human.
 
 k813 MCK -- Logging off / Caitlin McKenna. -- C. McKenna, c2006, 2012. -- [www](https://read.amazon.com). -- ASIN B005QCC6KE.
@@ -1374,24 +1374,24 @@ k813 MCK -- The reclaiming / S. Matthew McNally. -- Omnifisc, 2013. -- [www](htt
 
 k813 MCK -- 20XX / Charles Mead. -- C. Mead, 2013. -- [www](https://read.amazon.com). -- AISN B00ACLCXV6.
 
-w330 MCK -- The one and future liberalism / Walter RussellMead. -- American Interest, 2012. -- www.
+330 MCK -- The one and future liberalism / Walter RussellMead. -- American Interest, 2012. -- www.
 > A rich and rewarding human life neither comes from nor depends on consumption, even lots of consumption; it comes from producing goods and services of value through the integration of technique with a vision of social and personal meaning. Being fully human is about doing good work that means something. -p. -q -- A liberal is someone who seeks ordered liberty through politics?namely, the reconciliation of humanity?s need for governance with its drive for freedom in such a way as to give us all the order we need (but no more) with as much liberty as possible. -p. -q -- Americans want to believe that all four goals work together: that defending their security, promoting their prosperity, preserving their freedom and equality and fulfilling their global mission are all part of an integrated package and worldview -p. -q
 
 270 MCK -- The waters of Siloe / Thomas Merton. -- New York : Harcourt, Brace and Company c1949. -- xxxvii, 377 p.
 > They [the trappists] have not come to the monastery to excape from the realities of life but to find those realities: they have felt the terrible insufficiency of life in a civilization that is entirely dedicated to the pursuit of shadows. -p. xvii -q -- That is what is called the contemplative life: a life that is deoted before all else to the knowledge and love of God and to the love of other men in him and For His sake. -p. xix -q -- The contemplative monk also contributes indirectly to this work, even in a material way, because the surplus of his farm is given to the poor, and the monastery helps to support hospitals and schools when it is ble to do so. -p. xix -q -- Love is a union of wills. -p. xx -q -- It [the contemplative life] takes a man above the terrors and sorrows of modern life as well as above its passing satisfactions. It elevates his life to a superhuman level to the peace of the spiritual stratosphere where the storms of human existence become a distant echo and do not disturb the center of the sou - no matter how uch they may rage in the senses ad fealings. -p. xxviii -q -- This means that the best Orders  are the ones which are able to cling most closely to the ideal of their founders and to live their lives most perfectly accordig to their own particular Rules. -p. xxxiv -q
 
-w152 MIC -- 10 mantras that will transform your life / Paul Michael. -- wisebread.com, 2013. -- [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).
+152 MIC -- 10 mantras that will transform your life / Paul Michael. -- wisebread.com, 2013. -- [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).
 > 'We see what we look for' -Sir John Lubbock  -- 'The past has no power over the present moment' -Echart Tolle.  -- "There are no failures — just experiences and your reactions to them." -- "The start is what stops most people." — Don Shula -- "Change your thoughts and you change your world." — Norman Vincent Peale -- "Aggressive goals require an aggressive work ethic." -- "Comparison is the stealer of joy." -- "You are who you are when nobody is watching." — Stephen Fry -- "Believe you can and you're halfway there." — Theodore Roosevelt -- "Be the change you wish to see in the world." — NOT Gandhi
 
 918 MIL -- The river of doubt / Candice Millard. -- [S.l.] : Anchor books, 2009. -- DBID 3044
 
 813 MIL -- Precipice / John Jackson Miller. -- [S.l.] : LucasBooks, 2009.. -- DBID 3045
 
-g023 MIL -- How to organize a library / Zana Kate Miller. -- Libary Bureau, c1921. -- www.
+023 MIL -- How to organize a library / Zana Kate Miller. -- Libary Bureau, c1921. -- [www](http://drive.google.com).
 
-w023 MIL -- How to organize a library / Zana Kate Miller. -- Libary Bureau, c1921. -- [www](https://www.google.com/books/edition/_/6n4wAAAAMAAJ).
+023 MIL -- How to organize a library / Zana Kate Miller. -- Libary Bureau, c1921. -- [www](https://www.google.com/books/edition/_/6n4wAAAAMAAJ).
 
-g299.5 LAO -- The living Dao : the art and way of living a rich & truthful life  / [by Laozi] ; translated with annotations by Lok Sang HO. -- [S.n.], 2009. -- [www].
+299.5 LAO -- The living Dao : the art and way of living a rich & truthful life  / [by Laozi] ; translated with annotations by Lok Sang HO. -- [S.n.], 2009. -- [www].
 
 299.5 MIN -- 365 Tao / Deng Ming-Dao. -- HarperOne, c1992. -- xii, 380 p. -- ISBN 9780062502230.
 > They won't suffer damnation; they will only walk a different path. -q -- Useful trees are cut down. Useless ones survive. The same is true of people... we should live our lives in simplicity... to be considered useless... is the chance to live without interference to express one's own individuality. -q  -- The altar is a tool... There is not outside force listening to us... [it] is merely symbolic. Those who follow Tao use it to focus their self-awareness. -p. 118 -q -- It takes maturity to grasp that their are no gods and yet still behave as if there were. It takes insight to know that you must be your own disciplinarian. Only the wisest can lay down their own 'divine laws' and find guidance as if they were truly heaven's word. -p. 118 -q -- When faced with adversity, you must ask whether you have done anything to bring misfortune upon yourself. -p. 119 -q -- Maintain your self-cultivation, move forth to confront difficulties, and accumulate the momentum that success will give you. -p. 119 -q -- For such a relationship to work, here must be a basic compatibility of values, outlook, and purpose. -p. 139 -q -- Ulitmately, all relationships are temporary... but if chance allows us to walk ogether, who is anyone to challenge our choice of walking companions? -p. 139 -q -- Just do what you can for the present, and leave everything else to happen naturally. Work. Wash. Meditate. Eat. Study. Urinate. Sleep. Excercise. Talk. Listen. Touch. Die each night. Be born again each morning. -p. 151 -q -- There are three levels of truth: Experience, reasoning, and knowning. -p. 161 -- To avoid doubts and conflicting opinions, followers of Tao keep their revelations secret. Then what is known directly is absolutely yours. -p. 161 -- If you are confronted with a pivotal decision and cannot think of any other way to act, write down all the good things and all the bad things about a given situation. Also include how much more you wnat to do. See if staying your course will give you want you want. If not, change, no matter how deeply that wil disrupt your routines. Some people never know where they are in live, and that is one of the biggest reasons they ae unhappy. -p. 163 -q -- To withhold your scorn is already beautiful. -177 -- ... followers of Tao realize hat the flow of life can be affected and to some degree consciously manipulated simply by altering its parameters... the freedom to choose and to change belongs to us. -p. 182 -q -- There is a right way and a wrong way to compete. Avoid anger and greed. Use concentration and awareness. -190 -- Worship by cultivating nine fields: Diet. Herbs. Clothing. Recitation. Movement. Meditation. Creativity. Teaching. And most important: Compassion. -191 -- In this competitive world, it is best to be invisible. [But] prove yourself when it is demanded... then fade back to invisiblility. -p. 203 -q -- Our language is unfamiliar with the frontiers of the spirit because few have ever seen those limits, let alone describe them. But let's try. If you unite sound with vision, then you will create light. That light is the concentrated force of the mind. It is by that brightness that ruth is revealed. -p. 205 -q -- When you see someone less fortunate than you, express compassion. When you see someone more advanced than you, try to learn from them. -p. 206 -q -- Short-term als help us determine each stage of our lives and experience it completely. Long-term goals give us perspective and continuity... Our goals should be entirely personal... There is only one universal goal: a gracious death with no regrets. -240. -- Therefore, tuning ourselves to Tao is the basic task.
@@ -1402,7 +1402,7 @@ g299.5 LAO -- The living Dao : the art and way of living a rich & truthful life 
 813 MIL -- Myst : the book of Ti'ana / [by] Rand Miller; with David Wingrove. -- 1st ed. -- Hyperion, c1996. -- 322 p. -- ISBN 0786861606.
 > p. 1-28: A tunnel is being built to make contact with the surface dwellers; The Book of Earth, written by Grand Master Ri'Neref, is mentioned. -s -- It was not often that one saw all eighteen major Guilds represented in a single place... p. 50 -q -- If this expedition had proved one single thing to him it was that he was of essence a loner. He had thought, perhaps, that such close proximity to his fellows, day in, day out, might have brought hiim out of his shell -- rounding off the heard edges of his nature -- but it had not proved so. -p. 50 -q -- You were born old, Aitrus... too old and too serious... -p. 51 -q -- The rock was predictable. It had its moods, yet it could be read, its actions foreseen. But who could say as much of a man? -p. 56 -q
 
-w299 MIL -- America's alternative religions / Timothy Miller. -- State University of New York Press, 1995. -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live).
+299 MIL -- America's alternative religions / Timothy Miller. -- State University of New York Press, 1995. -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live).
 > All members are expected to do their own study and thinking and to arrive at their own convictions about matters of religious faith. Faith is viewed as a religious quest involving the celebration of life rather than the giving of intellectual assent to some fixed, traditional creed which originated iys: "Unitarian Universalism is cooperation with a universe that created us; it is a celebration of life; it is being in love with goodness and justice; it is a sense of humor about absalists. For some of the Transcendentalists such as Ralph Waldo Emerson, there was a world soul which permeated all of life. With "intuition" one could place oneself in contact with it. Hence the solitary individual walking in the autumn woods may well intuit his or her relationship to the world soul. -q -- The purpose of a liberal religious society was to provide a place for bringing people together for addressing personal, community, and world problems and aspirations. For the humanists, then, one could be religious even without belief in God. -q
 
 170 MIL --  How to want what you have / Timothy Miller. -- New York : Henry Holt and Company, c1995. -- xv, 4 p. -- ISBN 0805033173.
@@ -1410,10 +1410,10 @@ w299 MIL -- America's alternative religions / Timothy Miller. -- State Universit
 
 813 MIL -- Nolander / Becca Mills. -- [S.n.], c2012. -- [www](https://read.amazon.com). -- AISN B007R6PPZA.
 
-w657.7 BEC -- Becoming minimalist / [edited by] Joshua Becker. -- [www](http://www.becomingminimalist.com/).
+657.7 BEC -- Becoming minimalist / [edited by] Joshua Becker. -- [www](http://www.becomingminimalist.com/).
 > I. Benefits from resting one day a week: (healthier body -- less stress -- deeper relationships -- opportunity for reflection -- balance (an identity outside of of your fellow occupation). -- Reserve for live's emergencies). -- II. How do do it: (Find contentment in your current life. -- Plan your rest -- Take responsibility for your life -- Embrace simplity -- Include your family -- Live within your income -- Realize the shallow nature of results-oriented culture). -o -- What we create becomes meaningful to us only once we stop creating it and start to think about why we did so. -Rabbi Elijah of Vilna. -q -- It is true that many of the benefits from concentrated rest are not tangible; but then again, only a fool believes all good things can be counted. -q
 
-w941 MIL -- Neville Chamberlain's legacy / Nicholas Milton. -- Pen & Sword, 2019. -- [www](https://www.hoopladigital.com/play/13917369). -- ISBN 9781526732262.
+941 MIL -- Neville Chamberlain's legacy / Nicholas Milton. -- Pen & Sword, 2019. -- [www](https://www.hoopladigital.com/play/13917369). -- ISBN 9781526732262.
 > Read 2021-08. Grade C. -r --  A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. -s -- Where Churchill was impulsive and relied very much on his instincts, Chamberlain was utterly methodical and much more consensual in his approach. --  -- horrors, atrocities and monstrosities’. --  -- Chamberlain’s tenure at the Ministry of Health also resulted in marked improvements in both ante-natal and post-natal care. --  -- The negotiated a reduction in interest payments from five per cent to three-and-a-half per cent, a notable achievement. --  -- It is a sad fact that the presentable specimens there might have been counted on the fingers of one hand --  -- Chamberlain reported to Hilda on 23 March 1935 that he had now become ‘a sort of Acting P.M. – only without the actual power of the P.M. I have to say “Have you thought” or “What would you say” when... --  -- Dear Sir The Prime Minister asks me go thank you for your letter of 16 November. He was interested to hear of the redpoll. With reference to the suggestion that he should become a Vice-President ... --  -- Musso’s latest outburst,’ he told Ida, ‘is I think to be attributed to a request from the Germans who appear to be --  -- Foreign Office, S.W.1., 20th February, 1938. My dear Prime Minister, The events of the last few days have made plain a difference between us on a decision of great importance in itself and far-r... --  -- He tried to negotiate with Ribbentrop, but felt it was hopeless, ‘He is so stupid, so shallow, so self centred and self satisfied and so totally devoid of intellectual capacity that he never seems ... --  -- ‘But all the same I can’t help liking Winston although I think him nearly always wrong and impossible as a colleague. --  -- ‘Well, it has been a pretty awful week – enough to send most people off their heads, if their heads were not as firmly screwed on as mine.’ The febrile atmosphere in Downing Street had begun to tak... --  -- Up to this point Chamberlain had kept his counsel, and his calm, but he now reacted, --  -- Exhausted after the encounter by Hitler’s mood swings and histrionics, Chamberlain --  -- WOTD: foreboding -f --  -- increasing incredulity --  -- WOTD: indignant --  -- This has not been a victory for reason and humanity. It has been a victory for brute force. --  -- Chamberlain now hoped for the best but increasingly feared the worst. --  -- It was pragmatic talk born out of realism, but it was also dangerously defeatist. --  -- WOTD: intransigence --  -- 11.15 am on Sunday 3 September 1939, Chamberlain broadcast to the nation that a state of war existed between Britain and Germany --  -- He damned Hitler, saying, ‘We have to kill one another just to satisfy that accursed madman. I wish he could burn in Hell for as many years as he is costing lives.’ --  -- It was classic Chamberlain, but by being so overly optimistic he was also now dangerously in denial. --  -- This is what Cromwell said to the Long Parliament when he thought it was no longer fit to conduct the affairs of the nation: ‘You have sat too long here for any good you have been doing. Depart, I ... --  -- Churchill was to be true to his word when, just seven months after Chamberlain’s death, the old enmity returned when he described him as ‘the narrowest, most ignorant, most ungenerous of men,’ who ... --  -- Chamberlain was a lapsed Unitarian --  -- A dedicated and committed conservationist who was years ahead of his time,
 
 299.5 MIN -- Scholar warrior / Deng Ming-Dao. -- HarperCollins, c1990. -- vi, 351 p. -- ISBN 0062502328.
@@ -1422,7 +1422,7 @@ w941 MIL -- Neville Chamberlain's legacy / Nicholas Milton. -- Pen & Sword, 2019
 k813 MIN -- The island / Jen Minkman. -- Patchwork Press, 2013. -- [www](https://read.amazon.com) -- AISN B00D3GNJWY.
 > Read 2013-12. Grade C. -- One hundred and fifty years have passed... -q  -- We only gather to share our knowledge, but that’s all. This is how we prevent conflicts. -q -- Bookkeeper: Head of the other people. -f -- ... come to Penzance. Our children have escaped to Tresco by boat. We need help. Everyone’s gotten sick. Please, I beg you -- Penzance: an abandoned coastal town -f -- And your Book... most likely it’s the little boy’s diary. It could be a notebook he brought with him to the island, which he used to write down his own stories about what had happened. -q -- ... was making a book to give himself and the others around him courage through stories. To tell them that the Force would always be with them, even if their parents weren’t. -- The very first Bookkeeper. The man who taught us about the importance of knowledge in books. -q
 
-w375 MIT -- MIT OpenCourseWare [website]. -- [S.l.], s.n., c2002- . -- [www](http://ocw.mit.edu/).
+375 MIT -- MIT OpenCourseWare [website]. -- [S.l.], s.n., c2002- . -- [www](http://ocw.mit.edu/).
 
 813 MIT -- Midnight city / J. Baron Mitchell. -- Thomas Dunn Books, c2012. -- 392 p. -- ISBN 9781250036285.
 > 10 Holt finds a girl named Zoey; the assembly is after her; she knows his name before he tells it. -s --  It's not my problem... I don't get involved. It's my ule. I only do what I have to do to survive, and right no that means taking you back. -Holt -p. 90 -q --  11-15 S They run into Mantis's; Zoey and Mira get away, but he finds them again. And Holt turns Zoey loose. -s --  17 They come across an abandoned city, and a flash flood. Mira saves Holts life. -s
@@ -1450,11 +1450,11 @@ k813 MOU -- 3 years after. / G.R. Mountjoy -- [www](https://read.amazon.com).
 
 791.43 MYH -- My Hero. -- [S.l. : s.n., 2000.] -- 2 video discs. -- Starring Emily Joyce, Geraldine McNulty, Hugh Dennis, Lill Roughley
 
-g158 MUR -- Own your future / Katherine Murray. -- Microsoft Press, c2010. -- www.
+158 MUR -- Own your future / Katherine Murray. -- Microsoft Press, c2010. -- [www](http://drive.google.com).
 
 027 NAI -- Public library systems in ancient South India / R. Raman Nair. -- on 1 external hard drive. -- File name: 0942.pdf . -- IN ILA Bulletin. -- Vol. 27, no. 2 (Jul.-Sept. 1991).
 
-w629 NAS -- NASA TV / NASA. -- NASA, [n.d.] -- [www](http://www.nasa.gov/multimedia/nasatv/index.html.
+629 NAS -- NASA TV / NASA. -- NASA, [n.d.] -- [www](http://www.nasa.gov/multimedia/nasatv/index.html.
 
 923 NAS -- Andrew Carnegie / David Nasaw. -- New York : The Penguin Press, 2006. -- xiv, 878 p.
 > Read 2012-03. -r -- Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q
@@ -1462,9 +1462,9 @@ w629 NAS -- NASA TV / NASA. -- NASA, [n.d.] -- [www](http://www.nasa.gov/multime
 813 NEL -- The girl who owned a city / O.T. Nelson. -- [S.n., n.d.] -- v.
 > Read 2014-11. Grade C. -r
 
-g324 NEA -- The morning after a general election: the vice-regal perspective / Peter Neary. -- Canadian Parliamentary Revie, 2012. -- www.
+324 NEA -- The morning after a general election: the vice-regal perspective / Peter Neary. -- Canadian Parliamentary Revie, 2012. -- [www](http://drive.google.com).
 
-g395 NEM -- Simple techniques to increase your likeability at work / Marty Nemko. -- U.S. News and World Report, c2013. -- www.
+395 NEM -- Simple techniques to increase your likeability at work / Marty Nemko. -- U.S. News and World Report, c2013. -- [www](http://drive.google.com).
 
 k813 NEV -- A Princely Affair / P.J. Nevada. -- [S.n., n.d.] -- [www](https://read.amazon.com).
 > Read 2018-05. Grade C. -- think many people are more excited about having a relationship than who they have in that relationship. -- Principality of Raska.” -- Being together is doing something
@@ -1483,12 +1483,12 @@ k813 NEV -- These Florida nights / P.J. Nevada. -- [S.n., n.d.] -- [www](https:/
 193.9. NIE -- The portable Nietzsche / [by Friedrich Wilhelm Nietzsche]; selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. -- Harmondsworth England : Penguin, 1976. -- x, 692 p
 > Read 2012-03. -r -- The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 -q -- I teach you the overman. -Zarathustra -p. 124 -q -- When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 -q -- Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q
 
-g005 NIX -- Learning PHP, MYSQL, and Javascript / Robin Nixon. -- Beijing; Cambridge : O'Reilly, c2009. -- [www](https://drive.google.com).
+005 NIX -- Learning PHP, MYSQL, and Javascript / Robin Nixon. -- Beijing; Cambridge : O'Reilly, c2009. -- [www](https://drive.google.com).
 > The process of separating your data into tables and creating primary keys is called normalization. , p. 203 -q -- E. F. Codd: inventor of the relational model. -p. 203 -q -- On a very popular site, if you have normalized tables, your database access will slow down considerably once you get above a few dozen concurrent users. -p. 210 -q
 
-g220 NEW -- The new oxford annotated bible : New revised standard version with the Apocrapha / Michael D. Googan, Editor ; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors. -- 4th ed. -- Oxford University Press, c2010. -- [www](https://drive.google.com).
+220 NEW -- The new oxford annotated bible : New revised standard version with the Apocrapha / Michael D. Googan, Editor ; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors. -- 4th ed. -- Oxford University Press, c2010. -- [www](https://drive.google.com).
 
-g025.3 WHA -- What the card catalog tells us. -- Follett, [n.d.] -- [www](https://drive.google.com).
+025.3 WHA -- What the card catalog tells us. -- Follett, [n.d.] -- [www](https://drive.google.com).
 
 813 NOR -- America Pacifica / Anna North. -- [S.n., n.d.] -- v.
 > Read 2013-02. Grade D. -r
@@ -1519,12 +1519,12 @@ k813 NUS -- The mystic travelogues (volume 1) / J.C. Nusbaum. -- [S.n., n.d.] --
 
 k813 OKE -- The meeting place / Janette Oke, T. Davis Bunn. -- Bethany House, 1999. -- [www](https://read.amazon.com). -- AISN B005BOXJ5S.
 
-w428 ONE -- Onelook.com. -- [S.n., n.d.] --[www](http://www.onelook.com).
+428 ONE -- Onelook.com. -- [S.n., n.d.] --[www](http://www.onelook.com).
 > ACUMEN, noun, shrewdness shown by keen insight. -f -- BELLICOSE, adj, someone who is bellicose enjoys fighting or arguing. -f -- CAPRICE, noun, a sudden and unexpected change of opinion or behavior without any good reason. -f -- HAPPENSTANCE, noun, an event that could have been arranged although it was really accidental. -f -- HERESIARCH, noun, the leader of a heresy. -f -- MEME, noun, a cultural idea, pattern, or behavior passed to each generation by nongenetic means. -f -- OBSTREPEROUS, adjective, refusing to behave in a reasonable way and sometimes protesting loudly. -f -- OPACITY, noun:  incomprehensibility resulting from obscurity of meaning. -q -- PETULANT, adjective: annoyed and behaving in an unreasonable way because you cannot get what you want. -f -- PHYSIOGNOMY, noun: they way that someone's face looks. -f -- PROFUNDITY, noun:  intellectual depth; penetrating knowledge; keen insight; etc -q
 
-w375 YAL -- Open Yale courses [website]. -- [S.l.] : Yale University, c2012- . [www](http://oyc.yale.edu/).
+375 YAL -- Open Yale courses [website]. -- [S.l.] : Yale University, c2012- . [www](http://oyc.yale.edu/).
 
-w375 OPE -- OpencourseWare Consortium [website]. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- [www](http://www.ocwconsortium.org/).
+375 OPE -- OpencourseWare Consortium [website]. -- Newton, MA : OpencourseWare Consortum, [n.d.] -- [www](http://www.ocwconsortium.org/).
 
 003 OPE -- Operating system interface design between 1981-2009. -- [S.l. : s.n., 2009?] -- on 1 external hard drive. -- File name: (8816.pdf) -- Also available on the World Wide Web: http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/ . -- DBID 8816
 
@@ -1555,7 +1555,7 @@ k813 OWE -- The kind / Julie Owen. -- Mean Time Press, 2017. -- [www](https://re
 
 813 PEA -- Cloudburst / Ryne Douglas Pearson. -- [S.l.] : Schmuck & Underwood, 2011.. -- DBID 3043
 
-w025.3 PEN -- Qualified Dublin Core metadata best practices for gredos / [by] Francisco Jose Garcia Penalvo, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.] -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live). -- DOI 10.1080/19386380903546976. -- IN Journal of Library Metadata. -- Vol. 10. -- 2010.
+025.3 PEN -- Qualified Dublin Core metadata best practices for gredos / [by] Francisco Jose Garcia Penalvo, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.] -- [www](http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live). -- DOI 10.1080/19386380903546976. -- IN Journal of Library Metadata. -- Vol. 10. -- 2010.
 > Descriptive metadata: information used to index, describe, and identify a digital resource. Some examples are: the title of the resource, the author of the resource, and the subject of the resource. -q -- Structural metadata: information used to visualize and navigate the digital resources; information on the internal organization of the digital resource; information on the visualizer or plug-in reader necessary to open the digital resource. -q -- Administrative metadata: information needed to manage the resource over time, including technical information such as image resolution, file size, file format, hardware/software used to produce the digital resource, and so on. -q -- The 15 elements of the Dublin Core format can be classified according to three aspects: 1. Contents: Title, Subject, Description, Source, Type, Relation, and Coverage 2. Intellectual property: Creator, Publisher, Contributor, and Rights  3. Application: Date, Format, Identifier, and Language. -q
 
 k813 PEE -- Rebellious / Chrissy Peebles. -- [S.n.], 2017. --[www](https://read.amazon.com/?aisn=B0765ZNYPD).
@@ -1605,10 +1605,10 @@ k813 PEE -- Rebellious / Chrissy Peebles. -- [S.n.], 2017. --[www](https://read.
 158 PIN -- Four signs your relationship might be doomed / Melanie Pinola. -- on 1 external hard drive. -- Also available on the World Wide Web (http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed). -- IN Lifehacker. -- (Mar. 15, 2013).
 > Four signs your relationship might be doomed: Criticism -- Defensiveness -- Contempt -- Stonewalling
 
-w291 PIN -- Seven important lessons from world religions everyone should know / Melanie Pinola. -- IN Likehacker, 2014. -- [www](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832).
+291 PIN -- Seven important lessons from world religions everyone should know / Melanie Pinola. -- IN Likehacker, 2014. -- [www](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832).
 > The golden rule -- Work for the happiness of others, especially the poor and unfortunate. -- Focus on the present (mindfulness and meditation) -- Aim for achievements, not money. -- Interact with community -- Take responsibility for your actions. -- Know yourself (make up your own mind). -- Bonus: "Do. Or do not. There is no try." -o
 
-w153 PIN -- Why you learn more effectively by writing then typing / Melanie Pinola. -- lifehacker.com, 2011. -- [www](http://lifehacker.com/5738093).
+153 PIN -- Why you learn more effectively by writing then typing / Melanie Pinola. -- lifehacker.com, 2011. -- [www](http://lifehacker.com/5738093).
 > The act of writing helps you clarify your thoughts, remember things better, and reach your goals more surely. -q
 
 781 POS -- Positive Evolutions. -- [KPM, c1999]. -- on 1 external hard drive. -- System requirements: USB drive; mp3 file reader
@@ -1634,7 +1634,7 @@ k813 POH -- The last 8 / Laura Pohl. -- Sourcebooks Fire, 2019. --[www](https://
 
 781.67 PUR -- Pure Moods: IV. -- Beverly Hills, CA: Virgin Records America, 2002. -- on 1 external hard drive. -- Title from Compact Disc.
 
-w813 QUI -- The legacy human / Susan Kaye Quinn. -- Twisted Space, 2015. -- [www](https://read.amazon.com/?asin=B00U1VKGSE).
+813 QUI -- The legacy human / Susan Kaye Quinn. -- Twisted Space, 2015. -- [www](https://read.amazon.com/?asin=B00U1VKGSE).
 
 k813 QUI -- Open minds / Susan Kaye Quinn. -- [S.n., 20--]. -- [www](https://read.amazon.com/?asin=B005Z1RRUU).
 > Read 2014-08. Grade D. -r -- At the end of the 22nd century, the world is composed of readers (those who can read minds). While Kira believes she is a "zero" (a non-reader), she meets Simon, and learns she's actually a powerful jacker, someone who can "jack" into people's minds and control them. Simon introduces her to a secret society to jackers. During Simons initiation ceremony, govn't agents, being afraid of their abilities, take them to a jacker concentration camp where jackers can be control, and to perform experiments. She excapes, and is able to go to the press and expose the scandal. -s -- 5 when the girl and raf touches the boy faints -s -- 7 simon is a zero. -s -- 8 Simon and Kira are mindjackers. -s -- 11 Kira tries mind jacking, and almost knocks a girl out . -s -- 12 .Kira tells raf that she just wants to be friends. - s -- 1? the girl who isn't a mind reader is teased by those who are. -s -- 16 Kira and Raf have as fight. -s -- The worse thing for people is to know what we are, Kira. We have to keep the code of silence. -q -- 18 Simon takes Kira out, they kiss. -s -- Mr. Gerek, the shop teacher, is part of the clan of jackers. -s -- Eventually, the well of my rediculous self-pitty ran dry. -q -- 20 Kira is in love withbraf, but doesn't feel able to tell him shes a jacker -s -- 21 Simon mindjacks people, and is able to get his deploma early. He convinces Kira to attend his vowing ceremony to the clan. -s -- Patrick Moore, m. Kiras father. Jacker for the navy -f -- 24 Kira can jack other jackers. She brings down the whole clan. But the FBI, knowing she is special, captures her as they arrest the clan for espionage. -s -- 30 Kira escapes the camp. Simon and Molloy die. -s -- 31 Kira visits her father, who tells her to turn herself in, then goes to raf, who gives her some money. -s -- 32 Kira goes to the press with the stoiry. Then goes to kestrels apt, discovers where Laney is being kept, and shoots kestral. -s -- CHANGLINGS: kids who are developing jacker abilities. -f
@@ -1642,7 +1642,7 @@ k813 QUI -- Open minds / Susan Kaye Quinn. -- [S.n., 20--]. -- [www](https://rea
 291 RAI -- The justice men owe women / John C. Raines. -- [S.l.] : Fortress Press, 2001. -- on 1 external hard drive. -- File name: (1609.pdf) -- DBID 1609
 > Read 2011-03. -r
 
-w635 RAI -- The only 4 things a vegetable garden needs / Julie Rains. -- WiseBread, 2013. -- www
+635 RAI -- The only 4 things a vegetable garden needs / Julie Rains. -- WiseBread, 2013. -- www
 > Soil -- Sun -- Water -- Seeds. -o
 
 352 RAP -- Mr. President : how and why the founders created a chief executive / Ray Raphael. -- New York : Alfred A. Knopf, 2012. -- 324 p. -- ISBN 9780307595270. -- DBID 3026
@@ -1659,11 +1659,11 @@ k808 RAY -- Non-fiction writing machine / Anbu Rayappan. -- [S.n., 20--?]. -- [w
 k813 RAZ -- Shadowline drift / Alexes Razevich. -- Razor Street Publishing, 2014. -- [www](https://read.amazon.com).
 > Read 2016-10. Grade C. -- Jake, in the Amazon. Tobna, a tribe. Joaquin, the FUNAI rep. 2 Benesha is poisonious to people, and has magical transport properties. 3 Mawgic intends to trade Benesha, so it will kill everyone and rebalance the Earth. He leaves jack stranded in the junge. 4 Jake is hungry, unable to spear a fish. Out of bug spray. 5 Jake lost his knife in the river. He kills a sloth for foot, but without knwing if they eat Benesha, he cannot risk eating it. Ilar Ranirex, an anthropolitis. Naheye, Prist/Shaman. Lulunta Village. 6 Jake stumbles on a village, is saved, but the Shaman doesn't trust him. 7 N. considers J. evil, and they are harvesting a flower that blooms once every three  years. Benesha? Benesha has protein enhancing properites. Salen, a missionary found the tribe 3 yrs ago. 9 They begin the exorcism, mawgin appears to Jake. 10 Jake thinks he's left the village, but it is a dream. Or the Bensha. 11 Jake and Pillar steep together. 15 J the shadow drift, adnmagic leaves.  -- He wanted to step in, to warn them, to sweep up the naked child sitting alone and crying. But he was a phanton here, no more a solid presence here than he'd been in President Dalacort's bedroom - as useless as dust. -q -- Of course I'm recording everything. I keep notebooks and I have a camera. When I go home, I'll lecture and write a book. -Jake -q -- There are spirits here... and magic is rea. -Pilar. -q -- The Lalunta believe that when a shaman dies, the soul flies into the next child born in the village. -q  -- The bigger the river, the mroe chance of people living along it. -q -- Why should I believe you?... Because to not believe is to risk that I told the truth and you did nothing to stop it. -q
 
-g651.5 REC -- Recommended record retention periods for business records. -- [S.n., n.d.]. -- www.
+651.5 REC -- Recommended record retention periods for business records. -- [S.n., n.d.]. -- [www](http://drive.google.com).
 
 025.5 RED -- Redford Township District Library. -- [Michicard Letter]. -- Redford, MI : RTDL, 2007. -- on 1 external hard drive. -- File name: (7022.pdf) -- DBID 7022
 
-g289.1 REE -- We are here : a book of prayers for corporate worship / Cliff Reed. -- Lindsey Press, c1992. -- www.
+289.1 REE -- We are here : a book of prayers for corporate worship / Cliff Reed. -- Lindsey Press, c1992. -- [www](http://drive.google.com).
 
 813 REE -- Mortal engines / Philip Reeve. -- Scholastic, c2001. -- 296 p. -- ISBN 9781338201123.
 > CH 25: The historians meet to discuss what to do about MEDUSA. -d -- Up at the mooring platform Anna Fang had stooped to kiss the feet of one [monk], and given six bronze coins for him to bless the Jenny Haniver. -q -- CH 26 Tom is in Batmunkh Gompa, where Anna is trying to convince Gov. Kahn to send out the air fleet to bomb London before it can get within shooting distance of the settlement. -s -- CH 27 Pamela Rae found MEDUSA, and later married a guy named Shaw. She is Hester's mother, who was killed by Valentine. -s -- How should I remember the child's name? It was fifteen, sixteen years ago and I have never liked babies -- nasty creatures, leak at both ends and have no respect for ceramics. -Arkengarth. -p. 224. -q -- CH 28 T. sees V., and calls attention to him. V. sets the air fleet on fire. -s -- CH 30 V. returns to London, and K. confronts him. He reveals that H. might be K.'s sister. -s -- I used to think you [V] were the wonderful... I used to think that you were the best, bravest, wisest person in the world. But you're not. You're not een very clever, are you?" -K. -p. 244 -q -- CH 31 K. and B. decides to build a bomb and destroy MEDUSA. -s 
@@ -1682,9 +1682,9 @@ Helps ppl appreciate what you cannot control 2. Framework of beliefs beyond your
 171 RES -- The responsible self. -- [S.l. : s.n., n.d.]. -- [1] v. -- DBID 1737.
 > ?our quest for truth about oursleves and in our quest for true existence. -p. -q -- 'The Stoic's main question is: 'How may one react to events not with passion - that is, as one whois passive or who is subject to raw emotions called for by events - but with reason?'' -p. -q -- Two things in particular we say about ourselves: we act toward an end or ore purposive -p. -q -- I. What is a good person? A. Man the Maker B. Man the Citizen C. Man the Answerer 1. Dialogue is important 2. A 'psychology of interaction' 3. Elements a. idea of response b. our interpretation c. anticipation of reaction to our action -p. -o
 
-g264 REV -- Reverence : a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events. -- Boy Scouts of America, 2010. -- www.
+264 REV -- Reverence : a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events. -- Boy Scouts of America, 2010. -- [www](http://drive.google.com).
 
-w070 REU -- Reuters. -- [S.l. : s.n., n.d.] -- [www](http://www.reuters.com). -- Daily.
+070 REU -- Reuters. -- [S.l. : s.n., n.d.] -- [www](http://www.reuters.com). -- Daily.
 
 813 REU -- Arena One / Morgan Rice. -- [S.n., n.d.] -- v.
 > Read 2014-01. Grade C.
@@ -1756,7 +1756,7 @@ k813 ROS -- Insurgent / Veronica Ross. -- [www](https://read.amazon.com). -- IN 
 
 823 ROW -- The casual vacancy / J.K. Rowling. -- [S.l. : s.n., 2012]. -- [1 v.]. -- DBID 3201
 
-w640 RUB -- Nine quick tips to identify clutter / Gretchen Rubin. -- zenhabits.com, 2012. -- [www]http://zenhabits.net/identify-clutter/.
+640 RUB -- Nine quick tips to identify clutter / Gretchen Rubin. -- zenhabits.com, 2012. -- [www]http://zenhabits.net/identify-clutter/.
 > Does this thing work? -- Would I replace it if it were broken or lost? -- Does it seem potentially useful—but never actually gets used? -- Was I "saving" it? -- Does it serve its purpose well?  -- Has it been replaced by a better model? -- Is it nicely put away in an out-of-the-way place? -- Does this memento actually prompt any memories? -- Have I ever used this thing? -o
 
 299 RUI -- The four agreements / Miguel Ruiz. -- San Rafael, Calif. : Amber-Allen Pub, c1997. -- xix, 138 p. -- ISBN 1878424319. -- DBID 3010
@@ -1789,7 +1789,7 @@ k813 SAW -- FlashForward / Robert J. Sawyer. -- [S.l.] : Tor Books, 2010.. -- Mo
 k813 SCA -- The collapsing empire / John Scalzi. -- Tor, 2017. -- [www](https://read.amazon.com/?aisn=B01F20E7CO) -- AISN B01F20E7CO.
 >  Read 2020-01. -- Grade C. -r -- Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short. -- Batrin Wu, Cardenia’s father, was formally Attavio VI, Emperox of the Holy Empire of the Interdependent States and Mercantile Guilds, King of Hub and Associated Nations, Head of the Interdependent Church, Successor to Earth and Father of All, Eighty-seventh Emperox of the House of Wu, which claimed its lineage to the Prophet-Emperox Rachela I, founder of the Interdependency and Savior of Humanity. -- Xi’an, capital world. -f -- The executive committee consisted of three guild representatives, three ministers of parliament, and three archbishops of the church. -- Dalasýsla -- “Our father believed in the balance of power that has allowed the Interdependency to thrive: the parliament for the laws and justice; the guilds for trade and prosperity; the church for spirituality and community. And above them, the emperox, mother of all, for order.” -- Earth is where humans originally come from, and like on End, you could walk around on its surface. But the Earth isn’t part of the Interdependency. We lost contact with the Earth over a thousand years ago when the single Flow stream to it disappeared.” -- We don’t know if they’re competent to find their asshole with a flashlight and a map. -- “What does that abject pile of shit want?” -- she was the head of the Interdependent Church, technically the Cardinal of Xi’an and Hub, -- the emperox was always the minister of parliament for Xi’an, -- Rachela I, prophet-emperox, the legendary founder of the Interdependency. -- rucksack -wotd -- You tried to extort an imperial official in front of a fucking cop. You have to be spectacularly dense to try to pull a stunt like that.” -- I have two responses to that. One, fuck you, you shitty little example of a human. Two, -- So you don’t listen to the story. You listen to the pattern. -- Ghreni, it doesn’t matter whether you actually have anything to apologize for. The act of apologizing is the thing. You should know that already. That’s basic diplomacy.” -- officious cockwomble. -- Guild Court of Grievances -- finally getting its comeuppance. -- “I’m continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too.
 
-g823 SCA -- The consuming fire / John Scalzi. -- Tor, 2018. -- [www](https://drive.google.com).
+823 SCA -- The consuming fire / John Scalzi. -- Tor, 2018. -- [www](https://drive.google.com).
 > Read 2020-01. -- Grade C. -r
 
 k813 SCA -- The last emperox / John Scalzi. -- Tor books, 2020. --[www](https://read.amazon.com/?aisn=B07QPGW9FS).
@@ -1814,7 +1814,7 @@ k813 SCH -- Project Neptune / Sean Schafer. -- [S.n., n.d.]. -- [www](https://re
 
 k339.4 SCO -- The materialistic world / Grace Scott. -- G. Scott, 2013. -- [www](https://read.amazon.com). -- ASIN B00H1RMZOY.
 
-w507 SCI -- SciTech connect. -- [S.l., 2012?-]. -- [www](http://www.osti.gov/scitech/).
+507 SCI -- SciTech connect. -- [S.l., 2012?-]. -- [www](http://www.osti.gov/scitech/).
 781.67 SCH -- Schwartz, Paul. -- State of Grace: Turning to Peace / [by] Paul Schwartz, Lisbeth Scott, and Shimoo. -- New York: BMG, 2003. -- on 1 external hard drive. -- Title from Compact Disc.
 
 813 SCO -- Escape / Jasper T. Scott. -- S.l., 2014. -- [www](https://read.amazon.com). -- AISN B00AD6F2J0.
@@ -1873,9 +1873,9 @@ k813 SIM -- The blue tower / J.B. Simmon. -- Three Cord Press, 2018. -- [www](ht
 
 781.66 SLE -- Labyrinthine Heart / Sleepthief (Musical group). -- Weston, FL: Neurodisc Records, 2009. -- on 1 external hard drive. -- Title from Compact Disc.
 
-w020 SMA -- The small school library. -- Alaska Dept. of Education, 1967. -- [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).
+020 SMA -- The small school library. -- Alaska Dept. of Education, 1967. -- [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).
 
-g020 SMA -- The small school library. -- Alaska Dept. of Education, 1967. -- www.
+020 SMA -- The small school library. -- Alaska Dept. of Education, 1967. -- [www](http://drive.google.com).
 
 813 SMA -- The witches of Merribay / B.J. Smash (Author), Kelly McGough (Editor). -- B.J. Smash, 2013. -- on ASUS tranformer tablet. -- Title from Amazon.com desc.
 
@@ -1935,7 +1935,7 @@ k813 STK -- The biggest scoop / St. Kevern, Gillian. -- [S.n., n.d.] -- [www](ht
 k813 STA -- Meant for him / D.H. Starr. -- Ai Press, 2014. -- [www](https://read.amazon.com). -- AISN B00N23JJDG.
 > Read 2018-05. Grade C. -- He shut out the self-pitying thoughts, -- Desperate to divert attention from himself, -- Most people managed to connect, a feat he seemed incapable of. -- just being without having to calculate or control situations -- you complement one another. -- He bottled up his discomfort, not wanting to push, just like he kept his growing desire to spend even more time with Andrew to himself. -- Over-thinking things wouldn’t lead to anything good. -- There’s a light inside you and since you met Andrew, it’s glowed brighter. -- “You each have strengths where the other doesn’t. It’s that simple. -- There was no thinking involved, just being and doing.
 
-g025.3 STE -- After 32 years, the library card catalog is retired / Bill Steele. -- [S.n., 2007].-- [www](https://drive.google.com). -- IN Chronicle Online. -- (Oct. 1,2007).
+025.3 STE -- After 32 years, the library card catalog is retired / Bill Steele. -- [S.n., 2007].-- [www](https://drive.google.com). -- IN Chronicle Online. -- (Oct. 1,2007).
 
 973 STE -- How the states got their names / Mark Stein. -- [S.n., 19--]. -- on external hard drive. -- Title from BN.com.
 
@@ -1949,7 +1949,7 @@ k920 STE -- Five chiefs / Stevens, John Paul. -- Little, Brown, and Company, 201
 
 813 STI -- Demonworld / Kyle B. Stiff. -- K.S., [20--]? -- [www](http://read.amazon.com). -- ASIN B007TD9246.
 
-w641 STO -- Yes, plants have protein / Scott Stoll. -- wholestory.com, 2014. -- [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein).
+641 STO -- Yes, plants have protein / Scott Stoll. -- wholestory.com, 2014. -- [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein).
 > Broccoli contains more protein per calorie than steak and, per calorie, spinach is about equal to chicken and fish. -q -- How can you add more plant-based protein to your diet? By simply eating more plants. Beans (27% protein) lentils (36%), chickpeas (33%), peas (30%), and kale (22%)... -q
 
 813 STO -- Edge of the future / Andria Stone. -- [S.n.], 2017. -- [www](http://read.amazon.com). -- AISN B06XD3J7K7.
@@ -1961,7 +1961,7 @@ w641 STO -- Yes, plants have protein / Scott Stoll. -- wholestory.com, 2014. -- 
 
 813 STO -- The gate / Dann A. Stouten. -- Revell, 2013. -- on 1 ASUS tranformer tablet. -- ASIN B00AHY0XSS.
 
-w004 SUE -- Learn JavaScript / Steve Suehring. -- Microsoft Press, 2012. -- [www](http://proquest.safaribooksonline.com).
+004 SUE -- Learn JavaScript / Steve Suehring. -- Microsoft Press, 2012. -- [www](http://proquest.safaribooksonline.com).
 
 813 SUL -- Sector C / Phoenix Sullivan. -- [S.n., n.d.] -- [www](https://read.amazon.com). -- DBID 3019
 
@@ -1972,7 +1972,7 @@ w004 SUE -- Learn JavaScript / Steve Suehring. -- Microsoft Press, 2012. -- [www
 
 813 SUR -- The dangerous art of blending in / Angelo Surmelis. -- Balzer + Bray, 2018. -- [www](https://read.amazon.com). -- AISN B0727SCL5B.
 
-g200 MAN -- The birth of religion / Charles C. Mann. -- ngm.com, 2011. -- www.
+200 MAN -- The birth of religion / Charles C. Mann. -- ngm.com, 2011. -- [www](http://drive.google.com).
 
 613 SWE -- Wilderness survival / Suzanne Swedo. -- 3rd ed. -- FalconGuides, c2016. -- on external hard drive. -- Filename: 3357.mobi -- ISBN 9781493017355.
 
@@ -2019,12 +2019,12 @@ g200 MAN -- The birth of religion / Charles C. Mann. -- ngm.com, 2011. -- www.
 321 GOV -- The Governor-General is the guardian of our Constitution -- on 1 external hard drive. -- File name: (3032.pdf). -- DBID 3032. -- IN CCPA Monitor. -- Vol. 17, no. 1 (May 2000)
 > [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is  reserved, and that her servants, our servants, do not become our masters.  -p.  -q -- The Governor-General and the Lieutenant Governors have the right to be consulted by their ministers, and the right to  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.  -p.  -q
 
-g226 GRO -- The growth of the gospel tradition. -- [S.l., s.n.], 2007. -- [www](https://drive.google.com).
+226 GRO -- The growth of the gospel tradition. -- [S.l., s.n.], 2007. -- [www](https://drive.google.com).
 
 813 COL -- The hunger games / [by] Suzanne Collins. -- New York : Scholastic Press, c2008. -- 374 p. -- DBID 3200. -- ISBN 9780439023481
 > So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market... I avoid discussing tricky topics.  -p. 6 -q
 
-w025.06 KHA -- The Khan academy / [by Salman Khan]. -- [Menlo Park, CA] : Salman Khan, 2004- . [www](http://www.khanacademy.org/).
+025.06 KHA -- The Khan academy / [by Salman Khan]. -- [Menlo Park, CA] : Salman Khan, 2004- . [www](http://www.khanacademy.org/).
 
 977.4 MOS -- The Moscow story. -- [S.l : s.n., n.d.] -- 18 p. -- DBID 1651
 
@@ -2041,7 +2041,7 @@ w025.06 KHA -- The Khan academy / [by Salman Khan]. -- [Menlo Park, CA] : Salman
 178 PIE -- Choosing simplicity / Linda Pierce. -- [S.n., n.d.] -- v.
 > Read 2012-11
 
-w922 THA -- The Downing Street years / Margaret Thatcher. -- HarperPerennial, c1995, c1993. -- [www](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- Available to Ipswich Public Library card holders.
+922 THA -- The Downing Street years / Margaret Thatcher. -- HarperPerennial, c1995, c1993. -- [www](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C). -- Available to Ipswich Public Library card holders.
 > Read 2012-11. -r -- (As Arthur Shenfield put it, the difference between the public and private sectors was that the private sector was controlled by government, and the public sector wasn't controlled by anyone.) - -q -- I was always asked how it felt to be a woman prime minister. I would reply: 'I don't know: I've never experienced the alternative.' -q -- The desire to win is born in most of us. The will to win is a matter of training. The manner of winning is a matter of honour. -q -- The Privy Council is one of the oldest of Britain's political institutions, with the most important of the Crown's advisers among its members, including by convention all Cabinet ministers. Its meetings — usually of a few ministers in the presence of the Queen — are now purely formal, but the oath taken by new members reinforces the obligation of secrecy in conducting government business, and the issue of 'Orders in Council' is still an important procedure for enacting the legislation not requiring the approval of Parliament. -q -- ... 'orderly management of decline' -q -- They were as appalled as I was, and retreated into their shells. -q -- It was impossible not to like Jimmy Carter. He was a deeply committed Christian and a man of obvious sincerity. -q -- President Giscard d'Estaing was never someone to whom I warmed. I had the strong impression that the feeling was mutual. -q -- ... the root of Britain's industrial problem was low productivity. -q -- We knew that we could do this only by controlling those things which government could control — namely the money supply and public borrowing. -q -- ... would only influence expectations -q -- Retreat as a tactic is sometimes necessary; retreat as a settled policy eats at the soul. -q -- .. did not know enough about the steel industry to become involved in the negotiations though, of course, I was keen to hear their views. -q -- Closure would have some awful consequences, but we must never give the impression that it was unthinkable. -q -- But this did not escape from the fact that extra public spending — whatever it was spent on — had to come from somewhere. And 'somewhere' meant either taxes levied on private individuals and industry; or borrowing, pushing up interest rates; or printing money, setting off inflation. -q -- I thrive on honest argument. I am interested in practical options. -q -- I offended on many counts. -q -- Personal incomes had been increasing while company profits had been shrinking, so it was clear that any extra taxation should be borne by the personal rather than the corporate sector. -q -- I do not greatly care what people say about me: I do greatly care what people think about our country. -q -- ... the Government found itself dragged into a crisis we had neither sought nor predicted. -q -- What was clearly lacking was a sense of pride and personal responsibility -q -- The fact that the Left howled disapproval confirmed that he was just the right man for the job. He was someone they feared. -q -- The 'wets' had been defeated, but they did not yet fully realize it... -q -- .. poisonous legacy of socialism — nationalization, trade union power, a deeply rooted anti-enterprise culture. -q -- Later I discovered how important the wives of leading Arab figures are. Indeed, many of these women are highly cultivated, very well educated and well informed. Their influence is greatly underrated in the West... -q -- ... Ronald Reagan, with his effortless amiability... -q -- To me consensus seems to be: the process of abandoning all beliefs, principles, values and policies in search of something in which no one believes, but to which no one objects; the process of avoiding the very issues that have to be solved, merely because you cannot get agreement on the way ahead. What great cause would have been fought and won under the banner 'I stand for consensus'... -q -- But when you are at war you cannot allow the difficulties to dominate your thinking: you have to set out... -q -- with an iron will to overcome them. -q -- old style Tory: a country gentleman and a soldier, a good tactician, but no strategist. He is a proud pragmatist and an enemy of ideology; the sort of man of whom people used to say that he would be 'just right in a crisis'...  -q -- As Frederick the Great once remarked, 'diplomacy without arms is like music without instruments. -q -- I knew that the only reason the Argentinians were prepared to negotiate at all was because they feared our task force. -q -- Our task was not to make grand plans for technological innovation but rather to see how public opinion could be influenced in order to embrace not recoil from it. -q -- ... as a passionate advocate of free enterprise capitalism I was convinced that, given the right framework of laws and an appropriately educated workforce, it could widen choice, generate wealth and jobs and improve the quality of people's lives. -q -- When I am making a big decision, I always prefer to sleep on it. -q -- Home Secretaries never do have an easy time; it is sometimes said that they possess a unique combination of responsibility without power... -q -- ... they become touchy and uncertain about their standing; and all this makes them vulnerable. -q -- It seemed to me that what happened there contained important lessons which we should heed. First, it is unwise to intervene in such situations unless you have a clear, agreed objective and are prepared and able to commit the means to secure it. Second, there is no point in indulging in retaliatory action which changes nothing on the ground. Third, one must avoid taking on a major regional power, like Syria, unless one is prepared to face up to the full consequences of doing so. -q
 
 262 THA -- The Vatican diaries / John Thavis. -- Viking, c2013. -- 321 p. -- ISBN 9780670026715.
@@ -2052,7 +2052,7 @@ Priestly 2. 7th - 6th BCE 3. Worked in Jerusalem F. Redactist 1. Editor 2. After
 
 641 THE -- 15 healthy and cheap 5-minute dinners / Myscha Theriault. -- [S.n., n.d.]. -- on external hard drive. -- File name: 3253.txt.
 
-g025.3 TIL -- What is FRBR? / Barbara Tillett. -- [Washington, DC] : Library of Congress, 2003. -- www.
+025.3 TIL -- What is FRBR? / Barbara Tillett. -- [Washington, DC] : Library of Congress, 2003. -- [www](http://drive.google.com).
 
 781.67 TIN -- Calling All Dawns: A Song Cycle / Christopher Tin. -- S.l.: Tin Works Pub, 2009. -- on 1 external hard drive. -- Title from Compact Disc.
 
@@ -2070,7 +2070,7 @@ k347 TOB -- The nine / Jeffrey Toobin. -- Anchor Books, c2007. -- [www](https://
 
 910 TRE -- The grand tour / Geoffrey Trease. -- The Odyssey press, 2017. -- [www](https://read.amazon.com). -- AISN B06XKQ49Y4.
 
-g321 TUD -- The ceremony of the Introduction of Bishops to the House of Lords / Philippa Tudor. -- [S.n., 2002]. -- www. -- IN Parliamentary History, Vol. 221.
+321 TUD -- The ceremony of the Introduction of Bishops to the House of Lords / Philippa Tudor. -- [S.n., 2002]. -- www. -- IN Parliamentary History, Vol. 221.
 
 779.4 TYL -- [Photograph of a painting by Colleen Tyler / taken by Colleen Tyler.] -- 200-? -- on 1 external hard drive. -- File name: (8821.jpg) -- DBID 8821
 
@@ -2200,7 +2200,7 @@ g321 TUD -- The ceremony of the Introduction of Bishops to the House of Lords / 
 813 UNK -- The Unknown man. -- [S.n., n.d.] -- v.
 > Read 2017-08. Grade C. -r
 
-g027 LCM -- Using the Library of Congress : MARVEL gopher. -- [S.l. : s.n., n.d.] -- [S.n., n.d.] -- www.
+027 LCM -- Using the Library of Congress : MARVEL gopher. -- [S.l. : s.n., n.d.] -- [S.n., n.d.] -- [www](http://drive.google.com).
 
 305 VAN -- Hillbilly elegy / J.D. Vance. -- Harper, 2016 -- v.
 > As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201 -- It’s about a culture that increasingly encourages social decay instead of counteracting it. -location 228 -- upward mobility fell off in the 1970s and never really recovered, -location 241 -- At Mamaw Blanton’s, we’d eat scrambled eggs, ham, fried potatoes, and biscuits for breakfast; fried bologna sandwiches for lunch; and soup beans and cornbread for dinner. -location 357 -- Appalachian hills and single-room, K–12 schoolhouses don’t tend to foster big dreams. -location 422 -- Appalachian Odyssey -location 526 -- Hillbilly culture at the time (and maybe now) blended a robust sense of honor, devotion to family, and bizarre sexism into a sometimes explosive mix. -location 639 -- The never-ending conflict took its toll. Even thinking about it today makes me nervous. My heart begins to race, and my stomach leaps into my throat. When I was very young, all I wanted to do was get away from it—to hide from the fighting, go to Mamaw’s, or disappear. I couldn’t hide from it, because it was all around me. -location 1076 -- Mom would officially retain custody, but from that day forward I lived in her house only when I chose to—and Mamaw told me that if Mom had a problem with the arrangement, she could talk to the barrel of Mamaw’s gun. This was hillbilly justice, and it didn’t fail me. -location 1141 -- And unless you’re a particularly capable sociopath, dishonesty can only take you so far. -location 1173 -- We drove home in silence after Mamaw explained that if Mom lost her temper again, Mamaw would shoot her in the face. -location 1223 -- The theology she taught was unsophisticated, but it provided a message I needed to hear. To coast through life was to squander my God-given talent, so I had to work hard. I had to take care of my family because Christian duty demanded it. I needed to forgive, not just for my mother’s sake but for my own. I should never despair, for God had a plan. -location 1240 -- The road to hell, however, is paved with good intentions. -location 1284 -- In this, Dad embodied a phenomenon social scientists have observed for decades: Religious folks are much happier. Regular church attendees commit fewer crimes, are in better health, live longer, make more money, drop out of high school less frequently, and finish college more frequently than those who don’t attend church at all.16 -location 1326 -- In the middle of the Bible Belt, active church attendance is actually quite low. -location 1334 -- She said, "Don’t be a fucking idiot, how would you know that you’re gay?" -location 1398 -- And even if you did want to suck dicks, that would be okay. God would still love you." That settled the matter. -location 1401 -- "I never had a dad," I explained. "But Papaw was always there for me, and he taught me the things that men needed to know." Then I spoke the sum of his influence on my life: "He was the best dad that anyone could ever ask for." -location 1526 -- unable to follow the basic norms of adult behavior. -location 1584 -- There were three rules in her house: Get good grades, get a job, and "get off your ass and help me." -location 1823 -- The Truly Disadvantaged, -location 1973 -- Losing Ground, -location 1981 -- we’re parents. Our kids perform poorly in school. We might get angry with them, but we never give them the tools—like peace and quiet at home—to succeed. -location 2016 -- These are the lies we tell ourselves to solve the cognitive dissonance—the broken connection -location 2023 -- between the world we see and the values we preach. -location 2024 -- Not all of the white working class struggles. I knew even as a child that there were two separate sets of mores and social pressures. My grandparents embodied one type: old-fashioned, quietly faithful, self-reliant, hardworking. My mother and, increasingly, the entire neighborhood embodied another: consumerist, isolated, angry, distrustful. -location 2033 -- Thanks to Mamaw, I never saw only the worst of what our community offered, and I believe that saved me. There was always a safe place and a loving embrace if ever I needed -location 2043 -- "resilient children"—kids who prosper despite an unstable home because they have the social support of a loving adult. -location 2054 -- The Marine Corps assumes maximum ignorance from its enlisted folks. -location 2371 -- The Marine Corps demanded that I think strategically about these decisions, and then it taught me how to do so. -location 2382 -- whenever people ask me what I’d most like to change about the white working class, I say, "The feeling that our choices don’t matter." -location 2414 -- family matriarch: She put out the fires, hosted family gatherings, and kept us all from breaking apart. -location 2542 -- "adverse childhood experiences," -location 3026 -- classic fight-or-flight response -location 3049 -- The things I wanted most in the entire world—a happy partner and a happy home—required constant mental focus. -location 3094 -- being a hillbilly meant sometimes not knowing the difference between love and war. -location 3139 -- problems of family, faith, and culture -location 3190 -- "I think you have to have good role models around you. -location 3204 -- I’ve learned that the very traits that enabled my survival during childhood inhibit my success as an adult. -location 3293 -- whether he can access a church that teaches him lessons of Christian love, family, and purpose; -location 3392
@@ -2223,7 +2223,7 @@ g027 LCM -- Using the Library of Congress : MARVEL gopher. -- [S.l. : s.n., n.d.
 813 WEA -- Memory boy / Will Weaver. -- [S.n., n.d.] -- v.
 > Read 2013-04. Grade C. -r
 
-g813 WEI -- Soulforge / Margaret Weis. -- TSR, c1998. -- www.
+813 WEI -- Soulforge / Margaret Weis. -- TSR, c1998. -- [www](http://drive.google.com).
 > Read 2010-11 and 2013-12. Grade B. -r
 
 823 WEI -- The time machine / H.G. Well -- [S.n., n.d.] -- v.
@@ -2261,7 +2261,7 @@ g813 WEI -- Soulforge / Margaret Weis. -- TSR, c1998. -- www.
 
 k299.5 DEN  -- 365 Tao / Ming Dao Deng. -- [s.l.], 1992. -- [www](https://read.amazon.com/?asin=B00CREFHDM). -- Title from amazon.com viewed Mon 06/28/2021.
 
-w650 TWE-- 12 outstanding personality traits of a great boss. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.officevibe.com/blog/infographic-great-boss). -- Title from homepage viewed Mon 06/28/2021.
+650 TWE-- 12 outstanding personality traits of a great boss. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.officevibe.com/blog/infographic-great-boss). -- Title from homepage viewed Mon 06/28/2021.
 
 152 TWE -- 12 rituals happy, successfull people practice every day. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day). -- Title from homepage viewed Mon 06/28/2021.
 
@@ -2275,7 +2275,7 @@ w650 TWE-- 12 outstanding personality traits of a great boss. -- [s.l., n.d.] --
 
 006 TEN-- 10 Simple CSS Code Examples You Can Learn in 10 Minutes. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](https://www.makeuseof.com/tag/simple-css-code-examples/). -- Title from homepage viewed Tue 06/29/2021.
 
-w.  -- The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021.
+.  -- The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- Mode of Access: [World Wide Web](http://pages.suddenlink.net/uufoa/index.htm). -- Title from homepage viewed Tue 06/29/2021.
 
 813 DEL -- Well of Furies / Craig DeLancey. -- [S.l.], 2014. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=). -- Title from amazon.com viewed Thu 07/01/2021.
 > Read 2020-12. Grade C. -r
@@ -2348,7 +2348,7 @@ w.  -- The Unitarian Universalist Fellowship of Alexandria. -- [s.l., n.d.] -- M
 813 WIL -- Any job will do / John Wilker. -- [S.n., n.d.] -- v.
 > Read 2021-09. Grade D. -r
 
-w005 EPU  -- EPUB to PDF converter. -- go4convert.com, c2021. -- Mode of Access: [World Wide Web](https://go4convert.com/ebook-to-pdf).
+005 EPU  -- EPUB to PDF converter. -- go4convert.com, c2021. -- Mode of Access: [World Wide Web](https://go4convert.com/ebook-to-pdf).
 
 
 k327 FON -- The second founding / Eric Foner. -- [S.n., n.d.] -- [www](https://read.amazon.com/).
@@ -2431,7 +2431,7 @@ k811 WEL -- Admire the Moon: Meditations / Mary Wellemeyer -- Skinner House Book
 
 k813 LON -- Adventure / Jack London -- Kypros Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01708ZV9E).
 
-k  -- Adventures of a Trail Stooge / Chris Quinn -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B011SMMIIA).
+k917 QUI -- Adventures of a Trail Stooge / Chris Quinn -- [S.n., 2015.] -- [www](https://read.amazon.com/?asin=B011SMMIIA).
 
 k813 SIV -- Aetheric Elements: The Rise of a Steampunk Reality / Travis I Sivart. -- Talk of the Tavern Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00EBQD1RS).
 
@@ -3911,20 +3911,20 @@ k813 Kep -- Wysard: Part One of The Ryel Saga / Carolyn Kephart -- Samarkand Pre
 
 k813 Pla -- Yesterday's Gone: Season One / Sean ,  Wright, David Platt -- Collective Inkwell, [n.d.] -- [www](https://read.amazon.com/?asin=B005REXCKE).
 
-g370 ZAK -- In defense of a liberal education / Fareed Zakaria. -- W.W. Norton & Company, c2015. -- www.
+370 ZAK -- In defense of a liberal education / Fareed Zakaria. -- W.W. Norton & Company, c2015. -- [www](http://drive.google.com).
 
-g523 TYS -- Origins : fourteen billion years of cosmic evolution / Neil deGrasse Tyson and Donald Goldsmith. -- W.W. Norton & Company, 2004. -- www.
+523 TYS -- Origins : fourteen billion years of cosmic evolution / Neil deGrasse Tyson and Donald Goldsmith. -- W.W. Norton & Company, 2004. -- [www](http://drive.google.com).
 
-g813 REY -- Revelation space / Alastair Reynolds. -- [S.n.], c2000. -- [www]
+813 REY -- Revelation space / Alastair Reynolds. -- [S.n.], c2000. -- [www](http://drive.google.com).
 
-g576 BRA -- The ends of the world : volcanic apocalypsis, lethal oceans, and our quest to understand Earth's past mass extinctions / Peter Brannen. -- HarperCollins, c2017. -- www.
+576 BRA -- The ends of the world : volcanic apocalypsis, lethal oceans, and our quest to understand Earth's past mass extinctions / Peter Brannen. -- HarperCollins, c2017. --[www](http://drive.google.com).
 > After a 4-billion-year prologue that started in fire and ended in Snowball Earth, the pageant of animal life had begun -- Like the Cambrian burrowers [500 million years ago] that reshaped the microbial mat world to their own ends, humans have converted half the planet’s land surface to farmland... So I just think, here’s an example from the past when an ecological crisis happened because of ecosystem engineering -- goateed, mildly autistic, middle-aged, midwestern American males that haunt stateside geology conferences -- ancestor of ours, perhaps the unimpressive 2-inch, lancelet-like Metaspriggina -- the earth was a desolate wasteland for 90 percent of its history -- Currently the carbon dioxide concentration in the atmosphere hovers at around 400 parts per million (ppm). -q -- 
 
-g923 WOO -- Fear: Trump in the White House / Bob Woodward. -- Simon & Schuster, c2018. -- www.
+923 WOO -- Fear: Trump in the White House / Bob Woodward. -- Simon & Schuster, c2018. -- [www](http://drive.google.com).
 
-g303 ODE -- How to do nothing : resisting the attention economy / Jenny Odell. -- Melville House, c2019. -- www.
+303 ODE -- How to do nothing : resisting the attention economy / Jenny Odell. -- Melville House, c2019. -- [www](http://drive.google.com).
 
-g576 MES -- A brief history of creation: science and the search for the origin of life / Bill Mesler and H. James Cleaves II. -- W.W. Norton Company, c2016. -- www.
+576 MES -- A brief history of creation: science and the search for the origin of life / Bill Mesler and H. James Cleaves II. -- W.W. Norton Company, c2016. -- [www](http://drive.google.com).
 
 k813 Bri -- Z-Minus: The Zombie Apocalypse Series / Perrin Briar -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00QVHRMQG).
 
@@ -3948,23 +3948,23 @@ k813 GRE -- The greatest christmas stories of all time / by Charles Dickens, Bea
 
 k813 BOY -- The adventures of Kirk Rogers inside the moon / by C.J. Boyle. -- Createspace, 2017. -- [www](https://read.amazon.com/?asin=B08X6RMXBH). 
 
-w025 DIL -- Assessing information on the internet / Martin Dillon [et.al.] -- ERIC, 1993. -- [www](http://files.eric.ed.gov/fulltext/ED354906.pdf). 
+025 DIL -- Assessing information on the internet / Martin Dillon [et.al.] -- ERIC, 1993. -- [www](http://files.eric.ed.gov/fulltext/ED354906.pdf). 
 
-g321 STR -- Union now : a proposal for a federal union of the democracies of the north Atlantic / by Clarence K. Streit. -- London : Jonathan Cape, 1940. -- [www](https://drive.google.com). 
+321 STR -- Union now : a proposal for a federal union of the democracies of the north Atlantic / by Clarence K. Streit. -- London : Jonathan Cape, 1940. -- [www](https://drive.google.com). 
  
-g930 CLI -- 1177 B.C.: the year civilization collapsed / Eric H. Cline. -- Princeton University Press, c2014. -- [www](https://drive.google.com). 
+930 CLI -- 1177 B.C.: the year civilization collapsed / Eric H. Cline. -- Princeton University Press, c2014. -- [www](https://drive.google.com). 
  
-g941 AND -- Game of crowns : Elizabeth, Camilla, Kate, and the throne / Christopher Anderson. -- Gallery Books, c2016. -- [www](https://drive.google.com).
+941 AND -- Game of crowns : Elizabeth, Camilla, Kate, and the throne / Christopher Anderson. -- Gallery Books, c2016. -- [www](https://drive.google.com).
  
-g941 DEV -- Wait for me! / Deborah Devonshire. -- John Murray, 2010. -- [www](https://drive.google.com). 
+941 DEV -- Wait for me! / Deborah Devonshire. -- John Murray, 2010. -- [www](https://drive.google.com). 
  
-g005 BAC -- Batchography / Elias Bachaalany. -- PassingTheKnowledge, c2016. -- [www](https://drive.google.com).
+005 BAC -- Batchography / Elias Bachaalany. -- PassingTheKnowledge, c2016. -- [www](https://drive.google.com).
  
 The golden dawn / Israel Regardie, revised and corrected by John Michael Greer. Preface by Chic Cicero and Sandra Tabatha Cicero. -- Llewellyn, 2015. -- [www](https://drive.google.com). 
  
-g525 GRI -- Alone in the universe / John Gribbin. -- Wiley, c2011. -- [www](https://drive.google.com). 
+525 GRI -- Alone in the universe / John Gribbin. -- Wiley, c2011. -- [www](https://drive.google.com). 
 
-w001 ONE -- 1 MB club. [S.n., n.d.] -- [www](https://1mb.club/).
+001 ONE -- 1 MB club. [S.n., n.d.] -- [www](https://1mb.club/).
 
 019 CAT -- Catalogue of the Mercantile Library of Boston. -- John Wilson and Son, 1854.-- [www](https://archive.org/details/supplementtocat01massgoo).
 > Good example of a Cutter's, "short-title" type of library catalog. -r
