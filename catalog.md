@@ -3739,7 +3739,7 @@ k813 Hen -- The Turnarounders and the Arbuckle Rescue / Lou Heneghan -- Natus Pu
 
 k813 Mor -- The Underworld King / Ranjit More -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00H8CZD50).
 
-k Fre  -- The Unitarian Universalist Pocket Guide: Sixth Edition / Susan ,  Harris-Perry, Melissa Frederick-Gray -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B07TDMS5Z2).
+k Fre  -- The Unitarian Universalist Pocket Guide: Sixth Edition / Susan Frederick-Gray, Melissas Harris-Perry -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B07TDMS5Z2).
 
 k342 Sta -- The United States Constitution / United States -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004TPCQWC).
 
@@ -3863,11 +3863,11 @@ k891 Tol -- War and Peace: With bonus material from Give War and Peace A Chance 
 
 k813 Jam -- Washington Square / Henry James -- Open Road Media, [n.d.] -- [www](https://read.amazon.com/?asin=B01IX22VE4).
 
-k4 Sue -- Websites that Convert: The fundamentals of writing compelling website copy / Claire Suellentrop -- LoveYourCustomers.co, [n.d.] -- [www](https://read.amazon.com/?asin=B06Y3L3W84).
+k004 Sue -- Websites that Convert: The fundamentals of writing compelling website copy / Claire Suellentrop -- LoveYourCustomers.co, [n.d.] -- [www](https://read.amazon.com/?asin=B06Y3L3W84).
 
 k813 Smi -- WEIRD. DARK. - Tales From The Outer Limits of The Twilight Zone / Luke Smitherd -- Flying Body Press, [n.d.] -- [www](https://read.amazon.com/?asin=B0153JRFZK).
 
-k289 Fre -- Welcome: A Unitarian Universalist Primer / Patricia Frevert -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004OEKCVK).
+k289 Fre -- Welcome: A Unitarian Universalist Primer / Patricia Frevert -- Skinner House Books, 2019. -- [www](https://read.amazon.com/?asin=B004OEKCVK).
 
 k813 DeL -- Well of Furies / n DeLancey. -- [S.n.d.] -- [www](https://read.amazon.com/).
 
@@ -3897,11 +3897,7 @@ k813 Goo -- Wizard's First Rule / Terry Goodkind -- RosettaBooks, [n.d.] -- [www
 
 k813 How -- Wool - Part One / Hugh Howey -- Broad Reach, [n.d.] -- [www](https://read.amazon.com/?asin=B005FC52L0).
 
-k  .   -- Words = palabras. / [n  . -- St. Martin's Press : Priddy Booksd.] -- [www](https://read.amazon.com/).
-
-k Ann  -- Work with me: the 8 blind spots between men and women in business / Barbara ,  Gray, John Annis -- Palgrave Macmillan, [n.d.] -- [www](https://read.amazon.com/).
-
-k910 The -- World Heritage / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01BK5NO7E).
+k910 The -- World Heritage. -- The Open University, [n.d.] -- [www](https://read.amazon.com/?asin=B01BK5NO7E).
 
 k813 Chr -- Wreath, a Girl / Judy Christie -- Brosette & Barnhill Publishing LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00VMPS2RA).
 
@@ -3971,3 +3967,6 @@ The golden dawn / Israel Regardie, revised and corrected by John Michael Greer. 
 
 813 LET -- The arrest / Jonathan Lethem. -- Ecco, c2020. -- [www](https://read.amazon.com/?asin=B084VRV91Y).
 > Read 2021-12. Grade E. -r
+
+188 IRV -- The stoic challenge / William B. Irving. -- W.W. Norton & Company, 2019. -- [www](https://read.amazon.com/?asin=B07P9DC6TY).
+> Read 2021-12. Grade C. -r -- I reflected on what a bunch of spoiled brats we twenty-first-century humans are. -q -- ... setbacks can be contagious, much as diseases are. -q -- One sign of maturity is a realization of the extent to which you, either intentionally or unintentionally, make life difficult for those around you. -q -- .. people who have demonstrated the ability to rise, quietly and bravely, to the challenges presented by significant setbacks. -q -- “We cannot always control what happens in our life . . . , but we can always control what we do with what happens.” - Alison Botha -q -q -- For everything I do, there will be a last time I do it. You might think these are dark and depressing thoughts, but they can have just the opposite effect. They can help us transform our ability to speak from something we take completely for granted into what it in fact is—something remarkable and precious. -q -- When the number of options available is limited, it is foolish to fuss and fret. We should instead simply choose the best of them and get on with life. To behave otherwise is to waste precious time and energy. -q -- “Keep calm and carry on.” -q -- The politicians’ message: “Bad and stupid people have set you back. Vote for me, and I will make things right.” -q -- ... referring to them not as targets of injustice but as its victims. -q -- negative visualization: imagining ways in which our lives could be worse. -f -- Besides the obvious challenge of finding a workaround for a setback, we face a second challenge: preventing ourselves from experiencing negative emotions in the aftermath of that setback. -q -- Stoics recommend that when we experience a setback, we make a point of consciously framing it as a kind of test... If you remain calm and collected, you will be worthy of, say, a B. If your goal is to get an A or even an A+ on the exam, though, you will have to do more than remain calm; you will have to welcome the setback and even perk up a bit on its appearance. -q -- Because I have read his works, Seneca haunts my intellect, occasionally offering me a compliment but much more often raising his ghostly eyebrows at me in a look of dismay. -q -- “I would argue, from a cultural point of view, it’s more important to praise the people for the nine times they fail than for the one time they succeed.” - Severin Schwan, CEO of Roche Holding AG -q -- Negative visualization involves thinking about how things could be worse; toughness training involves causing things to be worse. -q -- It might then dawn on you that what you previously thought of as hunger wasn’t biological hunger at all; it was instead a psychological mélange of boredom and discontent. -q -- ... be sure to notice the sky: it didn’t have to be blue, but it is, and isn’t that wonderful? -q -- His [a stoics] primary goal in life is to attain and then maintain tranquilityAnother central principle of Stoicism is that we should be socially useful -q
