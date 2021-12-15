@@ -1,9 +1,9 @@
 
 813 WEI. -- Dragons of summer flame / Margaret Weis and Tracy Hickman. -- TSR, Inc., 1995, 2001. -- on external hard drive. -- File Name: 8840.txt.
 
-005 PYT. -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- [www.](https://drive.google.com).
+005 PYT -- DataCamp. -- Python basics cheat sheet. -- [S.n, 200?]. -- [www.](https://drive.google.com).
 
-091 TYL. [Photographs of the back field at the George and Cherie Thompson estate with Justin and Colleen / Justin Lee Tyler -- Aug. 24, 2013] -- on 1 external hard drive. -- DBID 3292.
+091 TYL -- [Photographs of the back field at the George and Cherie Thompson estate with Justin and Colleen / Justin Lee Tyler -- Aug. 24, 2013] -- on 1 external hard drive. -- DBID 3292.
 
 781 INS -- No strings attached / -NSYNC. - -[S.l.], 2000. -- on 1 external hard drive. 
 
@@ -12,50 +12,50 @@
 
 005 REG -- Appendix B. regular expression reference. -- [s.n., n.d.] -- [www](http://drive.google.com).
 
-178 TWE. -- [21 simple actions towards a simpler life]. -- [S.n., 2012?]. -- www.
+178 TWE -- [21 simple actions towards a simpler life]. -- [S.n., 2012?]. -- www.
 > 1 Perform a cluttee bust -- 2 Practice gratitude -- 3 Rearrange your living room (to encourage lingering conversations, nights spent reading books and listening to music) -- 4 Add indoor plants -- 5 Keep your dinning table surface clear -- 6 use the 'good' tableware and glasses daily -- 7 Create white spaces (allows you to highlight beauty and meaning) -- 8 Prepare yourself in the morning -- 9 Find storage for your kitchen appliances -- 10 Create secondary storage for pantry items -- 11 Meal Plan -- 12 Make your bed each and every day -- 13 Start an exit drawer (where you store everything that needs to leave your house when you do) -- 14 Start a donate box -- 15 Check your mindset (Write down/consider your goals, your stengeths and weaknesses, check your answers, get to it -- 16 Get your finances in order -- 17 Be accountable by recording your simplifying effords -- 18 Declutter your wardrobe -- 19 Daily meditation -- 20 Start with acceptance -- 21 Unplug "You need time to think, time to dream, time to talk and time to do nothing at all"  -- Meditation brings perspective, it brings calm, it brings peace and leaves you feeling grounded and well-prepared for the day. -q -- Steps to meditiation: Take a deep breath, close your eyes, and think of your five senses. Immerse yourself in your immediate surroundings; be present in the moment. -o
 
-091 TYL. -- [2007 taxes] / Justin Lee Tyler. -- 2007. -- on 1 external hard drive. -- File Directory: 3219. -- DBID 3219.
+091 TYL -- [2007 taxes] / Justin Lee Tyler. -- 2007. -- on 1 external hard drive. -- File Directory: 3219. -- DBID 3219.
 
-091 TYL. -- [2008 taxes] / Justin Lee Tyler. -- 2008. -- on 1 external hard drive. -- File Directory: 3220. -- DBID 3220.
+091 TYL -- [2008 taxes] / Justin Lee Tyler. -- 2008. -- on 1 external hard drive. -- File Directory: 3220. -- DBID 3220.
 
-091 TYL. -- [2009 taxes] / Justin Lee Tyler. -- 2009. -- on 1 external hard drive. -- File Directory: 3221. -- DBID 3221.
+091 TYL -- [2009 taxes] / Justin Lee Tyler. -- 2009. -- on 1 external hard drive. -- File Directory: 3221. -- DBID 3221.
 
-091 TYL. -- [2012 taxes] / Justin Lee Tyler. -- on 1 external hard drive. -- File Directory: 3261. -- DBID 3221.
+091 TYL -- [2012 taxes] / Justin Lee Tyler. -- on 1 external hard drive. -- File Directory: 3261. -- DBID 3221.
 
-091 TYL. -- [2016 taxes] / Justin Lee Tyler. -- on 1 external hard drive. -- File Directory: 3359. -- DBID 3359.
+091 TYL -- [2016 taxes] / Justin Lee Tyler. -- on 1 external hard drive. -- File Directory: 3359. -- DBID 3359.
 
-150 WIN. -- 29 scientifically proven ways to be happy this year / Sarah Winfrey. -- wisebread.com, 2014. -- [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).
+150 WIN -- 29 scientifically proven ways to be happy this year / Sarah Winfrey. -- wisebread.com, 2014. -- [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).
 > Work with your hands -- Practice 'taking in the good' -- Help others -- Stop caring about what others think. -- Let go of perfection -- Become calm -- Hold the small things -- Guzzle H20 -- Disconnect -- Fake it 'til you make it (smile). -- Embrace the great outdoors. -- Stop whining -- Hold your tongue -- Use your time well -- Get your sweat on (excercise) -- Leave blame behind -- Get the sleep you need -- Talk it up (vocalize your gratefulness) -- Engage in Aid -- Reach out -- Don't fear failure -- See yourself different -- Pay attention -- Find a new mantra -- Don't eat alone -- Get creative -- Dream about getting away. -o
 
-813 COL. -- The wolf worlds / Allan Cole and Chris Bunch. -- Ballantine Books, c1984. -- 298 p. -- ISBN 0345312295.
+813 COL -- The wolf worlds / Allan Cole and Chris Bunch. -- Ballantine Books, c1984. -- 298 p. -- ISBN 0345312295.
 > 3. Sten encounters the natives who challenge him to a fight. Sten wins.  
 
-813 COL. -- 3:53 am : Book 1 / Nocomus Columbus. -- S.n., 2014. -- AISN B00C3341BG.
+813 COL -- 3:53 am : Book 1 / Nocomus Columbus. -- S.n., 2014. -- AISN B00C3341BG.
 
-155 FIV. -- 5 tactics for relieving work-related stress. -- [S.n., n.d.]. -- File name: 3252.txt
+155 FIV -- 5 tactics for relieving work-related stress. -- [S.n., n.d.]. -- File name: 3252.txt
 
-973 FIF. -- 50 core American documents. -- Ashbrook Press, 2014. -- [www](https://read.amazon.com/) -- AISN B00IA6R7CK.
+973 FIF -- 50 core American documents. -- Ashbrook Press, 2014. -- [www](https://read.amazon.com/) -- AISN B00IA6R7CK.
 
-025.3 MIN. -- A manual of AARC2 level 1 examples / compiled by the Minnesota AACR2 Trainers ; edited by Marilyn H. McClaskey and Edward Swanson. -- v, 32 p. -- ISBN 9780936996035
+025.3 MIN -- A manual of AARC2 level 1 examples / compiled by the Minnesota AACR2 Trainers ; edited by Marilyn H. McClaskey and Edward Swanson. -- v, 32 p. -- ISBN 9780936996035
 
-781.67 ACH. -- The nine worlds / Achillea. -- BSC Music GmbH, c2005. -- on 1 external hard drive. -- Title from Compact Disc.
+781.67 ACH -- The nine worlds / Achillea. -- BSC Music GmbH, c2005. -- on 1 external hard drive. -- Title from Compact Disc.
 
-781.67 ACK.  -- Sound of wind driven rain / Will Ackerman. -- New York, NY : Winham Hill records, c1998. -- on 1 external hard drive. -- Title from compact disc.
+781.67 ACK  -- Sound of wind driven rain / Will Ackerman. -- New York, NY : Winham Hill records, c1998. -- on 1 external hard drive. -- Title from compact disc.
 
-813 ADA. -- The last survivors / Bobby Adair, T.W. Piperbrook. -- [S.n., n.d.] -- v.
+813 ADA -- The last survivors / Bobby Adair, T.W. Piperbrook. -- [S.n., n.d.] -- v.
 > Read 2015-05. Grade C. -r
 
-781.67 ADI. -- The Eternal Knot / Adiemas (Musical Group). -- Great Britain: Karl Jenkins Music Ltd, 2000. -- on 1 external hard drive. -- Title from Compact Disc.
+781.67 ADI -- The Eternal Knot / Adiemas (Musical Group). -- Great Britain: Karl Jenkins Music Ltd, 2000. -- on 1 external hard drive. -- Title from Compact Disc.
 
-781.67 ADI. -- Adiemus III: Dances of Time / Adiemas (Musical Group). -- Mississauga, Ont: Virgin Music Canada/Venture, 1998. -- on 1 external hard drive. -- Title from Compact Disc.
+781.67 ADI -- Adiemus III: Dances of Time / Adiemas (Musical Group). -- Mississauga, Ont: Virgin Music Canada/Venture, 1998. -- on 1 external hard drive. -- Title from Compact Disc.
 
-813 AKE. -- Haven / D.C Akers. -- [S.n.], 2013. -- [www](https://read.amazon.com). -- AISN B00CR4IR7A.
+813 AKE -- Haven / D.C Akers. -- [S.n.], 2013. -- [www](https://read.amazon.com). -- AISN B00CR4IR7A.
 
-289.1 ALE. -- Everyday spiritual practice / Scott W. Alexander. -- Skinner House, 2001. -- [www](https://read.amazon.com/?asin=B004Q7CI4E).
+289.1 ALE -- Everyday spiritual practice / Scott W. Alexander. -- Skinner House, 2001. -- [www](https://read.amazon.com/?asin=B004Q7CI4E).
 > On some days mere survival—without murdering spouse, children, or pets—seems downright miraculous. -q -- The whole point of the monastic life is to frame our world so that prayerfulness lies at the very center of the frame. -q -- ... poetic time [is] oriented toward process rather than productivity. -q -- walking meditation -f -- When an altar is used, it is regarded as a place of contact with the deity, set apart as holy. -q -- [An Altar is] a gathering place for my own sacred objects. -q -- East: the direction of spring, air, birth, and dawn  -- South: summer, fire, youth, midday -- West: autumn, water, adulthood, twilight -- North: winter, earth, old age, midnight. -f -- The only ways to mark the passage of time are the changes in light... -q -- ... reading, the holy lies not in the object, but in the activity and experience of the reader. -q -- A spiritual practice is any regular, intentional activity that serves to significantly deepen the quality and content of your relationship with the miracle of life. -q -- Nourishing Wisdom, Marc David writes, 'Be there when you eat. Achieve the fullest experience of your food. Taste it. Savor it. Pay attention to it. Rejoice in it.' Eating is a sacred act ... -q -- A prayer for food/grace: 'I am thankful for the health of my family, for the opportunity to be together in the spirit of love, and for the gift of food.' -q -- This atmosphere of celebration usually centered around the question, 'What new thing did you learn today?' -q -- Arguments and heated discussions were not acceptable at the dinner table.Read more at location 2011   -q -- Reclaiming mealtime is a spiritual discipline when we remember the depth of our own connections to others, to the earth and the elements that help us to grow, and to the divine spark within each of us that ignites around good company and is aflame through the presence of love that is also the substance or grace. -q -- The things that distinguish all spiritual practices: intentionality, patience, and a willingness to let go of what we want in favor of the gifts we are given. -q -- There are four aspects to partnering as spiritual practice: engagement, commitment, individuality, and honesty. -q -- The spiritual numbness of the dominating culture is at the heart of its violence. Overt acts of violence against one another and against the earth emerge from a more covert violence: the loss of our capacities to feel and think. This loss happens through the suppression of the senses, of desire and of feeling; through the exile of pain and grief; and through the silencing of human dependence on one another and the earth. Critical analysis alone will not disempower this culture, nor will it change its effects. We need to recover our abilities to think and feel. Anesthetization needs to end in our lives. -q -- ... a world that is to be stewarded, not abused. -q -- Richard Gregg is credited with coining the phrase voluntary simplicity. -q -- ... being aware of how things affect our spirits. -q -- Henry David Thoreau wrote, 'The price of anything is the amount of life you pay for it.' -q -- ...Eastern, intuitive approach and the Western, linear one... -q -- ... the 'Observer Self.". This is the part of our make-up that notices what is going on around and within us, that listens to the significant messages our bodies are sending at all times... the Observer Self is a basic aspect of human transformation... -q -- All of us have become dis-integrated and experienced the mind-body split. If re-integration is our goal, then the methods involved should include something physical as well as mental. To the extent that there is re-integration, there is healing, and he furthering of one's spiritual journey. -q -- ... in his A Brief History of Everything, philosopher Ken Wilber argues that many of our current difficulties can be traced to the Western world's failure to develope any 'truly contemplative practices.' -q
 
-297.272 ALI. -- Heretic / Ayaan Hirsi Ali. -- Harper, c2015. -- 272 p. -- ISBN 9780062333933.
+297.272 ALI -- Heretic / Ayaan Hirsi Ali. -- Harper, c2015. -- 272 p. -- ISBN 9780062333933.
 > 3 Muhammad and the Qur'an -- Until Islam can do what Judaism and Christianity have done - question, critique, interpret, and ltimately modernize its holy scripture - it cannot free Muslims of a host of anacharonistic and at times deadly beliefs and practices. -p. 90 -q -- Muslim Duties: 1 Have faith in the one God, Allah, and Muhammad, His Prophet; 2 Pray five times a day 3; Fast during the day for the entire nineth month of Ramadan; 4 Provide charity; 5 Make a pilgrimage to Mecca at least once in a lifetime, if possible. -p. 92-3 -s -- John Wansbrough, m, 21 c. Scholar who argued 'that Islam whas originally a Judeo-Christian sect.' -p. 95 -f -- Abu Hamid Muhammad ibn Muhammad al-Ghazali, m, 12th c. Imam who argued for fundamentalism in Islam. -p. 104 -q -- Mahmoud Muhammad Taha, m., 20th c. Argued that Islamic docrine is adaptable; that the peace pasages Mecca period be preferred over the earlier militant verson of the Medina period in the Qur'an. Excecuted in 1985 for apstasy. -p. 105 -q -- In the West, honor violence is all too often conflated with domestic iolence... whenever the apologists for honor violence say, 'It is our religion,' there must be an uncompromising reply: 'Murder - and above all infanticide - cannot be sanctioned by any religion, by any faith, by any God.' -p. 169 -q -- Abousamra worshipped at the same Cambridge mosque as the sarnaev brothers and five other high-profiled terrorists, amng them Afia Siddique... -p. 186 -q -- Yet any fair-minded assessment of recent events leads to he conclusion that the scale of severity of Islamophobia pales in comparison witht he Cristophobia evident in Muslim-majority nations from one end of the globe to the other. -p. 192 -p -- It was, after all, Lock who gave us the notion of a 'natural right' to the fundamentals of 'life, liberty, and property.' -p. 209 -q -- And religious toleration, howver long it took to tbe established in practice, is one of the greatest achivements of the Western world. -p. 209 -q -- The extremists are afraid of books and pens. The power of education frightens them. -Malala Yousafzai -p. 289 -q
 
 813 ALL -- City of the beasts / Isabel Allende; translated from the Spanish by Margaret Sayers Peden. -- HarperTrophy, c2002. -- 406, 15 p. -- ISBN 9780060535032.
