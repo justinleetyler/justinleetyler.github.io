@@ -2349,7 +2349,6 @@ k299.5 DEN  -- 365 Tao / Ming Dao Deng. -- [s.l.], 1992. -- [www](https://read.a
 
 005 EPU  -- EPUB to PDF converter. -- go4convert.com, c2021. -- Mode of Access: [World Wide Web](https://go4convert.com/ebook-to-pdf).
 
-
 327 FON -- The second founding / Eric Foner. -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
 813 ENG -- 2084 / Mason Engel -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06WVZW73J).
@@ -2360,1055 +2359,1019 @@ k299.5 DEN  -- 365 Tao / Ming Dao Deng. -- [s.l.], 1992. -- [www](https://read.a
 
 370 TEN -- 10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School / Harper Perennial -- Harper Perennial, [n.d.] -- [www](https://read.amazon.com/?asin=B00C4TK32U).
 
-  -- 10 steps to successful facilitation / [n  . -- ASTD Pressd.] -- [www](https://read.amazon.com/).
+790 MAS -- 100 RV Tips and Tricks / Malcom Mack Massey -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OR77EU6).
 
-  -- 100 RV Tips and Tricks / Malcom Mack Massey -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OR77EU6).
+813 MEA -- 20XX / Charles Mead -- Charles Mead, [n.d.] -- [www](https://read.amazon.com/?asin=B00ACLCXV6).
 
-k813 MEA -- 20XX / Charles Mead -- Charles Mead, [n.d.] -- [www](https://read.amazon.com/?asin=B00ACLCXV6).
+813 WRI -- 2389: A Space Horror Novel / Iain Rob Wright -- SalGad Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00UC6LJP2).
 
-k813 WRI -- 2389: A Space Horror Novel / Iain Rob Wright -- SalGad Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00UC6LJP2).
+910 LON -- 25 City Adventures for Families / [n Lonely Planet. -- Lonely Planetd.] -- [www](https://read.amazon.com/?asin=B01DOS5CR06).
 
-k910 LON -- 25 City Adventures for Families / [n Lonely Planet. -- Lonely Planetd.] -- [www](https://read.amazon.com/?asin=B01DOS5CR06).
+813 COL -- 3:53 a.m.: Book 1 / Nocomus Columbus -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00C3341BG).
 
-k813 COL -- 3:53 a.m.: Book 1 / Nocomus Columbus -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00C3341BG).
+793 PUZ -- 30 Interactive Brainteasers to Warm up your Brain / n Puzzleland. -- [S.n.d.] -- [www](https://read.amazon.com/?asin=B0121F21ZS).
 
-k793 PUZ -- 30 Interactive Brainteasers to Warm up your Brain / n Puzzleland. -- [S.n.d.] -- [www](https://read.amazon.com/?asin=B0121F21ZS).
+808 WRI -- 510 Creative Writing Prompts: For Aspiring and Experienced Writers / Jonathan Wright -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ZAYEV2E).
 
-k808 WRI -- 510 Creative Writing Prompts: For Aspiring and Experienced Writers / Jonathan Wright -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ZAYEV2E).
+818 BRI -- 99 Reasons to Hate Cats: Cartoons for Cat Lovers / Tom Briscoe -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0085HN8N6).
 
-k818 BRI -- 99 Reasons to Hate Cats: Cartoons for Cat Lovers / Tom Briscoe -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0085HN8N6).
+813 BUT -- A Bad Day to Die: The Adventures of Lucius “By God” Dodge, Texas Ranger / J Butts Lee. -- Beyond the Page, [n.d.] -- [www](https://read.amazon.com/?asin=B01H0HX340).
 
-k813 BUT -- A Bad Day to Die: The Adventures of Lucius “By God” Dodge, Texas Ranger / J Butts Lee. -- Beyond the Page, [n.d.] -- [www](https://read.amazon.com/?asin=B01H0HX340).
+915 ABT -- A Capitalist in North Korea: My Seven Years in the Hermit Kingdom / Felix Abt -- Tuttle Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00KVMIS24).
 
-k915 ABT -- A Capitalist in North Korea: My Seven Years in the Hermit Kingdom / Felix Abt -- Tuttle Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00KVMIS24).
+813 DIC -- A Christmas Carol / Charles Dickens -- Atria Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5SE1TG).
 
-k813 DIC -- A Christmas Carol / Charles Dickens -- Atria Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5SE1TG).
+949 DJU -- A Concise History of Romanians / Neagu Djuvara -- Cross Meridian, [n.d.] -- [www](https://read.amazon.com/?asin=B00PIYDH6W).
 
-k949 DJU -- A Concise History of Romanians / Neagu Djuvara -- Cross Meridian, [n.d.] -- [www](https://read.amazon.com/?asin=B00PIYDH6W).
+973 DAW -- A Confederate Girl's Diary / Sarah Morgan Dawson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004TQ136Q).
 
-k973 DAW -- A Confederate Girl's Diary / Sarah Morgan Dawson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004TQ136Q).
+813 STO -- A coronation of kings / Samuel Stokes -- Samuel Stokes, [n.d.] -- [www](https://read.amazon.com/?asin=B015TWRVCS).
 
-k  -- A Coronation of Kings / Samuel Stokes -- Samuel Stokes, [n.d.] -- [www](https://read.amazon.com/?asin=B015TWRVCS).
+813 ORG -- A Feeble Drift: Book One of the Fugue Trilogy / Guy Orgambide -- Guy Orgambide, [n.d.] -- [www](https://read.amazon.com/?asin=B005FQN33U).
 
-k813 ORG -- A Feeble Drift: Book One of the Fugue Trilogy / Guy Orgambide -- Guy Orgambide, [n.d.] -- [www](https://read.amazon.com/?asin=B005FQN33U).
+813 HUN -- A Hidden Fire: Elemental Mysteries Book One / Elizabeth Hunter -- E. Hunter, [n.d.] -- [www](https://read.amazon.com/?asin=B005VTVE0U).
 
-k813 HUN -- A Hidden Fire: Elemental Mysteries Book One / Elizabeth Hunter -- E. Hunter, [n.d.] -- [www](https://read.amazon.com/?asin=B005VTVE0U).
+282 NOR -- A History of the Popes: Volume I: Origins to the Middle Ages / Wyatt North -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B015ULPN2I).
 
-k282 NOR -- A History of the Popes: Volume I: Origins to the Middle Ages / Wyatt North -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B015ULPN2I).
+813 GAL -- A History of the World's Ending / Sebastian Galen -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00EJNWLF6).
 
-k813 GAL -- A History of the World's Ending / Sebastian Galen -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00EJNWLF6).
+915 OLI -- A hole in my boot: Southern India to Everest Basecamp / Anne Margaret ,  Zorkendorfer, Joanne Mercia Oliver -- Anne Margaret Oliver, [n.d.] -- [www](https://read.amazon.com/?asin=B00ICAMF4E).
 
-k915 OLI -- A hole in my boot: Southern India to Everest Basecamp / Anne Margaret ,  Zorkendorfer, Joanne Mercia Oliver -- Anne Margaret Oliver, [n.d.] -- [www](https://read.amazon.com/?asin=B00ICAMF4E).
+813 ARE -- A Legacy of Light / Daniel Arenson -- Moonclipse, [n.d.] -- [www](https://read.amazon.com/?asin=B00C43FYLQ).
 
-k813 ARE -- A Legacy of Light / Daniel Arenson -- Moonclipse, [n.d.] -- [www](https://read.amazon.com/?asin=B00C43FYLQ).
+813 RIC -- A March of Kings / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B47BM2S).
 
-k813 RIC -- A March of Kings / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B47BM2S).
+813 ARE -- A Memory of Earth / Daniel Arenson -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B077J8WH3B).
 
-k813 ARE -- A Memory of Earth / Daniel Arenson -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B077J8WH3B).
+813 MAR -- A Million Doorways / K Beckner Martin. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01M5EW2YG).
 
-k  -- A Million Doorways / K Beckner Martin. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01M5EW2YG).
+823 BUR -- A Princess of Mars / Edgar Rice Burroughs -- Larnaca Press, [n.d.] -- [www](https://read.amazon.com/?asin=B016VF8).
 
-k823 BUR -- A Princess of Mars / Edgar Rice Burroughs -- Larnaca Press, [n.d.] -- [www](https://read.amazon.com/?asin=B016VF8).
+817 WOO -- A Problem With Donuts / Ben ,  Currier, Wendy Woodard -- Miller-Martin Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00N0XK2K2).
 
-k817 WOO -- A Problem With Donuts / Ben ,  Currier, Wendy Woodard -- Miller-Martin Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00N0XK2K2).
+813 RIC -- A Quest of Heroes / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AFROVQC).
 
-k813 RIC -- A Quest of Heroes / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AFROVQC).
+813 FOR -- A Room with a View / E Forster M.. -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01MQ1R1WJ).
 
-k813 FOR -- A Room with a View / E Forster M.. -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01MQ1R1WJ).
+813 NIE -- A Star Curiously Singing / Kerry Nietz -- Freeheads, [n.d.] -- [www](https://read.amazon.com/?asin=B01A2R1RIO).
 
-k813 NIE -- A Star Curiously Singing / Kerry Nietz -- Freeheads, [n.d.] -- [www](https://read.amazon.com/?asin=B01A2R1RIO).
+813 ROU -- A Tall Man Rides / H Rourke Berkeley. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AQ37U2M).
 
-k813 ROU -- A Tall Man Rides / H Rourke Berkeley. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AQ37U2M).
+813 ELL -- Access to Power / Robert Ellis -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0055X09LW).
 
-k813 ELL -- Access to Power / Robert Ellis -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0055X09LW).
+813 MCA -- Ace Jones: Misadventures in a Winter Wonderland / Stephanie McAfee -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HA360U4).
 
-k813 MCA -- Ace Jones: Misadventures in a Winter Wonderland / Stephanie McAfee -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HA360U4).
+813 ALB -- Activate / Alex Albrinck -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OYGEZX4).
 
-k813 ALB -- Activate / Alex Albrinck -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OYGEZX4).
+811 WEL -- Admire the Moon: Meditations / Mary Wellemeyer -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004V9F2QS).
 
-k811 WEL -- Admire the Moon: Meditations / Mary Wellemeyer -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004V9F2QS).
+813 LON -- Adventure / Jack London -- Kypros Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01708ZV9E).
 
-k813 LON -- Adventure / Jack London -- Kypros Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01708ZV9E).
+917 QUI -- Adventures of a Trail Stooge / Chris Quinn -- [S.n., 2015.] -- [www](https://read.amazon.com/?asin=B011SMMIIA).
 
-k917 QUI -- Adventures of a Trail Stooge / Chris Quinn -- [S.n., 2015.] -- [www](https://read.amazon.com/?asin=B011SMMIIA).
+813 SIV -- Aetheric Elements: The Rise of a Steampunk Reality / Travis I Sivart. -- Talk of the Tavern Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00EBQD1RS).
 
-k813 SIV -- Aetheric Elements: The Rise of a Steampunk Reality / Travis I Sivart. -- Talk of the Tavern Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00EBQD1RS).
+813 MED -- After Days: Affliction / Scott Medbury -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00KM0T8UG).
 
-k813 MED -- After Days: Affliction / Scott Medbury -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00KM0T8UG).
+813 WIL -- After The Event: Book 1 of the After The Event Series / T Williams A.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LBOW3CW).
 
-k813 WIL -- After The Event: Book 1 of the After The Event Series / T Williams A.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LBOW3CW).
+813 HEA -- After the Winter / Mark R Healy. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00P02FBPM).
 
-k813 HEA -- After the Winter / Mark R Healy. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00P02FBPM).
+813 NIC -- After: First Light / Scott Nicholson -- Haunted Computer Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00D5FAP3O).
 
-k813 NIC -- After: First Light / Scott Nicholson -- Haunted Computer Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00D5FAP3O).
+813 NIC -- After: The Shock / Scott Nicholson -- Haunted Computer Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00AP6YRFS).
 
-k813 NIC -- After: The Shock / Scott Nicholson -- Haunted Computer Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00AP6YRFS).
+813 WAL -- Age of Mystics / Chris Walters -- Chris Walters, [n.d.] -- [www](https://read.amazon.com/?asin=B01DHNO7J6).
 
-k813 WAL -- Age of Mystics / Chris Walters -- Chris Walters, [n.d.] -- [www](https://read.amazon.com/?asin=B01DHNO7J6).
+813 MEY -- AL CLARK / Jonathan G Meyer ,  Dominique, Dawne. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00NMWRTNY).
 
-k813 MEY -- AL CLARK / Jonathan G Meyer ,  Dominique, Dawne. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00NMWRTNY).
+813 ALA 2014 -- Alaska Sampler 2014: Ten Authors from the Great Land: Fiction - Biography - Memoir - Humor / [n  . -- Running Fox Booksd.] -- [www](https://read.amazon.com/?asin=B00KHZY54A).
 
-k813 ALA 2014 -- Alaska Sampler 2014: Ten Authors from the Great Land: Fiction - Biography - Memoir - Humor / [n  . -- Running Fox Booksd.] -- [www](https://read.amazon.com/?asin=B00KHZY54A).
+813 ALA 2015 -- Alaska Sampler 2015 / [n  . -- Running Fox Booksd.] -- [www](https://read.amazon.com/?asin=B00VC060QK).
 
-k813 ALA 2015 -- Alaska Sampler 2015 / [n  . -- Running Fox Booksd.] -- [www](https://read.amazon.com/?asin=B00VC060QK).
+920 HEW -- Alexander Hamilton: The Complete Biography of a True Patriot and One of America's Most Remarkable Founding Fathers / Florian Hewitt -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N76G9EU).
 
-k920 HEW -- Alexander Hamilton: The Complete Biography of a True Patriot and One of America's Most Remarkable Founding Fathers / Florian Hewitt -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N76G9EU).
+813 KAD -- Alexandria / John Kaden -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AN19AUM).
 
-k813 KAD -- Alexandria / John Kaden -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AN19AUM).
+813 HUM -- Alien Baggage Allowance / [n Humble Nations. -- Creativiad.] -- [www](https://read.amazon.com/?asin=B013VOHK22).
 
-k813 HUM -- Alien Baggage Allowance / [n Humble Nations. -- Creativiad.] -- [www](https://read.amazon.com/?asin=B013VOHK22).
+813 DAV -- All Guns Blazing: A Wild West Omnibus / Alan David -- Pioneering Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LXM0EPH).
 
-k813 DAV -- All Guns Blazing: A Wild West Omnibus / Alan David -- Pioneering Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LXM0EPH).
+920 CAL -- All Roads Led to Shanghai / Clio Calodoukas -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B00DI55NHY).
 
-k920 CAL -- All Roads Led to Shanghai / Clio Calodoukas -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B00DI55NHY).
+813 SMI -- All These Shiny Worlds: The 2016 ImmerseOrDie Anthology / Jefferson ,  Levesque, Richard ,  Anderson, Bryce ,  Adams, Brett ,  Ruz, Christopher ,  Higgins, Dave ,  Storrs, Graham ,  Morin, J Smith S. ,  Plexico, Van Allen ,  Kinrade, Karpov ,  Mills, Becca ,  Mellor, Belinda ,  Misha, Burnett ,  Russ, Linton ,  Regina, Richards. -- Creativity Hacker Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01B8IZIM2).
 
-k813 SMI -- All These Shiny Worlds: The 2016 ImmerseOrDie Anthology / Jefferson ,  Levesque, Richard ,  Anderson, Bryce ,  Adams, Brett ,  Ruz, Christopher ,  Higgins, Dave ,  Storrs, Graham ,  Morin, J Smith S. ,  Plexico, Van Allen ,  Kinrade, Karpov ,  Mills, Becca ,  Mellor, Belinda ,  Misha, Burnett ,  Russ, Linton ,  Regina, Richards. -- Creativity Hacker Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01B8IZIM2).
+621 MEY -- All-in-one CompTIA A+ certification exam guide: exams 220-701 & 220-702 / Mike Meyers -- McGraw-Hill, [n.d.] -- [www](https://read.amazon.com/).
 
-k621 MEY -- All-in-one CompTIA A+ certification exam guide: exams 220-701 & 220-702 / Mike Meyers -- McGraw-Hill, [n.d.] -- [www](https://read.amazon.com/).
+813 TOS -- Alone: Spared : Survivors of the Apocalypse / Graham Toseland -- CMP Publishing, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 TOS -- Alone: Spared : Survivors of the Apocalypse / Graham Toseland -- CMP Publishing, [n.d.] -- [www](https://read.amazon.com/).
+813 SNY -- Alterium - A New Threat / Andrew Snyders -- Andrew Snyders, [n.d.] -- [www](https://read.amazon.com/?asin=B008HRXEYC).
 
-k813 SNY -- Alterium - A New Threat / Andrew Snyders -- Andrew Snyders, [n.d.] -- [www](https://read.amazon.com/?asin=B008HRXEYC).
+813 LEW -- Ambush at Kansas City / Ron Lewis -- Red Kitty's Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00M5M3S6Y).
 
-k813 LEW -- Ambush at Kansas City / Ron Lewis -- Red Kitty's Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00M5M3S6Y).
+321 NOZ -- Anarchy, state, and utopia / Robert Nozick -- Basic Books, [n.d.] -- [www](https://read.amazon.com/).
 
-k321 NOZ -- Anarchy, state, and utopia / Robert Nozick -- Basic Books, [n.d.] -- [www](https://read.amazon.com/).
+813 LIT -- Ansible 15715 / Stant Litore -- Westmarch Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00JTJVRPK).
 
-k813 LIT -- Ansible 15715 / Stant Litore -- Westmarch Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00JTJVRPK).
+813 RAN -- Anthem / Ayn Rand -- Seedbox Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B0088THGXE).
 
-k813 RAN -- Anthem / Ayn Rand -- Seedbox Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B0088THGXE).
+813 SMI -- Apocalypticon / Clayton Smith -- Dapper Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IRPTRHW).
 
-k813 SMI -- Apocalypticon / Clayton Smith -- Dapper Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IRPTRHW).
+629 GIB -- Apollo 11 / Philip Gibson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MV571OA).
 
-k  -- Apollo11: When Men Walked on the Moon: The incredible mission of Apollo 11 / Philip Gibson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MV571OA).
+813 LAM -- Apparition Lake / Daniel D. Lamoreux, Doug Lamoreux. -- Creativia, [n.d.] -- [www](https://read.amazon.com/?asin=B00LBSDE5S).
 
-k813 LAM -- Apparition Lake / Daniel D Lamoreux ,  Lamoreux, Doug. -- Creativia, [n.d.] -- [www](https://read.amazon.com/?asin=B00LBSDE5S).
+813 GUI -- Apprentice / Eric Guindon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DA1O2UA).
 
-k813 GUI -- Apprentice / Eric Guindon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DA1O2UA).
+813 BAR -- Aquifer: A Novel / Gary Barnes -- Blue Spring Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00907BWIS).
 
-k813 BAR -- Aquifer: A Novel / Gary Barnes -- Blue Spring Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00907BWIS).
+813 JON -- Arctic Wargame / Ethan Jones -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0084FH6M8).
 
-k813 JON -- Arctic Wargame / Ethan Jones -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0084FH6M8).
+813 HAN -- Arena / Karen Hancock -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B005BOXKRA).
 
-k813 HAN -- Arena / Karen Hancock -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B005BOXKRA).
+813 RIC -- Arena one / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
-k813 RIC -- Arena one / Morgan Rice -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+813 GAL -- Ark-13: An Odyssey / B Gallagher B.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DFUUE6G).
 
-k813 GAL -- Ark-13: An Odyssey / B Gallagher B.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DFUUE6G).
+917 MOS -- Around the States in 90 Days / Andy Moseley -- NoLogoPublications, [n.d.] -- [www](https://read.amazon.com/?asin=B005KBPFAY).
 
-k917 MOS -- Around the States in 90 Days / Andy Moseley -- NoLogoPublications, [n.d.] -- [www](https://read.amazon.com/?asin=B005KBPFAY).
+813 REN -- ARV-3 / Cameo Renae -- Crushing Hearts and Black Butterfly Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00GWTXJH4).
 
-k813 REN -- ARV-3 / Cameo Renae -- Crushing Hearts and Black Butterfly Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00GWTXJH4).
+813 WES -- Auraria: A Novel / Tim Westover -- QW Publishers, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B008AM5KGE).
 
-k813 WES -- Auraria: A Novel / Tim Westover -- QW Publishers, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B008AM5KGE).
+813 COL -- Awaiting Orders: M/ JerryM Military Straight to Gay First Time Romance / Cole -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B019YMEMPS).
 
-k813 COL -- Awaiting Orders: M/ JerryM Military Straight to Gay First Time Romance / Cole -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B019YMEMPS).
+813 DAI-- Awaken / Rachel D'aigle -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004XMOOKS).
 
-k813 DAI-- Awaken / Rachel D'aigle -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004XMOOKS).
+320 DAR -- Back from the Brink: 1000 Days at Number 11 / Alistair Darling -- Atlantic Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00AA33JPK).
 
-k320 DAR -- Back from the Brink: 1000 Days at Number 11 / Alistair Darling -- Atlantic Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00AA33JPK).
+813 GEN -- Backyard Dragons / Lee French -- Genius Media, Inc., [n.d.] -- [www](https://read.amazon.com/?asin=B01HHI9M6U).
 
-k813 GEN -- Backyard Dragons / Lee French -- Genius Media, Inc., [n.d.] -- [www](https://read.amazon.com/?asin=B01HHI9M6U).
+813 LAN -- Bad Radio / Michael Langlois -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005IHANGG).
 
-k813 LAN -- Bad Radio / Michael Langlois -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005IHANGG).
+813 BYR -- Banded / Logan Byrne -- Logan Byrne, [n.d.] -- [www](https://read.amazon.com/?asin=B00IKU79AG).
 
-k813 BYR -- Banded / Logan Byrne -- Logan Byrne, [n.d.] -- [www](https://read.amazon.com/?asin=B00IKU79AG).
+813 THO -- Battle Earth / Nick S Thomas. -- Swordworks, [n.d.] -- [www](https://read.amazon.com/?asin=B0096RXT8S).
 
-k813 THO -- Battle Earth / Nick S Thomas. -- Swordworks, [n.d.] -- [www](https://read.amazon.com/?asin=B0096RXT8S).
+178 BIV -- Be a hobbit, save the Earth: the guide to sustainable shire living / Steve Bivans -- Shireness Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00PWZ7MC2).
 
-k  -- Be a Hobbit, Save the Earth: the Guide to Sustainable Shire Living / Steve Bivans -- Shireness Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00PWZ7MC2).
+813 TAY -- Bear Claw: A Tale of the Shoshone / Mark Stephen Taylor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01I49BXA4).
 
-k813 TAY -- Bear Claw: A Tale of the Shoshone / Mark Stephen Taylor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01I49BXA4).
+174 THO -- Become a Natural Leader: What a Former Army Officer Can Teach You About Leadership / Ryan Thomas -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00I9K1TGW).
 
-k174 THO -- Become a Natural Leader: What a Former Army Officer Can Teach You About Leadership / Ryan Thomas -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00I9K1TGW).
+813 GRE -- Becoming Human: A Dystopian Post Apocalyptic Novel / Eliza Green -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AOBIRIW).
 
-k813 GRE -- Becoming Human: A Dystopian Post Apocalyptic Novel / Eliza Green -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AOBIRIW).
+005 COO -- Beginning ruby / Peter Cooper -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
-k005 COO -- Beginning ruby / Peter Cooper -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+005 TEN -- Beginning XSLT / Jeni Tennison -- Wrox Press, [n.d.] -- [www](https://read.amazon.com/).
 
-k005 TEN -- Beginning XSLT / Jeni Tennison -- Wrox Press, [n.d.] -- [www](https://read.amazon.com/).
+813 DOC -- Betrayal of Magic / Brian ,  Beal, Onaje Dockins -- Siege Tower Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0059MR4I0).
 
-k813 DOC -- Betrayal of Magic / Brian ,  Beal, Onaje Dockins -- Siege Tower Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0059MR4I0).
+813 SAI -- Between a Ghost and a Spooky Place / Nic Saint -- Puss in Print Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B01LY9FEDS).
 
-k813 SAI -- Between a Ghost and a Spooky Place / Nic Saint -- Puss in Print Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B01LY9FEDS).
+929.9 URB -- Between a rock and a white blaze: searching for significance on the Appalachian Trail / Julie Urbanski -- 1st ed. -- [S.n.], 2012. -- [www](https://read.amazon.com/?asin=B00ANIRFH0).
 
-k  -- Between a Rock and a White Blaze: Searching for Significance on the Appalachian Trail / Julie Urbanski -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ANIRFH0).
+287 SUT -- Bhagavad Gita: The Oxford Centre for Hindu Studies Guide / Nicholas Sutton -- Oxford Centre for Hindu Studies, [n.d.] -- [www](https://read.amazon.com/?asin=B00OU6O44I).
 
-k287 SUT -- Bhagavad Gita: The Oxford Centre for Hindu Studies Guide / Nicholas Sutton -- Oxford Centre for Hindu Studies, [n.d.] -- [www](https://read.amazon.com/?asin=B00OU6O44I).
+813 MAL -- Bird Box: A Novel / Josh Malerman -- Ecco, [n.d.] -- [www](https://read.amazon.com/?asin=B00FJ352U6).
 
-k813 MAL -- Bird Box: A Novel / Josh Malerman -- Ecco, [n.d.] -- [www](https://read.amazon.com/?asin=B00FJ352U6).
+813 ADA -- Black Virus / Bobby Adair -- Beezle Media, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01IUFLY7E).
 
-k813 ADA -- Black Virus / Bobby Adair -- Beezle Media, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01IUFLY7E).
+289 TIT -- Bless All Who Serve: Sources of Hope, Courage and Faith for Military Personnel and Their Families / Gail ,  Tittle, Matt Tittle -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004P5NUTE).
 
-k289 TIT -- Bless All Who Serve: Sources of Hope, Courage and Faith for Military Personnel and Their Families / Gail ,  Tittle, Matt Tittle -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004P5NUTE).
+920 KEL -- Bon Voyage! / Susie Kelly -- Blackbird Digital Books, [n.d.] -- [www](https://read.amazon.com/).
 
-k920 KEL -- Bon Voyage! / Susie Kelly -- Blackbird Digital Books, [n.d.] -- [www](https://read.amazon.com/).
+289 LDS -- Book of Mormon / [n The Church of Jesus Christ of Latter-day Saints. -- The Church of Jesus Christ of Latter-day Saintsd.] -- [www](https://read.amazon.com/?asin=B00BNGXNW2).
 
-k289 LDS -- Book of Mormon / [n The Church of Jesus Christ of Latter-day Saints. -- The Church of Jesus Christ of Latter-day Saintsd.] -- [www](https://read.amazon.com/?asin=B00BNGXNW2).
+813 MAR -- Broken World / Kate L Mary. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LHYIPY6).
 
-k  -- Bounce forward: how to transform crisis into success / Sam Cawthorn -- John Wiley & Sons Australia Ltd, [n.d.] -- [www](https://read.amazon.com/).
+920 DAM -- Buddha On The Bus / Nate Damm -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LPX4Y3U).
 
-k813 MAR -- Broken World / Kate L Mary. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LHYIPY6).
+294 GIS -- Buddhism: Buddhism For Beginners - Buddhist Teachings For Living A Life Of Happiness, Peace, and Enlightenment / Kevin Gise -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01BWFEOXA).
 
-k920 DAM -- Buddha On The Bus / Nate Damm -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00LPX4Y3U).
+813 HOO -- Bug Hunt / Isaac Hooke -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06WVQD6QR).
 
-k294 GIS -- Buddhism: Buddhism For Beginners - Buddhist Teachings For Living A Life Of Happiness, Peace, and Enlightenment / Kevin Gise -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01BWFEOXA).
+306 Hun -- Building a Movement to End the New Jim Crow: an organizing guide / Daniel Hunter -- Veterans of Hope, [n.d.] -- [www](https://read.amazon.com/?asin=B00UCF3U0A).
 
-k813 HOO -- Bug Hunt / Isaac Hooke -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06WVQD6QR).
+398 Bul -- Bulfinch's mythology : the age of fabel / Thomas Bulfinch -- [S.n., [n.d.] -- [www](https://read.amazon.com/).
 
-k306 Hun -- Building a Movement to End the New Jim Crow: an organizing guide / Daniel Hunter -- Veterans of Hope, [n.d.] -- [www](https://read.amazon.com/?asin=B00UCF3U0A).
+343 Har -- Business Law Basics: A Legal Handbook for Online Entrepreneurs and Startup Businesses / James Hart -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F5Y4BLO).
 
-k398 Bul -- Bulfinch's mythology : the age of fabel / Thomas Bulfinch -- [S.n., [n.d.] -- [www](https://read.amazon.com/).
+813 Wil -- By Darkness Hid / Jill ,  Gerke, Jeff Williamson -- Enclave, [n.d.] -- [www](https://read.amazon.com/?asin=B00266Q078).
 
-k343 Har -- Business Law Basics: A Legal Handbook for Online Entrepreneurs and Startup Businesses / James Hart -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F5Y4BLO).
+813 Bow -- Cabin Fever / B Bower M.. -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01M69HKXL).
 
-k813 Wil -- By Darkness Hid / Jill ,  Gerke, Jeff Williamson -- Enclave, [n.d.] -- [www](https://read.amazon.com/?asin=B00266Q078).
+822 Sha -- Caesar and Cleopatra / George Bernard Shaw -- Kypros Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01CFITNXO).
 
-k813 Bow -- Cabin Fever / B Bower M.. -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01M69HKXL).
+813 Rat -- Call of the Herald: Young Adult Epic Fantasy / Brian ,  Studios, T Rathbone-Rex. -- White Wolf Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B003ZUYQCA).
 
-k822 Sha -- Caesar and Cleopatra / George Bernard Shaw -- Kypros Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01CFITNXO).
+813 Cra -- Cassia - Historical Romance Series / Susan F Craft. -- Heritage Beacon Fiction, [n.d.] -- [www](https://read.amazon.com/?asin=B012Q8WS80).
 
-k813 Rat -- Call of the Herald: Young Adult Epic Fantasy / Brian ,  Studios, T Rathbone-Rex. -- White Wolf Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B003ZUYQCA).
+813 Bar -- Cherokee Mythology: Gods, Myths, Legends and Spiritual Beliefs of the Cherokee Tribe (Easy History) / Jim Barrow -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B099CRWPF3).
 
-k Par  -- Captivology: the science of capturing people's attention / Ben Parr -- HarperOne, an imprint of HarperCollins Publishers, [n.d.] -- [www](https://read.amazon.com/).
+813 Hal -- Child of Fate / Jason Halstead -- Novel Concept Publishing LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00A0O4G9C).
 
-k813 Cra -- Cassia - Historical Romance Series / Susan F Craft. -- Heritage Beacon Fiction, [n.d.] -- [www](https://read.amazon.com/?asin=B012Q8WS80).
+289 Jes -- Church of lies / Flora ,  Brown, Paul T Jessop. -- Jossey-Bass, [n.d.] -- [www](https://read.amazon.com/).
 
-k Lam  -- CCENT: Cisco Certified Entry Networking Technician (Exam 640-822). / Todd Lammle -- Sybex [Imprint] John Wiley & Sons, [n.d.] -- [www](https://read.amazon.com/).
+808 Wes -- Citations Made Simple: A Student's Guide to Easy Referencing: The Complete Guide / Joanne M Weselby. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OA35FJ4).
 
-k813 Bar -- Cherokee Mythology: Gods, Myths, Legends and Spiritual Beliefs of the Cherokee Tribe (Easy History) / Jim Barrow -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B099CRWPF3).
+813 Cha -- City of Blaze / H Charles O.. -- Idol: a Tree, [n.d.] -- [www](https://read.amazon.com/?asin=B0057XSNGS).
 
-k813 Hal -- Child of Fate / Jason Halstead -- Novel Concept Publishing LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00A0O4G9C).
+813 Bak -- City of Towers: The Dreaming Dark, Book 1 / Keith Baker -- Wizards of the Coast, [n.d.] -- [www](https://read.amazon.com/?asin=B0036S4B4Y).
 
-k289 Jes -- Church of lies / Flora ,  Brown, Paul T Jessop. -- Jossey-Bass, [n.d.] -- [www](https://read.amazon.com/).
+973 Web -- Civil War: American Civil War in 50 Events: From the Very Beginning to the Fall of the Confederate States / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F8V8L1A).
 
-k808 Wes -- Citations Made Simple: A Student's Guide to Easy Referencing: The Complete Guide / Joanne M Weselby. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OA35FJ4).
+813 Pea -- Cloudburst / Ryne Douglas Pearson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0053SFIOM).
 
-k813 Cha -- City of Blaze / H Charles O.. -- Idol: a Tree, [n.d.] -- [www](https://read.amazon.com/?asin=B0057XSNGS).
+178 Zis -- ClutterFree Revolution: Simplify Your Stuff Organize Your Life & Save The World / Evan Michael Zislis -- The Difference Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00VSUCKSQ).
 
-k813 Bak -- City of Towers: The Dreaming Dark, Book 1 / Keith Baker -- Wizards of the Coast, [n.d.] -- [www](https://read.amazon.com/?asin=B0036S4B4Y).
+813 Hop -- Cocky Senator: A Bad Boy Romance / Faleena Hopkins -- Hop Hop Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B01MCQBVI9).
 
-k973 Web -- Civil War: American Civil War in 50 Events: From the Very Beginning to the Fall of the Confederate States / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F8V8L1A).
+813 Car -- Collapse: Book One in The Yellow Flag Series / T Carter K.. -- My Ms.Adventures LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00H0FJ3SS).
 
-k813 Pea -- Cloudburst / Ryne Douglas Pearson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0053SFIOM).
+813 She -- Colony Z: The Complete Collection / Luke Shephard -- Roja Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00EA6QLMQ).
 
-k178 Zis -- ClutterFree Revolution: Simplify Your Stuff Organize Your Life & Save The World / Evan Michael Zislis -- The Difference Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00VSUCKSQ).
+813 Jon -- Colossus / D Jones F.. -- Venture Press, [n.d.] -- [www](https://read.amazon.com/?asin=B015A2Z7ZU).
 
-k813 Hop -- Cocky Senator: A Bad Boy Romance / Faleena Hopkins -- Hop Hop Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B01MCQBVI9).
+971 Tru -- Common Ground / Justin Trudeau -- HarperCollins Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00K53WAU0).
 
-k813 Car -- Collapse: Book One in The Yellow Flag Series / T Carter K.. -- My Ms.Adventures LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00H0FJ3SS).
+813 Nor -- Conception: A Post Apocalyptic Thriller / Thomas Norwood -- Global Activision Limited, [n.d.] -- [www](https://read.amazon.com/?asin=B00G190NXS).
 
-k813 She -- Colony Z: The Complete Collection / Luke Shephard -- Roja Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00EA6QLMQ).
+294 SEL -- Selected passages from the Chinese philosophers in the path / Confucius, Mencius, Laozi... [et.al.]; translated by Michael Puett and Christine Gross-Loh. -- Simon & Schuster, 2016. -- [www.](https://read.amazon.com/?asin=B01BCEPO1C) -- ISBN 9781501157456. 
 
-k813 Jon -- Colossus / D Jones F.. -- Venture Press, [n.d.] -- [www](https://read.amazon.com/?asin=B015A2Z7ZU).
+813 Bro -- Conroy's First Command / Robert Broomall -- BlueStone Media, [n.d.] -- [www](https://read.amazon.com/).
 
-k971 Tru -- Common Ground / Justin Trudeau -- HarperCollins Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00K53WAU0).
+813 Pip -- Contamination / T PiperbrookW.. -- Post Script Publishing, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Nor -- Conception: A Post Apocalyptic Thriller / Thomas Norwood -- Global Activision Limited, [n.d.] -- [www](https://read.amazon.com/?asin=B00G190NXS).
+640 Dea -- Couponing for the Beginner: A Guide to Couponing for the Uninitiated / Jenny Dean -- GuidetoCouponing.com, [n.d.] -- [www](https://read.amazon.com/?asin=B008HI3WD4).
 
-k294  .  -- Confucius, Mencius, Laozi, Zhuangzi, Xunzi: Selected Passages from the Chinese Philosophers in The Path / [n  . -- Simon & Schusterd.] -- [www](https://read.amazon.com/?asin=B01BCEPO1C).
+817 Ada -- Crazy True Tales / [n Adam Douglas. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B0999GXKY9).
 
-k813 Bro -- Conroy's First Command / Robert Broomall -- BlueStone Media, [n.d.] -- [www](https://read.amazon.com/).
+361 Spi -- Crowdfunding: The Next Big Thing / Gary Spirer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HQ7JZOM).
 
-k813 Pip -- Contamination / T PiperbrookW.. -- Post Script Publishing, [n.d.] -- [www](https://read.amazon.com/).
+910 Ber -- Cruisin' the Caribbean: A newbie's guide to your first cruise / Travis Bergren -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01LWOB2PW).
 
-k640 Dea -- Couponing for the Beginner: A Guide to Couponing for the Uninitiated / Jenny Dean -- GuidetoCouponing.com, [n.d.] -- [www](https://read.amazon.com/?asin=B008HI3WD4).
+910 Pfe -- Cruising with Confidence: How to be a First Time Cruiser without Looking like One / Deb Pfeifer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F171QSQ).
 
-k817 Ada -- Crazy True Tales / [n Adam Douglas. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B0999GXKY9).
+813 Geo -- Cryo-Man / Kevin George -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FDT2EBQ).
 
-k361 Spi -- Crowdfunding: The Next Big Thing / Gary Spirer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HQ7JZOM).
+500 Rhe -- CSS animation / John Rhea -- Undead Institute, [n.d.] -- [www](https://read.amazon.com/?asin=B088K9KJVD).
 
-k Tho  -- Crucibles of leadership: how to learn from experience to become a great leader / Robert Joseph Thomas -- Harvard Business Press, [n.d.] -- [www](https://read.amazon.com/).
+264 Pub -- Daily Prayer for All Seasons / Church Publishing -- Church Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00M4Q4B5S).
 
-k910 Ber -- Cruisin' the Caribbean: A newbie's guide to your first cruise / Travis Bergren -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01LWOB2PW).
+813 May -- Dark Days: The Long Road Home / L May M.. -- BB Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BNZDOFE).
 
-k910 Pfe -- Cruising with Confidence: How to be a First Time Cruiser without Looking like One / Deb Pfeifer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01F171QSQ).
+813 Rat -- Dawn of the Dreamsmith / Alan Ratcliffe -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DS1S9DC).
 
-k813 Geo -- Cryo-Man / Kevin George -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FDT2EBQ).
+813 McC -- Day of Reckoning: A Lucas Wade Western - Book 3 / Raylan McCrae -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01J34T0PE).
 
-k5 Rhe -- CSS animation / John Rhea -- Undead Institute, [n.d.] -- [www](https://read.amazon.com/?asin=B088K9KJVD).
+813 Sul -- Daygo's Fury: The Daygo Stream / John F Sullivan O'. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B015ENT0P8).
 
-k264 Pub -- Daily Prayer for All Seasons / Church Publishing -- Church Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00M4Q4B5S).
+813 Bro -- Dead Highways: Origins / Richard Brown -- Richard Brown, [n.d.] -- [www](https://read.amazon.com/?asin=B00CC6CVF2).
 
-k813 May -- Dark Days: The Long Road Home / L May M.. -- BB Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BNZDOFE).
+923 McC -- Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History / Miantae Metcalf McConnell -- Huzzah Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LZ765ZM).
 
-k813 Rat -- Dawn of the Dreamsmith / Alan Ratcliffe -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DS1S9DC).
+920 McC -- Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History / Miantae Metcalf McConnell -- Huzzah Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LZ765ZM).
 
-k813 McC -- Day of Reckoning: A Lucas Wade Western - Book 3 / Raylan McCrae -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01J34T0PE).
+600 Hip -- Democratizing Innovation / Eric von Hippel -- The MIT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B001C4PTLS).
 
-k813 Sul -- Daygo's Fury: The Daygo Stream / John F Sullivan O'. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B015ENT0P8).
+813 Sti -- Demonworld / Kyle B Stiff. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007TD9246).
 
-k813 Bro -- Dead Highways: Origins / Richard Brown -- Richard Brown, [n.d.] -- [www](https://read.amazon.com/?asin=B00CC6CVF2).
+813 Fau -- Deomans of Faerel / Ted Fauster -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CPCYRJQ).
 
-k Pau  -- Dealing with China: an insider unmasks the new economic superpower / Henry M Paulson. -- Twelfe, [n.d.] -- [www](https://read.amazon.com/).
+813 LaP -- Developing Minds: An American Ghost Story / Jonathan LaPoma -- Laughing Fire Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01579VDC2).
 
-k923 McC -- Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History / Miantae Metcalf McConnell -- Huzzah Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LZ765ZM).
+813 Smi -- Diffusion / Stan C Smith. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01373CVCQ).
 
-k920 McC -- Deliverance Mary Fields, First African American Woman Star Route Mail Carrier in the United States: A Montana History / Miantae Metcalf McConnell -- Huzzah Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LZ765ZM).
+025 The -- Digital literacy: succeeding in a digital world / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B07DVNC9HM).
 
-k600 Hip -- Democratizing Innovation / Eric von Hippel -- The MIT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B001C4PTLS).
+813 Sal -- Dissension / K Salidas A. ,  Salidas, Katie. -- Rising Sign Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00I8PMB10).
 
-k813 Sti -- Demonworld / Kyle B Stiff. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007TD9246).
+813 Duc -- Distant Star / Joe Ducie -- Cedar Sky Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0085SYSDE).
 
-k813 Fau -- Deomans of Faerel / Ted Fauster -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CPCYRJQ).
+643 Ben -- DIY Household Hacks: Complete Do-It-Yourself Manual For Home Repair, Maintenance and Improvement, Designed to Save You Time and Money / Patricia Benson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00PNZA1LU).
 
-k813 LaP -- Developing Minds: An American Ghost Story / Jonathan LaPoma -- Laughing Fire Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01579VDC2).
+636 Lew -- Dog Training: Basics of Puppy and Dog Training - Your Full Guide to Dog Training / Catherine Lewis -- Catherine Lewis, [n.d.] -- [www](https://read.amazon.com/?asin=B01BJUCF2K).
 
-k813 Smi -- Diffusion / Stan C Smith. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01373CVCQ).
+813 Kan -- Dracian legacy / Priya Kanaparti -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
-k025 The -- Digital literacy: succeeding in a digital world / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B07DVNC9HM).
+891 Sto -- Dracula / Bram Stoker -- Enhanced Media Publishing, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Sal -- Dissension / K Salidas A. ,  Salidas, Katie. -- Rising Sign Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00I8PMB10).
+813 McL -- Dragon Drive on Terul / Wyatt McLaren -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007ZVSNF6).
 
-k813 Duc -- Distant Star / Joe Ducie -- Cedar Sky Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0085SYSDE).
+813 Nel -- Dragonfly: Book One of the Dragonfly Series / Resa ,  Wilder, Eric Nelson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00SZDIGYG).
 
-k643 Ben -- DIY Household Hacks: Complete Do-It-Yourself Manual For Home Repair, Maintenance and Improvement, Designed to Save You Time and Money / Patricia Benson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00PNZA1LU).
+813 Jen -- Dragonlands, Books 1 - 3: Hidden, Hunted, and Retribution / Megg Jensen -- 80 Pages, Inc., [n.d.] -- [www](https://read.amazon.com/?asin=B00OV5LS2O).
 
-k636 Lew -- Dog Training: Basics of Puppy and Dog Training - Your Full Guide to Dog Training / Catherine Lewis -- Catherine Lewis, [n.d.] -- [www](https://read.amazon.com/?asin=B01BJUCF2K).
+813 See -- Dragonlyst / Randall Seeley -- Vigon Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IMV6LRK).
 
-k813 Kan -- Dracian legacy / Priya Kanaparti -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+813 Wei -- Dreamlander / K Weiland M.. -- PenForASword, [n.d.] -- [www](https://read.amazon.com/?asin=B00A9WU99Q).
 
-k891 Sto -- Dracula / Bram Stoker -- Enhanced Media Publishing, [n.d.] -- [www](https://read.amazon.com/).
+811 Bos -- Dreams of the Turtle King: Poems Inspired by South Florida Beaches / Denise ,  Standlee, Nancy Bossarte -- Denise Bossarte, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5CZNCQ).
 
-k813 McL -- Dragon Drive on Terul / Wyatt McLaren -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007ZVSNF6).
+813 Cas -- Drifters' Alliance, Book 1 / Elle Casey -- Elle Casey, [n.d.] -- [www](https://read.amazon.com/?asin=B00YO2UO9M).
 
-k813 Nel -- Dragonfly: Book One of the Dragonfly Series / Resa ,  Wilder, Eric Nelson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00SZDIGYG).
+813 Gil -- Drowned in the Grenadine: or, how to fail in show business by really, really trying. / Dan Gilvezan -- CreateSpace, [n.d.] -- [www](https://read.amazon.com/?asin=B00527UG0A).
 
-k813 Jen -- Dragonlands, Books 1 - 3: Hidden, Hunted, and Retribution / Megg Jensen -- 80 Pages, Inc., [n.d.] -- [www](https://read.amazon.com/?asin=B00OV5LS2O).
+940 Uni  -- Early modern Europe: an introduction / The Open University -- The Open University, [n.d.] -- [www](https://read.amazon.com/?asin=B07DVTFKZ6).
 
-k813 See -- Dragonlyst / Randall Seeley -- Vigon Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IMV6LRK).
+813 Joh -- Earth 2.1: Regenesis / William Crow Johnson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GDH7SYK).
 
-k813 Wei -- Dreamlander / K Weiland M.. -- PenForASword, [n.d.] -- [www](https://read.amazon.com/?asin=B00A9WU99Q).
+813 Cha -- Earth and shadows / Coleman Chastain -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
-k811 Bos -- Dreams of the Turtle King: Poems Inspired by South Florida Beaches / Denise ,  Standlee, Nancy Bossarte -- Denise Bossarte, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5CZNCQ).
+289 Nel -- Earth bound / [n Nelson. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B0064P9UQ0).
 
-k813 Cas -- Drifters' Alliance, Book 1 / Elle Casey -- Elle Casey, [n.d.] -- [www](https://read.amazon.com/?asin=B00YO2UO9M).
+813 Ada -- Ebola K: A Terrorism Thriller: book 1 / Bobby Adair -- Beezle Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00NEDGH5C).
 
-k813 Gil -- Drowned in the Grenadine: or, how to fail in show business by really, really trying. / Dan Gilvezan -- CreateSpace, [n.d.] -- [www](https://read.amazon.com/?asin=B00527UG0A).
+813 Way  -- Echo Volume 1: Approaching Shatter / Kent Wayne -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013NYPV94).
 
-k Uni  -- Early modern Europe: an introduction / The Open University -- The Open University, [n.d.] -- [www](https://read.amazon.com/?asin=B07DVTFKZ6).
+324 Has -- ED / Mehdi Hasan -- Biteback, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Joh -- Earth 2.1: Regenesis / William Crow Johnson -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GDH7SYK).
+813 Cun -- Eden Rising / Andrew Cunningham -- Arcnovels, [n.d.] -- [www](https://read.amazon.com/?asin=B00DEJZZK4).
 
-k813 Cha -- Earth and shadows / Coleman Chastain -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+813 Str -- Edwina / Patricia Strefling -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B003XVZAGC).
 
-k289 Nel -- Earth bound / [n Nelson. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B0064P9UQ0).
+813 Cro -- Eerie / Jordan ,  Crouch, Blake Crouch -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0089Z7S8K).
 
-k813 Ada -- Ebola K: A Terrorism Thriller: book 1 / Bobby Adair -- Beezle Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00NEDGH5C).
+371 Mil -- Effective Classroom Management: An Interactive Textbook / Michael Mills -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E6VF8E2).
 
-k Way  -- Echo Volume 1: Approaching Shatter / Kent Wayne -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013NYPV94).
+920 Hew -- Einstein: Famous Scientist, Committed Pacifist, And Timeless Genius ,  The True Historical Biography Of The World's Greatest Thinker / Florian Hewitt -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01IUCQVXO).
 
-k324 Has -- ED / Mehdi Hasan -- Biteback, [n.d.] -- [www](https://read.amazon.com/).
+813 Wal -- Elemental Magic / Angela Wallace -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006AF90PK).
 
-k813 Cun -- Eden Rising / Andrew Cunningham -- Arcnovels, [n.d.] -- [www](https://read.amazon.com/?asin=B00DEJZZK4).
+920 Buc -- Elton: The biography / David Buckley -- Andre Deutsch, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Str -- Edwina / Patricia Strefling -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B003XVZAGC).
+813 Fur -- Enigma Black / Sara Furlong-Burr -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ABVO2ZC).
 
-k813 Cro -- Eerie / Jordan ,  Crouch, Blake Crouch -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0089Z7S8K).
+813 Bro -- Ep.#1 - Aurora: CV-01 / Ryk Brown -- Ryk Brown, [n.d.] -- [www](https://read.amazon.com/?asin=B006OBOIPC).
 
-k371 Mil -- Effective Classroom Management: An Interactive Textbook / Michael Mills -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E6VF8E2).
+658 Ros -- Equity Crowdfunding: The Complete Guide For Startups And Growing Companies / Nathan Rose -- Stonepine Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01M5FBSEB).
 
-k920 Hew -- Einstein: Famous Scientist, Committed Pacifist, And Timeless Genius ,  The True Historical Biography Of The World's Greatest Thinker / Florian Hewitt -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01IUCQVXO).
+813 Sco -- Escape / Jasper T Scott. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AD6F2J0).
 
-k813 Wal -- Elemental Magic / Angela Wallace -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006AF90PK).
+372 Wil -- ESL Classroom Games: 180 Educational Games and Activities for Teaching ESL/ AndrewEFL Students / William -- William Teacher, [n.d.] -- [www](https://read.amazon.com/?asin=B01N13A9A7).
 
-k920 Buc -- Elton: The biography / David Buckley -- Andre Deutsch, [n.d.] -- [www](https://read.amazon.com/).
+248 Ale -- Everyday Spiritual Practice: Simple Pathways for Enriching Your Life / Scott W Alexander. -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004Q7CI4E).
 
-k Bur  -- Endless referrals: network your everyday contacts into sales / Bob Burg -- McGraw Hill, [n.d.] -- [www](https://read.amazon.com/).
+920 Whi -- Everyone Said I Should Write A Book: The Travels and Adventures of a Sailor and Explorer / Jonathan White -- JoJo Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B007MM89RK).
 
-k813 Fur -- Enigma Black / Sara Furlong-Burr -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ABVO2ZC).
+576 Sha -- Evolution: A View from the 21st Century / James A Shapiro. -- FT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B0054KOKZ2).
 
-k813 Bro -- Ep.#1 - Aurora: CV-01 / Ryk Brown -- Ryk Brown, [n.d.] -- [www](https://read.amazon.com/?asin=B006OBOIPC).
+813 Sco -- Excelsior: Book 1 of the New Frontiers Series / Jasper T Scott ,  Edwards, Tom. -- Anthem Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01BDVAX6K).
 
-k658 Ros -- Equity Crowdfunding: The Complete Guide For Startups And Growing Companies / Nathan Rose -- Stonepine Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01M5FBSEB).
+813 McP -- Exodus / Courtney McPhail -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B015M9XYHY).
 
-k813 Sco -- Escape / Jasper T Scott. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AD6F2J0).
+813 Tur -- Extermination Day / William Turnage -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CO9Z5JQ).
 
-k372 Wil -- ESL Classroom Games: 180 Educational Games and Activities for Teaching ESL/ AndrewEFL Students / William -- William Teacher, [n.d.] -- [www](https://read.amazon.com/?asin=B01N13A9A7).
+658 The -- Facilitating group discussions / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5URI).
 
-k248 Ale -- Everyday Spiritual Practice: Simple Pathways for Enriching Your Life / Scott W Alexander. -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B004Q7CI4E).
+813 Hux -- Fall of the Cities: Planting the Orchard / Vance Huxley -- Entrada Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B018NB659M).
 
-k Clu  -- Everyone needs a mentor / David Clutterbuck -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+813 Sti -- Fallen Palm: A Jesse McDermitt Novel / Wayne Stinnett -- Down Island Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00G1PODH4).
 
-k920 Whi -- Everyone Said I Should Write A Book: The Travels and Adventures of a Sailor and Explorer / Jonathan White -- JoJo Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B007MM89RK).
+813 Sur -- Falling as She Sings: A Novel / C Sursum J.. -- Lilyfield Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01A3IBAE8).
 
-k576 Sha -- Evolution: A View from the 21st Century / James A Shapiro. -- FT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B0054KOKZ2).
+791 Bla -- Family Road Trip Trivia / Bradley Blake -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B099GGB7MN).
 
-k813 Sco -- Excelsior: Book 1 of the New Frontiers Series / Jasper T Scott ,  Edwards, Tom. -- Anthem Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01BDVAX6K).
+813 Bro -- Feast of Fates / Christian A Brown. -- Forsythia Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00NMFX03Y).
 
-k813 McP -- Exodus / Courtney McPhail -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B015M9XYHY).
+813 Hud -- FERTS: / Grace Hudson -- Grace Hudson, [n.d.] -- [www](https://read.amazon.com/?asin=B010II21DW).
 
-k813 Tur -- Extermination Day / William Turnage -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CO9Z5JQ).
+813 Tur -- First Strike / Richard Turner -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B00S09WMWM).
 
-k658 The -- Facilitating group discussions / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5URI).
+813 Mag -- Flash Fiction Magazine - Issue 1 / Flash Fiction Magazine -- 101 Words, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B06WRX24ZL).
 
-k813 Hux -- Fall of the Cities: Planting the Orchard / Vance Huxley -- Entrada Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B018NB659M).
+813 Saw -- Flashforward / Robert J Sawyer. -- Tor Books, [n.d.] -- [www](https://read.amazon.com/?asin=B002NANLCE).
 
-k813 Sti -- Fallen Palm: A Jesse McDermitt Novel / Wayne Stinnett -- Down Island Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00G1PODH4).
+918 Mit -- Flying Asses Through Africa / Jack Mitchell -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01MSXMY7F).
 
-k813 Sur -- Falling as She Sings: A Novel / C Sursum J.. -- Lilyfield Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01A3IBAE8).
+942 Edi -- Flying Saucers: The Mysterious History of the UFO Phenomenon / Charles River Editors -- Charles River Editors, [n.d.] -- [www](https://read.amazon.com/?asin=B01D3UMC9A).
 
-k791 Bla -- Family Road Trip Trivia / Bradley Blake -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B099GGB7MN).
+813 Ing -- Foothold: The Story of Mankind's First Expedition to the Stars / Dennis Ingram -- Imaginative Possibilities, [n.d.] -- [www](https://read.amazon.com/?asin=B00PXXEWA8).
 
-k813 Bro -- Feast of Fates / Christian A Brown. -- Forsythia Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00NMFX03Y).
+813 Kin -- Forging Zero / Sara King -- Parasite Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00BTKA42Y).
 
-k813 Hud -- FERTS: / Grace Hudson -- Grace Hudson, [n.d.] -- [www](https://read.amazon.com/?asin=B010II21DW).
+813 San -- Foundling / Stacia Sanders -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00D1FTEGC).
 
-k813 Tur -- First Strike / Richard Turner -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B00S09WMWM).
+813 Kie -- Free Falling: Book 1 of the Irish End Games / Susan Kiernan-Lewis -- San Marco Press, [n.d.] -- [www](https://read.amazon.com/?asin=B007NZLQAS).
 
-k Ham  -- Fish can't see water: how national culture can make or break your corporate strategy / Kai ,  Lewis, Richard D Hammerich. -- Wiley, [n.d.] -- [www](https://read.amazon.com/).
+338 Hip -- Free Innovation / Eric von Hippel -- The MIT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01K13FUPU).
 
-k813 Mag -- Flash Fiction Magazine - Issue 1 / Flash Fiction Magazine -- 101 Words, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B06WRX24ZL).
+621 For -- Free TV Over the Air: Choosing and Using an HDTV Antenna / Mike Forseth -- Invigorating Publishing LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00IX0BTCM).
 
-k813 Saw -- Flashforward / Robert J Sawyer. -- Tor Books, [n.d.] -- [www](https://read.amazon.com/?asin=B002NANLCE).
+813 Jr, -- Freeman / Leonard Pitts Jr -- Agate Bolden, [n.d.] -- [www](https://read.amazon.com/?asin=B008164K6A).
 
-k918 Mit -- Flying Asses Through Africa / Jack Mitchell -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01MSXMY7F).
+813 Hic -- From Chaos Born / Michael R Hicks. -- Imperial Guard Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B007L2R5XA).
 
-k942 Edi -- Flying Saucers: The Mysterious History of the UFO Phenomenon / Charles River Editors -- Charles River Editors, [n.d.] -- [www](https://read.amazon.com/?asin=B01D3UMC9A).
+813 Ver -- From the Earth to the Moon and Round the Moon / Jules Verne -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004UJTUKI).
 
-k813 Ing -- Foothold: The Story of Mankind's First Expedition to the Stars / Dennis Ingram -- Imaginative Possibilities, [n.d.] -- [www](https://read.amazon.com/?asin=B00PXXEWA8).
+813 Bra -- Frontier Justice / Arthur Bradley -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B00CYR3Z2W).
 
-k813 Kin -- Forging Zero / Sara King -- Parasite Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00BTKA42Y).
+371 Ada  -- Full Classrooms, Empty Selves: Reflections on a Decade of Teaching in an American High School / Jeremy Adams -- Middleman, [n.d.] -- [www](https://read.amazon.com/?asin=B007Z88RXW).
 
-k813 San -- Foundling / Stacia Sanders -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00D1FTEGC).
+520 The -- Galaxies, stars and planets / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X6OUK).
 
-k813 Kie -- Free Falling: Book 1 of the Irish End Games / Susan Kiernan-Lewis -- San Marco Press, [n.d.] -- [www](https://read.amazon.com/?asin=B007NZLQAS).
+920 Ham -- Gandhi: A Life Inspired / Lynn M Hamilton ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/).
 
-k338 Hip -- Free Innovation / Eric von Hippel -- The MIT Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01K13FUPU).
+813 All -- Gehenna Dawn: Portal Wars I / Jay Allan -- System 7 Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00GKNFZMO).
 
-k621 For -- Free TV Over the Air: Choosing and Using an HDTV Antenna / Mike Forseth -- Invigorating Publishing LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00IX0BTCM).
+813 Vas -- Genesis Earth / Joe Vasicek -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0053H8XKO).
 
-k813 Jr, -- Freeman / Leonard Pitts Jr -- Agate Bolden, [n.d.] -- [www](https://read.amazon.com/?asin=B008164K6A).
+942 Rof -- Glendower Country / Martha Rofheart -- Endeavour Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00ZRSIQBU).
 
-k813 Hic -- From Chaos Born / Michael R Hicks. -- Imperial Guard Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B007L2R5XA).
+813 Geo -- Gods of Kiranis / Ronald A Geobey. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0087OUE7K).
 
-k813 Ver -- From the Earth to the Moon and Round the Moon / Jules Verne -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004UJTUKI).
+813 Tur -- Goliath / Richard Turner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DQGMT6S).
 
-k813 Bra -- Frontier Justice / Arthur Bradley -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B00CYR3Z2W).
+818 Las -- Gone Whalin' / Conor Lastowka -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GFVCFWO).
 
-k371 Ada  -- Full Classrooms, Empty Selves: Reflections on a Decade of Teaching in an American High School / Jeremy Adams -- Middleman, [n.d.] -- [www](https://read.amazon.com/?asin=B007Z88RXW).
+813 Roq -- Graveyard Shift / Angela Roquet -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009M0ARH0).
 
-k520 The -- Galaxies, stars and planets / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X6OUK).
+370 Mag -- GRE Prep by Magoosh /  Lele, Chris ,  McGarry, Mike Magoosh  -- RTC Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01MTEK77B).
 
-k920 Ham -- Gandhi: A Life Inspired / Lynn M Hamilton ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/).
+813 Chi -- Grounded / G Ching P.. -- Carpe Luna Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00A6F67LK).
 
-k813 All -- Gehenna Dawn: Portal Wars I / Jay Allan -- System 7 Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00GKNFZMO).
+920 Buk -- Gypsy Spirit: What My Boat Taught Me About Love And Life / Christine Bukruian -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B0089MN4Y0).
 
-k813 Vas -- Genesis Earth / Joe Vasicek -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0053H8XKO).
+813 Bur -- Hall of heroes: a fellowship of fantasy anthology. -- H.L. Burke, c2017. -- [www](https://read.amazon.com/?asin=B0736TZ3ZP).
 
-k942 Rof -- Glendower Country / Martha Rofheart -- Endeavour Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00ZRSIQBU).
+920 You -- Harvest: Memoir of a Mormon Missionary / Jacob Young -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0041G6LH0).
 
-k813 Geo -- Gods of Kiranis / Ronald A Geobey. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0087OUE7K).
+813 Ake  -- Haven / D.C. Akers. -- [s.n.], 2013. -- [www](https://read.amazon.com/?asin=B00CR4IR7A).
 
-k813 Tur -- Goliath / Richard Turner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DQGMT6S).
+813 Sco -- Hieroglyph / W Scott J. ,  Helle-Nielsen, John. -- CopyPress Books, [n.d.] -- [www](https://read.amazon.com/?asin=B016IZYDE4).
 
-k818 Las -- Gone Whalin' / Conor Lastowka -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GFVCFWO).
+813 For -- His Dark Empire / M Forbes R.. -- Quirky Algorithms, [n.d.] -- [www](https://read.amazon.com/?asin=B00EWCNYX2).
 
-k813 Roq -- Graveyard Shift / Angela Roquet -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009M0ARH0).
+973 Vul -- History Bytes: 37 People, Places, and Events that Shaped American History / Nick Vulich -- digitalhistoryproject.com, [n.d.] -- [www](https://read.amazon.com/?asin=B00Y7O6AOA).
 
-k370 Mag -- GRE Prep by Magoosh /  Lele, Chris ,  McGarry, Mike Magoosh  -- RTC Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01MTEK77B).
+940 Haz -- History of Europe 1870-1919 / Charles Hazen -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01N0FZTMJ).
 
-k813 Chi -- Grounded / G Ching P.. -- Carpe Luna Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00A6F67LK).
+973 Web -- History: American History in 50 Events: From First Immigration to World Power / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00VGUZSQE).
 
-k920 Buk -- Gypsy Spirit: What My Boat Taught Me About Love And Life / Christine Bukruian -- CreateSpace Independent Publishing Platform, [n.d.] -- [www](https://read.amazon.com/?asin=B0089MN4Y0).
+930 Web -- History: Ancient History in 50 Events: From Ancient Civilizations to the Fall of the Roman Empire / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B010W6OW5U).
 
-k Bur  -- Hall of Heroes: A Fellowship of Fantasy Anthology / H Burke L. ,  Baugh, Laura VanArendonk ,  Zaplendam, Page ,  Ippolito, Janeen ,  Dearen, Tamie ,  Fugett, Deanna ,  Ashwood, Sarah ,  Luke, Frank B. ,  Daigle, Arthur ,  Silverberry, A. R. ,  Writes, E. Kaiser ,  Bakke, A. J. ,  Astle, Dianne ,  Conte, R. J. ,  Frauenfelder, D. W. ,  Bendoly, Laura Matthias ,  Horne, J. Philip ,  Gilbert, Julie C. ,  Havin, Karin Di ,  Doué, Lea ,  Jones, Katy Huth ,  Millican, David ,  Elliott, Jessica L.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0736TZ3ZP).
+813 Yau -- Homeostasis Lost / Kyan Yauchler -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DCCRFGU).
 
-k920 You -- Harvest: Memoir of a Mormon Missionary / Jacob Young -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0041G6LH0).
+378 The -- How to be a critical reader / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5X84).
 
-813 Ake  --   / D AkersC.. -- 2013, [n.d.] -- [www](https://read.amazon.com/?asin=Fri 07/02/2021).
+395 Sch  -- How to be a gentleman / Niel Schreiber -- Niel Schreiber, [n.d.] -- [www](https://read.amazon.com/?asin=B00N992NEA).
 
-k813 Sco -- Hieroglyph / W Scott J. ,  Helle-Nielsen, John. -- CopyPress Books, [n.d.] -- [www](https://read.amazon.com/?asin=B016IZYDE4).
+332 Tai -- How To Live For Free: The Definitive Guide / Deepak ,  Foulger, Laura Tailor -- Church & Company, [n.d.] -- [www](https://read.amazon.com/?asin=B00Q38CDKI).
 
-k813 For -- His Dark Empire / M Forbes R.. -- Quirky Algorithms, [n.d.] -- [www](https://read.amazon.com/?asin=B00EWCNYX2).
+817 Mic  -- How to train your goat: the unconventional memoir of an outdoor humorist / Grizzley James -- J.J. Michaels, [n.d.] -- [www](https://read.amazon.com/?asin=B06W2NYYSM).
 
-k973 Vul -- History Bytes: 37 People, Places, and Events that Shaped American History / Nick Vulich -- digitalhistoryproject.com, [n.d.] -- [www](https://read.amazon.com/?asin=B00Y7O6AOA).
+658 Hay -- How to write a business plan in 90 minutes or less: The 90 Minute Business Plan: / Fraser J Hay. -- Fraser J Hay, [n.d.] -- [www](https://read.amazon.com/?asin=B00EZ3QW6O).
 
-k940 Haz -- History of Europe 1870-1919 / Charles Hazen -- Jovian Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01N0FZTMJ).
+808 Sco -- How to Write a Nonfiction eBook in 21 Days - That Readers LOVE! / Steve Scott -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AB77M5S).
 
-k973 Web -- History: American History in 50 Events: From First Immigration to World Power / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00VGUZSQE).
+813 Moh -- Humid / Travis Mohrman -- DeadPixel Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00UK4E5BQ).
 
-k930 Web -- History: Ancient History in 50 Events: From Ancient Civilizations to the Fall of the Roman Empire / James Weber -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B010W6OW5U).
+813 Twi -- I AM SLEEPLESS: Sim 299 / Johan Twiss -- Twiss Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B017AIVGMU).
 
-k813 Yau -- Homeostasis Lost / Kyan Yauchler -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00DCCRFGU).
+813 Goc -- I Bring the Fire Part I : Wolves / C Gockel. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B008UUIGB2).
 
-k378 The -- How to be a critical reader / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5X84).
+813 Hin -- Immurement: The Undergrounders Series Book One / Norma Hinkens -- Dunecadia Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0197BHT1K).
 
-k Sch  -- How to be a Gentleman: What Every Modern Man Needs to Know about Manners and Behaviors to Attract Women Now / Niel Schreiber -- Niel Schreiber, [n.d.] -- [www](https://read.amazon.com/?asin=B00N992NEA).
+813 New -- In Japan's Backcountry / Jane M Newby. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HL535PO).
 
-k332 Tai -- How To Live For Free: The Definitive Guide / Deepak ,  Foulger, Laura Tailor -- Church & Company, [n.d.] -- [www](https://read.amazon.com/?asin=B00Q38CDKI).
+813 Mar -- In Limbo / E Marsh C.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HKKDGAO).
 
-k Mic  -- How to Train Your Goat: The Unconventional Memoir of an Outdoor Humorist / J Michaels J. ,  James, Grizzly. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06W2NYYSM).
+813 War -- In the End / Tracey Ward -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HMA9J58).
 
-k658 Hay -- How to write a business plan in 90 minutes or less: The 90 Minute Business Plan: / Fraser J Hay. -- Fraser J Hay, [n.d.] -- [www](https://read.amazon.com/?asin=B00EZ3QW6O).
+13 Eva -- In The Land of Broken Time: The Incredible Journey / Maria ,  Evan, Max Evan -- Max and Maria Evans, [n.d.] -- [www](https://read.amazon.com/?asin=B01JM4FG6C).
 
-k808 Sco -- How to Write a Nonfiction eBook in 21 Days - That Readers LOVE! / Steve Scott -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AB77M5S).
+306 Bro  -- In the line of fire: 70 articles from the front lines of the culture wars / Michael L Brown. -- 1st ed. -- EqualTime Books, c2012. -- [www](https://read.amazon.com/?asin=B008BXVQU6).
 
-k813 Moh -- Humid / Travis Mohrman -- DeadPixel Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00UK4E5BQ).
+823 Mac -- In Their Shoes: The Trilogy (The Teacher, The Actor & The Model): The Hilarious, Uproarious and Outrageous British Satire Series! / Andrew ,  Kreacher Mackay -- Chrome Valley Books, [n.d.] -- [www](https://read.amazon.com/?asin=B06XS826DM).
 
-k813 Twi -- I AM SLEEPLESS: Sim 299 / Johan Twiss -- Twiss Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B017AIVGMU).
+813 DiS -- Incubation / Laura DiSilverio -- diAgio Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01DNDF1UY).
 
-k813 Goc -- I Bring the Fire Part I : Wolves / C Gockel. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B008UUIGB2).
+813 Buc -- Indigo Incite: The Indigo Trilogy: Book One / Jacinda Buchmann -- Jacinda Buchmann, [n.d.] -- [www](https://read.amazon.com/?asin=B00CT9XL42).
 
-k813 Hin -- Immurement: The Undergrounders Series Book One / Norma Hinkens -- Dunecadia Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0197BHT1K).
+813 Sch -- INFECTED / James Schannep -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009ANKHQK).
 
-k813 New -- In Japan's Backcountry / Jane M Newby. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HL535PO).
+813 For -- INFECtIOUS: Revised Third Edition / Elizabeth Forkey -- Entrada Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00L4MS50A).
 
-k813 Mar -- In Limbo / E Marsh C.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HKKDGAO).
+813 Bry -- Inferno Park / J Bryan L.. -- J.L. Bryan, [n.d.] -- [www](https://read.amazon.com/?asin=B00MPY3EAC).
 
-k813 War -- In the End / Tracey Ward -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HMA9J58).
+001 The -- Information on the web / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X6UIG).
 
-k13 Eva -- In The Land of Broken Time: The Incredible Journey / Maria ,  Evan, Max Evan -- Max and Maria Evans, [n.d.] -- [www](https://read.amazon.com/?asin=B01JM4FG6C).
+813 May -- Initiate - Test (Book 1-Episode 7): The Unfinished Song Series - An Epic Faerie Tale / Tara Maya -- Misque Press, [n.d.] -- [www](https://read.amazon.com/?asin=B013W13L0Y).
 
-k Bro  -- In the Line of Fire: 70 Articles from the Front Lines of the Culture Wars / Michael L Brown. -- EqualTime Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008BXVQU6).
+813 Ste -- INTEL 1 Omnibus: Books 1-4 / Erec Stebbins -- Twice Pi Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01I5ZS4E0).
 
-k823 Mac -- In Their Shoes: The Trilogy (The Teacher, The Actor & The Model): The Hilarious, Uproarious and Outrageous British Satire Series! / Andrew ,  Kreacher Mackay -- Chrome Valley Books, [n.d.] -- [www](https://read.amazon.com/?asin=B06XS826DM).
+813 Sto -- Interesting Times / Matthew Storm -- Cranberry Lane Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00BGX9YVG).
 
-k813 DiS -- Incubation / Laura DiSilverio -- diAgio Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01DNDF1UY).
+920 Hom -- Into the North Wind: A thousand-mile bicycle adventure across frozen Alaska / Jill Homer -- Arctic Glass Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LK0W54M).
 
-k813 Buc -- Indigo Incite: The Indigo Trilogy: Book One / Jacinda Buchmann -- Jacinda Buchmann, [n.d.] -- [www](https://read.amazon.com/?asin=B00CT9XL42).
+813 Mei -- Into Tolari Space / Christie Meierz -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AQ8HTFU).
 
-k813 Sch -- INFECTED / James Schannep -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009ANKHQK).
+657 The -- Introduction to bookkeeping and accounting / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/).
 
-k813 For -- INFECtIOUS: Revised Third Edition / Elizabeth Forkey -- Entrada Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00L4MS50A).
+006 The -- Introduction to computational thinking / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5ZO6).
 
-k813 Bry -- Inferno Park / J Bryan L.. -- J.L. Bryan, [n.d.] -- [www](https://read.amazon.com/?asin=B00MPY3EAC).
+813 Tru -- Invasion / Johnny B Truant ,  Platt, Sean ,  Sands, Realm and. -- Sterling & Stone, [n.d.] -- [www](https://read.amazon.com/?asin=B00TADUV1Q).
 
-k001 The -- Information on the web / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X6UIG).
+813 Bra -- Irradiated / S Brandis Elliot. -- Aberrant Minds Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00KAWN3ZM).
 
-k813 May -- Initiate - Test (Book 1-Episode 7): The Unfinished Song Series - An Epic Faerie Tale / Tara Maya -- Misque Press, [n.d.] -- [www](https://read.amazon.com/?asin=B013W13L0Y).
+915 Sch -- Island Explorer: An Indonesian Travelogue / Dan Scheffler -- Trippy Books, [n.d.] -- [www](https://read.amazon.com/?asin=B0096Q8VV4).
 
-k813 Ste -- INTEL 1 Omnibus: Books 1-4 / Erec Stebbins -- Twice Pi Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01I5ZS4E0).
+920 Nor -- J.R.R. Tolkien: A Life Inspired / Wyatt North -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00PZ8V830).
 
-k813 Sto -- Interesting Times / Matthew Storm -- Cranberry Lane Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00BGX9YVG).
+813 Kai -- Jacinto's Voyage / Daniel A Kaine. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B008CX0C8M).
 
-k920 Hom -- Into the North Wind: A thousand-mile bicycle adventure across frozen Alaska / Jill Homer -- Arctic Glass Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LK0W54M).
+813 Ste -- Jamey Jones and the Sons of Noah / Jeremy David Stevens -- Jeremy Stevens, [n.d.] -- [www](https://read.amazon.com/?asin=B01EEOI30G).
 
-k813 Mei -- Into Tolari Space / Christie Meierz -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AQ8HTFU).
+823 Bro -- Jane Eyre / Charlotte Brontë -- Charlotte Brontë, [n.d.] -- [www](https://read.amazon.com/?asin=B01B04602G).
 
-k657 The -- Introduction to bookkeeping and accounting / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/).
+270 Jen -- Jesus Wars: How Four Patriarchs, Three Queens, and Two Emperors Decided What Christians Would Believe for the Next 1,500 Years / John Philip Jenkins -- HarperOne, [n.d.] -- [www](https://read.amazon.com/?asin=B00395ZYVI).
 
-k006 The -- Introduction to computational thinking / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5ZO6).
+821 Lan -- John Milton's Paradise Lost In Plain English / Joseph ,  Milton, John Lanzara -- New Arts Library, [n.d.] -- [www](https://read.amazon.com/?asin=B0087Q15Q2).
 
-k813 Tru -- Invasion / Johnny B Truant ,  Platt, Sean ,  Sands, Realm and. -- Sterling & Stone, [n.d.] -- [www](https://read.amazon.com/?asin=B00TADUV1Q).
+813 Wil -- Joshua / John S Wilson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007S0DMT6).
 
-k813 Bra -- Irradiated / S Brandis Elliot. -- Aberrant Minds Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00KAWN3ZM).
+152 Bro -- Just Do It: Ten Ways to Help Increase Making Your Dreams and Goals a Reality / Paul Brodie -- Paul G. Brodie, [n.d.] -- [www](https://read.amazon.com/?asin=B01N753SGS).
 
-k25 Sec -- ISBD / Standing Committee of the IFLA Cataloguing ,  Group, ISBD Review Section -- De Gruyter Saur, [n.d.] -- [www](https://read.amazon.com/).
+813 Cas -- Kahayatle / Elle Casey -- Elle Casey, [n.d.] -- [www](https://read.amazon.com/?asin=B008E95UOK).
 
-k915 Sch -- Island Explorer: An Indonesian Travelogue / Dan Scheffler -- Trippy Books, [n.d.] -- [www](https://read.amazon.com/?asin=B0096Q8VV4).
+813 Whi -- Kasey and His Dragon / E White H.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E256KNA).
 
-k920 Nor -- J.R.R. Tolkien: A Life Inspired / Wyatt North -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00PZ8V830).
+387 Tho -- Keepers of the Light: The History of the Point Conception Lighthouse / Willard Thompson -- Rincon Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00F8JCVX2).
 
-k813 Kai -- Jacinto's Voyage / Daniel A Kaine. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B008CX0C8M).
+813 Sag -- Keltor / Jennifer Sage -- Jennifer Sage, [n.d.] -- [www](https://read.amazon.com/?asin=B0082TWQAI).
 
-k813 Ste -- Jamey Jones and the Sons of Noah / Jeremy David Stevens -- Jeremy Stevens, [n.d.] -- [www](https://read.amazon.com/?asin=B01EEOI30G).
+813 Eri  -- Kiatana's Journey / Natalie Erin -- Gryfyn Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00P0IPL38).
 
-k823 Bro -- Jane Eyre / Charlotte Brontë -- Charlotte Brontë, [n.d.] -- [www](https://read.amazon.com/?asin=B01B04602G).
+910 Kop -- Kihivas: Alone at the Ends of the Earth / Istvan Kopar -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017CQAIAQ).
 
-k270 Jen -- Jesus Wars: How Four Patriarchs, Three Queens, and Two Emperors Decided What Christians Would Believe for the Next 1,500 Years / John Philip Jenkins -- HarperOne, [n.d.] -- [www](https://read.amazon.com/?asin=B00395ZYVI).
+813 Byr -- Killing Hemingway: / Arthur Byrne -- Brian D. Meeks, [n.d.] -- [www](https://read.amazon.com/?asin=B00U01ICUO).
 
-k821 Lan -- John Milton's Paradise Lost In Plain English / Joseph ,  Milton, John Lanzara -- New Arts Library, [n.d.] -- [www](https://read.amazon.com/?asin=B0087Q15Q2).
+813 Wil -- Kincaid, Bounty Hunter: Revenge / Marty Williams -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MKB0T1C).
 
-k813 Wil -- Joshua / John S Wilson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007S0DMT6).
+813 Bus -- Knox's Irregulars / J Bush Wesley. -- Enclave Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00ND98HEG).
 
-k152 Bro -- Just Do It: Ten Ways to Help Increase Making Your Dreams and Goals a Reality / Paul Brodie -- Paul G. Brodie, [n.d.] -- [www](https://read.amazon.com/?asin=B01N753SGS).
+818 Tom -- Lakeside and Tide: Inspiration For Living Your Best Life Now / Jimmy Tomczak -- Wet Star, [n.d.] -- [www](https://read.amazon.com/?asin=B01M1NUK8R).
 
-k813 Cas -- Kahayatle / Elle Casey -- Elle Casey, [n.d.] -- [www](https://read.amazon.com/?asin=B008E95UOK).
+813 Whe -- Landmoor / Jeff Wheeler -- Amberlin Books, [n.d.] -- [www](https://read.amazon.com/?asin=B001U3YFP2).
 
-k813 Whi -- Kasey and His Dragon / E White H.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E256KNA).
+813 Pau -- Last Light / [n Paul Stephenson. -- Hollow Stone Pressd.] -- [www](https://read.amazon.com/?asin=B08WLTGKZV).
 
-k387 Tho -- Keepers of the Light: The History of the Point Conception Lighthouse / Willard Thompson -- Rincon Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00F8JCVX2).
+813 Isb -- Last Train Home / Megan Nugen Isbell -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00H1G6ZGE).
 
-k813 Sag -- Keltor / Jennifer Sage -- Jennifer Sage, [n.d.] -- [www](https://read.amazon.com/?asin=B0082TWQAI).
+791 Opp -- Laughs, Luck...and Lucy: How I Came to Create the Most Popular Sitcom of All Time / Jess ,  Oppenheimer, Gregg Oppenheimer -- Gregg Oppenheimer, [n.d.] -- [www](https://read.amazon.com/?asin=B002R5B1UO).
 
-k Eri  -- Kiatana's Journey / Natalie Erin -- Gryfyn Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00P0IPL38).
+813 But -- Lawdog: The Life and Times of Hayden Tilden / J Butts Lee. -- Beyond the Page, [n.d.] -- [www](https://read.amazon.com/?asin=B010EAR076).
 
-k910 Kop -- Kihivas: Alone at the Ends of the Earth / Istvan Kopar -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017CQAIAQ).
+005 Wil -- Learn PHP: The Beginner Guide: An Introduction to PHP Programming / Jake Day Williams -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ULKOU1O).
 
-k813 Byr -- Killing Hemingway: / Arthur Byrne -- Brian D. Meeks, [n.d.] -- [www](https://read.amazon.com/?asin=B00U01ICUO).
+371 The -- Learning how to learn / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5YBK).
 
-k813 Wil -- Kincaid, Bounty Hunter: Revenge / Marty Williams -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MKB0T1C).
+813 Kal -- Legacy / Autumn Kalquist -- Diapason Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B015799982).
 
-k813 Bus -- Knox's Irregulars / J Bush Wesley. -- Enclave Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00ND98HEG).
+813 Bla -- Legend of the Book Keeper / Daniel Blackaby -- Elevate Fiction, [n.d.] -- [www](https://read.amazon.com/?asin=B00ZGRTIIW).
 
-k818 Tom -- Lakeside and Tide: Inspiration For Living Your Best Life Now / Jimmy Tomczak -- Wet Star, [n.d.] -- [www](https://read.amazon.com/?asin=B01M1NUK8R).
+188 Sen -- Letters from a Stoic / [n Seneca. -- Xist Classicsd.] -- [www](https://read.amazon.com/?asin=B01BN2B3YK).
 
-k813 Whe -- Landmoor / Jeff Wheeler -- Amberlin Books, [n.d.] -- [www](https://read.amazon.com/?asin=B001U3YFP2).
+808 HUG -- Letting go: an anthology of attempts / M.E. Hughes, editor. -- Bacon Press Books, 2016. -- [www](https://read.amazon.com/?asin=B01B82DV9K).
 
-k813 Pau -- Last Light / [n Paul Stephenson. -- Hollow Stone Pressd.] -- [www](https://read.amazon.com/?asin=B08WLTGKZV).
+020 The -- Library of Alexandria / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01AWET3VU).
 
-k813 Isb -- Last Train Home / Megan Nugen Isbell -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00H1G6ZGE).
+813 Boy -- Lichgates: Book One of the Grimoire Saga / S Boyce M.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005W5L38G).
 
-k791 Opp -- Laughs, Luck...and Lucy: How I Came to Create the Most Popular Sitcom of All Time / Jess ,  Oppenheimer, Gregg Oppenheimer -- Gregg Oppenheimer, [n.d.] -- [www](https://read.amazon.com/?asin=B002R5B1UO).
+813 Bel -- Life / Rebecca Belliston -- Gated Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00VI6IDI6).
 
-k813 But -- Lawdog: The Life and Times of Hayden Tilden / J Butts Lee. -- Beyond the Page, [n.d.] -- [www](https://read.amazon.com/?asin=B010EAR076).
+979 Cre -- Life Among the Apaches / John Cremony -- Laconia Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B01HC98MR4).
 
-k005 Wil -- Learn PHP: The Beginner Guide: An Introduction to PHP Programming / Jake Day Williams -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00ULKOU1O).
+574 Whi -- Life in the shifting dunes / [n White. -- [s.ld.] -- [www](https://read.amazon.com/).
 
-k371 The -- Learning how to learn / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X5YBK).
+178 Hay -- Life Lived Simply: Meditation, Spirituality, and Conscious Living / Ronald Hays -- The Global Page, [n.d.] -- [www](https://read.amazon.com/?asin=B00F1GW6WI).
 
-k813 Kal -- Legacy / Autumn Kalquist -- Diapason Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B015799982).
+910 Tyn -- Life Nomadic / n Tynan. -- [S.n.d.] -- [www](https://read.amazon.com/?asin=B003RISMM0).
 
-k813 Bla -- Legend of the Book Keeper / Daniel Blackaby -- Elevate Fiction, [n.d.] -- [www](https://read.amazon.com/?asin=B00ZGRTIIW).
+917 Dam -- Life On Foot: A Walk Across America / Nate Damm -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00K5YVRF8).
 
-k188 Sen -- Letters from a Stoic / [n Seneca. -- Xist Classicsd.] -- [www](https://read.amazon.com/?asin=B01BN2B3YK).
+242 Tar -- Life Tides: Meditations / Elizabeth Tarbox -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008MP9IXU).
 
-k808  .  -- Letting Go: An Anthology of Attempts / [n  . -- Bacon Press Booksd.] -- [www](https://read.amazon.com/?asin=B01B82DV9K).
+004 Ann  -- Lightning Riders: A Clay Jared Western / R Annan. -- One Vision Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LY8AQ2K).
 
-k020 The -- Library of Alexandria / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01AWET3VU).
+004 Can -- Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators / Jason Cannon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01BJ8GCPS).
 
-k813 Boy -- Lichgates: Book One of the Grimoire Saga / S Boyce M.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005W5L38G).
+004 Can -- Linux for Beginners: An Introduction to the Linux Operating System and Command Line / Jason Cannon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HNC1AXY).
 
-k813 Bel -- Life / Rebecca Belliston -- Gated Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00VI6IDI6).
+178 McH -- Live Simple: 31 Tips To Declutter, Simplify, And Organize Your Life / Nate McHenry -- IMchange Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00CMEW7US).
 
-k979 Cre -- Life Among the Apaches / John Cremony -- Laconia Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B01HC98MR4).
+973 Los -- Lives of Signers of the Declaration of Independence / Benson John Lossing -- Laconia Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B01N8QHWF5).
 
-k574 Whi -- Life in the shifting dunes / [n White. -- [s.ld.] -- [www](https://read.amazon.com/).
+813 McK -- Logging Off / Caitlin McKenna -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005QCC6KE).
 
-k178 Hay -- Life Lived Simply: Meditation, Spirituality, and Conscious Living / Ronald Hays -- The Global Page, [n.d.] -- [www](https://read.amazon.com/?asin=B00F1GW6WI).
+813 Gar -- Lost Nowhere: A journey of self-discovery in a fantasy world / Phoebe Garnsworthy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01M7QYPPB).
 
-k910 Tyn -- Life Nomadic / n Tynan. -- [S.n.d.] -- [www](https://read.amazon.com/?asin=B003RISMM0).
+745 Loc -- Lotion & Candle Making: Lotion Making DIY Guide & How To Make Candles At Home Boxset / Leanna Lockhart -- LTL Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00T8J1CTW).
 
-k917 Dam -- Life On Foot: A Walk Across America / Nate Damm -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00K5YVRF8).
+813 Keo -- Margaret's Ark / Daniel G Keohane. -- Other Road Press, [n.d.] -- [www](https://read.amazon.com/?asin=B005BR27XA).
 
-k242 Tar -- Life Tides: Meditations / Elizabeth Tarbox -- Skinner House Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008MP9IXU).
+813 Whi -- Marking Time / April White -- Corazon Entertainment, [n.d.] -- [www](https://read.amazon.com/?asin=B009ZC6666).
 
-k Ann  -- Lightning Riders: A Clay Jared Western / R Annan. -- One Vision Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01LY8AQ2K).
+813 Pen -- Mars Station Alpha / Stephen Penner -- Ring of Fire Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B006GX97JK).
 
-k4 Can -- Linux Administration: The Linux Operating System and Command Line Guide for Linux Administrators / Jason Cannon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01BJ8GCPS).
+188 Aur -- Meditations / Marcus Aurelius -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082XJGRK).
 
-k4 Can -- Linux for Beginners: An Introduction to the Linux Operating System and Command Line / Jason Cannon -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00HNC1AXY).
+813 Rob -- Melkorka / Joshua ,  Bayne, Winter ,  Vandel, Josephe Robertson -- Crimson Edge Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00R7CMJ4O).
 
-k178 McH -- Live Simple: 31 Tips To Declutter, Simplify, And Organize Your Life / Nate McHenry -- IMchange Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00CMEW7US).
+813 Mar -- Memories of Darkness / Robert B Marcus, Jr.. -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B083X9G4BY).
 
-k973 Los -- Lives of Signers of the Declaration of Independence / Benson John Lossing -- Laconia Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B01N8QHWF5).
+813 Ama -- Mesmer, Book 1: Sanctuary / Isabella Amaris -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007XPPYII).
 
-k813 McK -- Logging Off / Caitlin McKenna -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005QCC6KE).
+641 Sto -- Microwave Mug Recipes: 50 Quick and Easy Ketogenic Diet Mug Recipes - Delicious Ketogenic Recipes That Take Only Minutes to Make / Jeremy Stone -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N54XHX3).
 
-k813 Gar -- Lost Nowhere: A journey of self-discovery in a fantasy world / Phoebe Garnsworthy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01M7QYPPB).
+289 Bil -- Mind the Light: Learning to See With Spiritual Eyes / J Bill Brent. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00853XTLQ).
 
-k745 Loc -- Lotion & Candle Making: Lotion Making DIY Guide & How To Make Candles At Home Boxset / Leanna Lockhart -- LTL Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00T8J1CTW).
+178 Rob -- Minimalist Living: Living Minimally-How to Reduce Your Stress and Improve Your Quality of Living Through Minimalism / Hannah Robbins -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N2AP210).
 
-k Min  -- Managing / Henry Mintzberg -- Berrett-Koehler Publishers, [n.d.] -- [www](https://read.amazon.com/).
+630 Beu -- Modern Rustic: Greenhouses and Gardening: A homesteading guidebook for subsistence gardening, heirloom vegetables and greenhouse ideas / Eric Beuning -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00IQKDYWW).
 
-k813 Keo -- Margaret's Ark / Daniel G Keohane. -- Other Road Press, [n.d.] -- [www](https://read.amazon.com/?asin=B005BR27XA).
+321 Whi -- Monarchy Matters / Peter Whittle -- Social Affairs Unit, [n.d.] -- [www](https://read.amazon.com/?asin=B004ZH8K74).
 
-k813 Whi -- Marking Time / April White -- Corazon Entertainment, [n.d.] -- [www](https://read.amazon.com/?asin=B009ZC6666).
+813 Lam -- Monte Vista Village: A Post-Apocalyptic, Dystopian Series / Lynn Lamb -- Lynn Lamb, [n.d.] -- [www](https://read.amazon.com/?asin=B00HUHVWZS).
 
-k813 Pen -- Mars Station Alpha / Stephen Penner -- Ring of Fire Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B006GX97JK).
+813 Gil -- Moon Hoax / Paul Gillebaard -- Dream Access Books, [n.d.] -- [www](https://read.amazon.com/?asin=B006KWTBI4).
 
-k188 Aur -- Meditations / Marcus Aurelius -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082XJGRK).
+813 Tay -- Moon of the White Wolf: An untold tale of the High Sierra, 1874: A Lone Pine Western / Mark Stephen Taylor -- CreateSpace, [n.d.] -- [www](https://read.amazon.com/?asin=B00K7J7XOA).
 
-k813 Rob -- Melkorka / Joshua ,  Bayne, Winter ,  Vandel, Josephe Robertson -- Crimson Edge Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00R7CMJ4O).
+813 Buc -- Mr. Standfast / John Buchan -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0084AN1VI).
 
-k813 Mar -- Memories of Darkness / Robert B Marcus, Jr.. -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B083X9G4BY).
+305 ASH -- Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice / edited by Richard T. Ashcroft and Mark Bevir . -- University of California Press, 2019. -- [www](https://read.amazon.com/?asin=B07V4WM9FC).
 
-k813 Ama -- Mesmer, Book 1: Sanctuary / Isabella Amaris -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007XPPYII).
+919 Car -- My Falkland Islands Life: One Family’s Very British Adventure / Jen Carter -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N1UD9A7).
 
-k641 Sto -- Microwave Mug Recipes: 50 Quick and Easy Ketogenic Diet Mug Recipes - Delicious Ketogenic Recipes That Take Only Minutes to Make / Jeremy Stone -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N54XHX3).
+398 Nye -- Mythology 101 / Jody Lynn Nye -- WordFire Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00Q3B5SDE).
 
-k289 Bil -- Mind the Light: Learning to See With Spiritual Eyes / J Bill Brent. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00853XTLQ).
+210 Mer -- Nature Mysticism / John Edward Mercer -- 2012, [n.d.] -- [www](https://read.amazon.com/?asin=B00848YOGQ).
 
-k178 Rob -- Minimalist Living: Living Minimally-How to Reduce Your Stress and Improve Your Quality of Living Through Minimalism / Hannah Robbins -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N2AP210).
+920 Loh -- Ness City Chronicles / William Lohnes -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0067EZ08U).
 
-k630 Beu -- Modern Rustic: Greenhouses and Gardening: A homesteading guidebook for subsistence gardening, heirloom vegetables and greenhouse ideas / Eric Beuning -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00IQKDYWW).
+220 NET -- NET bible noteless. -- 1st ed. -- Biblical Studies Press, c1996. -- [www](https://read.amazon.com/). -- "New English Translation"-cover.
 
-k321 Whi -- Monarchy Matters / Peter Whittle -- Social Affairs Unit, [n.d.] -- [www](https://read.amazon.com/?asin=B004ZH8K74).
+813 Ken -- New Sky: Eyes of the Watcher / Jason Kent -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01D1REW3Y).
 
-k813 Lam -- Monte Vista Village: A Post-Apocalyptic, Dystopian Series / Lynn Lamb -- Lynn Lamb, [n.d.] -- [www](https://read.amazon.com/?asin=B00HUHVWZS).
+813 Wil -- New World Rising: Book One in a Young Adult Dystopian Series / Jennifer Wilson -- Oftomes Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B018RMI6A8).
 
-k813 Gil -- Moon Hoax / Paul Gillebaard -- Dream Access Books, [n.d.] -- [www](https://read.amazon.com/?asin=B006KWTBI4).
+813 Whi -- New World: a Frontier Fantasy Novel / Steven W White. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005CFEN1U).
 
-k813 Tay -- Moon of the White Wolf: An untold tale of the High Sierra, 1874: A Lone Pine Western / Mark Stephen Taylor -- CreateSpace, [n.d.] -- [www](https://read.amazon.com/?asin=B00K7J7XOA).
+813 Cra -- Night of the Purple Moon / Scott Cramer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007OVUPXU).
 
-k813 Buc -- Mr. Standfast / John Buchan -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0084AN1VI).
+813 Hou -- Nightfall Gardens / Allen Houston -- Flycatcher Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00CPF7INK).
 
-k  .   -- Multiculturalism in the British Commonwealth: Comparative Perspectives on Theory and Practice / [n  . -- University of California Pressd.] -- [www](https://read.amazon.com/?asin=B07V4WM9FC).
+813 Kin -- Nimbus: A Steampunk Novel / Austin ,  Keeton, B King J.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007YJ5A82).
 
-k919 Car -- My Falkland Islands Life: One Family’s Very British Adventure / Jen Carter -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01N1UD9A7).
+813 Mor -- Noah's Ark / Andrew J Morgan. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GMTKFIA).
 
-k398 Nye -- Mythology 101 / Jody Lynn Nye -- WordFire Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00Q3B5SDE).
+813 Mil -- Nolander / Becca Mills -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007R6PPZA).
 
-k210 Mer -- Nature Mysticism / John Edward Mercer -- 2012, [n.d.] -- [www](https://read.amazon.com/?asin=B00848YOGQ).
+808 Ray -- Non-Fiction Writing Machine - How to Write a Book in 5 1/ Anbu2 Days in 3 SIMPLE Steps / Rayappan -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B6FCXA8).
 
-k920 Loh -- Ness City Chronicles / William Lohnes -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0067EZ08U).
+813 Sil -- Obsidian Son: A Novel In The Nate Temple Supernatural Thriller Series / Shayne Silvers -- Argento Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B009NNHPIA).
 
-k220  .  -- NET bible noteless / [n  . -- Biblical Studies Pressd.] -- [www](https://read.amazon.com/).
+813 Par -- Offworld / Robin Parrish -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00AFWLZXE).
 
-k813 Ken -- New Sky: Eyes of the Watcher / Jason Kent -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01D1REW3Y).
+813 Bra -- Oil to Ashes 1: Picnic / Lee Brait -- Lee Brait, [n.d.] -- [www](https://read.amazon.com/?asin=B00F6KB7I8).
 
-k813 Wil -- New World Rising: Book One in a Young Adult Dystopian Series / Jennifer Wilson -- Oftomes Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B018RMI6A8).
+920 Arb -- On Duty With the Queen: My Time as a Buckingham Palace Press Secretary / Dickie Arbiter -- Blink Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00NU8O2ZS).
 
-k813 Whi -- New World: a Frontier Fantasy Novel / Steven W White. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005CFEN1U).
+640 McD -- One Acre Homestead: Planning for self-sufficiency and financial independence / Sara Simmons McDonald -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00APO6VDQ).
 
-k813 Cra -- Night of the Purple Moon / Scott Cramer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007OVUPXU).
+813 Mac -- One is Come / C MacLean H.. -- CNH Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00IMF6APE).
 
-k813 Hou -- Nightfall Gardens / Allen Houston -- Flycatcher Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00CPF7INK).
+813 Reh -- Only Human / Chris Reher -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009QAIRT6).
 
-k813 Kin -- Nimbus: A Steampunk Novel / Austin ,  Keeton, B King J.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007YJ5A82).
+813 Qui -- Open Minds / Susan Kaye Quinn -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005Z1RRUU).
 
-k813 Mor -- Noah's Ark / Andrew J Morgan. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GMTKFIA).
+813 Hun -- Operation Janus: A Time Command Novel / T Hunter Douglas. -- T Douglas Hunter, [n.d.] -- [www](https://read.amazon.com/?asin=B00D0XNSGM).
 
-k813 Mil -- Nolander / Becca Mills -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007R6PPZA).
+896 Fin -- Oral Literature in Africa / Ruth Finnegan -- Open Book Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00993QQ9S).
 
-k808 Ray -- Non-Fiction Writing Machine - How to Write a Book in 5 1/ Anbu2 Days in 3 SIMPLE Steps / Rayappan -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B6FCXA8).
+813 Hen -- Origins / Mark Henrikson -- Mark Henrikson, [n.d.] -- [www](https://read.amazon.com/?asin=B0086HPJX2).
 
-k813 Sil -- Obsidian Son: A Novel In The Nate Temple Supernatural Thriller Series / Shayne Silvers -- Argento Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B009NNHPIA).
+920 Ham -- Our Authentic Selves - Reflections on What We Believe & What We Wish We Believed / David Hampton -- Lighthouse Publishing of the Carolinas, [n.d.] -- [www](https://read.amazon.com/?asin=B01EH0C99I).
 
-k813 Par -- Offworld / Robin Parrish -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00AFWLZXE).
+813 Bol -- OUTSIDE - a post-apocalyptic novel / Shalini Boland -- Adrenalin Books, [n.d.] -- [www](https://read.amazon.com/?asin=B005DLQC0I).
 
-k813 Bra -- Oil to Ashes 1: Picnic / Lee Brait -- Lee Brait, [n.d.] -- [www](https://read.amazon.com/?asin=B00F6KB7I8).
+920 Hai -- Outside In / Peter Hain -- Biteback Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B006VL1HJ0).
 
-k920 Arb -- On Duty With the Queen: My Time as a Buckingham Palace Press Secretary / Dickie Arbiter -- Blink Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00NU8O2ZS).
+813 Leg -- Outview / Brandt Legg -- Laughing Rain, [n.d.] -- [www](https://read.amazon.com/?asin=B01B6KXMY8).
 
-k640 McD -- One Acre Homestead: Planning for self-sufficiency and financial independence / Sara Simmons McDonald -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00APO6VDQ).
+290 Car -- Pagan and Christian creeds: their origin and meaning / Edward Carpenter -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082T3QU2).
 
-k813 Mac -- One is Come / C MacLean H.. -- CNH Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00IMF6APE).
+980 Ros -- Panama 1914 - The Early Years of the Big Dig: The early years of the Big Dig / Ken ,  Keppler, Udo J Rossignol. -- Privateer Clause Publishing Co., [n.d.] -- [www](https://read.amazon.com/?asin=B0095D8OQA).
 
-k813 Reh -- Only Human / Chris Reher -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009QAIRT6).
+813 Dal -- Pardner's Trust / Randall Dale -- Horizons West Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00TZ5XVRK).
 
-k813 Qui -- Open Minds / Susan Kaye Quinn -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B005Z1RRUU).
+813 Lev -- Paskagankee: A Paskagankee Novel / Allan Leverone -- StoneGate Ink, [n.d.] -- [www](https://read.amazon.com/?asin=1624820522).
 
-k813 Hun -- Operation Janus: A Time Command Novel / T Hunter Douglas. -- T Douglas Hunter, [n.d.] -- [www](https://read.amazon.com/?asin=B00D0XNSGM).
+813 Gep -- Pavement Ends: The Exodus / Kurt Gepner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018FC3MG8).
 
-k896 Fin -- Oral Literature in Africa / Ruth Finnegan -- Open Book Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B00993QQ9S).
+813 For -- PaxCorpus / Ryan S Fortney ,  Fortney, Meryl S.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004XMY84U).
 
-k Ker  -- Orange Is the New Black: My Year in a Women's Prison / Piper Kerman -- Spiegel & Grau, [n.d.] -- [www](https://read.amazon.com/?asin=B0036S4B6M).
+k005 Hol -- Perl Core language--little black book / Steven Holzner -- Paraglyph Press, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Hen -- Origins / Mark Henrikson -- Mark Henrikson, [n.d.] -- [www](https://read.amazon.com/?asin=B0086HPJX2).
+813 Mar -- Planet Urth / Jennifer ,  Martucci, Christopher Martucci -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FKKWQXY).
 
-k920 Ham -- Our Authentic Selves - Reflections on What We Believe & What We Wish We Believed / David Hampton -- Lighthouse Publishing of the Carolinas, [n.d.] -- [www](https://read.amazon.com/?asin=B01EH0C99I).
+005 Dum -- Planning for Big Data / Edd Dumbill -- O'Reilly Media, [n.d.] -- [www](https://read.amazon.com/?asin=B007JWG7P4).
 
-k813 Bol -- OUTSIDE - a post-apocalyptic novel / Shalini Boland -- Adrenalin Books, [n.d.] -- [www](https://read.amazon.com/?asin=B005DLQC0I).
+813 Bro -- PLAZA: An Archaeological Thriller / Shane M Brown. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007H7QTG8).
 
-k920 Hai -- Outside In / Peter Hain -- Biteback Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B006VL1HJ0).
+920 Rus -- Pope Francis / Michael J Ruszala ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00GPULOIG).
 
-k813 Leg -- Outview / Brandt Legg -- Laughing Rain, [n.d.] -- [www](https://read.amazon.com/?asin=B01B6KXMY8).
+813 Wal -- Post-Apocalyptic Nomadic Warriors / Benjamin Wallace -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004YX7MLO).
 
-k290 Car -- Pagan and Christian creeds: their origin and meaning / Edward Carpenter -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082T3QU2).
+289 Sai -- Preach My Gospel: A Guide to Missionary Service / Church of Jesus Christ of Latter-day Saints -- Church of Jesus Christ of Latter-day Saints, [n.d.] -- [www](https://read.amazon.com/?asin=B008QGUHAI).
 
-k980 Ros -- Panama 1914 - The Early Years of the Big Dig: The early years of the Big Dig / Ken ,  Keppler, Udo J Rossignol. -- Privateer Clause Publishing Co., [n.d.] -- [www](https://read.amazon.com/?asin=B0095D8OQA).
+813 Lym -- Prelude to Dystopia / John Lyman -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B019JCOLB8).
 
-k813 Dal -- Pardner's Trust / Randall Dale -- Horizons West Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00TZ5XVRK).
+813 Qui -- Pressure Suite: Digital Science Fiction Anthology / Matthew W Quinn ,  Eakin, William R. ,  Campbell, Laura J. ,  Murphy, David ,  Aisteach, Kyle ,  Glass, James C. ,  McGeever, Fox ,  O'Connor, Kate ,  Palmer, Jason ,  Fiction, Digital. -- Digital Science Fiction, an imprint of Digital Fiction Publishing Corp., [n.d.] -- [www](https://read.amazon.com/?asin=B016SEPGY6).
 
-k813 Lev -- Paskagankee: A Paskagankee Novel / Allan Leverone -- StoneGate Ink, [n.d.] -- [www](https://read.amazon.com/?asin=1624820522).
+813 Hay -- Primal Shift: Part 1: A Post Apocalyptic Thriller / Griffin Hayes -- Trebor Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BUT3II6).
 
-k813 Gep -- Pavement Ends: The Exodus / Kurt Gepner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018FC3MG8).
+364 Bir -- Professor Birdsong's 147 Dumbest Criminal Stories: Florida / Leonard Birdsong -- Winghurst Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00TWPBL3O).
 
-k813 For -- PaxCorpus / Ryan S Fortney ,  Fortney, Meryl S.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004XMY84U).
+813 Pas -- Project - 16 / Martyn J Pass. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018UXGUW0).
 
-k5 Hol -- Perl Core language--little black book / Steven Holzner -- Paraglyph Press, [n.d.] -- [www](https://read.amazon.com/).
+658 The -- Project management: the start of the project journey / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X604A).
 
-kr813 Mar -- Planet Urth / Jennifer ,  Martucci, Christopher Martucci -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FKKWQXY).
+813 Sch -- Project Neptune / Sean Schafer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AGNP82G).
 
-k005 Dum -- Planning for Big Data / Edd Dumbill -- O'Reilly Media, [n.d.] -- [www](https://read.amazon.com/?asin=B007JWG7P4).
+813 Bow -- Prophecy's Ruin / Sam Bowring -- Orbit, [n.d.] -- [www](https://read.amazon.com/?asin=B00GW4QLF6).
 
-k813 Bro -- PLAZA: An Archaeological Thriller / Shane M Brown. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B007H7QTG8).
+813 Lar -- Prophet / R Larson J.. -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B0073UPQQS).
 
-k920 Rus -- Pope Francis / Michael J Ruszala ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00GPULOIG).
+004 Ada -- Python Programming: Learn Python Today! - Coding & Programming For Beginners / Mark Adams -- Resolute Minds Publishing, c2015 -- [www](https://read.amazon.com/?asin=B013L09EC0).
 
-k813 Wal -- Post-Apocalyptic Nomadic Warriors / Benjamin Wallace -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004YX7MLO).
+813 Hil -- Quantum Entanglement / Liesel K Hill. -- Liesel K. Hill, [n.d.] -- [www](https://read.amazon.com/?asin=B00F6643SI).
 
-k289 Sai -- Preach My Gospel: A Guide to Missionary Service / Church of Jesus Christ of Latter-day Saints -- Church of Jesus Christ of Latter-day Saints, [n.d.] -- [www](https://read.amazon.com/?asin=B008QGUHAI).
+641 Sco -- Quick Easy Recipes: 5 Ingredient Cookbook: Easy Recipes in 5 or Less Ingredients / Hannie P Scott. -- Hannie P. Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00W0EQCC4).
 
-k813 Lym -- Prelude to Dystopia / John Lyman -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B019JCOLB8).
+297 Kha -- Quran: A Simple English Translation / Maulana Wahiduddin ,  Goodword Khan -- Goodword Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00HIHMYWK).
 
-k813 Qui -- Pressure Suite: Digital Science Fiction Anthology / Matthew W Quinn ,  Eakin, William R. ,  Campbell, Laura J. ,  Murphy, David ,  Aisteach, Kyle ,  Glass, James C. ,  McGeever, Fox ,  O'Connor, Kate ,  Palmer, Jason ,  Fiction, Digital. -- Digital Science Fiction, an imprint of Digital Fiction Publishing Corp., [n.d.] -- [www](https://read.amazon.com/?asin=B016SEPGY6).
+813 ter -- Radio Sphere / Devin terSteeg -- Rime Giant, [n.d.] -- [www](https://read.amazon.com/?asin=B0121JTRG0).
 
-k813 Hay -- Primal Shift: Part 1: A Post Apocalyptic Thriller / Griffin Hayes -- Trebor Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BUT3II6).
+813 Com -- Raspberries and Vinegar / Valerie Comer -- GreenWords Media, [n.d.] -- [www](https://read.amazon.com/?asin=B00M8O7V80).
 
-k364 Bir -- Professor Birdsong's 147 Dumbest Criminal Stories: Florida / Leonard Birdsong -- Winghurst Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00TWPBL3O).
+813 Wri -- Ravage: An Apocalyptic Horror Novel / Iain Rob Wright -- SalGad Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00D3MSDSS).
 
-k813 Pas -- Project - 16 / Martyn J Pass. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018UXGUW0).
+813 Ste -- Reader / Erec Stebbins -- Twice Pi Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00CL0UQ5G).
 
-k658 The -- Project management: the start of the project journey / [n The Open University. -- The Open Universityd.] -- [www](https://read.amazon.com/?asin=B01D8X604A).
+813 Aud -- Realms Unreel / Audrey Auden -- Temen Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00695MXXM).
 
-k813 Sch -- Project Neptune / Sean Schafer -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00AGNP82G).
+335 Rus -- Reclaiming Socialism, or: Economic Democracy / Brian Rush -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00990ITQY).
 
-k813 Bow -- Prophecy's Ruin / Sam Bowring -- Orbit, [n.d.] -- [www](https://read.amazon.com/?asin=B00GW4QLF6).
+813 Mac -- Recoil / Joanne Macgregor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01E7EECOE).
 
-k813 Lar -- Prophet / R Larson J.. -- Bethany House Publishers, [n.d.] -- [www](https://read.amazon.com/?asin=B0073UPQQS).
+813 Lin -- Red Dot: Contact. Will the gravest threat come from closer to home than we expect? / Eugene Linn -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017TRSD46).
 
-k004 Ada -- Python Programming: Learn Python Today! - Coding & Programming For Beginners / Mark Adams -- Resolute Minds Publishing, c2015 -- [www](https://read.amazon.com/?asin=B013L09EC0).
+262 Vio -- Reimagining Church: Pursuing the Dream of Organic Christianity / Frank Viola -- David C. Cook, [n.d.] -- [www](https://read.amazon.com/?asin=B005N4O5Q8).
 
-k813 Hil -- Quantum Entanglement / Liesel K Hill. -- Liesel K. Hill, [n.d.] -- [www](https://read.amazon.com/?asin=B00F6643SI).
+370 New -- Reinventing the Liberal Arts: College in One Year for $5 / Tuck Newport -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OHZYWL2).
 
-k641 Sco -- Quick Easy Recipes: 5 Ingredient Cookbook: Easy Recipes in 5 or Less Ingredients / Hannie P Scott. -- Hannie P. Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00W0EQCC4).
+813 O'D -- Relentless / P O'Dwyer J.. -- Black Siren Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008FK4D2I).
 
-k297 Kha -- Quran: A Simple English Translation / Maulana Wahiduddin ,  Goodword Khan -- Goodword Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00HIHMYWK).
+808 Tha -- Relics: One: Relics Singularity Series Book 1 / Nick Thacker -- Turtleshell Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00Z96Q9U0).
 
-k813 ter -- Radio Sphere / Devin terSteeg -- Rime Giant, [n.d.] -- [www](https://read.amazon.com/?asin=B0121JTRG0).
+813 McM -- Retribution / Eric McMeins -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00C8VWE9O).
 
-k813 Com -- Raspberries and Vinegar / Valerie Comer -- GreenWords Media, [n.d.] -- [www](https://read.amazon.com/?asin=B00M8O7V80).
+813 Ric -- Rise of the Dragons / Morgan Rice -- Morgan Rice, [n.d.] -- [www](https://read.amazon.com/?asin=B00PQRJJY0).
 
-k813 Wri -- Ravage: An Apocalyptic Horror Novel / Iain Rob Wright -- SalGad Publishing Group, [n.d.] -- [www](https://read.amazon.com/?asin=B00D3MSDSS).
+813 Rya -- Rise Of The Six / Matt Ryan -- 32 Novel Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00T0HCQVU).
 
-k813 Ste -- Reader / Erec Stebbins -- Twice Pi Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00CL0UQ5G).
+930 Jac -- ROME : Ancient Rome: Roman History and The Roman Empire / Roy Jackson -- Healing Habits Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00WT6PE04).
 
-k813 Aud -- Realms Unreel / Audrey Auden -- Temen Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00695MXXM).
+818 Bar -- Roseannearchy: Dispatches from the Nut Farm / Roseanne Barr -- Gallery Books, [n.d.] -- [www](https://read.amazon.com/?asin=B003V1WSTQ).
 
-k335 Rus -- Reclaiming Socialism, or: Economic Democracy / Brian Rush -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00990ITQY).
+813 Dic -- Sagebrush / William Wayne Dicksion -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FVCV7K4).
 
-k813 Mac -- Recoil / Joanne Macgregor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01E7EECOE).
+813 Cra -- Sailor of the Skysea / A Crawford C. F.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00BQO25SY).
 
-k813 Lin -- Red Dot: Contact. Will the gravest threat come from closer to home than we expect? / Eugene Linn -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017TRSD46).
+005 For -- Sams Teach Yourself Regular Expressions in 10 Minutes / Ben Forta -- Sams Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0027KRPHM).
 
-k262 Vio -- Reimagining Church: Pursuing the Dream of Organic Christianity / Frank Viola -- David C. Cook, [n.d.] -- [www](https://read.amazon.com/?asin=B005N4O5Q8).
+909 Har -- Sapiens / Yuval Noah Harari -- HarperCollins, c2015., [n.d.] -- [www](https://read.amazon.com/).
 
-k370 New -- Reinventing the Liberal Arts: College in One Year for $5 / Tuck Newport -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OHZYWL2).
+813 Her -- Sapphire Universe / Devon Herrera -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B9L2B56).
 
-k813 O'D -- Relentless / P O'Dwyer J.. -- Black Siren Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008FK4D2I).
+813 Cli -- Scalp Dance / Lu Clifton -- Five Star Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01BO45BQI).
 
-k808 Tha -- Relics: One: Relics Singularity Series Book 1 / Nick Thacker -- Turtleshell Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00Z96Q9U0).
+813 Wes  -- SCAVENGERS: A Porter Rockwell Adventure / David J West. -- Lost Realms Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01N8OZK8I).
 
-k Hec  -- Resource revolution: how to capture the biggest business opportunity in a century / Stefan ,  Rogers, Matt ,  Carroll, Paul Heck -- Houghton Mifflin Harcourt, [n.d.] -- [www](https://read.amazon.com/).
+813 Riv -- Seabound / Jordan Rivet -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00P2L20NM).
 
-k813 McM -- Retribution / Eric McMeins -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00C8VWE9O).
+331 Lu, -- Secrets to Early Retirement Planning That Generation X Never Learned: A 5 Step-System for Worry-Free Life / Heath Lu -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B097WL1N1Z).
 
-k813 Ric -- Rise of the Dragons / Morgan Rice -- Morgan Rice, [n.d.] -- [www](https://read.amazon.com/?asin=B00PQRJJY0).
+813 Sul -- SECTOR C / Phoenix Sullivan -- Steel Magnolia Press, [n.d.] -- [www](https://read.amazon.com/?asin=B005K4W0QS).
 
-k813 Rya -- Rise Of The Six / Matt Ryan -- 32 Novel Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00T0HCQVU).
+813 Boy -- Seeker's Call / Cassandra Boyson -- Kingdom House Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00RDGG30U).
 
-k060  .  -- Robert's Rules of Order Newly Revised in Brief / [n  . -- Perseus Books Groupd.] -- [www](https://read.amazon.com/?asin=B001E0HN46).
+813 Faw -- Seer of Souls / Susan Faw -- Susan Faw, [n.d.] -- [www](https://read.amazon.com/?asin=B01M291J1U).
 
-k930 Jac -- ROME : Ancient Rome: Roman History and The Roman Empire / Roy Jackson -- Healing Habits Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00WT6PE04).
+320 Raw -- Servants of the People: The Inside Story of New Labour / Andrew Rawnsley -- Penguin, [n.d.] -- [www](https://read.amazon.com/?asin=B00390BDZE).
 
-k818 Bar -- Roseannearchy: Dispatches from the Nut Farm / Roseanne Barr -- Gallery Books, [n.d.] -- [www](https://read.amazon.com/?asin=B003V1WSTQ).
+818 Spe -- Seven Will Out: A Renaissance Revel / JoAnn Spears -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017TCUYHA).
 
-k813 Dic -- Sagebrush / William Wayne Dicksion -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00FVCV7K4).
+813 Dam -- Shadow of Oz / Nick Damon -- Secret Origin Press, [n.d.] -- [www](https://read.amazon.com/?asin=B008FVC7PC).
 
-k813 Cra -- Sailor of the Skysea / A Crawford C. F.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00BQO25SY).
+813 Raz -- Shadowline Drift / Alexes Razevich -- Razor Street Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00JEP2GBI).
 
-k005 For -- Sams Teach Yourself Regular Expressions in 10 Minutes / Ben Forta -- Sams Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0027KRPHM).
+813 Gre -- Shaman, Healer, Heretic: An Urban Fantasy Thriller / M Green Terry. -- Middleworld Productions, [n.d.] -- [www](https://read.amazon.com/?asin=_rw_ca_1).
 
-k909 Har -- Sapiens / Yuval Noah Harari -- HarperCollins, c2015., [n.d.] -- [www](https://read.amazon.com/).
+658 Jem -- She Thinks Like a Boss / [n Jemma Roedel. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B095B2F4MW).
 
-k813 Her -- Sapphire Universe / Devon Herrera -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B9L2B56).
+690 Mil -- Shipping Container Homes / Evan Miller -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018MXCARW).
 
-k813 Cli -- Scalp Dance / Lu Clifton -- Five Star Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B01BO45BQI).
+973 Vul -- Shot All to Hell: Bad Ass Outlaws, Gunfighters, and Law Men of the Old West / Nick ,  history-blogger Vulich -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01FPLXXLG).
 
-k Wes  -- SCAVENGERS: A Porter Rockwell Adventure / David J West. -- Lost Realms Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01N8OZK8I).
+813 Tho -- Siege of Titan / Michael G Thomas. -- Swordworks, [n.d.] -- [www](https://read.amazon.com/?asin=B004S7F3DU).
 
-k813 Riv -- Seabound / Jordan Rivet -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00P2L20NM).
+813 Ell -- Sifting Through Static / Ben Tyler Elliott -- Contronym Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00XQ8F4GS).
 
-k331 Lu, -- Secrets to Early Retirement Planning That Generation X Never Learned: A 5 Step-System for Worry-Free Life / Heath Lu -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B097WL1N1Z).
+178 Lip -- Simple Living - 30 days to less stuff and more life / Lorilee Lippincott -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009FKUGDW).
 
-k813 Sul -- SECTOR C / Phoenix Sullivan -- Steel Magnolia Press, [n.d.] -- [www](https://read.amazon.com/?asin=B005K4W0QS).
+813 Wes -- Six-Gun Serenade: A Porter Rockwell Adventure / David J West. -- Lost Realms Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01M4S1XW3).
 
-k813 Boy -- Seeker's Call / Cassandra Boyson -- Kingdom House Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00RDGG30U).
+813 Wea -- Sixth Cycle / Darren ,  Sinclair, Carl Wearmouth -- Phalanx Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00NVKD9OU).
 
-k813 Faw -- Seer of Souls / Susan Faw -- Susan Faw, [n.d.] -- [www](https://read.amazon.com/?asin=B01M291J1U).
+813 Reh -- Sky Hunter / Chris Reher -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00EXV57LO).
 
-k320 Raw -- Servants of the People: The Inside Story of New Labour / Andrew Rawnsley -- Penguin, [n.d.] -- [www](https://read.amazon.com/?asin=B00390BDZE).
+813 Fay -- Socrates and the Councillor / Thomas Fay -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B078Q8NLW5).
 
-k818 Spe -- Seven Will Out: A Renaissance Revel / JoAnn Spears -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B017TCUYHA).
+813 Pat -- Song and Signal / M Patterson E.. -- Digimonkey Studios, [n.d.] -- [www](https://read.amazon.com/?asin=B00FV8LPCI).
 
-k813 Dam -- Shadow of Oz / Nick Damon -- Secret Origin Press, [n.d.] -- [www](https://read.amazon.com/?asin=B008FVC7PC).
+813 Ise -- Song of the Mountain / Michelle Isenhoff -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00A8V6DL6).
 
-k813 Raz -- Shadowline Drift / Alexes Razevich -- Razor Street Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00JEP2GBI).
+200 Smi -- Souls in Transition: The Religious and Spiritual Lives of Emerging Adults / Christian ,  Snell, Patricia Smith -- Oxford University Press, [n.d.] -- [www](https://read.amazon.com/?asin=B004FPYKX4).
 
-k813 Gre -- Shaman, Healer, Heretic: An Urban Fantasy Thriller / M Green Terry. -- Middleworld Productions, [n.d.] -- [www](https://read.amazon.com/?asin=_rw_ca_1).
+813 Arr -- Sovereign / E Arroyo R.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009XZXW2Q).
 
-k658 Jem -- She Thinks Like a Boss / [n Jemma Roedel. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B095B2F4MW).
+813 Kui -- Spacegate: Deep Space Catastrophe / Elaina Keighley Kuijpers -- lulu.com, [n.d.] -- [www](https://read.amazon.com/?asin=1471652262).
 
-k690 Mil -- Shipping Container Homes / Evan Miller -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B018MXCARW).
+813 Lin -- Spark of imagination / Tony Lindblom -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B07JL5XPQT).
 
-k973 Vul -- Shot All to Hell: Bad Ass Outlaws, Gunfighters, and Law Men of the Old West / Nick ,  history-blogger Vulich -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01FPLXXLG).
+920 Pen -- Speak Swahili, Dammit!: A tragic, funny African childhood / James Penhaligon -- Trevelyan Publishers Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B00B1WOYY4).
 
-k813 Tho -- Siege of Titan / Michael G Thomas. -- Swordworks, [n.d.] -- [www](https://read.amazon.com/?asin=B004S7F3DU).
+813 Lal -- Spinward Fringe Broadcast 0: Origins / Randolph Lalonde -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004EPYUXA).
 
-k813 Ell -- Sifting Through Static / Ben Tyler Elliott -- Contronym Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00XQ8F4GS).
+813 Fay -- Star Rebels: Stories of Space Exploration, Alien Races, and Adventure / Audrey ,  Gockel, C Faye ,  Pope, Christine ,  Sharp, Anthea ,  Dunbar, D. L. ,  DaCosta, Pippa ,  Buroker, Lindsay ,  Jansen, Patty ,  Wells, James R.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01H7J5Z38).
 
-k178 Lip -- Simple Living - 30 days to less stuff and more life / Lorilee Lippincott -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009FKUGDW).
+813 Loz -- Star Shroud / Ken Lozito -- Acoustical Books LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01C9AKYT0).
 
-k813 Wes -- Six-Gun Serenade: A Porter Rockwell Adventure / David J West. -- Lost Realms Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01M4S1XW3).
+813 Rei -- Starbound: Eleven Tales of Interstellar Adventure / S Reine M. ,  Pope, Christine ,  Sharp, Anthea ,  Lowell, Nathan ,  Dunbar, Debra ,  Faye, Audrey ,  Gockel, C. ,  Weldon, Phaedra M. ,  Cohen, L. J. ,  Madison, Shawntelle ,  Vanderlinden, Colleen. -- Fireweed Publishing Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B01BJ6EWQQ).
 
-k813 Wea -- Sixth Cycle / Darren ,  Sinclair, Carl Wearmouth -- Phalanx Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00NVKD9OU).
+813 And -- Steampunk Fairy Tales / Leslie ,  Lind, Daniel ,  Castillo, Angela ,  Capes, Ashley ,  Champe, Chris ,  Latzko, Allison ,  White, Heather ,  Allen, David T Anderson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DHKEUXM).
 
-k813 Reh -- Sky Hunter / Chris Reher -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00EXV57LO).
+188 Jam -- Stoicism: Introduction to The Stoic Way of Life / Ryan James -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06Y2THJY5).
 
-k813 Fay -- Socrates and the Councillor / Thomas Fay -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B078Q8NLW5).
+910 Ble -- Stone Song: A Novel of the Life of Crazy Horse / Win Blevins -- WordWorx, [n.d.] -- [www](https://read.amazon.com/?asin=B01M73AR2B).
 
-k813 Pat -- Song and Signal / M Patterson E.. -- Digimonkey Studios, [n.d.] -- [www](https://read.amazon.com/?asin=B00FV8LPCI).
+813 Wha -- Stones: Data / Jacob Whaler -- Jacob Whaler, [n.d.] -- [www](https://read.amazon.com/?asin=B00EQEF2LI).
 
-k813 Ise -- Song of the Mountain / Michelle Isenhoff -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00A8V6DL6).
+941 Str -- Strange Tales of Scotland / Jack Strange -- Creativia, [n.d.] -- [www](https://read.amazon.com/?asin=B01NA0CFYQ).
 
-k200 Smi -- Souls in Transition: The Religious and Spiritual Lives of Emerging Adults / Christian ,  Snell, Patricia Smith -- Oxford University Press, [n.d.] -- [www](https://read.amazon.com/?asin=B004FPYKX4).
+813 For -- Survival: After It Happened Book 1 / Devon C Ford ,  Design, Book Cover by. -- DHP Publishing Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B01EGM1PTW).
 
-k813 Arr -- Sovereign / E Arroyo R.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B009XZXW2Q).
+813 Moa -- Symbiosis / Lee Moan -- Weird New Ink, [n.d.] -- [www](https://read.amazon.com/?asin=B004QTORAA).
 
-k813 Kui -- Spacegate: Deep Space Catastrophe / Elaina Keighley Kuijpers -- lulu.com, [n.d.] -- [www](https://read.amazon.com/?asin=1471652262).
+813 Bro -- Taking Ivy Seriously / Matthew David Brozik -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CKWNQKC).
 
-k813 Lin -- Spark of imagination / Tony Lindblom -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B07JL5XPQT).
+813 Moo -- Talisman of Ictis / Michael Moore -- Michael J Moore, [n.d.] -- [www](https://read.amazon.com/?asin=B00D0CISY0).
 
-k920 Pen -- Speak Swahili, Dammit!: A tragic, funny African childhood / James Penhaligon -- Trevelyan Publishers Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B00B1WOYY4).
+813 New -- Talwan's Vengeance / Christy ,  Newman, Sarah Newman -- Silver Mist Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00NEB6LPK).
 
-k813 Lal -- Spinward Fringe Broadcast 0: Origins / Randolph Lalonde -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004EPYUXA).
+299 Wal -- Tao Te Ching Lao Tzu A Translation: An Ancient Philosophy For The Modern World / Dennis Waller -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0096DIIHE).
 
-k813 Fay -- Star Rebels: Stories of Space Exploration, Alien Races, and Adventure / Audrey ,  Gockel, C Faye ,  Pope, Christine ,  Sharp, Anthea ,  Dunbar, D. L. ,  DaCosta, Pippa ,  Buroker, Lindsay ,  Jansen, Patty ,  Wells, James R.. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01H7J5Z38).
+920 Phi -- Teacher: A Woman's True Adventure Living and Working on a Remote Canadian First Nations Reserve / Hillary Phillips -- Hillary Phillips, [n.d.] -- [www](https://read.amazon.com/?asin=B00TM7MR30).
 
-k813 Loz -- Star Shroud / Ken Lozito -- Acoustical Books LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01C9AKYT0).
+374 Eng -- Teaching College: The Ultimate Guide to Lecturing, Presenting, and Engaging Students / Norman Eng -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01NCXF8JC).
 
-k813 Rei -- Starbound: Eleven Tales of Interstellar Adventure / S Reine M. ,  Pope, Christine ,  Sharp, Anthea ,  Lowell, Nathan ,  Dunbar, Debra ,  Faye, Audrey ,  Gockel, C. ,  Weldon, Phaedra M. ,  Cohen, L. J. ,  Madison, Shawntelle ,  Vanderlinden, Colleen. -- Fireweed Publishing Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B01BJ6EWQQ).
+813 Goo -- Temple of the Winds / Terry Goodkind -- RosettaBooks, [n.d.] -- [www](https://read.amazon.com/?asin=B00UNZQWDQ).
 
-k813 And -- Steampunk Fairy Tales / Leslie ,  Lind, Daniel ,  Castillo, Angela ,  Capes, Ashley ,  Champe, Chris ,  Latzko, Allison ,  White, Heather ,  Allen, David T Anderson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01DHKEUXM).
+920 Lil -- Tents, Tortoises, and Tailgates: My Life as a Wildlife Biologist / Scott Lillie -- [S.n.], [n.d.] -- [www](https://read.amazon.com/?asin=B00RAWMJ1E).
 
-k188 Jam -- Stoicism: Introduction to The Stoic Way of Life / Ryan James -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B06Y2THJY5).
+002 tes -- test title / [n test author. -- test publisherd.] -- [www](https://read.amazon.com/?asin=testaisn).
 
-k910 Ble -- Stone Song: A Novel of the Life of Crazy Horse / Win Blevins -- WordWorx, [n.d.] -- [www](https://read.amazon.com/?asin=B01M73AR2B).
+813 Dun -- Thaw / Bryan Dunn -- Bryan Dunn, [n.d.] -- [www](https://read.amazon.com/?asin=B004Q3RME4).
 
-k813 Wha -- Stones: Data / Jacob Whaler -- Jacob Whaler, [n.d.] -- [www](https://read.amazon.com/?asin=B00EQEF2LI).
+813 Hai -- The 5th Amulet / S Hailey J.. -- SJ Hailey, [n.d.] -- [www](https://read.amazon.com/?asin=B0096QYCJY).
 
-k941 Str -- Strange Tales of Scotland / Jack Strange -- Creativia, [n.d.] -- [www](https://read.amazon.com/?asin=B01NA0CFYQ).
+002 LYO -- The Academic Book of the Future / Rebecca E. Lyons and Samantha J. Rayner. -- Palgrave Macmillan, 2016. -- [www](https://read.amazon.com/).
 
-k813 For -- Survival: After It Happened Book 1 / Devon C Ford ,  Design, Book Cover by. -- DHP Publishing Ltd, [n.d.] -- [www](https://read.amazon.com/?asin=B01EGM1PTW).
+813 Twa -- The Adventures of Huckleberry Finn Tom Sawyer's Comrade / Mark Twain -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004UJISMY).
 
-k813 Moa -- Symbiosis / Lee Moan -- Weird New Ink, [n.d.] -- [www](https://read.amazon.com/?asin=B004QTORAA).
+813 Zen -- The After War: The Complete Series / Brandon Zenner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01JMS9CA4).
 
-k813 Bro -- Taking Ivy Seriously / Matthew David Brozik -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00CKWNQKC).
+813 Wha -- The Age of Innocence / Edith Wharton -- Open Road Media, [n.d.] -- [www](https://read.amazon.com/?asin=B00K5EBFB4).
 
-k813 Moo -- Talisman of Ictis / Michael Moore -- Michael J Moore, [n.d.] -- [www](https://read.amazon.com/?asin=B00D0CISY0).
+813 Cam -- The Alignment / Kay Camden -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GT5N8VI).
 
-k813 New -- Talwan's Vengeance / Christy ,  Newman, Sarah Newman -- Silver Mist Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00NEB6LPK).
+813 Rob -- The Alpha Plague: A Post-Apocalyptic Action Thriller / Michael Robertson -- Phalanx Press, [n.d.] -- [www](https://read.amazon.com/?asin=B010KWD8OC).
 
-k299 Wal -- Tao Te Ching Lao Tzu A Translation: An Ancient Philosophy For The Modern World / Dennis Waller -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0096DIIHE).
+813 Cha -- The Amber Project: A Dystopian Sci-fi Novel / J Chaney N.. -- Variant Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00W2AQ1KO).
 
-k920 Phi -- Teacher: A Woman's True Adventure Living and Working on a Remote Canadian First Nations Reserve / Hillary Phillips -- Hillary Phillips, [n.d.] -- [www](https://read.amazon.com/?asin=B00TM7MR30).
+289 Kra -- The Amish of Lancaster County / Donald B Kraybill ,  Rodriguez, Dr Daniel. -- Stackpole Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00CBX00MM).
 
-k374 Eng -- Teaching College: The Ultimate Guide to Lecturing, Presenting, and Engaging Students / Norman Eng -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01NCXF8JC).
+813 McC -- The Ancient Lands: Warrior Quest: Search for the Ifa Scepter / Jason ,  Alleyne, Shawn McCammon -- Brown-Eyed Dreams  LLC., [n.d.] -- [www](https://read.amazon.com/?asin=B002YX0NIU).
 
-k813 Goo -- Temple of the Winds / Terry Goodkind -- RosettaBooks, [n.d.] -- [www](https://read.amazon.com/?asin=B00UNZQWDQ).
+813 She -- The Arkansas River / Jory Sherman -- Roots & Branches, [n.d.] -- [www](https://read.amazon.com/?asin=B00CK1271C).
 
-k920 Lil -- Tents, Tortoises, and Tailgates: My Life as a Wildlife Biologist / Scott Lillie -- [S.n.], [n.d.] -- [www](https://read.amazon.com/?asin=B00RAWMJ1E).
+355 Tzu -- The Art of War / Sun Tzu -- KMW Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00C1T79DE).
 
-k002 tes -- test title / [n test author. -- test publisherd.] -- [www](https://read.amazon.com/?asin=testaisn).
+020 Ham -- The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World's Most Precious Manuscripts / Joshua Hammer -- Simon & Schuster, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Dun -- Thaw / Bryan Dunn -- Bryan Dunn, [n.d.] -- [www](https://read.amazon.com/?asin=B004Q3RME4).
+813 Tay -- The Bane / Keary Taylor -- Keary Taylor Book, INC, [n.d.] -- [www](https://read.amazon.com/?asin=B00BP1ZKJ4).
 
-k Ott  -- The 24-hour customer: new rules for winning in a time-starved, always-connected economy / Adrian C Ott -- HarperCollins, [n.d.] -- [www](https://read.amazon.com/).
+178 Jan -- The Beauty of Simplicity: A Photobook of Inspiration / Faith Janes -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B4I8BX0).
 
-k813 Hai -- The 5th Amulet / S Hailey J.. -- SJ Hailey, [n.d.] -- [www](https://read.amazon.com/?asin=B0096QYCJY).
+813 Lam -- The Beginning at the End of the World: A Post-Apocalyptic, Dystopian Series / Lynn Lamb -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MOURK0W).
 
-k2  .  -- The Academic Book of the Future / [n  . -- Palgrave Macmilland.] -- [www](https://read.amazon.com/).
+813 Hil -- The Big Bhang / Travis Hill -- Travis Hill, [n.d.] -- [www](https://read.amazon.com/?asin=B01CCPAITI).
 
-k813 Twa -- The Adventures of Huckleberry Finn Tom Sawyer's Comrade / Mark Twain -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004UJISMY).
+813 Jay -- The Black Heart of the Station / [n Jay Allan Storey. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B06XTXY8ZQ).
 
-k813 Zen -- The After War: The Complete Series / Brandon Zenner -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B01JMS9CA4).
+813 McC -- The Black Pearl of Osis / Ingrid ,  Szyc, Tom McCarthy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00905U2VS).
 
-k813 Wha -- The Age of Innocence / Edith Wharton -- Open Road Media, [n.d.] -- [www](https://read.amazon.com/?asin=B00K5EBFB4).
+813 Bra -- The Book of Creation / Evan ,  Byars, Clint M Braun. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006O9OJ6M).
 
-k813 Cam -- The Alignment / Kay Camden -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00GT5N8VI).
+813 Gre -- The Border Legion / Zane Grey -- Endymion Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LWY9HU4).
 
-k813 Rob -- The Alpha Plague: A Post-Apocalyptic Action Thriller / Michael Robertson -- Phalanx Press, [n.d.] -- [www](https://read.amazon.com/?asin=B010KWD8OC).
+813 Woo -- The Borderlands (Book One): Journey / Aderyn Wood -- [Publisher not identified], [n.d.] -- [www](https://read.amazon.com/?asin=B00KKZUF5A).
 
-k813 Cha -- The Amber Project: A Dystopian Sci-fi Novel / J Chaney N.. -- Variant Publications, [n.d.] -- [www](https://read.amazon.com/?asin=B00W2AQ1KO).
+813 Rob -- The Breakers Series: Books 1-3 / Edward W Robertson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E9YL3HM).
 
-k289 Kra -- The Amish of Lancaster County / Donald B Kraybill ,  Rodriguez, Dr Daniel. -- Stackpole Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00CBX00MM).
+813 Fre -- The Breeders: / Katie French -- Katie French Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008RH5MFQ).
 
-k813 McC -- The Ancient Lands: Warrior Quest: Search for the Ifa Scepter / Jason ,  Alleyne, Shawn McCammon -- Brown-Eyed Dreams  LLC., [n.d.] -- [www](https://read.amazon.com/?asin=B002YX0NIU).
+333 Rev -- The Burning Season: The Murder of Chico Mendes and the Fight for the Amazon Rain Forest / Andrew Revkin -- Island Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IL4EWQ0).
 
-k813 She -- The Arkansas River / Jory Sherman -- Roots & Branches, [n.d.] -- [www](https://read.amazon.com/?asin=B00CK1271C).
+813 Wil -- The Calypsis Project / Brittany M Willows. -- Brittany M. Willows, [n.d.] -- [www](https://read.amazon.com/?asin=B00HG0B07Y).
 
-k355 Tzu -- The Art of War / Sun Tzu -- KMW Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00C1T79DE).
+813 Lea -- The Candidate's Daughter / Catherine Lea -- Brakelight Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00D3DDNJQ).
 
-k020 Ham -- The Bad-Ass Librarians of Timbuktu: And Their Race to Save the World's Most Precious Manuscripts / Joshua Hammer -- Simon & Schuster, [n.d.] -- [www](https://read.amazon.com/).
+923 Doh  -- The Cargo Ship Diaries: 44 months, 37 countries, 0 flights / Niall Doherty -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00JDNAQ36).
 
-k813 Tay -- The Bane / Keary Taylor -- Keary Taylor Book, INC, [n.d.] -- [www](https://read.amazon.com/?asin=B00BP1ZKJ4).
+818 Tay -- The Cat Manual / Michael Ray Taylor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006ZTBJDM).
 
-k178 Jan -- The Beauty of Simplicity: A Photobook of Inspiration / Faith Janes -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B4I8BX0).
+813 Del  -- The Cathedral of Cliffdale / Melissa Delport -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013Y6P268).
 
-k813 Lam -- The Beginning at the End of the World: A Post-Apocalyptic, Dystopian Series / Lynn Lamb -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MOURK0W).
+813 McK -- The Chaos Protocol / Nancy ,  Theodore, Jim McKibben -- Malmesbury Books, [n.d.] -- [www](https://read.amazon.com/?asin=B009N83PSO).
 
-k813 Hil -- The Big Bhang / Travis Hill -- Travis Hill, [n.d.] -- [www](https://read.amazon.com/?asin=B01CCPAITI).
+813 Sha -- The China Pandemic: A Post Apocalyptic Medical Thriller / A Shaw R.. -- [Publisher not identified], [n.d.] -- [www](https://read.amazon.com/?asin=B00H06NGFS).
 
-k813 Jay -- The Black Heart of the Station / [n Jay Allan Storey. -- s.n.d.] -- [www](https://read.amazon.com/?asin=B06XTXY8ZQ).
+813 Ric -- The chiral agent / L RichmanL.. -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B088SJCN1P).
 
-k813 McC -- The Black Pearl of Osis / Ingrid ,  Szyc, Tom McCarthy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00905U2VS).
+813 Fis -- The Choice (Lancaster County Secrets Book #1): A Novel / Suzanne Woods Fisher -- Revell, [n.d.] -- [www](https://read.amazon.com/?asin=B00B5J4RB8).
 
-k813 Bra -- The Book of Creation / Evan ,  Byars, Clint M Braun. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006O9OJ6M).
+813 Maz -- The City of Wizards / George Mazurek -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OPBURQC).
 
-k813 Gre -- The Border Legion / Zane Grey -- Endymion Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LWY9HU4).
+640 Riv -- The Complete Guide to House Sitting / Nik Rivers -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013NO6S4Q).
 
-k813 Woo -- The Borderlands (Book One): Journey / Aderyn Wood -- [Publisher not identified], [n.d.] -- [www](https://read.amazon.com/?asin=B00KKZUF5A).
+811 Poe -- The Complete Tales and Poems of Edgar Allan Poe / Edgar Allan Poe -- Coterie Classics, [n.d.] -- [www](https://read.amazon.com/?asin=B01DE645W0).
 
-k813 Rob -- The Breakers Series: Books 1-3 / Edward W Robertson. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00E9YL3HM).
+813 Bau -- The Complete Wizard of Oz Collection / L Baum Frank. -- Waxkeep Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00CA5VVC4).
 
-k813 Fre -- The Breeders: / Katie French -- Katie French Books, [n.d.] -- [www](https://read.amazon.com/?asin=B008RH5MFQ).
+823 Dic  -- The Complete Works of Charles Dickens / Charles Dickens -- Oakshot Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LYBEBM6).
 
-k333 Rev -- The Burning Season: The Murder of Chico Mendes and the Fight for the Amazon Rain Forest / Andrew Revkin -- Island Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00IL4EWQ0).
+813 Lau -- The Covert Academy / Peter Laurent -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B95YRQ8).
 
-k813 Wil -- The Calypsis Project / Brittany M Willows. -- Brittany M. Willows, [n.d.] -- [www](https://read.amazon.com/?asin=B00HG0B07Y).
+813 Fel -- The Creator's Eye: Mover of Fate, Part I / R Feldman N.. -- R.N. Feldman, [n.d.] -- [www](https://read.amazon.com/?asin=B00O705KD6).
 
-k813 Lea -- The Candidate's Daughter / Catherine Lea -- Brakelight Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00D3DDNJQ).
+920 Ham -- The Dalai Lama: A Life Inspired / Lynn M Hamilton ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00OZ02ONC).
 
-k Doh  -- The Cargo Ship Diaries: 44 months, 37 countries, 0 flights / Niall Doherty -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00JDNAQ36).
+813 Rat -- The Dawning of Power: Young Adult Epic Fantasy Bundle / Brian ,  Brooker, Mike Rathbone -- White Wolf Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B001LRQKA0).
 
-k818 Tay -- The Cat Manual / Michael Ray Taylor -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B006ZTBJDM).
+813 Yan -- The Decadia Code / Jonathan ,  Baker, Apryl Yanez -- Limitless Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01LVXG3RU).
 
-k Del  -- The Cathedral of Cliffdale / Melissa Delport -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013Y6P268).
+813 Rot -- The Divergent Series Complete Collection: Divergent, Insurgent, Allegiant / Veronica Roth -- Katherine Tegen Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BW3AY64).
 
-k813 McK -- The Chaos Protocol / Nancy ,  Theodore, Jim McKibben -- Malmesbury Books, [n.d.] -- [www](https://read.amazon.com/?asin=B009N83PSO).
+813 Mal -- The Dolan Girls / S Mallery R.. -- [S.l.], [n.d.] -- [www](https://read.amazon.com/?asin=B018Y063XA).
 
-k813 Sha -- The China Pandemic: A Post Apocalyptic Medical Thriller / A Shaw R.. -- [Publisher not identified], [n.d.] -- [www](https://read.amazon.com/?asin=B00H06NGFS).
+813 Mil -- The Dragon Egg Curse / Craig Milton -- Two Black Mugs Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00B4CPY0Y).
 
-k813 Ric -- The chiral agent / L RichmanL.. -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B088SJCN1P).
+813 Bea -- The Dragon Gem / Brian Beam -- Brian Beam, [n.d.] -- [www](https://read.amazon.com/?asin=B007P02OHU).
 
-k813 Fis -- The Choice (Lancaster County Secrets Book #1): A Novel / Suzanne Woods Fisher -- Revell, [n.d.] -- [www](https://read.amazon.com/?asin=B00B5J4RB8).
+813 Col -- The Dragon Ring / C Coleman Craig ,  Carlos, Rob ,  Frade, Antonio. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MRGW1TI).
 
-k813 Maz -- The City of Wizards / George Mazurek -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00OPBURQC).
+813 Alv -- The Dragon Stone Trilogy: The Complete Box Set: Dragon Stones, Return of the Dragon Riders, Vosper's Revenge / Kristian Alva -- Defiant Pres International, [n.d.] -- [www](https://read.amazon.com/?asin=B0131UEFOM).
 
-k640 Riv -- The Complete Guide to House Sitting / Nik Rivers -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B013NO6S4Q).
+270 Hod -- The Early Church: From Ignatius to Augustine / George Hodges -- George Hodges, [n.d.] -- [www](https://read.amazon.com/?asin=B01N38JOMO).
 
-k811 Poe -- The Complete Tales and Poems of Edgar Allan Poe / Edgar Allan Poe -- Coterie Classics, [n.d.] -- [www](https://read.amazon.com/?asin=B01DE645W0).
+813 OMA -- The Egg Said Nothing / Caris O'Malley -- Eraserhead Press, [n.d.] -- [www](https://read.amazon.com/?asin=B004HB1VUG).
 
-k813 Bau -- The Complete Wizard of Oz Collection / L Baum Frank. -- Waxkeep Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00CA5VVC4).
+920 Har -- The Eighties: A Bitchen Time To Be a Teenager! / Tom Harvey -- Just Load The Wagon Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0084KT0WM).
 
-k Dic  -- The Complete Works of Charles Dickens / Charles Dickens -- Oakshot Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LYBEBM6).
+813 Gad -- The Elsbeck Chronicles: Wicked Roots / Alex ,  Roark, Aaron Gaddy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00A1QP6AC).
 
-k813 Lau -- The Covert Academy / Peter Laurent -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00B95YRQ8).
+813 Mat -- The Emerald Rider / M Mathias R.. -- Michael Robb Mathias Jr., [n.d.] -- [www](https://read.amazon.com/?asin=B00CLI2XB8).
 
-k Wil  -- The creator's code: the six essential skills of extraordinary entrepreneurs / Amy Wilkinson -- Simon & Schuster, [n.d.] -- [www](https://read.amazon.com/).
+324 Raw -- The end of the party: [the rise anf fall of New Labour] / Andrew Rawnsley -- Viking, [n.d.] -- [www](https://read.amazon.com/).
 
-k813 Fel -- The Creator's Eye: Mover of Fate, Part I / R Feldman N.. -- R.N. Feldman, [n.d.] -- [www](https://read.amazon.com/?asin=B00O705KD6).
+813 Tri -- The Enemy of an Enemy / Vincent Trigili -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004CFAP22).
 
-k920 Ham -- The Dalai Lama: A Life Inspired / Lynn M Hamilton ,  North, Wyatt. -- Wyatt North Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B00OZ02ONC).
-
-k813 Rat -- The Dawning of Power: Young Adult Epic Fantasy Bundle / Brian ,  Brooker, Mike Rathbone -- White Wolf Press, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B001LRQKA0).
-
-k813 Yan -- The Decadia Code / Jonathan ,  Baker, Apryl Yanez -- Limitless Publishing, LLC, [n.d.] -- [www](https://read.amazon.com/?asin=B01LVXG3RU).
-
-k813 Rot -- The Divergent Series Complete Collection: Divergent, Insurgent, Allegiant / Veronica Roth -- Katherine Tegen Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00BW3AY64).
-
-k813 Mal -- The Dolan Girls / S Mallery R.. -- [S.l.], [n.d.] -- [www](https://read.amazon.com/?asin=B018Y063XA).
-
-k813 Mil -- The Dragon Egg Curse / Craig Milton -- Two Black Mugs Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00B4CPY0Y).
-
-k813 Bea -- The Dragon Gem / Brian Beam -- Brian Beam, [n.d.] -- [www](https://read.amazon.com/?asin=B007P02OHU).
-
-k813 Col -- The Dragon Ring / C Coleman Craig ,  Carlos, Rob ,  Frade, Antonio. -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00MRGW1TI).
-
-k813 Alv -- The Dragon Stone Trilogy: The Complete Box Set: Dragon Stones, Return of the Dragon Riders, Vosper's Revenge / Kristian Alva -- Defiant Pres International, [n.d.] -- [www](https://read.amazon.com/?asin=B0131UEFOM).
-
-k Rob  -- The e factor: engage, energize, enrich : 3 steps to vibrant health / Michelle Robin -- CreateSpace, [n.d.] -- [www](https://read.amazon.com/).
-
-k270 Hod -- The Early Church: From Ignatius to Augustine / George Hodges -- George Hodges, [n.d.] -- [www](https://read.amazon.com/?asin=B01N38JOMO).
-
-k813 O'M -- The Egg Said Nothing / Caris O'Malley -- Eraserhead Press, [n.d.] -- [www](https://read.amazon.com/?asin=B004HB1VUG).
-
-k920 Har -- The Eighties: A Bitchen Time To Be a Teenager! / Tom Harvey -- Just Load The Wagon Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B0084KT0WM).
-
-k813 Gad -- The Elsbeck Chronicles: Wicked Roots / Alex ,  Roark, Aaron Gaddy -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00A1QP6AC).
-
-k813 Mat -- The Emerald Rider / M Mathias R.. -- Michael Robb Mathias Jr., [n.d.] -- [www](https://read.amazon.com/?asin=B00CLI2XB8).
-
-k324 Raw -- The end of the party: [the rise anf fall of New Labour] / Andrew Rawnsley -- Viking, [n.d.] -- [www](https://read.amazon.com/).
-
-k813 Tri -- The Enemy of an Enemy / Vincent Trigili -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B004CFAP22).
-
-k Bag  -- The English Constitution / Walter Bagehot -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082YI9PY).
-
-k Rid  -- The evolution of everything: how new ideas emerge / Matt Ridley -- [S.n., n.d.] -- [www](https://read.amazon.com/).
+321 Bag  -- The English Constitution / Walter Bagehot -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B0082YI9PY).
 
 813 Bro  -- The Extinction Switch / Andrew Broderick -- Andrew C. Broderick, [n.d.] -- [www](https://read.amazon.com/?asin=B01GEPUG5S).
 
