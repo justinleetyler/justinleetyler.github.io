@@ -1896,9 +1896,7 @@
 
 813 ARE -- A Legacy of Light / Daniel Arenson -- Moonclipse, [n.d.] -- [www](https://read.amazon.com/?asin=B00C43FYLQ).
 
-813 ARE -- A Memory of Earth / Daniel Arenson -- s.n., [n.d.] -- [www](https://read.amazon.com/?asin=B077J8WH3B).
-
-813 ARE -- A memory of Earth / Daniel Arenson. -- Moonclipse, 2018. -- Mode of Access: [World Wide Web](https://read.amazon.com/?asin=B077J8WH3B). -- ASIN B077J8WH3B.
+813 ARE -- A memory of Earth / Daniel Arenson. -- Moonclipse, 2018. -- [www.](https://read.amazon.com/?asin=B077J8WH3B). -- ASIN B077J8WH3B.
 > Read 2021-10 -- Grade C. -r -- Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. -s -- "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." -q
 
 813 ARE -- The heirs of Earth / Daniel Arenson. -- Moonclipse, 2017. -- [www](https://read.amazon.com/?asin=B077J7X6H7). -- AISN B077J7X6H7. -- DBID 20210911_190618.
@@ -1914,7 +1912,7 @@
 
 813 Ada -- The Last Survivors / Bobby ,  Piperbrook, T Adair W.. -- Ancient City Publishing, [n.d.] -- [www](https://read.amazon.com/?asin=B00O2PB03U).
 
-813 Ake  -- Haven / D.C. Akers. -- [s.n.], 2013. -- [www](https://read.amazon.com/?asin=B00CR4IR7A).
+813 Ake -- Haven / D.C. Akers. -- [s.n.], 2013. -- [www](https://read.amazon.com/?asin=B00CR4IR7A).
 
 813 Alb -- Time web tremors / Bill Albert -- [S.n., n.d.] -- [www](https://read.amazon.com/).
 
@@ -1952,8 +1950,6 @@
 813 BAR  -- Lunatics / Dave Barry and Alan Zweibel. -- [S.n., n.d.] -- v.
 > Read 2016-06. Grade C. -r
 
-813 BAR -- Aquifer / Gary Barnes. -- 1st ed. -- Blue Spring Press, 2013. -- [www](https://read.amazon.com). -- AISN B00907BWIS.
-
 813 BAR -- Aquifer: A Novel / Gary Barnes -- Blue Spring Press, [n.d.] -- [www](https://read.amazon.com/?asin=B00907BWIS).
 
 813 BAR -- Insane city / Dave Barry. -- G.P. Putnam's sons, c2013. -- 341 p. -- ISBN 9780399158681.
@@ -1982,7 +1978,7 @@
 813 BRA -- The book of creation / by Evan Braun and Clint Byars. -- [S.n.], c2011. -- [www](https://read.amazon.com/?aisn=B006O9OJ6M).
 > Read 2020-10 -- Grade D. -r -- The only word I can use is heavy. I’ve been feeling heavy all day... -q -- they’ve lost perspective on what we’re here to do in the first place. Which is to find out where we come from, learn about the past, and share it with the world. -q -- The cognitive dissonance was enough to make a man’s head explode. -q -- Ira sighed. There were some things hardly worth explaining. -q -- Typical religious doublespeak, -q -- He wanted to close his eyes, to shut out the struggle, but he could not look away. -q -- All he could do was present the information; what Wörtlich did with it was his own choice. -q
 
-813 BRO  -- Inferno / Dan Brown. -- Anchor, c2013. -- [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865.
+813 BRO -- Inferno / Dan Brown. -- Anchor, c2013. -- [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960). -- ISBN 9780385537865.
 > Read 2017-05. Grade D. -r -- Madness breeds madness. -q
 
 813 BRO -- Angels and demons / Dan Brown. -- New York : Pocket Books, c2000. -- 430 p. -- DBID 0019. -- ISBN 0671027352
@@ -2102,7 +2098,7 @@
 
 813 Bri -- Z-Minus: The Zombie Apocalypse Series / Perrin Briar -- [S.n., n.d.] -- [www](https://read.amazon.com/?asin=B00QVHRMQG).
 
-813 Bro  -- The Extinction Switch / Andrew Broderick -- Andrew C. Broderick, [n.d.] -- [www](https://read.amazon.com/?asin=B01GEPUG5S).
+813 Bro -- The Extinction Switch / Andrew Broderick -- Andrew C. Broderick, [n.d.] -- [www](https://read.amazon.com/?asin=B01GEPUG5S).
 
 813 Bro -- Conroy's First Command / Robert Broomall -- BlueStone Media, [n.d.] -- [www](https://read.amazon.com/).
 
@@ -2248,8 +2244,6 @@
 > Read 2020-12. Grade C. -r
 
 813 DIA -- The light and the glass / Michael Diack. -- M. D., c2013. -- on 1 ASUS transformer tablet. -- ASIN B00GQZD1JA.
-
-813 DIC -- A Christmas Carol / Charles Dickens -- Atria Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5SE1TG).
 
 813 DIC -- Sagebrush / William Wayne Dicksion. -- W.D., c2008. -- [www](https://read.amazon.com). -- ASIN B00FVCV7K4.
 
@@ -3476,8 +3470,6 @@
 
 823 AUS -- Persuasion / Jane Austen. -- e-artnow, 2018. -- [www](https://read.amazon.com/?asin=B0797TCF3F).
 
-823 Aus -- Persuasion / Jane Austen. -- e-artnow, [n.d.] -- [www](https://read.amazon.com/?asin=B0797TCF3F).
-
 823 BUR -- A Princess of Mars / Edgar Rice Burroughs -- Larnaca Press, [n.d.] -- [www](https://read.amazon.com/?asin=B016VF8).
 
 823 Bro -- Jane Eyre / Charlotte Brontë -- Charlotte Brontë, [n.d.] -- [www](https://read.amazon.com/?asin=B01B04602G).
@@ -3506,12 +3498,14 @@
 > Read 2020-07. -- Grade D. -r --3 the selene is missing. -s -- “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our’) -q -- Dr. Tom Lawson had no great use for human beings, but he did respect the Universe. -q -- 7 lawson thinks he sees a spot of hear were tge ship was last known to be. -s -- 9 they play a court of inquiry game. -s -- 14 they found serene. -s -- Chief Engineer Lawrence did not believe that committees ever achieved anything. -q -- 17 as the crescue is undeeweigh, the co2 is rising. -s -- Don’t look as if you’re expecting a fight; that’s the best way to start one. -q -- Doctor Lawson was rapidly establishing a reputation as a somewhat prickly personality. -q -- Miss Morley, who was now as agreeable and considerate as her temperament would allow. -q -- 25 water being discharged from serene causes the dirt to become mud, and it sinks suddenly -s -- Look up Atlantis, then Lemuria or Mu. -r -- Having lost faith in themselves, men had sought salvation in the sky. -q -- American astronomer named O’Neill observed something very remarkable here on the Moon. -q -- WOTD: Saucerites -- 30 they are pulledd out. -s
 
 823 CLA -- The hammer of God / Arthur C. Clarke. -- RosettaBooks, 2012. -- [www](https://read.amazon.com/?aisn=B07H17TRDS).
-> Read 2020-06. -- Grade C. -r --4 kali is hitting earth -s -- Commonwealth of American States -f -- 9 menose was killed -- 12 Robert is asked ti captain the goliath -s -- 15 chrislam and the prophet fatima -- The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price. -- 18 excalaber project -- 19 someone heard tge excalaber wave. -s -- “Voice of Sirius.” -- Claimes to have interpreted the excaliber signal -f -- 25 goliath begins prep to deploy ATLAS. -s -- It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q -- 26 prep for blowing kali offcourse is in progress -s -- 32 atlas is gone. Plan b -- Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q -- 36 kali stops, but the fanatics try to push it. Its not an asteroid. -- 41 goliTh will not excape the explosion -s -- 43 the bomb detonates and the shock wave hits -s -- 44 the bomb fails to detinate -s -- 45 the bomb split the astferoid in two -- kali 2: "but the Great Thaw would change coastlines all around the world." -f -- kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
+> Read 2020-06. -- Grade C. -r -- 4 kali is hitting earth -s -- Commonwealth of American States -f -- 9 menose was killed -- 12 Robert is asked ti captain the goliath -s -- 15 chrislam and the prophet fatima -- The Brainman was so invaluable not only for entertainment but for education that within a single generation everyone who could afford it had acquired one—and had accepted baldness as the necessary price. -- 18 excalaber project -- 19 someone heard tge excalaber wave. -s -- “Voice of Sirius.” -- Claimes to have interpreted the excaliber signal -f -- 25 goliath begins prep to deploy ATLAS. -s -- It was difficult to believe that the future of humanity might well depend on this ungainly collection of hardware. -q -- 26 prep for blowing kali offcourse is in progress -s -- 32 atlas is gone. Plan b -- Human beings cannot remain for long in a state of perpetual crisis; the home planet had swiftly returned to something like normal. -q -- 36 kali stops, but the fanatics try to push it. Its not an asteroid. -- 41 goliTh will not excape the explosion -s -- 43 the bomb detonates and the shock wave hits -s -- 44 the bomb fails to detinate -s -- 45 the bomb split the astferoid in two -- kali 2: "but the Great Thaw would change coastlines all around the world." -f -- kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars’ worth of damage." -f
+
+823 DIC -- A Christmas Carol / Charles Dickens -- Atria Books, [n.d.] -- [www](https://read.amazon.com/?asin=B00H5SE1TG).
 
 823 DIC -- The old curiosity shop / Charles Dickens. -- London : Penguin Books, 2000. -- xxxi, 575 p. -- ISBN 0140437428. -- DBID 3148
 > Little Nell, 19th c., F. An orphan who works in her grandfathers curiosity shop. -p. -s -- Kit, 18th c., M. -p. -f -- Ch. 1: Nell, Kit, and the grandfather. The guy takes Nell home, and is concerned that the grandfather isn't able to take care of Nell. -s -- Ch. 4: The women chatter, and we are introduced to the despicable Mr. Quilp. -p. -s -- Ch. 5: Daniel Quilp forces a boy (who he calls dog) to open the counting-house. There, Nelly comes to give him a message -p. -q -- Ch. 6: Ness delivers Mr. Quilp a message, then he takes Ness home and gets Mrs. Quilp to fish for information on Quilps grandfather. -p. -s -- Ch. 8: Richard Swiveller goes to a dance but it goes horribly wrong, and reconsiders the possibility of marrying Nelly. -p. -s -- I came here... with my bosom expanded, my heart dilated, and my sentiments of a corresponding description. I go away with feelings that my be conceived but cannot be described, feeling within myself the desolating truth that my best affections have been experienced this night a stffler! -Richard -p. 75 -q
 
-823 Dic  -- The Complete Works of Charles Dickens / Charles Dickens -- Oakshot Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LYBEBM6).
+823 DIC  -- The complete works of Charles Dickens / Charles Dickens -- Oakshot Press, [n.d.] -- [www](https://read.amazon.com/?asin=B01LYBEBM6).
 
 823 FOR -- The foresters. -- [S.l. : s.n., n.d.] -- [1] v. -- DBID 1729.
 > '?but with the whole passion of love that existed in her nature, she embraced her husband's neck, and with every kindest and most encouraging word, addressed to his own ear, mingled prayers of holiest fervour for his peace of mimd to the Giver of all merices.' -p. 38-39 -q -- 'Chapter 5-Able forged a document to pay off a businessman from Edinburgh. Michael took responsibility for the debt, and after his father dies, will have to sell Dovenest. -Agnes is pregnant.' -p. 37-44 -s -- His [Michael Forester] whole appearance betokened no ordinary character -p. 9 -q
