@@ -1,18 +1,22 @@
-
-👋 Hi, Justin Lee Tyler, MLIS
+Welcome to Justin's little corner!
 ===
-Content Integration Engineer, [EBSCO](https:/www.ebsco.com)
 
-- 👀 I’m interested in reading! I'm currently reading **Five Justices**, by John Paul Stevens. See my reading [notes](/catalog) and [logs](/interests), a [catalog](/kindle_books.html) of my kindle books, and my favorite [websites](/bookmarks).
-- 🌱 I’m currently learning batch scripting.
-- 📫 How to reach me: justinleetyler at yahoo dot com
-
-[Resume](resume) 
----  
-- [Interests](http://justinleetyler.com/interests)
-- [Reading Notes](http://justinleetyler.com/interests)
-- [Education](https://justinleetyler.github.io/resume#education)
-- [Work Experience](https://justinleetyler.github.io/resume#work-experience)
-- [Professional References](https://justinleetyler.github.io/resume#work-experience)
+CURRENTLY READING:
 ---
-File last updated *2021-08-10*
+- 923  O'Toole, P.  The Moralist: Woodrow Wilson and the world he made.
+- 646  Allen, D.  Getting things done. Rev. ed.  Penguin, c2015.
+- 813  Bova, B.  Mars.
+
+[reading log](log.md)
+
+[about me! (resume)](resume.md)
+[my favorite quotes](quotes.md)
+
+[UU commonplace book](uucommonplacebook.md)
+[UU breviary](uubreviary.md)
+
+Links
+---
+[Library of Congress z39.50](https://www.loc.gov/z3950/)
+
+Contact me at justinleetyler at yahoo dot com !
