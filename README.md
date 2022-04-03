@@ -5,14 +5,15 @@ CURRENTLY READING:
 ---
 - 923  O'Toole, P.  The Moralist: Woodrow Wilson and the world he made.
 - 646  Allen, D.  Getting things done. Rev. ed.  Penguin, c2015.
-- 813  Bova, B.  Mars.
 
 [reading log](log.md)
 
 [about me! (resume)](resume.md)
+
 [my favorite quotes](quotes.md)
 
 [UU commonplace book](uucommonplacebook.md)
+
 [UU breviary](uubreviary.md)
 
 Links
