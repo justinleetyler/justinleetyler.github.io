@@ -26,6 +26,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 [HPL digital resources](https://haverhillpl.org/digital-resources/)
 
 - [Boston Globe](https://libraries.state.ma.us/login?db=pq_globe&locid=mlin_n_haverpub)
+- [Britannica](https://libraries.state.ma.us/login?eburl=https%3A%2F%2Flibrary.eb.com&ebtarget=%2Flevels%2Freferencecenter&ebboatid=9265643)
 
 [Configure Postfix to Send Email Using External SMTP Servers](https://www.linode.com/docs/guides/postfix-smtp-debian7/)
 
