@@ -112,6 +112,8 @@ Author.  Title.  place and year of pub.  extent.  number
 
 [320  Bogdanor, V.  Monarchy and the constitution.  Oxford, 1995.](https://docs.google.com/document/d/1vq3dAzkiRCUxmWPsvdyg2NBzIzvTT1FTbSWpod-rOsI/edit?usp=sharing)
 
+Dickens, C.J.F.  Little Dorrit.  (In Harper's mag, v.12-15, 1955-57).
+
 ^(.*? --)(.*?, )(.*?--)(.*?--)(.*)$
 
 $1$4~$3~$2 -- $5
