@@ -28,8 +28,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 - [Boston Globe](https://libraries.state.ma.us/login?db=pq_globe&locid=mlin_n_haverpub)
 - [Britannica](https://libraries.state.ma.us/login?eburl=https%3A%2F%2Flibrary.eb.com&ebtarget=%2Flevels%2Freferencecenter&ebboatid=9265643)
 
-[Configure Postfix to Send Email Using External SMTP Servers](https://www.linode.com/docs/guides/postfix-smtp-debian7/)
-
 [new age radio](https://player.live365.com/a55861?l)
 
 [Rise and fall of Getting Things Done](https://www.newyorker.com/tech/annals-of-technology/the-rise-and-fall-of-getting-things-done)
@@ -40,8 +38,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [weberbooks com](http://www.weberbooks.com/kindle/)
 
-[YouTube Converter & Downloader - Convert to MP3, MP4, AVI](https://www.onlinevideoconverter.com/video-converter)
-
 [Starship White Noise Sleep, Study, Focus Spaceship Lounge Sound 10 Hours - YouTube](https://www.youtube.com/watch?v=O7OWVgr67DM)
 
 [100\_Questions\_Unitarian\_Universalism pdf](https://asuuc.net/wp-content/uploads/2018/07/100_Questions_Unitarian_Universalism.pdf)
@@ -51,8 +47,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 [Freebooksy - Free Kindle Books, Nook Books, Apple Books and Kobo Books Hand-Selected Daily Pick your favorite genre, and start](https://www.freebooksy.com/)
 
 [Curlie - The Collector of URLs](https://curlie.org/)
-
-[Amazon com The Open University Kindle Store](https://www.amazon.com/s?i=digital-text&rh=p_27%3AThe+Open+University&s=price-asc-rank&qid=1565143085&text=The+Open+University&ref=sr_st_price-asc-rank)
 
 [Standard Ebooks Free and liberated ebooks, carefully produced for the true book lover](https://standardebooks.org/)
 
@@ -68,8 +62,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [MOBI to PDF: Convert MOBI eBooks to PDF easily](https://pdfcandy.com/mobi-to-pdf.html)
 
-[Microsoft Windows 1.0: Premiere Edition | PCjs Machines](https://www.pcjs.org/software/pcx86/sys/windows/1.00/)
-
 [Stratton Public Library Homepage](http://www.stratton.lib.me.us/#top)
 
 [Archer A7](http://192.168.0.1/webpages/login.html?t=1565084106403)
@@ -77,8 +69,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 [How to Deep-Clean Every Room in Your House | Better Homes & Gardens](https://www.bhg.com/homekeeping/house-cleaning/tips/how-to-deep-clean-your-house/#:~:text=How%20to%20Deep%20Clean%20Your%20House%201%20Brush,cycle%20on%20cold%2C...%206%20...%20%28more%20items%29%20)
 
 [Daily briefing](https://theweek.com/10things)
-
-[ABC Live Stream | 123TV - Watch USA TV Live Stream](http://123tvnow.com/watch/abc/)
 
 [Unitarian Church of Underwood](https://www.ucofu.org/newcomers.php)
 
@@ -88,21 +78,13 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [DOS - String Manipulation](https://www.dostips.com/DtTipsStringManipulation.php)
 
-[Amazon Best Sellers: Best Science Fiction](https://www.amazon.com/Best-Sellers-Kindle-Store-Science-Fiction/zgbs/digital-text/158591011/ref=zg_bs?_encoding=UTF8&tf=1)
-
-[The Old Net](http://theoldnet.com/)
-
 [FOR loop in Windows](https://www.windows-commandline.com/windows-for-loop-examples/)
 
 [Split string by delimiter in String manipulation of MS-DOS Commands](https://www.knowledgewalls.com/johnpeter/books/msdos-commands/split-string-by-delimiter)
 
 [hgazette.com](https://www.hgazette.com/)
 
-[RE230](http://192.168.0.254/webpages/index.html?v=417665da35)
-
 [History](http://www.freeland-holmes.lib.me.us/Board_Staff.html)
-
-[Floodgap Gopher-HTTP gateway gopher://gopher.floodgap.com/](https://gopher.floodgap.com/gopher/gw)
 
 ---
 
