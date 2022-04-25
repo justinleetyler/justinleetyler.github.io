@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[youtube - fountain of eternity](https://www.youtube.com/watch?v=ewcO1MNyRME)
+
 [HPL digital resources](https://haverhillpl.org/digital-resources/)
 
 - [Boston Globe](https://libraries.state.ma.us/login?db=pq_globe&locid=mlin_n_haverpub)
