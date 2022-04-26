@@ -25,10 +25,12 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [youtube - fountain of eternity](https://www.youtube.com/watch?v=ewcO1MNyRME)
 
-[HPL digital resources](https://haverhillpl.org/digital-resources/)
+[HPL digital resources](https://haverhillpl.org/digital-resources/) 21479
 
 - [Boston Globe](https://libraries.state.ma.us/login?db=pq_globe&locid=mlin_n_haverpub)
 - [Britannica](https://libraries.state.ma.us/login?eburl=https%3A%2F%2Flibrary.eb.com&ebtarget=%2Flevels%2Freferencecenter&ebboatid=9265643)
+
+[APL - newsbank](http://infoweb.newsbank.com/signin/AmesburyPublicLibrary) 22114
 
 [new age radio](https://player.live365.com/a55861?l)
 
