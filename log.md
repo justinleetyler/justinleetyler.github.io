@@ -171,7 +171,7 @@ Reading Log
 
 2016-10.  D.  Ansible 15715 / Stant Litore.  813
 
-2016-10.  C.  Snowline Drift / Razevich, Alexes.  813
+2016-10.  C.  Snowline Drift / Alexes Razevich.  813
 
 2016-10.  B.  Wizard's First Rule. / Terry Goodkind.  813.
 
@@ -249,7 +249,7 @@ Reading Log
 
 2014-06.  C.  Who is my God.  204.
 
-2014-06.  D.  Apprentice / Guindon, Eric.  813
+2014-06.  D.  Apprentice / Eric Guindon.  813
 
 2014-06.  C.  The hidden coronet / Catherine Fisher.  813.
 
@@ -263,7 +263,7 @@ Reading Log
 
 2014-04.  C.  Scholar Warrior / Deng Ming-Dao.  299.5.
 
-2014-03.  C.  The Amish of Lancaster County / by Donald B. Kraybill 
+2014-03.  C.  The Amish of Lancaster County / Donald B. Kraybill 
 
 2014-03.  C.  The Penkeepers / Taylor Hartley.  813.
 
@@ -355,55 +355,55 @@ Reading Log
 
 2012-09.    The traveler.  813
 
-2012-08.    Round the moon / by Jules Verne.  843
+2012-08.    Round the moon / Jules Verne.  843
 
 2012-08.    Riding the flume / Patricia Curtis Pfitsch.  813
 
-2012-07.    Abraham Lincoln, vampire hunter / by Seth Grahame-Smith.  813
+2012-07.    Abraham Lincoln, vampire hunter / Seth Grahame-Smith.  813
 
-2012-07.    The man who quit money / by Mark Sundeen.  332
+2012-07.    The man who quit money / Mark Sundeen.  332
 
 2012-07.    Abraham Lincoln / Thomas Keneally.  923.2
 
-2012-07.    Harry Potter and the goblet of fire / by J. K. Rowling; illustrations by Mary Grandpre.  823
+2012-07.    Harry Potter and the goblet of fire / J. K. Rowling; illustrations by Mary Grandpre.  823
 
 2012-06.    The civil war. / Louis P. Masur.  973.7
 
-2012-05.    Mr. President / Raphael, Ray.  352
+2012-05.    Mr. President / Ray Raphael.  352
 
-2012-05.    Harry Potter and the order of the Phoenix / Rowling, J.K.  823
+2012-05.    Harry Potter and the order of the Phoenix / J.K. Rowling.  823
 
-2012-05.    The children of the sky / Vinge, Vernor.  813
+2012-05.    The children of the sky / Vernor Vinge.  813
 
-2012-05.    Companions on the inner way : / Morton T. Kelsey.  248.2
+2012-05.    Companions on the inner way / Morton T. Kelsey.  248.2
 
-2012-04.    The essence of Shinto : / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin.  299.5
+2012-04.    The essence of Shinto / Motohisa Yamakage ; translators, Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; editors, Paul de Leeuw, Aidan Rankin.  299.5
 
-2012-04.    Wicca : / Scott Cunningham.  133
+2012-04.    Wicca / Scott Cunningham.  133
 
 2012-03.    Angels & demons / Dan Brown.  813
 
-2012-03.    The audacity of hope : / Barack Obama.  923.2
+2012-03.    The audacity of hope / Barack Obama.  923.2
 
 2012-03.    The plague / Albert Camus.  843
 
-2012-03.    Liberal religion : / Frank G. Opton.  289.1
+2012-03.    Liberal religion / Frank G. Opton.  289.1
 
-2012-03.    Timbuktu : / Marq De Villiers and Sheila Hirtle.  966
+2012-03.    Timbuktu / Marq De Villiers and Sheila Hirtle.  966
 
-2012-03.    One with Jesus : / translated from the French of Paul de Jaegher.  248
+2012-03.    One with Jesus / translated from the French of Paul de Jaegher.  248
 
 2012-03.    Four faces of Jesus.  232
 
-2012-03.    Andrew Carnegie / by David nasaw.  923
+2012-03.    Andrew Carnegie / David nasaw.  923
 
-2012-03.    Journaling : / Anne Broyles.  248
+2012-03.    Journaling / Anne Broyles.  248
 
 2012-03.    The portable Nietzsche / selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann.  193
 
-2012-03.    A chosen faith : / John A. Buehrens and Forrest Church ; new foreword by Robert Fulghum ; new preface by Denise Davidoff.  289.1
+2012-03.    A chosen faith / John A. Buehrens and Forrest Church ; new foreword by Robert Fulghum ; new preface by Denise Davidoff.  289.1
 
-2012-03.    Profiles in audacity : / Alan Axelrod.  921
+2012-03.    Profiles in audacity / Alan Axelrod.  921
 
 2012-03.    Dave Barry in cyberspace / Dave Barry.  818
 
@@ -413,13 +413,13 @@ Reading Log
 
 2012-02.    FlashForward / by Robert J. Sawyer.  813
 
-2012-01.    Harry Potter and the chamber of secrets / by J. K. Rowling.  823
+2012-01.    Harry Potter and the chamber of secrets / J.K. Rowling.  823
 
-2012-01.    Harry Potter and the sorcerer's stone / by J.K. Rowling.  823
+2012-01.    Harry Potter and the sorcerer's stone / J.K. Rowling.  823
 
 2011-12.    First king of Shannara / Terry Brooks.  813
 
-2011-11.    The measure of the magic / by Terry Brooks.  813
+2011-11.    The measure of the magic / Terry Brooks.  813
 
 2011-10.    Reel spirituality / Robert K. Johnston.  261
 
@@ -433,31 +433,31 @@ Reading Log
 
 2011-10.    Bearers of the black staff / Terry Brooks.  813
 
-2011-10.    The life of the cosmos /.  523
+2011-10.    The life of the cosmos.  523
 
-2011-10.    Five chiefs : / John Paul Stevens.  347
+2011-10.    Five chiefs / John Paul Stevens.  347
 
 2011-10.    Women in the world's religions, past and present /.  291
 
-2011-10.    Ethics and spirituality at work : / edited by Thierry C. Pauchant.  174
+2011-10.    Ethics and spirituality at work / edited by Thierry C. Pauchant.  174
 
 2011-10.    A defense of utilitarianism / C. L. Sheng.  171
 
-2011-10.    An autobiography : / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok.  B
+2011-10.    An autobiography / Mohandas K. Gandhi ; translated from the original in Gujarati by Mahadev Desai ; with a foreword by Sissela Bok.  B
 
-2011-10.    Anatomy of the sacred : / James C. Livingston.  200
+2011-10.    Anatomy of the sacred / James C. Livingston.  200
 
-2011-10.    The Ancient mysteries : / edited by Marvin W. Meyer.  291.1
+2011-10.    The Ancient mysteries / edited by Marvin W. Meyer.  291.1
 
-2011-10.    Cape Breton Road : / D.R. MacDonald.  813
+2011-10.    Cape Breton Road / D.R. MacDonald.  813
 
-2011-10.    Clay's way / Blair Mastbaum.  813
+2011-10.  B.  Clay's way / Blair Mastbaum.  813
 
-2011-10.    Consider Jesus :.  242
+2011-10.    Consider Jesus.  242
 
-2011-10.    Dragons of autumn twilight /.  813
+2011-10.    Dragons of autumn twilight / Margaret Weis.  813
 
-2011-10.    Ethics and spirituality at work : / edited by Thierry C. Pauchant.  174
+2011-10.    Ethics and spirituality at work / edited by Thierry C. Pauchant.  174
 
 2011-10.    Evil and the response of world religion / edited by William Cenkner.  291
 
@@ -467,23 +467,23 @@ Reading Log
 
 2011-10.    Moral issues and Christian responses / Patricia Beattie Jung, Shannon Jung.  241
 
-2011-10.    The New Testament : / Bart D. Ehrman.  225.6
+2011-10.    The New Testament / Bart D. Ehrman.  225.6
 
 2011-10.    Opening the Bible / Roger Ferlo.  220
 
-2011-10.    Psychology and religion : / Andrew R. Fuller.  200
+2011-10.    Psychology and religion / Andrew R. Fuller.  200
 
-2011-10.    The psychology of religion and coping : / Kenneth I. Pargament.  200
+2011-10.    The psychology of religion and coping / Kenneth I. Pargament.  200
 
 2011-10.    Religion and the clinical practice of psychology / edited by Edward P. Shafranske.  291.1/75
 
-2011-10.    The secret Gospel of Mark unveiled : / Peter Jeffery.  229/.8
+2011-10.    The secret Gospel of Mark unveiled / Peter Jeffery.  229/.8
 
-2011-10.    Situation ethics; / by Joseph Fletcher.  170
+2011-10.    Situation ethics / by Joseph Fletcher.  170
 
 2011-10.    Some things that stay / Sarah Willis.  813/.54
 
-2011-10.    Work and spirit : / editors: Jerry Biberman, Michael D. Whitty.  291.1/785
+2011-10.    Work and spirit / editors: Jerry Biberman, Michael D. Whitty.  291.1/785
 
 2011-10.    Can Ethics Be Christian.  170
 
@@ -493,11 +493,11 @@ Reading Log
 
 2011-10.    Foresters, The.  823
 
-2011-10.  B The Greener Shore / Morgan Llywelyn.  813.  We know who we are by knowing what we have done. 
+2011-10.  B.  The Greener Shore / Morgan Llywelyn.  813.  We know who we are by knowing what we have done. 
 
 2011-10.    Illuminator, The.  813
 
-2011-10.    Philosophy :.  190
+2011-10.    Philosophy.  190
 
 2011-10.    Responsible Self, The.  171
 
@@ -507,13 +507,13 @@ Reading Log
 
 2011-10.    Light of Eidon.  813
 
-2011-10.    After God :.  200
+2011-10.    After God.  200
 
 2011-10.    The nine : inside the secret world of the Supreme Court.  347
 
-2011-10.    Outposts :.  910
+2011-10.    Outposts.  910
 
-2011-10.    The happy introvert :.  155
+2011-10.    The happy introvert.  155
 
 2011-10.    The forgotten founding father.  423
 
@@ -529,21 +529,21 @@ Reading Log
 
 2011-10.    The pirates of Somalia.   364
 
-2011-06.    Armageddon's children /.  813
+2011-06.    Armageddon's children / Terry Brooks.  813
 
-2011-06.    The alchemist /.  398
+2011-06.    The alchemist.  398
 
-2011-03.    The justice men owe women :.  291
+2011-03.    The justice men owe women.  291
 
-2010-11.    Dragons of winter night /.  813
+2010-11.    Dragons of winter night.  813
 
 2010-11.    The soulforge.  813
 
 2010-11.    Dragons of a vanished moon.  813
 
-2005-11.    Our endangered values / Carter, Jimmy.  306
+2005-11.    Our endangered values / Jimmy Carter.  306
 
-2005-05.    Frankenstein. .  823
+2005-05.    Frankenstein. 823.
 
 2005-05.    Angel and Demons / Dan Brown.  813
 
