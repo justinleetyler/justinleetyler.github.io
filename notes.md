@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[uu eucharist](https://www.uumin.org/sam/writings/UUcommunion.htm)
+
 [what's near me](https://whats-near.me/)
 
 [youtube - fountain of eternity](https://www.youtube.com/watch?v=ewcO1MNyRME)
