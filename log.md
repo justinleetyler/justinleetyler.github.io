@@ -1,6 +1,8 @@
 Reading Log
 ====
 
+2022-05.  C.  08 The life and tryals of the gentleman pirate, Major Sted Bonnet / Jeremy R. Moss.  920.  A biography.  
+
 2022-04.  D.  07 Ringworld / Larry Niven.  813.  A group of adventurers find that civilization has collapsed on Ringworld.
 
 2022-04.  B.  06 The House in the Cerulean Sea / T.J. Klune.  813.  Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage. 
