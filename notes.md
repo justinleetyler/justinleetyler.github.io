@@ -24,7 +24,10 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 ## bookmarks-other
 
 [uu eucharist](https://www.uumin.org/sam/writings/UUcommunion.htm)
-
+ - [gathered here](https://m.youtube.com/watch?v=Lb9ZsP_1zaM)
+ - [Let us Break Bread Together](https://m.youtube.com/watch?v=1AGEloqeAx4)
+ - [from you](https://m.youtube.com/watch?v=1-C1kY3Pxi0)
+ - 
 [what's near me](https://whats-near.me/)
 
 [youtube - fountain of eternity](https://www.youtube.com/watch?v=ewcO1MNyRME)
