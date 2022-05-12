@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
+
 [kadaza](https://www.kadaza.com/)
 
 [uu eucharist](https://www.uumin.org/sam/writings/UUcommunion.htm)
