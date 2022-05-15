@@ -1,6 +1,8 @@
 Reading Log
 ====
 
+2022-05.  B.  09 Earthweeds / Rod Little.  813.  An alien invasion novel. Sayans (inhabitants of Neptune's moon) begin a war to annex Earth.
+
 2022-05.  C.  08 The life and tryals of the gentleman pirate, Major Sted Bonnet / Jeremy R. Moss.  920.  A biography.  
 
 2022-04.  D.  07 Ringworld / Larry Niven.  813.  A group of adventurers find that civilization has collapsed on Ringworld.
