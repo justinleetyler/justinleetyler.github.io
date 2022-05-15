@@ -303,6 +303,7 @@ Star gazing log
 
 |Date | Description | Location/Dewey Number.|
 |-----|-------------|-----------------------|
+|2022-05 | Revenge of the spiders / Rod Little. | [813](https://www.hoopladigital.com/title/14947006) | 
 |2021-10 | The unitarian way / Phillip Hewett. | 288 |
 |2021-04 | The good fight / Walter Mondale ||
 |2020-07 | Indistinguishable from Magic / Robert L. Forward ||
