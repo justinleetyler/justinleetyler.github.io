@@ -25,7 +25,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
 
-[Services for congregational worship](https://archive.org/details/servicesforcong00assogoog/)
+(Book of Prayer and Praise for congregational worship)[https://archive.org/details/bookprayerandpr01assogoog]
 
 [kadaza](https://www.kadaza.com/)
 
