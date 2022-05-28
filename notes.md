@@ -25,7 +25,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
 
-(Book of Prayer and Praise for congregational worship)[https://archive.org/details/bookprayerandpr01assogoog]
+[Book of Prayer and Praise for congregational worship](https://archive.org/details/bookprayerandpr01assogoog)
 
 [kadaza](https://www.kadaza.com/)
 
@@ -61,7 +61,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Guide collection 100 one hundred important Questions Newcomers ask about World Religions Faith Moral Values Church what is cons](http://www.uupuertorico.org/100_Questions_eng/100_Questions.html)
 
-[Freebooksy - Free Kindle Books, Nook Books, Apple Books and Kobo Books Hand-Selected Daily Pick your favorite genre, and start](https://www.freebooksy.com/)
+[Freebooksy](https://www.freebooksy.com/)
 
 [Curlie - The Collector of URLs](https://curlie.org/)
 
@@ -83,7 +83,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Archer A7](http://192.168.0.1/webpages/login.html?t=1565084106403)
 
-[How to Deep-Clean Every Room in Your House | Better Homes & Gardens](https://www.bhg.com/homekeeping/house-cleaning/tips/how-to-deep-clean-your-house/#:~:text=How%20to%20Deep%20Clean%20Your%20House%201%20Brush,cycle%20on%20cold%2C...%206%20...%20%28more%20items%29%20)
+[How to Deep-Clean Every Room in Your House](https://www.bhg.com/homekeeping/house-cleaning/tips/how-to-deep-clean-your-house/#:~:text=How%20to%20Deep%20Clean%20Your%20House%201%20Brush,cycle%20on%20cold%2C...%206%20...%20%28more%20items%29%20)
 
 [Daily briefing](https://theweek.com/10things)
 
@@ -102,6 +102,10 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 [hgazette.com](https://www.hgazette.com/)
 
 [History](http://www.freeland-holmes.lib.me.us/Board_Staff.html)
+
+https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
+
+[obooks](https://www.obooko.com/)
 
 ---
 
@@ -143,30 +147,24 @@ $1$4~$3~$2 -- $5
 - add frequency note
 - add local identifier number if needed
 
-
-https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
-[obooks](https://www.obooko.com/)
-
 ---
 
 ## Lifehacks
 
-Iron Damp towel overvrug 
-
-spoon: cut soda bottle, use bottom as spoon
-http://lite.cnn.com/en
-Alcohal and all plant =hand sanitizer hand 🖐 
-Thread a needle by putting it over a toothbrush
-Clean a shoe by using toothpaste and toothbrush
-Use pizza cutter to shred lettace
-Soda and toithpasew equ cleaning solution
-Use toothpaste to fill in nail holes, clean taps, Rene stains on iron, defog, polish silver, 
-Water, vinegar, tyme makes disinfectant
-remove rust by putting ketchup on it for 15 min and wipping off.
-clean stains in tub using dishsoap and vinegar
-clean drains by making little cuts in plastic ties.
-put toothpaste in soap dispensor
-put shoes in showercap before putting in suitcasee
-Put plastic wrap on plate to keep plate clean
+- Iron Damp towel overvrug 
+- spoon: cut soda bottle, use bottom as spoon
+- Alcohal and all plant =hand sanitizer hand 🖐 
+- Thread a needle by putting it over a toothbrush
+- Clean a shoe by using toothpaste and toothbrush
+- Use pizza cutter to shred lettace
+- Soda and toithpasew equ cleaning solution
+- Use toothpaste to fill in nail holes, clean taps, Rene stains on iron, defog, polish silver, 
+- Water, vinegar, tyme makes disinfectant
+- remove rust by putting ketchup on it for 15 min and wipping off.
+- clean stains in tub using dishsoap and vinegar
+- clean drains by making little cuts in plastic ties.
+- put toothpaste in soap dispensor
+- put shoes in showercap before putting in suitcasee
+- Put plastic wrap on plate to keep plate clean
 
 
