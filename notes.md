@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+https://www.townandcountrymag.com/society/tradition/a39981303/how-to-watch-stream-queen-elizabeth-platinum-jubilee/
+
 [Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
 
 [Book of Prayer and Praise for congregational worship](https://archive.org/details/bookprayerandpr01assogoog)
