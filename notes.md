@@ -23,7 +23,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
-https://www.townandcountrymag.com/society/tradition/a39981303/how-to-watch-stream-queen-elizabeth-platinum-jubilee/
+[Shell scripting](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
 
 [Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
 
