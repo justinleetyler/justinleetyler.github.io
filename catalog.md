@@ -642,7 +642,7 @@
 305  Keen, A.  Cult of the amateur, The.  v.  i314
    > Read 0000-00.       
 
-305  Odell, J.  How to do nothing.  g.  i315
+305  Odell, J.  How to do nothing.  [g.](https://drive.google.com/file/d/1jcjxletqrJPgqhCarFFCpbsod1IPYfuE/view?usp=sharing)  i315
 
 305  Vance, J.D.  Hillbilly elegy.  v.  i318
 
