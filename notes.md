@@ -113,7 +113,9 @@ https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
 
 ## Cataloging
 
-Author.  Title.  place and year of pub.  extent.  number
+[ALA rules](https://www.gutenberg.org/files/59215/59215-h/59215-h.htm#p099)
+
+Main Entry.  Title page.  extent.  number.
 
 [320  Bogdanor, V.  Monarchy and the constitution.  Oxford, 1995.](https://docs.google.com/document/d/1vq3dAzkiRCUxmWPsvdyg2NBzIzvTT1FTbSWpod-rOsI/edit?usp=sharing)
 
@@ -122,32 +124,6 @@ Dickens, C.J.F.  Little Dorrit.  (In Harper's mag, v.12-15, 1955-57).
 ^(.*? --)(.*?, )(.*?--)(.*?--)(.*)$
 
 $1$4~$3~$2 -- $5
-
-### call number
-- if a kindle book, use k
-- if on google drive, use g
-- else, use w
-- add dewey number
-- add three letter sort
-
-### title/statement of responsibility
-
-
-### imprint
-- add publisher and year. 
-- for article, add publication title and date, prefaced by "IN: "
-- for online analyicals, consider the website as the publisher. Always add year.
-- add edition
-
-### physical description
-
-- for printed books, use v
-- for world wide web resources, use www
-
-### notes
-- analytics
-- add frequency note
-- add local identifier number if needed
 
 ---
 
