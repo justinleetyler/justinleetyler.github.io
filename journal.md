@@ -2,7 +2,7 @@
 
 ## 2022
 
-###
+### klune2021
 field           | value 
 ----------------|------ 
 Title           | Under the whispering door
@@ -27,7 +27,7 @@ Recommend this book?|
 Recommend to whom?|
 Notes and opinions| Wallace Price, attorney, discovers his kindness and humanity in death.
 
-###
+### rudnick2021
 field           | value 
 ----------------|------ 
 Title           | Playing the palace
@@ -52,7 +52,7 @@ Recommend this book?|
 Recommend to whom?|
 Notes and opinions| The prince of Wales falls for an American guy in NJ.
 
-###
+### scalzi_old
 field           | value 
 ----------------|------ 
 Title           | Old man's war.
@@ -78,7 +78,7 @@ Recommend to whom?|
 Notes and opinions| A science fiction novel. At the age of 75, John Perry joins the Colonial Defence Forces.
 
 
-###
+### klune_house
 field           | value 
 ----------------|------ 
 Title           | House in the Cerulean sea
@@ -103,7 +103,7 @@ Recommend this book?|
 Recommend to whom?|
 Notes and opinions| Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage.
 
-###
+### seldon_may
 field           | value 
 ----------------|------ 
 Title           | May at 10.
@@ -129,7 +129,7 @@ Recommend to whom?|
 Notes and opinions|
 
 
-###
+### template
 field           | value 
 ----------------|------ 
 Title           | 
