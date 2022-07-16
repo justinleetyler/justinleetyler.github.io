@@ -3,29 +3,29 @@
 ## 2022
 
 ### klune2021
-field           | value 
-----------------|------ 
-Title           | Under the whispering door
-Author          | Klune, T.J.
-Publisher       | Tor, c2021.
-Number of pages | k.
-Subject         | SCI
-Grade           | B
-How I discovered or acquired this this book| 
-When & where read| 2022-07, St. James, N.C.
-Noteworthy experiences while reading this book|
-Check out author's other books?|
-Quality of writing|
-Pace|
-Plot development|
-Characters|
-Enjoyability|
-Insightfulness|
-Ease of reading|
-Photos/Illustrations|
-Recommend this book?|
-Recommend to whom?|
-Notes and opinions| Wallace Price, attorney, discovers his kindness and humanity in death.
+|field           | value |
+|----------------|------ |
+|Title           | Under the whispering door|
+|Author          | Klune, T.J.|
+|Publisher       | Tor, c2021.|
+|Number of pages | k.|
+|Subject         | SCI|
+|Grade           | B|
+|How I discovered or acquired this this book| |
+|When & where read| 2022-07, St. James, N.C.|
+|Noteworthy experiences while reading this book| |
+|Check out author's other books?| |
+|Quality of writing| |
+|Pace| |
+|Plot development| |
+|Characters| |
+|Enjoyability| |
+|Insightfulness| |
+|Ease of reading| |
+|Photos/Illustrations| |
+|Recommend this book?| |
+|Recommend to whom?| |
+|Notes and opinions| Wallace Price, attorney, discovers his kindness and humanity in death.|
 
 ### rudnick2021
 field           | value 
