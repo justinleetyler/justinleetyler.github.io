@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[my reading journal](https://justinleetyler.github.io/journal)
+
 [Shell scripting](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
 
 [Unitarian Service Book](https://archive.org/details/unitarianservice00amer/)
