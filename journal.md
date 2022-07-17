@@ -30,6 +30,7 @@
 
 ### rudnick2021
 
+|field           | value|
 |----------------|------| 
 |Title           | Playing the palace|
 |Author          | Rudnick, Paul.|
