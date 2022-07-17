@@ -29,8 +29,8 @@
 |Notes and opinions| Wallace Price, attorney, discovers his kindness and humanity in death.|
 
 ### rudnick2021
-field           | value| 
-----------------|------| 
+
+|----------------|------| 
 |Title           | Playing the palace|
 |Author          | Rudnick, Paul.|
 |Publisher       | Jove, c2021.|
@@ -54,6 +54,7 @@ field           | value|
 |Notes and opinions| The prince of Wales falls for an American guy in NJ.|
 
 ### scalzi_old
+
 |field           | value|
 |----------------|------|
 |Title           | Old man's war.|
@@ -80,6 +81,7 @@ field           | value|
 
 
 ### klune_house
+
 |field           | value|
 |----------------|------|
 |Title           | House in the Cerulean sea|
@@ -105,6 +107,7 @@ field           | value|
 |Notes and opinions| Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage.|
 
 ### seldon_may
+
 |field           | value|
 |----------------|------|
 |Title           | May at 10.|
@@ -131,6 +134,7 @@ field           | value|
 
 
 ### template
+
 |field           | value  |
 |----------------|------  |
 |Title           |  |
