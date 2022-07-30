@@ -3,10 +3,6 @@ Welcome to Justin's little corner!
 
 CURRENTLY READING:
 ---
-- 923  O'Toole, P.  The Moralist: Woodrow Wilson and the world he made.
-- 646  Allen, D.  Getting things done. Rev. ed.  Penguin, c2015.
-
-[reading log](log.md)
 
 [about me! (resume)](resume.md)
 
@@ -15,6 +11,38 @@ CURRENTLY READING:
 [UU commonplace book](uucommonplacebook.md)
 
 [UU breviary](uubreviary.md)
+
+one letter Journal
+===
+20220730:
+
+Ledger:
+A-
+B- Make Bed 
+C- Chores (dishes, made bed, pickup, trash)
+D- Devotions
+E- Beach
+F
+G- Groceries
+H- Hike
+I- 
+J- Journal (wrote in)
+K
+L
+M- Church
+N
+O- Other
+P
+Q
+R- Reading
+S- Show/Movie
+T- Trip
+U- 
+V- Visit
+W- Work
+X
+Y
+Z
 
 Links
 ---
