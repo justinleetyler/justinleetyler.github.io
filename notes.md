@@ -23,6 +23,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[Plain text productivity](https://plaintext-productivity.net/)
+
 [octagon society](https://octagonsociety.org/)
 
 [shell scripting](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/)
