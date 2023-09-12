@@ -1,35 +1,9 @@
-[A](#A--)
-[B](#B--)
-[D](#D--)
-[E](#E--)
-[F](#F--)
-[G](#G)
-[H](#H)
-[K](#K)
-[L](#L)
-[M](#M)
-[N](#N)
-[O](#O)
-[P](#P)
-[R](#R)
-[S](#S)
-[W](#W)
-[Y](#LetterY)
-[100](#100)
-[200](#200)
-[300](#300)
-[400](#400)
-[500](#500)
-[600](#600)
-[700](#700)
-[800](#800)
-[900](#900)
 
-# A--
+# A
 
 AMC's best day hikes in the White Mountains. Robert N. Buchsbaum.  3rd ed.  Bost., AMC, [2016].  xxvii + 338 p. 23 cm.  917
 
-# B--
+# B
 
 Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.  FIC.
 
@@ -41,15 +15,15 @@ Broadcast. Grttan, W.H. Ill. by Pyles, V.E.  U.S. 1923.  [via www](https://www.g
 
 Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains.  3rd ed.  Bost., AMC, [2016].  xxvii + 338 p. 23 cm.  917
 
-# D--
+# D
 
 Dark Territory. Terrence McCauley.  N.Y. [2019]  331 p.  (Sheriff Aaron Mackey ; 2)  WES
 
-# E--
+# E
 
 Earth transit. Kluga, Charles L.  N.Y. 1957.  [via www](https://www.gutenberg.org/ebooks/71589).  SCI
 
-# F--
+# F
 
 FIC  Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.  FIC
 
