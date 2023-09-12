@@ -14,7 +14,7 @@
 [R](#R)
 [S](#S)
 [W](#W)
-[Y](#Y)
+[Y](#LetterY)
 [100](#100)
 [200](#200)
 [300](#300)
@@ -143,7 +143,7 @@ WES  McCauley, Terrence.  Dark Territory.  N.Y. [2019]  331 p.  (Sheriff Aaron M
 
 WES  McCauley, Terrence.  Get out of town.  N.Y., Pinnacle, [2020].  360 p. 17 cm.  (Sheriff Aaron Mackey ; 3)
 
-# Y
+# LetterY
 
 SCI  Young, R.  Courts of Jamshyd.  N.Y. 1957.  [via www](https://www.gutenberg.org/ebooks/71580).
 
