@@ -1,3 +1,4 @@
+[A](#A)
 [B](#B)
 [D](#D)
 [F](#F)
@@ -23,13 +24,21 @@
 [800](#800)
 [900](#900)
 
+# A
+
+AMC's best day hikes in the White Mountains. Robert N. Buchsbaum.  3rd ed.  Bost., AMC, [2016].  xxvii + 338 p. 23 cm.  917
+
 # B
 
 Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.  FIC.
 
 Beyond good and evil. Nietzsche, Friedrich Wilhelm.  n.p. n.d.  [via www](https://www.gutenberg.org/ebooks/4363). 193
 
+Blood on the trail. Terrene McCauley.  N.Y., Pinnacle, [2022].  344 p. 18 cm.  (Jeremiah Halstead Western, A.)  WES
+
 Broadcast. Grttan, W.H. Ill. by Pyles, V.E.  U.S. 1923.  [via www](https://www.gutenberg.org/ebooks/71488).  WES
+
+Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains.  3rd ed.  Bost., AMC, [2016].  xxvii + 338 p. 23 cm.  917
 
 # D
 
@@ -44,6 +53,8 @@ Earth transit. Kluga, Charles L.  N.Y. 1957.  [via www](https://www.gutenberg.or
 FIC  Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.  FIC
 
 # G
+
+Get out of town. Terrence McCauley.  N.Y., Pinnacle, [2020].  360 p. 17 cm.  (Sheriff Aaron Mackey ; 3)  WES
 
 God is not one. Prothero, Sephen.  N.Y., HarperOne, 2011.  388 p.  200.
 
@@ -61,7 +72,11 @@ Kluga, Charles L.  Earth transit.  N.Y. 1957.  [via www](https://www.gutenberg.o
 
 # L
 
+L'amour, Louis.  Lonigan.  N.Y., Bantam, 2020.  177 p. 18 cm.  WES
+
 London, Jack.  Love of life, and other stories.  N.Y. 1913.  [via www](https://www.gutenberg.org/cache/epub/710/pg710-images.html). WES
+
+Lonigan. Louis L'amour.  N.Y., Bantam, 2020.  177 p. 18 cm.  WES
 
 Love of life, and other stories. London, Jack.  N.Y. 1913.  [via www](https://www.gutenberg.org/cache/epub/710/pg710-images.html).  WES
 
@@ -71,7 +86,11 @@ Mason, D.  Road stop.  n.p. n.d.  [via www](https://www.gutenberg.org/ebooks/613
 
 Mason, D.  Rockabye, Grady.  N.Y. 1957.  [via www](https://www.gutenberg.org/ebooks/71584). SCI
 
+McCauley, Terrence.  Blood on the trail.  N.Y., Pinnacle, [2022].  344 p. 18 cm.  (Jeremiah Halstead Western, A.)  WES
+
 McCauley, Terrence.  Dark Territory.  N.Y. [2019]  331 p.  (Sheriff Aaron Mackey ; 2)  WES
+
+McCauley, Terrence.  Get out of town.  N.Y., Pinnacle, [2020].  360 p. 17 cm.  (Sheriff Aaron Mackey ; 3)  WES
 
 # O
 
@@ -113,9 +132,15 @@ WES  Grttan, W.H.  Broadcast. Ill. by Pyles, V.E.  U.S. 1923.  [via www](https:/
 
 WES  Harte, B.  Selected stories of Brett Harte.  n.p. n.d.  [via www](https://www.gutenberg.org/ebooks/1312).
 
+WES  L'amour, Louis.  Lonigan.  N.Y., Bantam, 2020.  177 p. 18 cm.
+
 WES  London, Jack.  Love of life, and other stories.  N.Y. 1913.  [via www](https://www.gutenberg.org/cache/epub/710/pg710-images.html)
 
+WES  McCauley, Terrence.  Blood on the trail.  N.Y., Pinnacle, [2022].  344 p. 18 cm.  (Jeremiah Halstead Western, A.)
+
 WES  McCauley, Terrence.  Dark Territory.  N.Y. [2019]  331 p.  (Sheriff Aaron Mackey ; 2)
+
+WES  McCauley, Terrence.  Get out of town.  N.Y., Pinnacle, [2020].  360 p. 17 cm.  (Sheriff Aaron Mackey ; 3)
 
 # Y
 
@@ -134,5 +159,7 @@ SCI  Young, R.  Courts of Jamshyd.  N.Y. 1957.  [via www](https://www.gutenberg.
 303  Odell, Jenny.  How to do nothing.  Brooklyn, N.Y., 2019.  PDF via www (http://drive.google.com).
 
 # 900
+
+917  Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains.  3rd ed.  Bost., AMC, [2016].  xxvii + 338 p. 23 cm.
 
 917  Rich, Louise Dickinson.  Peninsula.  Phil. [1958].  281 p.  
