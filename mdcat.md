@@ -1,10 +1,22 @@
+
+[B](#B)
+[F](#F)
 [G](#G)
 [H](#H)
 [K](#K)
 [L](#L)
 [M](#M)
 [N](#N)
+[S](#S)
 [Y](#Y)
+
+# B
+
+Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.  FIC.
+
+# F
+
+FIC  Barry, D.  Swamp story.  N.Y. 2023.  306 p. 24 cm.
 
 # G
 
@@ -31,6 +43,11 @@ SCI  Mason, D.  Rockabye, Grady.  N.Y. 1957.  [via www](https://www.gutenberg.or
 # N
 
 193  Nietzsche, Friedrich Wilhelm.  Beyond good and evil.  n.p. n.d.  [via www](https://www.gutenberg.org/ebooks/4363).
+
+# S
+
+Swamp story. Barry, D.  N.Y. 2023.  306 p. 24 cm.  FIC.
+
 # Y
 
 SCI  Young, R.  Courts of Jamshyd.  N.Y. 1957.  [via www](https://www.gutenberg.org/ebooks/71580).
