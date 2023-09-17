@@ -31,3 +31,13 @@ There is no charge for the use of the computers. A charge of 25 cents per page, 
 "Netiquette" is short for "Internet etiquette". Like everyday etiquette, it is based on respect for the rights of others, in this case, the library, its equipment, and its other users. Besides following the Computer Guidelines above, this means that you do nothing that might offend other users of the library or of the computers.You do not call up sites with explicit sexual references or graphics. If you should get onto such a site without meaning to, you get out of it right away (Clicking on <BACK> on the tool bar at the top is the fastest way).
 
 ## Catalog
+> Call for availablility.
+* FIC  Bass, Elizabeth.  Letter to three witches.  N.Y. [2022].  292 p. via SPL.
+* FIC  Beck, Hazel.  Small town big magic.  Toronto, [2022].  411 p. via SPL.
+* FIC  Buckland, Paul.  Chorus of witches.  1st. Valancourt ed.  n.p. [1959]  237 p.  
+* FIC  Hardy, Thomas.  Tess of the d'urbervilles. W. new intro. by Clements, Marcelle.  N.Y. [2006].  xxi + 407 p. 17 cm.
+* FIC  Golden, Christopher.  All hallows.  N.Y. 2023.  324 p.
+* FIC  Markert, J.H.  Nightmare man.  N.Y. [2023].  326 p.
+* WES  McCauley, Terrence.  Dark Territory.  N.Y. [2019].  331 p. 17 cm.  (Aaron Mackey ; 2).
+* FIC  Murphy, Cynthia.  Midnight game.  Lond. 2023.  354 p. via SPL.
+* FIC  Randall, Breanne.  Unfortunate side effects of heartbreak and magic.  N.Y. [2023].  322 p.
