@@ -32,6 +32,7 @@ There is no charge for the use of the computers. A charge of 25 cents per page, 
 
 ## Catalog
 > Call for availablility.
+
 * FIC  Bass, Elizabeth.  Letter to three witches.  N.Y. [2022].  292 p. via SPL.
 * FIC  Beck, Hazel.  Small town big magic.  Toronto, [2022].  411 p. via SPL.
 * FIC  Buckland, Paul.  Chorus of witches.  1st. Valancourt ed.  n.p. [1959]  237 p.  
