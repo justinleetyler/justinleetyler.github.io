@@ -117,6 +117,7 @@ https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
 
 [obooks](https://www.obooko.com/)
 
+[Shelburne Public Library](https://www.townofshelburnenh.com/shelburne-public-library)
 ---
 
 ## Cataloging
