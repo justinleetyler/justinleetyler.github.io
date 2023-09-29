@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="dc.css"?> 
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description>
+<dc:title>AMC's best day hikes in the White Mountains. 3rd ed.</dc:title>
+<dc:creator>Buchsbaum, Robet N.</dc:creator>
+<dc:publisher>Bost.</dc:publisher>
+<dc:date>[2016]</dc:date>
+<dc:description>v.</dc:description>
+<dc:subject>917</dc:subject>
+</rdf:Description>
+
+<rdf:Description>
+<dc:title>God is one one.</dc:title>
+<dc:creator>Prothero, Stephen.</dc:creator>
+<dc:publisher>N.Y.</dc:publisher>
+<dc:date>2011.</dc:date>
+<dc:description>v.</dc:description>
+<dc:subject>200</dc:subject>
+</rdf:Description>
+
+</rdf:RDF>
