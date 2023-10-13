@@ -1,70 +1,11 @@
 <html>
 <head>
- <title>Anytown Public Library</title>
+ <title>Library</title>
 </head>
 
 <body>
-
-   <H1>Anytown Public Library</H1>
-   <B>Hours</b>: Mo-Th 9am-5pm, Fr: 9am-noon <BR />
-   <B>Address</B>:123456 Main St, Anytown, US 000012<BR />
-   <B>Phone</B>:0.123.456.7890<BR />
-   
-   
-<hr/>
-
-<details> <summary>Services</summary>
-<ul>
- <li>Circulating Materials: Along with books and audio books to borrow; there are also DVD's that are available.</li>
- <li>Notary Public: Please call prior to arrival to confirm service availability. State Id Required. DO NOT SIGN until you are in front of the notary. Papers will Not Be Notarized if they are already signed or all parties are not present.</li>
- <li>Booksale: Hardcover: $1.  Softcover: $.75.  Paperback: $.50</li>
- 
-</details>
-   
-<details> <summary>Catalog</summary>
-
-<B>SEARCH: </B> <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search.." title="Search">
-
-<table width=50% border=5 id="myTable">
-  <tr class="header">
-    <th>desc</th>
-  </tr>
-
- <tr><td>Barry, D.  Swamp story.  N.Y., 2023.  O.  FIC.</td><td>2023-08 C</td></tr>
- <tr><td>L'amour, L.  Longigan.  N.Y., 2020.  D.  WES.</td><td>to_read</td></tr>
- <tr><td>McCauley, T.  Get out of town.  N.Y. 2020.  D.  WES.</td><td>2023-09 C</td></tr>
- <tr><td>Reston, J., Jr.  Dogs of God.  N.Y., 2005.  O.  946.</td><td>shelf</td></tr>
- <tr><td>Weed, J.J.  Wisdom of the mystic master.  W. Nyack, N.Y., [c1968].  O.  153.</td><td>to_read></td></tr>
- <tr><td> </td><td> </td></tr>
-
-</table>
-</details>
-
-<details><summary>About</summary>
-Somerset Township Library is a small independent public library that has been in existence for over 50 years. Somerset Township Library serves the residents of Somerset Township along with the residents of the surround areas such as Mirror Lake and Moscow Township. Although Somerset Township Library receives no federal or state funding, the book selection is updated by purchasing best sellers each month. Funds received through fines, donations and book sales are used for purchasing children, youth and adult books. 
-</details>
-
-<script>
-function myFunction() {
-  var input, filter, table, tr, td, i, txtValue;
-  input = document.getElementById("myInput");
-  filter = input.value.toUpperCase();
-  table = document.getElementById("myTable");
-  tr = table.getElementsByTagName("tr");
-  for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[0];
-    if (td) {
-      txtValue = td.textContent || td.innerText;
-      if (txtValue.toUpperCase().indexOf(filter) > -1) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
-      }
-    }       
-  }
-}
-</script>
-
+ <iframe src="catalogtop.htm" width=100% height=30% name="catalogtop"></iframe>
+ <iframe src="catalogbottom.htm" width=100% height=60% name="catalogbottom"></iframe>
 </body>
 </html>
 
