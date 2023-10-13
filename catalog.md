@@ -1,21 +1,21 @@
 * 001  Anon.  Journey into the hidden web.  [w.](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/)  i13
 * 001  Anon.  Lifehacker.  [w.](http://www.lifehacker.com)  i14
-* 001  Bauer, S.W.  Well-educated mind, The.  v.  i1750.  Read 2011-10.  Anon.    .  Read 2005-11.  Anon.    
-* 001  Goldstein, J.  101 amazing facts. 1e.  k.  i11
+* 001  Bauer, S.W.  Well-educated mind, The.  n.p. n.d.  v.  i1750.  Read 2011-10 and 2005-11.
+* 001  Goldstein, J.  101 amazing facts. 1e. n.p. n.d.  k.  i11
 * 001  Hine, D.  What good is information. (In Aeon, 2014 Mar 6).  w.  i12
-* 001  McLachlan, S.; River, C., eds.  Flying saucers.  v.  i10.  Read 2016-04.  C.    
+* 001  McLachlan, S.; River, C., eds.  Flying saucers.   n.p. n.d.  v.  i10.  Read 2016-04.  C.    
 * 002  Anon.  1 MD club.  [w.](https://1mb.club/)  i16
-* 002  Anon.  Free kids books.  [w.](https://freekidsbooks.org/)  i19
-* 002  Anon.  Kindle Buffet.  [w.](http://www.weberbooks.com/kindle/)  i20
-* 002  Anon.  Openstax.  [w.](https://openstax.org/)  i22
-* 002  Anon.  eBooks habit.  [w.](https://ebookshabit.com)  i18
-* 002  Lyons, R.E.; Rayner, S.J.  Academic book of the future, The.  k.  i21
-* 002  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  w.  i15
-* 002  Open U.  Information on the web.  k.  i17
-* 002  Open U.  Open textbook library.  [w.](https://open.umn.edu/opentextbooks/)  i23
-* 004  Anon.  How-to geek.  [w.](http://www.howtogeek.com/)  i30
-* 004  Anon.  Operating system interface design between 1981-2009.  e.(8816)  i24
-* 004  Anon.  caard.  [w.](https://carrd.co/build)  d27
+* 002  Anon.  Free kids books.  2021.  [w.](https://freekidsbooks.org/)  i19
+* 002  Anon.  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  i20
+* 002  Anon.  Openstax.  [2021].  [w.](https://openstax.org/)  i22
+* 002  Anon.  eBooks habit.  [2012].  [w.](https://ebookshabit.com)  i18
+* 002  Lyons, R.E.; Rayner, S.J.  Academic book of the future, The.  [2016].  k.  i21
+* 002  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  Lond. 1852.  w.  i15
+* 002  Open U.  Information on the web.  [2016].  k.  i17
+* 002  Open U.  Open textbook library.  n.p. n.d.  [w.](https://open.umn.edu/opentextbooks/)  i23
+* 004  Anon.  How-to geek.  [2016-].  [w.](http://www.howtogeek.com/)  i30
+* 004  Anon.  Operating system interface design between 1981-2009.  n.p., [2009?] -- e.(8816)  i24
+* 004  Anon.  caard.  n.p. n.d. [w.](https://carrd.co/build)  d27
 * 004  Adams, M.  Python programming. 2e.  k.  i25
 * 004  Annan, R.  Lightning riders.  k.  i26
 * 004  Cannon, J.  Linux administration.  k.  i28
