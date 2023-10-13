@@ -21,23 +21,25 @@
 * 004  Cannon, J.  Linux administration.  k.  i28
 * 004  Cannon, J.  Linux for beginners.  k.  i29
 * 004  Hughes, M.  Learn to build with PHP.  [w.](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf)  i32
-* 004  Hughes, M.  Learn to build with PHP.  g.  i31
+* 004  Hughes, M.  Learn to build with PHP.  [g](https://drive.google.com/file/d/1-Lmmtcdpr86pNXbaRTLNOy7KQQGlh0_3/view?usp=sharing).  i31
 * 004  Loukides, M.  What is Data Science?  k.  i33
+* 004  Phillips, G.  Deep and dark web guide.  Makeuseof.com, [2020].  [g](https://drive.google.com/file/d/1FU1qxr0sm-fdWCN-u19jOUXU-Ig-n1It/view?usp=sharing).
 * 004  Suellentrop, C.  Websites that convert.  k.  i35
-* 005  Anon.  Appendix B. regular expression reference.  g.  i50
+* 005  Anon.  135 incredibibly useful things you didn't know Google could do.  n.p. n.d.  [g](https://drive.google.com/file/d/1yaVwdnEoJ508vVdwrETPc6IilM4_-ldk/view?usp=sharing).
+* 005  Anon.  Appendix B. regular expression reference.  n.p. n.d.  [g](https://drive.google.com/file/d/1YzOQuudD9dIZEU9Kdc0WBj6NgE8z3VL1/view?usp=sharing).  i50
 * 005  Anon.  EPUB to PDF converter.  [w.](https://go4convert.com/ebook-to-pdf)  i41
 * 005  Anon.  Glide.  [w.](https://www.glideapps.com/)  i43
 * 005  Anon.  Kindle4RSS.  [w.](http://kindle4rss.com/)  i45
 * 005  Anon.  Python basic cheat sheet.  g.  i59
-* 005  Bachaalany, E.  Batchography.  g.  i37
+* 005  Bachaalany, E.  Batchography.  n.p. [2016].  g(https://drive.google.com/file/d/1sBK719eHbXamZRrRP6X3_RHnqDU6krtG/view?usp=sharing).  i37
 * 005  Cooper, P.  Beginning ruby.  k.  i39
 * 005  Dumbill, Edd.  Planning for big data.  k.  i40
 * 005  Forta, B.  Sams teach yourself regular expression in 10 minutes.  k.  i42
 * 005  Holzner, S.  Pearl core language - little black book.  k.  i44
 * 005  McLaughlin, B.  What is HTML5?  k.  i47
-* 005  Nixon, R.  Learning PHP, MYSQL, and Javascript.  g.  i48
+* 005  Nixon, R.  Learning PHP, MYSQL, and Javascript.  Sebastopol, Calif., [2009].  [g](https://drive.google.com/file/d/1NDRq1jRupmOnnwUfZ9fdd9CxlPfFyA4Q/view?usp=sharing).  i48
 * 005  Tennison, J.  Beginning XSLT.  k.  i51
-* 005  U.S. Dept. of Defense.  Cloud computer strategy.  e.(3000)  i36
+* 005  U.S. Dept. of Defense.  Cloud computer strategy.  U.S. 2012.  [g](https://drive.google.com/file/d/1xTOvVm9eiOdZb-TbOgNzCex7H4gI5yEn/view?usp=sharing).  i36
 * 005  Williams, J.D.  Learn PHP.  k.  i52
 * 006  Anon.  10 simple CSS code examples you can learn in 10 minutes.  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/)  i53
 * 006  Open U.  Introduction to computational thinking.  k.  i54
@@ -45,13 +47,13 @@
 * 020  Anon.  Catalogue of the Mercantile Library of Boston.  [w.](https://archive.org/details/supplementtocat01massgoo)  i56
 * 020  ALA.  Frontline fundraising toolkit.  e.(10096)  i57
 * 020  Alaska. Dept. of Education.  Small school library, The.  [w.](http://files.eric.ed.gov/fulltext/ED035508.pdf)  i62
-* 020  Alaska. Dept. of Education.  Small school library, The.  g.  i61
+* 020  Alaska. Dept. of Education.  Small school library, The.  Juneau, 1967.  [g](https://drive.google.com/file/d/1MyiZOZdsEwhVDU2-wmfNZNThUxZS9k1a/view?usp=sharing).  i61
 * 020  Battles, M.  Library.  v.  i58.  Read 2005-06.  Anon.    
 * 020  Hammer, J.  Bad-ass librarians of Timbuktu, The.  k.  i60
 * 020  Open U.  Library of Alexandria, The.  k.  i63
 * 020  Rosa, Cathy De.; Cantrell, J.; Cellentani, D.  Perceptions of librarias and information resources.  e.(0349)  i59
-* 023  Miller, Z.K.  How to organize a library.  [w.](https://www.google.com/books/edition/_/6n4wAAAAMAAJ)  i65
-* 023  Miller, Z.K.  How to organize a library.  g.  i64
+* 023  Miller, Z.K.  How to organize a library.  Bost. [1921].  [w.](https://www.google.com/books/edition/_/6n4wAAAAMAAJ)  i65
+* 023  Miller, Z.K.  How to organize a library.  Bost. [1921].  [g](https://drive.google.com/file/d/1Ikli1JfAsTXqqdnfM30csWtWTekccr-v/view?usp=sharing).  i64
 * 024  Premis Editorial Committee.  Data dictionary for preservation metadata.  e.(8801)  i66
 * 025  Anon.  Anglo-American cataloguing rules.  v.  i76
 * 025  Anon.  ISAD (G). 2e.  e.(1455.pdf)  i89
@@ -69,6 +71,7 @@
 * 025  Dillon, M.  Accessing information on the internet.  [w.](http://files.eric.ed.gov/fulltext/ED354906.pdf)  i67
 * 025  Dodd, S.A.  Cataloging machine-readable data files.  v.  i81
 * 025  Edgar, N.L.  What every librarian should know about proposed changes in cataloging rules.  g.  i82
+* 025  Eklund, A.  Comparison of MARC Content Designation Utilization in OCLC WorldCat Records with National, Core, and Minimal Level Record Standards.  (In Journal of Library Metadata, 9:36–64, 2009).  [g](https://drive.google.com/file/d/1hyistfRE7D2_hTuJRViDYlXCz2jYgG-b/view?usp=sharing).
 * 025  Ercegovac, Z.  Minimal level cataloging.  g.  i83
 * 025  Fattahi, R.  AACR2 and catalogue production technology.  e.(1079)  i84
 * 025  Fox, M.  Professional training for Encoded Archival Description in Europe.  e.(10067.pdf)  i85
