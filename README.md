@@ -12,6 +12,8 @@ CURRENTLY READING:
 
 [UU breviary](uubreviary.md)
 
+[Catalog and reading log](catalog.md)
+
 
 Links
 ---
