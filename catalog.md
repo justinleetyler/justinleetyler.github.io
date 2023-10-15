@@ -264,15 +264,20 @@
 * 289  Jessop, Flora, Paul T. Brown.  Church of lies.  Jossey-Bass, [n.d.]  k.  via [www.](https://read.amazon.com/).  i258 
 * 289  Morales, Peter.  Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v23082915 
 * 289  Opton, Frank G.  Liberal religion.  Buffalo, N.Y. : Prometheus Books, 1982.  295 p.  ISBN 087975155X.  DBID 2922   i276  2012-03  
-* 289  The Unitarian Universalist Fellowship of Alexandria.  n.p. n.d.  webpage.  via [www](http://pages.suddenlink.net/uufoa/index.htm).  Title from homepage viewed Tue 06/29/2021.  i280 
+* 289  Sais, J.  100 questions that non-members ask about Unitarian Universalism.  Nashua, c2000.  g.
+* 289  Unitarian Universalist Fellowship of Alexandria.  n.p. n.d.  webpage.  via [www](http://pages.suddenlink.net/uufoa/index.htm).  Title from homepage viewed Tue 06/29/2021.  i280 
 * 289  Tittle, Gale, Matt Tittle.  Bless all who serve: Sources of hope, courage and faith for military personnel and their families.  Skinner House Books, 2010.  k. 747 kb.  via [www](https://read.amazon.com/?asin=B004P5NUTE).  i263 
 * 289  UU Church of the Palouse.  Celebrant's guide.  [The author], 2013.  webpage.  via [www](http://www.palouseuu.com/#/worship-services/4556396206).  i278 
 * 289  Unitarian Universalist Association.  Evangelism.  The Author, 2000.  webpage.  via [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).   i265 
 * 289 Kraybill, Donald B.  The Amish of Lancaster County, photographs by Daniel Rodriguez.  Stackpole Books, 2008.  k. 13534 kb.  via [www](https://read.amazon.com).   i281  2014-03. Grade C
+* 289  What does Universalism look like today.  n.p. 2008.  g.
+* 289.1  Are you a Unitarian without knowing it.  Melbourne Unitarian Peace Memorial Church, n.d.  g.
+* 289.1  Celbrant's guide.  UU Church of the Palouse, 2013.  g.
+* 289.1  Designing and leading rites of passage / Canadian Unitarian Council.  n.p. 2008.  g.
 * 289.1  Frederick-Gray, Susan, Melissa Harris-Perry.  The Unitarian Universalist pocket guide.  6th ed.  Skinner House Books, 2019.  k. 4209 kb.  via [www](https://read.amazon.com/?asin=B07TDMS5Z2).  i268 
 * 289.1  General Assembly of the Unitarian and Free Christian Churches. Worship Panel.  A generous communion.  the author, 2008.  via [www.](http://drive.google.com).  i269 
 * 289.1  Greenwood, Andrea [and] Mark W. Harris.  Introduction to the unitarian and universalist traditions.  n.p.  Cambridge University Press, c2011.  [w.](http://drive.google.com.  i270 
-* 289.1  Hayes, Will, cp.  Every nation kneeling.  n.p. Order of the Great Companions, 1954.  [w.](http://drive.google.com).  i266 
+* 289.1  Hayes, Will, cp.  Every nation kneeling.  n.p. Order of the Great Companions, 1954.  g.  i266 
 * 289.1  McGuiffie, Duncan.  Hymn sandwich : a brief history of Unitarian worship.  N.p., 19--.  [w.](http://drive.google.com).  i273 
 * 289.1  Morales, Peter.  Sanctuary and gospel.  [Bost.] 2017.  via [www.](http://drive.google.com).  i274 
 * 289.1  Reed, Cliff.  We are here; a book of prayers for corporate worship.  Lindsey Press, c1992.  685 KB.  via [www.](https://drive.google.com).  i277 
