@@ -7,8 +7,8 @@
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.   i10.  2016-04. C
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
 * 002  Anon.  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  Daily.  i20 
-* 002  Anon.  Openstax.  U.S.? c2021.  [w.](https://openstax.org/).  i22 
-* 002  Anon.  eBooks habit.  U.S.? c2012.  [w.](ebookshabit.com)  Daily.  i18 
+* 002  Anon.  Openstax.  n.p. c2021.  [w.](https://openstax.org/).  i22 
+* 002  Anon.  eBooks habit.  n.p. c2012.  [w.](ebookshabit.com)  Daily.  i18 
 * 002  Free kids books.  U.S.? 2021.  [w.](https://freekidsbooks.org/).  i19 
 * 002  Lyons, Rebecca E.  Academic Book of the Future, [w.] Rayner, Samantha J.  U.S.? 2016.  k.  via [www](https://read.amazon.com).  i21 
 * 002  University of Minnesota.  Open textbook library.  The author, [202-?]  [w.](https://open.umn.edu/opentextbooks/).  i23 
@@ -29,7 +29,7 @@
 * 005  Anon.  Glide.  n.p. n.d.  via [w.](https://www.glideapps.com/).  i43 
 * 005  Anon.  Kindle4Rss.  U.S.? c2019.  [w.](http://kindle4rss.com/).  i45 
 * 005  Bachaalany, Elias.  Batchography.  n.p., 2016.  PDF, 1.4 MB.  via [www](https://drive.google.com/file/d/1sBK719eHbXamZRrRP6X3_RHnqDU6krtG/view?usp=sharing).  i37 
-* 005  Cooper, Peter.  Beginning Ruby.  n.p., n.d.  k.  via [www](https://read.amazon.com).  i39 
+* 005  Cooper, Peter.  Beginning Ruby.  n.p. n.d.  k.  via [www](https://read.amazon.com).  i39 
 * 005  DataCamp.  Python basics cheat sheet.  [n.p. 200?].  PDF, 1 MB.  via [www](https://drive.google.com/file/d/1KbdYOj9x7CTi20dH4yey6Ym-09yLLMKP/view?usp=sharing).  i49 
 * 005  Dumbill, Edd.  Planning for big data.  U.S.? 2012.  k. 1525 KB.  via [www](https://read.amazon.com/?asin=B007JWG7P4).  i40 
 * 005  Forta, Ben.  Sams teach yourself regular expressions in 10 minutes.  U.S.? 2004.  k. 904 KB.  via [www](https://read.amazon.com/?asin=B0027KRPHM).  i42 
