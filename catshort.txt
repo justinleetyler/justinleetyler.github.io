@@ -2,9 +2,10 @@ FIC  Barry, D.  Swamp story.  N.Y. 2023.  O.                                    
 FIC  Callenbach, E.  Ecotopia.  30 anniv. ed.  Berkeley, [c2004].  D.                            Available
 FIC  Golding, W.  Lord of the flies; Lowry, L., Afterward.  N.Y. [c1954].  D.                    Available
 FIC  Hall, J.N & Nordhoff, C.  Bounty trilogy.  Bost. [1985].  O.                                Available
-FIC  Hardy, T.  Tess of the d'Urbervilles. n.p. [p2021].  w. yhn8tj4w                            Available
+FIC  Hardy, T.  Tess of the d'Urbervilles. n.p. 1891.  g.                                        Available
 FIC  Hawthrone, N.  Scarlet letter.  N.Y. 2006.  S.                                              Available
 FIC  McCarthy, C.  Road.  N.Y. 2006.  O.                                                         Read
+FIC  Mason, C.  Brezlum.  n.p. [c2012]  g.                                                       Available
 FIC  Mone, P.E.  Petrol bomb of love.  North Haven, CT. 2023.  O.                                Available
 FIC  Sloan, R.  Mr. Penumbr's 24-hour bookstore.  N.Y. 2013.  O.                                 Available
 FIC  Stevenson, R.  Treasure island.  N.Y., 1883 [p2004].  S.                                    Available
@@ -467,7 +468,6 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 342  House of Lords reform draft bill.  e.  10104.
 342  Scott, R.M.  Recasting islamic law.  k
 342  Simon, J.F.  What kind of nation.  v.
-342  The city-states of Aetolia.  [w.](http://www.aetolia.com/cities)
 342  UK Ministry of Justice.  Review of the executive royal prerogative powers.
 347  Greenburg, J.C.  Supreme conflect.  Penguin, 2007.  v.
 355  Camp Delta standard operating procedures (SOP)  g.
@@ -505,7 +505,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 647  Jabr, F.  Why your brain needs more downtime.  [w.](http://www.scientificamerican.com/article.cfm?id=mental-downtime)
 650  12 outstanding personality traits of a great boss.  [n.p., n.d.]  [w](http://www.officevibe.com/blog/infographic-great-boss)
 650  Khoo, C.S.G.; Luyt, B.; Ee, C.  How users organize electronic files on their workstations in the office environment.  v.  (In Information Research, v11, no2, Jan 2007).
-651  Recommended record retention periods for business records. [w](https://drive.google.com)
+651  Recommended record retention periods for business records. g
 728  [Balmoral].  e  3267
 780  Diouf, M.; Nwankwo, I.C., eds.  Rythms of the Afro-Atlantic world.  k
 781  Achillea.  Nine worlds.  e  /music
@@ -574,11 +574,11 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 781  -NSYNC.  No strings attached.  n.p., 2000.  e  music
 782  Fleming, T.; Donnelly, V.  Tommy Fleming: voice of hope.  e.  music.
 791  Colony.  e.  3316.
-791  Corner gas.  [w.](https://www.amazon.com/gp/video/detail/B07KWHSG6Y)
+791  Corner gas.  w. y629uxdr
 794  Classic arcade games.  [w.](www.classicgamesarcade.com) 
 796  Hike New England.  [w.](http://www.hikenewengland.com/)
 808  Delta College. Library.  Publication Manual of the American Psychological Association (APA) for Citing Resources in Print Form.  e.  1366
-808  Greenbaum, D.  Journaling at the end of the day could increase your productivity.  [w.](http://lifehacker.com/1590024732)
+808  Greenbaum, D.  Journaling at the end of the day could increase your productivity.  w. yc2apk85.
 808  Johnson, A.  Leaving a trace.  v.
 812  Fox, M.  Just stay.
 813  Adair, B.; Piperbrook, T.W.  Last survivors.  v
@@ -602,7 +602,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 813  Bourke, M.  Jaguar sun.  k.
 813  Bova, B.  Mars.  v.
 813  Bowden, W.  Port state.  k.
-813  Boyle, C.J.  Adventures of kirk Rogers inside the moon.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+813  Boyle, C.J.  Adventures of kirk Rogers inside the moon.  k. 
 813  Braun, E; Byars, C.  Book of creation.  k.
 813  Briar, P.  Z-minus.  k
 813  Brooks, T.  Armageddon's children.  e.  8353.
@@ -612,13 +612,13 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 813  Brooks, T.  Genesis of Shannara.  v.
 813  Brooks, T.  Measure of the magic.  v.
 813  Brooks, T.  Scions of Shannara.  v.
-813  Brooks, T.  Skaar invasion.  [w](https://drive.google.com)
+813  Brooks, T.  Skaar invasion.  g. 
 813  Brooks, T.  Sword of Shannara.  v.
 813  Brooks, T.  Voyage of the Jerle Shannara.  v.
 813  Brooks, T.  Wards of faerie.  v. 
 813  Brown, D.  Angels and demons.  v.
 813  Brown, D.  Da Vinci code.  v.
-813  Brown, D.  Inferno.  [w.](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960)
+813  Brown, D.  Inferno.  n.p. 2013.  w. 
 813  Brown, P.  Red rising.  v.  
 813  Brown, R.  Aurora CV-01.  k. 
 813  Brumm, R.  Windigo soul.  k
@@ -627,7 +627,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 813  Burroughs, E.R.  Tarzon of the apes.  v. 
 813  Byne, L.  Banded.  k. 
 813  Caine, R.  Ink and bone.  k.
-813  Caine, R.  Ink and bone.  [w](https://drive.google.com)
+813  Caine, R.  Ink and bone.  g. 
 813  Cameron, J.  Gabe and the mystery light.  v. 
 813  Carson, H.  Project Dandelion.  k.
 813  Charlton, R.  Secret portal.  k.
@@ -679,7 +679,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 813  Herbert, B.  Sisterhood of dune.  v.
 813  Herbert, F.  Dune.  v.
 813  Hobb, R.  Dragon keeper.  v.
-813  Holmberg, D.K.  Festival of mourn.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+813  Holmberg, D.K.  Festival of mourn.  k. 
 813  Howey, H.  Beacon 23.  v.
 813  Howey, H.  Wool.  k
 813  Illuminator.  v.
@@ -694,16 +694,16 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 813  McLay, C.  Village books.  k
 813  Messenger, J.  Wind warrior.
 813  Miller, A.  What would Satan do?  k
-813  Reynolds, A.  Revelation space.  [w](https://drive.google.com)
+813  Reynolds, A.  Revelation space.  g. 
 813  Sawyer, J.  Until morning comes.  k
-813  Scalzi, J.  Consuming fire.  [w](https://drive.google.com)
+813  Scalzi, J.  Consuming fire.  g. 
 813  Sean, W.; Platt, D.  Yesteday's gone.  k
 813  Sheridan, K.P.  Under a broken sun.  k
 813  Smitherd, L.  Tales from the outer limits of the Twilight Zone.  k
 813  Stowe, H.B.  Uncle Tom's cabin.  k
 813  Veira, S.  Last guardians.  k
-813  Weis, M.; Hickman, T.  Dragons of summer flame.  TSR, 1995.  [e](8840.txt)
-813  Weis, M.  Soulforge.  [w](https://drive.google.com)
+813  Weis, M.; Hickman, T.  Dragons of summer flame.  TSR, 1995.  e. (8840.txt)
+813  Weis, M.  Soulforge.  g.
 813  West, D.J.  Whispers out of the dust.  k
 817  Barr, R.  Roseanarchy.  k.
 818  Barry D.  Dave Barry in cyberspace.  v.
@@ -719,7 +719,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 823  Clarke, A.C.  Hammer of God.  k. 
 823  Clarke, A.C.; Lee, G.  Rama II.  v. 
 823  Dickens, C.  Old curiosity shop.  v.
-823  Dickens, C.; Potter, B.; Montgomery, L.M.  Greatest christmas stories of all time.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+823  Dickens, C.; Potter, B.; Montgomery, L.M.  Greatest christmas stories of all time.  k.
 823  Foresters.  v.
 823  Harbinson, W.A.  Eden.  v.
 832  Clarke, A.C.  3001.  k. 
@@ -753,7 +753,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 923  McConnell, M.  Deliverance: Mary Fields, first African American Women Star Route Mail Carrier in the United States.  k.
 923  Nasaw, D.  Andrew Carnegie.  Penguin, 2006.  v.
 923  Obama, B.  Audacity of hope.  Crown, 2006.  v.
-923  Thatcher, M.  Downing Street years.  HarperPerennial, 1993.  [w.](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C)
+923  Thatcher, M.  Downing Street years.  HarperPerennial, 1993.  w. ddwv8n2h
 923  Woodward, B.  Fear.  Simon & Schuster, 2018.  g.
 927  John, E.  Me.  [w](https://drive.google.com)
 927  Madigan, T.  I'm proud of you.  v.
@@ -768,7 +768,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 930  Jackson, R.  Rome.  k. 
 930  King, C.  Their greatest hour.  k. 
 932  Clayton, M.  Egyptian mythology.  k. 930  Weber, J.  History: ancient history in 50 events.  k. 
-939  Cauvin, J.; Watkins, T., tr.  Birth of the gods and origins of agriculture.  [w](https://drive.google.com)
+939  Cauvin, J.; Watkins, T., tr.  Birth of the gods and origins of agriculture.  g.
 940  Camberidge medieval history collection.  Mario Brito, 2000.  k. 
 940  Hazen, C.  History of Europe 1870-1919.  k. 
 940  Henderson, E.F.  Select historical documents of the middle ages.  George Bell, 1892.  e.  10101
@@ -777,7 +777,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 941  Anderson, C.  Game of crowns.  g.
 941  Devonshire, D.  Wait for me!  g.
 941  Hichens, C.  Beware the in-laws.  e.  10097.  (In Slate, Apr 18, 2011).
-941  Milton, N.  Neville Chamberlain's legacy.  [w.](https://www.hoopladigital.com/play/13917369) 
+941  Milton, N.  Neville Chamberlain's legacy.  w. muumhtzr
 941  Oppenheimer, M.  Boycott the royal wedding.  e.  10098.  (In Slate, Aug. 28, 2011.) 
 941  Strange, J.  Strange tales of Scotland.  k. 
 960  Idjennaden, B.  Kingdom of Numidia.  k. 
@@ -788,7 +788,7 @@ WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                             
 973  50 core American documents.  k
 973  Archer, R.  As if an enemy's country.  v.
 973  Baker, J.H.  James Buchannan.  v.
-973  Hulse, C.  Obama is sworn in as 44th president.  [w](https://drive.google.com)
+973  Hulse, C.  Obama is sworn in as 44th president.  g.
 973  Kennedy, R.G.  Mr. Jefferson's lost cause.  v.
 973  Kennedy, R.g.  Mr. Jefferson's lost cause.  v.
 973  Roberts, C.  Founding mothers.  v.
