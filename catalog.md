@@ -946,9 +946,9 @@
 * 970  Brinkbaumer, Klaus.  Voyage of the VizcaÃ­na / [by] Klaus BrinkbÃ¤umer and Clemens HÃ¶ges ; tr. from the German by Annette Streck.  Harcourt, c2006.  328 p.  ISBN 0151011869.   i1668 
 * 970  Fagan, Brian.  First North Americans, The.  Thames & Hudson, 2011.  272 p.  ISBN 9780500021200.   i1669  2013-09. Grade B
 * 971  Trudeau, Justin.  Common ground.  HarperCollins Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00K53WAU0).  i1670 
-* 973  50 core American documents.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00IA6R7CK).  i1684 
-* 973  Anon.  History of Hillsdale County, Michigan.  Everts & Abbott, 1879.  via [www](https://archive.org/details/bad0928.0001.001.umich.edu/)  i5 
-* 973  Archer, Richard.  As if an enemy's country.  Oxford University Press, c2010.  xviii, 284 p.  ISBN 9780199895779.   i1671  2014-08. Grade C
+* 973  50 core American documents.  n.p. 2014.  k.  via [www](https://read.amazon.com/?asin=B00IA6R7CK).  i1684 
+* 973  History of Hillsdale County, Michigan.  Phil. 1879.  via [www](https://archive.org/details/bad0928.0001.001.umich.edu/)  i5 
+* 973  Archer, Richard.  As if an enemy's country.  Oxf. [c2010].  xviii + 284 p. O.  i1671.  [Read 2014-08 Grade C.](https://justinleetyler.github.io/reading_notes#i1671txt)
 * 973  Dawson, Sarah Morgan.  Confederate girl's diary.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004TQ136Q).  i1672 
 * 973  Ellias, Joseph.  Quartet.  n.p. n.d.  v.   i1673  2016-02. Grade B
 * 973  Hulse, Carl.  Obama is sworn in as 44th president.  n.p. 2009.  PDF via [www](https://drive.google.com).  i1675 
