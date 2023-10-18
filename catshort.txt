@@ -1,0 +1,799 @@
+FIC  Barry, D.  Swamp story.  N.Y. 2023.  O.                                                     Available
+FIC  Callenbach, E.  Ecotopia.  30 anniv. ed.  Berkeley, [c2004].  D.                            Available
+FIC  Golding, W.  Lord of the flies; Lowry, L., Afterward.  N.Y. [c1954].  D.                    Available
+FIC  Hall, J.N & Nordhoff, C.  Bounty trilogy.  Bost. [1985].  O.                                Available
+FIC  Hardy, T.  Tess of the d'Urbervilles. n.p. [p2021].  w. yhn8tj4w                            Available
+FIC  Hawthrone, N.  Scarlet letter.  N.Y. 2006.  S.                                              Available
+FIC  McCarthy, C.  Road.  N.Y. 2006.  O.                                                         Read
+FIC  Mone, P.E.  Petrol bomb of love.  North Haven, CT. 2023.  O.                                Available
+FIC  Sloan, R.  Mr. Penumbr's 24-hour bookstore.  N.Y. 2013.  O.                                 Available
+FIC  Stevenson, R.  Treasure island.  N.Y., 1883 [p2004].  S.                                    Available
+FIC  Swift, J.  Gulliver's travels; Cunliffe, M., fwd.  N.Y. [c1960].  S.                        Available
+FIC  Witt, C.  Retreat of the ten thousand.  3rd ed.  Lond. 1896.  w. ynw32zen.                  Available
+MYS  Carlisle, K.  One book in the grave.  N.Y. 2012.  S.                                        Available
+WES  Galloway, M.  One man's fire.  N.Y. 2012.  S.                                               Available
+SCI  Farland, D.  Wizardborn.  N.Y. 2021.  S.  (Runelords 3).                                    Available
+SCI  Holroyde, C.  Effort.  N.Y. 2022.  O.                                                       Available
+SCI  Orwell, G.  1984; Fromm, E., Afterward.  N.Y. [c1949].  D.                                  Available
+SCI  Robinson, K.S.  Forty signs of rain.  N.Y. 2005.  S.                                        Available
+WES  L'Amour, L.  Lonigan.  N.Y.2020.  S.                                                        Available
+WES  McCauley, T.  Blood on the trail.  N.Y. 2022.  D.                                           Available
+WES  McCauley, T.  Get out of town.  N.Y. 2020.  S.                                              Read	
+188  Aurelius, M.  Meditations; Hammond, M., tr.; Clay, D., intro.  U.K. 2014.  S.               Available
+220  Bible.  Access ... NRSV w. apocyphal; O'Day, G.; Peterson, D. eds.  Oxf. [1999].  O.        Available 
+220  Bible.  Message; Peterson, E.H.  Colorado Springs [c1993].  O.                              Available
+264  Book of common prayer.  Oxf. [1979].  S.                                                    Read
+264  Book of prayer and praise for congregational worship.  Bost. 1893, [p2012].  O.             Available
+289  Cheetham, H.H.; Martin, R., dr.  Unitarianism and Universalism.  Bost. 1962.  D.            Available
+289  Frevert, P., ed.  Welcome.  Bost. 2009.  77 p. t.                                           Available
+289  Morales, P., ed.; Harris-Perry, M., fwd.  UU pocket guide.  Bost. [c2012].  D.              Available
+299  Deng, M.  365 Tao.  N.Y. 1992.  D.                                                          Available
+321  Snyder, T.  On tyranny.  N.Y. 2017.  126 p. S.                                              Read
+591  Wilson, E.O.  Genesis; Kaspari, D.C., ill.  N.Y. 2019.  D.                                  Available
+917  Buchsbaum, R.N.  Hikes in the ... White Mts.  3rd ed.  Bost. 2016.  O.                      Available
+920  Douglass, F.  Life and times... Ruffin, G., intro.  Hartford, Conn., 1882.  w. yj9m44r2     Available
+920  Coombs, J.D.  Grandfather's stories.  West Concord, MA. 1969.  1O                           Available
+940  Powicke, M.R.  Community of the realm.  N.Y. [1973].  O.  (Borg. Hist. Eng. 2)              Available
+944  Tuchman, B.W.  Distant mirror.  N.Y.1979.  O.                                               Reading
+946  Reston, J., Jr.  Dogs of God.  N.Y. 2005.  O.                                               Available
+001  Flying saucers.  n.p. n.d.  v. 
+001  Goldstein, J.  101 amazing facts.  n.p. 2015.  k.
+001  Hine, D.  What good is information.  n.p. n.d.  e.  3324.
+001  Dube, R.  Journey into the hidden web. n.p. 2014.  w. msyj8522                              Available
+001  McLachlan, S.; River, C., eds.  Flying saucers.  n.p. n.d.  v.                              Available
+002  Free kids books.  n.p. n.d.  [w.](https://freekidsbooks.org/).                              Available
+002  Kindle buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)                          Available
+002  Lyons, R.E.; Rayner, S.J.  Academic book of the future.  n.p. 2016.  k.                     Available
+002  Openstax.  n.p. [2021]  [w.](https://openstax.org/).                                        Available
+002  Univ. of Minn.  Open textbook library.  n.p. [c2021].  w. 4creuzsf                          Available
+004  Adams, M.  Python programming.  n.p. [c2015].  k.                                           Available
+004  Cannon, J.  Linux administration.  n.p. 2016.  k.                                           Available
+004  Cannon, J.  Linux for beginners.  n.p. 2013.  k.                                            Available
+004  How-to geek.  n.p. [c2016-]  [w.](http://www.howtogeek.com/)                                Available
+004  Hughes, M.  Learn to build with PHP.  n.p. 2014.  k.                                        Available
+004  Hughes, M.  Learn to build with PHP.  n.p. 2014.  g.                                        Available
+004  Lardinois, F.  What are you looking at?.  e 10074.  (In ReadWriteWeb, Feb. 6, 2009).        Available
+004  Loukides, M.  What is data science?  n.p. n.d.  k.                                          Available
+004  McCahill, M.P.; Ankesaria, F.X.  Evolution of Internet Gopher.  e 8373.  (In Jour. Univ. Comp. Sci., 1:4, 1995). Available
+004  Stancu, L.  World information tool.  n.p. n.d.  e 3218.                                     Available
+004  Suellentrop, C.  Websites that convert.  n.p. 2017.  k.                                     Available
+004  US Dept. of Defense.  Cloud computing strategy.  Wash. 2012.  g.                            Available
+005  Bachaalany, E.  Batchography.  n.p. 2016.  g.                                               Available
+005  Cooper, P.  Beginning Ruby.  n.p. n.d.  k.                                                  Available
+005  DataCamp.  Python basics cheat sheet.  n.p. 200?.  g.                                       Available
+005  Dumbill, E.  Planning for big data.  n.p. n.d.  k.                                          Available
+005  EPUB to PDF converter.  [w.](https://go4convert.com/ebook-to-pdf).
+005  Forta, B.  Sam's teach yourself regular expression in 10 minutes.  k.
+005  Holzner, S.  Perl core language--little black book.  k.
+005  McLaughlin, B.  What is HTML5?  k.
+005  Nixon, R.  Learning PHP, MYSQL, and Javascript.  g.
+005  Regular Expression reference.  g.
+005  Tennison, J.  Beginning XSLT.  k.
+005  Williams, J.D.  Learn PHP.  k.
+006  10 simple CSS code examples you can learn in 10 minutes.  w. 27nmxe9r
+006  Open University.  Introduction to computational thinking.  k.
+011  McMahan, J.L.  Public records resources online.  e 10111.
+017  Curlie.  [w.](https://curlie.org)
+019  Catalogue of the Mercantile Library of Boston.  [w.](https://archive.org/details/cataloguemercan00massgoog)
+019  Catalogue of the Public Library of Cincinnati.  [w](https://archive.org/details/cataloguepublic00coungoog)
+020  ALA. Advocacy University.  Frontline fundraising toolkit.  e 10096.
+020  ALA.  Frontline fundraising toolkit.  e  10096
+020  Battles, M.  Library: an unquiet history.  v.
+020  DeRosa, C.; Cantrell, J.; Cellentani, D.  Perceptions of libraries and information resources.  e.  0349.
+020  Hammer, J.  Bad-ass librarians of Timbuktu.  k.
+020  Larson, E.  Library renewals.  e 0302.  (In Reason, Mar 1994)
+020  Open University.  Library of Alexandria.  k.
+020  Small school library.  g.
+020  Smith, G.A.  Core virtue of Christian librarianshp.  e 1684.
+020  Spackman, A.  Our conservative ideals.  e. 10105.
+023  Miller, Z.K.  How to organize a library.  g.
+025  ALA.  Differences between changes within.  e  8004
+025  Beisler, A.; Willis, G.  Beyond theory: preparing Dublin Core metadata for OAI-PMH harvesting.  e  3210.
+025  Bisac codes and literals.  e.  10106.
+025  Brazier, C.  Cataloguing policy and practice.  e.  1399.
+025  Brenndorfer, T.  RDA in 10 easy steps (for cataloging a book).  e.  10179.
+025  Buckley, K.  Partners needed.  e.  0153. 
+025  Calhoun, K.; Canterell, J.; Gallagher, P.  Online catalogs.  g.
+025  Casey, M.; Gordon, B.  Sound directions.  g.
+025  Choo, C.W.  Information seeking in organizations.  e.  1689.
+025  Cutter, C.A.  Rules for a printed dictionary catalog.  [w](http://books.google.com/books?id=rj-f4-Ps-AkC)
+025  Cutter, O.A.  Cutter's three figure author able.  e.  10064.
+025  Delta College. Library.  Outline of the Library of Congress Classification system.  e.  1690.
+025  Dillon, M.  Assessing information on the internet.  [w.](http://files.eric.ed.gov/fulltext/ED354906.pdf)
+025  Dodd, S.  Cataloging machine-readable data files.  v.
+025  Eklund, A.P. and others.  Comparison of MARC content designation utilization in OCLC WorldCat records with national, core, and minimal level record standards  e.  3236.
+025  Fattahi, R.  AACR2 and catalogue production technology.  e.  1079.
+025  Foster, A.L.  New programs teach undergraduates how to use the internet and the online card catalog in search of the best sources.  e.  1448.
+025  Fox, M.  Professional training for Encoded Archival Description in Europe.  e.  10067.
+025  Gabriel, C.  Subject access to archives and manuscript collections: an historical review.   e.  10069.
+025  Giordano, T.  Electronic resources management and long term preservation.  e.  1686.
+025  Gordman, M.  Concise AACR2 (4th ed.)  ALA, 2004.  e.  gorman2004
+025  Greene, M.A.  More product, less process.  e.  10093.
+025  Horney, K.L.  Minimal-level cataloging.  v.  (In Journal of Academic Librarianship, v11, no6, 1986).
+025  Howarth, L.C.  Area 0.  e.  10077.
+025  Instructions to depository libraries.  e.  0067.
+025  International standard bibliographic description (ISBD) (Consolidated ed.)  g.
+025  ISAD (G) (2nd ed.)  e.  0455.
+025  Kellar, M.  Goal-based classification of web information tasks .  v.
+025  Mering, M.  RDA workbook.  [w.](http://drive.google.com)
+025  Multi-method interdiciplinary research in archival science.  e.  10072.
+027  Barber, D.  Building a digital library.  e  2100
+027  Casson, L.  Libraries in the ancient world.  v.
+027  Evans, J.; Rouche, N.  Utilizing systems development methods in archival systems.  e.  10066.
+027  Fredriksson, B.  Postmodernism archival science.  e.  10068.
+027  Gilliland, A.; McKemmish, S.  Building an infrastructure for archival research.  e.  10070.
+028  Secker, J.; Coonan, E.  Rethinking information literacy.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB)
+060  Evans, R.  Robert’s rules of order.  v.
+080  Cherie Thompson, Colleen Rominski.  e.  0012.
+080  Cherie Thompson.  e.  2030.
+080  Cherie Thompson.  e.  2031.
+080  Cherie Thompson with beer can on head.  e.  2029.
+080  Chet.  0079
+080  Chet.  0080
+080  Chet.  0081
+080  Chet with bow on head.  0082
+080  Church, St. Georges, Bermuda.  2018.  e. 0118
+080  Church, St. Georges, Bermuda.  2018.  e. 0119
+080  Church, St. Georges, Bermuda.  2018.  e. 0120
+080  Church, St. Georges, Bermuda.  2018.  e. 0121
+080  Church, St. Georges, Bermuda.  2018.  e. 0122
+080  Church, St. geroges, Bermuda.  2018.  e. 0123
+080  Clark Thompson  e.  2037.
+080  Clark Thompson  e.  2040
+080  Clark Thompson  e.  2042
+080  Colleen Rominski.  1964-06.  e.  2014.
+080  [Colleen Rominski and Wayne Tyler at graduation].  e.  2002
+080  Colleen Rominski at Flume Gorge.  2014-10-25.  e.  0018
+080  Colleen Rominski at Flume Gorge.  2014-10-25.  e.  0019
+080  Colleen Rominski, Clark Thompson, and a dog.  e.  2045
+080  Colleen Rominski.  e.  2011
+080  Colleen Rominski.  e.  2012
+080  Colleen Rominski.  e.  2033.
+080  Colleen Rominski?  e.  2044
+080  Colleen Rominski?  e.  2046
+080  Colleen Rominski.  e.  2049
+080  Colleen Rominski.  e.  2055
+080  Colleen Rominski first day of school?, Clark Thompson.  e.  2047
+080  Colleen Rominski first day of school?  e.  2048
+080  Colleen Rominski, George Thompson.  e.  0015.
+080  Colleen Rominski, Hank Rominski playing Monopoly.  e. 0115
+080  Colleen Rominski, Hank Rominski playing Monopoly.  e. 0116
+080  Colleen Rominski hiking.  0095
+080  Colleen Rominski hiking.  0096
+080  Colleen Rominski hiking.  0097
+080  Colleen Rominski hiking.  0098
+080  Colleen Rominski holding feeding a bird out of her hand. 2012-10-20.  2.  0002  
+080  Colleen Rominski holding feeding a bird out of her hand. 2012-10-20e. e.  0003
+080  Colleen Rominski in front of waterfall.  e. 0099
+080  Colleen Rominski in front of waterfall.  e. 0100
+080  Colleen Rominski, Justin Lee Tyler.  e.  2051
+080  Colleen Rominski, Justin Lee Tyler, Wayne Tyler.  e.  2054
+080  Colleen Rominski running in front of Kangamangus Road sign.  e. 0101
+080  Colleen Rominski's beanie baby frog.  e. 0102
+080  Colleen Rominski skating.  1971-02.  e.  2026.
+080  Colleen Rominski, Wayne Tyler.  e.  2050
+080  Colleen Rominski, Wayne Tyler.  e  2054
+080  Cook.  1943-07-01.  e.  2022.
+080  Cook.  e.  2020
+080  Cruise ship.  2018.  e. 0117
+080  George Thompson, Clark Thompson, Colleen Rominski. e.  2025.
+080  George Thompson.  e.  0016.
+080  [George Thompson].  e.  2001
+080  George Thompson's house.  e.  2019.
+080  George Thompson, Steve Warner.  e.  2036.
+080  Halay Lysik, Shawn Lysik.  e. 0112
+080  Harold Parker State Forest.  e. 0109
+080  Harold Parker State Forest.  e. 0110
+080  Harold Parker State Forest.  e. 0111
+080  Interrupted music lesson.  e.  2004
+080  Jim Lysik, Nancy Lysik.  e. 0108
+080  Julia Thompson.  e.  2008.
+080  Justin Lee Tyler and Natalie and Jim's house.  e.  0009.
+080  [Justin Lee Tyler and Shawn Lysik].  e. 0001
+080  [Justin Lee Tyler at graduation].  e.  0037
+080  [Justin Lee Tyler at graduation].  e.  0040
+080  Justin Lee Tyler at Harold Parker State Forest.  2012-12-29.  e. 0007
+080  Justin Lee Tyler.  e. 2060
+080  Justin Lee Tyler, George Thompson.  e.  2028.
+080  Justin Lee Tyler on webcam.  e.  0010.
+080  Justin Tyler.  198?  e.  0049
+080  Justin Tyler.  198?  e.  0059
+080  Justin Tyler.  198?  e.  0066
+080  Justin Tyler.  198?  e.  0067
+080  Justin Tyler.  19??  e.  0048
+080  Justin Tyler.  19??  e.  0050
+080  Justin Tyler.  19??  e.  0052
+080  Justin Tyler.  19??.  e.  0062
+080  Justin Tyler.  19??  e.  0065
+080  Justin Tyler.  200?  e.  0051
+080  Justin Tyler.  20??.  e.  0044
+080  Justin Tyler.  20??.  e.  0045
+080  Justin Tyler.  20??.  e.  0046
+080  Justin Tyler and Champ.  e.  0026
+080  Justin Tyler and Champ.  e.  0027
+080  Justin  Tyler and Chet?.  0083
+080  Justin Tyler and George Thompson.  198?.  e.  0022
+080  Justin Tyler and George Thompson.  198?.  e.  0023
+080  Justin Tyler and George Thompson.  198?.  e.  0024
+080  Justin Tyler and George Thompson.  198?.  e.  0025
+080  Justin Tyler and unidentified others playing little league softball.  19??.  e.  0054
+080  Justin Tyler at Episcopal Diocese of Michigan convention.  20??.  e.  0043
+080  Justin Tyler at school playground.  e.  0033
+080  Justin Tyler at school playground.  e.  0034
+080  Justin Tyler, Carl Heath, and unidentified others during little league softball.  19??.  e.  0057
+080  Justin Tyler class photo.  2002.  e.  0021
+080  Justin Tyler crying on floor.  1983?  e.  0028
+080  Justin Tyler dancing with unidentified girl.  198?  e.  0053
+080  Justin Tyler driving a lawn mower.  19??  e.  0069
+080  Justin Tyler driving lawn mower.  19??  e.  0061
+080  Justin Tyler during christmas.  198?  e.  0036
+080  Justin Tyler during christmas with George Thompson (grandpa).  198?.  e.  0038
+080  Justin Tyler hiking.  0089
+080  Justin Tyler hiking.  0092
+080  Justin Tyler hiking.  0093
+080  Justin Tyler in hottub.  198?  e.  0060
+080  Justin Tyler in playhouse.  e.  0031
+080  Justin Tyler in playhouse.  e.  0032
+080  Justin Tyler laying in snow.  19??  e.  0058
+080  Justin Tyler playing in beach sand.  199?  e.  0055
+080  Justin Tyler playing in beach sand.  199?  e.  0063
+080  Justin Tyler portrait.  e. 0104
+080  Justin Tyler reading with feet on desk.  19??  e.  0064
+080  Justin Tyler riding on lawn mower.  198?  e.  0029
+080  Justin Tyler riding on lawn mower.  198?  e.  0030
+080  Justin Tyler, Scott Hunder, and unidentified at Episcopal Diocese of Michigan convention.  20??.  e.  0041
+080  Justin Tyler's dorm.  0085
+080  Justin Tyler's dorm.  0086
+080  Justin Tyler, Shawn Lysic.  0091
+080  Justin Tyler, Shawn Lysik.  e. 0107
+080  Justin Tyler, Shawn Lysik hiking.  0094
+080  Justin Tyler, Shawn Lysik in cave.  0090
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0070
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0071
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0072
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0073
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0074
+080  Justin Tyler's home, Haverhill, MA.  2021.  e.  0075
+080  Justin Tyler sitting in George and Julia Thompsons kitchen.  199?  e.  0068
+080  Justin Tyler sleeping on couch.  19??  e.  0056
+080  Justin Tyler with easter eggs.  e.  0035
+080  Justin Tyler with Julia Thompson?  198?  e.  0039
+080  Justin Tyler with puppy.  0087
+080  Justin Tyler with puppy.  0088
+080  Justin Tyler with Santa Clause.  198?  e.  0047.
+080  Lois.  1952.  e.  2015
+080  Lola Donaldson.  e.  2007.
+080  Mark, 9 yrs.  1966.  e.  2018.
+080  Mr. Bunny.  0020.
+080  Paining by Colleen Rominski.  1999.  e.  2058.
+080  Presbyterian Church, Hillsdale, Mich.  e.  2061.
+080  Prisoners playing poker?  e.  2024.
+080  Shawn Lysik.  0084
+080  Shawn Lysik.  2012-10-27.  e.  0004
+080  Shawn Lysik.  2012-10-27.  e.  0005
+080  Shawn Lysik.  2012-12-09.  e.  0006
+080  Shawn Lysik at Harold Parker State Forest.  2012-12-29.  e.  0008
+080  Shawn Lysik.  e. 0106
+080  Shawn Lysik, Ogunquit, ME.  e. 0105
+080  Squirrel: first photo of Samsung phone.  e. 0103
+080  [Thompson family].  e.  2000
+080  Thompson property.  e.  0011.
+080  Thompson property.  e.  0013.
+080  Thompson property.  e.  0014.
+080  Thompson property.  e.  0017.
+080  Turkey's on Thompson property.  e.  2034.
+080  Tyler property.  e.  2062
+080  Unfinished Church, Bermuda.  2018.  e. 0124
+080  Unfinished church, Bermuda.  2018.  e. 0125
+080  Unidentified photo.  e. 0113
+080  Unidentified photo.  e. 0114
+080  Unidentified photo.  e.  2032.
+080  [Warner]  e.  2003.
+080  Wayne Tyler] outside our house in Hillsdale.  2000-07-01.  e. 2056
+080  Wedding of Colleen Rominski and Wayne Tyler.  e.  2052.
+080  West Meadow Hill, Haverhill, MA.  2021.  e.  0076
+080  West Meadow Hill, Haverhill, MA.  2021.  e.  0077
+080  West Meadow Hill, Haverhill, MA.  2021.  e.  0078
+091  Tyler, J.L.  [2007 taxes].  e  3219
+091  Tyler, J.L.  [2008 taxes].  e  3220
+091  Tyler, J.L.  [2009 taxes].  e  3321
+091  Tyler, J.L.  [2012 taxes].  e  3331
+091  Tyler, J.L.  [2016 taxes].  e  3359
+100  Kellogg, M.K.  Three questions we never stop asking.  v.
+113  Barlow, C.  Ritualizing big history [w.](http://www.metanexus.net/blog/ritualizing-big-history).
+128  Fulghum, F.  All I need to know I learned in kindergarten.  e.  3355.
+133  Cunningham, S.  Wicca.  v.
+133  Farrell, D.  Wicca.  k
+150  Winfrey, S.  29 scientifically proven ways to be happy this year.  [w](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year)
+152  Chernoff, M.  12 rituals happy, successful people practice every day.  [w.](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day/)
+152  Halvorson, H.G.  To succeed, forget self esteem. e.  2139.
+153  Fritzier, J. ; Friedman, S.W.  Behavior toolkit.  g.
+155  5 tactics for relieving work-related stress.  e  3252
+155  Bennington-Castro, J.  Science of what makes an introvert an an extrovert.  [w.]
+158  Hustad, M.  Benefits of being stupid at work.  g.
+158  Murray, K.  Own your future.
+170  Fletcher, J.F.  Situation ethics.  v.
+170  Framework for feminist ethics.
+170  Parliament of World's Religions.  Declaration towards a global ethic.  [w.](http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf)
+174  Pauchant, T.C., ed.  Ethics and spirituality at work.  v.
+176  21 simple actions towards a simpler life.  w
+178  Wonderful, J.  Voluntary simplicity.  k
+188  Irving, W.B.  Stoic challenge.  k.
+200  Buehrens, J.A.; Parker, R.A.  House for hope.  v. 
+200  Burton, T.  Strange rites.  k.
+200  Christian, S.; Smith, P.  Souls in transitions.  k.
+200  Fuller, A.R.  Psychology and religion.  v.
+200  Livingson, J.C.  Anatomy of the sacred. 2e.  v.
+200  Mann, C.C.  Birth of religion.
+200  Paragament, K.I.  Psychology of religion and coping.  v.
+200  Wadud, A.  Whatever works.  k
+210  Horsfield, J.  The golden rule.  k.
+210  Maziarek, J.  Spirituality simplified.  k.
+210  Mercer, J.E.  Nature mysticism.  k.
+220  Ferlo, R.  Opening the Bible.  v.
+220  Gottwald, N.  Self-inventory on biblical hermeneutics.  e.  1373
+220  Message [bible].  k.
+220  NET bible.  k.
+220  Perkins, P., Newsom, C.A., Brettler, M.Z., Goodgan, M.D., eds.  New oxford annotated bible : New revised standard version with the Apocrapha.  g.
+220  Peterson, E.H.  Message [bible].  k.
+220  The holy bible.  Augsburg Fortress, 1919.  e.  8331.  "New Revised Standard Version [NRSV])" -cover.
+220  The holy bible, English Standard Version.  k.
+225  Ehrman, B.D.  New Testament (3rd ed.)  v.
+226  Growth of the gospel tradition.  g.
+226  Jefferson, T.  Jefferson Bible.  k.
+230  Tolstoy, L.  Kingdom of God is within you.  k.
+232  Aslan, R.  Zealot.  v.
+232  Four faces of Jesus.  v.
+232  Jesus, the compassion of God.  e.  1364.
+238  Van Harn, R.E.  Exploring and proclaiming the Apostles’ creed.  v.
+241  Farley, M.  Just love.  v.
+241  Jung, P.B. ; Jung, S., eds.  Moral issues and Christian responses (7th ed.)  v.
+242  Jacobs, D.R.  Consider Jesus.  v.
+242  Life tides.  k.
+247  [Celtic cross].  g.
+248  Bill, J.B.  Mind the light.  k.
+248  Broyles, A.  Journaling.  v. 
+248  DeJaegher, P.  One with Jesus.  v.
+248  Gulley, P.  Living the Quaker way.  k.
+248  Kelsey, M.T.  Companions on the inner way.  v.
+248  Smith, S.T.  Jesus life.  k.
+252  Jefferts Schori, K.  A wing and a prayer.  Morehouse, 2007.  v.
+260  King, M.L.  Influence of themystry religions on Christianity.  e.  1543.
+261  Johnson, R.K.  Reel spirituality (2nd ed., rev. and expanded).  v.
+262  Viola, F.  Reimagining church.  k.
+264  Book of Common Prayer and administration of the sacraments and other rites and ceremonies of the church, together with the Psalter or Psalms of David : according to the use of The Episcopal Church  g.
+264  Boy Scouts of America.  Reverence.  g.
+264  Daily prayer for all seasons.  k.
+265  Medd, P.G.  Priest to the altar.  k.
+266  Benesh, S.; Crider, C.  Bikeable church.  k.
+270  Confessions of St. Augustine.
+270  Cox, H.  Future of faith.  k.
+270  Jenkins, J.P.  Jesus wars.  k.
+270  Jenkins, P.  Jesus wars.  e.  3040.
+270  Jenkins, P.  Lost history of Christianity.  e.
+271  Clay, R.M.  Hermits and anchorites of England.  [w.](Classic arcade games)
+273  Herrou, J.M.A.  Forbidden religion.  k.
+283  Doyle, A.  Unabashedly Episcopalian.  k
+287  Sutton, N.  Bhagavad Gita.  k.
+289.1  Earth bound.  k.
+289.1  Frederick-Gray, S.; Harris-Perry, M.  Unitarian Universalist pocket guide.  6e.  k.
+289.1  Guengerich, G.  10 things I wish everyone knew about Unitarian Universalism.  k.
+289.1  Unitarian Unversalist Fellowship of Alexandria.  [w](http://pages.suddenlink.net/uufoa/index.htm)
+289.1  UU Church of the Palouse.  Celbrant's guide.  [w.](http://www.palouseuu.com/#/worship-services/4556396206)
+289  Alexander, S.W.  Everyday spiritual practice.  k
+289  Book of common prayer according to the use of King's Chapel.  e.  0360.
+289  Brent, J.B.  Mind the light.  k.
+289  Brown, Flora; Jessop, P.T.  Church of lies.  k.
+289  Buehrens, J.A.; Church, F.  Chosen faith.  v. 
+289  Church of Jesus Christ of Latter-day Saints.  Book of Mormom.  k.
+289  Church of Jesus Christ of Latter-day Saints.  Preach my gospel.  k.
+289  Evangelism.  [w.](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml)
+289  Evangelism.  [w.](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml)
+289  Frevert, P.  Welcome.  k
+289  Fulbright, A.  UU evangelism.  [w.](http://www.uuroanoke.org/sermon/060521Sermon.htm)
+289  General Assembly of Unitarian and Free Christian Churches.  Generous Communion  g.
+289  Geungerich, G.  10 things I wish everyone knew about Unitarian Universalism.  [w.](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374)
+289  Greenwood, A.  Introduction to the unitarian and universalist traditions.  g.
+289  Grigg, R.  To re-enchant the world.  k.
+289  Hayes, W., comp. Every nation kneeling.  g.
+289  Kraybill, D.B.; Rodriguez, D.  Amish of Lancaster County.  k.
+289  Maharaj, M.S.J. ; Howard, V.R.  Harmony of all religions.  g.
+289  McGuffie, D.  The hymn sandwich. g.
+289  Morales, P.  Sanctuary and gospel.  g.
+289  Morales, P.  Sanctuary and gospel.  [w.](https://www.uuworld.org/articles/sanctuary-and-gospel)
+289  Reed, C.  We are here.
+289  Ritchie, S.J.  Children of the same god.  k.
+290  Carpenter, E.  Pagan and Christian creeds.  k.
+291  Cenkner, W., ed.  Evil and the response of world religion.  v. 
+291  Pinola, M.  Seven important lessons from world religions eeryone should know.  [w.](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832)
+291  Raines, J.C.  Justice men owe women.  k.
+294  Confucius, M.; Laozi.  Selected passages from the Chinese philosophers in the path.  k.
+294  Gise, K.  Buddhism.  k.
+294  Isherwood, C., tr.  Bhagavad-Gita.  v.
+294  Kato, J.  Zen.  k
+297  Ali, A.H.  Heretic.  v
+297  Wahiduddin, M.; Kahn, G.  Quaran.  k.
+299  Daoism.  e.  3309
+299  Deng, M.D.  365 tao.  k.
+299  Greer, J.M.  Druidry handbook.  v.
+299  Herman, J.R.  Taoism for dummies.  John Wiley, 2013.  e.  7050.
+299  Laozi; Waller, D.  Tao Te Ching.  k.
+302  Heitman, D.  If Thoreau were to move to Walden today, would he bring the Internet? Maybe.  e.  (In Christian Science monitor, Jul. 4, 2012).
+302  Junger, S.  Tribe.  v.
+302  Kasser, T.  High price of materialism.  v.
+303  Johnson, C.A.  Information diet.  v.
+303  Keen, A.  Cult of the amateur.  v.
+303  Odell, J.  How to do nothing. k
+305  Ashcroft, R.T.; Bevir, M., eds.  Multiculturalism in the British Commonwealth.  k.
+305  Bands and tribes.  e  3239
+305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  e  3240.
+305  Diamond, J.  World until yesterday.  v.
+305  Elwell, F.  Huntig and gathering societies.  v.
+305  Vance, J.D.  Hillbilly elegy.  v.
+305  Veblen, T.  Theory of the leisure class.  k.
+306  Brown, M.L.  In the line of fire. 1e.  k.
+306  Carter, J.  Our endangered values.  v.
+306  Domville-Fife, C.W.  Among the wild tribes of the Amazon.  v.
+306  Gilbert, E.  Eat, pray, love.  v.
+306  Hunter, D.  Building a movement to end the new Jim Crow.  k.
+306  McCartney, J.  Little book of sloth philosophy. v.
+310  US. CIA.  2009 CIA world factbook.  k.
+320  Crown of maples.  g.
+320  Darling, A.  Back from the brink.  k.
+320  Hain, P.  Outside in.  k.
+320  Hanson, M.  Ed.  Biteback, 2011.  k.
+320  Kazin, M.  American dreamers.  v.
+320  Mandelson, P.  Third man.  k.
+320  Nozick, R.  Anarchy, state, and utopia.  k.
+320  Ogg, F.A.  Governments of Europe.  [w.](https://www.gutenberg.org/ebooks/21006)
+320  Rawnsley, A.  End of the party.  k.
+320  Rawnsley, A.  Servants of the people.  k.
+320  Seldon, A.; Lodge, G.  Brown at 10.  k.
+320  Seldon, A.  May at 10.  k.
+321  Bagehot, W.  English constitution.  k.
+321  Inside story: how coalition government works.  e.  10109.
+321  Streit, C.K.  Union now.  g.
+321  Tudor, P.  The ceremony of the Introduction of Bishops to the House of Lords.  g.
+323  Hannon, D.  Inventing freedom (1st ed).  Broadside, 2013.  v.
+324  Neary, P.  The morning after a general election.  g.
+327  Foner, E.  Second founding (1st ed.)  k.
+330  Huber, J; Robertson, J.  Creating new money.  g.
+330  Jantsch, J.  How to build a remarkable business by focusing on the total customer experience.  e.  3126.
+330  Robertson, J.  Create new money.  g.
+331  Hudson, C.  Do you want fries iwth that.  v.
+338  Hay, F.J.  90 minute business plan.  k.
+339  Kasser, T.  High price of materialism.  v.
+342  House of Lords reform bill.  e.  3257.
+342  House of Lords reform draft bill.  e.  10104.
+342  Scott, R.M.  Recasting islamic law.  k
+342  Simon, J.F.  What kind of nation.  v.
+342  The city-states of Aetolia.  [w.](http://www.aetolia.com/cities)
+342  UK Ministry of Justice.  Review of the executive royal prerogative powers.
+347  Greenburg, J.C.  Supreme conflect.  Penguin, 2007.  v.
+355  Camp Delta standard operating procedures (SOP)  g.
+355  Hoffman, A.  Steal this book.  v.
+362  Evacuate Earth.  e.  3317.
+367  Constitution daily.  [w.](http://blog.constitutioncenter.org/)
+395  Nemko, M.  Simple techniques to increase your likeability at work.  g.
+398  Coelho, P.  Alchemist.  e.  8337.
+398  Daniel, A.  Hero motifs.  e.  1455.
+522  Dennen, W.H.  Rocks of Cape Ann.  v.
+523  Tyson, N.D.  Origins.  g.
+524  Gribbin, J. Alone in the universe.  g.
+526  Hoag, J.S.  Fundamentals of land management.  e.  1650.
+529  [Cox, B.  Large hydron collider].  e  7506
+530  College physics.  g.
+530  Crease, R.P.  World in the balance.  v.
+551  Jorgenson, N.  Guide to New England's landscape.  v.
+574  Bates, H.W.  Naturalist on the river Amazons.  v.
+574  Dinerstein, E.  Kingdom of rarities.  k
+576  Benton, M.J.  When life nearly died.  v.
+576  Brannen, P.  End of the world.  g.
+613  Bruce, J.  Surviving an apocalypse.  [w.](https://www.makeuseof.com). 
+613  Davenport, G.  Wilderness survival.  k
+613  Kling, M.  9 frugal ways to treat the common cold.  [w](https://drive.google.com)
+616  Halford, W.P.; Puschel, P.; Rakowski, B.  Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine.  [w.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251)
+629  Catchpole, J.E.  International Space Station.  v. 
+635  Grant, B.  Vertical gardening.  k.
+640  Laughlin, C.E., ed.  Complete home.  e.  3235.
+641  Collis, J.  Vegetarian.  k
+641  Green, C.  Vegan instant pot cookbook.  k.
+643  Forseth, M.  Free TV over the air.  k.
+646  Becker, J.  10 most important things to simplify your life.  [w.](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/)
+647  Babauta, L.  Focus.  [w](https://drive.google.com)
+647  Bruce Lee's top 20 tips for living a successful live.  e.  10094. 
+647  Jabr, F.  Why your brain needs more downtime.  [w.](http://www.scientificamerican.com/article.cfm?id=mental-downtime)
+650  12 outstanding personality traits of a great boss.  [n.p., n.d.]  [w](http://www.officevibe.com/blog/infographic-great-boss)
+650  Khoo, C.S.G.; Luyt, B.; Ee, C.  How users organize electronic files on their workstations in the office environment.  v.  (In Information Research, v11, no2, Jan 2007).
+651  Recommended record retention periods for business records. [w](https://drive.google.com)
+728  [Balmoral].  e  3267
+780  Diouf, M.; Nwankwo, I.C., eds.  Rythms of the Afro-Atlantic world.  k
+781  Achillea.  Nine worlds.  e  /music
+781  Ackerman, W.  Sound of wind driven rain.  e  /music
+781  Adiemas.  Adiemus III.  e  /music
+781  Adiemas.  Eternal knot.  e  /music
+781  Adiemus.  Adiemus: songs of sanctuary.  e.  music.
+781  All-American Regects.  Move along.  e  music
+781  Amethystium.  Aphelion.  e  music
+781  Amethystium.  Evermind.  e  music
+781  Amethystium.  Odonata.  e  music
+781  Anonymous 4.  Legends of St. Nicholas.  e  music
+781  Arkenstone, D.  Ancient voices.  e  music
+781  Arkenstone, D.  Atlantis.  e  music
+781  Arkenstone, D.; Kostia; Lanz, D.  Spirit of Olympia.  e  music
+781  Arkenstone, D.  Sketches from an American journey.  e  music
+781  Australis.  Life giving.  e  music
+781  Blunt, J.  All the lost souls.  e.  music
+781  Blunt, J.  Back to Bedlam.  e.  music
+781  Brickman, J.; Alpert, H. Simon, C.  Destiny.  e.  music.
+781  Brickman, J.; Antoine, M.; Evans, S.  Escape.  e.  music.
+781  Brickman, J.  From the heart.  e.  music.
+781  Brickman, J.  My romance.  e.  music.
+781  Brickman, J.  Picture this.  e.  music.
+781  Buble, M.; Lins, I.  Call me irresponsible.  e.  music. 
+781  Caballero, D.  Ethereality.  e.  music.
+781  Cerdwen.  Or Mabinogi.  e.  music.
+781  Chant gregorien.  e.  music.
+781  Chants of the season.  e.  music.
+781  Cher.  Very best of Cher.  e.  music.
+781  Cistercian Monks of Stiff Heiligenkreuz.  Chant.  e.  music.
+781  Classics for relaxation and meditation.  e.  music.
+781  Cohen, L.  Essential Leonard Cohen.  e.  music.
+781  Collins, P.  Face value.  e.  music.
+781  Cusco.  Ancient journeys.  e.  music.
+781  Cusco.  Apurimac III.  e.  music.
+781  Cusco.  Inner journeys.  e.  music.
+781  Diamond, N.  12 songs.  e.  music.
+781  Diamond, N.  His 12 greatest hits.  e.  music.
+781  Dion, C.  All the way.  e.  music.
+781  Dion, C.  A new day has come.  e.  music.
+781  Farish, R.  Life in stereo.  e.  music.
+781  Gandalf.  Colors of a new dawn.  e.  music.
+781  Goodall, M.  Ancient Nazca.  e.  music.
+781  Grease: the original soundtrack...  e.  music.
+781  Hooper, N.; King, A.  Harry Potter and the Order of the Phoenix.  e.  music.
+781  Horner, J.; Church, C.; Howard, R.  Beautiful mind.  e.  music.
+781  Hybrid.  Morning Sci-Fi.  e.  music.
+781  Iglasias, E.; Houston, W.  Enrique.  e.  music.
+781  Isham, M.  Vapor drawings.  e.  music.
+781  Islam, Y.  Other cup.  e.  music.
+781  Joel, B.  Billy Joel greatest hits: Vol. III.  e.  music.
+781  Joel, B.  Greatest Hits, Volume I and Volume II.  e.  music.
+781  John, E.  Elton John's greatest hits: volume III, 1979-1987.  e.  music.
+781  John, E.; Newman, R.; Rice, T.  Road to El Dorado.  e.  music.
+781  John, E.  Songs from the west coast.  e.  music.
+781  John, E.; Taupin, B.  Captain & the kid.  e.  music.
+781  John, E.; Taupin, B.; Dee, K.  One night only.  e.  music.
+781  John, E.; Taupin, B.  Goodbye yellow brick road.  e.  music.
+781  John, E.; Taupin, B.  Howard, J.N.  Elton John Live in Australia.  e.  music.
+781  John, E.; Taupin, B.  Peachtree road.  e.  music.
+781  John, E.; Taupin, B.  Reg strikes back.  e.  music
+781  John, E.; Taupin, B.; Rice, T.  Greatest hits, 1970-2002.  e.  music
+781  Kater, P.  In a dream.  e.  music.
+781  Keating, R.  10 years of hits.  e.  music.
+781  -NSYNC.  No strings attached.  n.p., 2000.  e  music
+782  Fleming, T.; Donnelly, V.  Tommy Fleming: voice of hope.  e.  music.
+791  Colony.  e.  3316.
+791  Corner gas.  [w.](https://www.amazon.com/gp/video/detail/B07KWHSG6Y)
+794  Classic arcade games.  [w.](www.classicgamesarcade.com) 
+796  Hike New England.  [w.](http://www.hikenewengland.com/)
+808  Delta College. Library.  Publication Manual of the American Psychological Association (APA) for Citing Resources in Print Form.  e.  1366
+808  Greenbaum, D.  Journaling at the end of the day could increase your productivity.  [w.](http://lifehacker.com/1590024732)
+808  Johnson, A.  Leaving a trace.  v.
+812  Fox, M.  Just stay.
+813  Adair, B.; Piperbrook, T.W.  Last survivors.  v
+813  Akers, D.C.  Haven.  k
+813  Allende, I.; Peden, M.S., tr.  City of the beasts.  v
+813  Anderson, J.A.  Jager journal.  k
+813  Anderson, K.J.  Ruins.  v.
+813  Anderson, M.T.  Feed.  v.
+813  Annan, R.  Lighting riders.  k.
+813  Argent, J.  Fairmont boys series.  k.
+813  Baker, K.  City of towers.  k.
+813  Baldon, N.  Sorcerer's quest.  k
+813  Bannister, P.  Kings cavalry.  k
+813  Barnes, G.  Aquifer (1e).  k
+813  Barry, D.  Insane city.  v.
+813  Barry, D.; Zweibel, A.  Lunatics.  v.
+813  Bellin, J.D.  Survivial colony 9.  k
+813  Billig, B.G.  Nuclear catastrophe.  k.
+813  Blackaby, D.  Legend of the book keeper.  k.
+813  Bosgoed, R.  Purging.  k.
+813  Bourke, M.  Jaguar sun.  k.
+813  Bova, B.  Mars.  v.
+813  Bowden, W.  Port state.  k.
+813  Boyle, C.J.  Adventures of kirk Rogers inside the moon.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+813  Braun, E; Byars, C.  Book of creation.  k.
+813  Briar, P.  Z-minus.  k
+813  Brooks, T.  Armageddon's children.  e.  8353.
+813  Brooks, T.  Bearers of the black staff (1e).  v.
+813  Brooks, T.  Elves of Cintra.  v.
+813  Brooks, T.  First king of Shannara.  v.
+813  Brooks, T.  Genesis of Shannara.  v.
+813  Brooks, T.  Measure of the magic.  v.
+813  Brooks, T.  Scions of Shannara.  v.
+813  Brooks, T.  Skaar invasion.  [w](https://drive.google.com)
+813  Brooks, T.  Sword of Shannara.  v.
+813  Brooks, T.  Voyage of the Jerle Shannara.  v.
+813  Brooks, T.  Wards of faerie.  v. 
+813  Brown, D.  Angels and demons.  v.
+813  Brown, D.  Da Vinci code.  v.
+813  Brown, D.  Inferno.  [w.](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960)
+813  Brown, P.  Red rising.  v.  
+813  Brown, R.  Aurora CV-01.  k. 
+813  Brumm, R.  Windigo soul.  k
+813  Buchmann, J.  Indigo incident.  k. 
+813  Burroughs, A.  Running with scissors.  v.
+813  Burroughs, E.R.  Tarzon of the apes.  v. 
+813  Byne, L.  Banded.  k. 
+813  Caine, R.  Ink and bone.  k.
+813  Caine, R.  Ink and bone.  [w](https://drive.google.com)
+813  Cameron, J.  Gabe and the mystery light.  v. 
+813  Carson, H.  Project Dandelion.  k.
+813  Charlton, R.  Secret portal.  k.
+813  Chastain, C.  Earth and shadows.  k.
+813  Child, L.  Forgotten room.  v.
+813  Child, L.  Terminal freeze.  v.
+813  Christie, J.  Wreath, a girl.  k
+813  Cole, A.; Bunch, C.  Wolf worlds.  v
+813  Collins, M.A.  Waterworld.  v.
+813  Columbus, N.  3:53am.  k
+813  Corey, J.  Leviathan wakes.  v.
+813  Coryell, S.  God virus.  k.
+813  Damon, N.  SHadow of Oz (1st ed.).  k.
+813  Dane, D.A.  Jacinto's voyage.  v.
+813  Daniels, V.  Forbidden the stars.  v.
+813  David, J.; McCollum, S., ill.  Book of the shepherd.  v.
+813  DeLancy, C.  Wellof Furies (10th ed.)  k.
+813  Diack, M.  LIght and the glass.  k.
+813  Dicksion, W.W.  Sagebrush.  k.
+813  Dockins, B.; Beal, O., ill.  Betrayal of magic.  k.
+813  Fisher, C.  Hidden coronet.  v.
+813  Fisher, C.  Relic master.  v.
+813  Forbes, M.R.  His dark empire.  k.
+813  Fortney, R.S.; Moore, L., ill., River, A., ed.  PaxCorpus.  k.
+813  Franklin, T.  Unscheduled departure.  k
+813  Franks, D.J.  Order of Asclon.  k.
+813  Gaddy, A.; Roark, A.  Wicked roots.  k.
+813  Gillespie, M.  Apocalypse no. 1.  k.
+813  Goodkind, T.  Wizards first rule.  k
+813  Graham-Smith, S.  Abraham Lincoln, vampire hunter.  v.
+813  Grainger, J.  Under Heaven's shining stars.  k
+813  Grant, M.  Gone.  Harper, 2008.  v.
+813  Grant, M.  Hunger.  HaperCollins, 2009.  v.
+813  Grant, M.  Lies.  Katherine Tegen books, 2010.  v.
+813  Guindon, E.  Apprentice.  k.
+813  Hailey, S.J.  5th amulet.  k.
+813  Hale, B.  Last oracle.  k.
+813  Hancock, K.  Arena (Reprint ed.)  Bethany House, 2012.  k.
+813  Hancock, K.  Light of Eidon.  Bethany House, 2003.  k.
+813  Hanson, D.  Matriarch manifesto.  k.
+813  Harden, J.  Secret apocalypse.  k.
+813  Harley, T.  Penkeepers.  k.
+813  Harris, R.D.  Starfall 1.  k.
+813  Harris, T.R.  The human chronicles saga (books one & two).  k.
+813  Hautman, P.  Invisible.  k.
+813  Hawks, J.T.  Traveler.  k.
+813  Hayes, Griffen.  Primal shifts. part one: collapse.  k.
+813  Healey, D.  First voyage.  k.
+813  Herbert, B.  Sisterhood of dune.  v.
+813  Herbert, F.  Dune.  v.
+813  Hobb, R.  Dragon keeper.  v.
+813  Holmberg, D.K.  Festival of mourn.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+813  Howey, H.  Beacon 23.  v.
+813  Howey, H.  Wool.  k
+813  Illuminator.  v.
+813  James, H.  Washington square.  k
+813  James, P.D.  Children of men.  Vintage, 1992.  v.
+813  Jane, D.; Carroll, C.  Where the joys are.  k
+813  Kanaparti, P.  Dracian legacy (1st ed.)  v.
+813  Kenyon, N.  Day one.
+813  Kephart, C.  Wysard.  k
+813  Lukeman, A.  White Jade.  k
+813  Luoma, M.  Vatican assassin.  k
+813  McLay, C.  Village books.  k
+813  Messenger, J.  Wind warrior.
+813  Miller, A.  What would Satan do?  k
+813  Reynolds, A.  Revelation space.  [w](https://drive.google.com)
+813  Sawyer, J.  Until morning comes.  k
+813  Scalzi, J.  Consuming fire.  [w](https://drive.google.com)
+813  Sean, W.; Platt, D.  Yesteday's gone.  k
+813  Sheridan, K.P.  Under a broken sun.  k
+813  Smitherd, L.  Tales from the outer limits of the Twilight Zone.  k
+813  Stowe, H.B.  Uncle Tom's cabin.  k
+813  Veira, S.  Last guardians.  k
+813  Weis, M.; Hickman, T.  Dragons of summer flame.  TSR, 1995.  [e](8840.txt)
+813  Weis, M.  Soulforge.  [w](https://drive.google.com)
+813  West, D.J.  Whispers out of the dust.  k
+817  Barr, R.  Roseanarchy.  k.
+818  Barry D.  Dave Barry in cyberspace.  v.
+818  Barry, D.  Dave Barry's only travel guide you'll ever need.  v.
+818  Thoreau, H.D.  Walen.  k
+823  Austen, J.  Emma.  v.
+823  Austen, J.  Persuasion.  k
+823  Clarke, A.C.  2001 (Reissued ed.)  k.
+823  Clarke, A.C.  2010.  k.
+823  Clarke, A.C.  2061.  k. 
+823  Clarke, A.C.  Childhood's end.  k. 
+823  Clarke, A.C.  Fall of moondust.  k. 
+823  Clarke, A.C.  Hammer of God.  k. 
+823  Clarke, A.C.; Lee, G.  Rama II.  v. 
+823  Dickens, C.  Old curiosity shop.  v.
+823  Dickens, C.; Potter, B.; Montgomery, L.M.  Greatest christmas stories of all time.  [k](https://read.amazon.com/?asin=B08X6RMXBH)
+823  Foresters.  v.
+823  Harbinson, W.A.  Eden.  v.
+832  Clarke, A.C.  3001.  k. 
+839  Ingleman-Sundberg, C.  Little old lady who broke all the rules.  v.
+843  Camus, A.  Plague.  v.
+870  Kellogg, M.K.  Roman search for wisdom.  v.
+891  Death of Ivan Ilych.  v.
+891  Tolstoy, L.; Kaufman, A.D.  War and peace.  k
+909  Harari, Y.N.  Sapiens (1st ed.)  HarperCollins, 2015.  v.
+909  Johnson, P.  History of hte Jews.  e.  
+910  Open University.  World heritage.  k
+912  Exploring New Hampshire’s White Mountains (1st ed.)  v.
+912  Franconia Notch [map] : Franconia Notch State Park, New Hampshire.
+912  Kayak.  [w.](http://www.kayak.com/)
+915  Benin, K.  Tranformative travel in Nepal.  k
+916  Davidson, B.  African kingdoms.  k.
+917  Bryson, B.  Walk in the woods.  v.  
+917  Damm, N.  Life on foot.  k.
+920  Stevens, J.  Five chiefs.  Little, Brown, and Co., 2011.  k.
+920  White, J.  Everyone said I should write a book : the travels and and adventures of a sailor and explorer.  k.
+920  Williams, D.  Big tiny.  v.
+920  Young, J.  Harvest: memoir of a Mormon missionary.  k.
+921  Axelrod, A.  Profiles in audacity.  v.
+923  Baker, J.H.  James Buchanan.  v.
+923  Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.)  In celebration and of thanksgiving for the life of Gerald Rudolph Ford.  e.  0589.
+923  De Kler, F.  Last trek.  St. Martins, 1998.  v.  
+923  Gandhi, M.; Desai, M., tr.  An autobiography.  v.
+923  Greenberg, C.  Calvin Coolidge.  Time, 2006.  v.
+923  Keneally, T.  Abraham Lincoln.  v.
+923  Leuchtenburg, W.  Herbert Hoover.  Time, 2009.  v.
+923  McConnell, M.  Deliverance: Mary Fields, first African American Women Star Route Mail Carrier in the United States.  k.
+923  Nasaw, D.  Andrew Carnegie.  Penguin, 2006.  v.
+923  Obama, B.  Audacity of hope.  Crown, 2006.  v.
+923  Thatcher, M.  Downing Street years.  HarperPerennial, 1993.  [w.](http://mvlc.lib.overdrive.com/ContentDetails.htm?ID=69D78DB3-64A8-40DC-B7D5-2A8365B28B1C)
+923  Woodward, B.  Fear.  Simon & Schuster, 2018.  g.
+927  John, E.  Me.  [w](https://drive.google.com)
+927  Madigan, T.  I'm proud of you.  v.
+928  L'Amour, L.  Education of a wondering man.  Bantam, 1989.  v.
+929  Urbanski, J.  Between a rock and a white blaze.  k.
+930  Assyrian empire.  Sea vision, 2019.  k.
+930  Cantor, N.  Antiquity (1st ed).  v.
+930  Cantor, N.  Antiquity.  Sea vision, 2019.  k. 
+930  Cantor, N.F.  Antiquity.  v.
+930  Clayton, P; Price, M.  Seven wonders of the ancient world.  Routledge, 1988.  178 p.
+930  Davidescu, M.  Last Romans.  k. 
+930  Jackson, R.  Rome.  k. 
+930  King, C.  Their greatest hour.  k. 
+932  Clayton, M.  Egyptian mythology.  k. 930  Weber, J.  History: ancient history in 50 events.  k. 
+939  Cauvin, J.; Watkins, T., tr.  Birth of the gods and origins of agriculture.  [w](https://drive.google.com)
+940  Camberidge medieval history collection.  Mario Brito, 2000.  k. 
+940  Hazen, C.  History of Europe 1870-1919.  k. 
+940  Henderson, E.F.  Select historical documents of the middle ages.  George Bell, 1892.  e.  10101
+940  Open University.  Early modern Europe.  k. 
+940  Taylor, A.  War lords.  k. 
+941  Anderson, C.  Game of crowns.  g.
+941  Devonshire, D.  Wait for me!  g.
+941  Hichens, C.  Beware the in-laws.  e.  10097.  (In Slate, Apr 18, 2011).
+941  Milton, N.  Neville Chamberlain's legacy.  [w.](https://www.hoopladigital.com/play/13917369) 
+941  Oppenheimer, M.  Boycott the royal wedding.  e.  10098.  (In Slate, Aug. 28, 2011.) 
+941  Strange, J.  Strange tales of Scotland.  k. 
+960  Idjennaden, B.  Kingdom of Numidia.  k. 
+966  DeVilleirs, M.; Hirtle, S.  Timbuktu.  v.
+970  Brinkbaumer, K. ; Hodges, C. ; Streck, A., tr.  Voyage of the Vizcaina.  v.
+970  Fagan, B.  The first North Americans.  v.
+971  Trudeau, J.  Common ground.  k. 
+973  50 core American documents.  k
+973  Archer, R.  As if an enemy's country.  v.
+973  Baker, J.H.  James Buchannan.  v.
+973  Hulse, C.  Obama is sworn in as 44th president.  [w](https://drive.google.com)
+973  Kennedy, R.G.  Mr. Jefferson's lost cause.  v.
+973  Kennedy, R.g.  Mr. Jefferson's lost cause.  v.
+973  Roberts, C.  Founding mothers.  v.
+974  Bradford, W.  History of Plimoth plantation.  e.  3022.
+979  Cremony, J.  Life among the Apaches.  k.
+980  Ken, K.; Rossignol, U.  Early years of the big dig.  k.
+981  Wallace, S.  Unconquered.  v.
+Doherty, N.  Cargo ship diaries.  k.
