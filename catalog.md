@@ -497,7 +497,7 @@
 * 642  Caldwell, James.  Restaurant managers' and waiters' guide book, [by] ... Patrick Caldwell, Michael Rathke.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B06XC6GQFQ).  i481 
 * 643  Benson, Patricia.  DIY household hacks.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00PNZA1LU).  i482 
 * 643  Forseth, Mike.  Free TV over the air.  Invigorating Publishing, c2014.  k.  via [www](https://read.amazon.com?aisn=B00IX0BTCM).  i483 
-* 646  Allen, David.  Getting things done.  n.p., 2015.  k.   i3 
+* 646  Allen, David.  Getting things done.  n.p., 2015.  k.   i3  [2022 B](https://justinleetyler.github.io/reading_notes#i3txt). 
 * 646  Anon.  Bruce Lee's top 20 tips for living a successful life.  PDF file via USB.  File name: 10094.pdf.  DBID 10094.  (IN Wake Up Cloud, Apr. 4, 2011)  i485 
 * 646  TBecker, Josua.  10 most important things to simply your life.  Becoming minimalist, 2012.  k.  via [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).   i484 
 * 647  Babauta, Leo.  Focus : a simplicity manifesto in the age of distraction.  [S.l., s.n., 2010?]  k.  via [www](http://drive.google.com.  i486 
