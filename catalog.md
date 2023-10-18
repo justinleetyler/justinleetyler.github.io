@@ -589,36 +589,35 @@
 * 779  Tyler, J.L.  [Photographs taken around the Blue Hills, Ipswich, Massachusetts].  [n.d.]  JPG files via USB.  3326.  i563 
 * 779  Tyler, J.L.  [Photographs taken at Biolabs, Ipswich, Massachussets].  2012-10-18.  JPG file(s)? via USB.  3274.  i564 
 * 779  Tyler, J.L.  [Photographs taken at the Rearing Ponds (Hillsdale, Mich.)].  [2013].  JPG files via USB.  i565 
-* 780  Diouf, M.  Rhythms of the Afro-Atlantic world: rituals and remembrances / ed. by Mamadou Diouf and Ifeoma Kiddoe Nwankwo.  University of Michigan Press, [n.d.]  k via [www](https://read.amazon.com/?asin=B08F3SQXY2).  i575 
-* 781  -NSYNC.  No strings attached.  [S.l.], 2000.  MP3 files via USB.   i576 
-* 781  Achillea.  Nine worlds, The.  BSC Music GmbH, c2005.  MP3 files via USB.  i628 
-* 781  Ackerman, Will.  Sound of wind driven rain.  N.Y. : Winham Hill, c1998.  MP3 files via USB.  i629 
-* 781  Adiemas.  Adiemus III: Dances of time.  Mississauga, Ont: Virgin Music Canada/Venture, 1998.  MP3 files via USB.  i630 
-* 781  Adiemas.  Eternal knot, The.  Great Britain: Karl Jenkins Music Ltd, 2000.  MP3 files via USB.  i632 
-* 781  Adiemus.  Songs of sanctuary.  N.Y.?, Virgin Records, 1995.  MP3 files via USB.  i631 
-* 781  All-American Rejects.  Move Along.  Santa Monica, CA: Interscope/Doghouse Records, 2005.  MP3 files via USB.  i588 
-* 781  Amethystium.  Aphelion.  Ft. Lauderdale, Fl.: Neurodisc, 2003.  MP3 files via USB.  i633 
-* 781  Amethystium.  Evermind.  Ft. Lauderdale, FL: Neurodisc Records, 2004.  MP3 files via USB.  i634 
-* 781  Amethystium.  Odonata.  Ft. Lauderdale, Fl.: Neurodisc, 2001.  MP3 files via USB.  i635 
-* 781  Anon.  Chant Gregorien: Liturgie Dominicaine.  France: Jade, 2007.  USB files via USB.  i653 
-* 781  Anon.  Chants of the Season.  New York, NY: RCA Victor, 1994.  MP3 files via USB.  i720 
-* 781  Anon.  Classics for Relaxation and Meditation.  St.-Laurent, Canada: Madacy, 1994.  MP3 files via USB.  i718 
-* 781  Anon.  Now that's what I call music: 13.  Santa Monica, CA: Universal Music Group, 2003.  Mp3 files via USB.  i608 
-* 781  Anon.  Positive Evolutions.  [KPM, c1999].  MP3 files via USB.  i578 
-* 781  Anon.  Pure Moods III.  Beverly Hills, Calif: Virgin Records America, 2000.  MP3 files via USB.  i691 
-* 781  Anon.  Pure Moods.  Beverly Hills, CA: Virgin Records America, 1997.  MP3 files via USB.  i692 
-* 781  Anon.  Pure Moods: IV.  Beverly Hills, CA: Virgin Records America, 2002.   MP3 files via USB.  i693 
-* 781  Anon.  Rough guide to the music of Zimbabwe, The.  London: World Music Network, 1996.  MP3 files via USB.  i610 
-* 781  Anon.  Summer solstice 2.  New York, NY : Windham Hill, p1998.  Mp3 files via USB.  Contents: Siwa (Samite).  After the harvest (Angels of Venice).  Let Awapuhi (Ledward Kaapana).  Tres curumins (Lani Hall).  Sutu Kun (Vieux Diop).  Everything hurts (Buckwheat Zydeco).  Cruisin' Negril (W.G. 'Snuffy' Walden).  Silgugu Isiphambana (Ladysmith Black Mambazo).  Adventures in paradise (Tuck & Patti).  Algre Vida (Yomo Toro).  La feria de las flores (Leonardo 'Flaco' Jimenez).  No na mamo (Taj Mahal and the Hula Blues Bands).  Birds in flight (George Winston).  I'm falling (Earl Klugh).  Puesta Del Sol (Sean Harkness).  A child's song (Will Ackerman).  i705 
-* 781  Anonymous 4.  Legends of St. Nicholas : medieval chant and polyphony.  Lond. : Harmonia Mundi, 1999.  MP3 files via USB.  i719 
-* 781  Arkenstone, David.  Atlantis.  Milwaukee: Narada Classics, 2004.  MP3 files via USB.  i636 
-* 781  Arkenstone, David.  Sketches from an American Journey.  U.S.: Paras Recordings, 2002.  MP3 files via USB.  i637 
-* 781  Arkenstone, David.  Spirit of Olympia, The, David Arkenstone, Kostia, with David Lanz.  Milwaukee, WI : Narada Productions, p1992.  MP3 files via USB.  Contents: Prelude. Let the games begin  Savannah runner (3:33)  Memories of gold (3:14)  Keeper of the flame (3:23)  From the forge to the field (3:35)  Heartfire (3:19)  Celebration (5:00)  Close without touching (5:24)  Glory (2:19)  A night in the village (14:44)  Walk with the stars (4:45)  Marathon man (5:29)  The spirit of Olympia (3:41).  i638 
-* 781  Arkenstone, Diane.  Ancient voices.  Cortez, Colo.: Paras/Neo Pacifica, 2001.  MP3 files via USB.  i639 
+* 780  Diouf, M. ; Nwankwo, I.F., ed.  Rhythms of the Afro-Atlantic world.  Mich. [n.d.]  MP3 files via USB.  i575 
+* 781  -NSYNC.  No strings attached.  n.p. 2000.  MP3 files via USB.   i576 
+* 781  Achillea.  Nine worlds.  n.p. [c2005].  MP3 files via USB.  i628 
+* 781  Ackerman, W.  Sound of wind driven rain.  N.Y. [c1998].  MP3 files via USB.  i629 
+* 781  Adiemas.  Adiemus III: Dances of time.  Mississauga, Ont. 1998.  MP3 files via USB.  i630 
+* 781  Adiemas.  Eternal knot.  U.K, 2000.  MP3 files via USB.  i632 
+* 781  Adiemus.  Songs of sanctuary.  [N.Y.]? 1995.  MP3 files via USB.  i631 
+* 781  All-American Rejects.  Move Along.  Santa Monica, CA. 2005.  MP3 files via USB.  i588 
+* 781  Amethystium.  Aphelion.  Ft. Lauderdale, Fl. 2003.  MP3 files via USB.  i633 
+* 781  Amethystium.  Evermind.  Ft. Lauderdale, FL. 2004.  MP3 files via USB.  i634 
+* 781  Amethystium.  Odonata.  Ft. Lauderdale, Fl.  MP3 files via USB.  i635 
+* 781  Chant Gregorien: Liturgie Dominicaine.  France: Jade, 2007.  USB files via USB.  i653 
+* 781  Chants of the Season.  New York, NY: RCA Victor, 1994.  MP3 files via USB.  i720 
+* 781  Classics for Relaxation and Meditation.  St.-Laurent, Canada: Madacy, 1994.  MP3 files via USB.  i718 
+* 781  Now that's what I call music: 13.  Santa Monica, CA: Universal Music Group, 2003.  Mp3 files via USB.  i608 
+* 781  Positive Evolutions.  [KPM, c1999].  MP3 files via USB.  i578 
+* 781  Pure Moods III.  Beverly Hills, Calif. 2000.  MP3 file via USB.  i691 
+* 781  Pure Moods.  Beverly Hills, CA. 1997.  MP3 file via USB.  i692 
+* 781  Pure Moods: IV.  Beverly Hills, CA. 2002.  MP3 file via USB.  i693 
+* 781  Rough guide to the music of Zimbabwe.  Lond. 1996.  MP3 files via USB.  i610 
+* 781  Summer solstice 2.  New York, N.Y. p1998.  Mp3 files via USB.
+* 781  Anonymous 4.  Legends of St. Nicholas : medieval chant and polyphony.  Lond. 1999.  MP3 files via USB.  i719 
+* 781  Arkenstone, David.  Atlantis.  Milwaukee, 2004.  MP3 files via USB.  i636 
+* 781  Arkenstone, David.  Sketches from an American Journey.  U.S. 2002.  MP3 files via USB.  i637 
+* 781  Arkenstone, David and others.  Spirit of Olympia.  Milwaukee, 1992.  MP3 files via USB.  i639 
 * 781  Australis.  Life giving.  n.p. 2005.  MP3 files via USB.  i640 
-* 781  Benedictine Monks of St. Michael's.  [Gregorian chant].  Santa Monica, CA: LaserLight, 1994.  MP3 files via USB.  i641 
-* 781  Blunt, James.  All the lost souls.  New York: Custard/Atlantic, 2007.  MP3 file via USB.  i589 
-* 781  Blunt, James.  Back to Bedlam.  West Hollywood, Calif.: Custard Records, 2005.  MP3 files via USB.  i614 
+* 781  Benedictine Monks of St. Michael's.  [Gregorian chant].  Santa Monica, CA. 1994.  MP3 files via USB.  i641 
+* 781  Blunt, James.  All the lost souls.  N.Y. 2007.  MP3 files via USB.  i589 
+* 781  Blunt, James.  Back to Bedlam.  West Hollywood, Calif. 2005.  MP3 files via USB.  i614 
 * 781  Brickman, Jim.  Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al].  N.Y: Windham Hill, 1999.  MP3 files via USB.  i642 
 * 781  Brickman, Jim.  Escape / [by] Jim Brickman , Marc Antoine, Sara Evans, ... [et al].  Santa Monica, CA: Savoy Label Group, 2006.  MP3 files via USB.  i643 
 * 781  Brickman, Jim.  From the heart.  Toronto, Ontario: Avalon/Somerset Entertainment, 2009.  MP3 files via USB.  i644 
