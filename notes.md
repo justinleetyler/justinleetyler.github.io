@@ -18,7 +18,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [68k.news: Headlines From the Future](http://68k.news/)
 
-[my catalog](https://justinleetyler.github.io/catshort.txt)
+[my catalog](https://justinleetyler.github.io/catalog)
 
 ## bookmarks-other
 
