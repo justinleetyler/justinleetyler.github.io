@@ -314,58 +314,57 @@
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301 
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.   i311  2012-04  
 * 299.5  Daoism.  file via USB.  Filename: 3309.pdf.  IN World religions reference library.  Cengage Learning, c2007.   i304 
-* 302  Junger, Sebastian.  Tribe.  Twelve, c2016.  xvii, 168 p.  ISBN 9781455566389.   i312  2016-08. Grade B
-* 303  Johnson, Clay A.  Information diet.  Shebastopol, CA : O'Reilly Media, c2012.  ix, 150 p.  ISBN 9781449304683.  DBID 3013  i313 
-* 303  Keen, Andrew.  Cult of the amateur.  New York : Doubleday, c2007.  228 p.  ISBN 978038552080.  DBID 3014   i314  Read ?  
-* 304  Goodall, Jane.  Book of hope / Jane Goodall and Douglas Abrams with Gail Hudson. N.Y : Celadon Books, c2021.  xiv, 252 p.  d1784 
-* 305  Anon.  Bands and tribes.  n.p. n.d..  v.   i320 
-* 305  Anon.  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.   i321 
+* 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.   i312  Read 2016-08. Grade B
+* 303  Johnson, Clay A.  Information diet.  Beijing, c2012.  O.  i313 
+* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  DBID 3014   i314  Read ?  
+* 305  Bands and tribes.  n.p. n.d.  v.   i320 
+* 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.   i321 
 * 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
 * 305  Diamond, Jared.  The world until yesterday.  Penguin Books, c2012.  xi, 498 p.  ISBN 9780143124405.   i317  2004-09. Grade C
 * 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.   i322 
-* 305  Odell, Jenny.  How to do nothing.  Brooklyn [c2019].  PDF, 3.1 MB.  via [www](https://drive.google.com/file/d/1jcjxletqrJPgqhCarFFCpbsod1IPYfuE/view?usp=sharing).  i315 
-* 305  Vance, J.D.  Hillbilly elegy.  Harper, 2016.  v.   i318 
+* 305  Odell, Jenny.  How to do nothing.  Brooklyn [c2019].  g.  i315 
+* 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.   i318 
 * 305  Veblen, Thorstein.  Theory of the leisure class.  Dover Publications, n.d.  k.  via [www](https://read.amazon.com/?asin=B00A73AIMA).  i319 
-* 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  EqualTime Books, c2012.  k. 448 kb.  via [www](https://read.amazon.com/?asin=B008BXVQU6).  i323 
-* 306  Carter, Jimmy.  Our endangered values.  Simon & Schuster, c2005.  x, 212 p.  ISBN 9780743284578.   i324  2005-11  
+* 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  n.p. c2012.  k. 448 kb.  via [www](https://read.amazon.com/?asin=B008BXVQU6).  i323 
+* 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.   i324  2005-11  
 * 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.   i325 
-* 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  Veterans of Hope, 2015.  k. 1515 kb.  via [www](https://read.amazon.com/?asin=B00UCF3U0A).  i326 
-* 306  McCartney, Jennifer.  Little book of sloth philosophy.  HarperCollinsPublishers, 2018.  170 p.  ISBN 9780008313692.  i327  2019-07. Grade B
+* 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  n.p. 2015.  k. 1515 kb.  via [www](https://read.amazon.com/?asin=B00UCF3U0A).  i326 
+  * 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B
 * 310  United States. Central Intelligence Agency.  World factbook 2018-2019. Skyhorse, 2018.  k. 50484 kb.  DBID 3117.  i328 
 * 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  PDF, 14 MB via [www](https://drive.google.com/file/d/1EfVEek6iMLB7lNDW5otbI9kpqFlu9DYz/view?usp=sharing).
 * 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  k. 5015 kb.  via [www](https://read.amazon.com/?asin=B005NE552G).  i342 
-* 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  PDF, 2 MB.  via via [www](https://drive.google.com/file/d/19IxhJ6Cvb_cnlOmrpN5-EqaRMxDpq7fO/view?usp=sharing). 
-* 320  Canada.  Crown of maples, A.  2012 ed.  [Canada], [c2012].  PDF, 14.2 MB.  via [www](https://drive.google.com/file/d/1oepYNBuoI4U4qzPd2ZC4n-scz0NS9q6d/view?usp=sharing).  i340 
-* 320  Darlin, Alistair.  Back from the brink: 1000 days at number 11.  Atlantic Books, 2012.  k. 1581 kb.  via [www](https://read.amazon.com/?asin=B00AA33JPK).  i329 
+* 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  g. 
+* 320  Canada.  Crown of maples, A.  2012 ed.  [Canada], [c2012].  g.  i340 
+* 320  Darlin, Alistair.  Back from the brink: 1000 days at number 11.  n.p. 2012.  k. 1581 kb.  via [www](https://read.amazon.com/?asin=B00AA33JPK).  i329 
 * 320  Hain, Peter.  Outside in.  Lond., Biteback Pub., 2012.  k.  i338 
-* 320  Kazin, Michael.  American dreamers.  Alfred A. Knoph, 2011.  xix, 329 p.  ISBN 9780307266286.   i330 
-* 320  Rawnsley, Andrew.  Servants of the people: the inside story of new Labour.  U.K. ed.  Penguin, 2001.  k. 1745 kb.  via [www](https://read.amazon.com/?asin=B00390BDZE).  i335 
-* 320  Seldon, Anthony.  Brown at 10, [w.] Guy Lodge.  Biteback, 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
-* 320  Seldon, Anthony.  May at 10, the verdict. Biteback Publishing, 2020.  k. 9830 kb.  i337  2022-02. Grade C. 
-* 321  Anon.  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)   i343 
-* 321  Anon.  Inside story.  [Lond.] 2011.  PDF, 172 KB.  via [www](https://drive.google.com/file/d/1M-muH2j4Y_kkmrqdBw9bDdD4Aqh9CHWq/view?usp=sharing).
-* 321  Bagehot, Walter.  The English constitution.  n.p. 2012.  k. 355 kb.  via [www](https://read.amazon.com/?asin=B0082YI9PY).  i341 
-* 321  Brown, Lawrance.  My country is called Earth.  n.p. c2010.  PDF, 966 MB.  via [www](https://drive.google.com/file/d/17DmmYLwbUGnyU3c7AxvN7oJh-QGOZga9/view?usp=sharing).
+* 320  Kazin, Michael.  American dreamers. N.Y. 2011.  O.   i330 
+* 320  Rawnsley, Andrew.  Servants of the people.  U.K. ed.  n.p. 2001.  k. 1745 kb.  via [www](https://read.amazon.com/?asin=B00390BDZE).  i335 
+* 320  Seldon, Anthony.  Brown at 10, [w.] Lodge, G.  n.p. 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
+* 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  i337  2022-02. Grade C. 
+* 321  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)   i343 
+* 321  Inside story; [by University College Lond.]  [Lond.] 2011.  PDF, 172 KB.  g.
+* 321  Bagehot, Walter.  English constitution.  n.p. 2012.  k. 355 kb.  via [www](https://read.amazon.com/?asin=B0082YI9PY).  i341 
+* 321  Brown, Lawrance.  My country is called Earth.  n.p. c2010.  g.
 * 321  Nozick, Robert.  Anarchy, state, and utopia.  Basic Books, n.d.  k.  i344 
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  via [www](https://www.gutenberg.org/ebooks/21006).  i333 
-* 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  PDF, 29 MB.  via [www](https://drive.google.com/file/d/1FYo3m7LT2ShMvixsgSROm_02_xTjjnjl/view?usp=sharing).
-* 321  Seldon, Anthony.  Cabinet Office, 1916-2018: the birth of modern government, [w.] Jonathan Meakin.  Biteback Publishing, 2016.  k. 16371 kb.  seldon2016 
-* 321  Snyder, Timothy.  On tyranny : twenty lessons from the twentieth century.  1st ed.  N.Y., Tim Duggan Books, 2017.  126 p.  i345 
-* 321  Streit, Clarence K.  Union now.  Lond. 1940.  PDF, 31.7 MB.  via [www](https://drive.google.com/file/d/1ans1kUGMk06GPJsB8_grFMOjyuqKGftu/view?usp=sharing).   i346 
-* 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  PDF, 204 KB.  via [www](https://drive.google.com/file/d/105vb7yDs8pIuck4V-ghKEXSmi4h72Yv_/view?usp=sharing).  (In Parliamentary History, 21:2, 2002).  i347 
-* 321  Wexler, Jay.  The odd clauses.  Beacon Press, 2011.  k. 620 kb.  i348  2013-01  
-* 321  Whittle, Peter.  Monarchy matters.  Social Affairs Unit, 2011.  k. 501 kb.  via [www](https://read.amazon.com/?asin=B004ZH8K74).  i349 
-* 324  Hason, Medhi.  Ed.  Biteback, n.d.  k.  i350 
-* 324  Heilemann, John and Mark Halperin.  Game Change.  n.p. n.d.  v.   i353  2013-02. Grade B
-* 324  Mandelson, Peter.  The third man: life at the heart of New Labour.  HarperPress, 2010.  k. 2 mb.  via [www](https://read.amazon.com/?asin=B004PGMXL4).  i351 
-* 324  Neary, Peter.  Morning after a general election; the vice-regal perspective.  PDF, 298 KB.  via [www](https://drive.google.com/file/d/1M4fUWVKo0EMvgOP9UG0kyAiL5kSdnduB/view?usp=sharing).  (In Canadian Parliamentary Review, 35:3, 2012).  i352 
-* 324  Rawnsley, Andrew.  The end of the party: [the rise anf fall of New Labour].  U.S., Viking, n.d.  k.  i354 
-* 327  Foner, Eric.  The second founding.  n.p. n.d.  k.  i355  2020-04. Grade C. 
-* 327  Vidal, Gore.  Dreaming war.  N.Y. : Thunder's Mouth Press, c2002.  196 p.  d1785 
-* 328  U.K. House of Commons.  Rules of behaviour and courtesies... [Lond.] 2018.  PDF, 1 MB.  via [www](https://drive.google.com/file/d/1iLXGed2wu1lWomv2yQSqo3MU2qdit-jQ/view?usp=sharing).
-* 330  Huber, Joseph.  Creating new money, [w.] Robertson, James.  Lond. n.d.  PDF, 378 KB.  via [www](https://drive.google.com/file/d/1Sj2hWCjEvP5E2Uw0uP4eSIVgJG7dklZx/view?usp=sharing).  i356 
-* 330  Jantsch, John.  How to build a remarkable business by focusing on the total customer experience.  n.p. Ducktapemarketing.com, 2012?. PDF file via USB.  File name: (3126.pdf)  DBID 3126  i357 
-* 330  McKibben, Bill.  Deep economy.  New York : Times Books, 2007.  361 p.  ISBN 9780805076264.  DBID 3111  i360 
+* 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  g.
+* 321  Seldon, Anthony.  Cabinet Office, 1916-2018; [w.] Meakin, J.  n.p. 2016.  k. 16371 kb.  seldon2016 
+* 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  S.  i345 
+* 321  Streit, Clarence K.  Union now.  Lond. 1940.  g.  i346 
+* 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  g.  (In Parliamentary History, 21:2, 2002).  i347 
+* 321  Wexler, Jay.  Odd clauses.  Beacon Press, 2011.  k. 620 kb.  i348  2013-01  
+* 321  Whittle, Peter.  Monarchy matters.  n.p. 2011.  k. 501 kb.  via [www](https://read.amazon.com/?asin=B004ZH8K74).  i349 
+* 324  Hason, Medhi.  Ed.  n.p. n.d.  k.  i350 
+* 324  Heilemann, John; Halperin, M.  Game Change.  n.p. n.d.  v.   i353  2013-02. Grade B
+* 324  Mandelson, Peter.  Third man.  n.p. 2010.  k. 2 mb.  via [www](https://read.amazon.com/?asin=B004PGMXL4).  i351 
+* 324  Neary, Peter.  Morning after a general election; the vice-regal perspective.  g.  (In Canadian Parliamentary Review, 35:3, 2012).  i352 
+* 324  Rawnsley, Andrew.  The end of the party.  U.S. n.d.  k.  i354 
+* 327  Foner, Eric.  Second founding.  n.p. n.d.  k.  i355  2020-04. Grade C. 
+* 327  Vidal, Gore.  Dreaming war.  N.Y. 2002.  196 p.  d1785 
+* 328  U.K. House of Commons.  Rules of behaviour and courtesies... [Lond.] 2018.  g.
+* 330  Huber, Joseph.  Creating new money, [w.] Robertson, James.  Lond. n.d.  g.  i356 
+* 330  Jantsch, John.  How to build a remarkable business by focusing on the total customer experience.  n.p. [2012]? PDF file via USB.  File name: (3126.pdf)  DBID 3126  i357 
+* 330  McKibben, Bill.  Deep economy.  N.Y. 2007.  O.  DBID 3111  i360 
 * 330  Mead, Walter Russell.  The one and future liberalism.  American Interest, 2012.  via www.   i358 
 * 330  Smith, Adam.  The Wealth of Nations, [into. by] Alan B. Krueger.  Xist Classics, 2015.  k. 1612 kb.  via [www](https://read.amazon.com/?asin=B00VHBIIVE).  i359 
 * 331  Hudson, Christopher.  Do you want fries with that.  n.p. 2005.  v.  ISBN 159316629.   i361  2011-10  
