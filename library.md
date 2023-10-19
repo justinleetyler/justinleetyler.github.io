@@ -4,7 +4,7 @@
 | 88 Main St. Anywhere, MI 12345            | email:                 |
 | hours: M,W,F 10-5 Tu ; Tu,Th 1-5 ; Sa 9-1 | phone:                 |
 
-[about] [services] [policies] [catalog]
+[about](https://justinleetyler.github.io/library#about) [services](https://justinleetyler.github.io/library#services) [policies](https://justinleetyler.github.io/library#policies) [catalog](https://justinleetyler.github.io/library#catalog)
 
 ## About
 Somewhere Township Library is a small independent public library that has been in existence for over 50 years. Although we receives no federal or state funding, the book selection is updated by purchasing best sellers each month. Funds received through fines, donations and book sales are used for purchasing children. youth and adult books.
@@ -33,38 +33,25 @@ There is no charge for the use of the computers. A charge of 25 cents per page, 
 ## Catalog
 > Call for availablility.
 
-|desc                                                                                                                                |call |id    |status     |
-|------------------------------------------------------------------------------------------------------------------------------------|-----|------|-----------|
-|Barry, Dave.  Swamp story.  N.Y. [2023].  306 p. 24 cm.                                                                             | FIC | 0001 | Available |
-|Bible. Access Bible. NRSV w. Apocryphal/Deuterocannical books.  O'Day, Gale R. [and] Petersen, David, eds.  Oxford, [1999].  23 cm. | 200 | 0025 | Available |
-|Bible.  Message. By Peterson, Eugene H.  Colorado Springs, CO. [2002]  906 p. 22 cm.                                                | 220 | 0022 | Available |
-|Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains. 3rd ed.  Bost. [2016]. xxvii + 338 p.                            | 917 | 0007 | Available |
-|Carlisle, Kate.  One book in the grave.  N.Y. [2012]  291 p. 17 cm.  (Bibliophile mysteries)                                        | MYS | 7132 | Available |
-|Cheetham, Henry H.  Unitarianism and universalism.  Dr. by Martin, Roger.  Bost. [1962].  124 p. 21 cm.                             | 289 | 0009 | Available |
-|Compton, Ralph.  One man's fire. By Galoway, Marcus.  N.Y. 2012.  298 p.  18 cm.                                                    | WES | 7134 | Available |
-|Coombs, John Dexter.  Grandfather's stories.  West Concord, Mass. [1969]  104 p.                                                    | 920 | 7143 | Available |
-|Deng, Ming-Dao.  365 Tao.  N.Y. [1992].  xii + 380 p.                                                                               | 299 | 0020 | Availalbe | 
-|Farland, David.  Wizardborn.  N. Y. 2001.  502 p. 17 cm.  (Runelords 3)                                                             | SCI | 7137 | Available |
-|Frevert, Patricia, ed.  Welcome.  Bost. [2009]  77 p.  16 cm.                                                                       | 289 | 0021 | Available |
-|Golding, William.  Lord of the flies.  Afterword by Lowry, Lois.  N.Y. 2006, 1954.  219 p. 20 cm.                                   | FIC | 7136 | Available |
-|Hardy, Thomas.  Tess of the D'Urbervilles.  N.Y. [2006]  407 p. 17 cm.                                                              | FIC | 0002 | Available |
-|Hathorne, Nathaniel.  Scarlet letter.  N.Y., Kaplan, [2006]  553 p. 17 cm.                                                          | FIC | 0009 | Available |
-|Holroyde, Clair.  Effort.  N.Y. 2022.  364 p. 21 cm.                                                                                | SCI | 7142 | Available |
-|L'amour, Louis.  Longigan.  N.Y. [1988].  177 p. 17 cm.                                                                             | WES | 0003 | Available |
-|McCarthy, Cormac.  Road.  N.Y. 2006.  287 p. 21 cm.                                                                                 | FIC | 7139 | Available |
-|McCauley, Terrence.  Blood on the trail.  N.Y. 2022.  344 p. 18 cm.  (Jeremiah Halstead ; 1).                                       | WES | 0004 | Available |
-|McCauley, Terrence.  Get out of town.  N.Y. 2020.  360 p. 17 cm.  (Sheriff Aaron Mackey ; 3).                                       | WES | 0008 | 2023-08 B |
-|Mone, Patrick E.  Petrol bomb of love.  North Haven, CT. 2023.  252 p.                                                              | FIC | 7138 | Available |
-|Morales, Peter, ed.  Unitarian Universalist pocket guide.  Fwd. by Harris-Perry, Melissa.  5th ed. Bost. [2012].  xv + 92 p. 18 cm. | 289 | 1788 | Available |
-|Nordhoff, Charles.  Bounty trilogy. With Hall, James Norman.  Bost. [1964]  viii + 691 p. 23 cm.                                    | FIC | 0002 | Available |
-|Orwell, George.  1984.  N.Y. 1950.  326 p. 20 cm.                                                                                   | SCI | 7133 | Available |
-|Powicke, Michael R.  Community of the realm.  N.Y. 1973.  xi + 194 p.  (Borzoi history of England 2)                                | 942 | 0006 | Available |
-|Prothero, Stephen.  God is not one.  N.Y., 2011.  388 p. 21 cm.                                                                     | 200 | 0006 | Reading   |
-|Reston, James.  Dogs of God.  N.Y. [2005]  xx + 363 p.                                                                              | 946 | 0005 | Available |
-|Robinson, Kim Stanley.  Forty signs of rain.  N.Y. [2014]  393 p.  17 cm.                                                           | FIC | 7131 | Available |
-|Sloan, Robin.  Mr. Penumbra's 24-hr bookstore.  N.Y. 2013.  288 p. 21 cm.                                                           | FIC | 7140 | Available |
-|Snyder, Timothy.  On tyranny.  N.Y. [2017]  126 p. 16 cm.                                                                           | 321 | 0022 | Available |
-|Stevenson, Robert Louis.  Treasure island.  N.Y., 2004, 1883.  xi + 202 p. 17 cm.                                                   | FIC | 7135 | Available |
-|Swift, Jonathan.  Gulliver's travels. Fwd. by Cunliffe, Marcus.  N.Y. [1960]  xx + 319 p. 17 cm.                                    | FIC | 0029 | Available |
-|Tuchman, Barbara W.  Distant mirror.  N.Y. 1979.  xx + 677 p.                                                                       | 940 | 7141 | Available |  
-|Wilson, Edward O.  Genesis.  N.Y. [2019]  153 p. 22 cm.                                                                             | 591 | 1780 | Available |
+* FIC  Austen, J.  Pride and prejudice; Saintsbury, G., ill; Thomson, H., ill.  Lond. 1813.  txt file; 755 kb.
+* FIC  Callenbach, E.  Ecotopia. 30th anniv. ed.  Berkeley, c1975, 2004.  D.  i2308161
+* FIC  Carroll, L.  Alice's adventures in wonderland.  n.p. 2021.  171 kb. via usb (pg11.txt)
+* FIC  Fitzgerald, F.S.  Great gatsby.  n.p. 2021.  300 kb.  pg64317.txt  
+* FIC  Gilman, C.P.  Yellow wallpaper.  n.p. 2021.  52 kb.  pg1952.txt
+* FIC  Hardy, T.  Tess of the D'urbervilles; Clements, M., intro.  N.Y. 2006.  S.
+* FIC  Hardy, T.  Tess of the d'Urbervilles.  n.p. 2021.  875 kb.  pg110.txt  
+* FIC  Hawthorne, N.  Scarlet letter.  Bost. 1878.  txt file ; 517 kb.
+* FIC  Kafka, F.  Metamorphosis; Wyllie, D., tr.  n.p. 2021.  139 kb.  pg5200.txt
+* FIC  Melville, H.  Moby Dick; or, The whale.  n.p. 2021.  1247 kb.  pg2701.txt
+* FIC  Robinson, K.S.  Forty signs of rain.  N.Y. 2005  S.  i2307131
+* FIC  Shelly, M.W.  Frankenstein.  n.p. 2002.  txt file ; 439 kb.
+* FIC  Stroker, B.  Dracule.  N.Y. [c1897].  871 kb.  pg345.txt
+* FIC  Wilde, O.  Picture of Dorian Gray.  n.p. 2002.  455 kb.  pg174.txt
+* WES  McCauley, T.  Blood on the trail.  N.Y. 2022.  D.  (Jeremiah Halstead 1).  
+* 004  Frogfind.  n.p. n.d.  w.  2dvk7ymv
+* 025  Cutter, C.A.  Rules for a dic. catalog.  3rd ed.  Wash. 1891.  466 kb.  pg59215.txt
+* 071  64k.news.  n.p. n.d.  w.  56ckbpwp
+* 071  NPR [news].  n.p. c20--?  w.  4np2mk9a
+* 242  Leach, M.; Goodnough, D., eds.  Maryknoll book of inspiration.  Maryknoll, N.Y. 2010.  O. 
+* 551  NWS.  Forecast for Haverhill MA.  [Wash.] n.d.  w.  2wjhxvxd
+* 822  Shakespeare, W.  Tragedy of Romeo and Juliet.  n.p. 2023. txt file ; 439 kb.
