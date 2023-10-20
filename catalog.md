@@ -63,25 +63,25 @@
 * 025.17  Buckley, Karen.  Partners needed.  n.p. n.d. 2006.  PDF file.  via USB. File name: 0153.pdf.  i74 
 * 025.3  American Library Association.  Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.].  Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005.  1 v. (loose-leaf).  ISBN 0888023006.  DBID 8377  i76 
 * 025.3  American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes.  Differences between changes within.  Chicago : American Library Association, 2004.  PDF file.  via USB. File name: 8004.pdf.  i75 
-* 025.3  Anon.  Minimal-level cataloging: a look at the issue.  v.  IN The Journal of Academic Librarianship.  Vol. 11, no. 6 (1986).   i87 
+* 025.3  Minimal-level cataloging: a look at the issue.  v.  (In Jour. Acad. Librarianship, 11:6 1986).  i87.  Notes avail.
 * 025.3  Brazier, Caroline.  Cataloguing policy and practice - 2007 and beyond: a view from the British Library.  n.p. 2007.  PPT file.  via USB. File name: 1399.ppt.  i78 
 * 025.3  Brenndorfer, Thomas.  RDA in 10 easy steps (for cataloging a book).  [T. Brenndorfer, 2012?].  PDF file.  via USB. File name: 10179.txt.  i77 
 * 025.3  Calhoun, Karen.  Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani.  Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009.  PDF file, 1.4 MB.  via [www.](https://drive.google.com).  i79 
 * 025.3  Cutter, Charles. A.  Rules for a printed dictionary catalog.  Wash, Government Printing Office, 1876.  html file.  via [www](https://www.gutenberg.org/ebooks/59215).  i80 
 * 025.3  Dodd, Sue A.  Cataloging machine-readable data files.  Chicago : American Library Association, 1982.  xix, 247 p.  ISBN 0838903657  i81 
-* 025.3  Edgar, Neal L.  What every librarian should know about proposed changes in cataloging rules.  [n.p., 1975].  via [www.](http://drive.google.com).  IN American Libraries.  (Nov. 1975).   i82 
-* 025.3  Ercegovac, Zorana.  Minimal level cataloging.  1 pdf file.  via [www.](https://drive.google.com).  IN Journal of the American Society for Information Science.  (Jun. 1998).   i83 
+* 025.3  Edgar, Neal L.  What every librarian should know about proposed changes in cataloging rules.  [n.p., 1975].  via [www.](http://drive.google.com).  IN American Libraries.  (Nov. 1975).   i82.  Notes avail. 
+* 025.3  Ercegovac, Zorana.  Minimal level cataloging. g.  IN Journal of the American Society for Information Science.  (Jun. 1998).   i83.  Notes avail. 
 * 025.3  Fattahi, Rahmatollah.  AACR2 and catalogue production technology. n.p. 2007.  PDF file.  via USB.  File name: 1079.pdf.  i84 
 * 025.3  Follett.  What the card catalog tells us.  Follett, [n.d.]  PDF file.  via [www](https://drive.google.com).  i97 
 * 025.3  Fox, Michael.  Professional training for Encoded Archival Description in Europe.  PDF file.  IN Journal of archival organization.  Vol. 3, no. 2/3 (Apr. 1, 2005)  via USB. File name: 10067.pdf.  DBID 10067.  i85 
-* 025.3  Gorman, Michael.  The concise AACR2.  1988 revision.  Chic., American Library Association, 1989.  via [www](https://archive.org/details/conciseaacr28800mich).   i86 
+* 025.3  Gorman, M.  Concise AACR2.  1988 rev.  Chic. 1989.  via [www](https://archive.org/details/conciseaacr28800mich).   i86  Notes avail.
 * 025.3  Howard, Lynne C.  Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth.  IFLA, 2009.  PDF file.  via USB. File name: 10077.pdf.  i88 
 * 025.3  ISBD Review Group.  International standard bibliographic description (ISBD).  Consolidated ed.  [n.p.], 2010.  PDF file.  via [www.](http://drive.google.com).  i90 
 * 025.3  International Federation of Library Associations and Institutions.  ISAD (G).  2nd ed.  Ottawa : ICA, 2000.  PDF file.  via USB.  File name: 0455.pdf.  i89 
 * 025.3  Luther, Judy.  Streamlining book metadata workflow.  NISO, c2009.  PDF file.  via USB drive. File name: (10076.pdf)  i91 
 * 025.3  Minnesota AACR2 Trainers, cp.; edited by Marilyn H. McClaskey and Edward Swanson.  A manual of AARC2 level 1 examples.  v, 32 p.  ISBN 9780936996035  i92 
 * 025.3  Moulton, Mary; Megan Tietjen.  National Transportation Library: minimal cataloging.  n.p. 2013.  [w.](https://vdocuments.net/12-december-2013-implementing-a-minimal-cataloging-standard-at-the-national.html)  i93 
-* 025.3  Penalvo, Francisco Jose Garcia, Jose Antoni Merlo Vega, Transito Ferreras Ferandez... [et.al.]  Qualified Dublin Core metadata best practices for gredos.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=lls&AN=48207864&site=ehost-live).  DOI 10.1080/19386380903546976.  IN Journal of Library Metadata.  Vol. 10.  2010.   i94 
+* 025.3  Penalvo, F. and others.  Qualified Dublin Core metadata best practices for gredos.  (In Jour. Lib. Metadata. v. 10, 2010).  i94.  Read 201?.
 * 025.3  Steele, Bill.  After 32 years, the library card catalog is retired.  [n.p., 2007].  via [www](https://drive.google.com).  IN Chronicle Online.  (Oct. 1,2007).  i95 
 * 025.3  Tillett, Barbara.  What is FRBR?.  [W.], Library of Congress, 2003.  via [www.](http://drive.google.com).  i96 
 * 025.4  Cutter, O.A.  Cutter's three figure author table.  Englewood, CO : Libraries Unlimited, Inc., 1969.  PDF file.  via USB.  File name: 10064.pdf.  i98 
@@ -180,7 +180,7 @@
 * 200  Mann, Charles C.  Birth of religion.  n.p. 2011.  via [www.](https://drive.google.com).  i181 
 * 200  Paragament, Kenneth I.  The psychology of religion and coping.  New York : Guilford Press, c1997.  xii, 548 p.  ISBN 1572302143  i182  2011-10 
 * 200  Prothero, Stephen.  God is not one.  N.Y., HarperOne, c2010.  388 p. 21 cm.  prothero20210  2023-10. C.
-* 200  Smith, Christian, Patricia Snell.  Souls in transition: the religious and spiritual lives of emerging adults.  Oxford University Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B004FPYKX4).  i185 
+* 200  Smith, Christian, Patricia Snell.  Souls in transition: the religious and spiritual lives of emerging adults.  Oxford University Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B004FPYKX4).  i185. 
 * 204  Anon.  Who is my God.  n.p. nd.d  v.   i188  2014-06.  C
 * 204  Wikstrom, E.W.  Simply pray.  Bost. Skinner House [2005].  x + 140 p. 22 cm.  i2304231 
 * 209  Burton, Tara.  Strange rites.  n.p. n.d.  k.  i1724  2020-08. Grade C. Grade Discusses modern day movements that also have the, pillars of what religion always has meaning, purpose, community, ritual. 
@@ -993,12 +993,12 @@
 * FIC  Austen, Jane.  Emma.  [S.l.], 2010.  k.   i1497 
 * FIC  Austen, Jane.  Persuasion.  e-artnow, 2018.  k.  via [www](https://read.amazon.com/?asin=B0797TCF3F).  i1498 
 * FIC  Baker, Elliott.  Sun God's heir.  Hypatia Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B01MS3RCE0).  (Return ; 1)  i833 
-* FIC  Baldron, NAK.  Sorcerer's quest.  Aconite Cafe, n.d.  k.  via [www](https://read.amazon.com/?asin=B0833HHLDH).  i834 
+* FIC  Baldron, NAK.  Sorcerer's quest.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0833HHLDH).  i834.
 * FIC  Baltakmens, Andrei.  Raven's seal.  Top Five Books, n.d.  k.  via [www](https://read.amazon.com/?asin=B009QOFF3I).  i835 
 * FIC  Bannister, Paul.  King's cavalry.  Endeavour Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00IGJ1KDS).  i836 
 * FIC  Barnes, A.E.  Raven son.  n.p. n.d. k.  via [www](https://read.amazon.com/?asin=B00ABM3WCK).  i838 
 * FIC  Barnes, Gary.  Aquifer.  Blue Spring Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B00907BWIS).  i800 
-* FIC  Barry, Dave.  Insane city.  G.P. Putnam's sons, c2013.  341 p.  ISBN 9780399158681.   i801  2013-08. Grade B
+* FIC  Barry, Dave.  Insane city.  G.P. Putnam's sons, c2013.  341 p.  ISBN 9780399158681.   i801.  Read 2013-08. Grade B. Notes avail.
 * FIC  Barry, Dave.  Swamp story.  N.Y., Simon & Schuster, 2023.  306 p. 24 cm.  v23082917  Read 2023-08.  Grade C.  Jesse, in a bad relationship with Slater, a wannabe reality TV star, finds gold not far from Bortle Brothers Bait & Beer.
 * FIC  Barry, Dave; Zweibel, Alan.  Lunatics.  n.p. n.d.  v.   i799  2016-06. Grade C
 * FIC  Beam, Brian.  Dragon gem.  Brian Beam, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B007P02OHU).  i842 
@@ -1014,8 +1014,8 @@
 * FIC  Bosgoed, Reed.  Purging.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00DQCP1J4).  i851 
 * FIC  Bounds, S.J.  Fighting blacksmith.  Pioneering Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01MR70YEV).  i852 
 * FIC  Bourke, Martha.  Jaguar sun.  Balam Press, 2012.  k.  i806 
-* FIC  Bova, Ben.  Mars.  Bantam Books, c1992.  549 p.  ISBN 055356241X.    i807 
-* FIC  Bowden, William.  Port state.  n.p. 2020.  k.  via [www](https://read.amazon.com/?aisn=B08NRLBBH1).   i808  2020-12. Grade D. Grade A spacecraft docks in Bristol, U.K. 
+* FIC  Bova, Ben.  Mars.  Bantam Books, c1992.  549 p.  ISBN 055356241X.    i807.  Read 2009-08. Grade C. Notes avail. 
+* FIC  Bowden, William.  Port state.  n.p. 2020.  k.  via [www](https://read.amazon.com/?aisn=B08NRLBBH1).   i808.  2020-12. Grade D. Notes avail. A spacecraft docks in Bristol, U.K. 
 * FIC  Bower, B.M.  Cabin fever.  Jovian Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M69HKXL).  i853 
 * FIC  Bowring, Sam.  Prophecy's ruin.  Orbit, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00GW4QLF6).  i854 
 * FIC  Boyce, S.M.  Lichgates.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005W5L38G).  (Grimoire saga ; 1)  i855 
@@ -1023,36 +1023,36 @@
 * FIC  Boyson, Cassandra.  Seeker's call.  Kingdom House Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00RDGG30U).  i856 
 * FIC  Bradley, Arthur.  Frontier justice.  CreateSpace, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00CYR3Z2W).  i857 
 * FIC  Brait, Lee.  Picnic.  Lee Brait, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00F6KB7I8).  (Oil to Ashes ; 1)  i859 
-* FIC  Braun, Evan.  Book of creation / Evan Braun and Clint M. Byars.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B006O9OJ6M).  i860  2020-10. Grade D.  An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. 
+* FIC  Braun, E.; Byars, C.M.  Book of creation.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B006O9OJ6M).  i860  Read 2020-10. Grade D. Notes avail. An entry in a newly-discovered catalog for the Library of Alexandra take a team all over the world. 
 * FIC  Briar, Perrin.  Z-Minus.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00QVHRMQG).  (Zombie apocalypse series)  i861 
 * FIC  Broderick, Andrew.  Extinction switch.  Andrew C. Broderick, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01GEPUG5S).  i862 
 * FIC  Brodin, Erik.  Lost sons of Asgard.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B019BY9M0E).  i869 
 * FIC  Bronte, Anne.  Tenant of Wildfell Hall.  Filibooks, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01B201YRY).  i1501 
 * FIC  Bronte, Charlotte.  Jane Eyre.  Charlotte BrontÃ«, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01B04602G).  i1500 
 * FIC  Brooke, Katlynn.  Six and the Crystals of Ialana, The.  Katlynn Brooke, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00KK5IPN4).  i870 
-* FIC  Brooks, Terry.  Armageddon's children.  New York : Del Roy, 2006.  PDF file via USB.  8353.pdf.   i813  2011-06  
-* FIC  Brooks, Terry.  Bearers of the black staff.  1st ed.  New York : Ballantine Books, c2010.  352 p.  ISBN 9780345484178   i815  2011-10  
+* FIC  Brooks, Terry.  Armageddon's children.  New York : Del Roy, 2006.  PDF file via USB.  8353.pdf.   i813.  Read 2011-06. Notes avail.
+* FIC  Brooks, Terry.  Bearers of the black staff.  1st ed.  New York : Ballantine Books, c2010.  352 p.  ISBN 9780345484178   i815  Read 2011-10. Notes avail. 
 * FIC  Brooks, Terry.  Druid of Shannara.  n.p. n.d.  v.  i1741  2005-03  
 * FIC  Brooks, Terry.  Elfqueen of Shannara.  n.p. n.d.  v.  i1742  2005-04  
-* FIC  Brooks, Terry.  Elves of Cintra.  n.p. n.d.  v.   i821  2015-04. Grade C
+* FIC  Brooks, Terry.  Elves of Cintra.  n.p. n.d.  v.   i821.  Read 2015-04. Grade C. Notes avail.
 * FIC  Brooks, Terry.  Fall of Shannara, The.  n.p. n.d.  v.   i1290  2018-08. Grade C
-* FIC  Brooks, Terry.  First king of Shannara.  1st ed.  New York : Ballantine Books, 1996.  489 p.  ISBN 0345396529   i816  2019-09, 2011-12, and 2002-11. Grade C
-* FIC  Brooks, Terry.  Genesis of Shannara.  Ballantine Books, c2007.  379 p.  ISBN 978034484116.   i817 
-* FIC  Brooks, Terry.  Measure of the magic, The.  1st ed.  New York : Ballantine Books, c2011.  383 p.  ISBN 9780345484208.  DBID 1867.   i822  2011-11  
-* FIC  Brooks, Terry.  Scions of Shannara.  n.p. n.d.  v.   i823  2013-03  
-* FIC  Brooks, Terry.  Sword of Shannara.  New York : Ballantine Books, c1977.  726 p.  DBID 1901.   i824  2003-01  
+* FIC  Brooks, Terry.  First king of Shannara.  1st ed.  New York : Ballantine Books, 1996.  489 p.  ISBN 0345396529   i816  Read 2019-09, 2011-12, and 2002-11. Grade C. Notes avail.
+* FIC  Brooks, Terry.  Genesis of Shannara.  Ballantine Books, c2007.  379 p.  ISBN 978034484116.   i817.  Read 20?? Notes avail. 
+* FIC  Brooks, Terry.  Measure of the magic, The.  1st ed.  New York : Ballantine Books, c2011.  383 p.  ISBN 9780345484208.  DBID 1867.   i822.  Read 2011-11. Notes avail.  
+* FIC  Brooks, Terry.  Scions of Shannara.  n.p. n.d.  v.   i823.  Read 2013-03.  Notes avail.  
+* FIC  Brooks, Terry.  Sword of Shannara.  New York : Ballantine Books, c1977.  726 p.  DBID 1901.   i824.  Read 2003-01. Notes avail.
 * FIC  Brooks, Terry.  Talismans of Shannara.  n.p. n.d.  v.  i1745  2005-04  
-* FIC  Brooks, Terry.  Voyage of the Jerle Shannara.  N.Y. : Ballantine Pub. Group., 2000.  456 p.   DBID 1744.  ISBN 0345396553.   i825  2011-10  
-* FIC  Brooks, Terry.  Wards of faerie.  N.Y. : Ballantine Books, c2012.  371 p.  ISBN 9780345523471.  DBID 3207.   i826 
+* FIC  Brooks, Terry.  Voyage of the Jerle Shannara.  N.Y. : Ballantine Pub. Group., 2000.  456 p.   DBID 1744.  ISBN 0345396553.   i825  Read 2011-10. Notes avil.
+* FIC  Brooks, Terry.  Wards of faerie.  N.Y. : Ballantine Books, c2012.  371 p.  ISBN 9780345523471.  DBID 3207.   i826. Read 20?? Grade C. Notes avail. 
 * FIC  Broomall, Robert.  Conroy's first command.  BlueStone Media, [n.d.]  k.  via [www](https://read.amazon.com/).  i863 
 * FIC  Brown, Christian A.  Feast of fates.  Forsythia Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00NMFX03Y).  i866 
-* FIC  Brown, Dan.  Angels and demons.  New York : Pocket Books, c2000.  430 p.  DBID 0019.  ISBN 0671027352   i812  2012-03 and 2005-05  
-* FIC  Brown, Dan.  Da Vinci code.  Doubleday, c2003.  454 p.  DBID 0029.  ISBN 0385504209   i819  2011-10  
-* FIC  Brown, Dan.  Inferno.  Anchor, c2013.  via [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960).  ISBN 9780385537865.   i811  2017-05. Grade D
+* FIC  Brown, Dan.  Angels and demons.  New York : Pocket Books, c2000.  430 p.  DBID 0019.  ISBN 0671027352   i812.  Read 2012-03 and 2005-05. Notes avail.  
+* FIC  Brown, Dan.  Da Vinci code.  Doubleday, c2003.  454 p.  DBID 0029.  ISBN 0385504209   i819.  Read 2011-10.  Notes avail.  
+* FIC  Brown, Dan.  Inferno.  Anchor, c2013.  via [www](https://mvlc.overdrive.com/mvlc-amesbury/content/media/1214960).  ISBN 9780385537865.   i811.  Read 2017-05. Grade D. Notes avail.
 * FIC  Brown, Erik J.  All that's left in the world.  Lond. Hodder Children's Books, 2022.  353 p.  d1786  2023-02. Grade B. Grade "If things get hard again, I'll carry him. and he'll carry me."
-* FIC  Brown, Piere.  Red rising.  Del Rey, c2014.  382 p.  ISBN 9780345539793.   i818 
+* FIC  Brown, Piere.  Red rising.  Del Rey, c2014.  382 p.  ISBN 9780345539793.   i818. Read 2016-03. Grade C. Notes avail. 
 * FIC  Brown, Richard.  Dead highways: origins.  Richard Brown, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00CC6CVF2).  i864 
-* FIC  Brown, Ryk.  Ep.#1 - Aurora: CV-01.  Ryk Brown, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B006OBOIPC).  i865 
+* FIC  Brown, Ryk.  Ep.#1 - Aurora: CV-01.  Ryk Brown, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B006OBOIPC).  i865.  Notes avail.
 * FIC  Brown, Shane.  Plaza.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007H7QTG8).  i867 
 * FIC  Brozik, Matthew Daid.  Taking Ivy seriously.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00CKWNQKC).  i868 
 * FIC  Brumm, Robert.  Windigo soul.  DeadPixel Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B007B3XVLY).  i871 
@@ -1060,10 +1060,10 @@
 * FIC  Buchan, John.  Mr. Standfast.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0084AN1VI).  i874 
 * FIC  Buckmann, Jacinda.  Indigo incite.  Jacinda Buchmann, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00CT9XL42).  (Indigo trilogy ; 1)  i873 
 * FIC  Bunyan, John.  Pilgrim's progress.  Coterie Classics, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01EK69ARS).  i875  to_read	
-* FIC  Burroughs, Edgar.  Tarzon of the apes.  n.p. n.d.  v.   i828  2013-02. Grade C
+* FIC  Burroughs, Edgar.  Tarzon of the apes.  n.p. n.d.  v.   i828.  Read 2013-02. Grade C. Notes avail.
 * FIC  Byrne, Arthur.  Killing Hemingway.  Brian D. Meeks, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00U01ICUO).  i879 
-* FIC  Byrne, Logan.  Banded.  Logan Byrne, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00IKU79AG).  i831  2017-05. Grade D
-* FIC  Caine, Rachel.  Ink and bone.  New American Library, c2015.  PDF via [www](https://drive.google.com).   i880  2017-04. Grade C\
+* FIC  Byrne, Logan.  Banded.  Logan Byrne, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00IKU79AG).  i831.  Read 2017-05. Grade D. Notes avail.
+* FIC  Caine, Rachel.  Ink and bone.  New American Library, c2015.  g.   i880  Read 2017-04. Grade C. Notes avail.
 * FIC  Callenbach, E.  Ecotopia.  Berkeley, [c2004].  172 p. O.
 * FIC  Camden, Kay.  Alignment, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00GT5N8VI).  i896 
 * FIC  Cameron, Joy.  Gabe and the mystery light.  n.p. n.d.  v.   i881  2018-07. Grade C
@@ -1079,21 +1079,21 @@
 * FIC  Chastain, Coleman.  Earth and shadows.  [The author], c2013.  k.  i883 
 * FIC  Chastain, Coleman.  Earth and shadows.  n.p. n.d.  k.  i903 
 * FIC  Chichton, Michael.  Airframe.  n.p. n.d.  v.  i1744  2005-06  
-* FIC  Child, Lincoln.  Full wolf moon.  n.p. n.d.  v.   i885  2019-06. Grade C
-* FIC  Child, Lincoln.  Terminal freeze.  1st ed.  Random House, c2009.  320 p.  ISBN 9780385515511.   i886  2013-04. Grade C 
-* FIC  Child, Lincoln.  The forgotten room.  n.p. n.d.  v.   i887  2019-06. Grade C
+* FIC  Child, Lincoln.  Full wolf moon.  n.p. n.d.  v.   i885  Read 2019-06. Grade C. Notes avail.
+* FIC  Child, L.  Terminal freeze.  1st ed.  n.p. c2009.  320 p.  i886  2013-04. Grade C. Notes avail. 
+* FIC  Child, .  Forgotten room.  n.p. n.d.  v.   i887  2019-06. Grade C
 * FIC  Ching, G.P.  Grounded.  Carpe Luna Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00A6F67LK).  i906 
 * FIC  Christie, Judy.  Wreath, a Girl.  Brosette & Barnhill Publishing LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00VMPS2RA).  i907 
 * FIC  Clarke, Arthur C.  3001 : The final odyssey.  RosettaBooks, c1997.  k.  via [www](https://read.amazon.com/?aisn=B07X8ZR72R).   i1506  2020-07. Grade C.   A science fiction book about Frank Poole reappearing, and preventing the monolith from destroying life. 
 * FIC  Clifton, Lu.  Scalp dance.  Five Star Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BO45BQI).  i911 
-* FIC  Cole, Allan.  Wolf worlds / Allan Cole and Chris Bunch.  Ballantine Books, c1984.  298 p.  ISBN 0345312295.   i892 
+* FIC  Cole, A.; Bunch, C.  Wolf worlds.  n.p. c1984.  298 p.  i892.  Notes avail.
 * FIC  Cole, Jerry.  Awaiting orders.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B019YMEMPS).  i890 
-* FIC  Collins, Max Allan.  Waterworld.  n.p. n.d.  v.   i893  2016-06. Grade B
-* FIC  Collins, Suzanne.  Hunger games.  New York : Scholastic Press, c2008.  374 p.  DBID 3200.  ISBN 9780439023481   i891 
+* FIC  Collins, M.A.  Waterworld.  n.p. n.d.  v.   i893.  Read 2016-06. Grade B.
+* FIC  Collins, S.  Hunger games.  N.Y. c2008.  374 p.  i891.  Read 201?. Notes avail.
 * FIC  Colombus, Nocomus.  3:53 am : Book 1.  n.p. 2014.  k.  AISN B00C3341BG.  i889 
 * FIC  Comer, V.  Raspberries and vinegar.  GreenWords Media, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M8O7V80).  i913 
 * FIC  Cooper, G.  Tenth chamber.  Lascaux Media, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00LA7EMS8).  i914 
-* FIC  Corey, James S.A.  Leviathan wakes.  n.p. n.d.  v.   i894 – 2020-03. Grade D 
+* FIC  Corey, J.S.A.  Leviathan wakes.  n.p. n.d.  v.   i894.  Read 2020-03. Grade D.
 * FIC  Coryell, S.  God virus.  White Feather Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0078T0DWQ).  i915 
 * FIC  Craft, S.F.  Cassia : historical romance series.  Heritage Beacon Fiction, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B012Q8WS80).  i916 
 * FIC  Craig, C.C.  Dragon ring.  n.p.  n.d.  k.  via [www](https://read.amazon.com/?asin=B00MRGW1TI).  i912 
@@ -1107,7 +1107,7 @@
 * FIC  Damon, N.  Shadow of Oz.  Secret Origin Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008FVC7PC).  i936 
 * FIC  Daniels, V.  Forbidden the stars.  [The author], c2010.  v.  ISBN 9780986659324.  i924 
 * FIC  David, J.  Book of the shepherd / by the Scribe; as discovered by Joanne David; with illustrations by Sudi McCollum.  HarperCollins, c2009.  xiii, 187 p.  ISBN 9780061732300.  i926 
-* FIC  DeLancey, Craig.  Well of Furies.  n.p. n.d.  k.  i937  2020-12. Grade C. Grade A mission to find the Ultrans on a double-system wandering planet. 
+* FIC  DeLancey, Craig.  Well of Furies.  n.p. n.d.  k.  i937  2020-12. Grade C. A mission to find the Ultrans on a double-system wandering planet. 
 * FIC  Delport, M.  Cathedral of Cliffdale.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B013Y6P268).  i938 
 * FIC  Deskins, B.  Sorcerer's ascension.  Dingo Dog Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005RR2UI6).  (Sorcerer's path ; 1)  i939 
 * FIC  DiSilverio, Laura.  Incubation.  diAgio Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01DNDF1UY).  i940 
@@ -1119,15 +1119,15 @@
 * FIC  Dicksion, W.W.  Sagebrush.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00FVCV7K4).  i941 
 * FIC  Dinclair, Darren.  Sixth cycle / Darren Sinclair, Carl Wearmouth.  Phalanx Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00NVKD9OU).  i1450 
 * FIC  Dixon, A.L.  Killing of Sam Luke.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JJYU1G0).  i942 
-* FIC  Dockins, Brian.  Betrayal of magic / Brian Dockins (Author); Onaje Beal (Illustrator).  Siege Tower Publishing, 2011.  k.   i932 
+* FIC  Dockins, B.  Betrayal of magic; Beal, O, ill.  n.p. 2011.  k.  i932.  Read 201?
 * FIC  Dorsey, Brian.  Gateway.  2nd ed.  Mountaineer West Productions, 2016.  k.  via [www](https://read.amazon.com).  AISN B01KXUWFDG.  i933 
-* FIC  Ducie, J.  Distant star.  Cedar Sky Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0085SYSDE).  i943 
+* FIC  Ducie, J.  Distant star.  Cedar Sky Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0085SYSDE).  i943.  Read 201?
 * FIC  Dunn, B.  Thaw.  Bryan Dunn, 2007.  k.  via [www](https://read.amazon.com/?asin=B004Q3RME4).  i944 
 * FIC  Elliot, S. Brandis.  Irradiated.  Aberrant Minds Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00KAWN3ZM).  i858 
 * FIC  Elliott, B.T.  Sifting through static.  Contronym Press, 2015.  k.  via [www](https://read.amazon.com/?asin=B00XQ8F4GS).  i951 
 * FIC  Ellis, B.  Veil rising.  LMBPN publishing, 2020.  k.  via [www](https://read.amazon.com/?aisn=B085YBT6WM).  i946 
 * FIC  Ellis, R.  Access to power.  Lippman & Hart, 2011.  k. 2413 kb.  via [www](https://read.amazon.com/?asin=B0055X09LW).  i945 
-* FIC  Emerson, K.  Lost code.  Katherine Tegen Books, c2012.  435 p.  ISBN 9780062062803.   i947 
+* FIC  Emerson, K.  Lost code.  Katherine Tegen Books, c2012.  435 p.  ISBN 9780062062803.   i947.  Read 201?
 * FIC  Emerson, W.  Object: Book One / Winston Emerson [and] Justin Comley.  CreateSpace, 2012.  k.  via [www](https://read.amazon.com/?asin=B009ZVFDBG).  i952 
 * FIC  Ende, Michael.  Neverending story / Michael Ende ; Tr. from the German by Ralph Manheim ; Ill. by Roswitha Quadflieg.  N.Y. : Penguin Books, 1984.  377 p.  ISBN 0140074317.  DBID 3092   i1538 
 * FIC  Ende, Michael.  Neverending story / Michael Ende; Tr. by Ralph Manheim; Ill. by Roswitha Quadflieg.  Firebird, c1979, 2005.  444 p.  ISBN 9780140386332.   i1536 
@@ -1591,7 +1591,7 @@
 * FIC  Zen, Raeden.  Phantom of the Earth.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0140NPMZU).  i1477 
 * FIC  terSteeg, Devin.  Radio sphere.  Rime Giant, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0121JTRG0).  i1479 
 * FIC Spackman, Anne.  Osiris invasion.  Anne Spackman, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004D9FVTE).  i1385 
-* FIC.  Baker, Keith.  City of towers.  Wizards of the Coast, n.d.  k.  via [www](https://read.amazon.com/?asin=B0036S4B4Y).  (Dreaming dark ; 1)  i832  2013-04. Grade C
+* FIC.  Baker, Keith.  City of towers.  Wizards of the Coast, n.d.  k.  via [www](https://read.amazon.com/?asin=B0036S4B4Y).  (Dreaming dark ; 1)  i832.  Read 2013-04. Grade C. Notes avail.
 * Fic  St. Clare, Kelly.  Retreat.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JVN9LCY).  i909 
 * LG+  Argent, Jay.  Fairmont boys series. 2nd ed.  Jay Argent Books, 2018.  k. 2947 kb.  via [www](https://read.amazon.com/).  Contents: Swimmer boy  I am not gay.  You are not my son.  Death of a good guy.  Best friends forever.  i778  2018-05. Grade B
 * LG+  Fox, Mika.  Just stay.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00NC73O1K).   i763 
@@ -1620,7 +1620,7 @@
 * SCI  Asthana, S.A.  At the edges.  n.p. 2021.  k. 1960 kb.  via [www](https://read.amazon.com/?asin=B09DTN7SZH).  i112 
 * SCI  Attanasio, A.A.  In other worlds.  Toronto, N.Y., Bantam books, p1986, 1985.  211 p. 17 cm.  attanasio1986  2023-03. Grade C. Grade Carl Schirmer, infected with a spore, travel to a place far in the future called Werld, where he meets a girl named Ecoë. He then must come back to Earth on a misson forbthe eld skyle.
 * SCI  BBC Doctor who, 11 doctors 11 stories.  N.Y., Puffin, 2013.  516 p.  d1789 
-* SCI  Bellin, Joshua David.  Survial colony 9.  Margaret K. McElderry Books, c2014.  325 p.  ISBN 9781481403542.   i802 – .txt:2015-08|C 
+* SCI  Bellin, Joshua David.  Survial colony 9.  Margaret K. McElderry Books, c2014.  325 p.  ISBN 9781481403542.   i802.  Read 2015-08. Grade C. Notes avail.
 * SCI  Burroughs, Edgar Rice.  Princess of Mars.  Larnaca Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B016VF8).  i1499 
 * SCI  Burton, LeVar.  Aftermath.  N.Y., Grand Central Pub., 1997.  295 p. 20 cm.  burton1997 
 * SCI  Callenbach, Ernest.  Ecotopia. 30th Anniversary ed.  Berkeley, Banyan Tree Books, c2975, 2004.  172 p. 22 cm.  i2308161 
@@ -1695,7 +1695,7 @@
 * SCI  Verne, Jules.  From the Earth to the Moon, and, Round the Moon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004UJTUKI).  i1432 
 * SCI  Verne, Jules.  Round the moon.  n.p. n.d.  v.   i1540  2012-08   
 * SCI  Weis, Margaret.  Soulforge.  TSR, c1998.  PDF file, 1 MB.  via [www.](http://drive.google.com).   i1437 – 2010-11 and 2013-12|B   
-* SCI  Wells, H.G.  The time machine.  Bantam Classic, 1895, 2003.  122 p.  ISBN 9780553213515.  i9 
+* SCI  Wells, H.G.  Time machine.  n.p. 1895, 2003.  122 p.  i9.  Read 201?
 * SCI  Wells, H.G.  War of the worlds.  Atria Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0088Q0F5I).  i1535 
 * SCI  Westover, Tim.  Auraria.  QW Publishers, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008AM5KGE).  i1440 
 * SCI  White, Stephen W.  New world : a frontier fantasy novel.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005CFEN1U).  i1463 
