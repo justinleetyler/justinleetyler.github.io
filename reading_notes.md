@@ -4555,7 +4555,6 @@ N1  - whether he can access a church that teaches him lessons of Christian love,
 > 'Finding your animal is less important for a women, because we get our strength from the earth. We are nature'... -Nadia -p. 108-9 -q
 > His grandmother traveled with three changes of cotton clothing, vodka, tobacco, shampoo, soap, insect repellent, a mosquito net, a blanket, paper, and a box of pencils. -p. 111 -q
 > Then he taught Alex how to make the leeches drop off by burning them with a cigarette; that way the heads werent' left under the skin and you avoided the risk of infection. p. 116 -q
-> 
 > The Indians shared everything among themselves; their onlyposessions were a few weapons or primitive tools each carried with him. Every tribe had a shabono, a large, round, communal hut roofed with straw... They all lived together, sharing everything from food to the ccare of the children. -p. 117 -q
 > Individualism was thought to be a form of madness, like being posessed by a demon. -p. 118 -q
 >  Then we will do what Indians do when they have to pospone a cremation; we will leave it in the open for the birds and animals to pick the bones. -Cesar Santos -p. 126 -q

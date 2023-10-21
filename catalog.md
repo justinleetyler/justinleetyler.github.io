@@ -42,10 +42,10 @@
 * 006  Anon.  10 Simple CSS Code Examples You Can Learn in 10 Minutes.  [United States, 20--?]  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/).  i53 
 * 006  Open University.  Introduction to computational thinking.  The Open University, 2016.  k. 812 kb.  via [www](https://read.amazon.com/?asin=B01D8X5ZO6).  i54 
 * 017  Curlie.  Curlie, c2018.  [w.](https://curlie.org).  i55 
-* 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).   i56 
+* 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).   i56.  Notes avail. 
 * 020  Alaska. Dept. of Education.  The small school library.  The author, 1967.  PDF file, 675 KB.  via [www.](https://drive.google.com).  Also available on the [World Wide Web](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i61 
 * 020  American Library Association.  Frontline Fundraising toolkit.  American Library Association, c2011.  PDF file.  via USB. File name: (10096.pdf).  DBID 10096  i57 
-* 020  Battles, Matthew.  Library : an unquiet history.  n.p. n.d.  v.   i58  2005-06  
+* 020  Battles, Matthew.  Library : an unquiet history.  n.p. n.d.  v.   i58  Read 2005-06. Notes avail.  
 * 020  De Rosa, Cathy.  Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes.  Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005.  PDF file.  via USB. File name: 0349.pdf.  i59 
 * 020  Hammer, Joshua.  The bad-ass librarians of Timbuktu.  Simon & Schuster, [n.d.]  k.  i60 
 * 020  Open University.  The Library of Alexandria.  The Open University / [20--?]  k.  via [www](https://read.amazon.com/?asin=B01AWET3VU).  i63 
@@ -95,11 +95,11 @@
 * 027  Library of Congress.  Using ... MELVEL gopher.  [n.p. n.d.]  TXT file, 6 KB.  via [www.](http://drive.google.com).  i106 
 * 028  Kosciejew, Marc.  Inside an axis of evil library.  [n.p.], Feliciter, 2009.  PDF file, 164 KB.  via [www.](http://drive.google.com).  i107 
 * 028  Well-educated mind.  n.p. n.d.  v.  i1762 – 2011-10 and 2005-11 
-* 028.7  Secker, Jane and Emma Coonan.  Rethinking information literacy.  Facet publishing, c2013.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB).  Available to patrons with membership to institutions subscribing to EBSCO ebooks.   i108 
-* 031  Janssen, Sarah.  The World Almanac and Book of Facts 2016.  World Almanac Books, 2016.  k. 211722 kb.  via [www](https://read.amazon.com/?asin=B00W05CUO2).  i109 
-* 031  Janssen, Sarah.  The World Almanac and Book of Facts 2020.  World Almanac Books, 2020.  k.  via [www](https://read.amazon.com/?asin=B07QGX32QP).  i110 
-* 031  Janssen, Sarah.  The World Almanac and Book of Facts 2021.  World Almanac Books, 2021.  k. 191386 kb.  via [www](https://read.amazon.com/?asin=B085CN7GGF).  i111 
-* 090  Anon.  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  PDF file.  via USB. File name: 1443.pdf.  i115 
+* 028.7  Secker, Jane and Emma Coonan.  Rethinking information literacy.  Facet publishing, c2013.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB).  Available to patrons with membership to institutions subscribing to EBSCO ebooks.   i108.  Notes avail.
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2016.  k. 211722 kb.  via [www](https://read.amazon.com/?asin=B00W05CUO2).  i109 
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2020.  k. 211884 kb.  via [www](https://read.amazon.com/?asin=B07QGX32QP).  i110 
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2021.  k. 191386 kb.  via [www](https://read.amazon.com/?asin=B085CN7GGF).  i111 
+* 090  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  PDF file.  via USB. File name: 1443.pdf.  i115 
 * 090  Tyler, Justin Lee.  [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich.  TXT file.  via USB.  File name: 3248.txt.  i116 
 * 090  [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler].  [October, 2014].  JPG files.  via USB. File directory: 3349.  i113 
 * 091  [2007 taxes] / Justin Lee Tyler.  2007.  file via USB.  File Directory: 3219.  DBID 3219.  x117 
@@ -515,13 +515,13 @@
 * 657  Open University.  Introduction to bookkeeping and accounting.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/).  i498 
 * 658  Bowd, Thomas B., III.   The transformation of a doubting Thomas: growing from a cynic to a professional in the corporate world.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009I427LO).  i501  to_read
 * 658  Hay, Fraser J.  90 minute business plan.  Fraser J Hay, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EZ3QW6O).  i500 
-* 658  Kashyap, Sandeep.  How to make your team more perceptive to change.  n.p. n.d.  k.  via [www](https://thriveglobal.com/stories/how-to-make-your-team-more-perceptive-to-change/).  IN Thrive Global.  (Oct 27, 2021)   i503 
+* 658  Kashyap, Sandeep.  How to make your team more perceptive to change.  n.p. n.d.  k.  via [www](https://thriveglobal.com/stories/how-to-make-your-team-more-perceptive-to-change/).  IN Thrive Global.  (Oct 27, 2021)   i503.  Notes avail. 
 * 658  Open University.  Facilitating group discussions.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X5URI).  i506  to_read
 * 658  Open University.  Project management.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X604A).  i507 
 * 658  Roedel, Jemma.  She thinks like a boss.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B095B2F4MW).  i502 
 * 658  Rose, Nathan.  Equity crowdfunding: the complete guide For startups and growing companies / Nathan Rose.  Stonepine Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M5FBSEB).  i504 
 * 658  Stonestreet, J.P.  Web startup roadmap.  Ripen Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BC1H77A).  i505 
-* 668  Orton, Linda.  Soapmaking for the first time.  Sterling Publishing Co., c2001.  112 p.  ISBN 0806966378.   i508 
+* 668  Orton, Linda.  Soapmaking for the first time.  Sterling Publishing Co., c2001.  112 p.  ISBN 0806966378.   i508.  Notes avail. 
 * 690  Miller, Evan.  Shipping container homes.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B018MXCARW).  i509 
 * 724  [Duke and Dutchess of Windor's home in France].  n.p. n.d.  MP4 file via USB.  Filename: 3308.mp4.  i510 
 * 728  [Balmoral].  [BBC, n.d.]  FLV file via USB.  File name: 3267.flv.  i511 
@@ -529,7 +529,7 @@
 * 737  Ford, Lincoln.  Coin collecting.  n.p. 2021.  k.  via [www](https://read.amazon.com/?asin=B08ZW84QTD).  i513 
 * 745  Lockhart, Leanna.  Lotion & candle Making.  LTL Publishing, [n.d.]  k.  via [w.](https://read.amazon.com/?asin=B00T8J1CTW).  i514 
 * 745  Moore, Kitty.  Trash To treasure.  n.p. 2015.  k.  via [www](https://read.amazon.com/?asin=B00X7VNQ7S).  i515 
-* 759  Lewis-Williams, David.  Deciphering ancient minds, David Lewis-Williams and Sam Challis.  n.p. n.d.  v.   i516  2016-05. Grade B
+* 759  Lewis-Williams, David.  Deciphering ancient minds, David Lewis-Williams and Sam Challis.  n.p. n.d.  v.   i516  Read 2016-05. Grade B. Notes avail.
 * 771  Ritzenthaler, M.L.  Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson.  Chicago, Il : Society of American Archivists, c2006.  xvi, 529 p.  ISBN 1931666172  i517 
 * 779  Anon.  [Jim Berry looking through binoculars].  2014 May.  JPG file via USB.  DBID 3351.  i527 
 * 779  Anon.  [Photographs of Haley, Justin, and Shawn]  2015-2017.  JPG files in directory via USB.  7069.  i560 
@@ -753,30 +753,30 @@
 * 799  Tyler, J.L.  [Photographs of Burlington and Shelborne, Vermont with Robbie, Shawn, and Calab].  [2014-05-13].  file via USB.  DBID 3321.  i744 
 * 808  Carroll, Jane.  Where the Joys Are: Bertha's Guided Journal / Jane Carroll [and] Cynthia Dendy.  Master Koda Select Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00LZVRKL0).  i745 
 * 808  Delta College. Library.  Publication manual of the American Psychological Association (APA) for citing resources in print form.  [University Center, Mich. : Delta College, 2006].  DOC file via USB.  1366.doc  i746 
-* 808  Greenbaum, Dave.  Journaling at the end of the day could increase your productivity.  lifehacker.com, 2014.  via [www](http://lifehacker.com/1590024732).   i747 
+* 808  Greenbaum, Dave.  Journaling at the end of the day could increase your productivity.  lifehacker.com, 2014.  via [www](http://lifehacker.com/1590024732).   i747.  Notes avail. 
 * 808  Hughes, M.E., ed.  Letting go: an anthology of attempts.  Bacon Press Books, 2016.  k.  via [www](https://read.amazon.com/?asin=B01B82DV9K).  i748 
 * 808  Johnson, Alexandria.  Leaving a trace.  Boston : Little, Brown, 2001.  viii, 242 p.  DBID 3072  i749 
-* 808  Mandel, Emily St. John.  Station eleven.  Alfred A. Knopf, 2014.  k.  via [www](https://read.amazon.com/?asin=B00J1IQUYM).   i750 
-* 808  Progoff, Ira.  At a journal workshop.  Jeremy P. Tarcher, c1975, 1992.  x, 422 p.  ISBN 0874776384.   i757 
+* 808  Mandel, Emily St. John.  Station eleven.  Alfred A. Knopf, 2014.  k.  via [www](https://read.amazon.com/?asin=B00J1IQUYM).   i750. Notes avail. 
+* 808  Progoff, Ira.  At a journal workshop.  Jeremy P. Tarcher, c1975, 1992.  x, 422 p.  ISBN 0874776384.   i757.  Notes avail. 
 * 808  Rayappan, Anbu.  Non-fiction writing machine.  n.p. 2013.  k. 999 kb.  via [www](https://read.amazon.com/?asin=B00B6FCXA8).  i752 
 * 808  Rowe, Sara.  Write it out : how journaling can drastically improve your physical, emotional, and mental health.  PDF file via USB.  3205.pdf.  DBID 3205.  IN Vibrant life.  Vol. 28, no. 2 (Mar.-Apr. 2012)  i758 
 * 808  Scott, Steve.  How to write a nonfiction eBook in 21 Days.  Self Publishing Questions, c2015.  k.  via [www](https://read.amazon.com/?asin=B00AB77M5S).  i753 
 * 808  Weselby, Joanne M.  Citations made simple.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00OA35FJ4).  i756 
 * 808  Wright, Jonathan.  510 creative writing prompts.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00ZAYEV2E).  i755 
 * 811  Dwight, Timothy.  Conquest of Canaan, The : a poem, in eleven books.  [United States?] : Greenwood Press, 1970.  [1] v.  ISBN 9780837134079  i760 
-* 811  Poe, Edgar Allan.  Complete tales and poems of Edgar Allan Poe.  Coterie Classics, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01DE645W0).  i761 
+* 811  Poe, Edgar Allan.  Complete tales and poems of Edgar Allan Poe.  Coterie Classics, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01DE645W0).  i761.   
 * 811  Standlee, Denise.  Dreams of the turtle king : poems inspired by South Florida beaches, ... Nancy Bossarte, [and] Denise Bossarte.  [S.l., n.d.]  k.  via [www](https://read.amazon.com/?asin=B00H5CZNCQ).  i759 
 * 811  Wellemeyer, Mary.  Admire the Moon : meditations.  Skinner House Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004V9F2QS).  i762 
-* 813  Adair, Bobby.  Last survivors, The. / Bobby Adair [and] T.W. Piperbrook.  Ancient City Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00O2PB03U).  i781 – 2015-05|C 
+* 813  Adair, Bobby; Pieperbrook, T.W.  Last survivors.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00O2PB03U).  i781. Read 2015-05. Grade C.
 * 813  Amaris, Isabella.  Sanctuary.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007XPPYII).  (Mesmer ; 1)  i787 
 * 813  Auden, Audrey.  Realms Unreel.  Temen Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00695MXXM).  i795 
-* 813  Bova, Ben.  Mars.  RosettaBooks, 2010.  k.  i6  2019-08. Grade C
+* 813  Bova, Ben.  Mars.  RosettaBooks, 2010.  k.  i6  Read 2019-08. Grade C
 * 813  Brooks, Terry.  Skaar invasion, The.  N.Y., Del Rey, 2018.  PDF file, 4.2 MB.  via [www.](https://drive.google.com).   i820  2018-08. Grade C
 * 813  Christie, Alix.  Gutenberg's apprentice.  First edition.  New York : Harper, [2014].  406 p. ; 24 cm.  ISBN: 9780062336026.  i1721 
 * 813  Chu, Wesley.  Time salvager.  First edition.  New York : Tor, 2015.  380 pages ; 25 cm.  ISBN: 9780765377180.  i1708  to_read
 * 813  Day of Reckoning: A Lucas Wade Western - Book 3 / Raylan McCrae  n.p. n.d.  [w.](https://read.amazon.com/?asin=B01J34T0PE).  i1201 
 * 813  Dragon Drive on Terul / Wyatt McLaren.  n.p. n.d.  [w.](https://read.amazon.com/?asin=B007ZVSNF6).  i1208 
-* 813  Foundation / Isaac Asimov. N.Y. : Del Rey, c1951, 2021.  296 pages.  ISBN 9780553293357.  i779 
+* 813  Asimov, Isaac.  Foundation.  N.Y., c1951, 2021.  296 p.  S.  i779.  Read 2021-09. Grade C. Notes avail. 
 * 813  Howey, Hugh.  Half way home.  Boston : Houghton Mifflin Harcourt, 2019.  228 p.  i8 
 * 813  Into Tolari space / Christie Meierz.  n.p. n.d.  [w.](https://read.amazon.com/?asin=B00AQ8HTFU).  i1213 
 * 813  Logging Off / Caitlin McKenna.  n.p. n.d.  [w.](https://read.amazon.com/?asin=B005QCC6KE).  i1206 
@@ -977,15 +977,15 @@
 * FIC  Albrinck, Alex.  Activate.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00OYGEZX4).  i769 
 * FIC  Alexi, Sara.  Illegal gardener, The.  Oneiro Press, n.d.  k.  via [www.](https://read.amazon.com/?asin=B008LMT78U).  i784 
 * FIC  Allan, jay.  Gehenna dawn.  System 7 Publishing, n.d.  k.  via [www](https://read.amazon.com/?asin=B00GKNFZMO).  (Portal wars ; 1).  i785 
-* FIC  Allende, Isabel; Peden, Margaret Sayers, tr.  City of the beasts.  HarperTrophy, c2002.  406, 15 p.  ISBN 9780060535032.   i771  2013-09. Grade B
+* FIC  Allende, Isabel; Peden, Margaret Sayers, tr.  City of the beasts.  HarperTrophy, c2002.  406, 15 p.  ISBN 9780060535032.   i771  Read 2013-09. Grade B. Notes avail.
 * FIC  Anderson, John A.  Jager journal.  n.p. 2013.  k.   i774 
-* FIC  Anderson, John A.  JÃ¤ger journal.  John A. Anderson III, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D62QEXQ).  i790 
+* FIC  Anderson, John A.  JÃ¤ger journal.  John A. Anderson III, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D62QEXQ).  i790.  Notes avail. 
 * FIC  Anderson, M.T.  Feed.  n.p. n.d.  v.   i772  2017-11. Grade C
 * FIC  Andreas, Marie.  Glass gargoyle, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00V5JF4GA).  i789 
 * FIC  Anon.  Steampunk fairy tales.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01DHKEUXM).  i788 
-* FIC  Arenson, Daniel.  Heirs of Earth, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B077J7X6H7).  i791  2021-06. Grade C
+* FIC  Arenson, Daniel.  Heirs of Earth, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B077J7X6H7).  i791.  Read 2021-06. Grade C. Notes avail.
 * FIC  Arenson, Daniel.  Legacy of light, A..  Moonclipse, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00C43FYLQ).  i775 
-* FIC  Arenson, Daniel.  Memory of Earth, A.  Moonclipse, 2018.  k.  via [www](https://read.amazon.com/?asin=B077J8WH3B).  i776  2021-10. Grade C. Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find. There's always time for joy."
+* FIC  Arenson, Daniel.  Memory of Earth, A.  Moonclipse, 2018.  k.  via [www](https://read.amazon.com/?asin=B077J8WH3B).  i776  2021-10. Grade C. Notes avail.
 * FIC  Arroyo, E.R.  Sovereign.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009XZXW2Q).  i792 
 * FIC  Arzu, M.N.  Librarian, The.  [U.S.?] 2015.  k.  via [www](https://read.amazon.com/?asin=B00ZRSDEE4).  i793 
 * FIC  Asthana, S.A.  Final wars begin, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B07LD73841).  i1330 
@@ -1000,7 +1000,7 @@
 * FIC  Barnes, Gary.  Aquifer.  Blue Spring Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B00907BWIS).  i800 
 * FIC  Barry, Dave.  Insane city.  G.P. Putnam's sons, c2013.  341 p.  ISBN 9780399158681.   i801.  Read 2013-08. Grade B. Notes avail.
 * FIC  Barry, Dave.  Swamp story.  N.Y., Simon & Schuster, 2023.  306 p. 24 cm.  v23082917  Read 2023-08.  Grade C.  Jesse, in a bad relationship with Slater, a wannabe reality TV star, finds gold not far from Bortle Brothers Bait & Beer.
-* FIC  Barry, Dave; Zweibel, Alan.  Lunatics.  n.p. n.d.  v.   i799  2016-06. Grade C
+* FIC  Barry, Dave; Zweibel, Alan.  Lunatics.  n.p. n.d.  v.   i799.  Read 2016-06. Grade C.
 * FIC  Beam, Brian.  Dragon gem.  Brian Beam, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B007P02OHU).  i842 
 * FIC  Beers, David.  Singularity: Heretic.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00PQT7XT6).  i843 
 * FIC  Belliston, Rebecca.  Life.  Gated Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00VI6IDI6).  i844 
@@ -1226,8 +1226,8 @@
 * FIC  Hudson, Eva.  Loyal servant.  Two Pies Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005ZTMJ2S).  i1515 
 * FIC  Hudson, Grace.  Ferts.  Grace Hudson, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B010II21DW).  i1067 
 * FIC  Humble Nations.  Alien baggage allowance.  [U.S.?] : Humble Nations, c2015.  k.  via [www](https://read.amazon.com/?asin=B013VOHK22).  i1037 
-* FIC  Hunter, Elizabeth.  A Hidden Fire.  E. Hunter, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005VTVE0U).  (Elemental Mysteries ; 1)  i1038 
-* FIC  Hunter, Tab.  Janus project.  1st ed.  T. Hunter, 2013.  k.  via [www](https://read.amazon.com/?aisn=B00D0XNSGM)  i1039 
+* FIC  Hunter, E.  Hidden fire.  n.p. [c2011]  k. 3595 kb.  via [www](https://read.amazon.com/?asin=B005VTVE0U).  (Elemental mysteries 1).  i1038 
+* FIC  Hunter, T.  Janus project.  1st ed.  n.p. 2013.  k.  via [www](https://read.amazon.com/?aisn=B00D0XNSGM)  i1039 
 * FIC  Huxley, Vance.  Fall of the cities, planting the orchard.  Entrada Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B018NB659M).  i1069 
 * FIC  Illuminator, The.  n.p. n.d.  v.  i1737  2011-10  
 * FIC  Ingelman-Sunberg, Catharina.  Little old lady behaving badly, tr. from the Swedish by Rod Bradbury.  First U.S. edition.  New York : Harper, 2018.  443 pages ; 21 cm.  ISBN: 9780062692337.  i1539  2017-11. Grade C
@@ -1238,7 +1238,7 @@
 * FIC  Jenkins, Suzanne.  Liberation of Ravenna Morton.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00KSOPT2M).  i1081 
 * FIC  Jensen, Megg.  Dragonlands, books 1 - 3, Hidden, Hunted, and Retribution.  80 Pages, Inc., [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00OV5LS2O).  i1080 
 * FIC  Johnson, Glen.  Sixth extinction.  Sinuous Mind Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=_rw_ca_1).  i1083 
-* FIC  Johnson, William Crow.  Earth 2.1, Regenesis.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00GDH7SYK).  i1082 
+* FIC  Johnson, W.C.  Earth 2.1, Regenesis.  n.p. n.d.  k.  i1082 
 * FIC  Jones, D.F.  Colossus.  Venture Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B015A2Z7ZU).  i1084 
 * FIC  Kaden, John.  Alexandria.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00AN19AUM).  i1087 
 * FIC  Kaine, Daniel A.  Jacinto's voyage.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B008CX0C8M).  i1098 
@@ -1581,8 +1581,7 @@
 * FIC  Willis, Sarah.  Some things that stay.  n.p. n.d.  v.   i1444  2011-10  
 * FIC  Willows, Brittany M.  Calypsis project.  Brittany M. Willows, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00HG0B07Y).  i1469 
 * FIC  Wilson, Jennifer.  New world rising.  Oftomes Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B018RMI6A8).  i1468 
-* FIC  Wilson, John S.  Joshua.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007S0DMT6).  i1048  2014-03. Grade C                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            813  Hartley, Taylor.  The penkeepers.  n.p. n.d.  [w.](https://read.amazon.com/?asin=B00GA2WKR8). i1466 
-* FIC  Windhalm, Nic.  Tenth order.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EO3I4Q6).  i1464  2013-11. Grade C
+* FIC  Wilson, John S.  Joshua.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007S0DMT6).  i1048  2014-03. Grade C                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FIC  Windhalm, Nic.  Tenth order.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EO3I4Q6).  i1464  2013-11. Grade C
 * FIC  Wood, Aderyn.  Journey.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00KKZUF5A).  (The borderlands ; 1)  i1470 
 * FIC  Wright, Iain Rob.  Ravage.  SalGad Publishing Group, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D3MSDSS).  i1471 
 * FIC  Yanez, Jonathan.  Decadia code / Jonathan Yanez, Apryl Baker.  Limitless Publishing, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LVXG3RU).  i1473 
@@ -1593,8 +1592,8 @@
 * FIC Spackman, Anne.  Osiris invasion.  Anne Spackman, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004D9FVTE).  i1385 
 * FIC.  Baker, Keith.  City of towers.  Wizards of the Coast, n.d.  k.  via [www](https://read.amazon.com/?asin=B0036S4B4Y).  (Dreaming dark ; 1)  i832.  Read 2013-04. Grade C. Notes avail.
 * Fic  St. Clare, Kelly.  Retreat.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JVN9LCY).  i909 
-* LG+  Argent, Jay.  Fairmont boys series. 2nd ed.  Jay Argent Books, 2018.  k. 2947 kb.  via [www](https://read.amazon.com/).  Contents: Swimmer boy  I am not gay.  You are not my son.  Death of a good guy.  Best friends forever.  i778  2018-05. Grade B
-* LG+  Fox, Mika.  Just stay.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00NC73O1K).   i763 
+* LG+  Argent, Jay.  Fairmont boys series. 2nd ed.  Jay Argent Books, 2018.  k. 2947 kb.  via [www](https://read.amazon.com/).  Contents: Swimmer boy  I am not gay.  You are not my son.  Death of a good guy.  Best friends forever.  i778.  Read 2018-05. Grade B. Notes avail.
+* LG+  Fox, Mika.  Just stay.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00NC73O1K).   i763.  Read 2018-05. Grade B. Notes avail. 
 * LG+  Mastbaum, Blair.  Clay's way.  Los Angeles : Alyson Books, 2004.  246 p.  ISBN 1555838197   i1155   2011-10. Grade B
 * LG+  Mastbaum, Blair.  Us ones in between.  MERC books, 2011.  k.  i1154 
 * LG+  Nevada, P.J.  A princely affair.  n.p. n.d.  k.   i1228  2022-06. Grade C.   The prince of Wales falls for an American in NJ.
@@ -1613,7 +1612,7 @@
 * SCI  Anderson, Kevin J.  Blood of the cosmos.  First ed.  U.S., Tor, 2015.  607 p.  (The saga of shadows ; 2).  i1774  2022-09. Grade C.   A science fiction novel. The war with between the Shana Rei, CDF, and Solar Navy begins 
 * SCI  Anderson, Kevin J.  Eternity's mind.  N.Y, Tor, c2016.  572 p.  (The Saga of shadows ; 3).  d1779  2022-11. Grade C. Grade A science fiction novel. The war with Shana Rei is won when Ecco destroys it, and, in the process, destroys the robots by accident.
 * SCI  Anderson, Kevin J.  Hidden empire.  Aspect, 2002.  k. 857 kb.  via [www](https://read.amazon.com/?asin=B000FA5SSO).  (Saga of the seven suns ; 1).  ISBN 9780759527218.  d1783  2022-09. Grade C. Hydrogues, aliens that live inside of gas giants, attack colonies across the solar arm after humans make a new sun using the Klikiss torch. 
-* SCI  Anderson, Kevin J.  Ruins.  HarperPrism, 1996.  291 p.  ISBN 0061052477.   i773  2013-03. Grade C
+* SCI  Anderson, Kevin J.  Ruins.  HarperPrism, 1996.  291 p.  ISBN 0061052477.   i773  Read 2013-03. Grade C. Notes avail.
 * SCI  Anderson, Kevin J.  The dark between the stars.  N.Y., Tor, c2014.  672 p.  (The Saga of shadows ; 1).  i1777  2022-09. Grade C.   A science fiction novel. The Shana Rei, along with the bloaters, begin to appear. 
 * SCI  Anthony, Piers.  Orn.  Avon, c1970, 1971.  256 p.  ISBN 0380002663.  i1719 
 * SCI  Asimov, Isaac.  Second foundation.  New York : Del Rey, c1953, c1981, 2017.  256 p.  ISBN 9780553293364.  i1713 
