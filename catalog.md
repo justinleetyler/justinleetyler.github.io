@@ -1,22 +1,22 @@
-* 001  Anon.  1 MB club.  s.n., n.d.  [w.](https://1mb.club/).  i16 
-* 001  Anon.  Lifehacker.  Gizmodo Media Group, c2017.  [w.](http://www.lifehacker.com).  Daily.  i14 
+* 001  1 MB club.  s.n., n.d.  [w.](https://1mb.club/).  i16 
+* 001  Lifehacker.  Gizmodo Media Group, c2017.  [w.](http://www.lifehacker.com).  Daily.  i14 
 * 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
 * 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
 * 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).   i12 
 * 001  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  Lond. 1852.  html via [www](https://www.gutenberg.org/files/24518/24518-h/24518-h.htm).  i15 
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.   i10.  2016-04. C
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
-* 002  Anon.  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  Daily.  i20 
-* 002  Anon.  Openstax.  n.p. c2021.  [w.](https://openstax.org/).  i22 
-* 002  Anon.  eBooks habit.  n.p. c2012.  [w.](ebookshabit.com)  Daily.  i18 
+* 002  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  Daily.  i20 
+* 002  Openstax.  n.p. c2021.  [w.](https://openstax.org/).  i22 
+* 002  eBooks habit.  n.p. c2012.  [w.](ebookshabit.com)  Daily.  i18 
 * 002  Free kids books.  U.S.? 2021.  [w.](https://freekidsbooks.org/).  i19 
 * 002  Lyons, Rebecca E.  Academic Book of the Future, [w.] Rayner, Samantha J.  U.S.? 2016.  k.  via [www](https://read.amazon.com).  i21 
 * 002  University of Minnesota.  Open textbook library.  The author, [202-?]  [w.](https://open.umn.edu/opentextbooks/).  i23 
-* 003  Anon.  Operating system interface design between 1981-2009.  n.p., 2009?  PDF via USB. i24 
-* 003  Anon.  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
+* 003  Operating system interface design between 1981-2009.  n.p., 2009?  PDF via USB. i24 
+* 003  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
 * 004  Adams, Mark.  Python programming.  Resolute Minds Pub., c2015.  k.  via [www](https://read.amazon.com/?asin=B013L09EC0).  i25 
-* 004  Anon.  Caard.  U.S., 20--?  via [www](https://carrd.co/build).  i27 
-* 004  Anon.  How-to geek.  HowToGeek.com, c2006- .  via [www](http://www.howtogeek.com/).  i30 
+* 004  Caard.  U.S., 20--?  via [www](https://carrd.co/build).  i27 
+* 004  How-to geek.  HowToGeek.com, c2006- .  via [www](http://www.howtogeek.com/).  i30 
 * 004  Cannon, Jason.  Linux administration.  U.S.? 2016.  k. 856 kb.  via [www](https://read.amazon.com/?asin=B01BJ8GCPS).  i28 
 * 004  Cannon, Jason.  Linux for beginners.  U.S.? 2013.  k. 2688 kb.  via [www](https://read.amazon.com/?asin=B00HNC1AXY).  i29 
 * 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  PDF, 1.1 MB.  via [www.](https://drive.google.com).  i31 
@@ -25,9 +25,9 @@
 * 004  Suehring, Steve.  Learn JavaScript.  Seattle, 2012.  [w.](http://proquest.safaribooksonline.com).  i34 
 * 004  Suellentrop, Claire.  Websites that convert.  U.S.? 2017.  k. 2355 KB.  via [www](https://read.amazon.com/?asin=B06Y3L3W84).  i35 
 * 006  U.S.  Cloud computing strategy.  Wash. 2012.  PDF via [www](https://drive.google.com/file/d/1xTOvVm9eiOdZb-TbOgNzCex7H4gI5yEn/view?usp=sharing).  i36 
-* 005  Anon.  EPUB to PDF converter.  U.S.? c2021.  [w.](https://go4convert.com/ebook-to-pdf).  i41 
-* 005  Anon.  Glide.  n.p. n.d.  via [w.](https://www.glideapps.com/).  i43 
-* 005  Anon.  Kindle4Rss.  U.S.? c2019.  [w.](http://kindle4rss.com/).  i45 
+* 005  EPUB to PDF converter.  U.S.? c2021.  [w.](https://go4convert.com/ebook-to-pdf).  i41 
+* 005  Glide.  n.p. n.d.  via [w.](https://www.glideapps.com/).  i43 
+* 005  Kindle4Rss.  U.S.? c2019.  [w.](http://kindle4rss.com/).  i45 
 * 005  Bachaalany, Elias.  Batchography.  n.p., 2016.  PDF, 1.4 MB.  via [www](https://drive.google.com/file/d/1sBK719eHbXamZRrRP6X3_RHnqDU6krtG/view?usp=sharing).  i37 
 * 005  Cooper, Peter.  Beginning Ruby.  n.p. n.d.  k.  via [www](https://read.amazon.com).  i39 
 * 005  DataCamp.  Python basics cheat sheet.  [n.p. 200?].  PDF, 1 MB.  via [www](https://drive.google.com/file/d/1KbdYOj9x7CTi20dH4yey6Ym-09yLLMKP/view?usp=sharing).  i49 
@@ -35,11 +35,11 @@
 * 005  Forta, Ben.  Sams teach yourself regular expressions in 10 minutes.  U.S.? 2004.  k. 904 KB.  via [www](https://read.amazon.com/?asin=B0027KRPHM).  i42 
 * 005  Holzner, Steven.  Perl Core language.  U.S.? 20--?  k.  i44 
 * 005  McLaughlin, Brett.  What Is HTML5?.  U.S.? 2011.  k. 243 KB.  via [www](https://read.amazon.com/?asin=B005ISQ7JM).  i47 
-* 005  Nixon, Robin.  Learning PHP, MYSQL, and Javascript.  Beijing; Cambridge, c2009.  PDF, 7.2 MB.  via [www](https://drive.google.com/file/d/1NDRq1jRupmOnnwUfZ9fdd9CxlPfFyA4Q/view?usp=sharing).   i48 
+* 005  Nixon, Robin.  Learning PHP, MYSQL, and Javascript.  Beijing; Cambridge, c2009.  PDF, 7.2 MB.  via [www](https://drive.google.com/file/d/1NDRq1jRupmOnnwUfZ9fdd9CxlPfFyA4Q/view?usp=sharing).   i48.  Notes avail.
 * 005  Regular expression reference.  n.p. n.d.  PDF file, 4.1 MB.  via [www.](https://drive.google.com).  i50 
 * 005  Tennison, Jeni.  Beginning XSLT.  Wrox Press, [n.d.]  k.  via [www](https://read.amazon.com/).  i51 
 * 005  Williams, Jake Day.  Learn PHP.  n.p., 2015.  k. 6574 kb.  via [www](https://read.amazon.com/?asin=B00ULKOU1O).  i52 
-* 006  Anon.  10 Simple CSS Code Examples You Can Learn in 10 Minutes.  [United States, 20--?]  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/).  i53 
+* 006  10 Simple CSS Code Examples You Can Learn in 10 Minutes.  [United States, 20--?]  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/).  i53 
 * 006  Open University.  Introduction to computational thinking.  The Open University, 2016.  k. 812 kb.  via [www](https://read.amazon.com/?asin=B01D8X5ZO6).  i54 
 * 017  Curlie.  Curlie, c2018.  [w.](https://curlie.org).  i55 
 * 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).   i56.  Notes avail. 
@@ -121,7 +121,7 @@
 * 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators.  HTML file.  via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).   i131 
 * 150  Spielman, Rose M.  Psychology.  Houston, TX, Openstack, [2017]  k.  2304191 
 * 150  Winfrey, Sarah.  29 scientifically proven ways to be happy this year.  n.p. n.d.  HTML file.  via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).  IN: Wisebread.com, 2014.  i132 
-* 152  Anon.  12 rituals happy, successfull people practice every day.  n.p. n.d.  HTML file.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139 
+* 152  12 rituals happy, successfull people practice every day.  n.p. n.d.  HTML file.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139 
 * 152  Brodie, Paul.  Just do it : ten ways to help increase mahttps://getpocket.com/explore/item/8-rules-to-do-everything-betterking your dreams and goals a reality.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N753SGS).  i133 
 * 152  Kohn, Sally.  The opposite of hate.  Reprint ed.  Algonquin Books, 2018.  k. 923 kb.  via [www](https://read.amazon.com/?asin=B075G4W7VF).  i135 
 * 152  Luther, Kate.  7 ways to get your life back into balance.  wisebread.com, 2014.  w.   i136 
@@ -130,7 +130,7 @@
 * 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  [n.p], c2010.  PDF file, 574 KB.  via [www.](http://drive.google.com).  i140 
 * 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Why you learn more effectively by writing then typing / Melanie Pinola.  lifehacker.com, 2011.  HTML file.  via [www](http://www.lifehacker.com/5738093).   i142 
-* 155  Anon.  5 tactics for relieving work-related stress.  n.p. n.d.  TXT file.  via USB. File name: 3252.txt  i144 
+* 155  5 tactics for relieving work-related stress.  n.p. n.d.  TXT file.  via USB. File name: 3252.txt  i144 
 * 155  Bennington-Castro, Joseph.  Science of what makes an introvert and an extrovert.  n.p. 2013.  PDF, 492 kb.  via [www](http://drive.google.com).  i143 
 * 155  Happy introvert, The.  n.p. n.d.  v.  i1756  2011-10  
 * 155  Wingo, Mary. The impact of the human stress response.  Roxwell Waterhouse, 2016.  k. 9074 kb.  via [www](https://read.amazon.com/?asin=B01FK2YPJO).  i145 
@@ -139,13 +139,13 @@
 * 158  Pinola, Melanie.  Four signs your relationship might be doomed.  HTML file.  via [www](http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed).  IN Lifehacker.  (Mar. 15, 2013).   i148 
 * 158  Powell, Barbara.  Alone, alive, and well.  n.p. n.d.  v.  i1743  2005-04  
 * 158.1  Klosowski, Thorin.  The importance of self-awareness, and how to become more self aware.  lifhacker.com, 2014.   HTML file.  via [www](http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518).   i149 
-* 170  Anon.  Framework for a feminist ethics.  n.p. n.d.  v.  DBID 1037.   i151 
+* 170  Framework for a feminist ethics.  n.p. n.d.  v.  DBID 1037.   i151 
 * 170  Can ethics be Christian?  n.p. n.d.  v.  i1736  2011-10  
 * 170  Fletcher, Joseph F.  Situation ethics.  Philadelphia : Westminster Press, [1966].  176 p.  DBID 1719.   i150  2011-10  
 * 170  Parliament of World's Religions. Editorial Committee.  Declaration toward a global ethic.  PWR, 1993.  PDF file.  via [www](http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf).   i152 
-* 171  Anon.  The responsible self.  n.p. n.d.  v.  DBID 1737.   i153  2011-10  
+* 171  The responsible self.  n.p. n.d.  v.  DBID 1737.   i153  2011-10  
 * 171  Sheng, C.L.  A defense of utilitarianism.  Lanham, MD : University Press of America, 2003.  v.  ISBN 0761827315   i154  2011-10   
-* 174  Anon.  Theology and Christian ethics.  n.p. n.d.  v.  DBID 1743.     i156 
+* 174  Theology and Christian ethics.  n.p. n.d.  v.  DBID 1743.     i156 
 * 174  Pauchant, Thierry C., ed.  Ethics and spirituality at work.  Westport, Conn. : Quorum Books, 2002.  xii, 266 p.  ISBN 1567205623     i155  2011-10  
 * 174  Thomas, Ryan.  Become a natural leader: What a former Army officer can teach you about leadership.  n.p. 2014.  k. 1209 kb.  via [www](https://read.amazon.com/?asin=B00I9K1TGW).  i157 
 * 177  Einhorn, Stefan.  The art of being kind.  n.p. n.d.  v.   i158 
@@ -161,7 +161,7 @@
 * 178  Strauss, Alex.  The mindful walker.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01M1LE52M).  i169 
 * 178  Wonderful, Jessica.  Voluntary Simplicity: How to downsize, simplify, and retire early.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00AH3R0G2).  i171 
 * 178  Zislis, Evan Michael.  ClutterFree revolution.  The Difference Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B00VSUCKSQ).  i172 
-* 178  [21 simple actions towards a simpler life].  [S.n., 2012?].  www.   i170 
+* 178  [21 simple actions towards a simpler life].  [n.p 2012?]  www.   i170 
 * 181  I-ming, Liu.  Awakening to the Tao, tr. by Cleary, Thomas.  1st ed.  Boston : Shambhala ; [New York] : Distributed in the U.S. by Random House, 1988.  xvi, 105 p. ; 22 cm.  ISBN: 087773447X.  i1710 
 * 188  Aurelius, Marcus.  Meditations.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0082XJGRK).  i173 
 * 188  Aurelius, Marcus.  Meditations. Tr. and with notes by Martin Hammond ; with an introduction by Diskin Clay. London : Penguin Classics, an imprint of Penguin Books, 2014.  lxi, 351 p. ; 17 cm.  ISBN: 9780141395869.  i1716 
@@ -172,7 +172,7 @@
 * 190  Philosophy.  n.p. n.d.  v.  i1738  2011-10  
 * 193.9  Nietzsche, Friedrich Wilhelm, selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann.  The portable Nietzsche.  Harmondsworth England : Penguin, 1976.  x, 692 p.   i177  2012-03  
 * 200  After God.  n.p. n.d.  v.  i1754  2011-10  
-* 200  Anon.  Religion and Psychology.  n.p. n.d.  v.  i183  2011-10  
+* 200  Religion and Psychology.  n.p. n.d.  v.  i183  2011-10  
 * 200  Buehrens, John A. and Rebecca Ann Parker.  A House for Hope.  n.p. n.d.  v.  i178  2015-05 and 2017-08. Grade A
 * 200  Fuller, Andrew R.  Psychology and religion.  n.p. n.d.  v.   i1735  2011-10  
 * 200  Hendren, Trista, Pat Daly, ed.  Whatever works: Feminists of faith speak.  n.p. 2015.  k. 3949 kb.  via  [www](https://read.amazon.com/?asin=B00V96EEGK).  i186 
@@ -181,16 +181,16 @@
 * 200  Paragament, Kenneth I.  The psychology of religion and coping.  New York : Guilford Press, c1997.  xii, 548 p.  ISBN 1572302143  i182  2011-10 
 * 200  Prothero, Stephen.  God is not one.  N.Y., HarperOne, c2010.  388 p. 21 cm.  prothero20210  2023-10. C.
 * 200  Smith, Christian, Patricia Snell.  Souls in transition: the religious and spiritual lives of emerging adults.  Oxford University Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B004FPYKX4).  i185. 
-* 204  Anon.  Who is my God.  n.p. nd.d  v.   i188  2014-06.  C
+* 204  Who is my God.  n.p. nd.d  v.   i188  2014-06.  C
 * 204  Wikstrom, E.W.  Simply pray.  Bost. Skinner House [2005].  x + 140 p. 22 cm.  i2304231 
 * 209  Burton, Tara.  Strange rites.  n.p. n.d.  k.  i1724  2020-08. Grade C. Grade Discusses modern day movements that also have the, pillars of what religion always has meaning, purpose, community, ritual. 
 * 210  Horsfield, J.  The Golden Rule - Pathways to peace.  Hearts Minds Media, n.d.  k.  via [www](https://read.amazon.com/?asin=B07B4QFZZL).  i190 
 * 210  Maziarek, Jeff.  Spirituality simplified.  Spirit Simple Enterprises, 2012.  k. 981 kb.  via [www](https://read.amazon.com).  ASIN B007AMMYG4.  i189 
 * 210  Mercer, John Edward.  Nature Mysticism.  n.p. 2012.  k.  via [www](https://read.amazon.com/?asin=B00848YOGQ).  i191 
 * 210  Peters, Karl E.  Dancing with the sacred.  Trinity Press International, c2002.  x, 171 p.  ISBN 1563383934.   i192 
-* 220  Anon.  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  "New English Translation"-cover.  i197 
-* 220  Anon.  The access bible : a resource for beginning Bible.  n.p. n.d.  v.  ISBN 0195282361.  i199 
-* 220  Anon.  The holy bible.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB file.  "The New Revised Standard Version" -cover.  DBID 8331.   i200 
+* 220  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  "New English Translation"-cover.  i197 
+* 220  The access bible : a resource for beginning Bible.  n.p. n.d.  v.  ISBN 0195282361.  i199 
+* 220  The holy bible.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB file.  "The New Revised Standard Version" -cover.  DBID 8331.   i200 
 * 220  Bible.  Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999].  v. 23 cm.  v23082919 
 * 220  Bible.  Message, Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  v23082918 
 * 220  Ferlo, Roger.  Opening the Bible.  Cambridge, Mass., Cowley Publicatinos, c1997.  xv, 153 p.  ISBN 1561011444.  LJLT 1713   i194  2011-10  
@@ -201,7 +201,7 @@
 * 220  Spong, John Shelby.  Rescuing the bible from fundamentalism.  n.p. n.d.  PDB file via USB.  i202 
 * 220  The Holy Bible, English Standard Version.  Crossway, 2011.  k. 17720 kb.  via [www](https://read.amazon.com/?asin=B001EOCFU4).  i193 
 * 225  Ehrman, Bart D.  The new testament.  N.Y., Oxford University Press, 2004.  xxxiii, 506 p.  ISBN 0195154622   i203  2011-10  
-* 226  Anon.  Growth of the gospel tradition.  n.p., 2007.  PDF file, 379 KB.  via [www](https://drive.google.com).  i204 
+* 226  Growth of the gospel tradition.  n.p., 2007.  PDF file, 379 KB.  via [www](https://drive.google.com).  i204 
 * 226  Jefferson, Thomas.  The Jefferson Bible.  Sandbox Press, 2011.  k.  304 kb.  via [www](https://read.amazon.com).  ISBN 9781937810092.  i205 
 * 229  Jeffery, Peter.  The secret Gospel of Mark unveiled.  n.p. n.d.  v.   i207 — 2011-10   
 * 230  Frevert, Patricia, ed.  Welcome : a Unitarian Universalist primer.  B., Skinner House, 2009.  77 p.  ISBN 9781558965447.  .i1709.txt.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  tp ÿ                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ad  B  Z        Z  X                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               8813  Earthweed / Rod Little.  2nd ed.  n.p. n.d.  c2016.  [w.](https://www.hoopladigital.com/play/14940629).  (Sons of Neptune ; 1)  ISBN 9781547268566    i256 
@@ -232,7 +232,7 @@
 * 261  Johnston, Robert.  Reel spirituality.  2nd ed., Rev. and expanded.  Grand Rapids, Mich. c2006.  351 p.  i233  2011-10  
 * 262  Thavis, John.  Vatican diaries.  N.Y., c2013.  321 p.  i234 
 * 262  Viola, Frank.  Reimagining church.  David C. Cook, 2012.  k. 2983 kb.  via [www](https://read.amazon.com/?asin=B005N4O5Q8).  i235 
-* 264  Anon.  Daily Prayer for All Seasons.  Church Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M4Q4B5S).  i237 
+* 264  Daily Prayer for All Seasons.  Church Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M4Q4B5S).  i237 
 * 264  Boy Scouts of America.  Reverence; a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events.  n.p. Boy Scouts of America, 2010.  via [www.](http://drive.google.com.  i238 
 * 264  Episcopal Church, USA.  The Book of Common Prayer...  Church Publishing, [2007?]  PDF file.  via [www](http://drive.google.com.  i236 
 * 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.   i239 
@@ -248,7 +248,7 @@
 * 273  Herrou, Jose M. Argon.  The forbidden religion.  n.p. 2012.  k. 439 kb.  via [www](https://read.amazon.com/?asin=B00891M3WA).  i249 
 * 282  North, Wyatt.  A History of the Popes: Volume I: Origins to the Middle Ages.  Wyatt North Publishing, LLC, 2015.  k. 625 kb.  via [www](https://read.amazon.com/?asin=B015ULPN2I).  i250 
 * 283  Doyle, Andrew.  Unabashedly Episcopalian: proclaiming the Good News of the Episcopal Church.  Morehouse Publishing, 2012.  k. 428 kb.  via [www](https://read.amazon.com/?asin=B00A1SPDBM).  i251 
-* 284.3  Anon.  The empty mirror.  [S.l. : s.n., n.d.]  [1] v.  DBID 1728.   i252  2011-10  
+* 284.3  The empty mirror.  [S.l. : s.n., n.d.]  [1] v.  DBID 1728.   i252  2011-10  
 * 287  Sutton, Nicolas.  Bhagavad Gita: the Oxford Centre for Hindu Studies guide.  Mandala Publishing, 2020.  k. 20586 kb.  via [www](https://read.amazon.com/?asin=B00OU6O44I).  i253 
 * 288  Bennett, Margaret.  Day unto day.  U.S., American Unitarian Association, 1883.  html file.  via [www.](https://archive.org/details/dayuntoday00benngoog).  i254 
 * 288  Cheetham, Henry H.  Unitarianism and Universalism, an illustrated history. Drawings by Roger Martin.  Boston : Beacon Press, [1962].  124 p. 21 cm.  i1722 
@@ -305,31 +305,31 @@
 * 299  Greer, John Michael.  The druid magic handbook.  Red Wheel/Weiser, c2007.  [w.](https://justinleetyler.github.io/greer2007).  ISBN 9781578633975.  i302 
 * 299  Greer, John Michael.  The druidry handbook.  Red Wheel/Weiser, c2006.  [w.](https://justinleetyler.github.io/greer2006).  ISBN 1578633540.  i303 
 * 299  Herman, Jonathan.  Taoism for dummies.  John Wiley & Sons, c2013.  on esternal hard drive.  Filename: 7050.epub; 7050.mobi.  ISBN 978118426654.  i307 
-* 299  Hifler, Joyce Sequichie.  A Cherokee feast of days.  Council Oak Books, c1992.  412 p.   i300 
+* 299  Hifler, Joyce Sequichie.  A Cherokee feast of days.  Council Oak Books, c1992.  412 p.   i300.  Notes avail. 
 * 299  Laozi.  Living Dao : the art and way of living a rich & truthful life, tr...by Lok Sang HO.  [S.n.], 2009.  [www].  i309 
-* 299  Laozi.  Sayings of Lao Tzu, tr. by Lionel Giles.  New York : E.P. Dutton and Company, Inc., 1905.  v.   i306 
-* 299  Laozi.  Tao Te Ching, tr. by Gia-Fu Feng and Jane English.  Vintage Books, c1997, c1992.  1 v. [unpaged].  ISBN 0679776192.   i308 
+* 299  Laozi.  Sayings of Lao Tzu, tr. by Lionel Giles.  New York : E.P. Dutton and Company, Inc., 1905.  v.   i306.  Notes avail. 
+* 299  Laozi.  Tao Te Ching, tr. by Gia-Fu Feng and Jane English.  Vintage Books, c1997, c1992.  1 v. [unpaged].  ISBN 0679776192.   i308.  Notes avail. 
 * 299  Miller, Timothy.  America's alternative religions.  State University of New York Press, 1995.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live).   i298 
 * 299  Ruiz, Miguel.  The four agreements.  San Rafael, Calif. : Amber-Allen Pub, c1997.  xix, 138 p.  ISBN 1878424319.  DBID 3010  i299 
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301 
-* 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.   i311  2012-04  
-* 299.5  Daoism.  file via USB.  Filename: 3309.pdf.  IN World religions reference library.  Cengage Learning, c2007.   i304 
+* 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.   i311  Read 2012-04.  
+* 299.5  Daoism.  file via USB.  Filename: 3309.pdf.  IN World religions reference library.  Cengage Learning, c2007.   i304.  Notes avail. 
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.   i312  Read 2016-08. Grade B
 * 303  Johnson, Clay A.  Information diet.  Beijing, c2012.  O.  i313 
-* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  DBID 3014   i314  Read ?  
-* 305  Bands and tribes.  n.p. n.d.  v.   i320 
-* 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.   i321 
+* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  DBID 3014   i314  Read ? Notes avail 
+* 305  Bands and tribes.  n.p. n.d.  v.   i320.  Notes avail. 
+* 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.   i321.  Notes avail. 
 * 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
-* 305  Diamond, Jared.  The world until yesterday.  Penguin Books, c2012.  xi, 498 p.  ISBN 9780143124405.   i317  2004-09. Grade C
-* 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.   i322 
+* 305  Diamond, Jared.  The world until yesterday.  Penguin Books, c2012.  xi, 498 p.  ISBN 9780143124405.   i317.  Read 2004-09. Grade C. Notes avail.
+* 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.   i322.  Notes avail. 
 * 305  Odell, Jenny.  How to do nothing.  Brooklyn [c2019].  g.  i315 
-* 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.   i318 
+* 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.   i318.  Notes avail. 
 * 305  Veblen, Thorstein.  Theory of the leisure class.  Dover Publications, n.d.  k.  via [www](https://read.amazon.com/?asin=B00A73AIMA).  i319 
 * 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  n.p. c2012.  k. 448 kb.  via [www](https://read.amazon.com/?asin=B008BXVQU6).  i323 
 * 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.   i324  2005-11  
-* 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.   i325 
+* 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.   i325.  Notes avail. 
 * 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  n.p. 2015.  k. 1515 kb.  via [www](https://read.amazon.com/?asin=B00UCF3U0A).  i326 
-  * 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B
+  * 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B. Notes avail.
 * 310  United States. Central Intelligence Agency.  World factbook 2018-2019. Skyhorse, 2018.  k. 50484 kb.  DBID 3117.  i328 
 * 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  PDF, 14 MB via [www](https://drive.google.com/file/d/1EfVEek6iMLB7lNDW5otbI9kpqFlu9DYz/view?usp=sharing).
 * 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  k. 5015 kb.  via [www](https://read.amazon.com/?asin=B005NE552G).  i342 
@@ -340,8 +340,8 @@
 * 320  Kazin, Michael.  American dreamers. N.Y. 2011.  O.   i330 
 * 320  Rawnsley, Andrew.  Servants of the people.  U.K. ed.  n.p. 2001.  k. 1745 kb.  via [www](https://read.amazon.com/?asin=B00390BDZE).  i335 
 * 320  Seldon, Anthony.  Brown at 10, [w.] Lodge, G.  n.p. 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
-* 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  i337  2022-02. Grade C. 
-* 321  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)   i343 
+* 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  i337.  Read 2022-02. Grade C. Notes avail.
+* 321  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)   i343.  Notes avail. 
 * 321  Inside story; [by University College Lond.]  [Lond.] 2011.  PDF, 172 KB.  g.
 * 321  Bagehot, Walter.  English constitution.  n.p. 2012.  k. 355 kb.  via [www](https://read.amazon.com/?asin=B0082YI9PY).  i341 
 * 321  Brown, Lawrance.  My country is called Earth.  n.p. c2010.  g.
@@ -349,13 +349,13 @@
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  via [www](https://www.gutenberg.org/ebooks/21006).  i333 
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  g.
 * 321  Seldon, Anthony.  Cabinet Office, 1916-2018; [w.] Meakin, J.  n.p. 2016.  k. 16371 kb.  seldon2016 
-* 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  S.  i345 
+* 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  S.  i345. [Notes avail.](https://justinleetyler.github.io/reading_notes#i345txt) 
 * 321  Streit, Clarence K.  Union now.  Lond. 1940.  g.  i346 
 * 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  g.  (In Parliamentary History, 21:2, 2002).  i347 
 * 321  Wexler, Jay.  Odd clauses.  Beacon Press, 2011.  k. 620 kb.  i348  2013-01  
 * 321  Whittle, Peter.  Monarchy matters.  n.p. 2011.  k. 501 kb.  via [www](https://read.amazon.com/?asin=B004ZH8K74).  i349 
 * 324  Hason, Medhi.  Ed.  n.p. n.d.  k.  i350 
-* 324  Heilemann, John; Halperin, M.  Game Change.  n.p. n.d.  v.   i353  2013-02. Grade B
+* 324  Heilemann, John; Halperin, M.  Game Change.  n.p. n.d.  v.   i353.  Read 2013-02. Grade B. Notes avail.
 * 324  Mandelson, Peter.  Third man.  n.p. 2010.  k. 2 mb.  via [www](https://read.amazon.com/?asin=B004PGMXL4).  i351 
 * 324  Neary, Peter.  Morning after a general election; the vice-regal perspective.  g.  (In Canadian Parliamentary Review, 35:3, 2012).  i352 
 * 324  Rawnsley, Andrew.  The end of the party.  U.S. n.d.  k.  i354 
@@ -365,14 +365,14 @@
 * 330  Huber, Joseph.  Creating new money, [w.] Robertson, James.  Lond. n.d.  g.  i356 
 * 330  Jantsch, John.  How to build a remarkable business by focusing on the total customer experience.  n.p. [2012]? PDF file via USB.  File name: (3126.pdf)  DBID 3126  i357 
 * 330  McKibben, Bill.  Deep economy.  N.Y. 2007.  O.  DBID 3111  i360 
-* 330  Mead, Walter Russell.  The one and future liberalism.  American Interest, 2012.  via www.   i358 
+* 330  Mead, Walter Russell.  The one and future liberalism.  American Interest, 2012.  via www.   i358.  Notes avail. 
 * 330  Smith, Adam.  The Wealth of Nations, [into. by] Alan B. Krueger.  Xist Classics, 2015.  k. 1612 kb.  via [www](https://read.amazon.com/?asin=B00VHBIIVE).  i359 
-* 331  Hudson, Christopher.  Do you want fries with that.  n.p. 2005.  v.  ISBN 159316629.   i361  2011-10  
+* 331  Hudson, Christopher.  Do you want fries with that.  n.p. 2005.  v.  ISBN 159316629.   i361.  Read 2011-10. Notes avail.  
 * 331  Lu, Heath.  Secrets to early retirement planning that generation X never learned: a 5 step-system for worry-free life.   n.d. 2021.  k. 3257 kb.  via [www](https://read.amazon.com/?asin=B097WL1N1Z).  i362 
-* 332  Gerber, Larry.  Top ten tips for developing money management skills.  n.p. n.d.  v.   i363  2013-01  
+* 332  Gerber, Larry.  Top ten tips for developing money management skills.  n.p. n.d.  v.   i363.  Read 2013-01. Notes avail.  
 * 332  Hamm, Trent A.  The simple dollar: how one man wiped out his debts and achieved the life of his dreams.  FT Press, 2010.  k. 395 kb.  via [www](https://read.amazon.com/?asin=B003HOXLHA).  i364 
-* 332  Klein, Ezra.  This 4x6 index card has all the financial advice you'll ever need.  washingtonpost.com, 2013.  webpage via [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/).   i365 
-* 332  Sundeen, Mark.  The man who quit money.  New York : Riverhead Books, c2010.  260 p.  ISBN 9781594485695.  DBID 3091   i366  2012-07  
+* 332  Klein, Ezra.  This 4x6 index card has all the financial advice you'll ever need.  washingtonpost.com, 2013.  webpage via [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/).   i365.  Notes avail. 
+* 332  Sundeen, Mark.  The man who quit money.  New York : Riverhead Books, c2010.  260 p.  ISBN 9781594485695.  DBID 3091   i366.  Read 2012-07. Notes avail.  
 * 332  Tailor, Deepak.  How to live for free, [w.] Laura Foulger.  Church & Company, 2014.  k. 806 kb.  via [www](https://read.amazon.com/?asin=B00Q38CDKI).  i367 
 * 333  Revkin, Andrew.  The burning season: the murder of Chico Mendes and the fight for the Amazon rain forest.  Island Press, 2012.  k. 2736 kb.  via [www](https://read.amazon.com/?asin=B00IL4EWQ0).  i368 
 * 335  Hoffman, Abbie.  Steal this book.  N.Y., Pirate Editions, 1971.  xxi, 308 p.  DBID 3116  i369 
@@ -386,22 +386,22 @@
 * 339  Kasser, Tim.  The high price of materialism.  Cambridge, Mass : MIT press, c2002.  xvi, 149 p.  ISBN 026211268X.  DBID 3115  i375 
 * 339  Schor, Juliet.  The overspent American.  New York : HarperPerennial, c1999.  253 p.  ISBN 0060977582.  DBID 3114  i376 
 * 339  Scott, Grace.  The materialistic world.  G. Scott, 2013.  k. 3415 kb.  i377 
-* 342  Anon.  The city-states of Aetolia.  n.p. Iron Realms Entertainment, n.d.  HTML file via [www](http://www.aetolia.com/cities).   i378 
+* 342  The city-states of Aetolia.  n.p. Iron Realms Entertainment, n.d.  HTML file via [www](http://www.aetolia.com/cities).   i378. Notes avail. 
 * 342  Hamilton, Alexander.  The Federalist Papers, [w.] James Madison, John Jay.  Acheron Press, 2012.  k. 777 kb.  via [www](https://read.amazon.com/?asin=B009QA3GS8).  i380 
 * 342  Scott, Rachel M.  Recasting Islamic law: religion and the nation state in Egyptian constitution making.  Cornell University Press, 2021.  k. 1124 kb.  via [www](https://read.amazon.com/?asin=B08MBD75JF).  i382 
 * 342  U.K.  House of Lords Reform Draft Bill / presented to Parliament by the Deputy Prime Minister by Command of Her Majesty.  PDF file via USB.  File name: 10104.pdf.  DBID 10104.  ISBN 9780101807722.  i379 
 * 342  U.K.  Review of the executive royal prerogative powers: final report.  [Lond.], 2009.  PDF, 282 KB.  via [www](https://drive.google.com/file/d/13t6SGDCWT6NAvG_Mn5FTBtvDL87dsJCB/view?usp=sharing).  i381 
 * 342  United States.  Constitution.  n.p., 2014.  k. 87 kb.  via [www](https://read.amazon.com/?asin=B004TPCQWC).  i383 
 * 343  Hart, James.  Business law basics: a legal handbook for online entrepreneurs and startup businesses.  n.p. 2016.  k. 1336 kb.  via [www](https://read.amazon.com/?asin=B01F5Y4BLO).  i384 
-* 347  Greenburg, Jan Crawford.  Supreme Conflict.  N.Y., Penguin Press, 2007.  340 p.  ISBN 9781594201011.   i385  2020-03. Grade C
-* 347  Newman, Jim.  Justice for all.  Riverhead books, c2006.  Mode of Access: World Wide Web.  EISBN 9781594482700.   i386   2020-05. Grade C. Grade A biography of Earl Warren. 
-* 347  Toobin, Jeffrey.  The nine.  Anchor Books, c2007.  k.  eISBN 9780307472892.   i387  2011-10  
+* 347  Greenburg, Jan Crawford.  Supreme Conflict.  N.Y., Penguin Press, 2007.  340 p.  ISBN 9781594201011.   i385.  Read 2020-03. Grade C. Notes avail.
+* 347  Newman, Jim.  Justice for all.  Riverhead books, c2006.  Mode of Access: World Wide Web.  EISBN 9781594482700.   i386.  Read 2020-05. Grade C. Notes avail. 
+* 347  Toobin, Jeffrey.  The nine.  Anchor Books, c2007.  k.  eISBN 9780307472892.   i387.  Read 2011-10. Notes avail.  
 * 347  Toobin, Jeffrey.  The oath.  n.p., 2012?.  v.  DBID 3202  i388 
 * 920  Naylor, John F.  Man and an institution; Sir Maurice Hankey, the Cabinet Secretariat and the custody of Cabinet secrecy.  Cambridge, 2008.  PDF, 12.5 MB.  via [www](https://drive.google.com/file/d/13lqrPe-Gu153ZlgOAuw7lxaY4YtLZFWW/view?usp=sharing).  naylor1984 
 * 352  Beesley, Ian.  Official history of the cabinet secretaries.  Lond. 2017.  PDF, 6 MB.  via [www](https://drive.google.com/file/d/1LeVMjG_JVq4a1sFRvv60FbAXzr96hRKH/view?usp=sharing).
-* 352  Raphael, Ray.  Mr. President : how and why the founders created a chief executive.  New York : Alfred A. Knopf, 2012.  324 p.  ISBN 9780307595270.  DBID 3026   i389  2012-05  
+* 352  Raphael, Ray.  Mr. President : how and why the founders created a chief executive.  New York : Alfred A. Knopf, 2012.  324 p.  ISBN 9780307595270.  DBID 3026   i389.  Read 2012-05. Notes avail.  
 * 353  Short, L.M.  Development of the national administrative organiation in the United States.  Baltimore, 1923.  PDF, 15 MB.  via [www](https://drive.google.com/file/d/1M6J0YgWAWbd0OuzLiErNdBf47SCyZB_Q/view?usp=sharing).
-* 355  Anon.  Camp Delta standard operating procedures (SOP).  n.p. 2003.  PDF, 4.2 MB.  via [www](https://drive.google.com/file/d/1f6eT3cPwaIftz70fwkxEauQXgYjwO56W/view?usp=sharing).  i390 
+* 355  Camp Delta standard operating procedures (SOP).  n.p. 2003.  PDF, 4.2 MB.  via [www](https://drive.google.com/file/d/1f6eT3cPwaIftz70fwkxEauQXgYjwO56W/view?usp=sharing).  i390 
 * 355  Sun Tzu.  The art of war.  KMW Publishing, n.d.  k.  via [www](https://read.amazon.com/?asin=B00C1T79DE).  i391 
 * 361  Spirer, Gary.  Crowdfunding.  n.p. 2014.  k. 2852 kb.  via [www](https://read.amazon.com/?asin=B00HQ7JZOM).  i392 
 * 363  Andres, Jose.  We fed an island. With Richard Wolfe.  Ecco, c2018.  xii, 267 p.  ISBN 9780062864499.  i1740  2003-02  
@@ -410,7 +410,7 @@
 * 364  Birdsong, Leonard.  147 Dumbest Criminal Stories: Florida.  Winghurst Publications, 2015.  k. 791 kb.  via [www](https://read.amazon.com/?asin=B00TWPBL3O).  i394 
 * 364  Pirates of Somalia, The.  n.p. n.d.  v.  i1763  2011-10  
 * 367  Constitution daily.  n.p. 200-  online via [www](http://blog.constitutioncenter.org/).  Daily.  i395 
-* 370  Anon.  10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School.  Harper Perennial, 2013.  k. 4348 kb.  via [www](https://read.amazon.com/?asin=B00C4TK32U).  i398 
+* 370  10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School.  Harper Perennial, 2013.  k. 4348 kb.  via [www](https://read.amazon.com/?asin=B00C4TK32U).  i398 
 * 370  Lele, Chris, and Mike McGarry.  GRE Prep by Magoosh.  RTC Publishing, 2017.  k. 17838 kb.  via [www](https://read.amazon.com/?asin=B01MTEK77B).  i396 
 * 370  Newport, Tuck.  Reinventing the liberal arts: college in one year for $5.  n.p. 2014.  k. 370 kb.  via [www](https://read.amazon.com/?asin=B00OHZYWL2).  i397 
 * 370  Zakaria, Fareed.  In defense of a liberal education.  N.Y. [c2015].  PDF, 516 KB.  via [www](https://drive.google.com/file/d/1J3k8pViygyRCRSAjspW4LTPFG0A0RC0T/view?usp=sharing).  i399 
@@ -419,7 +419,7 @@
 * 371  Open University.  Learning how to learn.  The Open University, n.d.  k.  via [www](https://read.amazon.com/?asin=B01D8X5YBK).  i402 
 * 372  William, Andrew.  ESL classroom games.  William Teacher, [20--?]  k.  via [www](https://read.amazon.com/?asin=B01N13A9A7).  i403 
 * 374  Eng, Norman.  Teaching college: the ultimate guide to lecturing, presenting, and engaging students.  n.p. 2017.  k. 5066 kb.  via [www](https://read.amazon.com/?asin=B01NCXF8JC).  i404 
-* 374  McKay, Brett.  How and why to become a lifelong learner.  art of manliness, 2013.  webpage via [www](http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/).   i405 
+* 374  McKay, Brett.  How and why to become a lifelong learner.  art of manliness, 2013.  webpage via [www](http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/).   i405. Notes avail. 
 * 375  MIT.  OpenCourseWare.  n.p. MIT, c2002-  online via [www](http://ocw.mit.edu/).  i406 
 * 375  Open Yale courses [website].  [S.l.] : Yale University, c2012- . online via [www](http://oyc.yale.edu/).  i408 
 * 375  OpencourseWare Consortium [website].  Newton, MA : OpencourseWare Consortum, [n.d.]  online via [www](http://www.ocwconsortium.org/).  i407 
@@ -431,15 +431,15 @@
 * 395  Schreiber, Niel.  How to be a gentleman.  Niel Schreiber, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00N992NEA).  i414 
 * 398  Barrow, Jim.  Cherokee mythology: gods, myths, legends and spiritual beliefs of the Cherokee tribe.  n.p n.d.  k.  via [www](https://read.amazon.com/?asin=B099CRWPF3).  i837 
 * 398  Bulfinch, Thomas.  Bulfinch's mythology.  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i415 
-* 398  Coelho, Paul.  The alchemist.  [San Francisco] : HarperSanFrancisco, c1993.  PDB file on USB.  DBID 8337.   i416  2011-06   
+* 398  Coelho, Paul.  The alchemist.  [San Francisco] : HarperSanFrancisco, c1993.  PDB file on USB.  DBID 8337.   i416  Read 2011-06. Notes avail.   
 * 398  Jackson, Jake, ed.  Myths & legends : classical Greek, Celtic, Norse, Chinese, African, Native American & More / Forward by William G. Dot.  Flame Tree Publishing, c2013.  512 p.  ISBN 9780857758491.  i1711  2022-01. Grade D. Grade Read on Texas trip. The foundation and empire falls to, The Mule.
 * 398  Nye, Jody Lynn.  Mythology 101.  WordFire Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00Q3B5SDE).  i417 
 * 423  Forgotten founding father, The.  n.p. n.d.  v.  i1757  –- 2011-10 
-* 428  Onelook.com.  n.p. n.d.   [w.](http://www.onelook.com).   i418 
+* 428  Onelook.com.  n.p. n.d.   [w.](http://www.onelook.com).   i418.  Notes avail. 
 * 500  Rhea, John.  CSS animation.  Undead Institute, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B088K9KJVD).  i419 
 * 500  Tanner, Ogden.  New England wilds.  n.p. n.d.  v.    i420  2021-06. Grade C 
 * 507  SciTech connect.  [S.l., 2012?-].  [w.](http://www.osti.gov/scitech/).  i421 
-* 508  Lindborg, Kristina.  Natural history of Boston's North Shore, A.  University Press of New England, c2007.  xviii, 121 p.  ISBN 158465578X.   i423  2020-09. Grade D
+* 508  Lindborg, Kristina.  Natural history of Boston's North Shore, A.  University Press of New England, c2007.  xviii, 121 p.  ISBN 158465578X.   i423  Read 2020-09. Grade D. Notes avail.
 * 508  The natural history of eastern Massachusetts / Stan Freeman.  Hampshire House Publishing, [n.d.]  [w.](https://read.amazon.com/?asin=B07HYL2C54).  i422 
 * 520  Open University.  Galaxies, stars and planets.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X6OUK).  i424 
 * 523  Smolin, Lee.  Life of the Cosmos.  Oxford University Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004TW1YY6).  i426  2011-10
@@ -447,22 +447,22 @@
 * 525  Gribbin, John.  Alone in the universe.  Wiley, c2011.  PDF file, 1.7 MB.  via [www](https://drive.google.com).   i428 
 * 526  Hoag, John S.  Fundamentals of land measurement.  Chicago, Illinois : Chicago Title Insurance Company, [n.d].  iii, 35 p.  DBID 1650.  Gift from Cherie Thompson.  i429 
 * 527  O'Neill, Gerald K.  The high frontier: human colonies in space.  Space Studies Institute, Inc., [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00CB3SIAI).  i430 
-* 530  Anon.  College physics.  Rice University, c2013.  PDF file, 97.1 MB.  via [www.](http://drive.google.com).  i431 
-* 530  Crease, Robert P.  World in the balance.  New York : W.W. Norton, c2011.  317 p.  ISBN 9780393072983.  DBID 2071.   i432 
-* 551  Jorgensen, Neil.  A guide to New England's landscape.  n.p. n.d.  v.  i433  2020-11. Grade D. Grade A non-fiction book about the landforms and forest ecology of New England 
-* 552.1  Dennen, W.H.  The rocks of Cape Ann.  [S.n., 2001].  32 p.   i434  2020-10. Grade D
+* 530  College physics.  Rice University, c2013.  PDF file, 97.1 MB.  via [www.](http://drive.google.com).  i431 
+* 530  Crease, Robert P.  World in the balance.  New York : W.W. Norton, c2011.  317 p.  ISBN 9780393072983.  DBID 2071.   i432.  Notes avail. 
+* 551  Jorgensen, Neil.  A guide to New England's landscape.  n.p. n.d.  v.  i433. Read 2020-11. Grade D. Notes avail.
+* 552.1  Dennen, W.H.  The rocks of Cape Ann.  [S.n., 2001].  32 p.   i434  Read 2020-10. Grade D. Notes avail.
 * 574  Bates, Henry Walter.  The naturalist on the River Amazons.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004TS08JM).  i436 
-* 574  White, Laurence B.  Life in the shifting dunes, ill. by Henry B. Kane.  Museum of Science, Boston, c1960.  ix, 85 p.   i438  2020-12. Grade C. A directory of the natural life on Castle Neck, Ipswich, Mass. 
-* 576  Benton, Michael J.  When life nearly died.  Thames & Hudson, c2003.  336 p.  ISBN 50005116X.   i440  to_read
-* 576  Brannen, Peter.  Ends of the world.  N.Y., HarperCollins, c2017.  PDF file, 12.9 MB.  via [www](http://drive.google.com).   i441 
+* 574  White, Laurence B.  Life in the shifting dunes, ill. by Henry B. Kane.  Museum of Science, Boston, c1960.  ix, 85 p.   i438.  Read 2020-12. Grade C. Notes avail. A directory of the natural life on Castle Neck, Ipswich, Mass. 
+* 576  Benton, Michael J.  When life nearly died.  Thames & Hudson, c2003.  336 p.  ISBN 50005116X.   i440  to_read.  Notes avail.
+* 576  Brannen, Peter.  Ends of the world.  N.Y., HarperCollins, c2017.  PDF file, 12.9 MB.  via [www](http://drive.google.com).   i441.  Notes avail. 
 * 576  MacLeod, Norman.  The great extinctions.  Firefly books, c2013.  208 p.  ISBN 9781770851870.  i442 
 * 576  Mesler, Bill.  Brief history of creation; science and the search for the origin of life, [w.] H. James Cleaves II.  [U.S.], W.W. Norton Company, c2016.  PDF file, 3 MB.  via [www.](https://drive.google.com).  i443 
 * 576  Shapiro, James A.  Evolution: A View from the 21st Century.  FT Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0054KOKZ2).  i444 
 * 591  Wilson, Edward O.  Genesis.  N.Y., Liveright Pub. Corp., 2019.  153 p. 22 cm.  v23082916 
 * 596  Dinerstein, Eric.  The kingdom of rarities.  Island Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00B2IRHKA).  i445 
-* 599  Wall, Frans De.  The bonobo and the atheist.  W.W. Norton, c2013.  289 p.  ISBN 9780393073775.   i446 
+* 599  Wall, Frans De.  The bonobo and the atheist.  W.W. Norton, c2013.  289 p.  ISBN 9780393073775.   i446.  Read 20--? Notes avail. 
 * 600  Hippel, Eric von.  Democratizing innovation.  The MIT Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B001C4PTLS).  i447 
-* 611  Shubin, Neil.  Your inner fish.  n.p. n.d.  v.    i448 
+* 611  Shubin, Neil.  Your inner fish.  n.p. n.d.  v.    i448.  Notes avail. 
 * 613  Davenport, Gregory J.  Wilderness survival.  Stackpole Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00A7CTPNY).  i449 
 * 613  Kling, Michael.  9 frugal ways to treat the common cold / Michael Kling.  [n.p.] 2012.  PDF file, 1.5 MB.  via [wwww.](http://drive.google.com).  i450 
 * 613  Swedo, Suzanne.  Wilderness survival.  3rd ed.  FalconGuides, c2016.  MOBI file on USB.  Filename: 3357.mobi  ISBN 9781493017355.  i451 
@@ -475,43 +475,43 @@
 * 629  Jenkins, Dennis R.  Space Shuttle.  [S.l. : s.n.], c2002.  513 p.  ISBN 0963397451  i460 
 * 629  The International Space Station / John E Catchpole.  Praxis, [n.d.]  [w.](https://read.amazon.com/?asin=B001WAKABG).  i458 
 * 630  Beuning, Eric.  Modern Rustic: Greenhouses and Gardening: A homesteading guidebook for subsistence gardening, heirloom vegetables and greenhouse ideas.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00IQKDYWW).  i462 
-* 634  Connors, Philip.  Fire season.  HarperCollins, c2011.  246 p.  ISBN 9780061859366.   i464  2015-04. Grade B
+* 634  Connors, Philip.  Fire season.  HarperCollins, c2011.  246 p.  ISBN 9780061859366.   i464  2015-04. Grade B.  Notes avail.
 * 634  Poizner, Susan.  Grow fruit trees fast.  Orchard People, 2022.  k.  poizner2022 
 * 635  Grant, Brian.  Vertical gardening.  Brian Grant and Random Techonologies, c2014.  k.  via [www](https://read.amazon.com).  ASIN B00IICK9K8.  i465 
-* 635  Rains, Julie.  The only 4 things a vegetable garden needs.  WiseBread, 2013.  HTML file via www.   i466 
-* 636  Anon.  Working chicken, The, Learn everything you need to know to become a backyard egg and meat producer in 30 minutes or less.  [S.n.], 2008.  k.  via [www](https://read.amazon.com/?asin=B004YQVLKO).  i468 
+* 635  Rains, Julie.  The only 4 things a vegetable garden needs.  WiseBread, 2013.  HTML file via www.   i466.  Notes avail. 
+* 636  Working chicken, The, Learn everything you need to know to become a backyard egg and meat producer in 30 minutes or less.  [S.n.], 2008.  k.  via [www](https://read.amazon.com/?asin=B004YQVLKO).  i468 
 * 636  Barnes, Max.  Raising goats for beginners.  [S.n.], 2021.  k.  via [www](https://read.amazon.com/?asin=B09J9XHS31).  AISN B09J9XHS31.  DBID 20211017_122859.  i467 
 * 636  Lewis, Catherine.  Dog Training.  Catherine Lewis, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BJUCF2K).  i469 
 * 640  Dean, Jenny.  Couponing for the beginner.  GuidetoCouponing.com, [n.d.]  k via [www](https://read.amazon.com/?asin=B008HI3WD4).  i470 
 * 640  Gehring, Abigail R.  Illustrated Encyclopedia of Country Living.  Skyhorse Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0064DFST0).  i471 
 * 640  McDonald, Sara Simmons.  One Acre Homestead: Planning for self-sufficiency and financial independence.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00APO6VDQ).  i472 
 * 640  Rivers, Nik.  Complete guide to house sitting.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B013NO6S4Q).  i474 
-* 640  Rubin, Gretchen.  Nine quick tips to identify clutter.  zenhabits.com, 2012.  HTML file via [www](http://zenhabits.net/identify-clutter/).   i473 
+* 640  Rubin, Gretchen.  Nine quick tips to identify clutter.  zenhabits.com, 2012.  HTML file via [www](http://zenhabits.net/identify-clutter/).   i473.  Notes avail. 
 * 641  Collins, Jackie.  Vegetarian...slow cooker...recipes.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01HSX2Z2W).  i475 
 * 641  Green, Cara.  Vegan instant pot cookbook.  [S.l.], 2018.  k.  via [www](https://read.amazon.com?aisn=B078VTKYJW).  i476 
 * 641  Scott, Hannie. P.  Easy recipes in 5 or less ingredients.  Hannie P. Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00W0EQCC4).  i479 
 * 641  Spitler, Sue.  1,001 best slow-cooker recipes... [and] Linda R. Yoakam.  Agate Surrey, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004YW69B4).  i477 
-* 641  Stoll, Scott.  Yes, plants have protein.  wholestory.com, 2014.  HTML file via [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein).   i478 
+* 641  Stoll, Scott.  Yes, plants have protein.  wholestory.com, 2014.  HTML file via [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein).   i478.  Notes avail. 
 * 641  Stone, Jeremy.  Microwave mug recipes...ketogenic...  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N54XHX3).  i480 
 * 642  Caldwell, James.  Restaurant managers' and waiters' guide book, [by] ... Patrick Caldwell, Michael Rathke.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B06XC6GQFQ).  i481 
 * 643  Benson, Patricia.  DIY household hacks.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00PNZA1LU).  i482 
 * 643  Forseth, Mike.  Free TV over the air.  Invigorating Publishing, c2014.  k.  via [www](https://read.amazon.com?aisn=B00IX0BTCM).  i483 
 * 646  Allen, David.  Getting things done.  n.p., 2015.  k.   i3  [2022 B](https://justinleetyler.github.io/reading_notes#i3txt). 
-* 646  Anon.  Bruce Lee's top 20 tips for living a successful life.  PDF file via USB.  File name: 10094.pdf.  DBID 10094.  (IN Wake Up Cloud, Apr. 4, 2011)  i485 
-* 646  TBecker, Josua.  10 most important things to simply your life.  Becoming minimalist, 2012.  k.  via [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).   i484 
+* 646  Bruce Lee's top 20 tips for living a successful life.  PDF file via USB.  File name: 10094.pdf.  DBID 10094.  (IN Wake Up Cloud, Apr. 4, 2011)  i485 
+* 646  Becker, Josua.  10 most important things to simply your life.  Becoming minimalist, 2012.  k.  via [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).   i484.  Notes avail.
 * 647  Babauta, Leo.  Focus : a simplicity manifesto in the age of distraction.  [S.l., s.n., 2010?]  k.  via [www](http://drive.google.com.  i486 
 * 647  Estrada, Jessica.  Five mindful habits that lead to a minimalist home.  ApartmentTheorapy.com, 2020.  [www](https://www.apartmenttherapy.com/5-mindful-habits-that-lead-to-a-minimalist-home-238768).  d1782 
-* 647  Jabr, Ferris.  Why your brain needs more downtime.  scientiticamerican.com, 2013.  HTML file via [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime).   i487 
+* 647  Jabr, Ferris.  Why your brain needs more downtime.  scientiticamerican.com, 2013.  HTML file via [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime).   i487.  Notes avail.
 * 647  Tomsky, Jacob.  Heads in beds.  n.p. n.d.  v.   i1491  2016-03. Grade C
 * 648  Singh, Kate.  The homemade housewife: the last book you will ever need on homemaking and frugal living.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B071HF9C9M).  i488 
-* 650  Anon.  12 outstanding personality traits of a great boss.  [s.l., n.d.]  HTML file via [www](http://www.officevibe.com/blog/infographic-great-boss).  Title from homepage viewed Mon 06/28/2021.  i495 
-* 650  Charlier, Mailys.  Developing your career strategy, tr. by Rebecca Neal.  50minutes.com, c2017.  elecronic resource via [www](https://www.hoopladigital.com/play/13056250)  ISBN 9782808000390.  DBID 20210915_0737.   i489 
+* 650  12 outstanding personality traits of a great boss.  [s.l., n.d.]  HTML file via [www](http://www.officevibe.com/blog/infographic-great-boss).  Title from homepage viewed Mon 06/28/2021.  i495 
+* 650  Charlier, Mailys.  Developing your career strategy, tr. by Rebecca Neal.  50minutes.com, c2017.  elecronic resource via [www](https://www.hoopladigital.com/play/13056250)  ISBN 9782808000390.  DBID 20210915_0737.   i489.  Notes avail. 
 * 650  Dragon, Debbie.  Organized year, The.  PDF file, 1.4 MB.  via [www](https://drive.google.com).  IN Wise Bread.  (Jan. 3, 2013).  i491 
-* 650  Ellefson, Lindsey.  How to take control of a micromanaging boss.  lifehacker.com, n.d.  HTML file via [www](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589)  IN Lifehacker.  (Oct. 13, 2021)   i492 
+* 650  Ellefson, Lindsey.  How to take control of a micromanaging boss.  lifehacker.com, n.d.  HTML file via [www](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589)  IN Lifehacker.  (Oct. 13, 2021)   i492.  Notes avail. 
 * 650  Khoo, Christopher S.G.  How users organize electronic files on their workstations in the office environment, [by] Christopher S.G. Khoo, Brendan Luyt, Caroline Ee ... [et al.]  MHT file via USB.  File name: (1688.mht).  DBID 1688.  (IN Information Research, vol. 11, no. 2, Jan. 2007)  i493 
 * 651  Saffady, William.  Records and information management.  Lenexa, Kansas : ARMA International, c2004.  x, 218 p.  ISBN 1931786178  i496 
 * 651.5  Recommended record retention periods for business records.  n.p. n.d.  PDF file, 21 KB.  via [www.](https://drive.google.com).  i497 
-* 657  Becker, Joshua, ed.  Becoming minimalist.  online via [www](http://www.becomingminimalist.com/).   i499 
+* 657  Becker, Joshua, ed.  Becoming minimalist.  online via [www](http://www.becomingminimalist.com/).   i499.  Notes avail.
 * 657  Open University.  Introduction to bookkeeping and accounting.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/).  i498 
 * 658  Bowd, Thomas B., III.   The transformation of a doubting Thomas: growing from a cynic to a professional in the corporate world.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009I427LO).  i501  to_read
 * 658  Hay, Fraser J.  90 minute business plan.  Fraser J Hay, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EZ3QW6O).  i500 
@@ -531,8 +531,8 @@
 * 745  Moore, Kitty.  Trash To treasure.  n.p. 2015.  k.  via [www](https://read.amazon.com/?asin=B00X7VNQ7S).  i515 
 * 759  Lewis-Williams, David.  Deciphering ancient minds, David Lewis-Williams and Sam Challis.  n.p. n.d.  v.   i516  Read 2016-05. Grade B. Notes avail.
 * 771  Ritzenthaler, M.L.  Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson.  Chicago, Il : Society of American Archivists, c2006.  xvi, 529 p.  ISBN 1931666172  i517 
-* 779  Anon.  [Jim Berry looking through binoculars].  2014 May.  JPG file via USB.  DBID 3351.  i527 
-* 779  Anon.  [Photographs of Haley, Justin, and Shawn]  2015-2017.  JPG files in directory via USB.  7069.  i560 
+* 779  [Jim Berry looking through binoculars].  2014 May.  JPG file via USB.  DBID 3351.  i527 
+* 779  [Photographs of Haley, Justin, and Shawn]  2015-2017.  JPG files in directory via USB.  7069.  i560 
 * 779  Berry, N.  [Photgraph of Shawn Lysik, Kathy, Jim Berry, Justin Lee Tyler, Colleen Tyler, Will, Jim Berry, Lynne, and Brian at Jim and Natalie Berry's house on Memorial day].  2013.  JPG file via USB.  File name: 3280.jpg.  DBID 3280.  i518 
 * 779  Berry, N.  [Photograph of Colleen Tyler in a Kayak on the Ipswich River].  [2013].  JPG file via USB.  File name: 3281.jpg.  DBID 3281.  i519 
 * 779  Berry, N.  [Photograph of Colleen Tyler, Jim Berry, and Justin Lee Tyler at Biolabs] / Natalie Berry.  2013.  JPG file via USB.   File name: 3276.jpg.  DBID 3276.  i520 
@@ -982,7 +982,7 @@
 * FIC  Anderson, John A.  JÃ¤ger journal.  John A. Anderson III, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D62QEXQ).  i790.  Notes avail. 
 * FIC  Anderson, M.T.  Feed.  n.p. n.d.  v.   i772  2017-11. Grade C
 * FIC  Andreas, Marie.  Glass gargoyle, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00V5JF4GA).  i789 
-* FIC  Anon.  Steampunk fairy tales.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01DHKEUXM).  i788 
+* FIC  Steampunk fairy tales.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01DHKEUXM).  i788 
 * FIC  Arenson, Daniel.  Heirs of Earth, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B077J7X6H7).  i791.  Read 2021-06. Grade C. Notes avail.
 * FIC  Arenson, Daniel.  Legacy of light, A..  Moonclipse, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00C43FYLQ).  i775 
 * FIC  Arenson, Daniel.  Memory of Earth, A.  Moonclipse, 2018.  k.  via [www](https://read.amazon.com/?asin=B077J8WH3B).  i776  2021-10. Grade C. Notes avail.
@@ -1259,7 +1259,7 @@
 * FIC  King, Sarah.  Forging zero.  Parasite Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BTKA42Y).  i1107 
 * FIC  Kingsley, Charles.  Water-babies / Charles Kingsley; Jessie Willcox Smith.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0058KS860).  i1109 
 * FIC  Klein, katie.  Guardian.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005E4I09K).  i1110 
-* FIC  Klune, T.J.  The house in the Cerulean sea.  Tor, 2020.  k.  i4  2022-04. Grade B. Grade Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage. 
+* FIC  Klune, T.J.  The house in the Cerulean sea.  Tor, 2020.  k.  i4.  Read 2022-04. Grade B. Notes avail. Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage. 
 * FIC  Kohlhagen, Derik.  Footsteps of Cain.  Derek Kohlhagen, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01HHRF15M).  i1111 
 * FIC  Konkoly, Steven.  Jakarta pandemic.  Stribling Media, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0047DX080).  i1112 
 * FIC  Kress, Nancy.  Tomorrow's kin.  N.Y., Tor, 2017.  367 p.   i1096  2020-07. Grade C. Aliens come to earth to warn us that it is about to go through a cloud of spores. 

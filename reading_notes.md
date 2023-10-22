@@ -3517,9 +3517,6 @@ Read 2014-09. Grade B. -r
 > Short-term als help us determine each stage of our lives and experience it completely. Long-term goals give us perspective and continuity... Our goals should be entirely personal... There is only one universal goal: a gracious death with no regrets. -240.
 > Therefore, tuning ourselves to Tao is the basic task. 
 
-## i311.txt 
-> Read 2012-04. -r 
-
 ## i312.txt 
 > Read 2016-08. Grade B. -r
 > Financial independence can lead to isolation, and isolation can put people at a greatly increased risk of depression and suicide. -p. 91 -q
@@ -4188,9 +4185,6 @@ N1  - whether he can access a church that teaches him lessons of Christian love,
 > PROFUNDITY, noun:
 > intellectual depth; penetrating knowledge; keen insight; etc -q 
 
-## i420.txt 
-> Read 2021-06. Grade C. -r 
-
 ## i423.txt 
 > Read 2020-08. Grade D -r
 > Geologists say that ther ehave been at least four major ice ages spanning the Earth's dynamic past. The most recent glaciation started about three million years ago in parts of Canada, northern Europe, and Asia. -p. 8 -q
@@ -4208,9 +4202,6 @@ N1  - whether he can access a church that teaches him lessons of Christian love,
 > The adult life of an insect is not a long one, generally about a month. -p. 46 -q
 > The great horned owl is one of the first birds to nest and will lay its eggs as early as January despite a snow-covered landscape. -p. 84 -q
 > ... life span [of the fox] is sadly brief, only four to five years. Predation and competition for resources are the main cause. -p. 98 -q 
-
-## i425.txt 
-> Read 2011-10. -r 
 
 ## i432.txt 
 > Nothing is inherently unscientific about using improvised measures, as long as they are accessible, appropriate, and assured. -p. 21 -q
