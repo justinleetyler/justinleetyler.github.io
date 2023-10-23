@@ -4,7 +4,7 @@
 * 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
 * 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).   i12 
 * 001  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  Lond. 1852.  html via [www](https://www.gutenberg.org/files/24518/24518-h/24518-h.htm).  i15 
-* 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.   i10.  2016-04. C
+* 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.   i10.  Read 2016-04. Grade C.
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
 * 002  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  Daily.  i20 
 * 002  Openstax.  n.p. c2021.  [w.](https://openstax.org/).  i22 
@@ -88,7 +88,7 @@
 * 025.4  Delta College. Library.  Outline of the Library of Congress Classification system.  [University Center, Mich. : Delta College, n.d.]  DOC file.  via USB.  File name: 1690.doc.  i99 
 * 025.5  Redford Township District Library.  [Michicard Letter].  Redford, MI : RTDL, 2007.  PDF file.  via USB. File name: 7022.pdf.  i100 
 * 025.8  Casey, Mike and Bruce Gordan.  Sound directions : best practices for audio preservation.  [n.p.], c2007.  PDF file.  via [www](https://drive.google.com).  i101 
-* 027  Casson, Lionel.  Libraries in the ancient world.  New Haven : Yale University Press, c2001.  xii, 177 p.  ISBN 0300088094.  i102  2011-10  
+* 027  Casson, Lionel.  Libraries in the ancient world.  New Haven : Yale University Press, c2001.  xii, 177 p.  ISBN 0300088094.  i102.  Read 2011-10. Notes avail.  
 * 027  Duff, Wendy.  Finding and using archival resources.  PDF file.  via USB. File name: 10065.pdf.  DBID 10065.  ISSN 0318-6954.  IN Archicaria.  No. 58 (Aug. 1, 2004)  i103 
 * 027  Evans, Joanne and Nadav Rouche.  Utilizing systems development methods in archival systems.  PDF file.  via USB. File name: 10066.pdf.  DBID 10066.  DOI 10.1007/s10502-005-2598-4.  IN Archival Science.  Vol. 4 (2004)  i104 
 * 027  Fredriksson, Berndt.  Postmodernistic archival science.  PDF file.  via USB. File name: 10068.pdf.  DBID 10068.  IN Archival Science.  Vol. 3 (2003)  i105 
@@ -1200,7 +1200,7 @@
 * FIC  Hardy, Thomas.  Tess of the d’Urbervilles.  N.Y., Signet, 2006.  xxi + 407 p. 17 cm.  d2309221  to-read
 * FIC  Harris, R.J.  Starfall 1 : the beginning.  [S.n., 20--?].  k.  AISN B00IY2U9WK.  i1021 
 * FIC  Harris, T.R.  Human chronicles saga (Books One & Two).  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i1046 
-* FIC  Hautman, Pete.  Invisible.  n.p. n.d.  v.   i1025  2011-10 
+* FIC  Hautman, Pete.  Invisible.  n.p. n.d.  v.   i1025.  Read 2011-10. Notes avail. 
 * FIC  Hawthorne, Nathaniel.  Scarlet letter.  N.Y., Kaplan, 2006.  553 p. 18 cm.  v23082913 
 * FIC  Hayes, Griffen.  Primal shift, Part 1, a post apocalyptic thriller.  Trebor Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BUT3II6).  i1051 
 * FIC  Healey, David.  First voyage.  Intracoastal Media, 2012.  k.  i1029 
@@ -1215,7 +1215,7 @@
 * FIC  Hill, Liesel K.  Quantum entanglement.  Liesel K. Hill, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00F6643SI).  i1058 
 * FIC  Hill, Travis.  Big bhang.  Travis Hill, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01CCPAITI).  i1059 
 * FIC  Hinkens, Norma.  Immurement.  Dunecadia Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0197BHT1K).  (Undergrounders ; 1)  i1060 
-* FIC  Hobin, Robin.  Dragon haven.  New York, NY : HarperCollins, c2010.  527 p.  ISBN 9780061931413.  DBID 2917   i1032 
+* FIC  Hobin, Robin.  Dragon haven.  New York, NY : HarperCollins, c2010.  527 p.  ISBN 9780061931413.  DBID 2917   i1032.  Notes avail. 
 * FIC  Holmberg, D.K.  Festival of mourn.  ASH Publishing, 2021.  k.  via [www](https://read.amazon.com/?asin=B08X6RMXBH).   i1034 
 * FIC  Holroyde, Claire.  Effort.  N.Y., Grand Central Publishing, 2022.  364 p.  20 cm.  v23082910 
 * FIC  Hooke, Isaac.  Forever gate series: Books 1-5.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00COPUVJY).  i1061 
@@ -1242,12 +1242,12 @@
 * FIC  Jones, D.F.  Colossus.  Venture Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B015A2Z7ZU).  i1084 
 * FIC  Kaden, John.  Alexandria.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00AN19AUM).  i1087 
 * FIC  Kaine, Daniel A.  Jacinto's voyage.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B008CX0C8M).  i1098 
-* FIC  Kaine, Daniel A.  Jacinto's voyage. n.p. n.d.  v.   i1088  2014-02. Grade D
+* FIC  Kaine, Daniel A.  Jacinto's voyage. n.p. n.d.  v.   i1088.  Read 2014-02. Grade D. Notes avail.
 * FIC  Kalquist, Autumn.  Legacy.  Diapason Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B015799982).  i1099 
 * FIC  Kanaparti, Priya.  Dracian legacy.  n.p. n.d.  k.  i1100 
 * FIC  Kennedy, F.  Father unbound.  n.p., 2018.  k. 973 kb.  via [www](https://read.amazon.com/?asin=B07BZ5MJG1).  i977 
 * FIC  Kent, Jason.  New sky, eyes of the watcher.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D1REW3Y).  i1101 
-* FIC  Kenyon, Nate.  Day one.  St. Martin's Press, c2013.  289 p.  ISBN 978125013217.   i1090 
+* FIC  Kenyon, Nate.  Day one.  St. Martin's Press, c2013.  289 p.  ISBN 978125013217.   i1090.  Notes avail. 
 * FIC  Keohane, Daniel G.  Margaret's ark.  Other Road Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005BR27XA).  i1103 
 * FIC  Kephart, Carolyn.  Wysard.  Samarkand Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B002Y26QRS).  (Ryel saga ; 1)  i1104 
 * FIC  Kerley, Brian K.  Octagan key.  2nd ed.  Wolf & Sparrowhawk Wilderness Press, 2013.  k.  via [www](https://read.amazon.com].  ASIN B008G32CL8.  i1092 
@@ -1257,13 +1257,12 @@
 * FIC  King, Austin.  Nimbus : a steampunk novel (part one) / Austin King; B.J. Keeton.  [S.n., 20--].  k.  via [www](https://read.amazon.com).  AISN B007YJ5A82.  i1094 
 * FIC  King, B.J.  Nimbus, a steampunk novel / B.J. King ; Austin Keeton.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007YJ5A82).  i1108 
 * FIC  King, Sarah.  Forging zero.  Parasite Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BTKA42Y).  i1107 
-* FIC  Kingsley, Charles.  Water-babies / Charles Kingsley; Jessie Willcox Smith.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0058KS860).  i1109 
+* FIC  Kingsley, Charles.  Water-babies / Charles Kingsley; Jessie Willcox Smith.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0058KS860).  i1109.  Notes avail. 
 * FIC  Klein, katie.  Guardian.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005E4I09K).  i1110 
 * FIC  Klune, T.J.  The house in the Cerulean sea.  Tor, 2020.  k.  i4.  Read 2022-04. Grade B. Notes avail. Linus Baker, an orphanage caseworker, finds love while investigating Marsyas orphanage. 
 * FIC  Kohlhagen, Derik.  Footsteps of Cain.  Derek Kohlhagen, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01HHRF15M).  i1111 
 * FIC  Konkoly, Steven.  Jakarta pandemic.  Stribling Media, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0047DX080).  i1112 
-* FIC  Kress, Nancy.  Tomorrow's kin.  N.Y., Tor, 2017.  367 p.   i1096  2020-07. Grade C. Aliens come to earth to warn us that it is about to go through a cloud of spores. 
-* 
+* FIC  Kress, Nancy.  Tomorrow's kin.  N.Y., Tor, 2017.  367 p.   i1096.  Read 2020-07. Grade C. Notes avail. Aliens come to earth to warn us that it is about to go through a cloud of spores. 
 * FIC  Kristian Alva.  Dragon stone trilogy, The.  Defiant Pres International, n.d.  k.  via [www](https://read.amazon.com/?asin=B0131UEFOM).  Contents: Dragon Stones, Return of the Dragon Riders, Vosper's Revenge.  i786 
 * FIC  Kroese, Robert.  Dream of the Iron Dragon.  St. Culain Press, 2018.  k.  via [www](https://read.amazon.com/?asin=B078WLB2CR).  AISN B078WLB2CR.  DBID 20210916_215003.  i1097 
 * FIC  Kuijpers, Elaina Keighley.  Spacegate, deep space catastrophe.  lulu.com, [n.d.]  k.  via [www](https://read.amazon.com/?asin=1471652262).  i1113 
@@ -1273,7 +1272,7 @@
 * FIC  Lalonde, Randolph.  Spinward fringe, Broadcast 0, Origins.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004EPYUXA).  i1132 
 * FIC  Lamb, Lynn.  Beginning at the end of the World, a post-apocalyptic, dystopian series / Lynn Lamb.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00MOURK0W).  i1134 
 * FIC  Lamb, Lynn.  Monte Vista village, a post-apocalyptic, dystopian series / Lynn Lamb.  Lynn Lamb, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00HUHVWZS).  i1133 
-* FIC  Lamoreus, Daniel.  Apparition lake / ... [and] Doug Lamoreus.  Creativia, 2014.  k.   i1115  2017-05. Grade C
+* FIC  Lamoreus, Daniel.  Apparition lake / ... [and] Doug Lamoreus.  Creativia, 2014.  k.   i1115.  Read 2017-05. Grade C. Notes avail.
 * FIC  Langlois, Michael.  Bad radio.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005IHANGG).  i1116 
 * FIC  Larson, R.J.  Prophet.  Bethany House Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0073UPQQS).  i1135 
 * FIC  Laurent, Peter.  Covert Academy.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00B95YRQ8).  i1136 
@@ -1287,12 +1286,12 @@
 * FIC  Lewis, Ron.  Ambush at Kansas City.  Red Kitty's Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M5M3S6Y).  i1121 
 * FIC  Lindblom, Tony.  Spark of imagination.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B07JL5XPQT).  i1142 
 * FIC  Linn, Eugene.  Red dot, contact.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B017TRSD46).  i1141 
-* FIC  Litore, Stant.  Ansible 15715, Season 1, episode 1.  Westmarce Publishing, c2014.  k.   i1123  2016-10. Grade D
-* FIC  Llywelyn, Morgan.  The greener shore.  New York : Ballantine, c2006.  301 p.  ISBN 9780345477668.   i1124  2011-10. Grade B
+* FIC  Litore, Stant.  Ansible 15715, Season 1, episode 1.  Westmarce Publishing, c2014.  k.   i1123.  Read 2016-10. Grade D. Notes avail.
+* FIC  Llywelyn, Morgan.  The greener shore.  New York : Ballantine, c2006.  301 p.  ISBN 9780345477668.   i1124.  Read 2011-10. Grade B. Notes avail.
 * FIC  London, Jack.  Adventure.  Kypros Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01708ZV9E).  i1125 
 * FIC  Lopez, Rob.  Solar storm.  [S.n.], 2017.  k.  via [www](http://www.amazon.com).  i1126 
 * FIC  Lost lore.  1st ed.  Terrible Ten, 2018.  k.  via [www](https://read.amazon.com/?asin=B078YH28M6).  i1127 
-* FIC  Lowry, Lois.  Lois Lowry.  Houghton Mifflin Harcourt, 1993.  225 p.  ISBN 9780554336261.   i1129  2015-09. Grade B
+* FIC  Lowry, Lois.  Lois Lowry.  Houghton Mifflin Harcourt, 1993.  225 p.  ISBN 9780554336261.   i1129.  Read 2015-09. Grade B. Notes avail.
 * FIC  Lozito, Ken.  Star shroud.  Acoustical Books LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01C9AKYT0).  i1143 
 * FIC  Lukeman, Alex.  Lance.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0087458M6).  i1144 
 * FIC  Lukeman, Alex.  White jade.  Alex Lukeman, [n.d.]  k.  via [www](https://read.amazon.com/?asin=_rw_ca_1).  i1145 
@@ -1325,7 +1324,7 @@
 * FIC  Mayes, L.M.  Dark days.  BB Books, 2013.  k.  AISN B00BNZDOFE.  i1156 
 * FIC  Mazurek, George.  City of Wizards.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00OPBURQC).  i1200 
 * FIC  McAfee, Stephanie.  Ace Jones, misadventures in a winter wonderland.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00HA360U4).  i1158 
-* FIC  McCarthy, Cormac. Road, The. 1st Vintage International ed. N.Y., Vintage International, [2009].  287 p. 21 cm.  v1160 
+* FIC  McCarthy, Cormac. Road, The. 1st Vintage International ed. N.Y., Vintage International, [2009].  287 p. 21 cm.  i1160.  Notes avail. 
 * FIC  McCarthy, Ingrid.  Black pearl of Osis.  n.p. n.d..  k.  via [www](https://read.amazon.com).  i1159 
 * FIC  McDonald, D.R.  Cape Breton road.  1st ed.  New York : Harcourt, c2000.  288 p.  ISBN 0151005230   i1162  2011-10  
 * FIC  McDonald, M.P.  Infection.  MPMcD Publishing, 2016.  k.  AISN B01FYBBC2Y.  i1163 
@@ -1341,12 +1340,12 @@
 * FIC  Miles, Ryan.  Void succession : battles won.  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i1217 
 * FIC  Miller, Anthony.  What would satan do?  Brother Maynard Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005MKZEJ0).  i1218 
 * FIC  Miller, John Jackson.  Precipice.  [S.l.] : LucasBooks, 2009.  v.  DBID 3045  i1175 
-* FIC  Miller, Rand.  Myst : the book of Atrus / [by] Rand and Robyn Miller; with David Wingrove.  New York : Hyperion, c1995.  422 p.  ISBN 0786881887.  DBID 3101   i1172 
-* FIC  Miller, Rand.  Myst, the book of Ti'ana, with David Wingrove.  1st ed.  Hyperion, c1996.  322 p.  ISBN 0786861606.   i1173  2013-10. Grade C 
+* FIC  Miller, Rand.  Myst : the book of Atrus / [by] Rand and Robyn Miller; with David Wingrove.  New York : Hyperion, c1995.  422 p.  ISBN 0786881887.  DBID 3101   i1172.  Read 2013-10. Grade C. Notes avail. 
+* FIC  Miller, Rand.  Myst, the book of Ti'ana, with David Wingrove.  1st ed.  Hyperion, c1996.  322 p.  ISBN 0786861606.   i1173.  Read 2013-10. Grade C. Notes avail. 
 * FIC  Mills, Becca.  Nolander.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007R6PPZA).  i1215 
 * FIC  Milton, Crain.  Dragon egg curse.  Two Black Mugs Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00B4CPY0Y).  i1216 
 * FIC  Minkman, Jen.  The island.  n.p. n.d.  k.  i1219  2013-12. Grade C
-* FIC  Mitchell, J. Baron.  Midnight city.  Thomas Dunn Books, c2012.  392 p.  ISBN 9781250036285.   i1177 
+* FIC  Mitchell, J. Baron.  Midnight city.  Thomas Dunn Books, c2012.  392 p.  ISBN 9781250036285.   i1177.  Notes avail. 
 * FIC  Moan, Lee.  Symbiosis.  Weird New Ink, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004QTORAA).  i1220 
 * FIC  Mohraman, Travis.  Humid.  DeadPixel Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00UK4E5BQ).  i1221 
 * FIC  Mone, Patrick E.  Petrol bomb of love.  North Haven, CT., 2023.  251 p. 20 cm.  v23082912 
@@ -1357,7 +1356,7 @@
 * FIC  More, Ranjit.  Underworld king, The.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00H8CZD50).  i1226 
 * FIC  Morgan, Andrew J.  Noah's ark.  n.p. 2013.  k. 3348 kb.  via [www](https://read.amazon.com/?asin=B00GMTKFIA).  i1225 
 * FIC  Mountjoy, G.R.  3 years after. k.  i1180 
-* FIC  Mullin, Mike.  Ashen winter. n.p. n.d.  v.   i1181  2013-07. Grade C
+* FIC  Mullin, Mike.  Ashen winter. n.p. n.d.  v.   i1181.  Read 2013-07. Grade C. Notes avail.
 * FIC  Mullin, Mike.  Ashfall.  Tanglewood, 2011.  466 p.  ISBN 9781933718552.   i1182  2013-03. Grade C
 * FIC  Neal, Donavan.  The third heaven.  Torn Veil, 2014.  k. 2283 kb.  via [www](https://read.amazon.com/?asin=B00FD09LE8).  i1237  2014-11. Grade C
 * FIC  Nelson, Resa.  Dragonfly, Eric Wilder, ill.  n.p., 2015.  k. 2342 kb.  via [www](https://read.amazon.com/?asin=B00SZDIGYG).  (Dragonfly series; 1).  i1238  2018-05. Grade C
@@ -1581,7 +1580,7 @@
 * FIC  Willis, Sarah.  Some things that stay.  n.p. n.d.  v.   i1444  2011-10  
 * FIC  Willows, Brittany M.  Calypsis project.  Brittany M. Willows, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00HG0B07Y).  i1469 
 * FIC  Wilson, Jennifer.  New world rising.  Oftomes Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B018RMI6A8).  i1468 
-* FIC  Wilson, John S.  Joshua.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007S0DMT6).  i1048  2014-03. Grade C                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    * FIC  Windhalm, Nic.  Tenth order.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EO3I4Q6).  i1464  2013-11. Grade C
+* FIC  Wilson, John S.  Joshua.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007S0DMT6).  i1048  2014-03. Grade C                                    * FIC  Windhalm, Nic.  Tenth order.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EO3I4Q6).  i1464  2013-11. Grade C
 * FIC  Wood, Aderyn.  Journey.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00KKZUF5A).  (The borderlands ; 1)  i1470 
 * FIC  Wright, Iain Rob.  Ravage.  SalGad Publishing Group, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D3MSDSS).  i1471 
 * FIC  Yanez, Jonathan.  Decadia code / Jonathan Yanez, Apryl Baker.  Limitless Publishing, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LVXG3RU).  i1473 
@@ -1594,7 +1593,7 @@
 * Fic  St. Clare, Kelly.  Retreat.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JVN9LCY).  i909 
 * LG+  Argent, Jay.  Fairmont boys series. 2nd ed.  Jay Argent Books, 2018.  k. 2947 kb.  via [www](https://read.amazon.com/).  Contents: Swimmer boy  I am not gay.  You are not my son.  Death of a good guy.  Best friends forever.  i778.  Read 2018-05. Grade B. Notes avail.
 * LG+  Fox, Mika.  Just stay.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00NC73O1K).   i763.  Read 2018-05. Grade B. Notes avail. 
-* LG+  Mastbaum, Blair.  Clay's way.  Los Angeles : Alyson Books, 2004.  246 p.  ISBN 1555838197   i1155   2011-10. Grade B
+* LG+  Mastbaum, Blair.  Clay's way.  Los Angeles : Alyson Books, 2004.  246 p.  ISBN 1555838197   i1155.  Read 2011-10. Grade B. Notes avail.
 * LG+  Mastbaum, Blair.  Us ones in between.  MERC books, 2011.  k.  i1154 
 * LG+  Nevada, P.J.  A princely affair.  n.p. n.d.  k.   i1228  2022-06. Grade C.   The prince of Wales falls for an American in NJ.
 * LG+  Nevada, P.J.  Sunrise in the Afternoon.  n.p. n.d.  k.   i1229 
@@ -1645,18 +1644,18 @@
 * SCI  Forkey, Elizabeth.  Infectious.  3rd rev. ed.  Entrada Publishing, 2014.  k. 744 kb.  via [www](https://read.amazon.com/?asin=B00L4MS50A).  i972 
 * SCI  Gockel, C.F.  Star rebels / C Faye Gockel, Christine Pope, Anthea Sharp, [et al.].  n.p., 2016.  k. 790 kb.  via [www](https://read.amazon.com/?asin=B01H7J5Z38).  i965 
 * SCI  Golding, William.  Lord of the flies.  N.Y, Penguin, [1954].  219 p. 19 cm.  v2308292 
-* SCI  Goodkind, Terry.  Wizard's first rule.  RosettaBooks, n.d.  k.  via [www](https://read.amazon.com/?asin=B00433TO4I).  i1007  2016-10. Grade B
+* SCI  Goodkind, Terry.  Wizard's first rule.  RosettaBooks, n.d.  k.  via [www](https://read.amazon.com/?asin=B00433TO4I).  i1007.  Read 2016-10. Grade B. Notes avail.
 * SCI  Harmon, Casey Sean.  Rev. ed.  Thousand year voyage.  Amazon Kindle, 2012.  k. 581 kb.  via [www](https://read.amazon.com/?asin=B009ED23PY).  i1050 
-* SCI  Hartley, Taylor.  The penkeepers.  n.p. 2014.  k. 2126 kb.  via [www](https://read.amazon.com/?asin=B00GA2WKR8).  i1048 
-* SCI  Hawks, John Twelve.  The traveler.  N.Y., Doubleday, 2005.  456 p.   i1026  2012-09  
-* SCI  Herbert, Brian.  Sisterhood of dune.  New York : Tor, 2012.  496 p.  ISBN 0765322730. DBID 3147.  i1031 
-* SCI  Herbert, Frank.  Dune.  Berkley, c1965.  535 p.   i1030 
-* SCI  Hobb, Robin.  Dragon keeper.  N.Y., Eos, 2010.  xiii, 473 p.  i1033  2012-03   
+* SCI  Hartley, Taylor.  The penkeepers.  n.p. 2014.  k. 2126 kb.  via [www](https://read.amazon.com/?asin=B00GA2WKR8).  i1048.  Notes avail. 
+* SCI  Hawks, John Twelve.  The traveler.  N.Y., Doubleday, 2005.  456 p.   i1026.  Read 2012-09. Notes avail.  
+* SCI  Herbert, Brian.  Sisterhood of dune.  New York : Tor, 2012.  496 p.  ISBN 0765322730. DBID 3147.  i1031.  Notes avail. 
+* SCI  Herbert, Frank.  Dune.  Berkley, c1965.  535 p.   i1030.  Notes avail. 
+* SCI  Hobb, Robin.  Dragon keeper.  N.Y., Eos, 2010.  xiii, 473 p.  i1033.  Read 2012-03. Notes avail.
 * SCI  Hooke, Isaac.  Bug hunt.  n.p. 2017.  k. 2301 kb.  via [www](https://read.amazon.com/?asin=B06WVQD6QR).  (Argonauts; 1).  i1035 
 * SCI  Howey, Hugh.  Beacon 23.  n.p. n.d.   v.   i1036  2020-02. Grade E
 * SCI  Ingram, Dennis.  Foothold.  Imaginative Possibilities, 2014.  k. 1615 kb.  via  [www](https://read.amazon.com/?asin=B00PXXEWA8).  (Foothold ; 1).  i1071  2011-10  
 * SCI  Iovino, Lou.  Data mine.  [U.S.?], LAB Press, 2022. k. 1212 KB.  i2309074 
-* SCI  James, P.D.  The children of men.  Vintage books, 1992.   241 p.  i1074  2014-01. Grade C
+* SCI  James, P.D.  The children of men.  Vintage books, 1992.   241 p.  i1074.  Read 2014-01. Grade C. Notes avail.
 * SCI  Jones, Ethan.  Arctic wargame.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0084FH6M8).  i1075 
 * SCI  Knight, E.E.  Dragon strike. N.Y., Roc, 2008.  353 p.  (The age of fire ; 4).  d1791 
 * SCI  Kraus, Daniel.  1st ed.  N.Y. : Henry Holt and Co., 2020.  291 p. 22 cm.  ISBN: 9781250151674.  i1707 
