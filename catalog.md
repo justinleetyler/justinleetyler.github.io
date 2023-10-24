@@ -1,16 +1,16 @@
-* 001  1 MB club.  s.n., n.d.  [w.](https://1mb.club/).  i16 
-* 001  Lifehacker.  Gizmodo Media Group, c2017.  [w.](http://www.lifehacker.com).  Daily.  i14 
+* 001  1 MB club.  s.n., n.d.  [via www](https://1mb.club/).  i16 
+* 001  Lifehacker.  Gizmodo Media Group, c2017.  [via www](http://www.lifehacker.com).  Daily.  i14 
 * 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
 * 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
-* 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).   i12 
+* 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).   i12.  Notes avail. 
 * 001  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  Lond. 1852.  html via [www](https://www.gutenberg.org/files/24518/24518-h/24518-h.htm).  i15 
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.   i10.  Read 2016-04. Grade C.
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
-* 002  Kindle Buffet.  n.p. n.d.  [w.](http://www.weberbooks.com/kindle/)  Daily.  i20 
-* 002  Openstax.  n.p. c2021.  [w.](https://openstax.org/).  i22 
-* 002  eBooks habit.  n.p. c2012.  [w.](ebookshabit.com)  Daily.  i18 
-* 002  Free kids books.  U.S.? 2021.  [w.](https://freekidsbooks.org/).  i19 
-* 002  Lyons, Rebecca E.  Academic Book of the Future, [w.] Rayner, Samantha J.  U.S.? 2016.  k.  via [www](https://read.amazon.com).  i21 
+* 002  Kindle Buffet.  n.p. n.d.  [via www.](http://www.weberbooks.com/kindle/)  Daily.  i20 
+* 002  Openstax.  n.p. c2021.  [via www.](https://openstax.org/).  i22 
+* 002  eBooks habit.  n.p. c2012.  [via www.](ebookshabit.com)  Daily.  i18 
+* 002  Free kids books.  U.S.? 2021.  [via www.](https://freekidsbooks.org/).  i19 
+* 002  Lyons, Rebecca E; Rayner, Samantha J.  Academic book of the future.  U.S.? 2016.  k.  i21 
 * 002  University of Minnesota.  Open textbook library.  The author, [202-?]  [w.](https://open.umn.edu/opentextbooks/).  i23 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  PDF via USB. i24 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
@@ -109,24 +109,24 @@
 * 091  [2016 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 3359.  DBID 3359.  x121 
 * 091  [eMail, 2013 Jan. 10, Mich. to Justin Lee Tyler, Ipswich, Mass. / Rex Dotson].  [2013].  TXT file.  via USB. File name: 3246.txt.  i114 
 * 091 [2020 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 10142.  DBID 10142.  x122 
-* 100  Kellogg, Michael K.  Three questions we never stop asking / Michael K. Kellogg.  Amherst, N.Y. : Prometheus Books, 2010.   282 p.  ISBN 9781616141868.  DBID 3145.   i123 
-* 100  Samuelson, Scott.  The deepest human life.  Chicago and London: The University of Chicago Press, c2014.  xiv, 216 p.  ISBN 9780226130385.   i124  2015-10. Grade B
-* 113  Swimme, Brian.  The hidden heart of the cosmos.  Orbis Books, c1996.  x, 115 p.  ISBN 1570750580.   i125 
+* 100  Kellogg, Michael K.  Three questions we never stop asking / Michael K. Kellogg.  Amherst, N.Y. : Prometheus Books, 2010.   282 p.  ISBN 9781616141868.  DBID 3145.   i123.  Notes avail. 
+* 100  Samuelson, Scott.  The deepest human life.  Chicago and London: The University of Chicago Press, c2014.  xiv, 216 p.  ISBN 9780226130385.   i124.  Read 2015-10. Grade B. Notes avail.
+* 113  Swimme, Brian.  The hidden heart of the cosmos.  Orbis Books, c1996.  x, 115 p.  ISBN 1570750580.   i125.  Notes avail. 
 * 128  Fulghum, Robert.  All I really need to know I learned in kindergarden.  25th anniversary ed.  Ballantine books, c2003.  EPUB file.  via USB. File name: 3355.epub.  ISBN 9780345479105.  i126 
-* 133  Cunningham, Scott.  Wicca.  Woodbury, Minnesota : Llewellyn Publications, c2004.  xiv, 239 p.  ISBN 9780875421186   i128  2012-04
+* 133  Cunningham, Scott.  Wicca.  Woodbury, Minnesota : Llewellyn Publications, c2004.  xiv, 239 p.  ISBN 9780875421186   i128.  Read 2012-04. Notes avail.
 * 133  Evans, Max and Maria.  In the land of broken time. 2nd ed.  The authors, 2016.  k. 18065 kb.  via [www](https://read.amazon.com/?asin=B01JM4FG6C).  i127 
 * 133  Farrell, Drea.  Wicca.  n.p. 2016.  k. 6566 kb.  via [www](https://read.amazon.com/?asin=B01D3SGLMG).  i129 
 * 135  Weed, Joseph J.  Wisdom of mystic masters.  West Nyack, N.Y., Parker Pub. Co., c1968.  xii + 208 p. 21 cm.
-* 142  Panza, Christopher and Gregory Gale.  Existentialism for dummies.  Hoboken, NJ : Wiley Publishing, c2008.  xvi, 366 p.  ISBN 9780470276990   i130 
-* 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators.  HTML file.  via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).   i131 
+* 142  Panza, Christopher and Gregory Gale.  Existentialism for dummies.  Hoboken, NJ : Wiley Publishing, c2008.  xvi, 366 p.  ISBN 9780470276990   i130.  Notes avail. 
+* 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators.  HTML file.  via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).   i131.  Notes avail. 
 * 150  Spielman, Rose M.  Psychology.  Houston, TX, Openstack, [2017]  k.  2304191 
-* 150  Winfrey, Sarah.  29 scientifically proven ways to be happy this year.  n.p. n.d.  HTML file.  via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).  IN: Wisebread.com, 2014.  i132 
-* 152  12 rituals happy, successfull people practice every day.  n.p. n.d.  HTML file.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139 
+* 150  Winfrey, Sarah.  29 scientifically proven ways to be happy this year.  n.p. n.d.  HTML file.  via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).  IN: Wisebread.com, 2014.  i132.  Notes avail. 
+* 152  12 rituals happy, successfull people practice every day.  n.p. n.d.  HTML file.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139.  Notes avail. 
 * 152  Brodie, Paul.  Just do it : ten ways to help increase mahttps://getpocket.com/explore/item/8-rules-to-do-everything-betterking your dreams and goals a reality.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N753SGS).  i133 
 * 152  Kohn, Sally.  The opposite of hate.  Reprint ed.  Algonquin Books, 2018.  k. 923 kb.  via [www](https://read.amazon.com/?asin=B075G4W7VF).  i135 
-* 152  Luther, Kate.  7 ways to get your life back into balance.  wisebread.com, 2014.  w.   i136 
-* 152  Michael, Paul.  10 mantras that will transform your life.  wisebread.com, 2013.  HTML file.  via [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).   i137 
-* 152  Stulberg, Brad.  8 rules to do everything better.  [n.p., 2021?].  HTML file.  via [www]().  i138 
+* 152  Luther, Kate.  7 ways to get your life back into balance.  wisebread.com, 2014.  w.   i136.  Notes avail. 
+* 152  Michael, Paul.  10 mantras that will transform your life.  wisebread.com, 2013.  HTML file.  via [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).   i137.  Notes avail. 
+* 152  Stulberg, Brad.  8 rules to do everything better.  [n.p., 2021?].  HTML file.  via [www]().  i138.  Notes avail. 
 * 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  [n.p], c2010.  PDF file, 574 KB.  via [www.](http://drive.google.com).  i140 
 * 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Why you learn more effectively by writing then typing / Melanie Pinola.  lifehacker.com, 2011.  HTML file.  via [www](http://www.lifehacker.com/5738093).   i142 
@@ -1035,7 +1035,7 @@
 * FIC  Brooks, Terry.  Druid of Shannara.  n.p. n.d.  v.  i1741  2005-03  
 * FIC  Brooks, Terry.  Elfqueen of Shannara.  n.p. n.d.  v.  i1742  2005-04  
 * FIC  Brooks, Terry.  Elves of Cintra.  n.p. n.d.  v.   i821.  Read 2015-04. Grade C. Notes avail.
-* FIC  Brooks, Terry.  Fall of Shannara, The.  n.p. n.d.  v.   i1290  2018-08. Grade C
+* FIC  Brooks, Terry.  Fall of Shannara, The.  n.p. n.d.  v.   i1290.  Read 2018-08. Grade C. Notes avail.
 * FIC  Brooks, Terry.  First king of Shannara.  1st ed.  New York : Ballantine Books, 1996.  489 p.  ISBN 0345396529   i816  Read 2019-09, 2011-12, and 2002-11. Grade C. Notes avail.
 * FIC  Brooks, Terry.  Genesis of Shannara.  Ballantine Books, c2007.  379 p.  ISBN 978034484116.   i817.  Read 20?? Notes avail. 
 * FIC  Brooks, Terry.  Measure of the magic, The.  1st ed.  New York : Ballantine Books, c2011.  383 p.  ISBN 9780345484208.  DBID 1867.   i822.  Read 2011-11. Notes avail.  
@@ -1390,38 +1390,38 @@
 * FIC  Peebles, Chrissy.  Rebellious.  [S.n.], 2017.  k.  via [www](https://read.amazon.com/?aisn=B0765ZNYPD).  i1254 
 * FIC  Pendleton, Paige W.  Keeper and the rune stone, The / Paige W. Pendleton; Thomas Block.  Pig Wing Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B009ZSWKG0).  i1272 
 * FIC  Penny, R.S.  Symbiosis.  n.p. n.d.  v.   i1255  2008-06. Grade C
-* FIC  Percy, Benjamin.  The dead lands.  New York; Boston : Grand Central Publishing, c2015.  403 p.  ISBN 9781455528240   i1257  2015-07. Grade C
+* FIC  Percy, Benjamin.  The dead lands.  New York; Boston : Grand Central Publishing, c2015.  403 p.  ISBN 9781455528240   i1257.  Read 2015-07. Grade C. Notes avail.
 * FIC  Peterfreund, Diana.  In the hall with the knife.  New York : Amulet Books, 2019.  298 p. 22 cm.  (A Clue mystery ; [#1])  ISBN: 9781419738340.  i1714 
-* FIC  Pfeffer, Susan Beth.  Life as we knew it.  Orlando : Harcourt, c2006.  337 p.  ISBN 0152058265.   i1258  2013-01  
+* FIC  Pfeffer, Susan Beth.  Life as we knew it.  Orlando : Harcourt, c2006.  337 p.  ISBN 0152058265.   i1258.  Read 2013-01. Notes avail.  
 * FIC  Pfeffer, Susan Beth.  The dead & the gone.  n.p. n.d.  v.   i1259  2013-01  
 * FIC  Pfeffer, Susan Beth.  This world we live in / Susan Beth Pfeffer.  HMH Books for Young Readers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B003WMAANU).  i1273  2013-02. Grade B
 * FIC  Pfitsch, Patricia Curtis.  Riding the flume.  New York : Aladdin Paperbacks, c2002.  viii, 232 p.  ISBN 0689866925.  i1261  2012-08  
-* FIC  Philbrick, Rodman.  The big dark.  Blue Sky Press, c2016.  178 p.  ISBN 9780545789752.   i1262  2016-03. Grade C
+* FIC  Philbrick, Rodman.  The big dark.  Blue Sky Press, c2016.  178 p.  ISBN 9780545789752.   i1262.  Read 2016-03. Grade C. Notes avail.
 * FIC  Picker, Lester.  First Pharaoh.  Aryeh Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B009DS4DB2).  i1274 
 * FIC  Piperbrook, T.W.  Contamination.  Post Script Publishing, [n.d.]  k.  i1275 
 * FIC  Pitts, Leonard, Jr.  Freeman.  Agate Bolden, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008164K6A).  i1085 
 * FIC  Platt, Sean.  Yesterday's gone: Season One / Sean Platt; David Wright.  Collective Inkwell, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005REXCKE).  i1276 
 * FIC  Poe, Edgar Allan.  Terrifying tales.  Simon & Schuster, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00QW8ZBDU).  i1277 
-* FIC  Pohl, Laura.  The last 8.  Sourcebooks Fire, 2019.  k. 4191 kb.  via [www](https://read.amazon.com/?aisn=B07JN75FZ6).   i1263  2020-08. Grade D. Grade A science fiction book about humanity caught in the warfare of two alien civizations. 
+* FIC  Pohl, Laura.  The last 8.  Sourcebooks Fire, 2019.  k. 4191 kb.  via [www](https://read.amazon.com/?aisn=B07JN75FZ6).   i1263.  Read 2020-08. Grade D. Notes avail. A science fiction book about humanity caught in the warfare of two alien civizations. 
 * FIC  Ponticello, Nicholas.  Maiden voyage of the destiny unknown.  Nicholas Ponticello, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01C2334GO).  i1278 
 * FIC  Poole, Jefferey.  Prophecy.  Hungry Griffin Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004LB4TL0).  i1279 
 * FIC  Quarles, Dylan James.  Ruins of Mars, waking Titan.  [Publisher not identified], [n.d.]  k.  via [www](https://read.amazon.com/).  i1284 
 * FIC  Quinn, Susan Kaye.  Legacy human.  Twisted Space, 2015.  k.  via [www](https://read.amazon.com/?asin=B00U1VKGSE).  i1281 
-* FIC  Quinn, Susan Kaye.  Open minds.  [S.n., 20--].  k.  via [www](https://read.amazon.com/?asin=B005Z1RRUU).   i1280  2014-08. Grade D
+* FIC  Quinn, Susan Kaye.  Open minds.  [S.n., 20--].  k.  via [www](https://read.amazon.com/?asin=B005Z1RRUU).   i1280.  Read 2014-08. Grade D. Notes avail.
 * FIC  Rain, J.R.  Lost ark.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0041T4FA2).  i1310 
 * FIC  Raine, J.R.; Anthony, Piers.  Worm returns.  Rain Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01B23U472).  i1311 
 * FIC  Rand, Ayn.  Anthem.  Seedbox Press, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0088THGXE).  i1287 
 * FIC  Ratcliffe, Alan.  Dawn of the dreamsmith.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01DS1S9DC).  i1313 
 * FIC  Rathbone, Brian.  Dawning of power.  Rutherfordton, N.C. : White Wolf Press, 2008.  k. 4140 kb.  via [www](https://read.amazon.com/?asin=B001LRQKA0).  (World of Godsland ; 1-3).  Contents: Call of the Herald  Interited danger  Dragon ore.  i1314 
 * FIC  Rathbone-Rex, Brian; Studios, T.  Call of the herald.  White Wolf Press, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B003ZUYQCA).  i1312 
-* FIC  Razevich, Alexes.  Shadowline drift.  Razor Street Publishing, 2014.  k.   i1289  2016-10. Grade C
+* FIC  Razevich, Alexes.  Shadowline drift.  Razor Street Publishing, 2014.  k.   i1289.  Read 2016-10. Grade C. Notes avail.
 * FIC  Razevich, Alexes.  Shadowline drift.  Razor Street Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00JEP2GBI).  i1315 
 * FIC  Redfield, James.  The secret of Shambhala.  N.Y. : Grand Central Publishing, c1999.  251 p.  ISBN 9780446676489.  d1781 
 * FIC  Reed, N.C.  Kid.  Creative Texts Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01ARAG0LU).  i1316 
 * FIC  Reeve, Philip.  Mortal engines.  Scholastic, c2001.  296 p.  ISBN 9781338201123.   i1291 
 * FIC  Reher, Chris.  Only human.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009QAIRT6).  i1317 
 * FIC  Reher, Chris.  Sky hunter.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EXV57LO).  i1318 
-* FIC  Reid, Ruthanne.  Sundered.  1st ed.  4th Floor Publication, c2012.  k.  via [www](https://read.amazon.com).  ISBN 9780985260019.   i1293  2013-12. Grade C
+* FIC  Reid, Ruthanne.  Sundered.  1st ed.  4th Floor Publication, c2012.  k.  via [www](https://read.amazon.com).  ISBN 9780985260019.   i1293.  Read 2013-12. Grade C. Notes avail.
 * FIC  Renae, Cameo.  ARV-3.  Crushing Hearts and Black Butterfly Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00GWTXJH4).  i1294 
 * FIC  Rice, Morgan.  A quest for heroes.  M. Rice, 2013.  k.  ASIN B00AFROVQC.  i1300 
 * FIC  Rice, Morgan.  Arena one.  n.p. n.d.  k.  i1301  2014-01. Grade C
@@ -1440,8 +1440,8 @@
 * FIC  Rollins, James.  Starless crown.  N.Y., Tor, 2021.  550 p. 24 cm.  i2307141 
 * FIC  Roquet, Angela.  Graveyard shift.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009M0ARH0).  i1327 
 * FIC  Roquet, Angela.  Graveyard shift.  [S.n.], 2014.  k.  AISN B009M0ARH0.  i1304 
-* FIC  Rothfuss, Patrick.  Name of the wind.  Dow Books, Inc., c2007.  722 p.  ISBN 9780756404741.   i1307 
-* FIC  Rothfuss, Patrick.  Wise man's fear.  Dow Books, c2011.  993 p.  ISBN 9780756404734.   i1308  2013-01  
+* FIC  Rothfuss, Patrick.  Name of the wind.  Dow Books, Inc., c2007.  722 p.  ISBN 9780756404741.   i1307.  Notes avail. 
+* FIC  Rothfuss, Patrick.  Wise man's fear.  Dow Books, c2011.  993 p.  ISBN 9780756404734.   i1308.  Read 2013-01. Notes avail.  
 * FIC  Rowling, J.K.  Casual vacancy.  n.p. n.d.  v.  i1528 
 * FIC  Rowling, J.K.  Harry Potter and the chamber of secrets.  N.Y. : Scholastic Inc., 1999.  2 MOBI files via USB.  2792a.mobi and 2792b.epub.  ISBN 9780439064864.   i1520-- 2017-03 and 2012-01. Grade B 
 * FIC  Rowling, J.K.  Harry Potter and the deathly hallows.  n.p. n.d.  v.   i1521  2017-04. Grade B
@@ -1595,12 +1595,12 @@
 * LG+  Fox, Mika.  Just stay.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00NC73O1K).   i763.  Read 2018-05. Grade B. Notes avail. 
 * LG+  Mastbaum, Blair.  Clay's way.  Los Angeles : Alyson Books, 2004.  246 p.  ISBN 1555838197   i1155.  Read 2011-10. Grade B. Notes avail.
 * LG+  Mastbaum, Blair.  Us ones in between.  MERC books, 2011.  k.  i1154 
-* LG+  Nevada, P.J.  A princely affair.  n.p. n.d.  k.   i1228  2022-06. Grade C.   The prince of Wales falls for an American in NJ.
-* LG+  Nevada, P.J.  Sunrise in the Afternoon.  n.p. n.d.  k.   i1229 
-* LG+  Nevada, P.J.  These Florida nights.  n.p. n.d.  k.   i1230  2018-05. Grade C
+* LG+  Nevada, P.J.  A princely affair.  n.p. n.d.  k.   i1228.  Read 2022-06. Grade C. Notes avail. The prince of Wales falls for an American in NJ.
+* LG+  Nevada, P.J.  Sunrise in the Afternoon.  n.p. n.d.  k.   i1229.  Notes avail. 
+* LG+  Nevada, P.J.  These Florida nights.  n.p. n.d.  k.   i1230.  Read 2018-05. Grade C. Notes avail.
 * LG+  Sanchez, Alex.  So hard to say.  n.p. n.d.  v.  i1333  2018-05. Grade B
-* LG+  St. Kevern, Gillian.  Biggest scoop.  n.p. n.d.  k.   i1353  2018-04. Grade C
-* LG+  Starr, D.H.  Meant for him.  Ai Press, 2014.  k.  AISN B00N23JJDG.   i1350  2018-05. Grade C
+* LG+  St. Kevern, Gillian.  Biggest scoop.  n.p. n.d.  k.   i1353.  Read 2018-04. Grade C. Notes avail.
+* LG+  Starr, D.H.  Meant for him.  Ai Press, 2014.  k.  AISN B00N23JJDG.   i1350.  Read 2018-05. Grade C. Notes avail.
 * MYS  Carlisle, Kate.  One book in the grave.  N.Y., Obsidian, 2012.  291 p. 18 cm.  v2308295 
 * MYS  Conte, Cate.  Cat about town.  N.Y., St. Martin's Paperbacks, 2017.  295 p. 17 cm.  (Cat cafe mystery ; 1).  2307201  2023-07. Grade C
 * MYS  Conte, Cate.  Purrder she wrote.  N.Y., St. Martin's Paperbacks, 2018.  310 p. 17 cm.  (Cat cafe mystery ; 2).  i2308151  2023-08. Grade C
@@ -1676,10 +1676,10 @@
 * SCI  Quinn, Matthew W.  Pressure suite / Matthew W. Quinn, William R. Eakin, Laura J. Campbell,  [et.al.]  Digital Science Fiction, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B016SEPGY6).  i1286 
 * SCI  Reine, S.M.  Starbound : eleven tales of interstellar adventure / S.M. Reine, Christine Pope, Anthea Sharp, [et. al.]  Fireweed Publishing Ltd, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BJ6EWQQ).  i1319 
 * SCI  Ross, Veronica.  Divergent.  n.p. n.d.  v.   i1303 
-* SCI  Ross, Veronica.  Insurgent.  k.  IN Ross, Veronica.  The Divergent Series.  Katherine Tegen Books, [20--]?.   i1306 
+* SCI  Ross, Veronica.  Insurgent.  k.  IN Ross, Veronica.  The Divergent Series.  Katherine Tegen Books, [20--]?.   i1306.  Notes avail. 
 * SCI  Roth, Veronica.  Divergent series complete collection.  Katherine Tegen Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BW3AY64).  Contents: Divergent  Insurgent  Allegiant.  i1328  2014-04. Grade C
-* SCI  Scalzi, John.  Collapsing empire.  N.Y. : Tor, 2017.  k.  via [w.](https://read.amazon.com/?aisn=B01F20E7CO).   i1335  2020-01. Grade C
-* SCI  Scalzi, John.  Last Emperox, The.  n.p. n.d.  k.  i1340  2020-08. Grade C
+* SCI  Scalzi, John.  Collapsing empire.  N.Y. : Tor, 2017.  k.  via [w.](https://read.amazon.com/?aisn=B01F20E7CO).   i1335.  Read 2020-01. Grade C. Notes avail.
+* SCI  Scalzi, John.  Last Emperox, The.  n.p. n.d.  k.  i1340.  Read 2020-08. Grade C. Notes avail.
 * SCI  Scalzi, John.  Old man's war.  Tor Books, 1997.  k.  via [www](https://read.amazon.com/reader?asin=B000SEIK2S).  i1739  2022-06. Grade C.   A science fiction novel. At the age of 75, John Perry joins the Colonial Defence Forces.
 * SCI  Scalzi, John.  The last colony.  N.Y. : Tor, c2007.  k.  (Old man's war ; 3).  d1778 
 * SCI  Sides, Ricky.  Peacekeepers, 1-3.  n.p. 2011.  k. 1309 kb.  via [www](https://read.amazon.com/?asin=B005NGKA2O).  i1378 
