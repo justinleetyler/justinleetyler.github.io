@@ -1,3 +1,6 @@
+* SCI  Penney, R.S.  Desa Kincaid, bounty hunter.  3rd ed.  n.p. 2019.  k. 3253 kb.  
+* WES  Young, T.  Westworld blood oath.  n.p. 2013.  k. 1068 kb.  
+* LG+  Savage, J.  Teo wants.  n.p. 2022.  k. 1060 kb.
 * 001  1 MB club.  s.n., n.d.  [via www](https://1mb.club/).  i16 
 * 001  Lifehacker.  Gizmodo Media Group, c2017.  [via www](http://www.lifehacker.com).  Daily.  i14 
 * 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
