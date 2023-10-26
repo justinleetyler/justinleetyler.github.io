@@ -6,7 +6,6 @@
 * 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
 * 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
 * 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).  i12.  Notes avail. 
-* 001  MacKay, C.  Memoirs of extraordinary popular delusions and the madness of crowds.  Lond. 1852.  html via [www](https://www.gutenberg.org/files/24518/24518-h/24518-h.htm).  i15 
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.  i10.  Read 2016-04. Grade C.
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
 * 002  Kindle Buffet.  n.p. n.d.  [via www.](http://www.weberbooks.com/kindle/)  Daily.  i20 
@@ -318,23 +317,22 @@
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
 * 299.5  Daoism.  file via USB.  Filename: 3309.pdf.  IN World religions reference library.  Cengage Learning, c2007.  i304.  Notes avail. 
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  i312  Read 2016-08. Grade B
-* 303  Johnson, Clay A.  Information diet.  Beijing, c2012.  O.  i313 
-* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  DBID 3014  i314  Read ? Notes avail 
+* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  i314.  Read ? Notes avail.
 * 305  Bands and tribes.  n.p. n.d.  v.  i320.  Notes avail. 
 * 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.  i321.  Notes avail. 
 * 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
-* 305  Diamond, Jared.  The world until yesterday.  Penguin Books, c2012.  xi, 498 p.  ISBN 9780143124405.  i317.  Read 2004-09. Grade C. Notes avail.
+* 305  Diamond, Jared.  World until yesterday.  Penguin Books, c2012.  xi + 498 p.; 22 cm.  ISBN 9780143124405.  i317.  Read 2004-09. Grade C. Notes avail.
 * 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.  i322.  Notes avail. 
 * 305  Odell, Jenny.  How to do nothing.  Brooklyn [c2019].  g.  i315 
 * 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.  i318.  Notes avail. 
 * 305  Veblen, Thorstein.  Theory of the leisure class.  Dover Publications, n.d.  k.  via [www](https://read.amazon.com/?asin=B00A73AIMA).  i319 
 * 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  n.p. c2012.  k. 448 kb.  via [www](https://read.amazon.com/?asin=B008BXVQU6).  i323 
-* 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.  i324  2005-11  
+* 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.  i324.  Read 2005-11. Notes avail.  
 * 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.  i325.  Notes avail. 
 * 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  n.p. 2015.  k. 1515 kb.  via [www](https://read.amazon.com/?asin=B00UCF3U0A).  i326 
-  * 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B. Notes avail.
+* 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B. Notes avail.
 * 310  United States. Central Intelligence Agency.  World factbook 2018-2019. Skyhorse, 2018.  k. 50484 kb.  DBID 3117.  i328 
-* 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  PDF, 14 MB via [www](https://drive.google.com/file/d/1EfVEek6iMLB7lNDW5otbI9kpqFlu9DYz/view?usp=sharing).
+* 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  g. 14 MB via [www](https://drive.google.com/file/d/1EfVEek6iMLB7lNDW5otbI9kpqFlu9DYz/view?usp=sharing).
 * 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  k. 5015 kb.  via [www](https://read.amazon.com/?asin=B005NE552G).  i342 
 * 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  g. 
 * 320  Canada.  Crown of maples, A.  2012 ed.  [Canada], [c2012].  g.  i340 
@@ -342,7 +340,7 @@
 * 320  Hain, Peter.  Outside in.  Lond., Biteback Pub., 2012.  k.  i338 
 * 320  Kazin, Michael.  American dreamers. N.Y. 2011.  O.  i330 
 * 320  Rawnsley, Andrew.  Servants of the people.  U.K. ed.  n.p. 2001.  k. 1745 kb.  via [www](https://read.amazon.com/?asin=B00390BDZE).  i335 
-* 320  Seldon, Anthony.  Brown at 10, [w.] Lodge, G.  n.p. 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
+* 320  Seldon, Anthony; Lodge, G.  Brown at 10.  n.p. 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
 * 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  i337.  Read 2022-02. Grade C. Notes avail.
 * 321  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)  i343.  Notes avail. 
 * 321  Inside story; [by University College Lond.]  [Lond.] 2011.  PDF, 172 KB.  g.
@@ -351,11 +349,11 @@
 * 321  Nozick, Robert.  Anarchy, state, and utopia.  Basic Books, n.d.  k.  i344 
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  via [www](https://www.gutenberg.org/ebooks/21006).  i333 
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  g.
-* 321  Seldon, Anthony.  Cabinet Office, 1916-2018; [w.] Meakin, J.  n.p. 2016.  k. 16371 kb.  seldon2016 
+* 321  Seldon, Anthony.  Cabinet Office, 1916-2018; [w.] Meakin, J.  n.p. 2016.  k. 16371 kb.  seldon2016. 
 * 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  S.  i345. [Notes avail.](https://justinleetyler.github.io/reading_notes#i345txt) 
 * 321  Streit, Clarence K.  Union now.  Lond. 1940.  g.  i346 
 * 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  g.  (In Parliamentary History, 21:2, 2002).  i347 
-* 321  Wexler, Jay.  Odd clauses.  Beacon Press, 2011.  k. 620 kb.  i348  2013-01  
+* 321  Wexler, Jay.  Odd clauses.  Bost. : Beacon Press, 2011.  k. 620 kb.  i348.  Read 2013-01.
 * 321  Whittle, Peter.  Monarchy matters.  n.p. 2011.  k. 501 kb.  via [www](https://read.amazon.com/?asin=B004ZH8K74).  i349 
 * 324  Hason, Medhi.  Ed.  n.p. n.d.  k.  i350 
 * 324  Heilemann, John; Halperin, M.  Game Change.  n.p. n.d.  v.  i353.  Read 2013-02. Grade B. Notes avail.
@@ -365,11 +363,11 @@
 * 327  Foner, Eric.  Second founding.  n.p. n.d.  k.  i355  2020-04. Grade C. 
 * 327  Vidal, Gore.  Dreaming war.  N.Y. 2002.  196 p.  d1785 
 * 328  U.K. House of Commons.  Rules of behaviour and courtesies... [Lond.] 2018.  g.
-* 330  Huber, Joseph.  Creating new money, [w.] Robertson, James.  Lond. n.d.  g.  i356 
+* 330  Huber, Joseph; Robertson, James.  Creating new money.  Lond. n.d.  g.  i356 
 * 330  Jantsch, John.  How to build a remarkable business by focusing on the total customer experience.  n.p. [2012]? PDF file via USB.  File name: (3126.pdf)  DBID 3126  i357 
 * 330  McKibben, Bill.  Deep economy.  N.Y. 2007.  O.  DBID 3111  i360 
-* 330  Mead, Walter Russell.  The one and future liberalism.  American Interest, 2012.  via www.  i358.  Notes avail. 
-* 330  Smith, Adam.  The Wealth of Nations, [into. by] Alan B. Krueger.  Xist Classics, 2015.  k. 1612 kb.  via [www](https://read.amazon.com/?asin=B00VHBIIVE).  i359 
+* 330  Mead, Walter Russell.  One and future liberalism.  American Interest, 2012.  via www.  i358.  Notes avail. 
+* 330  Smith, Adam.  The Wealth of Nations / Krueger, Alan B., intro.  n.p. : Xist Classics, 2015.  k. 1612 kb.  via [www](https://read.amazon.com/?asin=B00VHBIIVE).  i359 
 * 331  Hudson, Christopher.  Do you want fries with that.  n.p. 2005.  v.  ISBN 159316629.  i361.  Read 2011-10. Notes avail.  
 * 331  Lu, Heath.  Secrets to early retirement planning that generation X never learned: a 5 step-system for worry-free life.  n.d. 2021.  k. 3257 kb.  via [www](https://read.amazon.com/?asin=B097WL1N1Z).  i362 
 * 332  Gerber, Larry.  Top ten tips for developing money management skills.  n.p. n.d.  v.  i363.  Read 2013-01. Notes avail.  
