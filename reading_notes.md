@@ -1215,7 +1215,6 @@
 
 ## i1485.txt 
 > Read 2012-03. -r
-> 
 
 ## i149.txt 
 > Learn to look at yourself objectively
@@ -1497,8 +1496,7 @@
 ## i1523.txt 
 > Read 2017-03. Grade B. -r 
 
-## i1524.txt 
->
+## i1524.txt
 > Read Read 2012-05 and 2017-03. Grade B. -r
 > CH.5: The Order of the Phoenix is committed to defeating V. Its headquarters is in the family house of Black.
 > -p. 79-97 -q
@@ -1684,8 +1682,7 @@
 > Kattanbek, Chief Elder of the Fifth Tribe of Arrakesh, -f
 > Arrakesh: the god -f
 > Treespeaker, Jakan could pick up a fresh fallen leaf and know the weather for the next day, or turn a stone and know which animal had passed near it in the last day. It was an intuitive knowledge from Arrakesh that he could not explain. -q
-> Believe me; nothing that happened was of my choosing. -q
-> 
+> Believe me; nothing that happened was of my choosing. -q 
 > You know many things that others don't, and you sometimes think it best to keep your silence about what you know. -q
 > Treespeaker have a difficult task ahead of you in naming a new Chief Elder. -q
 > Kattanbek, Chief Elder, -f
@@ -1695,7 +1692,6 @@
 > The voices [of the god] he kept hearing had unsettled him. -q
 > Many men like to grieve alone. -q
 > Putakash: treespeaker of the 2nd tribe -f
-> 
 >  Ch 18 jakan is on a journey to find Varyd -f
 > Trifhag Klen, The Tree of the Second Tribe. -f
 > Malevolent. -f word to use -r
@@ -1708,12 +1704,10 @@
 ## i1531.txt 
 > Ch. 01: Writing a letter to Sahib
 > A robbery; his parents die, but the Thugs spare him.
-> Ch. 02: He learns about Islam.
->  
+> Ch. 02: He learns about Islam. 
 
 ## i1532.txt 
 > Read 2014-07. Grade C. -r
-> 
 
 ## i1534.txt 
 > Read 2017-07. Grade B. -r 
@@ -2276,59 +2270,32 @@
 > Read 2021-08. Grade C. -r
 >  A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. -s
 > Where Churchill was impulsive and relied very much on his instincts, Chamberlain was utterly methodical and much more consensual in his approach.
-> 
 > horrors, atrocities and monstrosities'.
-> 
 > Chamberlain's tenure at the Ministry of Health also resulted in marked improvements in both ante-natal and post-natal care.
-> 
 > The negotiated a reduction in interest payments from five per cent to three-and-a-half per cent, a notable achievement.
-> 
 > It is a sad fact that the presentable specimens there might have been counted on the fingers of one hand
-> 
 > Chamberlain reported to Hilda on 23 March 1935 that he had now become ‘a sort of Acting P.M. – only without the actual power of the P.M. I have to say “Have you thought” or “What would you say” when...
-> 
 > Dear Sir The Prime Minister asks me go thank you for your letter of 16 November. He was interested to hear of the redpoll. With reference to the suggestion that he should become a Vice-President ...
-> 
 > Musso's latest outburst,' he told Ida, ‘is I think to be attributed to a request from the Germans who appear to be
-> 
 > Foreign Office, S.W.1., 20th February, 1938. My dear Prime Minister, The events of the last few days have made plain a difference between us on a decision of great importance in itself and far-r...
-> 
 > He tried to negotiate with Ribbentrop, but felt it was hopeless, ‘He is so stupid, so shallow, so self centred and self satisfied and so totally devoid of intellectual capacity that he never seems ...
-> 
 > ‘But all the same I can't help liking Winston although I think him nearly always wrong and impossible as a colleague.
-> 
 > ‘Well, it has been a pretty awful week – enough to send most people off their heads, if their heads were not as firmly screwed on as mine.' The febrile atmosphere in Downing Street had begun to tak...
-> 
 > Up to this point Chamberlain had kept his counsel, and his calm, but he now reacted,
-> 
 > Exhausted after the encounter by Hitler's mood swings and histrionics, Chamberlain
-> 
 > WOTD: foreboding -f
-> 
 > increasing incredulity
-> 
 > WOTD: indignant
-> 
 > This has not been a victory for reason and humanity. It has been a victory for brute force.
-> 
 > Chamberlain now hoped for the best but increasingly feared the worst.
-> 
 > It was pragmatic talk born out of realism, but it was also dangerously defeatist.
-> 
 > WOTD: intransigence
-> 
 > 11.15 am on Sunday 3 September 1939, Chamberlain broadcast to the nation that a state of war existed between Britain and Germany
-> 
 > He damned Hitler, saying, ‘We have to kill one another just to satisfy that accursed madman. I wish he could burn in Hell for as many years as he is costing lives.'
-> 
 > It was classic Chamberlain, but by being so overly optimistic he was also now dangerously in denial.
-> 
 > This is what Cromwell said to the Long Parliament when he thought it was no longer fit to conduct the affairs of the nation: ‘You have sat too long here for any good you have been doing. Depart, I ...
-> 
 > Churchill was to be true to his word when, just seven months after Chamberlain's death, the old enmity returned when he described him as ‘the narrowest, most ignorant, most ungenerous of men,' who ...
-> 
 > Chamberlain was a lapsed Unitarian
-> 
 > A dedicated and committed conservationist who was years ahead of his time, 
 
 ## i1667.txt 
