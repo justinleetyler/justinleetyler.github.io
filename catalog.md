@@ -99,20 +99,21 @@
 * 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2016.  k. 211722 kb.  via [www](https://read.amazon.com/?asin=B00W05CUO2).  i109 
 * 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2020.  k. 211884 kb.  via [www](https://read.amazon.com/?asin=B07QGX32QP).  i110 
 * 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2021.  k. 191386 kb.  via [www](https://read.amazon.com/?asin=B085CN7GGF).  i111 
-* 090  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  PDF file.  via USB. File name: 1443.pdf.  i115 
-* 090  Tyler, Justin Lee.  [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich.  TXT file.  via USB.  File name: 3248.txt.  i116 
+* 090  Residential lease [between Shawn Lysik, Justin Lee Tyler, and John S. Mercer].  2014-01-14.  1017 kb.  e,3311.pdf
+* 090  [EBSCO paystub for Justin Lee Tyler].  2013-12-31.  942 kb.  e,3312.pdf
+* 090  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  2471 kb.  e,0000115.PDF 
+* 090  [Justin Lee Tyler baptismal certificate.  910 kb.  e,1564.bmp 
 * 090  [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler].  [October, 2014].  JPG files.  via USB. File directory: 3349.  i113 
 * 091  [2007 taxes] / Justin Lee Tyler.  2007.  file via USB.  File Directory: 3219.  DBID 3219.  x117 
 * 091  [2008 taxes] / Justin Lee Tyler.  2008.  file via USB.  File Directory: 3220.  DBID 3220.  x118 
 * 091  [2009 taxes] / Justin Lee Tyler.  2009.  file via USB.  File Directory: 3221.  DBID 3221.  x119 
 * 091  [2012 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 3261.  DBID 3261.  x120 
 * 091  [2016 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 3359.  DBID 3359.  x121 
-* 091  [eMail, 2013 Jan. 10, Mich. to Justin Lee Tyler, Ipswich, Mass. / Rex Dotson].  [2013].  TXT file.  via USB. File name: 3246.txt.  i114 
-* 091 [2020 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 10142.  DBID 10142.  x122 
+* 091  [2020 taxes] / Justin Lee Tyler.  file via USB.  File Directory: 10142.  DBID 10142.  x122 
 * 100  Kellogg, Michael K.  Three questions we never stop asking / Michael K. Kellogg.  Amherst, N.Y. : Prometheus Books, 2010.  282 p.  ISBN 9781616141868.  DBID 3145.  i123.  Notes avail. 
 * 100  Samuelson, Scott.  The deepest human life.  Chicago and London: The University of Chicago Press, c2014.  xiv, 216 p.  ISBN 9780226130385.  i124.  Read 2015-10. Grade B. Notes avail.
 * 113  Swimme, Brian.  The hidden heart of the cosmos.  Orbis Books, c1996.  x, 115 p.  ISBN 1570750580.  i125.  Notes avail. 
-* 128  Fulghum, Robert.  All I really need to know I learned in kindergarden.  25th anniversary ed.  Ballantine books, c2003.  EPUB file.  via USB. File name: 3355.epub.  ISBN 9780345479105.  i126 
+* 128  Fulghum, Robert.  All I really need to know I learned in kindergarden.  25th anni ed.  Ballantine books, c2003.  313 kb.  e,126.epub 
 * 133  Cunningham, Scott.  Wicca.  Woodbury, Minnesota : Llewellyn Publications, c2004.  xiv, 239 p.  ISBN 9780875421186  i128.  Read 2012-04. Notes avail.
 * 133  Evans, Max and Maria.  In the land of broken time. 2nd ed.  The authors, 2016.  k. 18065 kb.  via [www](https://read.amazon.com/?asin=B01JM4FG6C).  i127 
 * 133  Farrell, Drea.  Wicca.  n.p. 2016.  k. 6566 kb.  via [www](https://read.amazon.com/?asin=B01D3SGLMG).  i129 
@@ -130,7 +131,7 @@
 * 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  n.p c2010.  PDF, 574 KB.  g140 
 * 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Why you learn more effectively by writing then typing / Melanie Pinola.  lifehacker.com, 2011.  HTML file.  via [www](http://www.lifehacker.com/5738093).  i142.  Notes avail.
-* 155  5 tactics for relieving work-related stress.  n.p. n.d.  TXT file.  via USB. File name: 3252.txt  i144 
+* 155  SavvySugar.  5 tactics for relieving work-related stress.  n.p. 2012.  e,0000144.txt 
 * 155  Bennington-Castro, Joseph.  Science of what makes an introvert and an extrovert.  n.p. 2013.  PDF, 492 kb.  g143.  Notes avail. 
 * 155  Happy introvert, The.  n.p. n.d.  v.  i1756  2011-10  
 * 155  Wingo, Mary. The impact of the human stress response.  Roxwell Waterhouse, 2016.  k. 9074 kb.  via [www](https://read.amazon.com/?asin=B01FK2YPJO).  i145 
@@ -314,7 +315,7 @@
 * 299  Ruiz, Miguel.  The four agreements.  San Rafael, Calif. : Amber-Allen Pub, c1997.  xix, 138 p.  ISBN 1878424319.  DBID 3010  i299 
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301 
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
-* 299.5  Daoism.  file via USB.  Filename: 3309.pdf.  IN World religions reference library.  Cengage Learning, c2007.  i304.  Notes avail. 
+* 299.5  Daoism.  file via USB.  IN World religions reference library.  Cengage Learning, c2007.  e0000304.pdf.  Notes avail. 
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  i312  Read 2016-08. Grade B
 * 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  i314.  Read ? Notes avail.
 * 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
@@ -354,6 +355,7 @@
 * 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  g.  (In Parliamentary History, 21:2, 2002).  i347 
 * 321  Wexler, Jay.  Odd clauses.  Bost. : Beacon Press, 2011.  k. 620 kb.  i348.  Read 2013-01.
 * 321  Whittle, Peter.  Monarchy matters.  n.p. 2011.  k. 501 kb.  via [www](https://read.amazon.com/?asin=B004ZH8K74).  i349 
+* 342  Scalia, Antonin; Garner, Bryan A.  Reading law.  St. Paul, 2012.  742 kb.  e,6493.epub
 * 324  Hason, Medhi.  Ed.  n.p. n.d.  k.  i350 
 * 324  Heilemann, John; Halperin, M.  Game Change.  n.p. n.d.  v.  i353.  Read 2013-02. Grade B. Notes avail.
 * 324  Mandelson, Peter.  Third man.  n.p. 2010.  k. 2 mb.  via [www](https://read.amazon.com/?asin=B004PGMXL4).  i351 
@@ -404,7 +406,6 @@
 * 355  Sun Tzu.  The art of war.  KMW Publishing, n.d.  k.  via [www](https://read.amazon.com/?asin=B00C1T79DE).  i391 
 * 361  Spirer, Gary.  Crowdfunding.  n.p. 2014.  k. 2852 kb.  via [www](https://read.amazon.com/?asin=B00HQ7JZOM).  i392 
 * 363  Andres, Jose.  We fed an island. With Richard Wolfe.  Ecco, c2018.  xii, 267 p.  ISBN 9780062864499.  i1740  2003-02  
-* 363  National Geographic.  Evacuate Earth.  National Geographic, [20--?].  MP4 file via USB.  Filename: 3317.mp4.  DBID 3317.  i393 
 * 364  1912.  n.p. n.d.  v.  i1760  2011-10
 * 364  Birdsong, Leonard.  147 Dumbest Criminal Stories: Florida.  Winghurst Publications, 2015.  k. 791 kb.  via [www](https://read.amazon.com/?asin=B00TWPBL3O).  i394 
 * 364  Pirates of Somalia, The.  n.p. n.d.  v.  i1763  2011-10  
@@ -464,7 +465,7 @@
 * 611  Shubin, Neil.  Your inner fish.  n.p. n.d.  v.   i448.  Notes avail. 
 * 613  Davenport, Gregory J.  Wilderness survival.  Stackpole Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00A7CTPNY).  i449 
 * 613  Kling, Michael.  9 frugal ways to treat the common cold / Michael Kling.  [n.p.] 2012.  PDF file, 1.5 MB.  via [wwww.](http://drive.google.com).  i450 
-* 613  Swedo, Suzanne.  Wilderness survival.  3rd ed.  FalconGuides, c2016.  MOBI file on USB.  Filename: 3357.mobi  ISBN 9781493017355.  i451 
+* 613  Swedo, Suzanne.  Wilderness survival.  3rd ed.  FalconGuides, c2016.  731 kb.  e,451.epub. 
 * 613.6  Bruce, James.  Surviving an apocalypse.  makeuseof.com, 2013.  [w.](https://makeuseof.com).  i452 
 * 614  Kolata, Gina.  Flu : The story of the great influenza pandemic of 1918 and the search for the virus that caused it.  New York : Simon & Schuster, c1999, 2005.  xi, 338 p.  ISBN 9780743203982.  DBID 3028  i453 
 * 616.9  Halford, W.P.  Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] William P. Halford, Ringo PÃ¼schel, [and] Brandon Rakowski.  PLOS ONE, 2010.  [w.](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251).  i454 
@@ -522,8 +523,7 @@
 * 658  Stonestreet, J.P.  Web startup roadmap.  Ripen Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BC1H77A).  i505 
 * 668  Orton, Linda.  Soapmaking for the first time.  Sterling Publishing Co., c2001.  112 p.  ISBN 0806966378.  i508.  Notes avail. 
 * 690  Miller, Evan.  Shipping container homes.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B018MXCARW).  i509 
-* 724  [Duke and Dutchess of Windor's home in France].  n.p. n.d.  MP4 file via USB.  Filename: 3308.mp4.  i510 
-* 728  [Balmoral].  [BBC, n.d.]  FLV file via USB.  File name: 3267.flv.  i511 
+* 728  [Balmoral].  [BBC, n.d.]  229593 kb.  e,0000511.flv 
 * 736  How To whittle a wood duck.  n.p. n.d.  HTML file via [www](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html).  Title from homepage viewed Sat 10/09/2021.  i512 
 * 737  Ford, Lincoln.  Coin collecting.  n.p. 2021.  k.  via [www](https://read.amazon.com/?asin=B08ZW84QTD).  i513 
 * 745  Lockhart, Leanna.  Lotion & candle Making.  LTL Publishing, [n.d.]  k.  via [w.](https://read.amazon.com/?asin=B00T8J1CTW).  i514 
@@ -579,7 +579,7 @@
 * 779  Tyler, J.L.  [Photograph of the Academy of Art University building in San Francisco, Calif.]  [2007?].  JPG file via USB.  5657.jpg.  i558 
 * 779  Tyler, J.L.  [Photograph of the Redstone Rocket in Warren, N.H..  [2015 May 25].  JPG file via USB.  3329.jpg.  i574 
 * 779  Tyler, J.L.  [Photograph of the mountains from an overlook on N.H. route 118].  [2014 May 25].  JPG file via USB.  3330.JPG.  i570 
-* 779  Tyler, J.L.  [Photographs of Chicago]  [2010?]  JPG files in directory via USB.  /6000/.  i559 
+* 779  Tyler, J.L.  [Photographs of Chicago]  [2010?]  24054 kb.  e,559.pdf 
 * 779  Tyler, J.L.  [Photographs of Justin Tyler's dinning room in Saginaw]  [200-?]  JPG files in directory via USB.  8825.  i561 
 * 779  Tyler, J.L.  [Photographs of Mt. Oceola hike with Justin and Shawn].  [2013-05-19].  JPG files in directory via USB.  3283.  i562 
 * 779  Tyler, J.L.  [Photographs taken around the Blue Hills, Ipswich, Massachusetts].  [n.d.]  JPG files via USB.  3326.  i563 
@@ -736,7 +736,6 @@
 * 782  Tommy Fleming.  Voice of hope / [by] Tommy Fleming and Vincent Donnelly.  Detroit?, Mich.: DPTV Media, 2005.  MP3 files via USB.  i723 
 * 790  Massey, Malcom Mack.  100 RV tips and tricks.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00OR77EU6).  i725 
 * 791  Blake, Bradley.  Family road trip trivia.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B099GGB7MN).  i726 
-* 791  Colony, The / RLJ Entertainment and Sierra Pictures present an Alcina Pictures, Item 7, Mad Samurai Production ; story by Pascal Trotter & Patrick Tarr ; writers, Jeff Renfroe, Patrick Tarr, Pascal Trottier and Svet Rouskov ; produced by Paul Barkin, Marie-Claude Poulin, Pierre Even and Matthew Cervi ; directed by Jeff Renfroe.  RLJ Entertainment, [2013].  MP4 file via USB.  3316.mp4.  i729 
 * 791  Oppenheimer, Jess.  Laughs, luck...and Lucy : how I came to create the most popular sitcom of all time / Jess Oppenheimer, Gregg Oppenheimer.  Gregg Oppenheimer, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B002R5B1UO).  i727 
 * 791  Queen, The.  [London] : Grenada Screen Ltd., c2007 [2007].  MP4 file via USB.  File name: 9056.mp4.  i731 
 * 793  LeClair, David.  The Elder Scolls is going to be massive; massively multiplayer, that is [updates].  PDF file via USB.  3004.pdf.  IN MakeUseOf.com.  (May 4, 2012).  i734 
@@ -853,7 +852,7 @@
 * 917  Moseley, Andy.  Around the States in 90 Days.  NoLogoPublications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005KBPFAY).  i1584 
 * 917  Quinn, Chris.  Adventures of a trail stooge.  [S.n., 2015.]  k.  via [www](https://read.amazon.com/?asin=B011SMMIIA).  i1585 
 * 917  Rich, Louise Dickinson.  Peninsula. Dr. by Condon, Grattan.  Phil., J.P. Lippincott Co., [1958].  281 p. 22 cm.  v2309261 
-* 917  Tyler, J.L.  [Video of Mt. Wolf summit].  July 21, 2012.  MP4 file via USB.  3268.mp4  i1586 
+* 917  Tyler, J.L.  [Video of Mt. Wolf summit].  July 21, 2012.  14412 kb.  e,0001586.mp4 
 * 918  Millard, Candice.  River of doubt: Theodore Roosevelt's darkest journey.  Anchor, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B000Q9ITGW).  i1588 
 * 918  Mitchell, Jack.  Flying asses through Africa.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01MSXMY7F).  i1589 
 * 919  Carter, Jen.  My Falkland Islands life.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N1UD9A7).  i1590 
@@ -1442,13 +1441,13 @@
 * FIC  Rothfuss, Patrick.  Name of the wind.  Dow Books, Inc., c2007.  722 p.  ISBN 9780756404741.  i1307.  Notes avail. 
 * FIC  Rothfuss, Patrick.  Wise man's fear.  Dow Books, c2011.  993 p.  ISBN 9780756404734.  i1308.  Read 2013-01. Notes avail.  
 * FIC  Rowling, J.K.  Casual vacancy.  n.p. n.d.  v.  i1528 
-* FIC  Rowling, J.K.  Harry Potter and the chamber of secrets.  N.Y. : Scholastic Inc., 1999.  2 MOBI files via USB.  2792a.mobi and 2792b.epub.  ISBN 9780439064864.  i1520.  Read 2017-03 and 2012-01. Grade B. Notes avail.
+* FIC  Rowling, J.K.  Harry Potter and the chamber of secrets.  N.Y. : Scholastic Inc., 1999.  467 kb.  e,1520.mobi.  Read 2017-03 and 2012-01. Grade B. Notes avail.
 * FIC  Rowling, J.K.  Harry Potter and the deathly hallows.  n.p. n.d.  v.  i1521  2017-04. Grade B
 * FIC  Rowling, J.K.  Harry Potter and the goblet of fire / by J.K. Rowling; illustrations by Mary Grandpre.  New York, NY : Scholastic, c2000.  734 p.  ISBN 0439139597.  DBID 3079  i1522  2017-03 and 2012-07. Grade B
 * FIC  Rowling, J.K.  Harry Potter and the half-blood prince.  n.p. n.d.  v.  i1523  2017-04. Grade B 
 * FIC  Rowling, J.K.  Harry Potter and the order of the phoenix, ill. by Mary Grandpre.  N.Y. : Scholastic, Inc., 2003.  v.  ISBN 043935806X  DBID 3025.  i1524.  Read 2012-05. Notes avail. 
 * FIC  Rowling, J.K.  Harry Potter and the philosopher's stone.  New York : Scholastic, 2001.  384 p.  ISBN 043936213X.  i1525.  Read 2012-01. Notes avail.  
-* FIC  Rowling, J.K.  Harry Potter and the prisoner of Askaban.  n.p. n.d.  v.  DBID 3356.  i1526.  Notes avail 
+* FIC  Rowling, J.K.  Harry Potter and the prisoner of Askaban.  n.p. n.d.  767 kb.  e,1526.epub.  Notes avail 
 * FIC  Rowling, J.K.  Harry Potter and the sorcerer's stone.  n.p. n.d.  TXT file via USB.  8032.txt.  i1527  2017-03. Grade B
 * FIC  Rudnick, Paul.  Playing the palace. 1st ed.  N.Y. : Jove, 2021.  262 p. ; 21 cm.  ISBN: 9780593099414.  d1777 
 * FIC  Russell, Sean.  World without end.  N.Y., Daw, 1994.  606 p.  (Moontide and magic rise 1).  d1796  2023-04. Grade D. Grade A fantasy book. Tristen, a botanist, gets pulled into palace intrigue when called to regarding a plant that can save the kings live.  I found it really slow.
