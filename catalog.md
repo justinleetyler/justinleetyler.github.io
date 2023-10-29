@@ -1,3 +1,5 @@
+* 289.1  Morrison-Reed, Mark D.  Menage a trois : the UUA, GAUFCC and IARF and the birth of the ICUU.  n.p. n.d.  2069 kb.  e,2310291.pdf
+* 779  [Photograph of Rominski, Colleen R.]  n.p. n.d.  66,538 kb.  e,10078.tif
 * 001  1 MB club.  s.n., n.d.  [via www](https://1mb.club/).  i16 
 * 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
 * 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
@@ -11,7 +13,7 @@
 * 002  Openstax.  n.p. c2021.  [via www.](https://openstax.org/).  i22 
 * 002  University of Minnesota.  Open textbook library.  The author, [202-?]  [w.](https://open.umn.edu/opentextbooks/).  i23 
 * 002  eBooks habit.  n.p. c2012.  [via www.](ebookshabit.com)  Daily.  i18 
-* 003  Operating system interface design between 1981-2009.  n.p., 2009?  PDF via USB. i24 
+* 003  Operating system interface design between 1981-2009.  n.p., 2009?  1797 kb. e,24.pdf 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
 * 004  Adams, Mark.  Python programming.  Resolute Minds Pub., c2015.  k.  via [www](https://read.amazon.com/?asin=B013L09EC0).  i25 
 * 004  Caard.  U.S., 20--?  via [www](https://carrd.co/build).  i27 
@@ -51,7 +53,6 @@
 * 020  Open University.  The Library of Alexandria.  The Open University / [20--?]  k.  via [www](https://read.amazon.com/?asin=B01AWET3VU).  i63 
 * 020 SMA  The small school library.  Alaska Dept. of Education, 1967.  [w.](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i62 
 * 023  Miller, Zana Kate.  How to organize a library.  C., Library Bureau, c1921.  PDF, 1.3 MB.  g64 
-* 024.4  Premis Editorial Comittee.  Data dictionary for preservatino metadata.  n.p. 2008.  PDF file.  via USB. File name: 8001.pdf  i66 
 * 025  Dillon, Martin.  Assessing information on the internet / Martin Dillon [et.al.]  ERIC, 1993.  PDF file.  via [www](http://files.eric.ed.gov/fulltext/ED354906.pdf).  i67 
 * 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  online via [www]https://archive.org/details/catalogingmachin00dodd).  230401 
 * 025  Library of Congress.  Disseminating information on the internet.  W., Library of Congress, 1994.  PDF, 1.5 MB.  g69 
@@ -62,7 +63,6 @@
 * 025.06  Kahn, Salman.  The Khan academy.  [Menlo Park, CA] : Salman Khan, 2004- .  [w.](http://www.khanacademy.org/).  i73 
 * 025.17  Buckley, Karen.  Partners needed.  n.p. n.d. 2006.  PDF file.  via USB. File name: 0153.pdf.  i74 
 * 025.3  American Library Association.  Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.].  Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005.  1 v. (loose-leaf).  ISBN 0888023006.  DBID 8377  i76 
-* 025.3  American Library Association. Committee on Cataloging : Description & Access. Task Force on an Appendix of Major and Minor Changes.  Differences between changes within.  Chicago : American Library Association, 2004.  PDF file.  via USB. File name: 8004.pdf.  i75 
 * 025.3  Brazier, Caroline.  Cataloguing policy and practice - 2007 and beyond: a view from the British Library.  n.p. 2007.  PPT file.  via USB. File name: 1399.ppt.  i78 
 * 025.3  Brenndorfer, Thomas.  RDA in 10 easy steps (for cataloging a book).  [T. Brenndorfer, 2012?].  PDF file.  via USB. File name: 10179.txt.  i77 
 * 025.3  Calhoun, Karen.  Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani.  Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2009.  PDF, 1.4 MB.  g79 
@@ -84,9 +84,11 @@
 * 025.3  Penalvo, F. and others.  Qualified Dublin Core metadata best practices for gredos.  (In Jour. Lib. Metadata. v. 10, 2010).  i94.  Read 201?.
 * 025.3  Steele, Bill.  After 32 years, the library card catalog is retired.  [n.p., 2007].  PDF.  IN Chronicle Online.  (Oct. 1,2007).  g95 
 * 025.3  Tillett, Barbara.  What is FRBR?.  [W.], Library of Congress, 2003.  PDF.  g96 
-* 025.4  Cutter, O.A.  Cutter's three figure author table.  Englewood, CO : Libraries Unlimited, Inc., 1969.  PDF file.  via USB.  File name: 10064.pdf.  i98 
+* 025.3  U.S. Library of Congress.  Card catalog; Hayen, Carla, fwd.  San Francisco, [2017.  51,541 kb.  e,2310292.epub
+* 025.3  Weber, Lisa B.  Record formatting: MARC ARC.  n.p. [1990].  1756 kb.  e,8443.pdf.
+* 025.4  Cutter, O.A.  Cutter's three figure author table.  Englewood, CO. 1969.  50,607 kb.  e,98.pdf 
 * 025.4  Delta College. Library.  Outline of the Library of Congress Classification system.  [University Center, Mich. : Delta College, n.d.]  DOC file.  via USB.  File name: 1690.doc.  i99 
-* 025.5  Redford Township District Library.  [Michicard Letter].  Redford, MI : RTDL, 2007.  PDF file.  via USB. File name: 7022.pdf.  i100 
+* 025.5  Redford Township District Library.  [Michicard Letter].  Redford, MI : RTDL, 2007.  1122 kb.  e,100.pdf 
 * 025.8  Casey, Mike and Bruce Gordan.  Sound directions : best practices for audio preservation.  [n.p.], c2007.  PDF.  g101 
 * 027  Casson, Lionel.  Libraries in the ancient world.  New Haven : Yale University Press, c2001.  xii, 177 p.  ISBN 0300088094.  i102.  Read 2011-10. Notes avail.  
 * 027  Duff, Wendy.  Finding and using archival resources.  PDF file.  via USB. File name: 10065.pdf.  DBID 10065.  ISSN 0318-6954.  IN Archicaria.  No. 58 (Aug. 1, 2004)  i103 
@@ -104,6 +106,7 @@
 * 090  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  2471 kb.  e,0000115.PDF 
 * 090  [Justin Lee Tyler baptismal certificate.  910 kb.  e,1564.bmp 
 * 090  [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler].  [October, 2014].  JPG files.  via USB. File directory: 3349.  i113 
+* 091  [Transcript, Tyler, Justin Lee. from Wayne State University].  2011-03-07.  55 kb.  e,2310294.pdf
 * 091  [2007 taxes] / Justin Lee Tyler.  2007.  file via USB.  File Directory: 3219.  DBID 3219.  x117 
 * 091  [2008 taxes] / Justin Lee Tyler.  2008.  file via USB.  File Directory: 3220.  DBID 3220.  x118 
 * 091  [2009 taxes] / Justin Lee Tyler.  2009.  file via USB.  File Directory: 3221.  DBID 3221.  x119 
@@ -239,6 +242,7 @@
 * 264  Episcopal Church, USA.  The Book of Common Prayer...  Church Publishing, [2007?]  PDF file.  via [www](http://drive.google.com.  i236 
 * 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.  i239.  Notes avail. 
 * 265  Medd, Peter Goldsmith.  The Priest to the Altar: Or Aids to the Devout Celebration of Holy Communion Chiefly After the Ancient English Use of Sarum.  Rivingtons, [n.d.]  [w.](https://read.amazon.com/).  i240 
+* 265  Ten important points to remember when the priest calls.  n.p. n.d.  1129 kb.  e,7004.pdf
 * 266  Bensh, Sean.  The bikeable church: A bicyclist's guide to church planting. [forward by] Caleb Crider.  k.  via [www](https://read.amazon.cim)  AISN B009AAN20Q.  i241 
 * 270  Augustine, Saint.  Confessions of Saint Augustine.  n.p. n.d.  v.  DBID 1725.  i242.  Notes avail. 
 * 270  Cox, Harvey.  The future of faith.  HarperOne, 2009.  k. 403 kb.  via [www](https://read.amazon.com/?asin=B002M41TUM).  i243 
@@ -306,7 +310,7 @@
 * 299  Deng, Ming-Dao.  365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992.  xii, 380 p. 18 cm.  v310 
 * 299  Greer, John Michael.  The druid magic handbook.  Red Wheel/Weiser, c2007.  [w.](https://justinleetyler.github.io/greer2007).  ISBN 9781578633975.  i302 
 * 299  Greer, John Michael.  The druidry handbook.  Red Wheel/Weiser, c2006.  [w.](https://justinleetyler.github.io/greer2006).  ISBN 1578633540.  i303 
-* 299  Herman, Jonathan.  Taoism for dummies.  John Wiley & Sons, c2013.  on esternal hard drive.  Filename: 7050.epub; 7050.mobi.  ISBN 978118426654.  i307 
+* 299  Herman, Jonathan.  Taoism for dummies.  Mississauga, Ontario : John Wiley & Sons, c2013.  1876 kb.  e,307.mobi 
 * 299  Hifler, Joyce Sequichie.  A Cherokee feast of days.  Council Oak Books, c1992.  412 p.  i300.  Notes avail. 
 * 299  Laozi.  Living Dao : the art and way of living a rich & truthful life, tr...by Lok Sang HO.  [S.n.], 2009.  [www].  i309 
 * 299  Laozi.  Sayings of Lao Tzu, tr. by Lionel Giles.  New York : E.P. Dutton and Company, Inc., 1905.  v.  i306.  Notes avail. 
@@ -316,6 +320,7 @@
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301 
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
 * 299.5  Daoism.  file via USB.  IN World religions reference library.  Cengage Learning, c2007.  e0000304.pdf.  Notes avail. 
+* 302  Petzinger, Genevieve Von.  First signs.  N.Y. 2016.  15339 kb.  e,2310393.epub
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  i312  Read 2016-08. Grade B
 * 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  i314.  Read ? Notes avail.
 * 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
@@ -1448,7 +1453,7 @@
 * FIC  Rowling, J.K.  Harry Potter and the order of the phoenix, ill. by Mary Grandpre.  N.Y. : Scholastic, Inc., 2003.  v.  ISBN 043935806X  DBID 3025.  i1524.  Read 2012-05. Notes avail. 
 * FIC  Rowling, J.K.  Harry Potter and the philosopher's stone.  New York : Scholastic, 2001.  384 p.  ISBN 043936213X.  i1525.  Read 2012-01. Notes avail.  
 * FIC  Rowling, J.K.  Harry Potter and the prisoner of Askaban.  n.p. n.d.  767 kb.  e,1526.epub.  Notes avail 
-* FIC  Rowling, J.K.  Harry Potter and the sorcerer's stone.  n.p. n.d.  TXT file via USB.  8032.txt.  i1527  2017-03. Grade B
+* FIC  Rowling, J.K.  Harry Potter and the sorcerer's stone.  n.p. n.d.  444 kb.  e,1527.txt.  Read 2017-03. Grade B.
 * FIC  Rudnick, Paul.  Playing the palace. 1st ed.  N.Y. : Jove, 2021.  262 p. ; 21 cm.  ISBN: 9780593099414.  d1777 
 * FIC  Russell, Sean.  World without end.  N.Y., Daw, 1994.  606 p.  (Moontide and magic rise 1).  d1796  2023-04. Grade D. Grade A fantasy book. Tristen, a botanist, gets pulled into palace intrigue when called to regarding a plant that can save the kings live.  I found it really slow.
 * FIC  Ryan, Matt.  Rise Of The six.  32 Novel Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00T0HCQVU).  i1329 
@@ -1699,7 +1704,7 @@
 * SCI  Wells, H.G.  War of the worlds.  Atria Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0088Q0F5I).  i1535 
 * SCI  Westover, Tim.  Auraria.  QW Publishers, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008AM5KGE).  i1440 
 * SCI  White, Stephen W.  New world : a frontier fantasy novel.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005CFEN1U).  i1463 
-* SCI  Wies, Margaret.  Dragons of summer flame / Margaret Weis and Tracy Hickman.  TSR, Inc., 1995, 2001.  TXT file on USB driver.  8840.txt.  i1438 
+* SCI  Wies, Margaret; Hickman, Tracy.  Dragons of summer flame.  TSR, Inc., 1995, 2001.  1200 kb.  e,1438.txt 
 * SCI  Write, Iain Rob.  2389 : a space horror novel.  SalGad Publishing Group, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00UC6LJP2).  i1445 
 * SCI  Zales, D.  Oasis.  Mozaika Publications, 2016.  k. 401 kb.  zales2016 
 * SCI  Zenner, Brandon.  After war.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JMS9CA4).  i1476 
