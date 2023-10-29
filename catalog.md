@@ -1,3 +1,4 @@
+* FIC  O'Carroll, Brendon.  Mammy.  N.Y. 1994.  744 kb.  g,2111131.pdf
 * 289.1  Morrison-Reed, Mark D.  Menage a trois : the UUA, GAUFCC and IARF and the birth of the ICUU.  n.p. n.d.  2069 kb.  e,2310291.pdf
 * 779  [Photograph of Rominski, Colleen R.]  n.p. n.d.  66,538 kb.  e,10078.tif
 * 001  1 MB club.  s.n., n.d.  [via www](https://1mb.club/).  i16 
@@ -46,7 +47,6 @@
 * 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).  i56.  Notes avail. 
 * 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  g61.  Also available on the [World Wide Web](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i61 
 * 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i61 
-* 020  American Library Association.  Frontline Fundraising toolkit.  American Library Association, c2011.  PDF file.  via USB. File name: (10096.pdf).  DBID 10096  i57 
 * 020  Battles, Matthew.  Library : an unquiet history.  n.p. n.d.  v.  i58  Read 2005-06. Notes avail.  
 * 020  De Rosa, Cathy.  Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes.  Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005.  PDF file.  via USB. File name: 0349.pdf.  i59 
 * 020  Hammer, Joshua.  The bad-ass librarians of Timbuktu.  Simon & Schuster, [n.d.]  k.  i60 
@@ -90,11 +90,13 @@
 * 025.4  Delta College. Library.  Outline of the Library of Congress Classification system.  [University Center, Mich. : Delta College, n.d.]  DOC file.  via USB.  File name: 1690.doc.  i99 
 * 025.5  Redford Township District Library.  [Michicard Letter].  Redford, MI : RTDL, 2007.  1122 kb.  e,100.pdf 
 * 025.8  Casey, Mike and Bruce Gordan.  Sound directions : best practices for audio preservation.  [n.p.], c2007.  PDF.  g101 
+* 027  Fore, Julie A.  Gopher servers as a point of access.  75 kb.  (In IASSist, Fall/Winter 1994).  e,1205071.pdf
 * 027  Casson, Lionel.  Libraries in the ancient world.  New Haven : Yale University Press, c2001.  xii, 177 p.  ISBN 0300088094.  i102.  Read 2011-10. Notes avail.  
 * 027  Duff, Wendy.  Finding and using archival resources.  PDF file.  via USB. File name: 10065.pdf.  DBID 10065.  ISSN 0318-6954.  IN Archicaria.  No. 58 (Aug. 1, 2004)  i103 
 * 027  Evans, Joanne and Nadav Rouche.  Utilizing systems development methods in archival systems.  PDF file.  via USB. File name: 10066.pdf.  DBID 10066.  DOI 10.1007/s10502-005-2598-4.  IN Archival Science.  Vol. 4 (2004)  i104 
 * 027  Fredriksson, Berndt.  Postmodernistic archival science.  PDF file.  via USB. File name: 10068.pdf.  DBID 10068.  IN Archival Science.  Vol. 3 (2003)  i105 
 * 027  Library of Congress.  Using ... MELVEL gopher.  [n.p. n.d.]  TXT, 6 KB.  g106 
+* 027  Riley, Ruth A.; Shipman, Lowther, Barbara.  Building and maintaining a library Gopher.  1194 kb.  (In bull.med.lib.assoc.  83:2, April 1985)  e,2310396.pdf 
 * 028  Kosciejew, Marc.  Inside an axis of evil library.  [n.p.] Feliciter, 2009.  PDF, 164 KB.  g107 
 * 028  Well-educated mind.  n.p. n.d.  v.  i1762 – 2011-10 and 2005-11 
 * 028.7  Secker, Jane and Emma Coonan.  Rethinking information literacy.  Facet publishing, c2013.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB).  Available to patrons with membership to institutions subscribing to EBSCO ebooks.  i108.  Notes avail.
@@ -107,6 +109,8 @@
 * 090  [Justin Lee Tyler baptismal certificate.  910 kb.  e,1564.bmp 
 * 090  [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler].  [October, 2014].  JPG files.  via USB. File directory: 3349.  i113 
 * 091  [Transcript, Tyler, Justin Lee. from Wayne State University].  2011-03-07.  55 kb.  e,2310294.pdf
+* 091  [Transcript, Tyler, Justin Lee. from University of Detroit Mercy].  n.d.  3274 kb.  e,2310295.pdf
+* 091  [Transcript, Tyler, Justin Lee. from University of University of Detroit-Mercy].  2004-05-19.  3633 kb.  e,1103071.pdf
 * 091  [2007 taxes] / Justin Lee Tyler.  2007.  file via USB.  File Directory: 3219.  DBID 3219.  x117 
 * 091  [2008 taxes] / Justin Lee Tyler.  2008.  file via USB.  File Directory: 3220.  DBID 3220.  x118 
 * 091  [2009 taxes] / Justin Lee Tyler.  2009.  file via USB.  File Directory: 3221.  DBID 3221.  x119 
@@ -319,7 +323,7 @@
 * 299  Ruiz, Miguel.  The four agreements.  San Rafael, Calif. : Amber-Allen Pub, c1997.  xix, 138 p.  ISBN 1878424319.  DBID 3010  i299 
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301 
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
-* 299.5  Daoism.  file via USB.  IN World religions reference library.  Cengage Learning, c2007.  e0000304.pdf.  Notes avail. 
+* 299.5  Daoism.  file via USB.  IN World religions reference library.  Cengage Learning, c2007.  e,304.pdf.  Notes avail. 
 * 302  Petzinger, Genevieve Von.  First signs.  N.Y. 2016.  15339 kb.  e,2310393.epub
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  i312  Read 2016-08. Grade B
 * 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  i314.  Read ? Notes avail.
@@ -429,7 +433,7 @@
 * 375  Open Yale courses [website].  [S.l.] : Yale University, c2012- . online via [www](http://oyc.yale.edu/).  i408 
 * 375  OpencourseWare Consortium [website].  Newton, MA : OpencourseWare Consortum, [n.d.]  online via [www](http://www.ocwconsortium.org/).  i407 
 * 378  Open University.  How to be a critical reader.  The Open University, n.d.  k.  via [www](https://read.amazon.com/?asin=B01D8X5X84).  i409 
-* 384.55  Tyler, Justin Lee.  [Videos of Colleen's trip to the wildlife sanctuary].  2012 Oct. 20.  file via USB.  mp3 files via USB.  File name: 3215.  DBID 3215.  i410 
+* 384.55  Tyler, Justin Lee.  [Videos of Colleen's trip to the wildlife sanctuary].  2012 Oct. 20.  file via USB.  MP3 files.  File name: 3215.  DBID 3215.  i410 
 * 387  Thompson, Willard.  Keepers of the light: the history of the point conception lighthouse.  Rincon Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00F8JCVX2).  i411 
 * 390  Duckworth, Jean Ann.  The simple joy of Thanksgiving: celebrating a holiday low on stress, high on joy.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00A2H0ETI).  i412 
 * 395  Nemko, Marty.  Simple techniques to increase your likeability at work.  PDF, 324 KB.  (In U.S. News and World Report, 2013).  via [www](https://drive.google.com/file/d/1VQVo6IUoxfL-NOJpXg0IkPrN1Yug1GCE/view?usp=sharing).  i413 
@@ -592,157 +596,157 @@
 * 779  Tyler, J.L.  [Photographs taken at the Rearing Ponds (Hillsdale, Mich.)].  [2013].  JPG files via USB.  i565 
 * 779  [Jim Berry looking through binoculars].  2014 May.  JPG file via USB.  DBID 3351.  i527 
 * 779  [Photographs of Haley, Justin, and Shawn]  2015-2017.  JPG files in directory via USB.  7069.  i560 
-* 780  Diouf, M. ; Nwankwo, I.F., ed.  Rhythms of the Afro-Atlantic world.  Mich. [n.d.]  MP3 files via USB.  i575 
-* 781  -NSYNC.  No strings attached.  n.p. 2000.  MP3 files via USB.  i576 
-* 781  Achillea.  Nine worlds.  n.p. [c2005].  MP3 files via USB.  i628 
-* 781  Ackerman, W.  Sound of wind driven rain.  N.Y. [c1998].  MP3 files via USB.  i629 
-* 781  Adiemas.  Adiemus III: Dances of time.  Mississauga, Ont. 1998.  MP3 files via USB.  i630 
-* 781  Adiemas.  Eternal knot.  U.K, 2000.  MP3 files via USB.  i632 
-* 781  Adiemus.  Songs of sanctuary.  [N.Y.]? 1995.  MP3 files via USB.  i631 
-* 781  All-American Rejects.  Move Along.  Santa Monica, CA. 2005.  MP3 files via USB.  i588 
-* 781  Amethystium.  Aphelion.  Ft. Lauderdale, Fl. 2003.  MP3 files via USB.  i633 
-* 781  Amethystium.  Evermind.  Ft. Lauderdale, FL. 2004.  MP3 files via USB.  i634 
-* 781  Amethystium.  Odonata.  Ft. Lauderdale, Fl.  MP3 files via USB.  i635 
-* 781  Anonymous 4.  Legends of St. Nicholas : medieval chant and polyphony.  Lond. 1999.  MP3 files via USB.  i719 
-* 781  Arkenstone, David and others.  Spirit of Olympia.  Milwaukee, 1992.  MP3 files via USB.  i639 
-* 781  Arkenstone, David.  Atlantis.  Milwaukee, 2004.  MP3 files via USB.  i636 
-* 781  Arkenstone, David.  Sketches from an American Journey.  U.S. 2002.  MP3 files via USB.  i637 
-* 781  Australis.  Life giving.  n.p. 2005.  MP3 files via USB.  i640 
-* 781  Benedictine Monks of St. Michael's.  [Gregorian chant].  Santa Monica, CA. 1994.  MP3 files via USB.  i641 
-* 781  Blunt, James.  All the lost souls.  N.Y. 2007.  MP3 files via USB.  i589 
-* 781  Blunt, James.  Back to Bedlam.  West Hollywood, Calif. 2005.  MP3 files via USB.  i614 
-* 781  Brickman, Jim.  Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al].  N.Y: Windham Hill, 1999.  MP3 files via USB.  i642 
-* 781  Brickman, Jim.  Escape / [by] Jim Brickman , Marc Antoine, Sara Evans, ... [et al].  Santa Monica, CA: Savoy Label Group, 2006.  MP3 files via USB.  i643 
-* 781  Brickman, Jim.  From the heart.  Toronto, Ontario: Avalon/Somerset Entertainment, 2009.  MP3 files via USB.  i644 
-* 781  Brickman, Jim.  Jim Brickman.  S.l.: Renegade Entertainment, 1998.  MP3 files via USB.  i646 
-* 781  Brickman, Jim.  My romance.  Stanford, CA : Windham Hill, p2000.  MP3 files via USB.  i647 
-* 781  Brickman, Jim.  Peace / [by] Jim Brickman, Anne Cochran, Tracy S. Silverman, ... [et al].  N.Y. : Arista, 2003.  USB files via USB.  i648 
-* 781  Brickman, Jim.  Picture this.  Beverly Hills, Calif: Windham Hill Records, 1997.  USB files via USB.  i649 
-* 781  Brickman, Jim.  Simple things.  N.Y : Windham Hill, 2001.  MP3 files via USB.  i650 
-* 781  Buble, Michael.  Call me irresponsible / Michael Buble and Ivan Lins.  Burbank, CA: 143 Records, 2007.  MP3 files via USB.  i615 
-* 781  Caballero, David.  Ethereality.  Hollywood, CA: Only New Age Music, 2005.  USB files via USB.  i651 
-* 781  Cerdwen.  Or Mabinogi.  n.p. 1997.  USB files via USB.  i652 
-* 781  Chant Gregorien: Liturgie Dominicaine.  France: Jade, 2007.  USB files via USB.  i653 
-* 781  Chants of the Season.  New York, NY: RCA Victor, 1994.  MP3 files via USB.  i720 
-* 781  Cher.  Very best of Cher.  Burbank, CA: Warner Bros. Records, 2003.  MP3 files via USB.  i590 
-* 781  Cistercian Monks of Stift Heiligenkreuz.  Chant.  Universal Music Classics, c2008.  MP3 files via USB.   i654 
-* 781  Classics for Relaxation and Meditation.  St.-Laurent, Canada: Madacy, 1994.  MP3 files via USB.  i718 
-* 781  Collins, Phil.  Face value.  New York, NY: Atlantic, 1985.  MP3 files via USB.  i592 
-* 781  Cusco.  Ancient journeys.  n.p. 2000.  MP3 files via USB.  i655 
-* 781  Cusco.  Apurimac III.  n.p. 1997.  MP3 files via USB.  i656 
-* 781  Cusco.  Inner journeys.  n.p. 2003.  MP3 files via USB.  i657 
-* 781  Davis, Chip.  Fresh aire Christmas, A / [by] Chip Davis and John Rutter.  Omaha, Neb.: American Gramaphone, 1988.  MP3 file via USB.  i721 
-* 781  DeJohnette, Jack.  Peace time.  Golden Beams Productions, 2007.  MP3 files via USB.  i660 
-* 781  Deep Forest.  Boheme  n.p. Columbia, 1995.  MP3 files via USB.  i658 
-* 781  Deep Forest.  Made in Japan.  N.Y. : Epic/550 Music, 1999.  MP3 files via USB.  i659 
-* 781  Diamond, Neal.  12 Songs, [by] Neal Diamond and David Campbell.  New York, NY: Columbia, 2005.  MP3 files via USB.  Title from Compact Disc.  i593 
-* 781  Diamond, Neal.  His 12 Greatest Hits.  Universal City, Calif: MCA Records, 1985.  MP3 files via USB.  Title from Compact Disc.  i594 
-* 781  Dion, Celine.  All the way.  New York: Sony Music Entertainment, 1999.  MP3 files via USB.  i596 
-* 781  Dion, Celine.  New day has come, A.  New York, NY: Epic, 2002.  MP3 files via USB.  i595 
-* 781  Dudley, A.  10th kingdom [soundtrack] / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.]  New York: Hallmark Entertainment, 2000.  MP3 file via USB.  i580 
-* 781  Elysium Mind.  Desert wind.  n.p. 2012.  MP3 file via USB.  ElysiumMind_DesertWind.mp3.  i661 
-* 781  Elysium Mind.  Lay it down.  n.p. 2006.  MP3 file via USB.  ElysiumMind_LayItDown.mp3.  i662 
-* 781  Elysium Mind.  Marginal illusion.  n.p. n.d.  MP3 file via USB.  ElysiumMind_MarginalIllusion.mp3 .  i663 
-* 781  Enigma.  Cross of changes.  N.Y. : Charisma Records America, 1993.  MP3 files via USB.  i664 
-* 781  Enya.  Amarantine.  [n.p. : Reprise, 2005.]  MP3 files via USB.  i666 
-* 781  Enya.  Celts.  Burbank, CA: Reprise, 1992.  MP3 files via USB.  i669 
-* 781  Enya.  Day Without Rain, A.  Burbank, CA: Reprise Records, 2000.  MP3 files via USB.  i665 
-* 781  Enya.  Paint the sky with stars : the best of Enya.  Burbank, CA: Reprise Records, 1997.  MP3 files via USB.  i667 
-* 781  Enya.  Shepherd moons.  Burbank, Calif: Reprise Records, 1991.  MP3 files via USB.  i668 
-* 781  Enya.  Watermark.  N.Y. : Reprise, 1988.  USB files via USB.  i670 
-* 781  Essential Leonard Cohen.  New York, NY: Columbia, 2002.  MP3 files via USB.  i591 
-* 781  Farish, Ryan.  Life in stereo.  RYTONE Entertainment, LLC., c2012.  MP3 files via USB.  File directory: 3275.  i671 
-* 781  Gandalf.  Colors of a new dawn.  Sausalito, CA: Real Music, 2004.  MP3 files via USB.  i672 
-* 781  Goodall, Medwyn.  Ancient Nazca: Inca mysteries.  Aerdenhout, Holland: Oreade Music, 1997.  MP3 files via USB.  i673 
-* 781  Grease: The Original Soundtrack from the Motion Picture.  New York: Polydor, 1991.  MP3 files via USB.  i581 
-* 781  Gregson-Williams, H.  Chronicles of Narnia [soundtrack] / [by] Harry Gregson-Williams ... [et al.]  Burbank, CA: Walt Disney Records, 2005.  MP3 files via USB.  i582 
-* 781  Hooper, N.  Harry Potter and the Order of the Phoenix: Original Motion Picture Soundtrack / [by] Nicholas Hooper and Alastair King.  Burbank, CA: Warner Bros, 2007.  MP3 files via USB.  i584 
-* 781  Horner, J.  Beautiful Mind, A: Original Motion Picture Soundtrack. / [by] James Horner, Charlotte Church, and Ron Howard.  New York, N.Y: Decca Records, 2001.  MP3 files via USB.  i583 
-* 781  Hybrid.  Morning Sci-Fi.  S.l.: Distinctive, 2003.  MP3 files via USB.  i597 
-* 781  Iglasias, Enrique.  Enrique / [by] Enrique Iglasias and Whitney Houston.  Los Angeles: Interscope, 1999.  MP3 files via USB.  i674 
-* 781  Isham, Mark.  Vapor drawings.  Stanford, CA: Windham Hill Records, 1983.  MP3 files via USB.  i675 
-* 781  Islam, Yusuf.  An other cup.  New York, NY: Atlantic, 2006.  MP3 files via USB.  i598 
-* 781  Joel, Billy.  Greatest Hits: Vol. III.  New York, NY: Sony Music Entertainment; Manufactured by Columbia Records, 1997.  MP3 files via USB.  i599 
-* 781  Joel, Billy.  Greatest hits collection: Vol. I, II & III.  Australia: Columbia/Sony Music Entertainment (Australia), 1998.  MP3 files via USB.  i601 
-* 781  John, E.  Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.]  New York: Mercury Records, 2002.  MP3 files via USB.  i577 
-* 781  John, E.  Road to El Dorado, The. / [by] Elton John, Randy Newman, and Tim Rice.  Beverly Hills, CA: DreamWorks, 2000.  MP3 files via USB.  i585 
-* 781  John, Elton.  Captain & the Kid, The / [by] Elton John and Bernie Taupin.  Santa Monica, Calif: Interscope, 2006.  MP3 files via USB.  i622 
-* 781  John, Elton.  Goodbye yellow brick road / [by] Elton John and Bernie Taupin.  N.Y. : Rocket, 1995.  MP3 files via USB.  i676 
-* 781  John, Elton.  Greatest hits: v.3, 1979-1987.  Los Angeles: Geffen Records, 1987.  MP3 files via USB.  i602 
-* 781  John, Elton.  Live in Australia / [by] Elton John, Bernie Taupin, [and] James N. Howard.  Universal City, Calif: MCA Records, 1987.  MP3 files via USB.  i616 
-* 781  John, Elton.  Love songs.  New York, NY: Mercury, 1996.  MP3 files via USB.  i617 
-* 781  John, Elton.  One night only: the Greatest hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.]  New York: Universal Records, 2000.  MP3 files via USB.  i618 
-* 781  John, Elton.  Peachtree Road / by Elton John and Bernie Taupin.  New York, N.Y: Rocket/Universal Records, 2004.  MP3 files via USB.  i619 
-* 781  John, Elton.  Reg strikes back.  Universal City, Calif: MCA, 1988.  MP3 files via USB.  i620 
-* 781  John, Elton.  Songs from the West Coast.  London, England & NYC: Mercury Records Ltd., 2001.  MP3 files via USB.  i621 
-* 781  Kater, Peter.  In a Dream.  S.l.: Q-rious Music, 2009.  MP3 files via USB.  i603 
-* 781  Keating, Ronan.  10 Years of Hits.  London: Wise, 2004.  MP3 files via USB.  i604 
-* 781  Klass, Mylene.  Moving on.  United Kingdom: Universal Classics and Jazz, 2003.  MP3 files via USB.  i623 
-* 781  Kooks.  Inside in, inside out.  file via USB.  England: Virgin Records, 2006.  MP3 file via USB.  i605 
-* 781  Lanz, David.  Cristofori's dream.  Milwaukee: Etats-Unis, 1998.  MP3 files via USB.  i677 
-* 781  Lasar, Mars.  Tahoe spirit.  n.p. 2009.  MP3 files via USB.  i678 
-* 781  Lasar, Mars.  Yosemite.  n.p. 2006.  MP3 files via USB.  i679 
-* 781  Lesium.  Auracle.  City Hall Records, 2004.  MP3 files via USB.  i680 
-* 781  Lesium.  Illumination.  Anaheim, CA: Intentcity, 2003.  MP3 files via USB.  i681 
-* 781  Lesium.  Mystic spirit voices.  Miami, FL: Alcione, 2001.  MP3 files via USB.  i682 
-* 781  Lightfoot, Gordon.  If you could read my mind.  Burbank, Calif.: Reprise Records, 1980.  MP3 files via USB.  i606 
-* 781  Lislevand, Rolf.  Diminuito.  Munchen: ECM Records, 2009.  MP3 files via USB.  i715 
-* 781  Lynch, Ray.  Nothing above my shoulders but the evening.  Stanford, CA: Windham Hill Records, 1993.  MP3 files via USB.  i683 
-* 781  MTV.  First 1000 Years: New Wave, The.  New York: MTV Networks, 1999.  MP3 files via USB.  i607 
-* 781  McCoo, Marilyn.  White Christmas.  Santa Monica, CA: Laserlight Digital, 1996.  MP3 files via USB.  i722 
-* 781  McKennitt, Loreen.  Book of secrets, The.  Burbank, Calif: Warner Bros, 1997.  MP3 files via USB.  i687 
-* 781  McKennitt, Loreena.  Ancient muse, An.  N.Y. : Verve Music Group, 2006.  MP3 file via USB.  i685 
-* 781  McKennitt, Loreena.  Parallel dreams.  Stratford, Ontario: Quinlan Road Limited, 1989.  MP3 files via USB.  i686 
-* 781  McKennitt, Loreena.  Winter garden : five songs for the season.  Burbank, CA: Warner Bros, 1995.  MP3 files via USB.  i684 
-* 781  Moods Unlimited Orchestra.  Elton John Story: Vol. 2.  St-Laurent, Quebec: Image, 1995.  MP3 files via USB.  i688 
-* 781  Morris, T.  Tudors, The: Music from the Showtime Original Series.  Studio City, Calif: Vare?se Sarabande, 2007.  MP3 files via USB.  i586 
-* 781  New England Collective.  Seasons of New England.  n.p. Agents C. Records, 1998.  MP3 files via USB.  i689 
-* 781  Now that's what I call music: 13.  Santa Monica, CA: Universal Music Group, 2003.  Mp3 files via USB.  i608 
-* 781  O'Hearn, Patrick.  Indigo.  Private Music, p1991.  MP3 files via USB.  i690 
-* 781  Pet Shop Boys.  Discography: the complete singles collection.  Hollywood, CA: Capitol Records, 1991.  MP3 files via USB.  i624 
-* 781  Pet Shop Boys.  Very.  New York: EMI Records, 1993.  MP3 files via USB.  i609 
-* 781  Positive Evolutions.  [KPM, c1999].  MP3 files via USB.  i578 
-* 781  Presley, Elvis.  Golden records.  N.Y: RCA Victor, 1985.  MP3 files via USB.  i625 
-* 781  Pritchard, Paul.  Way forward.  [KPM, c1996].  MP3 files via USB.  i579 
-* 781  Pure Moods III.  Beverly Hills, Calif. 2000.  MP3 file via USB.  i691 
-* 781  Pure Moods.  Beverly Hills, CA. 1997.  MP3 file via USB.  i692 
-* 781  Pure Moods: IV.  Beverly Hills, CA. 2002.  MP3 file via USB.  i693 
-* 781  Rough guide to the music of Zimbabwe.  Lond. 1996.  MP3 files via USB.  i610 
-* 781  Rybak, Alexander.  No boundaries.  n.p. Art, 2010.  MP3 files via USB.  i611 
-* 781  Savage Garden.  Affirmation.  S.l: Columbia, 1999.  MP3 files via USB.  i612 
-* 781  Schnauss, U.  Goodbye.  Brooklyn, N.Y: Domino Recording Co, 2007.  MP3 file via USB.  i587 
-* 781  Schwartz, Paul.  Aria 3: Metamorphosis / [by] Paul Schwartz, Rebecca Luker, and Michelle Ivey.  N.Y: KOCH Records, 2004.  MP3 files via USB.  i694 
-* 781  Schwartz, Paul.  State of grace : turning to peace / [by] Paul Schwartz, Lisbeth Scott, and Shimoo.  N.Y. : BMG, 2003.  i695 
-* 781  Schwartz, Paul.  State of grace.  New York, NY: Sony Music Entertainment, 2000.  MP3 file via USB.  i696 
-* 781  Secret Garden.  Dawn of a new century.  Norway: Universal Music, 1999.  MP3 files via USB.  i697 
-* 781  Secret Garden.  Dreamcatcher.  U.K.: Philips, 2001.  MP3 files via USB.  i698 
-* 781  Secret Garden.  Earthsongs.  N.Y. : Decca, 2005.  MP3 files via USB.  i699 
-* 781  Secret Garden.  Once in a red moon.  N.Y. : Decca Records, 2002.  MP3 files via USB.  i700 
-* 781  Secret Garden.  White stones.  N. Y. : Philips, 1997.  MP3 files via USB.  i701 
-* 781  Secret Garden.  Winter Poem.  Dreamcatcher Productions, [2011].  MP3 files via USB.  i702 
-* 781  Shore, Howard.  Music from the Lord of the Rings, the trilogy.  Portugal: IMC Music, 2003.  MP3 files via USB.  i703 
-* 781  Sissel.  Into paradise.  N.Y. : Decca Records, 2006.  MP3 files via USB.  i716 
-* 781  Sleepthief.  Labyrinthine heart.  Weston, FL: Neurodisc Records, 2009.  MP3 files via USB.  i626 
-* 781  Stadler, Gary.  Deep within a faerie forest / [by] Gary Stadler, Lisa Lynne, and Wendy Rule.  Topanga, CA: Sequoia Records, 2004.  MP3 files via USB.  i704 
-* 781  Summer solstice 2.  New York, N.Y. p1998.  Mp3 files via USB.
-* 781  Take That.  Beautiful world.  n.p. n.d.  MP3 files via USB.  i613 
-* 781  Taliesin Orchestra.  Jean D'arc.  Berlin, Germany: TDI, 2005.  MP3 files via USB.  i707 
-* 781  Taliesin Orchestra.  Maiden of mysteries: [the Music of Enya].  Roswell, GA: Intersound, 1998.  Mp3 file via USB.  i706 
-* 781  Taliesin Orchestra.  Tyranny of beauty.  Seattle, Wash: Miramar Recordings, 1995.  MP3 files via USB.  i708 
-* 781  Tate, Paul A.  Seasons of grace: piano reflections.  Chicago, Ill.: GIA Publications, 2006.  MP3 files via USB.  i709 
-* 781  Tears for Fears.  Tears Roll Down.  N.Y.: Mercury, 2004.  MP3 files via USB.  i627 
-* 781  Tin, Christopher.  Calling all dawns : a song cycle.  n.p. Tin Works Pub, 2009.  MP3 files via USB.  i710 
-* 781  Tin, Christopher.  The drop that contained the sea.  Tin Works, 2014.  MP3 files via USB.  i712 
-* 781  Tingstad, Eric.  In the garden / Eric Tingstad and Nancy Rumbel.  Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991.  MP3 files via USB.  Contents: The gardener (3:37)  Bonsai picnic (3:45)  Ghostwood (4:34)  The parterre (4:05)  Harvest (3:26)  Hanging in Babylon (3:18)  Big weather (4:23)  Iris in moonlight (4:33)  Medicine tree (5:04)  Roses for Jessie (5:30)  Monticello (4:44).  i711 
-* 781  Twelve Girls Band.  Eastern energy.  Los Angeles, CA: Platia Entertainment USA, 2004.  MP3 files via USB.  i717 
-* 781  Vagelis.  Odyssey : the definitive collection / [by] Vangelis and Jon Anderson.  Santa Monica, CA: Hip-O, 2003.  MP3 files via USB.  i713 
-* 781  Vollenweider, Andreas.  Behind the gardens.  Kin Kou, 2005.  MP3 files via USB.  i714 
-* 782  Manilow, Barry.  Ultimate Manilow.  N.Y. : Arista, 2002.  MP3 files via USB.  i724 
-* 782  Tommy Fleming.  Voice of hope / [by] Tommy Fleming and Vincent Donnelly.  Detroit?, Mich.: DPTV Media, 2005.  MP3 files via USB.  i723 
+* 780  Diouf, M. ; Nwankwo, I.F., ed.  Rhythms of the Afro-Atlantic world.  Mich. [n.d.]  MP3 files.  e,575 
+* 781  -NSYNC.  No strings attached.  n.p. 2000.  MP3 files.  e576 
+* 781  Achillea.  Nine worlds.  n.p. [c2005].  MP3 files.  e,628 
+* 781  Ackerman, W.  Sound of wind driven rain.  N.Y. [c1998].  MP3 files.  e,629 
+* 781  Adiemas.  Adiemus III: Dances of time.  Mississauga, Ont. 1998.  MP3 files.  e,630 
+* 781  Adiemas.  Eternal knot.  U.K, 2000.  MP3 files.  e,632 
+* 781  Adiemus.  Songs of sanctuary.  [N.Y.]? 1995.  MP3 files.  e,631 
+* 781  All-American Rejects.  Move Along.  Santa Monica, CA. 2005.  MP3 files.  e,588 
+* 781  Amethystium.  Aphelion.  Ft. Lauderdale, Fl. 2003.  MP3 files.  e,633 
+* 781  Amethystium.  Evermind.  Ft. Lauderdale, FL. 2004.  MP3 files.  e,634 
+* 781  Amethystium.  Odonata.  Ft. Lauderdale, Fl.  MP3 files.  e,635 
+* 781  Anonymous 4.  Legends of St. Nicholas : medieval chant and polyphony.  Lond. 1999.  MP3 files.  e,719 
+* 781  Arkenstone, David and others.  Spirit of Olympia.  Milwaukee, 1992.  MP3 files.  e,639 
+* 781  Arkenstone, David.  Atlantis.  Milwaukee, 2004.  MP3 files.  e,636 
+* 781  Arkenstone, David.  Sketches from an American Journey.  U.S. 2002.  MP3 files.  e,637 
+* 781  Australis.  Life giving.  n.p. 2005.  MP3 files.  e,640 
+* 781  Benedictine Monks of St. Michael's.  [Gregorian chant].  Santa Monica, CA. 1994.  MP3 files.  e,641 
+* 781  Blunt, James.  All the lost souls.  N.Y. 2007.  MP3 files.  e,589 
+* 781  Blunt, James.  Back to Bedlam.  West Hollywood, Calif. 2005.  MP3 files.  e,614 
+* 781  Brickman, Jim.  Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al].  N.Y. 1999.  MP3 files.  e,642 
+* 781  Brickman, Jim.  Escape / [by] Jim Brickman , Marc Antoine, Sara Evans, ... [et al].  Santa Monica, CA. 2006.  MP3 files.  e,643 
+* 781  Brickman, Jim.  From the heart.  Toronto, Ontario, 2009.  MP3 files.  e,644 
+* 781  Brickman, Jim.  Jim Brickman.  n.p. 1998.  MP3 files.  e,646 
+* 781  Brickman, Jim.  My romance.  Stanford, CA. p2000.  MP3 files.  e,647 
+* 781  Brickman, Jim.  Peace / [by] Jim Brickman, Anne Cochran, Tracy S. Silverman, ... [et al].  N.Y. 2003.  MP3 files.  e,648 
+* 781  Brickman, Jim.  Picture this.  Beverly Hills, Calif. 1997.  MP3 files.  e,649 
+* 781  Brickman, Jim.  Simple things.  N.Y. 2001.  MP3 files.  e,650 
+* 781  Buble, Michael.  Call me irresponsible / Michael Buble and Ivan Lins.  Burbank, CA. 2007.  MP3 files.  e,615 
+* 781  Caballero, David.  Ethereality.  Hollywood, CA. 2005.  MP3 files.  e,651 
+* 781  Cerdwen.  Or Mabinogi.  n.p. 1997.  MP3 files.  e,652 
+* 781  Chant Gregorien: Liturgie Dominicaine.  France, 2007.  MP3 files.  e,653 
+* 781  Chants of the Season.  N.Y. 1994.  MP3 files.  e,720 
+* 781  Cher.  Very best of Cher.  Burbank, CA. 2003.  MP3 files.  e,590 
+* 781  Cistercian Monks of Stift Heiligenkreuz.  Chant.  Universal Music Classics, c2008.  MP3 files.   e,654 
+* 781  Classics for Relaxation and Meditation.  St.-Laurent, Canada,1994.  MP3 files.  e,718 
+* 781  Collins, Phil.  Face value.  New York, N.Y. 1985.  MP3 files.  e,592 
+* 781  Cusco.  Ancient journeys.  n.p. 2000.  MP3 files.  e,655 
+* 781  Cusco.  Apurimac III.  n.p. 1997.  MP3 files.  e,656 
+* 781  Cusco.  Inner journeys.  n.p. 2003.  MP3 files.  e,657 
+* 781  Davis, Chip.  Fresh aire Christmas, A / [by] Chip Davis and John Rutter.  Omaha, Neb. 1988.  MP3 files.  e,721 
+* 781  DeJohnette, Jack.  Peace time.  n.p. 2007.  MP3 files.  e,660 
+* 781  Deep Forest.  Boheme  n.p. 1995.  MP3 files.  e,658 
+* 781  Deep Forest.  Made in Japan.  N.Y. 1999.  MP3 files.  e,659 
+* 781  Diamond, Neal.  12 Songs, [by] Neal Diamond and David Campbell.  New York, N.Y. 2005.  MP3 files.  e,593 
+* 781  Diamond, Neal.  His 12 Greatest Hits.  Universal City, Calif. 1985.  MP3 files.  e,594 
+* 781  Dion, Celine.  All the way.  N.Y. 1999.  MP3 files.  e,596 
+* 781  Dion, Celine.  New day has come, A.  N.Y. 2002.  MP3 files.  e,595 
+* 781  Dudley, Anne and others.  10th kingdom [soundtrack].  N.Y. 2000.  MP3 files.  e,580 
+* 781  Elysium Mind.  Desert wind.  n.p. 2012.  MP3 file.  ElysiumMind_DesertWind.mp3.  e,661 
+* 781  Elysium Mind.  Lay it down.  n.p. 2006.  MP3 file.  ElysiumMind_LayItDown.mp3.  e,662 
+* 781  Elysium Mind.  Marginal illusion.  n.p. n.d.  MP3 file.  ElysiumMind_MarginalIllusion.mp3 .  e,663 
+* 781  Enigma.  Cross of changes.  N.Y. 1993.  MP3 files.  e,664 
+* 781  Enya.  Amarantine.   Burbank, CA. 2005.  MP3 files.  e,666 
+* 781  Enya.  Celts.  Burbank, CA. 1992.  MP3 files.  e,669 
+* 781  Enya.  Day Without Rain, A.  Burbank, CA. 2000.  MP3 files.  e,665 
+* 781  Enya.  Paint the sky with stars : the best of Enya.  Burbank, CA. 1997.  MP3 files.  e,667 
+* 781  Enya.  Shepherd moons.  Burbank, Calif. 1991.  MP3 files.  e,668 
+* 781  Enya.  Watermark.  N.Y. 1988.  MP3 files..  e,670 
+* 781  Essential Leonard Cohen.  N.Y. 2002.  MP3 files.  e,591 
+* 781  Farish, Ryan.  Life in stereo.  n.p. c2012.  MP3 files.  File directory: 3275.  e,671 
+* 781  Gandalf.  Colors of a new dawn.  Sausalito, CA. 2004.  MP3 files.  e,672 
+* 781  Goodall, Medwyn.  Ancient Nazca: Inca mysteries.  Aerdenhout, Holland, 1997.  MP3 files.  e,673 
+* 781  Grease: The Original Soundtrack from the Motion Picture.  N.Y. 1991.  MP3 files.  e,581 
+* 781  Gregson-Williams, Harry and others.  Chronicles of Narnia [soundtrack].  Burbank, CA. 2005.  MP3 files.  e,582 
+* 781  Hooper, Nicholas; King, Alastair.  Harry Potter and the Order of the Phoenix...soundtrack.  Burbank, CA. 2007.  MP3 files.  e,584 
+* 781  Horner, James and others.  Beautiful Mind, A: Original Motion Picture Soundtrack.  N.Y. 2001.  MP3 files.  e,583 
+* 781  Hybrid.  Morning Sci-Fi.  n.p. 2003.  MP3 files.  e,597 
+* 781  Iglasias, Enrique and others.  Enrique.  L.A. 1999.  MP3 files.  e,674 
+* 781  Isham, Mark.  Vapor drawings.  Stanford, CA. 1983.  MP3 files.  e,675 
+* 781  Islam, Yusuf.  AOther cup.  N.Y. 2006.  MP3 files.  e,598 
+* 781  Joel, Billy.  Greatest Hits: Vol. III.  N.Y. 1997.  MP3 files.  e,599 
+* 781  Joel, Billy.  Greatest hits collection: Vol. I, II & III.  Australia, 1998.  MP3 files.  e,601 
+* 781  John, E.  Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.]  N.Y. 2002.  MP3 files.  e,577 
+* 781  John, E.  Road to El Dorado, The. / [by] Elton John, Randy Newman, and Tim Rice.  Beverly Hills, CA. 2000.  MP3 files.  e,585 
+* 781  John, Elton.  Captain & the Kid, The / [by] Elton John and Bernie Taupin.  Santa Monica, Calif. 2006.  MP3 files.  e,i622 
+* 781  John, Elton.  Goodbye yellow brick road / [by] Elton John and Bernie Taupin.  N.Y. 1995.  MP3 files.  e,676 
+* 781  John, Elton.  Greatest hits: v.3, 1979-1987.  L.A. 1987.  MP3 files.  e,602 
+* 781  John, Elton.  Live in Australia / [by] Elton John, Bernie Taupin, [and] James N. Howard.  Universal City, Calif. 1987.  MP3 files.  e,616 
+* 781  John, Elton.  Love songs.  N.Y. 1996.  MP3 files.  e,617 
+* 781  John, Elton.  One night only: the Greatest hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.]  N.Y. 2000.  MP3 files.  e,618 
+* 781  John, Elton.  Peachtree Road / by Elton John and Bernie Taupin.  N.Y. 2004.  MP3 files.  e,619 
+* 781  John, Elton.  Reg strikes back.  Universal City, Calif. 1988.  MP3 files.  e,620 
+* 781  John, Elton.  Songs from the West Coast.  Lond. 2001.  MP3 files.  e,621 
+* 781  Kater, Peter.  In a Dream.  n.p. 2009.  MP3 files.  e,603 
+* 781  Keating, Ronan.  10 Years of Hits.  Lond. 2004.  MP3 files.  e,604 
+* 781  Klass, Mylene.  Moving on.  U.K. 2003.  MP3 files.  e,623 
+* 781  Kooks.  Inside in, inside out.  U.K. 2006.  MP3 file s.  e,605 
+* 781  Lanz, David.  Cristofori's dream.  Milwaukee, 1998.  MP3 files.  e,677 
+* 781  Lasar, Mars.  Tahoe spirit.  n.p. 2009.  MP3 files.  e,678 
+* 781  Lasar, Mars.  Yosemite.  n.p. 2006.  MP3 files.  e,679 
+* 781  Lesium.  Auracle.  n.p. 2004.  MP3 files.  e,680 
+* 781  Lesium.  Illumination.  Anaheim, CA. 2003.  MP3 files.  e,681 
+* 781  Lesium.  Mystic spirit voices.  Miami, 2001.  MP3 files.  e,682 
+* 781  Lightfoot, Gordon.  If you could read my mind.  Burbank, Calif. 1980.  MP3 files.  e,606 
+* 781  Lislevand, Rolf.  Diminuito.  Munchen, 2009.  MP3 files.  e,715 
+* 781  Lynch, Ray.  Nothing above my shoulders but the evening.  Stanford, CA. 1993.  MP3 files.  e,683 
+* 781  MTV.  First 1000 Years: New Wave, The.  N.Y. 1999.  MP3 files.  e,607 
+* 781  McCoo, Marilyn.  White Christmas.  Santa Monica, CA. 1996.  MP3 files.  e,722 
+* 781  McKennitt, Loreen.  Book of secrets, The.  Burbank, Calif. 1997.  MP3 files.  e,687 
+* 781  McKennitt, Loreena.  Ancient muse, An.  N.Y. 2006.  MP3 files.  e,685 
+* 781  McKennitt, Loreena.  Parallel dreams.  Stratford, Ontario, 1989.  MP3 files.  e,686 
+* 781  McKennitt, Loreena.  Winter garden : five songs for the season.  Burbank, CA. 1995.  MP3 files.  e,684 
+* 781  Moods Unlimited Orchestra.  Elton John Story: Vol. 2.  St-Laurent, Quebec, 1995.  MP3 files.  e,688 
+* 781  Morris, T.  Tudors, The: Music from the Showtime Original Series.  Studio City, Calif. 2007.  MP3 files.  e,586 
+* 781  New England Collective.  Seasons of New England.  n.p. 1998.  MP3 files.  e,689 
+* 781  Now that's what I call music: 13.  Santa Monica, CA. 2003.  MP3 files.  e,608 
+* 781  O'Hearn, Patrick.  Indigo.  n.p. p1991.  MP3 files.  e,690 
+* 781  Pet Shop Boys.  Discography: the complete singles collection.  Hollywood, CA. 1991.  MP3 files.  e,624 
+* 781  Pet Shop Boys.  Very.  New York: EMI Records, 1993.  MP3 files.  e,609 
+* 781  Positive Evolutions.  n.p. [1999].  MP3 files.  e,578 
+* 781  Presley, Elvis.  Golden records.  N.Y. 1985.  MP3 files.  e,625 
+* 781  Pritchard, Paul.  Way forward.  n.p. [1996].  MP3 files.  e,579 
+* 781  Pure Moods III.  Beverly Hills, Calif. 2000.  MP3 file via USB.  e,691 
+* 781  Pure Moods.  Beverly Hills, CA. 1997.  MP3 file via USB.  e,692 
+* 781  Pure Moods: IV.  Beverly Hills, CA. 2002.  MP3 file via USB.  e,693 
+* 781  Rough guide to the music of Zimbabwe.  Lond. 1996.  MP3 files.  e,610 
+* 781  Rybak, Alexander.  No boundaries.  n.p. 2010.  MP3 files.  e,611 
+* 781  Savage Garden.  Affirmation.  n.p. 1999.  MP3 files.  e,612 
+* 781  Schnauss, U.  Goodbye.  Brooklyn, N.Y. 2007.  MP3 files  e,587 
+* 781  Schwartz, Paul and others.  Aria 3: Metamorphosis  N.Y. 2004.  MP3 files.  e,694 
+* 781  Schwartz, Paul and tohers.  State of grace : turning to peace.  N.Y. 2003.  e,695 
+* 781  Schwartz, Paul.  State of grace.  N.Y. 2000.  MP3 files.  e,696 
+* 781  Secret Garden.  Dawn of a new century.  Norway, 1999.  MP3 files.  e,697 
+* 781  Secret Garden.  Dreamcatcher.  U.K. 2001.  MP3 files.  e,698 
+* 781  Secret Garden.  Earthsongs.  N.Y. 2005.  MP3 files.  e,699 
+* 781  Secret Garden.  Once in a red moon.  N.Y. 2002.  MP3 files.  e,700 
+* 781  Secret Garden.  White stones.  N.Y. 1997.  MP3 files.  e,701 
+* 781  Secret Garden.  Winter Poem.  n.p. [2011].  MP3 files.  e,702 
+* 781  Shore, Howard.  Music from the Lord of the Rings, the trilogy.  Portugal, 2003.  MP3 files.  e,703 
+* 781  Sissel.  Into paradise.  N.Y. 2006.  MP3 files.  e,716 
+* 781  Sleepthief.  Labyrinthine heart.  Weston, FL. 2009.  MP3 files.  e,626 
+* 781  Stadler, Gary and others.  Deep within a faerie forest.  Topanga, CA. 2004.  MP3 files.  e,704 
+* 781  Summer solstice 2.  N.Y. p1998.  MP3 files.  e,
+* 781  Take That.  Beautiful world.  n.p. n.d.  MP3 files.  e,613 
+* 781  Taliesin Orchestra.  Jean D'arc.  Berlin, Germany, 2005.  MP3 files.  e,707 
+* 781  Taliesin Orchestra.  Maiden of mysteries: [the Music of Enya].  Roswell, GA. 1998.  MP3 files.  e,706 
+* 781  Taliesin Orchestra.  Tyranny of beauty.  Seattle, Wash: Miramar Recordings, 1995.  MP3 files.  e,708 
+* 781  Tate, Paul A.  Seasons of grace: piano reflections.  Chicago, 2006.  MP3 files.  e,709 
+* 781  Tears for Fears.  Tears Roll Down.  N.Y. 2004.  MP3 files.  e,627 
+* 781  Tin, Christopher.  Calling all dawns.  n.p. 2009.  MP3 files.  e,710 
+* 781  Tin, Christopher.  Drop that contained the sea.  n.p. 2014.  MP3 files.  e,712 
+* 781  Tingstad, Eric; Rumbel, Nancy.  In the garden.  Milwaukee, WI. [1991].  MP3 files.  e,711 
+* 781  Twelve Girls Band.  Eastern energy.  L.A. 2004.  MP3 files.  e,717 
+* 781  Vagelis; Anderson Jon..  Odyssey.  Santa Monica, CA. 2003.  MP3 files.  e,713 
+* 781  Vollenweider, Andreas.  Behind the gardens.  n.p.2005.  MP3 files.  e,714 
+* 782  Manilow, Barry.  Ultimate Manilow.  N.Y. 2002.  MP3 files.  e,724 
+* 782  Fleming, Tommy; Donnelly, Vincent.  Voice of hope.  Detroit?, 2005.  MP3 files.  e,723 
 * 790  Massey, Malcom Mack.  100 RV tips and tricks.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00OR77EU6).  i725 
 * 791  Blake, Bradley.  Family road trip trivia.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B099GGB7MN).  i726 
 * 791  Oppenheimer, Jess.  Laughs, luck...and Lucy : how I came to create the most popular sitcom of all time / Jess Oppenheimer, Gregg Oppenheimer.  Gregg Oppenheimer, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B002R5B1UO).  i727 
-* 791  Queen, The.  [London] : Grenada Screen Ltd., c2007 [2007].  MP4 file via USB.  File name: 9056.mp4.  i731 
+* 791  Queen, The.  [London] : Grenada Screen Ltd., c2007 [2007].  MP4 file.  File name: 9056.mp4.  i731 
 * 793  LeClair, David.  The Elder Scolls is going to be massive; massively multiplayer, that is [updates].  PDF file via USB.  3004.pdf.  IN MakeUseOf.com.  (May 4, 2012).  i734 
 * 793  Puzzleland.  30 interactive brainteasers to warm up your brain.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0121F21ZS).  i735 
 * 794  Classic arcade games [homepage].  [S.l.] : www.classicgamesarcade.com, [2012].  online via [www](http://www.classicgamesarcade.com/ ).  DBID 3048  i736 
@@ -915,29 +919,29 @@
 * 923  Seward, Igrid.  William and Harry.  n.p. n.d.  v.  i1749  2005-07  
 * 923  Woodward, Bob.  Fear; Trump in the White House.  N.Y., Simon & Schuster, c2018.  PDF file, 4 MB.  via [www.](https://drive.google.com).  i1636 
 * 927  Madigan, Tim.  I'm proud of you.  n.p. n.d.  v.  i1641.  Read 2013-10. Grade D.
-* 927.8  John, Elton.  Me.  [U.S.?] Henry Holt, c2019.  PDF file, 46.7 MB.  via [www](https://drive.google.com).  i1642.  Read 2020-01. Grade C.
+* 927  John, Elton.  Me.  [U.S.?] Henry Holt, c2019.  PDF file, 46.7 MB.  47 mb.  g,1642.  Read 2020-01. Grade C.
 * 928  L'Amour, Louis.  Education of a wondering man.  n.p. n.d.  v.  i1728  2013-04. Grade A 
 * 929  Urbanski, Julia.  Between a rock and a white blaze : searching for significance on the Appalachian Trail.  1st ed.  [S.n.], 2012.  k.  via [www](https://read.amazon.com/?asin=B00ANIRFH0).  i1643 
 * 930  Assyrian empire, The.  Sea Vision Publishing, c2021, 2019.  k.  via [www](https://read.amazon.com/?asin=B07S9T6DSX).  AISN B07S9T6DSX.  i1644 
 * 930  Cantor, norman.  Antiquity.  1st ed.  HarperCollins, c2003.  ix, 240 p.  ISBN 0060174099.   i1645.  Notes avail. 
 * 930  Clayton, Peter; Price, Martin J.  Seven wonders of the ancient world.  Routledge, 1988.  xiii, 178 p.  ISBN 0415050367.  i1646.  Read 2013-10. Grade C. Notes avail.
-* 930  Cline, Eric H.  1177 B.C.  [U.S.?] Princeton University Press, c2014.  PDF file, 5.2 MB.  via [www](https://drive.google.com).  i1647 
+* 930  Cline, Eric H.  1177 B.C.  [U.S.?] Princeton University Press, c2014.  5.2 MB.  g,1647 
 * 930  Davidescu, Mircea.  Lost Romans.  Mircea Davidescu, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EZIAW38).  i1648 
 * 930  Jackson, Roy.  Ancient Rome.  Healing Habits Publishing, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00WT6PE04).  i1649 
 * 930  King, Charles R.  Their greatest hour : Rome, Carthage, and the Second Punic War.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0088K74SU).  i1650 
 * 930  Weber, James.  Ancient history in 50 Events : from ancient civilizations to the fall of the Roman Empire.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B010W6OW5U).  i1651 
 * 932  Clayton, Matt.  Egyptian mythology.  [S.n.], c2017.  k.  via [www](https://read.amazon.com/?asin=B0738H8PM6).  AISN B0738H8PM6.  i1652 
-* 939  Cauvin, Jacques.  Birth of the gods and the orgins of agriculture, tr. by Trevor Watkins.  [U.S.?] Cambridge University Press, 2000.  PDF file, 11.3 MB.  via [www.](https://drive.google.com).  i1653 
+* 939  Cauvin, Jacques.  Birth of the gods and the orgins of agriculture, tr. by Trevor Watkins.  [U.S.?] Cambridge University Press, 2000.  11.3 MB.  g,1653 
 * 940  Cambridge medieval history collection.  Mario Brito Publishing, 2000.  k.  via [www](https://read.amazon.com/?asin=B08KHH4DV4).  AISN B08KHH4DV4.  i1654 
 * 940  Hazen, Charles.  History of Europe 1870-1919.  Jovian Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01N0FZTMJ).  i1656 
 * 940  Henderson, Ernest F.  Select historical documents of the middle ages.  London and New York : George Bell & Sons, 1892.  PDF file via USB.  10101.pdf.  i1655 
-* 940  Klee, Kernst, Willi Dressen, Volker Riess, eds; tr. by Deborah Burnstone.  Good old days : the Holocaust as seen by its perpetrators and bystander.  [n.p. n.d.]  1 pdf.  via [www.](https://drive.google.com).  klee1988 
+* 940  Klee, Kernst and others.  Good old days.  N.Y. [1988]  43 mb.  g,klee1988 
 * 940  Open University.  Early modern Europe.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B07DVTFKZ6).  i1658 
 * 940  Taylor, A.J.P.  War lords.  Endeavour Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00H7YVEGQ).  i1657 
 * 940  Tuchman, Barbara W.  Distant mirror, A.  N.Y., Ballantine, xx + 677 p. 21 cm.  v2308297 
-* 941  Anderson, Christopher.  Game of crowns : Elizabeth, Camilla, Kate, and the throne.  [n.p.] Gallery Books, c2016.  PDF file, 4.4 MB.  via [www](https://drive.google.com).  i1659 
+* 941  Anderson, Christopher.  Game of crowns : Elizabeth, Camilla, Kate, and the throne.  [n.p.] Gallery Books, c2016.  4.4 MB.  g1659 
 * 941  Milton, Nicolas.  Neville Chamberlain's legacy.  Pen & Sword, 2019.  via [www](https://www.hoopladigital.com/play/13917369).  ISBN 9781526732262.  i1661.  Read 2021-09. Grade C. Notes avail. A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. 
-* 941  Mitford, Deborah.  Wait for me.  U.K., John Murray, 2010.  PDF file via [www](https://drive.google.com).  i1660 
+* 941  Mitford, Deborah.  Wait for me.  U.K., John Murray, 2010.  4 mb.  g,1660 
 * 941  Strange, Jack.  Strange Tales of Scotland.  Creativia, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01NA0CFYQ).  i1662 
 * 942  Powicke, Michael R.  Community of the realm.  N.Y., Alfred A. Knopf, [1973].  xii + 194 p.  (Borzoi Hist. of England ; 2).  v2308299 
 * 942  Rofheart, Martha.  Glendower country.  Endeavour Press, [n.d.]  k.  via [w.](https://read.amazon.com/?asin=B00ZRSIQBU).  i1664 
@@ -954,7 +958,7 @@
 * 973  Dawson, Sarah Morgan.  Confederate girl's diary.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004TQ136Q).  i1672 
 * 973  Ellias, Joseph.  Quartet.  n.p. n.d.  v.  i1673.  Read 2016-02. Grade B.
 * 973  History of Hillsdale County, Michigan.  Phil. 1879.  via [www](https://archive.org/details/bad0928.0001.001.umich.edu/)  i5 
-* 973  Hulse, Carl.  Obama is sworn in as 44th president.  n.p. 2009.  PDF via [www](https://drive.google.com).  i1675 
+* 973  Hulse, Carl.  Obama is sworn in as 44th president.  n.p. 2009.  261 kb.  g,1675 
 * 973  Immerwahr, Daniel.  How to hide an empire.  Farrar, Straus and Giroux, 2019.  k. 75318 kb.  immerwahr2019  2023-03. Grade B
 * 973  Kennedy, Roger G.  Mr. Jefferson's lost cause : land, farmers, slavery, and the Louisiana Purchase / Roger G. Kennedy.  Oxford University Press, 2003.  xv, 350 p.  ISBN 0195153472.  i1685.  Notes avail. 
 * 973  Lossing, Benson John.  Lives of signers of the Declaration of Independence.  Laconia Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01N8QHWF5).  i1676 
@@ -1699,7 +1703,7 @@
 * SCI  Verne, Jules.  20,000 leagues under the sea.  Bantam Books, 1964.  371 p.  ISBN 0553212524.  i1542.  Read 2021-10. Grade C. Notes avail.  
 * SCI  Verne, Jules.  From the Earth to the Moon, and, Round the Moon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004UJTUKI).  i1432 
 * SCI  Verne, Jules.  Round the moon.  n.p. n.d.  v.  i1540  2012-08  
-* SCI  Weis, Margaret.  Soulforge.  TSR, c1998.  PDF file, 1 MB.  via [www.](http://drive.google.com).  i1437 – 2010-11 and 2013-12|B  
+* SCI  Weis, Margaret.  Soulforge.  TSR, c1998.  1 MB.  g,1437 – 2010-11 and 2013-12|B  
 * SCI  Wells, H.G.  Time machine.  n.p. 1895, 2003.  122 p.  i9.  Read 201?
 * SCI  Wells, H.G.  War of the worlds.  Atria Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0088Q0F5I).  i1535 
 * SCI  Westover, Tim.  Auraria.  QW Publishers, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008AM5KGE).  i1440 
