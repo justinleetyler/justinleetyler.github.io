@@ -54,7 +54,7 @@
 * 020 SMA  The small school library.  Alaska Dept. of Education, 1967.  [w.](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i62 
 * 023  Miller, Zana Kate.  How to organize a library.  C., Library Bureau, c1921.  PDF, 1.3 MB.  g64 
 * 025  Dillon, Martin.  Assessing information on the internet / Martin Dillon [et.al.]  ERIC, 1993.  PDF file.  via [www](http://files.eric.ed.gov/fulltext/ED354906.pdf).  i67 
-* 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  online via [www]https://archive.org/details/catalogingmachin00dodd).  230401 
+* 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  online via [www](https://archive.org/details/catalogingmachin00dodd).  w,230401 
 * 025  Library of Congress.  Disseminating information on the internet.  W., Library of Congress, 1994.  PDF, 1.5 MB.  g69 
 * 025  Mering, Margaret.  RDA workbook.  Libraries Unlimited, c2014.  PDF, 4 MB.  g70 
 * 025  Open University.  The digital literacy.  The Open University, 2018.  k. 1451 kb.  via [www](https://read.amazon.com/?asin=B07DVNC9HM).  i72 
