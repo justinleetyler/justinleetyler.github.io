@@ -1,7 +1,7 @@
 * FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  k. 1508 KB.  B08Y5LK3KL.
 * FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  k. 618 kb.  (Frozen world 1)  B079GX94SP.
 * FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  k. 2706 kb.  B0CHXPSTZZ.
-* FIC  Gockel, C.; Edward, Tom, ill.  Archangle down.  n.p. 2015.  k. 4419 kb.  (Archangel project 1).  B016WS5FO4.
+* FIC  Gockel, C.; Edward, Tom, ill.  Archangel down.  n.p. 2015.  k. 4419 kb.  (Archangel project 1).  B016WS5FO4.
 * LG+  O'Shea, M.J.  Little bite of magic. 2nd ed.  n.p. 2016.  k. 4689 kb.  (Little magic 1).  B01ETJPFFC.
 * WES  McConley, Henry.  Battle against traitors.  n.p. 2021.  k. 2705 kb.  B0926421PC.
 * FIC  O'Carroll, Brendon.  Mammy.  N.Y. 1994.  744 kb.  g,2111131.pdf
