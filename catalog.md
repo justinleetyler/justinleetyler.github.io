@@ -1210,7 +1210,7 @@
 * FIC  Harbinson, W.A.  Eden.  Dell, c1987.  367 p.  ISBN 0440122120.  i1514  2013-05. Grade C
 * FIC  Harden, James.  Lost journal of Private Kenji Yoshida: A Secret Apocalypse Story.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005LO6K54).  i1047 
 * FIC  Harden, James.  Secret apocalypse.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004I8WNR8).  i1049 
-* FIC  Hardy, Thomas.  Tess of the d’Urbervilles.  N.Y., Signet, 2006.  xxi + 407 p. 17 cm.  d2309221.  Read 2023-10. Grade D. Tess is put to death for killing Alec when her estranged husband, Angel, comes back to find her.
+* FIC  Hardy, Thomas.  Tess of the d’Urbervilles.  N.Y., Signet, 2006.  xxi + 407 p. 17 cm.  d2309221.  Read 2023-10. Grade D. The story of Tess, who is raped by Alec, marries Angel, but then is left estranged for not being a virgin.
 * FIC  Harris, R.J.  Starfall 1 : the beginning.  [S.n., 20--?].  k.  AISN B00IY2U9WK.  i1021 
 * FIC  Harris, T.R.  Human chronicles saga (Books One & Two).  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i1046 
 * FIC  Hautman, Pete.  Invisible.  n.p. n.d.  v.  i1025.  Read 2011-10. Notes avail. 
