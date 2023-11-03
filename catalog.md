@@ -1,25 +1,25 @@
-* FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  k. 1508 KB.  B08Y5LK3KL.
-* FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  k. 618 kb.  (Frozen world 1)  B079GX94SP.
-* FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  k. 2706 kb.  B0CHXPSTZZ.
-* FIC  Gockel, C.; Edward, Tom, ill.  Archangel down.  n.p. 2015.  k. 4419 kb.  (Archangel project 1).  B016WS5FO4.
-* LG+  O'Shea, M.J.  Little bite of magic. 2nd ed.  n.p. 2016.  k. 4689 kb.  (Little magic 1).  B01ETJPFFC.
-* WES  McConley, Henry.  Battle against traitors.  n.p. 2021.  k. 2705 kb.  B0926421PC.
+* FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  k. 1508 KB.  k,B08Y5LK3KL.
+* FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  k. 618 kb.  (Frozen world 1).  k,B079GX94SP.
+* FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  k. 2706 kb.  k,B0CHXPSTZZ.
+* FIC  Gockel, C.; Edward, Tom, ill.  Archangel down.  n.p. 2015.  k. 4419 kb.  (Archangel project 1).  k,B016WS5FO4.
+* LG+  O'Shea, M.J.  Little bite of magic. 2nd ed.  n.p. 2016.  k. 4689 kb.  (Little magic 1).  k,B01ETJPFFC.
+* WES  McConley, Henry.  Battle against traitors.  n.p. 2021.  k. 2705 kb.  k,B0926421PC.
 * FIC  O'Carroll, Brendon.  Mammy.  N.Y. 1994.  744 kb.  g,2111131.pdf
 * 289.1  Morrison-Reed, Mark D.  Menage a trois : the UUA, GAUFCC and IARF and the birth of the ICUU.  n.p. n.d.  2069 kb.  e,2310291.pdf
 * 779  [Photograph of Rominski, Colleen R.]  n.p. n.d.  66,538 kb.  e,10078.tif
-* 001  1 MB club.  s.n., n.d.  [via www](https://1mb.club/).  i16 
-* 001  Flying saucers : the mysterious history of the UFO Phenomenon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01D3UMC9A).  i1663 
-* 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  [k] via [www](https://read.amazon.com).  i11 
-* 001  Hine, Dougald.  What good is information.  n.p. n.d.  online via [www](https://Aeon.com). (Mar 6, 2014).  i12.  Notes avail. 
-* 001  Lifehacker.  Gizmodo Media Group, c2017.  [via www](http://www.lifehacker.com).  Daily.  i14 
+* 001  1 MB club.  s.n. n.d.  [via www](https://1mb.club/).  w,16 
+* 001  Flying saucer.  n.p. n.d.  k. k,B01D3UMC9A
+* 001  Goldstein, Jack.  101 amazing facts.  1st ed.  n.p. 2014.  k.  i11 
+* 001  Hine, Dougald.  What good is information.  n.p. n.d.  via [www](https://Aeon.com). (Mar 6, 2014).  w,12.  Notes avail. 
+* 001  Lifehacker.  Gizmodo Media Group, c2017.  [via www](http://www.lifehacker.com).  Daily.  w,14 
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.  i10.  Read 2016-04. Grade C.
-* 001  Open University.  Information on the web.  U.S.? c2016.  k.  via [www](https://read.amazon.com/?asin=B01D8X6UIG).  i17 
-* 002  Free kids books.  U.S.? 2021.  [via www.](https://freekidsbooks.org/).  i19 
-* 002  Kindle Buffet.  n.p. n.d.  [via www.](http://www.weberbooks.com/kindle/)  Daily.  i20 
+* 001  Open University.  Information on the web.  U.S.? c2016.  k.  B01D8X6UIG.
+* 002  Free kids books.  U.S.? 2021.  [via www.](https://freekidsbooks.org/).  w,19 
+* 002  Kindle Buffet.  n.p. n.d.  [via www.](http://www.weberbooks.com/kindle/)  Daily.  k,20 
 * 002  Lyons, Rebecca E; Rayner, Samantha J.  Academic book of the future.  U.S.? 2016.  k.  i21 
-* 002  Openstax.  n.p. c2021.  [via www.](https://openstax.org/).  i22 
-* 002  University of Minnesota.  Open textbook library.  The author, [202-?]  [w.](https://open.umn.edu/opentextbooks/).  i23 
-* 002  eBooks habit.  n.p. c2012.  [via www.](ebookshabit.com)  Daily.  i18 
+* 002  Openstax.  n.p. c2021.  [via www.](https://openstax.org/).  w,22 
+* 002  University of Minnesota.  Open textbook library.  The author, [202-?]  via [www.](https://open.umn.edu/opentextbooks/).  w,23 
+* 002  eBooks habit.  n.p. c2012.  [via www.](ebookshabit.com)  Daily.  w,18 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  1797 kb. e,24.pdf 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
 * 004  Adams, Mark.  Python programming.  Resolute Minds Pub., c2015.  k.  via [www](https://read.amazon.com/?asin=B013L09EC0).  i25 
@@ -331,32 +331,32 @@
 * 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
 * 299.5  Daoism.  file via USB.  IN World religions reference library.  Cengage Learning, c2007.  e,304.pdf.  Notes avail. 
 * 302  Petzinger, Genevieve Von.  First signs.  N.Y. 2016.  15339 kb.  e,2310393.epub
-* 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  i312  Read 2016-08. Grade B
-* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  i314.  Read ? Notes avail.
-* 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  via [www](https://read.amazon.com/?asin=B07V4WM9FC).  i316 
-* 305  Bands and tribes.  n.p. n.d.  v.  i320.  Notes avail. 
-* 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.  i321.  Notes avail. 
-* 305  Diamond, Jared.  World until yesterday.  Penguin Books, c2012.  xi + 498 p.; 22 cm.  ISBN 9780143124405.  i317.  Read 2004-09. Grade C. Notes avail.
-* 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.  i322.  Notes avail. 
+* 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  d,312  Read 2016-08. Grade B
+* 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  d,314.  Read ? Notes avail.
+* 305  Ashcroft, Richard T.; Bevir, Mark, eds.  Multiculturalism in the British Commonwealth: Comparative perspectives on theory and practice.  University of California Press, 2019.  k. 3428 kb.  k,B07V4WM9FC
+* 305  Bands and tribes.  n.p. n.d.  v.  d,320.  Notes avail. 
+* 305  Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State.  n.p. n.d.  v.  d,321.  Notes avail. 
+* 305  Diamond, Jared.  World until yesterday.  Penguin Books, c2012.  xi + 498 p.; 22 cm. d,317.  Read 2004-09. Grade C. Notes avail.
+* 305  Elwell, Frank.  Hunting and gathering socities.  [F. Elwell, n.d.].  v.  d,322.  Notes avail. 
 * 305  Odell, Jenny.  How to do nothing.  Brooklyn [c2019].  g.  i315 
-* 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.  i318.  Notes avail. 
-* 305  Veblen, Thorstein.  Theory of the leisure class.  Dover Publications, n.d.  k.  via [www](https://read.amazon.com/?asin=B00A73AIMA).  i319 
-* 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  n.p. c2012.  k. 448 kb.  via [www](https://read.amazon.com/?asin=B008BXVQU6).  i323 
-* 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.  i324.  Read 2005-11. Notes avail.  
-* 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.  i325.  Notes avail. 
-* 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  n.p. 2015.  k. 1515 kb.  via [www](https://read.amazon.com/?asin=B00UCF3U0A).  i326 
+* 305  Vance, J.D.  Hillbilly elegy.  n.p. 2016.  v.  d,318.  Notes avail. 
+* 305  Veblen, Thorstein.  Theory of the leisure class.  n.p. n.d.  k.  k,B00A73AIMA
+* 306  Brown, Michael L.  In the line of fire: 70 articles from the front lines of the culture wars.  1st ed.  n.p. c2012.  k. 448 kb.  k,B008BXVQU6
+* 306  Carter, Jimmy.  Our endangered values.  N.Y. c2005.  O.  d,324.  Read 2005-11. Notes avail.  
+* 306  Gilbert, Elizabeth.  Eat, pray, love.  n.p. n.d.  v.  d,325.  Notes avail. 
+* 306  Hunter, Daniel.  Building a movement to end the new Jim Crow.  n.p. 2015.  k. 1515 kb.  k,B00UCF3U0A
 * 306  McCartney, Jennifer.  Little book of sloth philosophy.  Lond. 2018.  S.  i327.  Read 2019-07. Grade B. Notes avail.
-* 310  United States. Central Intelligence Agency.  World factbook 2018-2019. Skyhorse, 2018.  k. 50484 kb.  DBID 3117.  i328 
-* 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  g. 14 MB via [www](https://drive.google.com/file/d/1EfVEek6iMLB7lNDW5otbI9kpqFlu9DYz/view?usp=sharing).
+* 310  United States. Central Intelligence Agency.  World factbook 2018-2019. Skyhorse, 2018.  k. 50484 kb.  k,328 
+* 320  Belew, Kathleen.  Bringing the war home.  Cambridge, Mass. 2018.  g. 14 MB via.
 * 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  g. 
-* 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  k. 5015 kb.  via [www](https://read.amazon.com/?asin=B005NE552G).  i342 
+* 320  Bogdanor, Vernon.  Monarchy and the constitution.  Oxf. 1995.  k. 5015 kb.  k,B005NE552G 
 * 320  Canada.  Crown of maples, A.  2012 ed.  [Canada], [c2012].  g.  i340 
-* 320  Darlin, Alistair.  Back from the brink: 1000 days at number 11.  n.p. 2012.  k. 1581 kb.  via [www](https://read.amazon.com/?asin=B00AA33JPK).  i329 
+* 320  Darlin, Alistair.  Back from the brink: 1000 days at number 11.  n.p. 2012.  k. 1581 kb.  k,B00AA33JPK
 * 320  Hain, Peter.  Outside in.  Lond., Biteback Pub., 2012.  k.  i338 
-* 320  Kazin, Michael.  American dreamers. N.Y. 2011.  O.  i330 
-* 320  Rawnsley, Andrew.  Servants of the people.  U.K. ed.  n.p. 2001.  k. 1745 kb.  via [www](https://read.amazon.com/?asin=B00390BDZE).  i335 
-* 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  i337.  Read 2022-02. Grade C. Notes avail.
-* 320  Seldon, Anthony; Lodge, G.  Brown at 10.  n.p. 2010.  k.  via [www](https://read.amazon.com/?asin=B004DI7INC).  i336 
+* 320  Kazin, Michael.  American dreamers. N.Y. 2011.  O.  d,330 
+* 320  Rawnsley, Andrew.  Servants of the people.  U.K. ed.  n.p. 2001.  k. 1745 kb.  k,B00390BDZE
+* 320  Seldon, Anthony.  May at 10, the verdict.  n.p. 2020.  k. 9830 kb.  k,337.  Read 2022-02. Grade C. Notes avail.
+* 320  Seldon, Anthony; Lodge, G.  Brown at 10.  n.p. 2010.  k.  k,B004DI7INC
 * 321  Bagehot, Walter.  English constitution.  n.p. 2012.  k. 355 kb.  via [www](https://read.amazon.com/?asin=B0082YI9PY).  i341 
 * 321  Brown, Lawrance.  My country is called Earth.  n.p. c2010.  g.
 * 321  Governor-General is the guardian of our Constitution  v.  IN CCPA Monitor.  Vol. 17, no. 1 (May 2000)  i343.  Notes avail. 
