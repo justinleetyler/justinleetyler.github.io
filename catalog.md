@@ -1,9 +1,9 @@
-* FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  k. 1508 KB.  k,B08Y5LK3KL.
-* FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  k. 618 kb.  (Frozen world 1).  k,B079GX94SP.
-* FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  k. 2706 kb.  k,B0CHXPSTZZ.
-* FIC  Gockel, C.; Edward, Tom, ill.  Archangel down.  n.p. 2015.  k. 4419 kb.  (Archangel project 1).  k,B016WS5FO4.
-* LG+  O'Shea, M.J.  Little bite of magic. 2nd ed.  n.p. 2016.  k. 4689 kb.  (Little magic 1).  k,B01ETJPFFC.
-* WES  McConley, Henry.  Battle against traitors.  n.p. 2021.  k. 2705 kb.  k,B0926421PC.
+* FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  1508 KB.  k,B08Y5LK3KL.
+* FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  618 kb.  (Frozen world 1).  k,B079GX94SP.
+* FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  2706 kb.  k,B0CHXPSTZZ.
+* FIC  Gockel, C.; Edward, Tom, ill.  Archangel down.  n.p. 2015.  4419 kb.  (Archangel project 1).  k,B016WS5FO4.
+* LG+  O'Shea, M.J.  Little bite of magic. 2nd ed.  n.p. 2016.  4689 kb.  (Little magic 1).  k,B01ETJPFFC.
+* WES  McConley, Henry.  Battle against traitors.  n.p. 2021.  2705 kb.  k,B0926421PC.
 * FIC  O'Carroll, Brendon.  Mammy.  N.Y. 1994.  744 kb.  g,2111131.pdf
 * 289.1  Morrison-Reed, Mark D.  Menage a trois : the UUA, GAUFCC and IARF and the birth of the ICUU.  n.p. n.d.  2069 kb.  e,2310291.pdf
 * 779  [Photograph of Rominski, Colleen R.]  n.p. n.d.  66,538 kb.  e,10078.tif
