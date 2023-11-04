@@ -1,3 +1,5 @@
+* SCI  Huzcotoq, Nego. Severed roots.  n.p. 2023.  2551 kb.  k,B0BQ8HK8KV.
+* SCI  Ye, Rayner.  YuFu's run 1.  n.p. 2020.  3458 kb.  k,B0BQ8HK8KV.  
 * FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  1508 KB.  k,B08Y5LK3KL.
 * FIC  Ross, Hannah.  Last outpost.  n.p. 2018.  618 kb.  (Frozen world 1).  k,B079GX94SP.
 * FIC  LARS.  Nemchick, Emily, ed.  Fortress.  n.p. : Sky Gate Tale, 2023.  2706 kb.  k,B0CHXPSTZZ.
