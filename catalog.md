@@ -1,3 +1,8 @@
+* SCI  Reed, Jaxon.  Agents of the planetary republic.  n.p. 2001.  k. 3389 kb.  iB08RYB4S19
+* FIC  Gauvin, Juliet.  Irish cottage.  n.p. 2014.  k. 631 kb.  (Irish heart 1)  iB00QQGRIES
+* SCI  Fuller, Nicolette.  Genesis n.p. 2023.  k. 2290 kb.  (New age 1)  iB0C4KYM9FK
+* SCI  Ashling, Andrew.  Bonds of hate.  n.p. 2013.  k. 1484 kb.  iB004ISLQYO.  (Invisible chains 1)
+* SCI  Tayell, Frank.  London.  n.p. 2013.  k. 4772 kb.  iB00FGV3X7A.  (Surviving the evacuation 1)
 * SCI  Huzcotoq, Nego. Severed roots.  n.p. 2023.  2551 kb.  k,B0BQ8HK8KV.
 * SCI  Ye, Rayner.  YuFu's run 1.  n.p. 2020.  3458 kb.  k,B0BQ8HK8KV.  
 * FIC  Lynch, David.  Fading evergreen.  n.p. 2021.  1508 KB.  k,B08Y5LK3KL.
