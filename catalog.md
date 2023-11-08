@@ -166,7 +166,7 @@
 * 178  [21 simple actions towards a simpler life].  [n.p 2012?]  via www.  i170.  Notes avail. 
 * 181  I-ming, Liu.  Awakening to the Tao, tr. by Cleary, Thomas.  1st ed.  Boston : Shambhala ; [New York] : Distributed in the U.S. by Random House, 1988.  xvi, 105 p. ; 22 cm.  ISBN: 087773447X.  i1710.  Read 2022-05. Grade B. Notes avail. 
 * 188  Aurelius, Marcus.  Meditations.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0082XJGRK).  i173 
-* 188  Aurelius, Marcus.  Meditations. Tr. and with notes by Martin Hammond ; with an introduction by Diskin Clay. London : Penguin Classics, an imprint of Penguin Books, 2014.  lxi, 351 p. ; 17 cm.  ISBN: 9780141395869.  i1716 
+* 188  Aurelius, Marcus.  Meditations. Hammond, Martin tr. Clay, Diskin intro.  Lond. 2014.  lxi, 351 p. ; 17 cm.  d,0018 
 * 188  Aurelius, Marcus.  Meditations; tr. by Francis Hutcheson and James Moor; ed. and with an intr. by James Moore and Michael Silverthorne.  n.p. Liberty Fund, c2008.  PDF via [www](https://drive.google.com).  ISBN 97808659715101.  g,1692 
 * 188  Irving, William. The stoic challenge.  W.W. Norton & Company, 2019.  k.  via [www](https://read.amazon.com/?asin=B07P9DC6TY).  i174.  Read 2021-12. Grade C. Notes avail. 
 * 188  James, Ryan.  Stoicism.  n.p. 2017.  k. 4381 kb.  via [www](https://read.amazon.com/?asin=B06Y2THJY5).  i175  2011-10  
@@ -190,8 +190,8 @@
 * 210  Maziarek, Jeff.  Spirituality simplified.  Spirit Simple Enterprises, 2012.  k. 981 kb.  via [www](https://read.amazon.com).  ASIN B007AMMYG4.  i189 
 * 210  Mercer, John Edward.  Nature Mysticism.  n.p. 2012.  k.  via [www](https://read.amazon.com/?asin=B00848YOGQ).  i191 
 * 210  Peters, Karl E.  Dancing with the sacred.  Trinity Press International, c2002.  x, 171 p.  ISBN 1563383934.  i192.  Notes avail. 
-* 220  Bible.  Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999].  v. 23 cm.  i23082919 
-* 220  Bible.  Message; Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  i,23082918 
+* 220  Bible.  Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999].  v. 23 cm.  v,0025 
+* 220  Bible.  Message; Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  v,0024
 * 220  Ferlo, Roger.  Opening the Bible.  Cambridge, Mass. c1997.  xv, 153 p.  ISBN 1561011444. i194.  Read 2011-10. Notes avail.
 * 220  Googan, Michael D., ed.  New oxford annotated bible : New revised standard version with the Apocrapha; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors.  4th ed.  n.p. Oxford University Press, c2010.  PDF file, 46.6 MB.  via [www](https://drive.google.com).  i198 
 * 220  Bible.  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  "New English Translation"-cover.  i197 
@@ -204,7 +204,7 @@
 * 226  Growth of the gospel tradition.  n.p., 2007.  PDF file, 379 KB.  via [www](https://drive.google.com).  i204 
 * 226  Jefferson, Thomas.  The Jefferson Bible.  Sandbox Press, 2011.  k.  304 kb.  via [www](https://read.amazon.com).  ISBN 9781937810092.  i205 
 * 229  Jeffery, Peter.  The secret Gospel of Mark unveiled.  n.p. n.d.  v.  i207 — 2011-10  
-* 230  Frevert, Patricia, ed.  Welcome : a Unitarian Universalist primer.  B., Skinner House, 2009.  77 p.  ISBN 9781558965447.  i1709.
+* 230  Frevert, Patricia, ed.  Welcomer.  Bost. 2009.  77 p.  v,0021.
 * FIC  Little, Rod.  Earthweed.  2nd ed.  n.p. n.d.  c2016.  via [www](https://www.hoopladigital.com/play/14940629).  (Sons of Neptune ; 1)  ISBN 9781547268566   d,256. 
 * 230  Smith, Huston.  The soul of Christianity. n.p. n.d.  PDB file.  via USB.  Title from BN.com.  i209 
 * 230  Spong, John Shelby.  New Christianity for a new world, A.  1st ed.  San Francisco : n.p. c2001.  xxv, 276 p.  ISBN 0060670843.  i210.  Read 20?? Notes avail. 
@@ -220,6 +220,7 @@
 * 241  Jung, Patricia Beattie; Jung, Shannon.  Moral issues and Christian responses.  n.p. n.d.  v.  i1734  2011-10  
 * 242  Diack, Michael.  The Light and the glass.  Sunstrike, 2013.  k. 960 kb.  (Empyria ; 2).  via [www](https://read.amazon.com/?asin=B00GQZD1JA).  i221 
 * 242  Jacobs, Donald R.  Consider Jesus.  Scottdale, Pa. : Herald Press, c2006.  367 p.  ISBN 0836193474  i222.  Read 2011-10. Notes avail.
+* 242  Leach, Michael; Goodnough, Doris eds.  Maryknoll book of inspiration.  Maryknoll, N.Y. 2010.xxvii, 401 p. 21 cm.  v,0310.
 * 242  Tarbox, Elizabeth.  Life tides, meditations.  Skinner House Books, 2012.  k. 229 kb.  via [www](https://read.amazon.com/?asin=B008MP9IXU).  i223 
 * 247  [Celtic cross.  n.p. n.d.]  PDF file.  via [www](https://drive.google.com).  i224 
 * 248  Broyles, Anne.  Journaling.  n.p. n.d.  v.  i227  2012-03
@@ -232,7 +233,9 @@
 * 262  Viola, Frank.  Reimagining church.  David C. Cook, 2012.  k. 2983 kb.  via [www](https://read.amazon.com/?asin=B005N4O5Q8).  i235 
 * 264  Boy Scouts of America.  Reverence; a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events.  n.p. Boy Scouts of America, 2010.  via [www.](http://drive.google.com.  i238 
 * 264  Daily Prayer for All Seasons.  Church Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M4Q4B5S).  i237 
-* 264  Episcopal Church, USA.  The Book of Common Prayer...  Church Publishing, [2007?]  PDF file.  via [www](http://drive.google.com.  i236 
+* 264  Book of prayer and praise for congregational worship.  Bost. 1893.  vii + 377 p. 23 cm.  v,0084
+* 264  Episcopal Church, USA.  The Book of Common Prayer...  Church Publishing, [2007?]  PDF file.  via [www](http://drive.google.com.  i236
+* 264  Episcopal Church, USA.  The Book of Common Prayer...  N.Y., Oxford Univ. Press, [1990].  1001 p. 16 cm.  v, 
 * 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.  i239.  Notes avail. 
 * 265  Medd, Peter Goldsmith.  The Priest to the Altar: Or Aids to the Devout Celebration of Holy Communion Chiefly After the Ancient English Use of Sarum.  Rivingtons, [n.d.]  k.  i240 
 * 265  Ten important points to remember when the priest calls.  n.p. n.d.  1129 kb.  e,7004.pdf
@@ -296,7 +299,7 @@
 * 297.272  Ali, Ayaan Hirsi.  Heretic.  Harper, c2015.  272 p.  ISBN 9780062333933.  i296.  Notes avail. 
 * 299  Ancient Order of Druids in America.  The AODA new candidate guide.  1st ed.  Telluric Press, c2016.  [w.](http://www.justinleetyler.com/aoda2016.pdf).  i297.  Notes avail. 
 * 299  Deng, Ming Dao.  365 Tao.  N.Y., HarperOne, 1992.  k.  9171 kb.  via [www](https://read.amazon.com/?asin=B00CREFHDM).  i305 
-* 299  Deng, Ming-Dao.  365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992.  xii, 380 p. 18 cm.  i310 
+* 299  Deng, Ming-Dao.  365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992.  xii, 380 p. 18 cm.  v,0020 
 * 299  Herman, Jonathan.  Taoism for dummies.  Mississauga, Ontario : John Wiley & Sons, c2013.  1876 kb.  e,307.mobi 
 * 299  Hifler, Joyce Sequichie.  A Cherokee feast of days.  Council Oak Books, c1992.  412 p.  i300.  Notes avail. 
 * 299  Laozi.  Living Dao : the art and way of living a rich & truthful life, tr...by Lok Sang HO.  [S.n.], 2009.  k?  i309 
@@ -339,7 +342,7 @@
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  g.
 * 321  Ogg, Frederi Austin.  Governments of Europe.  N.Y., 1923.  via [www](https://www.gutenberg.org/ebooks/21006).  i333 
 * 321  Seldon, Anthony.  Cabinet Office, 1916-2018; [w.] Meakin, J.  n.p. 2016.  k. 16371 kb.  i,seldon2016. 
-* 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  S.  i345. [Notes avail.](https://justinleetyler.github.io/reading_notes#i345txt) 
+* 321  Snyder, Timothy.  On tyranny.  1st ed.  N.Y. 2017.  126 p. 16 cm.  v,0022. [Notes avail.](https://justinleetyler.github.io/reading_notes#i345txt) 
 * 321  Streit, Clarence K.  Union now.  Lond. 1940.  g.  i346 
 * 321  Tudor, Philippa.  Ceremony of the introduction of Bishops to the House of Lords.  g.  (In Parliamentary History, 21:2, 2002).  i347 
 * 321  Wexler, Jay.  Odd clauses.  Bost. : Beacon Press, 2011.  k. 620 kb.  i348.  Read 2013-01.
@@ -793,7 +796,7 @@
 * 916  Duncan, David Ewing.  From Cape to Cairo.  Weidenfeld & Nicolson, c1989.  xvii, 330 p.  ISBN 1555840450.  i1579.  2021-09. Grade C. Notes avail. An african travel autobiography 
 * 916  Palin, Michael.  Sahara.  n.p. n.d.  v.  i1580  2013-07. Grade C
 * 917  Bryson, Bill.  Walk in the woods.  1st ed.  Anchor Books, 2007, c1998.  397 p.  ISBN 9780307279460.  i1581.  Notes avail. 
-* 917  Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains.  3rd ed.  Bost., Appalachian Mountain Club Books, [2016].  xxvii + 338 p. 23 cm.  i,1717 
+* 917  Buchsbaum, Robert N.  AMC's best day hikes in the White Mountains.  3rd ed.  Bost., Appalachian Mountain Club Books, [2016].  xxvii + 338 p. 23 cm.  v,0023
 * 917  Damm, nate.  Life on foot : a walk across America.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00K5YVRF8).  i1583 
 * 917  Moseley, Andy.  Around the States in 90 Days.  NoLogoPublications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005KBPFAY).  i1584 
 * 917  Quinn, Chris.  Adventures of a trail stooge.  [S.n., 2015.]  k.  via [www](https://read.amazon.com/?asin=B011SMMIIA).  i1585 
@@ -807,7 +810,7 @@
 * 920  Bukruian, Christine.  Gypsy spirit.  CreateSpace, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0089MN4Y0).  i1594 
 * 920  Burroughs, Augusten.  Running with scissors.  St. Martin's Press, c2011.  304 p.  ISBN 0312283709.  i1592.  Reaad 2016-04. Grade C. Notes avail.
 * 920  Calodoukas, Cleo.  All roads led to Shanghai.  CreateSpace, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00DI55NHY).  i1595 
-* 920  Coombs, John Dexter.  Grandfather's stories.  St. Johnsbury, VT., Cowles, [1969].  104 p. 23 cm.  i,2308296 
+* 920  Coombs, John Dexter.  Grandfather's stories.  St. Johnsbury, VT., Cowles, [1969].  104 p. 23 cm.  v,2308296 
 * 920  Damm, Nate.  Buddha on The bus.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00LPX4Y3U).  i1596 
 * 920  Foskett, Keith.  Last Englishman : a thru-hiking adventure on the Pacific Crest Trail.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007EDIAY4).  i1597 
 * 920  Foskett, Keith.  Travelled far : a collection of hiking adventures.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N4S4QWZ).  i1598 
@@ -878,7 +881,7 @@
 * 941  Milton, Nicolas.  Neville Chamberlain's legacy.  Pen & Sword, 2019.  via [www](https://www.hoopladigital.com/play/13917369).  ISBN 9781526732262.  i1661.  Read 2021-09. Grade C. Notes avail. A biography of N.C., British M.P and Prime Minister known for appeasement. Attempts to give a more complete picture of his accomplishments. 
 * 941  Mitford, Deborah.  Wait for me.  U.K., John Murray, 2010.  4 mb.  g,1660 
 * 941  Strange, Jack.  Strange Tales of Scotland.  Creativia, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01NA0CFYQ).  i1662 
-* 942  Powicke, Michael R.  Community of the realm.  N.Y., Alfred A. Knopf, [1973].  xii + 194 p.  (Borzoi Hist. of England ; 2).  v,2308299 
+* 942  Powicke, Michael R.  Community of the realm.  N.Y., Alfred A. Knopf, [1973].  xii + 194 p.  (Borzoi Hist. of England ; 2).  v,0006 
 * 942  Rofheart, Martha.  Glendower country.  Endeavour Press, [n.d.]  k.  via [w.](https://read.amazon.com/?asin=B00ZRSIQBU).  i1664 
 * 946  Reston, James, Jr.  Dogs of God.  N.Y., Anchor, [2005].  xx + 363 p. 21 cm.  v,0003
 * 949  Djuvara, Neagu.  Concise history of Romanians.  Cross Meridian, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00PIYDH6W).  i1665 
@@ -1138,7 +1141,7 @@
 * FIC  Harris, R.J.  Starfall 1 : the beginning.  [S.n., 20--?].  k.  AISN B00IY2U9WK.  i1021 
 * FIC  Harris, T.R.  Human chronicles saga (Books One & Two).  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i1046 
 * FIC  Hautman, Pete.  Invisible.  n.p. n.d.  v.  i1025.  Read 2011-10. Notes avail. 
-* FIC  Hawthorne, Nathaniel.  Scarlet letter.  N.Y., Kaplan, 2006.  553 p. 18 cm.  v,23082913 
+* FIC  Hawthorne, Nathaniel.  Scarlet letter.  N.Y., Kaplan, 2006.  553 p. 18 cm.  v,0906 
 * FIC  Hayes, Griffen.  Primal shift, Part 1, a post apocalyptic thriller.  Trebor Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BUT3II6).  i1051 
 * FIC  Healey, David.  First voyage.  Intracoastal Media, 2012.  k.  i1029 
 * FIC  Healy, M.R.  After the winter.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00P02FBPM).  i1028 
@@ -1284,7 +1287,7 @@
 * FIC  Mitchell, J. Baron.  Midnight city.  Thomas Dunn Books, c2012.  392 p.  ISBN 9781250036285.  i1177.  Notes avail. 
 * FIC  Moan, Lee.  Symbiosis.  Weird New Ink, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004QTORAA).  i1220 
 * FIC  Mohraman, Travis.  Humid.  DeadPixel Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00UK4E5BQ).  i1221 
-* FIC  Mone, Patrick E.  Petrol bomb of love.  North Haven, CT., 2023.  251 p. 20 cm.  v23082912 
+* FIC  Mone, Patrick E.  Petrol bomb of love.  North Haven, CT., 2023.  251 p. 20 cm.  v,0301 
 * FIC  Moore, Clement C. Night before christmas.  Simon & Schuster, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00QW8ZBFI).  i1224 
 * FIC  Moore, Clement.  Twas The Night Before Christmas / by Clement C. Moore; ill. by Elena Almazove and Vitaly Shvarov.  Grafton and Scratch Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0094GEGJ2).  i910 
 * FIC  Moore, Michael.  Talisman of Ictis.  Michael J. Moore, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D0CISY0).  i1222 
@@ -1301,6 +1304,7 @@
 * FIC  Nicolson, Scott.  After : first light.  Haunted Computer Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D5FAP3O).  i1231 
 * FIC  Nietz, Kerry.  A star curiously singing.  Freeheads, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01A2R1RIO).  i1233 
 * FIC  Niven, Larry; Lerner, Edward M.  Destroyer of worlds.  N.Y., Tor, 2010.  436 p. 18 cm.  d2304162  to_read
+* FIC  Nordhoff, Charles; Hall, James Norman.  Bounty trilogy.  Bost. [c1964]  viii + 691 p.  v,0002  
 * FIC  North, Anna.  America pacifica.  n.p. n.d.  v.  i1234  2013-02. Grade D
 * FIC  Norwood, Thomas.  Conception.  Global Activision Limited, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00G190NXS).  i1241 
 * FIC  Norwood, Thomas.  Perfect animals.  Global Activision Limited, 2013.  k.  ASIN B00G190NXS.  i1235 
@@ -1367,7 +1371,7 @@
 * FIC  Robertson, Edward.  Breakers series: Books 1-3.  n.p. 2013.  k. 1442 kb.  via [www](https://read.amazon.com/?asin=B00E9YL3HM).  Contents: Breakers  Meltdown=Melt down-- Knifepoint.  i1326 
 * FIC  Robertson, Joshua.  Melkorka / Joshua Robertson, Winter Bayne, [and] Josephe Vandel.  Crimson Edge Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00R7CMJ4O).  i1324 
 * FIC  Robertson, Michael. Alpha plague : a post-apocalyptic action thriller / Michael Robertson.  Phalanx Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B010KWD8OC).  i1325 
-* FIC  Robinson, Kim Stanley.  Forty signs of rain.  N.Y., Bantam Books, 2005.  393 p. 18 cm.  v,2307131 
+* FIC  Robinson, Kim Stanley.  Forty signs of rain.  N.Y., Bantam Books, 2005.  393 p. 18 cm.  v,0312 
 * FIC  Rollins, James.  Black order.  [S.n., 19--].  PDB file via USB.  i1302 
 * FIC  Rollins, James.  Ice hunt.  n.p. n.d.  PDB file via USB.  i1305 
 * FIC  Roquet, Angela.  Graveyard shift.  [S.n.], 2014.  k.  AISN B009M0ARH0.  i1304 
@@ -1412,7 +1416,7 @@
 * FIC  Simon, Shane P.  Prophecy.  Simon & Son Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00UPFOQT6).  i1380 
 * FIC  Sinclair, Lewis.  It can't happen here.  n.p. n.d.  v.  i1342  2016-07. Grade B.  Read on cruise to Bermuda. 
 * FIC  Slattery, Brian Francis.  Lost everything.  n.p. n.d.  v.  i1344  2013-03. Grade D
-* FIC  Sloan, Robin.  Mr. Penumbra's 23-hour bookstore.  N.Y., Farrar, Straus and Giroux, 2013.  288 p. 21 cm.  v,23082911 
+* FIC  Sloan, Robin.  Mr. Penumbra's 23-hour bookstore.  N.Y., Farrar, Straus and Giroux, 2013.  288 p. 21 cm.  v,0302 
 * FIC  Smash, B.J.  Witches of Merribay.  B.J. Smash, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EJ3U8K6).  i1381 
 * FIC  Smith, Clayton.  Apocalypticon.  Dapper Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00IRPTRHW).  i1347 
 * FIC  Smith, E.E.  First lensman.  Serapis Classics, 2017.  k.  AISN B07658CNTM.  i1348 
@@ -1428,7 +1432,7 @@
 * FIC  Stevens, Deborah.  Serpent's disciple.  1st ed.  Smith House Press, 2013.  k.  ASIN B00EUBAVE0.  i1351 
 * FIC  Stevens, Deborah.  Serpent's disciple.  Smith House Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EUBAVE0).  i1390 
 * FIC  Stevens, Jeremy David.  Jamey Jones and the sons of Noah.  Jeremy Stevens, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01EEOI30G).  i1387 
-* FIC  Stevenson, Robert Louis.  Treasure Island.  N.Y., Bantam, 2004, 1884.  xi + 2005 p. 18 cm.  v2308293 
+* FIC  Stevenson, Robert Louis.  Treasure Island.  N.Y., Bantam, 2004, 1884.  xi + 2005 p. 18 cm.  v,0304 
 * FIC  Stewart, Katie W.  Treespeaker.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004XDBOJG).  i1391 
 * FIC  Stewart, Katie.  Treespeaker.  n.p. n.d.  k.  ASIN B004XDBOJG.  i1530.  Read 2014-01. Grade C. Notes avail.	
 * FIC  Stiff, Kyle B.  Demonworld.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007TD9246).  i1392 
@@ -1447,7 +1451,7 @@
 * FIC  Surmelis, Angelo.  Dangerous art of blending in.  Balzer + Bray, 2018.  k. AISN B0727SCL5B.  i1359 
 * FIC  Sursum, C.J.  Falling as she sings.  Lilyfield Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01A3IBAE8).  i1402 
 * FIC  Swapp, Justin.  Magic shop.  Createspace, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00CJCUCTG).  i1403 
-* FIC  Swift, Jonathan.  Gulliver's travels, w. a foreward by Cunliffe, Marcus.  Chic., New American Library, [1960].  xx + 319 p.  v,23082914 
+* FIC  Swift, Jonathan.  Gulliver's travels, w. a foreward by Cunliffe, Marcus.  Chic., New American Library, [1960].  xx + 319 p.  v,0029 
 * FIC  Tardiff, Cheryl Kaye.  River.  Imajin Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B003BLPH6C).  i1410 
 * FIC  Taylor, Keary.  Bane, The.  Keary Taylor books, 2013.  k.  AISN B00BP1ZKJ4.  i1406 
 * FIC  Taylor, Keary.  Bane.  Keary Taylor Books, Inc. [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BP1ZKJ4).  i1412 
@@ -1536,7 +1540,7 @@
 * LG+  Savage, J.  Teo wants.  n.p. 2022.  k. 1060 kb.
 * LG+  St. Kevern, Gillian.  Biggest scoop.  n.p. n.d.  k.  i1353.  Read 2018-04. Grade C. Notes avail.
 * LG+  Starr, D.H.  Meant for him.  Ai Press, 2014.  k.  AISN B00N23JJDG.  i1350.  Read 2018-05. Grade C. Notes avail.
-* MYS  Carlisle, Kate.  One book in the grave.  N.Y., Obsidian, 2012.  291 p. 18 cm.  v,2308295 
+* MYS  Carlisle, Kate.  One book in the grave.  N.Y., Obsidian, 2012.  291 p. 18 cm.  v,0311 
 * MYS  Conte, Cate.  Cat about town.  N.Y., St. Martin's Paperbacks, 2017.  295 p. 17 cm.  (Cat cafe mystery ; 1).  d,2307201  2023-07. Grade C
 * MYS  Conte, Cate.  Purrder she wrote.  N.Y., St. Martin's Paperbacks, 2018.  310 p. 17 cm.  (Cat cafe mystery ; 2).  d,2308151  2023-08. Grade C
 * MYS  Conte, Cate.  Tell tail heart.  N.Y., St. Martin’s Paperbacks, 2019.  326 p. 17 cm.  (Cat cafe mystery ; 3).  d,conte2019  2023-10.  C.  Zach McConnell murders author Jason Holt, and Lucus (the boyfriend) has disappeared.  
@@ -1556,7 +1560,7 @@
 * SCI  Bellin, Joshua David.  Survial colony 9.  Margaret K. McElderry Books, c2014.  325 p.  ISBN 9781481403542.  i802.  Read 2015-08. Grade C. Notes avail.
 * SCI  Burroughs, Edgar Rice.  Princess of Mars.  Larnaca Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B016VF8).  i1499 
 * SCI  Burton, LeVar.  Aftermath.  N.Y., Grand Central Pub., 1997.  295 p. 20 cm.  burton1997 
-* SCI  Callenbach, Ernest.  Ecotopia. 30th Anniversary ed.  Berkeley, Banyan Tree Books, c2975, 2004.  172 p. 22 cm.  i2308161 
+* SCI  Callenbach, Ernest.  Ecotopia. 30th Anniversary ed.  Berkeley, Banyan Tree Books, c2975, 2004.  172 p. 22 cm.  v,2308161 
 * SCI  Chaney, J.N.  Amber project.  Variant Publications, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00W2AQ1KO).  i904 
 * SCI  Christensen, Andreas.  Exodus. 2nd ed.  U.S.? [2012].  k. 1282 kb.  i2304301  2023-04. Grade C. Grade A group of ~1600 excape when a rogue planet is on a collision course with Earth.
 * SCI  Clark, Arthur C.  Fall of moondust.  RosettaBooks, c1951, c2012.  k.  via [www](https://read.amazon.com/?aisn=B07H18VSWK).  i1508.  Read 2020-07. Grade D. Notes avail. A science fiction book exploring what a rescue operation would look like on the moon if a bus was buried under an avalanche of moon soil. 
@@ -1573,11 +1577,11 @@
 * SCI  Edsand, Matt.  In the pursuit.  n.p. 2022.  k. 1428 KB.  (Kyda Tren Space Opera ; 1).  i2309076 
 * SCI  Ellis, George.  Wreckers.  [U.S.?], Zero Atmo, 2021.  k. 4607 KB.  i2309073 
 * SCI  Falchetti, S.D.  Hayden's World: Volume 1.  n.d. 2018.  k. 1848 kb.  falchetti2018 
-* SCI  Farland, David.  Wizardborn.  N.Y., Tor, 2002.  502 p. 18 cm.  (Runelords ; 3).  v,2308291 
+* SCI  Farland, David.  Wizardborn.  N.Y., Tor, 2002.  502 p. 18 cm.  (Runelords ; 3).  v,0081 
 * SCI  Fatek, Matt. New starship: discoveries. Tr. by Bien, Jagoda.  n.p. 2022.  k. 3368 KB.  i2309072 
 * SCI  Forkey, Elizabeth.  Infectious.  3rd rev. ed.  Entrada Publishing, 2014.  k. 744 kb.  via [www](https://read.amazon.com/?asin=B00L4MS50A).  i972 
 * SCI  Gockel, C.F.  Star rebels / C Faye Gockel, Christine Pope, Anthea Sharp, [et al.].  n.p., 2016.  k. 790 kb.  via [www](https://read.amazon.com/?asin=B01H7J5Z38).  i965 
-* SCI  Golding, William.  Lord of the flies.  N.Y, Penguin, [1954].  219 p. 19 cm.  v2308292 
+* SCI  Golding, William.  Lord of the flies.  N.Y, Penguin, [1954].  219 p. 19 cm.  d,0904 
 * SCI  Goodkind, Terry.  Wizard's first rule.  RosettaBooks, n.d.  k.  via [www](https://read.amazon.com/?asin=B00433TO4I).  i1007.  Read 2016-10. Grade B. Notes avail.
 * SCI  Harmon, Casey Sean.  Rev. ed.  Thousand year voyage.  Amazon Kindle, 2012.  k. 581 kb.  via [www](https://read.amazon.com/?asin=B009ED23PY).  i1050 
 * SCI  Hartley, Taylor.  The penkeepers.  n.p. 2014.  k. 2126 kb.  via [www](https://read.amazon.com/?asin=B00GA2WKR8).  i1048.  Notes avail. 
@@ -1638,12 +1642,14 @@
 * WES  Annan, R.  Lightning riders.  One Vision Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LY8AQ2K).  i26 
 * WES  Baker, Jason b.  Ace's bounty.  n.p. 2023.  k. 4271 kb.  
 * WES  Blevins, Win.  Stone song.  WordWorx, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M73AR2B).  i1556 
-* WES  Compton, Ralph.  One man's fire, by Galloway, Marcus.  N.Y., Berkley, 2012.  298 p. 18 cm.  v,2308294 
 * WES  David, A.  All guns blazing.  Pioneering Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LXM0EPH).  i925 
 * WES  Fearn, J.R.  Tornado trail.  Lume, 2016.  k. 974 kb.  [www](https://read.amazon.com/?asin=B01EAC9XLU).  i966 
 * WES  Fearn, J.R.  Town without law.  Pioneering Press, 2016. k. 914 kb.  via [www.](https://read.amazon.com/?asin=B01E46YGAA).  i967 
+* WES  Galloway, Marcus.  One man's fire.  N.Y., Berkley, 2012.  298 p. 18 cm.  v,0083
 * WES  Gray, Z.  Border legion.  Endymion Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LWY9HU4).  i1012 
 * WES  Hartenhoff, Gerald.  Big mistake.  n.p. 2017.  k. 259 kb.  (Brewster ; 1).  i2308201 
+* WES  L'amour, Louis.  Lonigan.  N.Y. 2013.  vi + 177 p. 18 cm.  v,0300
+* WES  McCauley, Terrence.  Blood on the trail.  N.Y. 2002.  344 p. 18 cm.  v,0905
 * WES  McCauley, Terrence.  Dark territory.  N.Y., Pinnacle Books, 2019.  331 p.  17 cm.  (Sheriff Aaron Mackey Western ; 2).  d,23092802  Read 2023-09.  Grade C. Mackey investigates a series of train robberies (which Grant is behind), Grant and Underwood become mayor and police chief respectively, and Mackey becomes a U.S. Marshall.
 * WES  McCauley, Terrence.  Get out of town.  N.Y., Pinnacle Books, 2020.  360 p. 17 cm.  (Sheriff Aaron Mackey Western ; 3).  d,2308152  Read 2023-08. Grade C.
 * WES  McCauley, Terrence.  Where the bullets fly.  N.Y., Pinnacle Books, 2018.  345 p. 17 cm.  (Sheriff Aaron Mackey Western ; 1).  d,2308301.  Read 2023
