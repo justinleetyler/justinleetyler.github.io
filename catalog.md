@@ -35,12 +35,14 @@
 * 004  Cannon, Jason.  Linux administration.  U.S.? 2016.  k. 856 kb.  via [www](https://read.amazon.com/?asin=B01BJ8GCPS).  i28 
 * 004  Cannon, Jason.  Linux for beginners.  U.S.? 2013.  k. 2688 kb.  via [www](https://read.amazon.com/?asin=B00HNC1AXY).  i29 
 * 004  How-to geek.  HowToGeek.com, c2006- .  via [www](http://www.howtogeek.com/).  i30 
-* 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  1.1 MB.  g31 
+* 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  1.1 MB.  g,31 
 * 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  k. 2331 kb.  via [www](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf).  i32 
-* 004  Loukides, Mike.  What Is Data Science?  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007R8BHAK).  i33 
+* 004  Loukides, Mike.  What Is Data Science?  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007R8BHAK).  i33
+* 004  Phillips, Gavin.  Deep and dark web guide.  n.p., Makeuseof.com, [c2020].  2 mb.  g,
 * 004  Suehring, Steve.  Learn JavaScript.  Seattle, 2012.  [w.](http://proquest.safaribooksonline.com).  i34 
-* 004  Suellentrop, Claire.  Websites that convert.  U.S.? 2017.  k. 2355 KB.  via [www](https://read.amazon.com/?asin=B06Y3L3W84).  i35 
-* 005  Bachaalany, Elias.  Batchography.  n.p. 2016.  1.4 MB.  g37 
+* 004  Suellentrop, Claire.  Websites that convert.  U.S.? 2017.  k. 2355 KB.  via [www](https://read.amazon.com/?asin=B06Y3L3W84).  i35
+* 005  135 incredibly useful things you didn't know Google could do.  n.p., fastcompany.com, n.d.  547 kb.  g,
+* 005  Bachaalany, Elias.  Batchography.  n.p. 2016.  1.4 MB.  g,37 
 * 005  Cooper, Peter.  Beginning Ruby.  n.p. n.d.  k.  via [www](https://read.amazon.com).  i39 
 * 005  DataCamp.  Python basics cheat sheet.  [n.p. 200?].  PDF, 1 MB.  g49 
 * 005  Dumbill, Edd.  Planning for big data.  U.S.? 2012.  k. 1525 KB.  via [www](https://read.amazon.com/?asin=B007JWG7P4).  i40 
@@ -50,48 +52,54 @@
 * 005  Holzner, Steven.  Perl Core language.  U.S.? 20--?  k.  i44 
 * 005  Kindle4Rss.  U.S.? c2019.  [w.](http://kindle4rss.com/).  i45 
 * 005  McLaughlin, Brett.  What Is HTML5?.  U.S.? 2011.  k. 243 KB.  via [www](https://read.amazon.com/?asin=B005ISQ7JM).  i47 
-* 005  Nixon, Robin.  Learning PHP, MYSQL, and Javascript.  Beijing; Cambridge, c2009.  PDF, 7.2 MB.  via google drive.  i48.  Notes avail.
-* 005  Regular expression reference.  n.p. n.d.  PDF, 4.1 MB.  g50 
+* 005  Nixon, Robin.  Learning PHP, MYSQL, and Javascript.  Beijing; Cambridge, c2009.  7.2 mb.  g,48.  Notes avail.
+* 005  Regular expression reference.  n.p. n.d.  4.1 MB.  g,50 
 * 005  Tennison, Jeni.  Beginning XSLT.  Wrox Press, [n.d.]  k.  via [www](https://read.amazon.com/).  i51 
 * 005  Williams, Jake Day.  Learn PHP.  n.p., 2015.  k. 6574 kb.  via [www](https://read.amazon.com/?asin=B00ULKOU1O).  i52 
 * 006  10 Simple CSS Code Examples You Can Learn in 10 Minutes.  [United States, 20--?]  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/).  i53 
 * 006  Open University.  Introduction to computational thinking.  The Open University, 2016.  k. 812 kb.  via [www](https://read.amazon.com/?asin=B01D8X5ZO6).  i54 
-* 006  U.S.  Cloud computing strategy.  Wash. 2012.  PDF, 2 MB.  g36 
+* 006  U.S.  Cloud computing strategy.  Wash. 2012.  2 MB.  g,36 
 * 017  Curlie.  Curlie, c2018.  [w.](https://curlie.org).  i55 
 * 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).  i56.  Notes avail. 
-* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  g61.  Also available on the [World Wide Web](http://files.eric.ed.gov/fulltext/ED035508.pdf).  i61 
-* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  w61 
+* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.   675 kb.  g,61.
+* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  w,61 
 * 020  Battles, Matthew.  Library : an unquiet history.  n.p. n.d.  v.  i58  Read 2005-06. Notes avail.  
 * 020  Hammer, Joshua.  The bad-ass librarians of Timbuktu.  Simon & Schuster, [n.d.]  k.  i60 
 * 020  Open University.  The Library of Alexandria.  The Open University / [20--?]  k.  via [www](https://read.amazon.com/?asin=B01AWET3VU).  i63 
-* 023  Miller, Zana Kate.  How to organize a library.  C., Library Bureau, c1921.  1.3 MB.  g64 
-* 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  via [www](https://archive.org/details/catalogingmachin00dodd).  w,230401 
-* 025  Library of Congress.  Disseminating information on the internet.  W., Library of Congress, 1994.  PDF, 1.5 MB.  g69 
-* 025  Mering, Margaret.  RDA workbook.  Libraries Unlimited, c2014.  PDF, 4 MB.  g70 
+* 023  Miller, Zana Kate.  How to organize a library.  Chic., Library Bureau, c1921.  1.3 mb.  g,64 
+* 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  via [www](https://archive.org/details/catalogingmachin00dodd).  w,230401
+* 025  Eklund, Amy P. and others.  Comparison of MARC content designation utilization in OCLC WorldCat records
+with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib. Metadata, 9:36-64, 2009).  g,
+* 025  Kincy, Chamya Pompey.  Making the move to RKA; with Layne, Sara Shatford.  Lanham, Maryland, Rowman & Littlefield, [c2014].  3 mb.  g,
+* 025  Library of Congress.  Disseminating information on the internet.  Wash., Library of Congress, 1994.  1.5 mb.  g,69 
+* 025  Mering, Margaret.  RDA workbook.  Santa Barbara, Calif., Libraries Unlimited, c2014.  4 mb.  g,70
+* 025  Miller, Joseph ed.  Sears List of subject headings; Bristow, Barbara, assoc. ed.  N.Y., H.W. Wilson, 2007.  4 mb.  g,
+* 025  Outline of the Library of Congress Classification system.  [University Center, Mich., Delta College, 2003].  50 kb.  g,
 * 025  Open University.  The digital literacy.  The Open University, 2018.  k. 1451 kb.  via [www](https://read.amazon.com/?asin=B07DVNC9HM).  i72 
 * 025  U.S.  Government Printing Office.  Instructions to depository libraries.  [United States] : U.S. G.P.O., 2000.  PDF file.  via USB. File name: 0067.pdf.  i68 
 * 025.06  Kahn, Salman.  The Khan academy.  [Menlo Park, CA] : Salman Khan, 2004- .  [w.](http://www.khanacademy.org/).  i73 
-* 025.3  Calhoun, Karen and others.  Online catalogs : What users and librarians want.  Dublin, Ohio, c2009.  1.4 MB.  g79 
-* 025.3  Cutter, Charles. A.  Rules for a printed dictionary catalog.  Wash. 1876.  via [www](https://www.gutenberg.org/ebooks/59215).  w80 
-* 025.3  Edgar, Neal L.  What every librarian should know about proposed changes in cataloging rules.  [n.p., 1975].  via google drive.  IN American Libraries.  (Nov. 1975).  i82.  Notes avail. 
-* 025.3  Ercegovac, Zorana.  Minimal level cataloging. g.  IN Journal of the American Society for Information Science.  (Jun. 1998).  i83.  Notes avail. 
-* 025.3  Follett.  What the card catalog tells us.  Follett, [n.d.]  PDF.  g97 
-* 025.3  Gorman, M.  Concise AACR2.  1988 rev.  Chic. 1989.  via [www](https://archive.org/details/conciseaacr28800mich).  w86  Notes avail.
-* 025.3  ISBD Review Group.  International standard bibliographic description (ISBD).  Consolidated ed.  [n.p.], 2010.  PDF.  g90 
+* 025  Calhoun, Karen and others.  Online catalogs : what users and librarians want.  Dublin, Ohio, c2009.  1.4 mb.  g,79 
+* 025  Cutter, Charles. A.  Rules for a printed dictionary catalog.  Wash. 1876.  via [www](https://www.gutenberg.org/ebooks/59215).  w,80 
+* 025  Edgar, Neal L.  What every librarian should know about proposed changes in cataloging rules.  [n.p., 1975].  via google drive.  IN American Libraries.  (Nov. 1975).  i82.  Notes avail. 
+* 025  Ercegovac, Zorana.  Minimal level cataloging.  1 mb.  (IN Journal of the American Society for Information Science. Jun. 1998).  g,83.  Notes avail. 
+* 025  Follett.  What the card catalog tells us.  Follett, [n.d.]  146 kb.  g,97 
+* 025  Gorman, Michael.  Concise AACR2.  1988 rev.  Chic. 1989.  via [www](https://archive.org/details/conciseaacr28800mich).  w,86  Notes avail.
+* 025  Gorman, Michael.  Concise AACR2.  4th ed.  Chic. 2004.  344 kb.  g,
+* 025  ISBD Review Group.  International standard bibliographic description (ISBD).  Consolidated ed.  [n.p.], 2010.  2 mb.  g,90 
 * 025.3  Minimal-level cataloging: a look at the issue.  v.  (In Jour. Acad. Librarianship, 11:6 1986).  i87.  Notes avail.
-* 025.3  Moulton, Mary; Megan Tietjen.  National Transportation Library: minimal cataloging.  n.p. 2013.  via [www](https://vdocuments.net/12-december-2013-implementing-a-minimal-cataloging-standard-at-the-national.html).  w93 
-* 025.3  Steele, Bill.  After 32 years, the library card catalog is retired.  [n.p., 2007].  PDF.  IN Chronicle Online.  (Oct. 1,2007).  g95 
-* 025.3  Tillett, Barbara.  What is FRBR?.  [W.], Library of Congress, 2003.  PDF.  g96 
+* 025  Moulton, Mary; Megan Tietjen.  National Transportation Library: minimal cataloging.  n.p. 2013.  via [www](https://vdocuments.net/12-december-2013-implementing-a-minimal-cataloging-standard-at-the-national.html).  w,93 
+* 025  Steele, Bill.  After 32 years, the library card catalog is retired.  [n.p., 2007].  PDF.  IN Chronicle Online.  (Oct. 1,2007).  g95 
+* 025  Tillett, Barbara.  What is FRBR?.  [Wash], Library of Congress, 2003.  3 mb.  g,96 
 * 025.3  U.S. Library of Congress.  Card catalog; Hayen, Carla, fwd.  San Francisco, [2017].  51,541 kb.  e,2310292.epub
 * 025.3  Weber, Lisa B.  Record formatting: MARC ARC.  n.p. [1990].  1756 kb.  e,8443.pdf.
 * 025.4  Cutter, O.A.  Cutter's three figure author table.  Englewood, CO. 1969.  50,607 kb.  e,98.pdf 
 * 025.5  Redford Township District Library.  [Michicard Letter].  Redford, MI : RTDL, 2007.  1122 kb.  e,100.pdf 
-* 025.8  Casey, Mike and Bruce Gordan.  Sound directions : best practices for audio preservation.  [n.p.], c2007.  PDF.  g101 
+* 025  Casey, Mike; Gordan, Bruce.  Sound directions : best practices for audio preservation.  n.p. c2007.  6 mb.  g,101 
 * 027  Fore, Julie A.  Gopher servers as a point of access.  75 kb.  (In IASSist, Fall/Winter 1994).  e,1205071.pdf
 * 027  Casson, Lionel.  Libraries in the ancient world.  New Haven : Yale University Press, c2001.  xii, 177 p.  ISBN 0300088094.  i102.  Read 2011-10. Notes avail.  
-* 027  Library of Congress.  Using ... MELVEL gopher.  [n.p. n.d.]  TXT, 6 KB.  g106 
+* 027  Library of Congress.  Using ... MELVEL gopher.  n.p. n.d.  TXT, 6 kb.  g,106 
 * 027  Riley, Ruth A.; Shipman, Lowther, Barbara.  Building and maintaining a library Gopher.  1194 kb.  (In bull.med.lib.assoc.  83:2, April 1985)  e,2310396.pdf 
-* 028  Kosciejew, Marc.  Inside an axis of evil library.  [n.p.] Feliciter, 2009.  PDF, 164 KB.  g107 
+* 028  Kosciejew, Marc.  Inside an axis of evil library.  [n.p.] Feliciter, 2009.  164 KB.  g,107 
 * 028  Well-educated mind.  n.p. n.d.  v.  i1762 – 2011-10 and 2005-11 
 * 028.7  Secker, Jane and Emma Coonan.  Rethinking information literacy.  Facet publishing, c2013.  via [www](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB).   w,108.  Notes avail.
 * 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2016.  k. 211722 kb.  via [www](https://read.amazon.com/?asin=B00W05CUO2).  i109 
@@ -118,7 +126,10 @@
 * 128  Fulghum, Robert.  All I really need to know I learned in kindergarden.  25th anni ed.  Ballantine books, c2003.  313 kb.  e,126.epub 
 * 133  Cunningham, Scott.  Wicca.  Woodbury, Minnesota : Llewellyn Publications, c2004.  xiv, 239 p.  ISBN 9780875421186  i128.  Read 2012-04. Notes avail.
 * 133  Evans, Max and Maria.  In the land of broken time. 2nd ed.  The authors, 2016.  k. 18065 kb.  via [www](https://read.amazon.com/?asin=B01JM4FG6C).  i127 
-* 133  Farrell, Drea.  Wicca.  n.p. 2016.  k. 6566 kb.  via [www](https://read.amazon.com/?asin=B01D3SGLMG).  i129 
+* 133  Farrell, Drea.  Wicca.  n.p. 2016.  k. 6566 kb.  via [www](https://read.amazon.com/?asin=B01D3SGLMG).  i129
+* 133  Nichols, Ross.  Book of Druidry; ed. by Matthew, John and Carr-Gomm, Philip.  San Francisco, Thorsons, 1992.  52 kb.  g,
+* 135  Regardie, Israel.  Original account of the teachings, rites, and ceremonies of the Hermetic Order of the Golden Dawn.  6th ed.  n.p. n.d.  34 mb.  g,
+* 135  Regardie, Israel.  The Golden Dawn: Original account of the teachings, rites, and ceremonies of the Hermetic Order; Revised and corrected by Greer, John Michael; prefaced by Cicero, Chic and Cicero, Sandra Tabatha.  7th ed.  Woodbury, Minn. [c2015].  19 mb.  g,  
 * 135  Weed, Joseph J.  Wisdom of mystic masters.  West Nyack, N.Y., Parker Pub. Co., c1968.  xii + 208 p. 21 cm.  i,
 * 142  Panza, Christopher and Gregory Gale.  Existentialism for dummies.  Hoboken, NJ : Wiley Publishing, c2008.  xvi, 366 p.  ISBN 9780470276990  i130.  Notes avail. 
 * 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators.  HTML file.  via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).  i131.  Notes avail. 
@@ -130,7 +141,7 @@
 * 152  Luther, Kate.  7 ways to get your life back into balance.  wisebread.com, 2014.  w.  i136.  Notes avail. 
 * 152  Michael, Paul.  10 mantras that will transform your life.  wisebread.com, 2013.  via [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).  w,137.  Notes avail. 
 * 152  Stulberg, Brad.  8 rules to do everything better.  [n.p., 2021?].  HTML file.  via [www]().  i138.  Notes avail. 
-* 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  n.p c2010.  PDF, 574 KB.  g140 
+* 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  n.p c2010.   574 KB.  g140 
 * 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Pinola, Melanie.  Why you learn more effectively by writing then typing.  lifehacker.com, 2011.  via [www](http://www.lifehacker.com/5738093).  w,142.  Notes avail.
 * 155  SavvySugar.  5 tactics for relieving work-related stress.  n.p. 2012.  e,0000144.txt 
@@ -302,7 +313,7 @@
 * 296  Day, John.  Yahweh and the gods and goddesses of Canaan.  Lond. c2000, 2002.  15 mb.  g,
 * 297  Quran: A Simple English Translation, Maulana Wahiduddin, Goodword Khan, trs.  Goodword Books, [n.d.]  k. via [www](https://read.amazon.com/?asin=B00HIHMYWK).  i295 
 * 297.272  Ali, Ayaan Hirsi.  Heretic.  Harper, c2015.  272 p.  ISBN 9780062333933.  i296.  Notes avail. 
-* 299  Ancient Order of Druids in America.  The AODA new candidate guide.  1st ed.  Telluric Press, c2016.  [w.](http://www.justinleetyler.com/aoda2016.pdf).  i297.  Notes avail. 
+* 133  Ancient Order of Druids in America.  AODA new candidate guide.  1st ed.  Telluric Press, c2016.  5 mb.  g,g297.  Notes avail. 
 * 299  Deng, Ming Dao.  365 Tao.  N.Y., HarperOne, 1992.  k.  9171 kb.  via [www](https://read.amazon.com/?asin=B00CREFHDM).  i305 
 * 299  Deng, Ming-Dao.  365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992.  xii, 380 p. 18 cm.  v,0020
 * 299  Greer, John Michael.  Druid magic handbook; Spangler, David fwd.  San Francisco : Red Wheel/Weiser, 2007.  64 mb.  g,
