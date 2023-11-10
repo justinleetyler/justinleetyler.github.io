@@ -145,11 +145,11 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Pinola, Melanie.  Why you learn more effectively by writing then typing.  lifehacker.com, 2011.  via [www](http://www.lifehacker.com/5738093).  w,142.  Notes avail.
 * 155  SavvySugar.  5 tactics for relieving work-related stress.  n.p. 2012.  e,0000144.txt 
-* 155  Bennington-Castro, Joseph.  Science of what makes an introvert and an extrovert.  n.p. 2013.  PDF, 492 kb.  g143.  Notes avail. 
+* 155  Bennington-Castro, Joseph.  Science of what makes an introvert and an extrovert.  n.p. 2013.  492 kb.  g,143.  Notes avail. 
 * 155  Happy introvert, The.  n.p. n.d.  v.  i1756  2011-10  
 * 155  Wingo, Mary. The impact of the human stress response.  Roxwell Waterhouse, 2016.  k. 9074 kb.  via [www](https://read.amazon.com/?asin=B01FK2YPJO).  i145 
-* 158  Hustad, Megan.  Benefits of being stupid at work.  n.p. 2013.  PDF, 37 KB.  g146.  Notes avail. 
-* 158  Murray, Katherine.  Own your future.  [U.S.?] Microsoft Press, c2010.  PDF, 2.5 MB.  g147 
+* 158  Hustad, Megan.  Benefits of being stupid at work.  n.p. 2013.  37 kb.  g,146.  Notes avail. 
+* 158  Murray, Katherine.  Own your future.  [Settle]? c2010.  2.5 mb.  g,147 
 * 158  Pinola, Melanie.  Four signs your relationship might be doomed.  via [www](http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed).  IN Lifehacker.  (Mar. 15, 2013).  w,148.  Notes avail. 
 * 158  Powell, Barbara.  Alone, alive, and well.  n.p. n.d.  v.  i1743  2005-04  
 * 158.1  Klosowski, Thorin.  The importance of self-awareness, and how to become more self aware.  lifhacker.com, 2014.  via [www](http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518).  w,149.  Notes avail.
@@ -179,7 +179,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 181  I-ming, Liu.  Awakening to the Tao, tr. by Cleary, Thomas.  1st ed.  Boston : Shambhala ; [New York] : Distributed in the U.S. by Random House, 1988.  xvi, 105 p. ; 22 cm.  ISBN: 087773447X.  i1710.  Read 2022-05. Grade B. Notes avail. 
 * 188  Aurelius, Marcus.  Meditations.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0082XJGRK).  i173 
 * 188  Aurelius, Marcus.  Meditations. Hammond, Martin tr. Clay, Diskin intro.  Lond. 2014.  lxi, 351 p. ; 17 cm.  d,0018 
-* 188  Aurelius, Marcus.  Meditations; tr. by Francis Hutcheson and James Moor; ed. and with an intr. by James Moore and Michael Silverthorne.  n.p. Liberty Fund, c2008.  PDF via [www](https://drive.google.com).  ISBN 97808659715101.  g,1692 
+* 188  Aurelius, Marcus.  Meditations; tr. by Francis Hutcheson and James Moor; ed. and with an intr. by James Moore and Michael Silverthorne.  Indianapolis, c2008.  950 kb.  g,1692 
 * 188  Irving, William. The stoic challenge.  W.W. Norton & Company, 2019.  k.  via [www](https://read.amazon.com/?asin=B07P9DC6TY).  i174.  Read 2021-12. Grade C. Notes avail. 
 * 188  James, Ryan.  Stoicism.  n.p. 2017.  k. 4381 kb.  via [www](https://read.amazon.com/?asin=B06Y2THJY5).  i175  2011-10  
 * 188  Seneca.  Letters from a Stoic.  Xist Classics, 2016.  k. 886 kb.  via [www](https://read.amazon.com/?asin=B01BN2B3YK).  i176 
@@ -189,7 +189,8 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 200  Buehrens, John A. and Rebecca Ann Parker.  A House for Hope.  n.p. n.d.  v.  i178.  Read 2015-05 and 2017-08. Grade A.
 * 200  Fuller, Andrew R.  Psychology and religion.  n.p. n.d.  v.  i1735  2011-10  
 * 200  Hendren, Trista, Pat Daly, ed.  Whatever works: Feminists of faith speak.  n.p. 2015.  k. 3949 kb.  via  [www](https://read.amazon.com/?asin=B00V96EEGK).  i186 
-* 200  Livingston, James C.  Anatomy of the sacred.  2nd ed.  New York : Macmillan, c1993.  xvi, 460 p.  ISBN 0023714018.  DBID 1697.  i180.  Read 2011-10. Notes avail.  
+* 200  Livingston, James C.  Anatomy of the sacred.  2nd ed.  New York : Macmillan, c1993.  xvi, 460 p.  ISBN 0023714018.  DBID 1697.  i180.  Read 2011-10. Notes avail.
+* 200  Lundy, Janice Lynne.  My deepest me.  Traverse City [c2015].  5 mb.  g,  
 * 200  Mann, Charles C.  Birth of religion.  n.p. 2011.  via [www.](https://drive.google.com).  i181 
 * 200  Paragament, Kenneth I.  The psychology of religion and coping.  New York : Guilford Press, c1997.  xii, 548 p.  ISBN 1572302143  i182  2011-10 
 * 200  Prothero, Stephen.  God is not one.  N.Y., HarperOne, c2010.  388 p. 21 cm.  prothero20210  2023-10. C.
@@ -205,15 +206,16 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 220  Bible.  Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999].  v. 23 cm.  v,0025 
 * 220  Bible.  Message; Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  v,0024
 * 220  Ferlo, Roger.  Opening the Bible.  Cambridge, Mass. c1997.  xv, 153 p.  ISBN 1561011444. i194.  Read 2011-10. Notes avail.
-* 220  Googan, Michael D., ed.  New oxford annotated bible : New revised standard version with the Apocrapha; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors.  4th ed.  n.p. Oxford University Press, c2010.  PDF file, 46.6 MB.  via [www](https://drive.google.com).  i198 
+* 220  Bible.  New oxford annotated bible : New revised standard version with the Apocrapha; Googan, Michael D., ed.; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors.  4th ed.  Oxf [c2010].  46.6 mb.  47 mb.  g,198 
 * 220  Bible.  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  "New English Translation"-cover.  i197 
 * 220  Bible.  Message; Peterson, Eugene.  Colorado Springs, n.d.  k.  via [www](https://read.amazon.com/?asin=B00IV3836G).  i196.  Notes avail. 
 * 220  Spong, John Shelby.  Re-claiming the bible for a non-religious world.  HarperCollins, c2011.  xviii, 414 p.  ISBN 9780062011282.  i201.  Read 20?? Notes avail. 
 * 220  Spong, John Shelby.  Rescuing the bible from fundamentalism.  n.p. n.d.  PDB file via USB.  i202 
 * 220  Bible.  Holy Bible; ESV.  Crossway, 2011.  k. 17720 kb.  via [www](https://read.amazon.com/?asin=B001EOCFU4).  i193 
-* 220  Bible.  Holy Bible; NRSV.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB file.  "The New Revised Standard Version" -cover.  DBID 8331.  i200.  Notes avail. 
+* 220  Bible.  Holy Bible; NRSV.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB file.  "The New Revised Standard Version" -cover.  DBID 8331.  i200.  Notes avail.
+* 221  Cross, Frank Moore.  Canaanite myth and Hebrew epic.  Cambridge, Mass. [c1973].  18 mb.  g,
 * 225  Ehrman, Bart D.  The new testament.  N.Y., Oxford University Press, 2004.  xxxiii, 506 p.  ISBN 0195154622  i203.  Read 2011-10. Notes avail.
-* 226  Growth of the gospel tradition.  n.p., 2007.  PDF file, 379 KB.  via [www](https://drive.google.com).  i204 
+* 226  Growth of the gospel tradition.  n.p., 2007.  379 kb.  379 kb. g,204 
 * 226  Jefferson, Thomas.  The Jefferson Bible.  Sandbox Press, 2011.  k.  304 kb.  via [www](https://read.amazon.com).  ISBN 9781937810092.  i205 
 * 229  Jeffery, Peter.  The secret Gospel of Mark unveiled.  n.p. n.d.  v.  i207 — 2011-10  
 * 230  Frevert, Patricia, ed.  Welcomer.  Bost. 2009.  77 p.  v,0021.
@@ -246,8 +248,13 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 264  Boy Scouts of America.  Reverence; a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events.  n.p. Boy Scouts of America, 2010.  via [www.](http://drive.google.com.  i238 
 * 264  Daily Prayer for All Seasons.  Church Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M4Q4B5S).  i237 
 * 264  Book of prayer and praise for congregational worship.  Bost. 1893.  vii + 377 p. 23 cm.  v,0084
-* 264  Episcopal Church, USA.  The Book of Common Prayer...  Church Publishing, [2007?]  PDF file.  via [www](http://drive.google.com.  i236
-* 264  Episcopal Church, USA.  The Book of Common Prayer...  N.Y., Oxford Univ. Press, [1990].  1001 p. 16 cm.  v, 
+* 264  Book of Common Prayer; Episcopal Church, USA.  Church Publishing, [2007?]  5 mb.  g,236
+* 264  Book of Common Prayer; Episcopal Church, USA.   N.Y., Oxford Univ. Press, [1990].  1001 p. 16 cm.  v,
+* 264  Generous communion.  n.p. General Assemblyof Unitarian and Free Christian Churches, 2008.  215 kb.  g,
+* 264  Humble in front of God; tr. by Farkas, Emőd; Pap, Mária; Székely, Kinga Réka.  Kolozsvár, 2014.  954 kb.  g,
+* 264  Markham, Bernard.  People's order of the mass.  n.p. 1965.  619 kb.  g,
+* 264  Reverence.  Irving, TX. [p2010].  1 mb.  g,
+* 264  Unitarian Church (Charleston, S.C.)  Service Book...  Charleston, 1854.  48 mb.  g, 
 * 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.  i239.  Notes avail. 
 * 265  Medd, Peter Goldsmith.  The Priest to the Altar: Or Aids to the Devout Celebration of Holy Communion Chiefly After the Ancient English Use of Sarum.  Rivingtons, [n.d.]  k.  i240 
 * 265  Ten important points to remember when the priest calls.  n.p. n.d.  1129 kb.  e,7004.pdf
@@ -277,13 +284,13 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 289  Jessop, Flora, Paul T. Brown.  Church of lies.  Jossey-Bass, [n.d.]  k.  via [www.](https://read.amazon.com/).  i258 
 * 289  Morales, Peter.  Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v23082915 
 * 289  Opton, Frank G.  Liberal religion.  Buffalo, N.Y. : Prometheus Books, 1982.  295 p.  ISBN 087975155X.  DBID 2922  i276.  Read 2012-03. Notes avail.
-* 289  Sais, J.  100 questions that non-members ask about Unitarian Universalism.  Nashua, c2000.  g.
+* 289  Sais, J.  100 questions that non-members ask about Unitarian Universalism.  Nashua, c2000.  164 kb.  g,
 * 289  Tittle, Gale, Matt Tittle.  Bless all who serve: Sources of hope, courage and faith for military personnel and their families.  Skinner House Books, 2010.  k. 747 kb.  via [www](https://read.amazon.com/?asin=B004P5NUTE).  i263 
 * 289  Unitarian Universalist Association.  Evangelism.  The Author, 2000.  webpage.  via [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).  i265.  Notes avail. 
-* 289  What does Universalism look like today.  n.p. 2008.  g.
+* 289  What does Universalism look like today.  n.p. 2008.  167 kb.  g,
 * 289  Kraybill, D.B.  Amish of Lancaster County; photographs by Rodriguez, D.  n.p. 2008.  k. 13534 kb.  i281.  Read 2014-03. Grade C. Notes avail.
 * 289.1  Are you a Unitarian without knowing it.  Melbourne Unitarian Peace Memorial Church, n.d.  g.
-* 289.1  Celbrant's guide.  UU Church of the Palouse, 2013.  g.
+* 289.1  Celbrant's guide.  UU Church of the Palouse, 2013.  71 kb.  g,
 * 289.1  Designing and leading rites of passage / Canadian Unitarian Council.  n.p. 2008.  g.
 * 289.1  Frederick-Gray, Susan, Melissa Harris-Perry.  The Unitarian Universalist pocket guide.  6th ed.  Skinner House Books, 2019.  k. 4209 kb.  via [www](https://read.amazon.com/?asin=B07TDMS5Z2).  i268 
 * 289.1  General Assembly of the Unitarian and Free Christian Churches. Worship Panel.  A generous communion.  the author, 2008.  via [www.](http://drive.google.com).  i269 
