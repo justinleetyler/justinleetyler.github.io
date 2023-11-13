@@ -23,49 +23,46 @@
 * 001  McLachlan, Sean and Charles River, eds.  Flying saucers.  n.p. n.d.  v.  i10.  Read 2016-04. Grade C.
 * 001  Open University.  Information on the web.  U.S.? c2016.  k.  B01D8X6UIG.
 * 002  Free kids books.  U.S.? 2021.  [via www.](https://freekidsbooks.org/).  w,19 
-* 002  Kindle Buffet.  n.p. n.d.  [via www.](http://www.weberbooks.com/kindle/)  Daily.  k,20 
+* 002  Kindle Buffet.  n.p. n.d.  [via www](http://www.weberbooks.com/kindle/)  Daily.  w,20 
 * 002  Lyons, Rebecca E; Rayner, Samantha J.  Academic book of the future.  U.S.? 2016.  k.  i21 
 * 002  Openstax.  n.p. c2021.  [via www.](https://openstax.org/).  w,22 
 * 002  University of Minnesota.  Open textbook library.  The author, [202-?]  via [www.](https://open.umn.edu/opentextbooks/).  w,23 
 * 002  eBooks habit.  n.p. c2012.  [via www.](ebookshabit.com)  Daily.  w,18 
 * 003  Operating system interface design between 1981-2009.  n.p., 2009?  1797 kb. e,24.pdf 
-* 003  Operating system interface design between 1981-2009.  n.p., 2009?  via [www](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/).  i24 
-* 004  Adams, Mark.  Python programming.  Resolute Minds Pub., c2015.  k.  via [www](https://read.amazon.com/?asin=B013L09EC0).  i25 
+* 004  Adams, Mark.  Python programming.  Resolute Minds Pub., c2015.  k.  i25 
 * 004  Caard.  U.S., 20--?  via [www](https://carrd.co/build).  i27 
-* 004  Cannon, Jason.  Linux administration.  U.S.? 2016.  k. 856 kb.  via [www](https://read.amazon.com/?asin=B01BJ8GCPS).  i28 
-* 004  Cannon, Jason.  Linux for beginners.  U.S.? 2013.  k. 2688 kb.  via [www](https://read.amazon.com/?asin=B00HNC1AXY).  i29 
+* 004  Cannon, Jason.  Linux administration.  U.S.? 2016.  k. 856 kb.  i28 
+* 004  Cannon, Jason.  Linux for beginners.  U.S.? 2013.  k. 2688 kb.  i29 
 * 004  How-to geek.  HowToGeek.com, c2006- .  via [www](http://www.howtogeek.com/).  i30 
 * 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  1.1 MB.  g,31 
-* 004  Hughes, Matthew.  Learn to build with PHP.  M. Hughes, 2014.  k. 2331 kb.  via [www](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf).  i32 
-* 004  Loukides, Mike.  What Is Data Science?  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B007R8BHAK).  i33
+* 004  Loukides, Mike.  What Is Data Science?  n.p. n.d.  k.  i33
 * 004  Phillips, Gavin.  Deep and dark web guide.  n.p., Makeuseof.com, [c2020].  2 mb.  g,
 * 004  Suehring, Steve.  Learn JavaScript.  Seattle, 2012.  [w.](http://proquest.safaribooksonline.com).  i34 
-* 004  Suellentrop, Claire.  Websites that convert.  U.S.? 2017.  k. 2355 KB.  via [www](https://read.amazon.com/?asin=B06Y3L3W84).  i35
+* 004  Suellentrop, Claire.  Websites that convert.  U.S.? 2017.  k. 2355 kb.  i35
 * 005  135 incredibly useful things you didn't know Google could do.  n.p., fastcompany.com, n.d.  547 kb.  g,
 * 005  Bachaalany, Elias.  Batchography.  n.p. 2016.  1.4 MB.  g,37 
-* 005  Cooper, Peter.  Beginning Ruby.  n.p. n.d.  k.  via [www](https://read.amazon.com).  i39 
-* 005  DataCamp.  Python basics cheat sheet.  [n.p. 200?].  PDF, 1 MB.  g49 
-* 005  Dumbill, Edd.  Planning for big data.  U.S.? 2012.  k. 1525 KB.  via [www](https://read.amazon.com/?asin=B007JWG7P4).  i40 
+* 005  Cooper, Peter.  Beginning Ruby.  n.p. n.d.  k.  i39 
+* 005  DataCamp.  Python basics cheat sheet.  [n.p. 200?].  1 mb.  g49 
+* 005  Dumbill, Edd.  Planning for big data.  U.S.? 2012.  k. 1525 kb.  i40 
 * 005  EPUB to PDF converter.  U.S.? c2021.  [w.](https://go4convert.com/ebook-to-pdf).  i41 
-* 005  Forta, Ben.  Sams teach yourself regular expressions in 10 minutes.  U.S.? 2004.  k. 904 KB.  via [www](https://read.amazon.com/?asin=B0027KRPHM).  i42 
-* 005  Glide.  n.p. n.d.  via [w.](https://www.glideapps.com/).  i43 
+* 005  Forta, Ben.  Sams teach yourself regular expressions in 10 minutes.  U.S.? 2004.  k. 904 kb.  i42 
+* 005  Glide.  n.p. n.d.  via [www](https://www.glideapps.com/).  w,43 
 * 005  Holzner, Steven.  Perl Core language.  U.S.? 20--?  k.  i44 
 * 005  Kindle4Rss.  U.S.? c2019.  [w.](http://kindle4rss.com/).  i45 
-* 005  McLaughlin, Brett.  What Is HTML5?.  U.S.? 2011.  k. 243 KB.  via [www](https://read.amazon.com/?asin=B005ISQ7JM).  i47 
+* 005  McLaughlin, Brett.  What Is HTML5?.  U.S.? 2011.  k. 243 kb.  i47 
 * 005  Nixon, Robin.  Learning PHP, MYSQL, and Javascript.  Beijing; Cambridge, c2009.  7.2 mb.  g,48.  Notes avail.
-* 005  Regular expression reference.  n.p. n.d.  4.1 MB.  g,50 
-* 005  Tennison, Jeni.  Beginning XSLT.  Wrox Press, [n.d.]  k.  via [www](https://read.amazon.com/).  i51 
-* 005  Williams, Jake Day.  Learn PHP.  n.p., 2015.  k. 6574 kb.  via [www](https://read.amazon.com/?asin=B00ULKOU1O).  i52 
-* 006  10 Simple CSS Code Examples You Can Learn in 10 Minutes.  [United States, 20--?]  [w.](https://www.makeuseof.com/tag/simple-css-code-examples/).  i53 
-* 006  Open University.  Introduction to computational thinking.  The Open University, 2016.  k. 812 kb.  via [www](https://read.amazon.com/?asin=B01D8X5ZO6).  i54 
-* 006  U.S.  Cloud computing strategy.  Wash. 2012.  2 MB.  g,36 
+* 005  Regular expression reference.  n.p. n.d.  4.1 mb.  g,50 
+* 005  Tennison, Jeni.  Beginning XSLT.  Wrox Press, [n.d.]  k.  i51 
+* 005  Williams, Jake Day.  Learn PHP.  n.p., 2015.  k. 6574 kb.  i52 
+* 006  Open University.  Introduction to computational thinking.  The Open University, 2016.  k. 812 kb.  i54 
+* 006  U.S.  Cloud computing strategy.  Wash. 2012.  2 mb.  g,36 
 * 017  Curlie.  Curlie, c2018.  [w.](https://curlie.org).  i55 
-* 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  [w.](https://archive.org/details/supplementtocat01massgoo).  i56.  Notes avail. 
+* 019  Mercantile Library of Boston, Catalogue of.  John Wilson and Son, 1854.  via [www](https://archive.org/details/supplementtocat01massgoo).  w,56.  Notes avail. 
 * 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.   675 kb.  g,61.
-* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 KB.  via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  w,61 
+* 020  Alaska. Dept. of Education.  The small school library.  A.K. Dept of Ed. 1967.  PDF, 675 kb.  via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  w,61 
 * 020  Battles, Matthew.  Library : an unquiet history.  n.p. n.d.  v.  i58  Read 2005-06. Notes avail.  
-* 020  Hammer, Joshua.  The bad-ass librarians of Timbuktu.  Simon & Schuster, [n.d.]  k.  i60 
-* 020  Open University.  The Library of Alexandria.  The Open University / [20--?]  k.  via [www](https://read.amazon.com/?asin=B01AWET3VU).  i63 
+* 020  Hammer, Joshua.  The bad-ass librarians of Timbuktu.  n.p. n.d.  k.  i60 
+* 020  OLibrary of Alexandria.  n.p. n.d.  k.  i63 
 * 023  Miller, Zana Kate.  How to organize a library.  Chic., Library Bureau, c1921.  1.3 mb.  g,64 
 * 025  Dodd, S.  Cataloginging machine-readable data files.  C., American Library Association, 1982.  via [www](https://archive.org/details/catalogingmachin00dodd).  w,230401
 * 025  Eklund, Amy P. and others.  Comparison of MARC content designation utilization in OCLC WorldCat records
@@ -75,7 +72,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 025  Mering, Margaret.  RDA workbook.  Santa Barbara, Calif., Libraries Unlimited, c2014.  4 mb.  g,70
 * 025  Miller, Joseph ed.  Sears List of subject headings; Bristow, Barbara, assoc. ed.  N.Y., H.W. Wilson, 2007.  4 mb.  g,
 * 025  Outline of the Library of Congress Classification system.  [University Center, Mich., Delta College, 2003].  50 kb.  g,
-* 025  Open University.  The digital literacy.  The Open University, 2018.  k. 1451 kb.  via [www](https://read.amazon.com/?asin=B07DVNC9HM).  i72 
+* 025  Digital literacy.  The Open University, 2018.  k. 1451 kb.  i72 
 * 025  U.S.  Government Printing Office.  Instructions to depository libraries.  [United States] : U.S. G.P.O., 2000.  PDF file.  via USB. File name: 0067.pdf.  i68 
 * 025.06  Kahn, Salman.  The Khan academy.  [Menlo Park, CA] : Salman Khan, 2004- .  [w.](http://www.khanacademy.org/).  i73 
 * 025  Calhoun, Karen and others.  Online catalogs : what users and librarians want.  Dublin, Ohio, c2009.  1.4 mb.  g,79 
@@ -102,9 +99,9 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 028  Kosciejew, Marc.  Inside an axis of evil library.  [n.p.] Feliciter, 2009.  164 KB.  g,107 
 * 028  Well-educated mind.  n.p. n.d.  v.  i1762 – 2011-10 and 2005-11 
 * 028.7  Secker, Jane and Emma Coonan.  Rethinking information literacy.  Facet publishing, c2013.  via [www](http://search.ebscohost.com/login.aspx?direct=true&db=nlebk&AN=558495&site=ehost-live&ebv=EB).   w,108.  Notes avail.
-* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2016.  k. 211722 kb.  via [www](https://read.amazon.com/?asin=B00W05CUO2).  i109 
-* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2020.  k. 211884 kb.  via [www](https://read.amazon.com/?asin=B07QGX32QP).  i110 
-* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2021.  k. 191386 kb.  via [www](https://read.amazon.com/?asin=B085CN7GGF).  i111 
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2016.  k. 211722 kb.  i109 
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2020.  k. 211884 kb.  i110 
+* 031  Janssen, S.  World Almanac and Book of Facts.  n.p. 2021.  k. 191386 kb.  i111 
 * 090  Residential lease [between Shawn Lysik, Justin Lee Tyler, and John S. Mercer].  2014-01-14.  1017 kb.  e,3311.pdf
 * 090  [EBSCO paystub for Justin Lee Tyler].  2013-12-31.  942 kb.  e,3312.pdf
 * 090  Marriage Licence [between George Thompson and Julie Jacobs].  1923 Aug. 1st.  2471 kb.  e,0000115.PDF 
