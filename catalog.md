@@ -129,22 +129,22 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 135  Regardie, Israel.  The Golden Dawn: Original account of the teachings, rites, and ceremonies of the Hermetic Order; Revised and corrected by Greer, John Michael; prefaced by Cicero, Chic and Cicero, Sandra Tabatha.  7th ed.  Woodbury, Minn. [c2015].  19 mb.  g,  
 * 135  Weed, Joseph J.  Wisdom of mystic masters.  West Nyack, N.Y., Parker Pub. Co., c1968.  xii + 208 p. 21 cm.  i,
 * 142  Panza, Christopher and Gregory Gale.  Existentialism for dummies.  Hoboken, NJ : Wiley Publishing, c2008.  xvi, 366 p.  ISBN 9780470276990  i130.  Notes avail. 
-* 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators.  HTML file.  via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).  i131.  Notes avail. 
+* 150  Klosowski, Thorin.  The best productivity tricks used by evil dictators. via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators).  IN Lifehacker.  (Oct. 18, 2012).  i131.  Notes avail. 
 * 150  Spielman, Rose M.  Psychology.  Houston, TX, Openstack, [2017]  k.  i,2304191 
-* 150  Winfrey, Sarah.  29 scientifically proven ways to be happy this year.  n.p. n.d.  HTML file.  via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).  IN: Wisebread.com, 2014.  i132.  Notes avail. 
-* 152  12 rituals happy, successfull people practice every day.  n.p. n.d.  HTML file.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139.  Notes avail. 
-* 152  Brodie, Paul.  Just do it : ten ways to help increase making your dreams and goals a reality.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N753SGS).  i133 
-* 152  Kohn, Sally.  The opposite of hate.  Reprint ed.  Algonquin Books, 2018.  k. 923 kb.  via [www](https://read.amazon.com/?asin=B075G4W7VF).  i135 
+* 150  Winfrey, Sarah.  29 scientifically proven ways to be happy this year.  n.p. n.d.  via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year).  IN: Wisebread.com, 2014.  i132.  Notes avail. 
+* 152  12 rituals happy, successfull people practice every day.  n.p. n.d.  via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  i139.  Notes avail. 
+* 152  Brodie, Paul.  Just do it.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N753SGS).  i133 
+* 152  Kohn, Sally.  Opposite of hate.  Reprint ed.  Algonquin Books, 2018.  k. 923 kb.  via [www](https://read.amazon.com/?asin=B075G4W7VF).  i135 
 * 152  Luther, Kate.  7 ways to get your life back into balance.  wisebread.com, 2014.  w.  i136.  Notes avail. 
 * 152  Michael, Paul.  10 mantras that will transform your life.  wisebread.com, 2013.  via [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).  w,137.  Notes avail. 
-* 152  Stulberg, Brad.  8 rules to do everything better.  [n.p., 2021?].  HTML file.  via [www]().  i138.  Notes avail. 
-* 153  Fritzier, James and Susan G. Friedman.  Behavior toolkit.  n.p c2010.   574 KB.  g140 
-* 153  Gibbs, Jake J. and Roddy O. Gibbs.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
+* 152  Stulberg, Brad.  8 rules to do everything better.  [n.p., 2021?].  via [www](https://www.outsideonline.com/health/training-performance/8-principles-do-it-better/).  i138.  Notes avail. 
+* 153  Fritzier, James and Friedman, Susan G.  Behavior toolkit.  n.p c2010.   574 KB.  g140 
+* 153  Gibbs, Jake J. and Gibbs, Roddy O.  Mindful way to study.  O'Connor Press, 2013.  k. 831 kb.  i141 
 * 153  Pinola, Melanie.  Why you learn more effectively by writing then typing.  lifehacker.com, 2011.  via [www](http://www.lifehacker.com/5738093).  w,142.  Notes avail.
 * 155  SavvySugar.  5 tactics for relieving work-related stress.  n.p. 2012.  e,0000144.txt 
 * 155  Bennington-Castro, Joseph.  Science of what makes an introvert and an extrovert.  n.p. 2013.  492 kb.  g,143.  Notes avail. 
-* 155  Happy introvert, The.  n.p. n.d.  v.  i1756  2011-10  
-* 155  Wingo, Mary. The impact of the human stress response.  Roxwell Waterhouse, 2016.  k. 9074 kb.  via [www](https://read.amazon.com/?asin=B01FK2YPJO).  i145 
+* 155  Happy introvert.  n.p. n.d.  v.  i1756  2011-10  
+* 155  Wingo, Mary. Impact of the human stress response.  Roxwell Waterhouse, 2016.  k. 9074 kb.  via [www](https://read.amazon.com/?asin=B01FK2YPJO).  i145 
 * 158  Hustad, Megan.  Benefits of being stupid at work.  n.p. 2013.  37 kb.  g,146.  Notes avail. 
 * 158  Murray, Katherine.  Own your future.  [Settle]? c2010.  2.5 mb.  g,147 
 * 158  Pinola, Melanie.  Four signs your relationship might be doomed.  via [www](http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed).  IN Lifehacker.  (Mar. 15, 2013).  w,148.  Notes avail. 
@@ -153,13 +153,13 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 170  Can ethics be Christian?  n.p. n.d.  v.  i1736  2011-10  
 * 170  Fletcher, Joseph F.  Situation ethics.  Philadelphia : Westminster Press, [1966].  176 p.  d,150.  Read 2011-10. Notes avail.  
 * 170  Framework for a feminist ethics.  n.p. n.d.  v.  DBID 1037.  i151.  Notes avail. 
-* 170  Parliament of World's Religions. Editorial Committee.  Declaration toward a global ethic.  PWR, 1993.  PDF file.  via [www](http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf).  i152.  Notes avail. 
-* 171  Sheng, C.L.  A defense of utilitarianism.  Lanham, MD : University Press of America, 2003.  v.  ISBN 0761827315  i154.  Read 2011-10. Notes avail  
-* 171  The responsible self.  n.p. n.d.  v.  DBID 1737.  i153.  Read 2011-10. Notes avail.  
-* 174  Pauchant, Thierry C., ed.  Ethics and spirituality at work.  Westport, Conn. : Quorum Books, 2002.  xii, 266 p.  ISBN 1567205623  i155.  Read 2011-10. Notes avail.  
+* 170  Parliament of World's Religions. Editorial Committee.  Declaration toward a global ethic.  PWR, 1993.  PDF file.  via [www](http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf).  w,152.  Notes avail. 
+* 171  Sheng, C.L.  Defense of utilitarianism.  Lanham, MD : University Press of America, 2003.  v.  ISBN 0761827315  i154.  Read 2011-10. Notes avail  
+* 171  Responsible self.  n.p. n.d.  v.  DBID 1737.  d,153.  Read 2011-10. Notes avail.  
+* 174  Pauchant, Thierry C., ed.  Ethics and spirituality at work.  Westport, Conn. : Quorum Books, 2002.  xii, 266 p.  ISBN 1567205623  d,155.  Read 2011-10. Notes avail.  
 * 174  Theology and Christian ethics.  n.p. n.d.  v.  DBID 1743.  i156.  Notes avail. 
 * 174  Thomas, Ryan.  Become a natural leader: What a former Army officer can teach you about leadership.  n.p. 2014.  k. 1209 kb.  via [www](https://read.amazon.com/?asin=B00I9K1TGW).  i157 
-* 177  Einhorn, Stefan.  The art of being kind.  n.p. n.d.  v.  i158.  to_read  
+* 177  Einhorn, Stefan.  Art of being kind.  n.p. n.d.  v.  i158.  to_read  
 * 178  Bivans, Steve.  Be a hobbit, save the Earth: the guide to sustainable shire living.  1st ed.  Shireness Publishing, 2014.  k. 2934 kb.  via [www](https://read.amazon.com/?asin=B00PWZ7MC2).  i159 
 * 178  Dawson, William J.  The quest of the simple life.  n.p. 2012.  k. 228 kb.  via [www](https://read.amazon.com/?asin=B0084AOTM8).  i160 
 * 178  Hays, Ronald.  Life lived simply: meditation, spirituality, and conscious living.  The Global Page, 2013.  k. 3344 kb.  via [www](https://read.amazon.com/?asin=B00F1GW6WI).  i161 
@@ -173,86 +173,83 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 178  Wonderful, Jessica.  Voluntary Simplicity: How to downsize, simplify, and retire early.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00AH3R0G2).  i171 
 * 178  Zislis, Evan Michael.  ClutterFree revolution.  The Difference Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B00VSUCKSQ).  i172 
 * 178  [21 simple actions towards a simpler life].  [n.p 2012?]  via www.  i170.  Notes avail. 
-* 181  I-ming, Liu.  Awakening to the Tao, tr. by Cleary, Thomas.  1st ed.  Boston : Shambhala ; [New York] : Distributed in the U.S. by Random House, 1988.  xvi, 105 p. ; 22 cm.  ISBN: 087773447X.  i1710.  Read 2022-05. Grade B. Notes avail. 
+* 181  I-ming, Liu.  Awakening to the Tao, tr. by Cleary, Thomas.  1st ed.  Boston : Shambhala ; [New York] : Distributed in the U.S. by Random House, 1988.  xvi, 105 p. ; 22 cm.  ISBN: 087773447X.  d,1710.  Read 2022-05. Grade B. Notes avail. 
 * 188  Aurelius, Marcus.  Meditations.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0082XJGRK).  i173 
-* 188  Aurelius, Marcus.  Meditations. Hammond, Martin tr. Clay, Diskin intro.  Lond. 2014.  lxi, 351 p. ; 17 cm.  d,0018 
+* 188  Aurelius, Marcus.  Meditations. Hammond, Martin tr. Clay, Diskin intro.  Lond. 2014.  lxi, 351 p. ; 17 cm.  v,0018 
 * 188  Aurelius, Marcus.  Meditations; tr. by Francis Hutcheson and James Moor; ed. and with an intr. by James Moore and Michael Silverthorne.  Indianapolis, c2008.  950 kb.  g,1692 
-* 188  Irving, William. The stoic challenge.  W.W. Norton & Company, 2019.  k.  via [www](https://read.amazon.com/?asin=B07P9DC6TY).  i174.  Read 2021-12. Grade C. Notes avail. 
+* 188  Irving, William. Stoic challenge.  W.W. Norton & Company, 2019.  k.  via [www](https://read.amazon.com/?asin=B07P9DC6TY).  d,174.  Read 2021-12. Grade C. Notes avail. 
 * 188  James, Ryan.  Stoicism.  n.p. 2017.  k. 4381 kb.  via [www](https://read.amazon.com/?asin=B06Y2THJY5).  i175  2011-10  
 * 188  Seneca.  Letters from a Stoic.  Xist Classics, 2016.  k. 886 kb.  via [www](https://read.amazon.com/?asin=B01BN2B3YK).  i176 
-* 190  Philosophy.  n.p. n.d.  v.  i1738  2011-10  
-* 193.9  Nietzsche, Friedrich Wilhelm, selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann.  The portable Nietzsche.  Harmondsworth England : Penguin, 1976.  x, 692 p.  i177.  Read 2012-03.  Notes avail.
-* 200  After God.  n.p. n.d.  v.  i1754  2011-10  
-* 200  Buehrens, John A. and Rebecca Ann Parker.  A House for Hope.  n.p. n.d.  v.  i178.  Read 2015-05 and 2017-08. Grade A.
-* 200  Fuller, Andrew R.  Psychology and religion.  n.p. n.d.  v.  i1735  2011-10  
+* 190  Philosophy.  n.p. n.d.  v.  d,1738  2011-10  
+* 193.9  Nietzsche, Friedrich Wilhelm, selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann.  The portable Nietzsche.  Harmondsworth England : Penguin, 1976.  x, 692 p.  d,177.  Read 2012-03.  Notes avail.
+* 200  After God.  n.p. n.d.  v.  d,1754  2011-10  
+* 200  Buehrens, John A. and Parker, Rebecca Ann.  House for hope.  n.p. n.d.  v.  d,178.  Read 2015-05 and 2017-08. Grade A.
+* 200  Fuller, Andrew R.  Psychology and religion.  n.p. n.d.  v.  d,1735  2011-10  
 * 200  Hendren, Trista, Pat Daly, ed.  Whatever works: Feminists of faith speak.  n.p. 2015.  k. 3949 kb.  via  [www](https://read.amazon.com/?asin=B00V96EEGK).  i186 
-* 200  Livingston, James C.  Anatomy of the sacred.  2nd ed.  New York : Macmillan, c1993.  xvi, 460 p.  ISBN 0023714018.  DBID 1697.  i180.  Read 2011-10. Notes avail.
+* 200  Livingston, James C.  Anatomy of the sacred.  2nd ed.  New York : Macmillan, c1993.  xvi, 460 p.  ISBN 0023714018.  DBID 1697.  d,180.  Read 2011-10. Notes avail.
 * 200  Lundy, Janice Lynne.  My deepest me.  Traverse City [c2015].  5 mb.  g,  
-* 200  Mann, Charles C.  Birth of religion.  n.p. 2011.  via [www.](https://drive.google.com).  i181 
-* 200  Paragament, Kenneth I.  The psychology of religion and coping.  New York : Guilford Press, c1997.  xii, 548 p.  ISBN 1572302143  i182  2011-10 
-* 200  Prothero, Stephen.  God is not one.  N.Y., HarperOne, c2010.  388 p. 21 cm.  prothero20210  2023-10. C.
-* 200  Religion and Psychology.  n.p. n.d.  v.  i183.  Read 2011-10.  Notes avail.
-* 200  Smith, Christian, Patricia Snell.  Souls in transition: the religious and spiritual lives of emerging adults.  Oxford University Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B004FPYKX4).  i185. 
-* 204  Who is my God.  n.p. nd.d  v.  i188  2014-06.  C
+* 200  Paragament, Kenneth I.  Psychology of religion and coping.  New York : Guilford Press, c1997.  xii, 548 p.  ISBN 1572302143  d,182  2011-10 
+* 200  Prothero, Stephen.  God is not one.  N.Y., HarperOne, c2010.  388 p. 21 cm.  d,  2023-10. C. Notes avail.
+* 200  Religion and Psychology.  n.p. n.d.  v.  d,183.  Read 2011-10.  Notes avail.
+* 200  Smith, Christian and Parker, Patricia  Souls in transition: the religious and spiritual lives of emerging adults.  Oxford University Press, n.d.  k.  via [www](https://read.amazon.com/?asin=B004FPYKX4).  i185. 
+* 204  Who is my God.  n.p. nd.d  v.  d,188  2014-06.  C
 * 204  Wikstrom, E.W.  Simply pray.  Bost. Skinner House [2005].  x + 140 p. 22 cm.  d,2304231.  Read 2023. 
-* 209  Burton, Tara.  Strange rites.  n.p. n.d.  k.  i1724  2020-08. Grade C. Grade Discusses modern day movements that also have the, pillars of what religion always has meaning, purpose, community, ritual. 
-* 210  Horsfield, J.  The Golden Rule - Pathways to peace.  Hearts Minds Media, n.d.  k.  via [www](https://read.amazon.com/?asin=B07B4QFZZL).  i190 
-* 210  Maziarek, Jeff.  Spirituality simplified.  Spirit Simple Enterprises, 2012.  k. 981 kb.  via [www](https://read.amazon.com).  ASIN B007AMMYG4.  i189 
+* 209  Burton, Tara.  Strange rites.  n.p. n.d.  k.  d,1724  2020-08. Grade C. Discusses modern day movements that also have the, pillars of what religion always has meaning, purpose, community, ritual. 
+* 210  Horsfield, J.  Golden rule.  Hearts Minds Media, n.d.  k.  via [www](https://read.amazon.com/?asin=B07B4QFZZL).  i190 
+* 210  Maziarek, Jeff.  Spirituality simplified.  Spirit Simple Enterprises, 2012.  k. 981 kb.  i189 
 * 210  Mercer, John Edward.  Nature Mysticism.  n.p. 2012.  k.  via [www](https://read.amazon.com/?asin=B00848YOGQ).  i191 
-* 210  Peters, Karl E.  Dancing with the sacred.  Trinity Press International, c2002.  x, 171 p.  ISBN 1563383934.  i192.  Notes avail. 
+* 210  Peters, Karl E.  Dancing with the sacred.  Trinity Press International, c2002.  x, 171 p.  ISBN 1563383934.  d,192.  Notes avail. 
 * 220  Bible.  Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999].  v. 23 cm.  v,0025 
-* 220  Bible.  Message; Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  v,0024
-* 220  Ferlo, Roger.  Opening the Bible.  Cambridge, Mass. c1997.  xv, 153 p.  ISBN 1561011444. i194.  Read 2011-10. Notes avail.
+* 220  Bible.  Message, Peterson, Eugene H.  Colorado Springs, Co., NavPress, 2002.  906 p. 21 cm.  v,0024
+* 220  Ferlo, Roger.  Opening the Bible.  Cambridge, Mass. c1997.  xv, 153 p.  ISBN 1561011444. d,194.  Read 2011-10. Notes avail.
 * 220  Bible.  New oxford annotated bible : New revised standard version with the Apocrapha; Googan, Michael D., ed.; Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors.  4th ed.  Oxf [c2010].  46.6 mb.  47 mb.  g,198 
-* 220  Bible.  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  "New English Translation"-cover.  i197 
-* 220  Bible.  Message; Peterson, Eugene.  Colorado Springs, n.d.  k.  via [www](https://read.amazon.com/?asin=B00IV3836G).  i196.  Notes avail. 
+* 220  Bible.  NET bible noteless.  1st ed.  Biblical Studies Press, c1996.  k.  3459 kb.  via [www](https://read.amazon.com/).  i197 
+* 220  Bible.  Message, Peterson, Eugene.  Colorado Springs, n.d.  k.  via [www](https://read.amazon.com/?asin=B00IV3836G).  i196.  Notes avail. 
 * 220  Spong, John Shelby.  Re-claiming the bible for a non-religious world.  HarperCollins, c2011.  xviii, 414 p.  ISBN 9780062011282.  i201.  Read 20?? Notes avail. 
-* 220  Spong, John Shelby.  Rescuing the bible from fundamentalism.  n.p. n.d.  PDB file via USB.  i202 
+* 220  Spong, John Shelby.  Rescuing the bible from fundamentalism.  n.p. n.d.  PDB.  e,202 
 * 220  Bible.  Holy Bible; ESV.  Crossway, 2011.  k. 17720 kb.  via [www](https://read.amazon.com/?asin=B001EOCFU4).  i193 
-* 220  Bible.  Holy Bible; NRSV.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB file.  "The New Revised Standard Version" -cover.  DBID 8331.  i200.  Notes avail.
+* 220  Bible.  Holy Bible; NRSV.  Minneapolis, MN : Augsburg Fortress, c1989.  PDB.  e,200.  Notes avail.
 * 221  Cross, Frank Moore.  Canaanite myth and Hebrew epic.  Cambridge, Mass. [c1973].  18 mb.  g,
-* 225  Ehrman, Bart D.  The new testament.  N.Y., Oxford University Press, 2004.  xxxiii, 506 p.  ISBN 0195154622  i203.  Read 2011-10. Notes avail.
+* 225  Ehrman, Bart D.  New testament.  N.Y., Oxford University Press, 2004.  xxxiii, 506 p.  ISBN 0195154622  d,203.  Read 2011-10. Notes avail.
 * 226  Growth of the gospel tradition.  n.p., 2007.  379 kb.  379 kb. g,204 
-* 226  Jefferson, Thomas.  The Jefferson Bible.  Sandbox Press, 2011.  k.  304 kb.  via [www](https://read.amazon.com).  ISBN 9781937810092.  i205 
-* 229  Jeffery, Peter.  The secret Gospel of Mark unveiled.  n.p. n.d.  v.  i207 — 2011-10  
-* 230  Frevert, Patricia, ed.  Welcomer.  Bost. 2009.  77 p.  v,0021.
+* 226  Jefferson, Thomas.  Jefferson Bible.  Sandbox Press, 2011.  k. 304 kb.  via [www](https://read.amazon.com).  ISBN 9781937810092.  i205 
+* 229  Jeffery, Peter.  Secret Gospel of Mark unveiled.  n.p. n.d.  v.  d,207.  2011-10  
+* 230  Frevert, Patricia, ed.  Welcome.  Bost. 2009.  77 p.  v,0021.
 * FIC  Little, Rod.  Earthweed.  2nd ed.  n.p. n.d.  c2016.  via [www](https://www.hoopladigital.com/play/14940629).  (Sons of Neptune ; 1)  ISBN 9781547268566   d,256. 
-* 230  Smith, Huston.  The soul of Christianity. n.p. n.d.  PDB file.  via USB.  Title from BN.com.  i209 
-* 230  Spong, John Shelby.  New Christianity for a new world, A.  1st ed.  San Francisco : n.p. c2001.  xxv, 276 p.  ISBN 0060670843.  i210.  Read 20?? Notes avail. 
-* 230  Spong, John Shelby.  Why Christianity must change or die.  n.p. n.d.  PDB file via USB.  i211 
+* 230  Smith, Huston.  Soul of Christianity. n.p. n.d.  PDB.  e,209 
+* 230  Spong, John Shelby.  New Christianity for a new world.  1st ed.  San Francisco : n.p. c2001.  xxv, 276 p.  ISBN 0060670843.  d,210.  Read 20?? Notes avail. 
+* 230  Spong, John Shelby.  Why Christianity must change or die.  n.p. n.d.  PDB.  e,211 
 * 230  Tolstoy, Leo.  The Kingdom of God is within you.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005CDZG2M).  i212.
-* 232  Aslan, Reza.  Zealot : the life and times of Jesus of Narareth.  Random House, c2013.  xxxiv, 296 p.  9781400069224.  i213.  Read 2013-09. Grade B. Notes avail.
-* 232  Ehrman, Bart D.  How Jesus became God.  n.p. n.d.  v.  i1703.  Read 2014-09. Grade B. Notes avail.
-* 232  Four faces of Jesus.  n.p. n.d.  v.  i214.  Notes 2012-03. Notes avail.
-* 232  McLennan, Scotty.  Christ for Unitarian Universalists.  Skinner House, 2016.  k. 2038 kb.  via [www](https://read.amazon.com).  ISBN 9781558967724.  i215.  Notes avail. 
-* 232  Spong, John Shelby.  Born of a women.  n.p. n.d.  PDB file via USB.  i216 
-* 234  Nouwen, Henri J.M.  With burning hearts : a meditation on the eucharistic life.  Orbis Books, c1994.  95 p.  ISBN 0883449846.  i218.  Notes avail. 
+* 232  Aslan, Reza.  Zealot : the life and times of Jesus of Narareth.  Random House, c2013.  xxxiv, 296 p.  9781400069224.  d,213.  Read 2013-09. Grade B. Notes avail.
+* 232  Ehrman, Bart D.  How Jesus became God.  n.p. n.d.  v.  d,1703.  Read 2014-09. Grade B. Notes avail.
+* 232  Four faces of Jesus.  n.p. n.d.  v.  d,214.  Read 2012-03. Notes avail.
+* 232  McLennan, Scotty.  Christ for Unitarian Universalists.  Skinner House, 2016.  k. 2038 kb.  i215.  Notes avail. 
+* 232  Spong, John Shelby.  Born of a women.  n.p. n.d.  PDB.  e,216 
+* 234  Nouwen, Henri J.M.  With burning hearts.  Orbis Books, c1994.  95 p.  ISBN 0883449846.  e,218.  Notes avail. 
 * 238  Van Harn, Roger E., ed.  Exploring and proclaiming the Apostles' Creed.  Grand Rapids, Mich. : William B. Eerdmans Pub., 2004.  xix, 297 p.  ISBN 0802821200  i219  2011-10  
 * 241  Jung, Patricia Beattie; Jung, Shannon.  Moral issues and Christian responses.  n.p. n.d.  v.  i1734  2011-10  
 * 242  Diack, Michael.  The Light and the glass.  Sunstrike, 2013.  k. 960 kb.  (Empyria ; 2).  via [www](https://read.amazon.com/?asin=B00GQZD1JA).  i221 
-* 242  Jacobs, Donald R.  Consider Jesus.  Scottdale, Pa. : Herald Press, c2006.  367 p.  ISBN 0836193474  i222.  Read 2011-10. Notes avail.
+* 242  Jacobs, Donald R.  Consider Jesus.  Scottdale, Pa. : Herald Press, c2006.  367 p.  ISBN 0836193474  d,222.  Read 2011-10. Notes avail.
 * 242  Leach, Michael; Goodnough, Doris eds.  Maryknoll book of inspiration.  Maryknoll, N.Y. 2010.xxvii, 401 p. 21 cm.  v,0310.
 * 242  Tarbox, Elizabeth.  Life tides, meditations.  Skinner House Books, 2012.  k. 229 kb.  via [www](https://read.amazon.com/?asin=B008MP9IXU).  i223 
-* 247  [Celtic cross.  n.p. n.d.]  PDF file.  via [www](https://drive.google.com).  i224 
 * 248  Broyles, Anne.  Journaling.  n.p. n.d.  v.  i227  2012-03
 * 248  Kelsey, Morton T.  Companions on the inner way.  Crossroad, 1985.  xiii, 222 p.  ISBN 0824505603  i229  2012-05  
-* 248  Smith, Stephen W.  The Jesus life, eight ways to recover authentic Christianity.  David C. Cook, 2012.  k. 3300 kb.  via [www](https://read.amazon.com/?asin=B007HLYJI4).  i230 
-* 248  de Jaegher, Paul.  One with Jesus.  Westminster, Md. : Christian Classics, 1993.  xv, 93 p.  i228  2012-03  
-* 252  Jefferts-Schori, Katharine.  A wing and a prayer.  Harrisburg, PA, c2007.  169 p.  i231.  Notes avail. 
-* 261  Johnston, Robert.  Reel spirituality.  2nd ed., Rev. and expanded.  Grand Rapids, Mich. c2006.  351 p.  i233  2011-10  
-* 262  Thavis, John.  Vatican diaries.  N.Y., c2013.  321 p.  i234.  Notes avail. 
+* 248  Smith, Stephen W.  Jesus life, eight ways to recover authentic Christianity.  David C. Cook, 2012.  k. 3300 kb.  via [www](https://read.amazon.com/?asin=B007HLYJI4).  i230 
+* 248  de Jaegher, Paul.  One with Jesus.  Westminster, Md. : Christian Classics, 1993.  xv, 93 p.  d,228  2012-03  
+* 252  Jefferts-Schori, Katharine.  Wing and a prayer.  Harrisburg, PA, c2007.  169 p.  d,231.  Notes avail. 
+* 261  Johnston, Robert.  Reel spirituality.  2nd ed., Rev. and expanded.  Grand Rapids, Mich. c2006.  351 p.  d,233  2011-10  
+* 262  Thavis, John.  Vatican diaries.  N.Y., c2013.  321 p.  d,234.  Notes avail. 
 * 262  Viola, Frank.  Reimagining church.  David C. Cook, 2012.  k. 2983 kb.  via [www](https://read.amazon.com/?asin=B005N4O5Q8).  i235 
-* 264  Boy Scouts of America.  Reverence; a resource for interfaith, Christian, Jewish, and Muslim worship at scouting events.  n.p. Boy Scouts of America, 2010.  via [www.](http://drive.google.com.  i238 
 * 264  Daily Prayer for All Seasons.  Church Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00M4Q4B5S).  i237 
 * 264  Book of prayer and praise for congregational worship.  Bost. 1893.  vii + 377 p. 23 cm.  v,0084
 * 264  Book of Common Prayer; Episcopal Church, USA.  Church Publishing, [2007?]  5 mb.  g,236
 * 264  Book of Common Prayer; Episcopal Church, USA.   N.Y., Oxford Univ. Press, [1990].  1001 p. 16 cm.  v,
-* 264  Generous communion.  n.p. General Assemblyof Unitarian and Free Christian Churches, 2008.  215 kb.  g,
+* 264  Generous communion.  General Assemblyof Unitarian and Free Christian Churches, 2008.  215 kb.  g,
 * 264  Humble in front of God; tr. by Farkas, Emőd; Pap, Mária; Székely, Kinga Réka.  Kolozsvár, 2014.  954 kb.  g,
 * 264  Markham, Bernard.  People's order of the mass.  n.p. 1965.  619 kb.  g,
 * 264  Reverence.  Irving, TX. [p2010].  1 mb.  g,
 * 264  Unitarian Church (Charleston, S.C.)  Service Book...  Charleston, 1854.  48 mb.  g, 
-* 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.  i239.  Notes avail. 
+* 264  Unitarian Universalist Association.  Singing the living tradition.  Beacon Press, c1993.  v.  d,239.  Notes avail. 
 * 265  Medd, Peter Goldsmith.  The Priest to the Altar: Or Aids to the Devout Celebration of Holy Communion Chiefly After the Ancient English Use of Sarum.  Rivingtons, [n.d.]  k.  i240 
 * 265  Ten important points to remember when the priest calls.  n.p. n.d.  1129 kb.  e,7004.pdf
 * 266  Bensh, Sean.  The bikeable church: A bicyclist's guide to church planting. [forward by] Caleb Crider.  k.  via [www](https://read.amazon.cim)  AISN B009AAN20Q.  i241 
@@ -260,78 +257,77 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 270  Cox, Harvey.  The future of faith.  HarperOne, 2009.  k. 403 kb.  via [www](https://read.amazon.com/?asin=B002M41TUM).  i243 
 * 270  Hodges, George.  The early Church, from Ignatius to Augustine.  Arcadia, 2007.  k. 369 kb.  via [www](https://read.amazon.com/?asin=B01N38JOMO).  i244 
 * 270  Jenkins, John Philip.  Jesus wars.  HarperOne, 2010.  k. 699 kb.  via [www](https://read.amazon.com/?asin=B00395ZYVI).  i247 
-* 270  Jenkins, Phillip.  The lost history of Christianity.  n.p. n.d.  PDB file.  via USB. Title from BN.com.  i246 
-* 270  Merton, Thomas.  The waters of Siloe.  New York : Harcourt, Brace and Company c1949.  xxxvii, 377 p.  i248.  Notes avail. 
-* 271  Clay, Rotha Mary.  Hermits and anchorites of England.  Lond. : Methuin & Co., 1914.  via [www](https://archive.org/details/hermitsanchorite00clay_0)  i1704.  Read 2014-07. Grade C.
-* 273  Herrou, Jose M. Argon.  The forbidden religion.  n.p. 2012.  k. 439 kb.  via [www](https://read.amazon.com/?asin=B00891M3WA).  i249.  to_read
-* 282  North, Wyatt.  A History of the Popes: Volume I: Origins to the Middle Ages.  Wyatt North Publishing, LLC, 2015.  k. 625 kb.  via [www](https://read.amazon.com/?asin=B015ULPN2I).  i250 
+* 270  Jenkins, Phillip.  The lost history of Christianity.  n.p. n.d.  PDB.  e,246 
+* 270  Merton, Thomas.  Waters of Siloe.  New York : Harcourt, Brace and Company c1949.  xxxvii, 377 p.  d,248.  Notes avail. 
+* 271  Clay, Rotha Mary.  Hermits and anchorites of England.  Lond. : Methuin & Co., 1914.  via [www](https://archive.org/details/hermitsanchorite00clay_0)  w,1704.  Read 2014-07. Grade C.
+* 273  Herrou, Jose M. Argon.  Forbidden religion.  n.p. 2012.  k. 439 kb.  via [www](https://read.amazon.com/?asin=B00891M3WA).  i249.  to_read
+* 282  North, Wyatt.  History of the Popes: Volume I: Origins to the Middle Ages.  Wyatt North Publishing, LLC, 2015.  k. 625 kb.  via [www](https://read.amazon.com/?asin=B015ULPN2I).  i250 
 * 283  Doyle, Andrew.  Unabashedly Episcopalian: proclaiming the Good News of the Episcopal Church.  Morehouse Publishing, 2012.  k. 428 kb.  via [www](https://read.amazon.com/?asin=B00A1SPDBM).  i251 
 * 284.3  The empty mirror.  [S.l. : s.n., n.d.]  [1] v.  DBID 1728.  i252.  Read 2011-10. Notes avail.
 * 287  Sutton, Nicolas.  Bhagavad Gita: the Oxford Centre for Hindu Studies guide.  Mandala Publishing, 2020.  k. 20586 kb.  via [www](https://read.amazon.com/?asin=B00OU6O44I).  i253 
-* 288  Bennett, Margaret.  Day unto day.  U.S., American Unitarian Association, 1883.  via [www.](https://archive.org/details/dayuntoday00benngoog).  w,254 
+* 288  Bennett, Margaret.  Day unto day.  U.S., American Unitarian Association, 1883.  via [www](https://archive.org/details/dayuntoday00benngoog).  w,254 
 * 289  Alexander, Scott W.  Everyday spiritual practice.  Skinner House, 2001.  k. 613 kb.  via [www](https://read.amazon.com/?asin=B004Q7CI4E).  i264.  Notes avail. 
 * 289  Brent, J. Bill.  Mind the light: learning to see with spiritual eyes.  n.p. 2012.  k. 239 kb.  via [www](https://read.amazon.com/?asin=B00853XTLQ).  i255 
-* 289  Cheetham, Henry H.  Unitarianism and Universalism, dr. by Martin, Roger.  Bost., Beacon, [1962].  124 p. 21 cm.  i1722 
+* 289  Cheetham, Henry H.  Unitarianism and Universalism, dr. by Martin, Roger.  Bost., Beacon, [1962].  124 p. 21 cm.  v,1722 
 * 289  Church of Jesus Christ of Latter-day Saints.  Book of Mormon.  The author, 2013. k. 4463 kb.  via [www.](https://read.amazon.com/?asin=B00BNGXNW2).  i260 
-* 289  Church of Jesus Christ of Latter-day Saints.  Preach my Gospel: a guide to missionary service.  The author, 2012.  k. 6394 kb.  via [www](https://read.amazon.com/?asin=B008QGUHAI).  i262 
+* 289  Church of Jesus Christ of Latter-day Saints.  Preach my Gospel.  n.p. 2012.  k. 6394 kb.  via [www](https://read.amazon.com/?asin=B008QGUHAI).  i262 
 * 289  Nelson, Brian.  Earth bound.  Bost., c2004.  k. via [www](https://read.amazon.com/?asin=B0064P9UQ0).  i261 
-* 289  Fulbright, Audette.  UU Evangelism : sharing our good news.  UUCR, c2006.  html file.  via [www](http://www.uuroanoke.org/sermon/060521Sermon.htm).  i267.  Notes avail. 
+* 289  Fulbright, Audette.  UU Evangelism : sharing our good news.  UUCR, c2006.  via [www](http://www.uuroanoke.org/sermon/060521Sermon.htm).  w,267.  Notes avail. 
 * 289  Grigg, Richard.  To Re-Enchant the world : a philosophy of Unitarian Universalism.  Xlibris, 2004.  k. 780 kb.  via [www](https://read.amazon.com/?asin=B007EC5CTG).  i257.  Read 2014-07. Grade B. Notes avail.
-* 289  Guengerich, Galen.  10 things I wish everyone knew about Unitarian Universalism.  onfaith.com, [20--?].  webpage.  via [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).  i271.  Notes avail. 
-* 289  Jessop, Flora, Paul T. Brown.  Church of lies.  Jossey-Bass, [n.d.]  k.  via [www.](https://read.amazon.com/).  i258 
-* 289  Morales, Peter.  Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v23082915 
-* 289  Opton, Frank G.  Liberal religion.  Buffalo, N.Y. : Prometheus Books, 1982.  295 p.  ISBN 087975155X.  DBID 2922  i276.  Read 2012-03. Notes avail.
+* 289  Guengerich, Galen.  10 things I wish everyone knew about Unitarian Universalism.  onfaith.com, [20--?].  webpage.  via [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).  w,271.  Notes avail. 
+* 289  Jessop, Flora, Brown, Paul T.  Church of lies.  Jossey-Bass, [n.d.]  k.  i258 
+* 289  Morales, Peter.  Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v,23082915 
+* 289  Opton, Frank G.  Liberal religion.  Buffalo, N.Y. : Prometheus Books, 1982.  295 p.  ISBN 087975155X.  d,276.  Read 2012-03. Notes avail.
 * 289  Sais, J.  100 questions that non-members ask about Unitarian Universalism.  Nashua, c2000.  164 kb.  g,
 * 289  Tittle, Gale, Matt Tittle.  Bless all who serve: Sources of hope, courage and faith for military personnel and their families.  Skinner House Books, 2010.  k. 747 kb.  via [www](https://read.amazon.com/?asin=B004P5NUTE).  i263 
-* 289  Unitarian Universalist Association.  Evangelism.  The Author, 2000.  webpage.  via [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).  i265.  Notes avail. 
+* 289  Unitarian Universalist Association.  Evangelism.  The Author, 2000.  via [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).  i265.  Notes avail. 
 * 289  What does Universalism look like today.  n.p. 2008.  167 kb.  g,
 * 289  Kraybill, D.B.  Amish of Lancaster County; photographs by Rodriguez, D.  n.p. 2008.  k. 13534 kb.  i281.  Read 2014-03. Grade C. Notes avail.
-* 289.1  Are you a Unitarian without knowing it.  Melbourne Unitarian Peace Memorial Church, n.d.  g.
 * 289.1  Celbrant's guide.  UU Church of the Palouse, 2013.  71 kb.  g,
 * 289.1  Designing and leading rites of passage / Canadian Unitarian Council.  n.p. 2008.  g.
 * 289.1  Frederick-Gray, Susan, Melissa Harris-Perry.  The Unitarian Universalist pocket guide.  6th ed.  Skinner House Books, 2019.  k. 4209 kb.  via [www](https://read.amazon.com/?asin=B07TDMS5Z2).  i268 
-* 289.1  General Assembly of the Unitarian and Free Christian Churches. Worship Panel.  A generous communion.  the author, 2008.  via [www.](http://drive.google.com).  i269 
-* 289.1  Greenwood, Andrea [and] Mark W. Harris.  Introduction to the unitarian and universalist traditions.  n.p.  Cambridge University Press, c2011.  [w.](http://drive.google.com).  i270 
+* 289.1  General Assembly of the Unitarian and Free Christian Churches. Worship Panel.  Generous communion.  n.p. 2008.  215 kb.  g,269 
+* 289.1  Greenwood, Andrea and Harris, Mark W.  Introduction to the Unitarian and Universalist traditions.  n.p.  Cambridge University Press, c2011.  2 mb.  g,270.
 * 289.1  Hayes, Will, cp.  Every nation kneeling.  n.p. Order of the Great Companions, 1954.  g.  i266 
-* 289.1  McGuiffie, Duncan.  Hymn sandwich : a brief history of Unitarian worship.  N.p., 19--.  [w.](http://drive.google.com).  i273 
-* 289.1  Morales, Peter.  Sanctuary and gospel.  [Bost.] 2017.  via [www.](http://drive.google.com).  i274 
+* 289.1  McGuiffie, Duncan.  Hymn sandwich : a brief history of Unitarian worship.  N.p., 19--.  2 mb.  g,273 
+* 289.1  Morales, Peter.  Sanctuary and gospel.  [Bost.] 2017.  4 kb.  i274 
 * 289.1  Reed, Cliff.  We are here; a book of prayers for corporate worship.  Lindsey Press, c1992.  685 KB.  via [www.](https://drive.google.com).  i277
 * 289.1  Wat, Pamela.  Myths and truths of our faith.  n.p. 2010.  432 kb.  g,
 * 289.1  Zelinski, Doug.  Unitarian Universalist faith primer for lay leaders.  [Bost.] 2014.  91 kb.  g,
-* 290  Carpenter, Edward.  Pagan and Christian creeds: their origin and meaning / Edward Carpenter.  n.p. 2012.  k. 396 kb.  via [www](https://read.amazon.com/?asin=B0082T3QU2).  i282
+* 290  Carpenter, Edward.  Pagan and Christian creeds: their origin and meaning.  n.p. 2012.  k. 396 kb.  via [www](https://read.amazon.com/?asin=B0082T3QU2).  i282
 * 290  Manning, Janice ed.; Masters, Marshall.  Kolbrin bible.  21 century master ed.  n.p. c2006.  6 mb.  g,
 * 290  Santsevi Ji Maharaj, Maharishi.  Harmony of all religions; tr. from Hindi by Veena Rani Howard.  Santmat Society, c2006.  6.5 mb.  g,283 
-* 291  Cenkner, William.  Evil and the response of world religion.  1st ed.  St. Paul, Minn., 1997.  ix, 256 p.  i285.  Read 2011-10. Notes avail.  
-* 291  King, Ursula, ed.  Women in the world's religions, past and present.  Paragon House, c1987.  x, 261 p.  ISBN 9780913757321.  i288.  Read 2011-10. Notes avail.  
-* 291  Meyer, Marvin W., ed.  The ancient mysteries.  1st ed.  San Francisco : Harper & Row, c1987.  xii, 267 p.  ISBN 0060655771  i284.  Read 2011-10. Notes avail.
-* 291  Moore, Thomas.  The soul's religion.  1st ed.  HarperCollins, c2002.  xx, 294 p.  ISBN 0060192860.  i290.  Notes avail. 
-* 291  Pinola, Melanie.  Seven important lessons from world religions everyone should know.  IN Likehacker, 2014.  [w.](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832).  i286.  Notes avail. 
+* 291  Cenkner, William.  Evil and the response of world religion.  1st ed.  St. Paul, Minn., 1997.  ix, 256 p.  d,285.  Read 2011-10. Notes avail.  
+* 291  King, Ursula, ed.  Women in the world's religions, past and present.  Paragon House, c1987.  x, 261 p.  ISBN 9780913757321.  d,288.  Read 2011-10. Notes avail.  
+* 291  Meyer, Marvin W., ed.  Ancient mysteries.  1st ed.  San Francisco : Harper & Row, c1987.  xii, 267 p.  ISBN 0060655771  d,284.  Read 2011-10. Notes avail.
+* 291  Moore, Thomas.  Soul's religion.  1st ed.  HarperCollins, c2002.  xx, 294 p.  ISBN 0060192860.  d,290.  Notes avail. 
+* 291  Pinola, Melanie.  Seven important lessons from world religions everyone should know.  IN Likehacker, 2014.  [w.](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832).  w,286.  Notes avail. 
 * 291  Raines, John C.  Justice men owe women, The.  Minneapolis : Fortress Press, 2001. 6.5 mb.  g287.  Read 2011-03.  
-* 291  Rites of passage.  n.p. n.d.  v.  i1750  2011-10 and 2005-11.
-* 291  Smith, Mark S.; Patrick D. Miller, fwd.  Early history of God : Yahweh and the other deities in ancient Israel.  2nd ed.  N.Y., William B. Eerdmans Publishing, c1990, 2002.  PDF via [www](https://drive.google.com)  i1700 
+* 291  Rites of passage.  n.p. n.d.  v.  d,1750  2011-10 and 2005-11.
+* 291  Smith, Mark S.; Patrick D. Miller, fwd.  Early history of God.  2nd ed.  N.Y., William B. Eerdmans Publishing, c1990, 2002.  PDF via [www](https://drive.google.com)  g,1700 
 * 291.1  Bilberman, Jerry, Michael D. Whitty, eds.  Work and spirit.  n.p. n.d.  v.  i289.  Read 2011-10. Notes avail.  
-* 294  Bhagavad-Gita: The song of God, Christopher Ishwood, tr.  New York : Signet Classic, 2002.  143 p.  ISBN 9780451528445 .  DBID 0115.  i294.  Notes avail. 
-* 294  Gise, Kevin.  Buddhism...for beginners.  n.p. n.d.  k. [w.](https://read.amazon.com/?asin=B01BWFEOXA).  i291 
-* 294  Kato, John.  Zen : simplify life with Zen.  n.p. n.d.  k.  [w.](https://read.amazon.com/).  i292 
+* 294  Bhagavad-Gita: The song of God, Christopher Ishwood, tr.  New York : Signet Classic, 2002.  143 p.  ISBN 9780451528445 .  DBID 0115.  d,294.  Notes avail. 
+* 294  Gise, Kevin.  Buddhism...for beginners.  n.p. n.d.  k. via [www](https://read.amazon.com/?asin=B01BWFEOXA).  i291 
+* 294  Kato, John.  Zen : simplify life with Zen.  n.p. n.d.  k.  i292 
 * 294  Selected passages from the Chinese philosophers in the path / Confucius, Mencius, Laozi... [et.al.]; translated by Michael Puett and Christine Gross-Loh.  Simon & Schuster, 2016.  k. via [www.](https://read.amazon.com/?asin=B01BCEPO1C)  ISBN 9781501157456.  i293
 * 296  Day, John.  Yahweh and the gods and goddesses of Canaan.  Lond. c2000, 2002.  15 mb.  g,
 * 297  Quran: A Simple English Translation, Maulana Wahiduddin, Goodword Khan, trs.  Goodword Books, [n.d.]  k. via [www](https://read.amazon.com/?asin=B00HIHMYWK).  i295 
-* 297.272  Ali, Ayaan Hirsi.  Heretic.  Harper, c2015.  272 p.  ISBN 9780062333933.  i296.  Notes avail. 
-* 133  Ancient Order of Druids in America.  AODA new candidate guide.  1st ed.  Telluric Press, c2016.  5 mb.  g,g297.  Notes avail. 
+* 297.272  Ali, Ayaan Hirsi.  Heretic.  Harper, c2015.  272 p.  ISBN 9780062333933.  d,296.  Notes avail. 
+* 133  Ancient Order of Druids in America.  AODA new candidate guide.  1st ed.  Telluric Press, c2016.  5 mb.  g,297.  Notes avail. 
 * 299  Deng, Ming Dao.  365 Tao.  N.Y., HarperOne, 1992.  k.  9171 kb.  via [www](https://read.amazon.com/?asin=B00CREFHDM).  i305 
 * 299  Deng, Ming-Dao.  365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992.  xii, 380 p. 18 cm.  v,0020
 * 299  Greer, John Michael.  Druid magic handbook; Spangler, David fwd.  San Francisco : Red Wheel/Weiser, 2007.  64 mb.  g,
 * 299  Greer, John Michael.  Druidry handbook; Carr-Gomm, Philip fwd.  [San Franscisco] : Red Wheel/Weiser, 2006.  42 mb.  g,
 * 299  Herman, Jonathan.  Taoism for dummies.  Mississauga, Ontario : John Wiley & Sons, c2013.  1876 kb.  e,307.mobi 
-* 299  Hifler, Joyce Sequichie.  A Cherokee feast of days.  Council Oak Books, c1992.  412 p.  i300.  Notes avail. 
+* 299  Hifler, Joyce Sequichie.  Cherokee feast of days.  Council Oak Books, c1992.  412 p.  d,300.  Notes avail. 
 * 299  Laozi.  Living Dao : the art and way of living a rich & truthful life, tr...by Lok Sang HO.  n.p. 2009.  1 mb.  g,309 
-* 299  Laozi.  Sayings of Lao Tzu, tr. by Lionel Giles.  New York : E.P. Dutton and Company, Inc., 1905.  v.  i306.  Notes avail. 
-* 299  Laozi.  Tao Te Ching, tr. by Gia-Fu Feng and Jane English.  Vintage Books, c1997, c1992.  1 v. [unpaged].  ISBN 0679776192.  i308.  Notes avail.
+* 299  Laozi.  Sayings of Lao Tzu, tr. by Lionel Giles.  New York : E.P. Dutton and Company, Inc., 1905.  v.  d,306.  Notes avail. 
+* 299  Laozi.  Tao Te Ching, tr. by Gia-Fu Feng and Jane English.  Vintage Books, c1997, c1992.  1 v. [unpaged].  ISBN 0679776192.  d,308.  Notes avail.
 * 299  Laozi.  Tao Te Ching, tr. [by] Lin, Derek.  n.p. : SkyLight Paths, 2006.  51 kb.  g,
-* 299  Miller, Timothy.  America's alternative religions.  State University of New York Press, 1995.  [w.](http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live).  i298.  Notes avail. 
+* 299  Miller, Timothy.  America's alternative religions.  State University of New York Press, 1995.  via [www](http://search.ebscohost.com/login.aspx?direct=true&db=e000xna&AN=6308&site=ehost-live).  w,298.  Notes avail. 
 * 299  Waller, Dennis.  Tao Te Ching : an ancient philosophy for the modern world.  n.p. 2012.  k. 409 kb.  via [www](https://read.amazon.com/?asin=B0096DIIHE).  i301
 * 299  Wyatt, N.  Religious texts from Ugarit.  2nd ed.  Lond. [c2002]  17 mb.  g,
-* 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  i311  Read 2012-04.  
+* 299  Yamakage, Motohisa.  Essence of Shinto, trs: Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; eds: Paul de Leeuw, Aidan Rankin.  n.p. n.d.  v.  d,311  Read 2012-04.  
 * 302  Petzinger, Genevieve Von.  First signs.  N.Y. 2016.  15339 kb.  e,2310393.epub
 * 302  Junger, Sebastian.  Tribe.  N.Y, c2016.  D.  d,312  Read 2016-08. Grade B
 * 303  Keen, Andrew.  Cult of the amateur.  N.Y., c2007.  228 p.  d,314.  Read ? Notes avail.
@@ -437,7 +433,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 395  Schreiber, Niel.  How to be a gentleman.  Niel Schreiber, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00N992NEA).  i414.  to_read
 * 398  Barrow, Jim.  Cherokee mythology: gods, myths, legends and spiritual beliefs of the Cherokee tribe.  n.p n.d.  k.  via [www](https://read.amazon.com/?asin=B099CRWPF3).  i837 
 * 398  Bulfinch, Thomas.  Bulfinch's mythology.  n.p. n.d.  k.  via [www](https://read.amazon.com/).  i415 
-* 398  Coelho, Paul.  The alchemist.  [San Francisco] : HarperSanFrancisco, c1993.  PDB file on USB.  DBID 8337.  i416  Read 2011-06. Notes avail.  
+* 398  Coelho, Paul.  Alchemist.  [San Francisco] : HarperSanFrancisco, c1993.  PDB (8337).  e,416  Read 2011-06. Notes avail.  
 * 398  Nye, Jody Lynn.  Mythology 101.  WordFire Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00Q3B5SDE).  i417 
 * 423  Forgotten founding father, The.  n.p. n.d.  v.  i1757.  Read 2011-10 
 * 428  Onelook.com.  n.p. n.d.  [w.](http://www.onelook.com).  i418.  Notes avail. 
@@ -799,7 +795,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 896  Finnegan, Ruth.  Oral literature in Africa.  Open Book Publishers, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00993QQ9S).  i1548 
 * 909  Harari, Yuval Noah.  Sapiens.  1st ed.  HarperCollins, c2015.  443 p.  ISBN 9780062316097.  i1550.  Notes avail. 
 * 909  Hourly History.  Middle Ages.  Hourly History, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8REDQ8).  i1552 
-* 909  Johnson, Paul.  History of the Jews.  [n.p., 19--].  PDB file via USB.  i1553 
+* 909  Johnson, Paul.  History of the Jews.  [n.p., 19--].  PDB.  e,1553 
 * 909  Woody, Anne.  Coming of age in Mississippi.  n.p. n.d.  v.  i1554.  Read 2019-08. Grade B.
 * 910  Bergren, Travis.  Cruisin' the Caribbean : a newbie's guide to your first cruise.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01LWOB2PW).  i1555 
 * 910  Bunting, Karrie.  Trailer life : true tales of a 7 year RV adventure.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00TVYUUE2).  i1557 
@@ -935,7 +931,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 973  Philbrick, Nathaniel.  Mayflower.  N.Y., Penguin, 2007.  k.  d1792  2023-02. Grade B. Grade "By the midpoint of the seventeenth century... the attitubes of many of the Indians and English had begun to change... young Pokanokets claimed it was time to rid themselves of the English. The Pilgrims' children... coveted what territory the Pokanokets sill possessed... both sides had begun to envision a future that did not enclude the other."
 * 973  Roberts, Cokie.  Founding mothers.  1st Perennial ed.  New York : Perennial, 2005, c2004.  xx, 359 p.  ISBN 0060090251.  DBID 2834.  i1677.  Notes avail. 
 * 973  Simon, James F.  What kind of nation.  New York : Simon & Schuster, c2002.  348 p.  ISBN 0684848708.  DBID 0060.  i1678.  Read 2005-11. Notes avail.  
-* 973  Stein, Mark.  How the states got their names.  [n.p, 19--].  PDB file via USB.  Title from BN.com.  i1679 
+* 973  Stein, Mark.  How the states got their names.  [n.p, 19--].  PDB.  e,1679 
 * 973  Vulich, Nick.  History bytes : 37 people, places, and events that shaped American history.  digitalhistoryproject.com, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00Y7O6AOA).  i1680 
 * 973  Vulich, Nick.  Shot all to Hell : bad ass outlaws, gunfighters, and law men of the Old West.  n.p. c2016.  k.  via [www](https://read.amazon.com/?asin=B01FPLXXLG).  i1681 
 * 973  Webber, James.  American Civil War in 50 events.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01F8V8L1A).  i1682 
@@ -1404,10 +1400,9 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * FIC  Robertson, Joshua.  Melkorka / Joshua Robertson, Winter Bayne, [and] Josephe Vandel.  Crimson Edge Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00R7CMJ4O).  i1324 
 * FIC  Robertson, Michael. Alpha plague : a post-apocalyptic action thriller / Michael Robertson.  Phalanx Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B010KWD8OC).  i1325 
 * FIC  Robinson, Kim Stanley.  Forty signs of rain.  N.Y., Bantam Books, 2005.  393 p. 18 cm.  v,0312 
-* FIC  Rollins, James.  Black order.  [S.n., 19--].  PDB file via USB.  i1302 
-* FIC  Rollins, James.  Ice hunt.  n.p. n.d.  PDB file via USB.  i1305 
-* FIC  Roquet, Angela.  Graveyard shift.  [S.n.], 2014.  k.  AISN B009M0ARH0.  i1304 
-* FIC  Roquet, Angela.  Graveyard shift.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009M0ARH0).  i1327 
+* FIC  Rollins, James.  Black order.  n.p. n.d.  PDB.  e,1302 
+* FIC  Rollins, James.  Ice hunt.  n.p. n.d.  PDB.  e,1305 
+* FIC  Roquet, Angela.  Graveyard shift.  n.p. 2014.  k.  via [www](https://read.amazon.com/?asin=B009M0ARH0).  i1327 
 * FIC  Rothfuss, Patrick.  Name of the wind.  Dow Books, Inc., c2007.  722 p.  ISBN 9780756404741.  i1307.  Notes avail. 
 * FIC  Rothfuss, Patrick.  Wise man's fear.  Dow Books, c2011.  993 p.  ISBN 9780756404734.  i1308.  Read 2013-01. Notes avail.  
 * FIC  Rowling, J.K.  Casual vacancy.  n.p. n.d.  v.  i1528 
