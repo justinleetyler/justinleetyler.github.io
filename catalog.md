@@ -1596,84 +1596,84 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * SCI  Clarke, Arthur C.  2001 : a space odyssey.  Reissue ed.  Ace, 2000.  k.  via [www](https://read.amazon.com/?aisn=B01A6E8EQ6).  i1503.  Read 2020-06. Grade C. Notes avail. A science fiction book about an alien artifact found on the moon, the spaceship Discovery, and Hal. 
 * SCI  Clarke, Arthur C.  2010 : odyssey two.  RosettaBooks, c2012, c1982.  k.  via [www](https://read.amazon.com/?aisn=B07XG1S8LM).  i1504.  Read 2020-06. Grade C. Notes avail. A science fiction book about the recovery of Discovery, and activities in the Jupiter system. 
 * SCI  Clarke, Arthur C.  2061 : odyssey three.  RosettaBooks, c1987, 2012.  k.  via [www](https://read.amazon.com/?aisn=B07XF9ZZWG).  i1505.  Read 2020-06. Grade C. Notes avail. A science fiction book about the burning out of jupiter, the crash of galaxy? on europe, and exploring halley's comet
-* SCI  Clarke, Arthur C.  Childhood's end.  RosettaBooks, c1951, c2013.  k.  via [www](https://read.amazon.com/?asin=B07XG6MG3Y).  i1507.  Read 2020-06. Grade B. Notes avail. A science fiction book about an alien invasion. 
-* SCI  Clarke, Arthur C.  Rama II / Arthur C. Clarke and Gentry Lee.  n.p. n.d.  v.  i1502  2016-02. Grade D
+* SCI  Clarke, Arthur C.  Childhood's end.  RosettaBooks, c1951, c2013.  k. 378 kb. via [www](https://read.amazon.com/?asin=B07XG6MG3Y).  i1507.  Read 2020-06. Grade B. Notes avail. A science fiction book about an alien invasion. 
+* SCI  Clarke, Arthur C. and Lee, Gentry. Rama II.  n.p. n.d.  v.  d,1502  Read 2016-02. Grade D
 * SCI  Coral, Cameron.  Altered.  [U.S.]? 2018.  k. 1073.  (Rogue spark 1)
-* SCI  Critchen, Michael.  Jurassic park.  n.d. n.p.  v.  i1076  2018-08. Grade C 
-* SCI  Doherty, Robert.  Area 51.  N.Y., Del, 1997.  372 p. 18 cm.  d1797 
-* SCI  Douglas, T. Hunter.  Operation Janus, a time command novel.  T Douglas Hunter, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00D0XNSGM).  i1068 
+* SCI  Critchen, Michael.  Jurassic park.  n.d. n.p.  v.  d,1076  2018-08. Grade C 
+* SCI  Doherty, Robert.  Area 51.  N.Y., Del, 1997.  372 p. 18 cm.  d,1797 
+* SCI  Douglas, T. Hunter.  Operation Janus.  2nd ed. T. Douglas Hunter, 2014.  k. 762 kb. via [www](https://read.amazon.com/?asin=B00D0XNSGM).  i1068 
 * SCI  Edsand, Matt.  In the pursuit.  n.p. 2022.  k. 1428 KB.  (Kyda Tren Space Opera ; 1).  i2309076 
 * SCI  Ellis, George.  Wreckers.  [U.S.?], Zero Atmo, 2021.  k. 4607 KB.  i2309073 
 * SCI  Falchetti, S.D.  Hayden's World: Volume 1.  n.d. 2018.  k. 1848 kb.  falchetti2018 
 * SCI  Farland, David.  Wizardborn.  N.Y., Tor, 2002.  502 p. 18 cm.  (Runelords ; 3).  v,0081 
 * SCI  Fatek, Matt. New starship: discoveries. Tr. by Bien, Jagoda.  n.p. 2022.  k. 3368 KB.  i2309072 
 * SCI  Forkey, Elizabeth.  Infectious.  3rd rev. ed.  Entrada Publishing, 2014.  k. 744 kb.  via [www](https://read.amazon.com/?asin=B00L4MS50A).  i972 
-* SCI  Gockel, C.F.  Star rebels / C Faye Gockel, Christine Pope, Anthea Sharp, [et al.].  n.p., 2016.  k. 790 kb.  via [www](https://read.amazon.com/?asin=B01H7J5Z38).  i965 
-* SCI  Golding, William.  Lord of the flies.  N.Y, Penguin, [1954].  219 p. 19 cm.  d,0904 
+* SCI  Gockel, C.F.  and others. Star rebels.  n.p., 2016.  k. 790 kb.  via [www](https://read.amazon.com/?asin=B01H7J5Z38).  i965 
+* SCI  Golding, William.  Lord of the flies.  N.Y, Penguin, [1954].  219 p. 19 cm.  v,0904 
 * SCI  Goodkind, Terry.  Wizard's first rule.  RosettaBooks, n.d.  k.  via [www](https://read.amazon.com/?asin=B00433TO4I).  i1007.  Read 2016-10. Grade B. Notes avail.
-* SCI  Harmon, Casey Sean.  Rev. ed.  Thousand year voyage.  Amazon Kindle, 2012.  k. 581 kb.  via [www](https://read.amazon.com/?asin=B009ED23PY).  i1050 
-* SCI  Hartley, Taylor.  The penkeepers.  n.p. 2014.  k. 2126 kb.  via [www](https://read.amazon.com/?asin=B00GA2WKR8).  i1048.  Notes avail. 
-* SCI  Hawks, John Twelve.  The traveler.  N.Y., Doubleday, 2005.  456 p.  i1026.  Read 2012-09. Notes avail.  
-* SCI  Herbert, Brian.  Sisterhood of dune.  New York : Tor, 2012.  496 p.  ISBN 0765322730. DBID 3147.  i1031.  Notes avail. 
-* SCI  Herbert, Frank.  Dune.  Berkley, c1965.  535 p.  i1030.  Notes avail. 
-* SCI  Hobb, Robin.  Dragon keeper.  N.Y., Eos, 2010.  xiii, 473 p.  i1033.  Read 2012-03. Notes avail.
+* SCI  Harmon, Casey Sean.  Thousand year voyage (revised).  Amazon Kindle, 2012.  k. 581 kb.  via [www](https://read.amazon.com/?asin=B009ED23PY).  i1050 
+* SCI  Hartley, Taylor.  Penkeepers.  n.p. 2014.  k. 2126 kb.  via [www](https://read.amazon.com/?asin=B00GA2WKR8).  i1048.  Notes avail. 
+* SCI  Hawks, John Twelve.  Traveler.  N.Y., Doubleday, 2005.  456 p.  d,1026.  Read 2012-09. Notes avail.  
+* SCI  Herbert, Brian.  Sisterhood of dune.  New York : Tor, 2012.  496 p.  ISBN 0765322730.  d,1031.  Notes avail. 
+* SCI  Herbert, Frank.  Dune.  Berkley, c1965.  535 p.  d,1030.  Notes avail. 
+* SCI  Hobb, Robin.  Dragon keeper.  N.Y., Eos, 2010.  xiii, 473 p.  d,1033.  Read 2012-03. Notes avail.
 * SCI  Hooke, Isaac.  Bug hunt.  n.p. 2017.  k. 2301 kb.  via [www](https://read.amazon.com/?asin=B06WVQD6QR).  (Argonauts; 1).  i1035 
-* SCI  Howey, Hugh.  Beacon 23.  n.p. n.d.  v.  i1036  2020-02. Grade E
-* SCI  Ingram, Dennis.  Foothold.  Imaginative Possibilities, 2014.  k. 1615 kb.  via  [www](https://read.amazon.com/?asin=B00PXXEWA8).  (Foothold ; 1).  i1071  2011-10  
+* SCI  Howey, Hugh.  Beacon 23.  n.p. n.d.  v.  d,1036  2020-02. Grade E
+* SCI  Ingram, Dennis.  Foothold.  Imaginative Possibilities, 2014.  k. 1615 kb.  via  [www](https://read.amazon.com/?asin=B00PXXEWA8).  (Foothold 1).  i1071  2011-10  
 * SCI  Iovino, Lou.  Data mine.  [U.S.?], LAB Press, 2022. k. 1212 KB.  i2309074 
-* SCI  James, P.D.  The children of men.  Vintage books, 1992.  241 p.  i1074.  Read 2014-01. Grade C. Notes avail.
+* SCI  James, P.D.  The children of men.  Vintage books, 1992.  241 p.  d,1074.  Read 2014-01. Grade C. Notes avail.
 * SCI  Jones, Ethan.  Arctic wargame.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0084FH6M8).  i1075 
-* SCI  Larson, Glen A.  Battlestar Galactica / ... [and] Robert Thurston.  n.p. n.d.  v.  i1117  2013-11. Grade D
+* SCI  Larson, Glen A.  Battlestar Galactica / ... [and] Robert Thurston.  n.p. n.d.  v.  d,1117.  Read 2013-11. Grade D
 * SCI  Leader, R.T.  Hunter's vix.  [U.S.]? 2023.  k. 612 kb.
-* SCI  Little, Rod.  Earthweed.  2nd ed.  n.p., c2016.  via [www](https://www.hoopladigital.com/play/14940629).  (Sons of Neptune ; 1)  ISBN 9781547268566.  i1709  2022-05. Grade B.  An alien invasion novel. Sayans (inhabitants of Neptune's moon) begin a war to annex Earth.
+* SCI  Little, Rod.  Earthweed.  2nd ed.  n.p., c2016.  via [www](https://www.hoopladigital.com/play/14940629).  (Sons of Neptune ; 1)  ISBN 9781547268566.  i1709  Read 2022-05. Grade B.  An alien invasion novel. Sayans (inhabitants of Neptune's moon) begin a war to annex Earth.
 * SCI  Maas, Jonathan; Lappas, Manthos, ill.; Economos, Patty Ann, ed.  Dead moon.  Cynical Optimist Press, 2020.  k. 1540 kb.  i2305062 
-* SCI  MacHale, D.J.  Storm.  N.Y., Razor bill, 2014.  (The Sylo chronicles ; 2).  481 p.  machale2014  2023-03. Grade C.  Tucker and co. travel from Boston to Las Vegas, Nevada to the radio signal, then attack the Air Force at Area 51.
-* SCI  MacHale, D.J.  Sylo.  N.Y., Razor Bill, 2013.  406 p.  (The Sylo chronicles ; 2).  d1787  2023-02. Grade C.  The US Navy quarantines an island off of Maine.
-* SCI  Martin, S.R.  Minders of the mountain.  n.p. n.d.  v.  i1152  2017-04. Grade C
+* SCI  MacHale, D.J.  Storm.  N.Y., Razor bill, 2014.  (The Sylo chronicles ; 2).  481 p.  d,machale2014.  Read 2023-03. Grade C.  Tucker and co. travel from Boston to Las Vegas, Nevada to the radio signal, then attack the Air Force at Area 51.
+* SCI  MacHale, D.J.  Sylo.  N.Y., Razor Bill, 2013.  406 p.  (The Sylo chronicles ; 2).  d,1787.  Read 2023-02. Grade C.  The US Navy quarantines an island off of Maine.
+* SCI  Martin, S.R.  Minders of the mountain.  n.p. n.d.  v.  d,1152.  Read 2017-04. Grade C
 * SCI  Melia, Sally Ann.  Thirteen born of empire.  Dickson House, 2023.  k. 11700 kb.  i2305061 
 * SCI  Miller, Bruno.  Impact.  [U.S.?], Wordstream Books, 2019.  k. 1966 KB.  (Cloverdale ; 1).  i2309075 
 * SCI  Mont, Francis.  Time is running out.  Montland, 2023.  k. 4604 kb.  i230503 
-* SCI  Newman, Emma.  Before Mars.  N.Y., ACE, 2018.  340 p. 21 cm.  (A planetfall novel ; 3).  i1715  2023-03. Grade C.  Grade Emma wakes up on Mars with a note painted in her style, and missing canvases. Having discovered the secret Segundus whose mission is to build a spaceship to go after Pathfinder, her memories of the previous five weeks have been erased. 
-* SCI  Niven, Larry.  Ringworld.  [U.S.?], Del Rey, c1970.  342 p.  i2  2022-04. Grade D. Grade A group of adventurers find that civilization has collapsed on Ringworld.
-* SCI  Orwell, George.  1984, with an afterword by Erich Fromm.  N.Y., Signet Classics, 1950.  328 p. 19 cm.  v,1794 
-* SCI  Orwell, George.  1984.  Mariner Books, 2013.  k. 2972 kb.  via [www](https://read.amazon.com/?asin=B003JTHWKU).  d1795  2023-03. Grade A. Grade Winston Smith, a clerk in the toltalitarian state of Oceania's Ministry of Truth, is "reintegrated" (tortured) after falling in live and joining the counterrevolution.  
-* SCI  Penner, Stephen.  Mars station alpha.  Ring of Fire Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B006GX97JK).  i1271 
+* SCI  Newman, Emma.  Before Mars.  N.Y., ACE, 2018.  340 p. 21 cm.  (A planetfall novel ; 3).  d1715.  Read 2023-03. Grade C.  Grade Emma wakes up on Mars with a note painted in her style, and missing canvases. Having discovered the secret Segundus whose mission is to build a spaceship to go after Pathfinder, her memories of the previous five weeks have been erased. 
+* SCI  Niven, Larry.  Ringworld.  [U.S.]? Del Rey, c1970.  342 p.  d,2.  Read 2022-04. Grade D. Grade A group of adventurers find that civilization has collapsed on Ringworld.
+* SCI  Orwell, George.  1984, with an afterword by Fromm, Erich.  N.Y., Signet Classics, 1950.  328 p. 19 cm.  v,1794 
+* SCI  Orwell, George.  1984.  Mariner Books, 2013.  k. 2972 kb.  via [www](https://read.amazon.com/?asin=B003JTHWKU).  d,1795  2023-03. Grade A. Grade Winston Smith, a clerk in the toltalitarian state of Oceania's Ministry of Truth, is "reintegrated" (tortured) after falling in live and joining the counterrevolution.  
+* SCI  Penner, Stephen.  Mars station alpha.  Ring of Fire Publishing, 2011.  k. 358 kb. via [www](https://read.amazon.com/?asin=B006GX97JK).  i1271 
 * SCI  Penney, R.S.  Desa Kincaid, bounty hunter.  3rd ed.  n.p. 2019.  k. 3253 kb.  
-* SCI  Quinn, Matthew W.  Pressure suite / Matthew W. Quinn, William R. Eakin, Laura J. Campbell,  [et.al.]  Digital Science Fiction, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B016SEPGY6).  i1286 
-* SCI  Reine, S.M.  Starbound : eleven tales of interstellar adventure / S.M. Reine, Christine Pope, Anthea Sharp, [et. al.]  Fireweed Publishing Ltd, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BJ6EWQQ).  i1319 
+* SCI  Quinn, Matthew W. and other.  Pressure suite.  Digital Science Fiction, 2015.  k. 3161 kb. via [www](https://read.amazon.com/?asin=B016SEPGY6).  i1286 
+* SCI  Reine, S.M. and others.  Starbound : eleven tales of interstellar adventure.  Fireweed Publishing Ltd, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BJ6EWQQ).  i1319 
 * SCI  Ross, Veronica.  Insurgent.  k.  IN Ross, Veronica.  The Divergent Series.  Katherine Tegen Books, [20--]?.  i1306.  Notes avail. 
-* SCI  Roth, Veronica.  Divergent series complete collection.  Katherine Tegen Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BW3AY64).  Contents: Divergent  Insurgent  Allegiant.  i1328  2014-04. Grade C
-* SCI  Scalzi, John.  Collapsing empire.  N.Y. : Tor, 2017.  k.  via [w.](https://read.amazon.com/?aisn=B01F20E7CO).  i1335.  Read 2020-01. Grade C. Notes avail.
+* SCI  Roth, Veronica.  Divergent series complete collection.  Katherine Tegen Books, [n.d.]  k.  1790 kb. via [www](https://read.amazon.com/?asin=B00BW3AY64).  Contents: Divergent  Insurgent  Allegiant.  i1328  2014-04. Grade C
+* SCI  Scalzi, John.  Collapsing empire.  N.Y. : Tor, 2017.  k.  via [w.](https://read.amazon.com/?aisn=B01F20E7CO).  (Interdependency 1)  i1335.  Read 2020-01. Grade C. Notes avail.
 * SCI  Scalzi, John.  Last Emperox, The.  n.p. n.d.  k.  i1340.  Read 2020-08. Grade C. Notes avail.
 * SCI  Scalzi, John.  Old man's war.  Tor Books, 1997.  k.  via [www](https://read.amazon.com/reader?asin=B000SEIK2S).  i1739  2022-06. Grade C.  A science fiction novel. At the age of 75, John Perry joins the Colonial Defence Forces.
-* SCI  Scalzi, John.  The last colony.  N.Y. : Tor, c2007.  k.  (Old man's war ; 3).  d1778 
+* SCI  Scalzi, John.  Last colony.  N.Y. : Tor, c2007.  k.  (Old man's war ; 3).  d,1778 
 * SCI  Sides, Ricky.  Peacekeepers, 1-3.  n.p. 2011.  k. 1309 kb.  via [www](https://read.amazon.com/?asin=B005NGKA2O).  i1378 
-* SCI  Sivart, Travis I.  Aetheric elements : the rise of a steampunk reality.  Talk of the Tavern Publishing Group, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EBQD1RS).  i1343 
+* SCI  Sivart, Travis I.  Aetheric elements.  3rd ed.  Talk of the Tavern Publishing Group, 2011.  k. 1871 kb. via [www](https://read.amazon.com/?asin=B00EBQD1RS).  (Steampunk Cycle)  i1343 
 * SCI  Stephens, Elijah.  Harvest of Area 51. Liquid Heaven Productions, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EBWRSNK).  i1389 
-* SCI  Stone, Thomas.  To the stars.  Cooper's Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B005AK1TK0).  i1396 
-* SCI  Taylor, T.S.; Les Johnson.  Saving Proxima.  [U.S.?], Baen, 2021.  v.  i1407  2022-03. Grade C. Notes avail. A science fiction book about the discovery of life on Proxima b, and Earth's mission to save them from a reproductive disease. 
-* SCI  Troia, Anton.  Last overseer.  Troy Books, [n.d.]  k via [www](https://read.amazon.com/?asin=B00D6B4IQ2).  i1416 
-* SCI  Vasicek, Joe.  Genesis Earth.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B0053H8XKO).  i1431 
-* SCI  Verne, Jules.  20,000 leagues under the sea.  Bantam Books, 1964.  371 p.  ISBN 0553212524.  i1542.  Read 2021-10. Grade C. Notes avail.  
-* SCI  Verne, Jules.  From the Earth to the Moon, and, Round the Moon.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B004UJTUKI).  i1432 
-* SCI  Verne, Jules.  Round the moon.  n.p. n.d.  v.  i1540  2012-08  
+* SCI  Stone, Thomas.  To the stars.  Cooper's Press, 2011.  k. 1285 kb. via [www](https://read.amazon.com/?asin=B005AK1TK0).  (Harry Irons 1)  i1396 
+* SCI  Taylor, T.S.; Les Johnson.  Saving Proxima.  [U.S.?], Baen, 2021.  v.  d,1407.  Read 2022-03. Grade C. Notes avail. A science fiction book about the discovery of life on Proxima b, and Earth's mission to save them from a reproductive disease. 
+* SCI  Troia, Anton.  Last overseer.  Troy Books, 2013.  k. 968 kb. via [www](https://read.amazon.com/?asin=B00D6B4IQ2).  i1416 
+* SCI  Vasicek, Joe.  Genesis Earth.  n.p. 2011.  k. 1227 kb. via [www](https://read.amazon.com/?asin=B0053H8XKO).  i1431 
+* SCI  Verne, Jules.  20,000 leagues under the sea.  Bantam Books, 1964.  371 p.  ISBN 0553212524.  d,1542.  Read 2021-10. Grade C. Notes avail.  
+* SCI  Verne, Jules.  From the Earth to the Moon, and, Round the Moon.  n.p. 2011.  k. 386 kb. via [www](https://read.amazon.com/?asin=B004UJTUKI).  i1432 
+* SCI  Verne, Jules.  Round the moon.  n.p. n.d.  v.  d,1540  Read 2012-08  
 * SCI  Weis, Margaret.  Soulforge.  TSR, c1998.  1 MB.  g,1437.  Read 2010-11 and 2013-12. Grade B.
-* SCI  Wells, H.G.  Time machine.  n.p. 1895, 2003.  122 p.  i9.  Read 201?
-* SCI  Wells, H.G.  War of the worlds.  Atria Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0088Q0F5I).  i1535 
-* SCI  Westover, Tim.  Auraria.  QW Publishers, LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B008AM5KGE).  i1440 
-* SCI  White, Stephen W.  New world : a frontier fantasy novel.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B005CFEN1U).  i1463 
+* SCI  Wells, H.G.  Time machine.  n.p. 1895, 2003.  122 p.  d,9.  Read 201?
+* SCI  Wells, H.G.  War of the worlds.  Atria Books, 2012.  k. 1748 kb. via [www](https://read.amazon.com/?asin=B0088Q0F5I).  i1535 
+* SCI  Westover, Tim.  Auraria.  QW Publishers, 2012.  k. 2306 kb. via [www](https://read.amazon.com/?asin=B008AM5KGE).  i1440 
+* SCI  White, Stephen W.  New world.  n.p. 2011.  k. 1695 kb. via [www](https://read.amazon.com/?asin=B005CFEN1U).  (Tales of the new world 1)  i1463 
 * SCI  Wies, Margaret; Hickman, Tracy.  Dragons of summer flame.  TSR, Inc., 1995, 2001.  1200 kb.  e,1438.txt 
-* SCI  Write, Iain Rob.  2389 : a space horror novel.  SalGad Publishing Group, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00UC6LJP2).  i1445 
+* SCI  Write, Iain Rob.  2389 : a space horror novel.  SalGad Publishing Group, 2015.  k. 1244 kb.  via [www](https://read.amazon.com/?asin=B00UC6LJP2).  i1445 
 * SCI  Zales, D.  Oasis.  Mozaika Publications, 2016.  k. 401 kb.  zales2016 
-* SCI  Zenner, Brandon.  After war.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01JMS9CA4).  i1476 
-* Turnage, William.  Extermination day.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00CO9Z5JQ).  i1418 
-* WES  Annan, R.  Lightning riders.  One Vision Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LY8AQ2K).  i26 
-* WES  Baker, Jason b.  Ace's bounty.  n.p. 2023.  k. 4271 kb.  
-* WES  Blevins, Win.  Stone song.  WordWorx, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M73AR2B).  i1556 
+* SCI  Zenner, Brandon.  After war.  n.p. 2016.  k. 3275 kb. via [www](https://read.amazon.com/?asin=B01JMS9CA4).  i1476 
+* SCI  Turnage, William.  Extermination day.  n.p. 2013  k. 1773 kb.  via [www](https://read.amazon.com/?asin=B00CO9Z5JQ).  i1418 
+* WES  Annan, R.  Lightning riders.  One Vision Publishing, 2016.  k. 447 kb.  via [www](https://read.amazon.com/?asin=B01LY8AQ2K).  i26 
+* WES  Baker, Jason b.  Ace's bounty.  n.p. 2023.  k. 4271 kb.  i,
+* WES  Blevins, Win.  Stone song.  WordWorx, 2016.  k. 2111 kb.  (Native Spirit Adventures 1)  via [www](https://read.amazon.com/?asin=B01M73AR2B).  i1556 
 * WES  David, A.  All guns blazing.  Pioneering Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LXM0EPH).  i925 
 * WES  Fearn, J.R.  Tornado trail.  Lume, 2016.  k. 974 kb.  [www](https://read.amazon.com/?asin=B01EAC9XLU).  i966 
 * WES  Fearn, J.R.  Town without law.  Pioneering Press, 2016. k. 914 kb.  via [www.](https://read.amazon.com/?asin=B01E46YGAA).  i967 
-* WES  Galloway, Marcus.  One man's fire.  N.Y., Berkley, 2012.  298 p. 18 cm.  v,0083
+* WES  Galloway, Marcus.  One man's fire.  N.Y., Berkley, 2012.  298 p. 18 cm.  d,0083.  Read 2023-11. Grade C. Eli, an outlaw, teams up with Sheriff Sauders to get the gang that left him behind.
 * WES  Gray, Z.  Border legion.  Endymion Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01LWY9HU4).  i1012 
 * WES  Hartenhoff, Gerald.  Big mistake.  n.p. 2017.  k. 259 kb.  (Brewster ; 1).  i2308201 
 * WES  L'amour, Louis.  Lonigan.  N.Y. 2013.  vi + 177 p. 18 cm.  v,0300
@@ -1682,7 +1682,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * WES  McCauley, Terrence.  Get out of town.  N.Y., Pinnacle Books, 2020.  360 p. 17 cm.  (Sheriff Aaron Mackey Western ; 3).  d,2308152  Read 2023-08. Grade C.
 * WES  McCauley, Terrence.  Where the bullets fly.  N.Y., Pinnacle Books, 2018.  345 p. 17 cm.  (Sheriff Aaron Mackey Western ; 1).  d,2308301.  Read 2023
 * WES  Ray, Charles.  Daniel's journey.  [U.S.?], Uhuru, 2021.  k. 695 KB.  i2309077  Read 2023-08.  Grade C.  Daniel's family sets out on the Oregon trail.
-* WES  Stucki, Brad.  Lazy Tomas.  n.p. 2023.  k. 1112 KB.  i2309071 
-* WES  West, David J.  Six-gun serenade.  Lost Realms Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M4S1XW3).  i1453 
-* WES  Whispers out of the dust / David J. West.  Lost Realms Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0165QXD4M).  i1454 
+* WES  Stucki, Brad.  Lazy Tomas.  n.p. 2023.  k. 1112 kb.  i2309071 
+* WES  West, David J.  Six-gun serenade.  Lost Realms Press, 2017.  k. 1593 kb.  via [www](https://read.amazon.com/?asin=B01M4S1XW3).  i1453 
+* WES  West, David J.  Whispers out of the dust.  Lost Realms Press, 2015.  k. 2109 kb.  via [www](https://read.amazon.com/?asin=B0165QXD4M).  i1454 
 * WES  Young, T.  Westworld blood oath.  n.p. 2013.  k. 1068 kb.  
