@@ -438,10 +438,10 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 423  Forgotten founding father, The.  n.p. n.d.  v.  i1757.  Read 2011-10 
 * 428  Onelook.com.  n.p. n.d.  [w.](http://www.onelook.com).  i418.  Notes avail. 
 * 005  Rhea, John.  CSS animation.  Undead Institute, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B088K9KJVD).  i419 
-* 500  Tanner, Ogden.  New England wilds.  n.p. n.d.  v.   i420  2021-06. Grade C 
+* 500  Tanner, Ogden.  New England wilds.  n.p. n.d.  v.  d,420  Read 2021-06. Grade C 
 * 507  SciTech connect.  [S.l., 2012?-].  via [www](http://www.osti.gov/scitech/).  w,421 
-* 508  Lindborg, Kristina.  Natural history of Boston's North Shore. n.p. [2007].  xviii, 121 p.  ISBN 158465578X.  i423.  Read 2020-09. Grade D. Notes avail.
-* 508  Freeman, Stan.  Natural history of eastern Massachusetts / Stan Freeman.  n.p. n.d.  k. via [www](https://read.amazon.com/?asin=B07HYL2C54).  i422 
+* 508  Lindborg, Kristina.  Natural history of Boston's North Shore. n.p. [2007].  xviii, 121 p.  ISBN 158465578X.  v,423.  Read 2020-09. Grade D. Notes avail.
+* 508  Freeman, Stan.  Natural history of eastern Massachusetts.  n.p. n.d.  k. via [www](https://read.amazon.com/?asin=B07HYL2C54).  i422 
 * 520  Open University.  Galaxies, stars and planets.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X6OUK).  i424 
 * 523  Smolin, Lee.  Life of the Cosmos.  Oxford University Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004TW1YY6).  i426  2011-10
 * 523  Tyson, Neal deGrasse; Goldsmith, Donald.  Origins.  N.Y., W.W. Norton, 2004.  4.5 mb.  g,427 
