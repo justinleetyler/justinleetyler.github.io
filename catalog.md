@@ -276,7 +276,7 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 289  Grigg, Richard.  To Re-Enchant the world : a philosophy of Unitarian Universalism.  Xlibris, 2004.  k. 780 kb.  via [www](https://read.amazon.com/?asin=B007EC5CTG).  i257.  Read 2014-07. Grade B. Notes avail.
 * 289  Guengerich, Galen.  10 things I wish everyone knew about Unitarian Universalism.  onfaith.com, [20--?].  webpage.  via [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).  w,271.  Notes avail. 
 * 289  Jessop, Flora, Brown, Paul T.  Church of lies.  Jossey-Bass, [n.d.]  k.  i258 
-* 289  Morales, Peter.  Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v,23082915 
+* 289  Morales, Peter.  Unitarian Universalist pocket guide, forward by Harris-Perry, Melissa.  5th ed.  Bost., Skinner House, [2012].  xvi + 92 p. 18 cm.  v,23082915 
 * 289  Opton, Frank G.  Liberal religion.  Buffalo, N.Y. : Prometheus Books, 1982.  295 p.  ISBN 087975155X.  d,276.  Read 2012-03. Notes avail.
 * 289  Sais, J.  100 questions that non-members ask about Unitarian Universalism.  Nashua, c2000.  164 kb.  g,
 * 289  Tittle, Gale, Matt Tittle.  Bless all who serve: Sources of hope, courage and faith for military personnel and their families.  Skinner House Books, 2010.  k. 747 kb.  via [www](https://read.amazon.com/?asin=B004P5NUTE).  i263 
@@ -461,60 +461,60 @@ with national, core, and minimal level record standards.  135 kb.  (In Jour. Lib
 * 591  Wilson, Edward O.  Genesis.  N.Y., Liveright Pub. Corp., 2019.  153 p. 22 cm.  i,23082916.  to_read
 * 596  Dinerstein, Eric.  The kingdom of rarities.  Island Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00B2IRHKA).  i445 
 * 599  Wall, Frans De.  The bonobo and the atheist.  W.W. Norton, c2013.  289 p.  ISBN 9780393073775.  i446.  Read 20--? Notes avail. 
-* 600  Hippel, Eric von.  Democratizing innovation.  The MIT Press, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B001C4PTLS).  i447 
+* 600  Hippel, Eric von.  Democratizing innovation.  The MIT Press, n.p.  k.  via [www](https://read.amazon.com/?asin=B001C4PTLS).  i447 
 * 611  Shubin, Neil.  Your inner fish.  N.Y. 2008.  5 mb.  g,448.  Notes avail. 
-* 613  Davenport, Gregory J.  Wilderness survival.  Stackpole Books, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00A7CTPNY).  i449 
-* 613  Kling, Michael.  9 frugal ways to treat the common cold.  [n.p.] 2012.  1.5 mb.  g,450 
+* 613  Davenport, Gregory J.  Wilderness survival.  Stackpole Books, 2006.  k. 13,403 kb. via [www](https://read.amazon.com/?asin=B00A7CTPNY).  i449 
+* 613  Kling, Michael.  9 frugal ways to treat the common cold.  n.p. 2012.  1.5 mb.  g,450 
 * 613  Swedo, Suzanne.  Wilderness survival.  3rd ed.  FalconGuides, c2016.  731 kb.  e,451.epub. 
-* 621  Foreth, Mike.  Free TV over the air: choosing and using an HDTV antenna.  Invigorating Publishing LLC, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00IX0BTCM).  i455 
-* 621  Meyers, Mike.  All-in-one CompTIA A+ certification exam guide: exams 220-701 & 220-702.  McGraw-Hill, [n.d.]  k.  via [www](https://read.amazon.com/).  i456 
-* 629  Gibson, Philip.  Apollo 11.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00MV571OA).  i459 
-* 629  Catchpole, John E.  International Space Station.  n.p. n.d.  k. via [www](https://read.amazon.com/?asin=B001WAKABG).  i458 
-* 630  Beuning, Eric.  Modern Rustic: Greenhouses and Gardening: A homesteading guidebook for subsistence gardening, heirloom vegetables and greenhouse ideas.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00IQKDYWW).  i462 
-* 634  Connors, Philip.  Fire season.  HarperCollins, c2011.  246 p.  ISBN 9780061859366.  i464  2015-04. Grade B.  Notes avail.
-* 634  Poizner, Susan.  Grow fruit trees fast.  Orchard People, 2022.  k.  poizner2022 
-* 635  Grant, Brian.  Vertical gardening.  Brian Grant and Random Techonologies, c2014.  k.  via [www](https://read.amazon.com).  ASIN B00IICK9K8.  i465 
-* 635  Rains, Julie.  The only 4 things a vegetable garden needs.  WiseBread, 2013.  HTML file via www.  i466.  Notes avail. 
-* 636  Barnes, Max.  Raising goats for beginners.  [S.n.], 2021.  k.  via [www](https://read.amazon.com/?asin=B09J9XHS31).  AISN B09J9XHS31.  DBID 20211017_122859.  i467 
-* 636  Lewis, Catherine.  Dog Training.  Catherine Lewis, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01BJUCF2K).  i469 
-* 636  Working chicken, The, Learn everything you need to know to become a backyard egg and meat producer in 30 minutes or less.  [S.n.], 2008.  k.  via [www](https://read.amazon.com/?asin=B004YQVLKO).  i468 
-* 640  Dean, Jenny.  Couponing for the beginner.  GuidetoCouponing.com, [n.d.]  k via [www](https://read.amazon.com/?asin=B008HI3WD4).  i470 
-* 640  Gehring, Abigail R.  Illustrated Encyclopedia of Country Living.  Skyhorse Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B0064DFST0).  i471 
-* 640  McDonald, Sara Simmons.  One Acre Homestead: Planning for self-sufficiency and financial independence.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00APO6VDQ).  i472.  to_read 
-* 640  Rivers, Nik.  Complete guide to house sitting.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B013NO6S4Q).  i474 
+* 621  Foreth, Mike.  Free TV over the air.  Invigorating Publishing LLC, n.d.  k.  via [www](https://read.amazon.com/?asin=B00IX0BTCM).  i455 
+* 621  Meyers, Mike.  All-in-one CompTIA A+ certification exam guide: exams 220-701 & 220-702.  McGraw-Hill, n.d.  k.  i456 
+* 629  Gibson, Philip.  Apollo 11.  n.p. 2014.  k. 6456 kb. via [www](https://read.amazon.com/?asin=B00MV571OA).  i459 
+* 629  Catchpole, John E.  International Space Station.  Praxix, 2008.  k. 6883 kb. via [www](https://read.amazon.com/?asin=B001WAKABG).  i458 
+* 630  Beuning, Eric.  Modern rustic.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00IQKDYWW).  i462 
+* 634  Connors, Philip.  Fire season.  HarperCollins, c2011.  246 p.  ISBN 9780061859366.  d,464  Read 2015-04. Grade B.  Notes avail.
+* 634  Poizner, Susan.  Grow fruit trees fast.  Orchard People, 2022.  k. 8724 kb.  i,poizner2022 
+* 635  Grant, Brian.  Vertical gardening.  Sparrow, c2014.  k.  178 kb.  i465 
+* 635  Rains, Julie.  Only 4 things a vegetable garden needs.  WiseBread, 2013.  HTML file via www.  i466.  Notes avail. 
+* 636  Barnes, Max.  Raising goats for beginners.  n.p. 2021.  k.  3461 kb. via [www](https://read.amazon.com/?asin=B09J9XHS31).  i467 
+* 636  Lewis, Catherine.  Dog training.  Catherine Lewis, 2016.  k.  610 kb. via [www](https://read.amazon.com/?asin=B01BJUCF2K).  i469 
+* 636  Hess, Anne. Getting started with your working chicken.  4th ed.  Wetknee, 2013.  k. 5771 kb. via [www](https://read.amazon.com/?asin=B004YQVLKO).  i468 
+* 640  Dean, Jenny.  Couponing for the beginner.  GuidetoCouponing.com, 2012.  k. 5143 kb. via [www](https://read.amazon.com/?asin=B008HI3WD4).  i470 
+* 640  Gehring, Abigail R.  Illustrated encyclopedia of country living.  Skyhorse Publishing, 2011.  k. 32,626 kb. via [www](https://read.amazon.com/?asin=B0064DFST0).  i471 
+* 640  McDonald, Sara Simmons.  One acre homestead.  n.p. 2012.  k. 8117 kb. via [www](https://read.amazon.com/?asin=B00APO6VDQ).  i472.  to_read 
+* 640  Rivers, Nik.  Complete guide to house sitting.  n.p. 2015.  k. 1151 kb. via [www](https://read.amazon.com/?asin=B013NO6S4Q).  i474 
 * 640  Rubin, Gretchen.  Nine quick tips to identify clutter.  zenhabits.com, 2012.  via [www](http://zenhabits.net/identify-clutter/).  i473.  Notes avail. 
 * 641  Collins, Jackie.  Vegetarian...slow cooker...recipes.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01HSX2Z2W).  i475 
 * 641  Green, Cara.  Vegan instant pot cookbook.  [S.l.], 2018.  k.  via [www](https://read.amazon.com?aisn=B078VTKYJW).  i476 
-* 641  Scott, Hannie. P.  Easy recipes in 5 or less ingredients.  Hannie P. Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00W0EQCC4).  i479 
-* 641  Spitler, Sue.  1,001 best slow-cooker recipes... [and] Linda R. Yoakam.  Agate Surrey, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004YW69B4).  i477 
+* 641  Scott, Hannie. P.  Easy recipes in 5 or less ingredients.  Hannie P. Publishing, 2015.  k. 3557 kb. via [www](https://read.amazon.com/?asin=B00W0EQCC4).  i479  to_read 
+* 641  Spitler, Sue and Yoakam, Linda R.  1,001 best slow-cooker recipes.  Agate Surrey, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B004YW69B4).  i477 
 * 641  Stoll, Scott.  Yes, plants have protein.  wholestory.com, 2014.  via [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein).  i478.  Notes avail. 
-* 641  Stone, Jeremy.  Microwave mug recipes...ketogenic...  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N54XHX3).  i480 
-* 642  Caldwell, James.  Restaurant managers' and waiters' guide book, [by] ... Patrick Caldwell, Michael Rathke.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B06XC6GQFQ).  i481 
-* 643  Benson, Patricia.  DIY household hacks.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00PNZA1LU).  i482 
+* 641  Stone, Jeremy.  Microwave mug recipes...ketogenic...  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B01N54XHX3).  i480  to_read
+* 642  Caldwell, James; Caldwell, P.; Rathke, M.  Restaurant managers' and waiters' guide book.  Orange Brothers, 2017.  k. 4782 kb. via [www](https://read.amazon.com/?asin=B06XC6GQFQ).  i481 
+* 643  Benson, Patricia.  DIY household hacks.  n.p. 2014.  k. 1921 kb. via [www](https://read.amazon.com/?asin=B00PNZA1LU).  i482 
 * 643  Forseth, Mike.  Free TV over the air.  Invigorating Publishing, c2014.  k.  via [www](https://read.amazon.com?aisn=B00IX0BTCM).  i483 
 * 646  Allen, David.  Getting things done.  n.p., 2015.  k.  i3  [2022 B](https://justinleetyler.github.io/reading_notes#i3txt). 
 * 646  Becker, Josua.  10 most important things to simply your life.  Becoming minimalist, 2012.  k.  via [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/).  i484.  Notes avail.
-* 647  Babauta, Leo.  Focus : a simplicity manifesto in the age of distraction.  n.p. n.d. 450 kb.  g,486 
+* 647  Babauta, Leo.  Focus.  n.p. n.d.  450 kb.  g,486 
 * 647  Jabr, Ferris.  Why your brain needs more downtime.  scientiticamerican.com, 2013.  HTML file via [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime).  i487.  Notes avail.
-* 647  Tomsky, Jacob.  Heads in beds.  n.p. n.d.  v.  i1491  2016-03. Grade C
-* 648  Singh, Kate.  The homemade housewife: the last book you will ever need on homemaking and frugal living.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B071HF9C9M).  i488 
-* 650  Charlier, Mailys.  Developing your career strategy, tr. by Rebecca Neal.  50minutes.com, c2017.  elecronic resource via [www](https://www.hoopladigital.com/play/13056250)  ISBN 9782808000390.  DBID 20210915_0737.  i489.  Notes avail. 
-* 650  Dragon, Debbie.  Organized year, The.  1.4 mb.  (IN Wise Bread, Jan. 3, 2013).  g491 
+* 647  Tomsky, Jacob.  Heads in beds.  n.p. n.d.  v.  d,1491  Read 2016-03. Grade C
+* 648  Singh, Kate.  The homemade housewife.  n.p. 2017.  k. 5173 kb. via [www](https://read.amazon.com/?asin=B071HF9C9M).  i488 
+* 650  Charlier, Mailys.  Developing your career strategy, tr. by Neal, Rebecca.  50minutes.com, c2017.  via [www](https://www.hoopladigital.com/play/13056250)  ISBN 9782808000390.  d,489.  Notes avail. 
+* 650  Dragon, Debbie.  Organized year, The.  1.4 mb.  (IN Wise Bread, Jan. 3, 2013).  g,491 
 * 650  Ellefson, Lindsey.  How to take control of a micromanaging boss.  lifehacker.com, n.d.  HTML file via [www](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589)  IN Lifehacker.  (Oct. 13, 2021)  i492.  Notes avail. 
 * 651  Recommended record retention periods for business records.  n.p. n.d.  21 kb.  g,497 
-* 657  Open University.  Introduction to bookkeeping and accounting.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/).  i498 
-* 658  Bowd, Thomas B., III.  The transformation of a doubting Thomas: growing from a cynic to a professional in the corporate world.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B009I427LO).  i501  to_read
+* 657  Open University.  Introduction to bookkeeping and accounting.  The Open University, 2013.  k. 7750 kb. i498 
+* 658  Bowd, Thomas B., III.  Transformation of a doubting Thomas.  n.p. 2012.  k. 804 kb. via [www](https://read.amazon.com/?asin=B009I427LO).  i501  to_read
 * 658  Business model canvas.  n.p. n.d.  997 kb.  g,
-* 658  Hay, Fraser J.  90 minute business plan.  Fraser J Hay, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00EZ3QW6O).  i500
+* 658  Hay, Fraser J.  90 minute business plan.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B00EZ3QW6O).  i500
 * 658  Jantsch, John.  How to build a remarkable business by focusing on the total customer experience.  n.p. n.d.  2 mb.  g, 
 * 658  Kashyap, Sandeep.  How to make your team more perceptive to change.  n.p. n.d.  k.  via [www](https://thriveglobal.com/stories/how-to-make-your-team-more-perceptive-to-change/).  IN Thrive Global.  (Oct 27, 2021)  i503.  Notes avail.
 * 658  One-page business plan.  n.p. n.d.  86 kb.  g,
-* 658  Open University.  Facilitating group discussions.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X5URI).  i506  to_read
-* 658  Open University.  Project management.  The Open University, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01D8X604A).  i507 
-* 658  Roedel, Jemma.  She thinks like a boss.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B095B2F4MW).  i502 
-* 658  Rose, Nathan.  Equity crowdfunding: the complete guide For startups and growing companies / Nathan Rose.  Stonepine Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B01M5FBSEB).  i504 
-* 658  Stonestreet, J.P.  Web startup roadmap.  Ripen Publishing, [n.d.]  k.  via [www](https://read.amazon.com/?asin=B00BC1H77A).  i505 
-* 668  Orton, Linda.  Soapmaking for the first time.  Sterling Publishing Co., c2001.  112 p.  ISBN 0806966378.  i508.  Notes avail. 
+* 658  Open University.  Facilitating group discussions.  The Open University, 2016.  k. 681 kb. via [www](https://read.amazon.com/?asin=B01D8X5URI).  i506  to_read
+* 658  Open University.  Project management.  The Open University, n.d.  k.  via [www](https://read.amazon.com/?asin=B01D8X604A).  i507 
+* 658  Roedel, Jemma.  She thinks like a boss.  n.p. 2021.  k. 482 kb. via [www](https://read.amazon.com/?asin=B095B2F4MW).  i502 
+* 658  Rose, Nathan.  Equity crowdfunding.  Stonepine Publishing, 2016.  k. 14,213 kb. via [www](https://read.amazon.com/?asin=B01M5FBSEB).  (Alternative finance) i504 
+* 658  Stonestreet, J.P.  Web startup roadmap.  Ripen Publishing, 2013.  k. 788 kb. via [www](https://read.amazon.com/?asin=B00BC1H77A).  i505 
+* 668  Orton, Linda.  Soapmaking for the first time.  Sterling Publishing Co., c2001.  112 p.  ISBN 0806966378.  d,508.  Notes avail. 
 * 690  Miller, Evan.  Shipping container homes.  n.p. n.d.  k.  via [www](https://read.amazon.com/?asin=B018MXCARW).  i509 
 * 728  [Balmoral].  [BBC, n.d.]  229593 kb.  e,0000511.flv 
 * 737  Ford, Lincoln.  Coin collecting.  n.p. 2021.  k.  via [www](https://read.amazon.com/?asin=B08ZW84QTD).  i513 
