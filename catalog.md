@@ -1,3 +1,22 @@
+* SCI  Cato, Scott. XZARDAK.  n.p. 2023. k. 1730 kb.  i,
+* SCI  DuBoff, A.K.  Fractured empire.   Dawnrunner Pess, 2017.  k. 3926 kb.  i,  to_read
+* SCI  Bate, Daniel D. Stepping stones to space.  n.p. 2023.  k. 1178 kb.  (Humanities expansion 1)  i,B0CLTS84YT
+* FIC  Charles, K.J.  Magpie lord.  KJC books, 2017.  k. 3213 kb.  (Charm of magpies 1).  i,B077J1BL2T
+* SCI  Knight, A.R.  Starshot.  Black key books, 2018.  k. 1838 kb.  (Skyward saga 1).  i,B07JDZFXB1
+* FIC  King, Joe.  Salted slug.  Foundations Book Pub. 2021.  k. 1285 kb.  i,B09HSP8778  to_read
+* WES  Grayson, Austin.  Menace in the mysterious train.  n.p. 22020.  k. 3586 kb.  i,B08L7TBMY8
+* SCI  Drake, Stephen.  Displaced.  Next Chapter, 2016.  k. 3577 kb.  (1)  i,B01LZKB1EX
+* WES  Yates, Stuart G. Born to track.  Next Chapter, 2021.  k. 2228 kb.  (Ruben Cole - early years 1)  i,B092CY2WVG
+* SCI  Scott, Jasper T.  Rogue star.  3rd ed.  Anthem Press, 2018.  k. 1309 kb.  i,B07F2LWVKH
+* FIC  Ford, Devon C.  Survival.  Vulpine Press, 2017.  k. 3063 kb.  (After it happened 1)  i,B06Y8MHR4F
+* FIC  Larson, Walker.  Song of spheres.  2nd ed.  Swallow Hill Press, 2023.  k. 3110 kb.  i,B0CMP2WYPZ
+* SCI  Norton, Andre.  Plague ship.  Open Road Media, 2017.  k. 2893 kb.  (Solar queen 2)  i,B0771N97SV
+* LG+  Cox, Rye.  New neighbor.  n.p. 2021.  k. 1131 kb.  i,B09C2B3SMQ
+* FIC  Winter, Aurora M.  Magic, mystery and the multiverse.  Same Page, 2023.  k. 3947 kb.  (1).  i,B08T89RPSY
+* SCI  Walsh, Dave.  Broken Ascension.  D.W., 2020.  k. 3238 kb.  (Trystero 1)  i,B0835W2N13
+* SCI  Verola, Ray.  Robotworld.  n.p. 2020.  k. 1054 kb.  (2)  i,B08QXTGQHN
+* SCI  Fierce, Richard.  Steel for hire.  Dragonfire Press, 2019.  k. 1954 kb.  (Galactic mercenaries 1)  i,B07V483L9Z
+* SCI  Kerns, Robert M.  It ain't over.  Knightfall Press, 2019.  k. 4194 kb.  (Cole and Srexx 1)  i,B07QD1W4ZG
 * FIC  Mason, Chris.  Brezlun.  n.p. 2012.  1 mb.  g,
 * SCI  Reed, Jaxon.  Agents of the planetary republic.  n.p. 2001.  k. 3389 kb.  iB08RYB4S19
 * FIC  Gauvin, Juliet.  Irish cottage.  n.p. 2014.  k. 631 kb.  (Irish heart 1)  iB00QQGRIES
