@@ -4,6 +4,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 # NOTES
 ## bookmarks-text-based stuff
 
+[daily Bible reading](https://www.biblegateway.com/reading-plans/bcp-daily-office/next)
+
 [FrogFind!](http://www.frogfind.com/)
 
 [nws](https://forecast.weather.gov/MapClick.php?lat=42.7843&lon=-71.0862&unit=0&lg=english&FcstType=text&TextType=1)
