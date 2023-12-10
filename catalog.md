@@ -1,3 +1,5 @@
+* SCI  Four great American classics. N.Y. : Bantam, 1986. 883 p. 16 cm.  Contents: Scarlet letter / Hawthrone, Nathaniel. -- Adventures of Huckleberry Finn / Twain, Mark. -- Red badge of Courage / Crane, Stephen. -- Billy Budd, Sailor / Melville, Herman.
+* 423  Oxford new essential dictionary.  Amer. ed. N.Y. : Berkley Books, 1998.  810 p. 16 cm.  
 * SCI  Cato, Scott. XZARDAK.  n.p. 2023. k. 1730 kb.  i,
 * SCI  DuBoff, A.K.  Fractured empire.   Dawnrunner Pess, 2017.  k. 3926 kb.  i,  to_read
 * SCI  Bate, Daniel D. Stepping stones to space.  n.p. 2023.  k. 1178 kb.  (Humanities expansion 1)  i,B0CLTS84YT
