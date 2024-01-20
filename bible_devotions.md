@@ -22,6 +22,22 @@ What a God we have! And how fortunate we are to have him, this Father of our Mas
 
 *A hymn or canticle may be used.*
 
+|          | After the Hebrew scriptures | After Christian scriptures
+|----------|-----------------------------|---------------------------
+|Sunday    |Benedictus Dominus           |Te Deum laudamus            |
+|          |A: Surge, illuminare         |A or L: Benedictus Dominu   |
+|          |L: Kyrie Pantokrator         |                            |
+|          |E: Cantemus Domino           |                            |
+|Monday    |Ecce, Deus                   |Magna et Mirabilia          |
+|Tuesday   |Benedictus es                |Dignus es                   |
+|Wednesday |Surge, illuminare            |Benedictus Dominus          |
+|          |L: Kyrie Pantokrator         |                            |
+|Thursday  |Cantemus Domino              |Gloria in excelsis          |
+|          |                             |A or L: Magna et mirabilia  |
+|Friday    |QuÊrite Dominum              |Dignus es                   |
+|          |L Kyrie Pantokrator          |                            |
+|Saturday  |Benedicite                   |Magna et mirabilia          |
+
 *The Apostles' Creed may be said*
 
 *Prayers may be offered for ourselfs and others.*
