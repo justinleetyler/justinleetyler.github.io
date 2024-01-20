@@ -20,24 +20,25 @@ What a God we have! And how fortunate we are to have him, this Father of our Mas
 
 *A period of silence may follow.*
 
-*A hymn or canticle may be used.*
-
+*A hymn or canticle ([Ps. 103](https://www.biblegateway.com/passage/?search=Ps.+103&version=MSG), [Lk. 1:46-55](https://www.biblegateway.com/passage/?search=Lk.+1%3A46-55&version=MSG), or [Lk. 1:68-79](https://www.biblegateway.com/passage/?search=Lk.+1%3A68-79&version=MSG)) may be used.*
+<!--
 |          | After the Hebrew scriptures | After Christian scriptures
 |----------|-----------------------------|---------------------------
-|Sunday    |Benedictus Dominus           |Te Deum laudamus            |
-|          |A: Surge, illuminare         |A or L: Benedictus Dominu   |
+|Sunday    |[Benedictus Dominus](https://www.biblegateway.com/passage/?search=Luke+1%3A68-79&version=MSG)           |Te Deum laudamus            |
+|          |A: [Surge, illuminare](https://www.biblegateway.com/passage/?search=Isaiah+60%3A1-6&version=MSG)         |A or L: [Benedictus Dominus](https://www.biblegateway.com/passage/?search=Luke+1%3A68-79&version=MSG)   |
 |          |L: Kyrie Pantokrator         |                            |
-|          |E: Cantemus Domino           |                            |
-|Monday    |Ecce, Deus                   |Magna et Mirabilia          |
-|Tuesday   |Benedictus es                |Dignus es                   |
-|Wednesday |Surge, illuminare            |Benedictus Dominus          |
+|          |E: [Cantemus Domino](https://www.biblegateway.com/passage/?search=Exodus+15%3A1-18&version=MSG)           |                            |
+|Monday    |[Ecce, Deus](https://www.biblegateway.com/passage/?search=Isaiah+12%3A2-6&version=MSG)                   |[Magna et Mirabilia](https://www.biblegateway.com/passage/?search=Revelation+15%3A3-4&version=MSG)          |
+|Tuesday   |[Benedictus es](https://www.biblegateway.com/passage/?search=Luke+1%3A68-79&version=MSG)                |[Dignus es](https://www.biblegateway.com/passage/?search=Revelation+4%3A11%2C+5%3A9-10%2C+13&version=MSG)                   |
+|Wednesday |[Surge, illuminare](https://www.biblegateway.com/passage/?search=Isaiah+60%3A1-6&version=MSG)            |[Benedictus Dominus](https://www.biblegateway.com/passage/?search=Luke+1%3A68-79&version=MSG)          |
 |          |L: Kyrie Pantokrator         |                            |
-|Thursday  |Cantemus Domino              |Gloria in excelsis          |
-|          |                             |A or L: Magna et mirabilia  |
-|Friday    |QuÊrite Dominum              |Dignus es                   |
+|Thursday  |[Cantemus Domino](https://www.biblegateway.com/passage/?search=Exodus+15%3A1-18&version=MSG)               |Gloria in excelsis          |
+|          |                             |A or L: [Magna et Mirabilia](https://www.biblegateway.com/passage/?search=Revelation+15%3A3-4&version=MSG)  |
+|Friday    |[QuÊrite Dominum](https://www.biblegateway.com/passage/?search=Isaiah+55%3A6-11&version=MSG)              |[Dignus es](https://www.biblegateway.com/passage/?search=Revelation+4%3A11%2C+5%3A9-10%2C+13&version=MSG)                  |
 |          |L Kyrie Pantokrator          |                            |
-|Saturday  |Benedicite                   |Magna et mirabilia          |
+|Saturday  |Benedicite                   |[Magna et Mirabilia](https://www.biblegateway.com/passage/?search=Revelation+15%3A3-4&version=MSG)         |
 
+-->
 *The Apostles' Creed may be said*
 
 *Prayers may be offered for ourselfs and others.*
