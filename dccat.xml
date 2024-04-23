@@ -3,21 +3,57 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
 
 <rdf:Description>
-<dc:title>AMC's best day hikes in the White Mountains. 3rd ed.</dc:title>
-<dc:creator>Buchsbaum, Robet N.</dc:creator>
-<dc:publisher>Bost.</dc:publisher>
-<dc:date>[2016]</dc:date>
-<dc:description>v.</dc:description>
-<dc:subject>917</dc:subject>
+<dc:creator>Aurelius, M.</dc:creator>
+<dc:title>Meditations.</dc:title>
+<dc:publisher>U.K.</dc:publisher>
+<dc:date2014.</dc:date>
+<dc:description>D.</dc:description>
+<dc:subject>188</dc:subject>
+</rdf:Description>
+
+  <rdf:Description>
+<dc:creator>Clark, J. and Taylor, J.</dc:creator>
+<dc:title>Wild irish rose.</dc:title>
+<dc:publisher>U.S.?</dc:publisher>
+<dc:date>2017.</dc:date>
+<dc:description>O.</dc:description>
+<dc:subject>FIC</dc:subject>
 </rdf:Description>
 
 <rdf:Description>
-<dc:title>God is one one.</dc:title>
-<dc:creator>Prothero, Stephen.</dc:creator>
+<dc:creator>Conte, C.</dc:creator>
+<dc:title>Claws for alarm.</dc:title>
 <dc:publisher>N.Y.</dc:publisher>
-<dc:date>2011.</dc:date>
-<dc:description>v.</dc:description>
-<dc:subject>200</dc:subject>
+<dc:date>2021.</dc:date>
+<dc:description>S. (Cat Cafe 5)</dc:description>
+<dc:subject>MYS</dc:subject>
+</rdf:Description>
+
+<rdf:Description>
+<dc:creator>McCauley, T.</dc:creator>
+<dc:title>Disturbing the peace</dc:title>
+<dc:publisher>N.Y.</dc:publisher>
+<dc:date>2022.</dc:date>
+<dc:description>D.</dc:description>
+<dc:subject>WES</dc:subject>
+</rdf:Description>
+
+  <rdf:Description>
+<dc:creator>Sharpe, J.</dc:creator>
+<dc:title>Astec gold.</dc:title>
+<dc:publisher>N.Y.</dc:publisher>
+<dc:date>2020.</dc:date>
+<dc:description>S. (Trailsman)</dc:description>
+<dc:subject>WES</dc:subject>
+</rdf:Description>
+
+<rdf:Description>
+<dc:creator>Snyder, T.</dc:creator>
+<dc:title>On tyranny.</dc:title>
+<dc:publisher>N.Y.</dc:publisher>
+<dc:date>2017.</dc:date>
+<dc:description>T.</dc:description>
+<dc:subject>188</dc:subject>
 </rdf:Description>
 
 </rdf:RDF>
