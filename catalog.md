@@ -1,3 +1,4 @@
+* WES  Sharpe, Jon. Astec gold. N.Y. : Signet, c2000. 257 p. S. (Trailman 208)  d1800  Read 2024-03. Grade D.
 * 932  Cooney, Kara. Good kings. Wash. : National Georgaphic, c2021. 399 p. O.  d2403081  Reading. Grade C. Notes avail.
 * SCI  Four great American classics. N.Y. : Bantam, 1986. 883 p. 16 cm.  Contents: Scarlet letter / Hawthrone, Nathaniel. -- Adventures of Huckleberry Finn / Twain, Mark. -- Red badge of Courage / Crane, Stephen. -- Billy Budd, Sailor / Melville, Herman.
 * 423  Oxford new essential dictionary.  Amer. ed. N.Y. : Berkley Books, 1998.  810 p. 16 cm.  
