@@ -1,4 +1,4 @@
-* 932  Cooney, Kara. Good kinds. Wash. : National Georgaphic, c2021. 399 p. O.  d2403081  Reading. Grade C. Notes avail.
+* 932  Cooney, Kara. Good kings. Wash. : National Georgaphic, c2021. 399 p. O.  d2403081  Reading. Grade C. Notes avail.
 * SCI  Four great American classics. N.Y. : Bantam, 1986. 883 p. 16 cm.  Contents: Scarlet letter / Hawthrone, Nathaniel. -- Adventures of Huckleberry Finn / Twain, Mark. -- Red badge of Courage / Crane, Stephen. -- Billy Budd, Sailor / Melville, Herman.
 * 423  Oxford new essential dictionary.  Amer. ed. N.Y. : Berkley Books, 1998.  810 p. 16 cm.  
 * SCI  Cato, Scott. XZARDAK.  n.p. 2023. k. 1730 kb.  i,
