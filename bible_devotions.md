@@ -21,7 +21,7 @@ What a God we have! And how fortunate we are to have him, this Father of our Mas
 *A period of silence may follow.*
 
 *A hymn or canticle ([Ps. 103](https://www.biblegateway.com/passage/?search=Ps.+103&version=MSG), [Lk. 1:46-55](https://www.biblegateway.com/passage/?search=Lk.+1%3A46-55&version=MSG), or [Lk. 1:68-79](https://www.biblegateway.com/passage/?search=Lk.+1%3A68-79&version=MSG)) may be used.*
-<!--
+
 |          | After the Hebrew scriptures | After Christian scriptures
 |----------|-----------------------------|---------------------------
 |Sunday    |[Benedictus Dominus](https://www.biblegateway.com/passage/?search=Luke+1%3A68-79&version=MSG)           |Te Deum laudamus            |
@@ -38,7 +38,7 @@ What a God we have! And how fortunate we are to have him, this Father of our Mas
 |          |L Kyrie Pantokrator          |                            |
 |Saturday  |Benedicite                   |[Magna et Mirabilia](https://www.biblegateway.com/passage/?search=Revelation+15%3A3-4&version=MSG)         |
 
--->
+
 *The Apostles' Creed may be said*
 
 *Prayers may be offered for ourselfs and others.*
