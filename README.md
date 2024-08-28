@@ -14,8 +14,6 @@ CURRENTLY READING:
 
 Links
 ---
-[Library of Congress z39.50](https://www.loc.gov/z3950/)
-
 [nws](https://forecast.weather.gov/MapClick.php?lat=42.7843&lon=-71.0862&unit=0&lg=english&FcstType=text&TextType=1)
 
 [facebook](https://mbasic.facebook.com/)
