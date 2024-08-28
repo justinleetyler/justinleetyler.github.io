@@ -12,9 +12,6 @@ CURRENTLY READING:
 
 [UU breviary](uubreviary.md)
 
-[Catalog and reading log](catalog.md)
-
-
 Links
 ---
 [Library of Congress z39.50](https://www.loc.gov/z3950/)
