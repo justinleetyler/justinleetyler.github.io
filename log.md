@@ -1,5 +1,6 @@
 # Reading Log
 Use ctrl-F to search.
+
 |date    |grade|title and author|dewey number|notes / favorite quote|
 |--------|-----|----------------|------------|-----|
 |2024-03 | C | 5 The effort / Claire Holroyde.  N.Y. c2021.  k. | SCI | "In the end, modern civilization was not undone by a comet, but by its very threat." | 
