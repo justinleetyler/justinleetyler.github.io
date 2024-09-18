@@ -1,10 +1,12 @@
 # Reading Log
-
-|date|grade|title and author|dewey number|notes / favorite quote|
-|----|-----|----------------|------------|-----|
-|2024-02 | C | Blood on the trail / J. McCauley. N.Y. 2022. v. (Jeremiah Halstead Western 1) | WES | Halstead confronts John Hudson, the Hudson gang, and Ed Zimmerman. |
-|2024-01 | D | Facade / Michael Heizer. n.p. 2012.                                           | SCI | The gov't. assembles a group of scientists as aliens called "The Watchers" (From Gen. 6) are about to make themselves known. 
-|2024-01 | D | The strange / Nathan Ballingrad. Lond. 2023.                                  | SCI | |
+Use ctrl-F to search.
+|date    |grade|title and author|dewey number|notes / favorite quote|
+|--------|-----|----------------|------------|-----|
+|2024-03 | C | 5 The effort / Claire Holroyde.  N.Y. c2021.  k. | SCI | "In the end, modern civilization was not undone by a comet, but by its very threat." | 
+|2024-02 | C | 4 Overdue / Elizabeth Craig. 2019. (Village Mystery 2) | MYS | Tonya, Robert's (the Mayor's wife) kills him and Caramon for having an affair |
+|2024-02 | C | 3 Blood on the trail / J. McCauley. N.Y. 2022. v. (Jeremiah Halstead Western 1) | WES | Halstead confronts John Hudson, the Hudson gang, and Ed Zimmerman. |
+|2024-01 | D | 2 Facade / Michael Heizer. n.p. 2012.                                           | SCI | The gov't. assembles a group of scientists as aliens called "The Watchers" (From Gen. 6) are about to make themselves known. 
+|2024-01 | D | 1 The strange / Nathan Ballingrad. Lond. 2023.                                  | SCI | |
 |2021-10 | C | 11 20,000 leagues under the sea / Jules Verne. | 843. | "Our chances seemed slim, but hope springs eternal in the human beast." |
 |2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
 |2021-09 | D | 9 Any job will do / John Wilker | 813 | |
