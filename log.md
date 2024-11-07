@@ -3,6 +3,16 @@ Use ctrl-F to search.
 
 |date    |grade|title and author|dewey number|notes / favorite quote|
 |--------|-----|----------------|------------|-----|
+|2024-05 | C | 15 My holiday in North Korea / Wendy E. Simmons | 591 | "Self-expression, freedom of thought, social discourse to effect change, and personal beliefs of any kind are relegated to private thoughts"|
+|2024-05 | C | 14 The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared / J. Jonasson | FIC | Allen tells of his extraordinary life while on the run from the cops and the old folks home.| 
+|2024-04 | D | 13 Aztec Gold / J. Sharpe | WES | Fargo teams up w. Solita to find missing gold from Montizula. |
+|2024-04 | D | 12 Crysalis / Lincoln Child. | Medical devices get hacked. |
+|2024-04 | C | 11 Claws for alarm / Cate Conte | MYS | Ester, personal asst. to Payton Chandler, kills Jullian Allen. |
+|2024-04 | C | 10 Mr. Prenumbra's 24 hour bookstore / Robin Sloan | FIC | Clay breaks the codes of the codex vitaes with the help of Google. "
+|2024-04 | C | 9 Sloth / Alan Ranch | 599 | | 
+|2024-03 | B | 8 Yahweh and the gods and goddesses of Canaan / John Jay | 296 | |
+|2024-03 | C | 7 Kaija Preservation Society / John Scalzi | SCI | |
+|2024-03 | C | 6 2034 / Eliot Ackerman, Janes Stavridis | FIC | Nuclear war btw US. and China | 
 |2024-03 | C | 5 The effort / Claire Holroyde.  2021.  | SCI | "In the end, modern civilization was not undone by a comet, but by its very threat." | 
 |2024-02 | C | 4 Overdue / Elizabeth Craig. 2019. (Village Mystery 2) | MYS | Tonya, Robert's (the Mayor's wife) kills him and Caramon for having an affair |
 |2024-02 | C | 3 Blood on the trail / J. McCauley. 2022. (Jeremiah Halstead Western 1) | WES | Halstead confronts John Hudson, the Hudson gang, and Ed Zimmerman. |
