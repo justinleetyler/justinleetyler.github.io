@@ -18,9 +18,11 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [NPR](https://text.npr.org/)
 
-[68k.news: Headlines From the Future](http://68k.news/)
+[Neuters (Reuters Front-End)](https://neuters.de/)
 
 [my catalog](https://justinleetyler.github.io/catalog)
+
+[light web](https://litew.pages.dev/)
 
 ## bookmarks-other
 
