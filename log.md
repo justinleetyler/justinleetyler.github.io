@@ -7,7 +7,7 @@ Use ctrl-F to search.
 |2024-05 | C | 15 My holiday in North Korea / Wendy E. Simmons | 591 | "Self-expression, freedom of thought, social discourse to effect change, and personal beliefs of any kind are relegated to private thoughts"|
 |2024-05 | C | 14 The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared / J. Jonasson | FIC | Allen tells of his extraordinary life while on the run from the cops and the old folks home.| 
 |2024-04 | D | 13 Aztec Gold / J. Sharpe | WES | Fargo teams up w. Solita to find missing gold from Montizula. |
-|2024-04 | D | 12 Crysalis / Lincoln Child. | Medical devices get hacked. |
+|2024-04 | D | 12 Crysalis / Lincoln Child. | SCI | Medical devices get hacked. |
 |2024-04 | C | 11 Claws for alarm / Cate Conte | MYS | Ester, personal asst. to Payton Chandler, kills Jullian Allen. |
 |2024-04 | C | 10 Mr. Prenumbra's 24 hour bookstore / Robin Sloan | FIC | Clay breaks the codes of the codex vitaes with the help of Google. "
 |2024-04 | C | 9 Sloth / Alan Ranch | 599 | | 
