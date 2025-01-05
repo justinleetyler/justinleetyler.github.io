@@ -3,6 +3,7 @@ Use ctrl-F to search.
 
 |date    |grade|title and author|dewey number|notes / favorite quote|
 |--------|-----|----------------|------------|-----|
+|2025-01| C |1 The Turing option / Hary Harrison and Martin Minsky | SCI |A.I. software is stolen after Scientist Brian Delaney is attacked in his lab. "The intellectual life is a good one, to use ones brain, to uncover the secrets of reality, that is a gift granted to very few. But to enjoy one's humanity is an equal pleasure." |
 |2024-05 | C | 15 My holiday in North Korea / Wendy E. Simmons | 591 | "Self-expression, freedom of thought, social discourse to effect change, and personal beliefs of any kind are relegated to private thoughts"|
 |2024-05 | C | 14 The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared / J. Jonasson | FIC | Allen tells of his extraordinary life while on the run from the cops and the old folks home.| 
 |2024-04 | D | 13 Aztec Gold / J. Sharpe | WES | Fargo teams up w. Solita to find missing gold from Montizula. |
