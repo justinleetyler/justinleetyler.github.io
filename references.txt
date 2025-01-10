@@ -1,6 +1,4 @@
- 
-
-Special Reference Sections
+# Special Reference Sections
 
 Standard Weights and Measures with Metric Equivalents
 Conversion from Standard to Metric Measurements
@@ -25,127 +23,60 @@ Countries of the World
 Time Periods
 Weddng Anniversary Gifts
 
-# Standard Weights and Measures with Metric Equivalents
+## Standard Weights and Measures with Metric Equivalents
 
 Linear Measure
 1 inch = 25.4 millimeters
 1 foot = 12 inches = 0.3048 meter
-1 yard = 3 feet = = 36 inches = 0.9144 meter
-
-1 (statute) mile = 1,760 yards
-= 5,280 feet
+1 yard = 3 feet = 36 inches = 0.9144 meter
+1 (statute) mile = 1,760 yards = 5,280 feet = 1.609 kilometers
 
 Square Measure
-1 sq. inch
-1 sq. foot = 144 8q. inches
-1 sq. yard = 9 sq. feet
-1 acre = 4,840 sq. yards
-1 sq. mile = 640 acres
+1 sq. inch = 6.45 sq. centimeters
+1 sq. foot = 144 sq. inches = 9.29 sq. decimeters
+1 sq. yard = 9 sq. feet = 0.836 sq. meter
+1 acre = 4,840 sq. yards = 0.405 hectare
+1 sq. mile = 640 acres = 259 hectares
 
 Cubic Measure
-1 cu. inch
-
-1 cu. foot = 1,728 cu. inches
-1 cu. yard = 27 cu. feet
+1 cu. inch = 16.4 cu. centimeters 
+1 cu. foot = 1,728 cu. inches = 0.0283 cu. meter
+1 cu. yard = 27 cu. feet = 0.765 cu. meter 
 
 Capacity Measure
 DRY MEASURE
-
-1 pint = 33.60 cu. inches
-1 quart = 2 pints
-
-1 peck = 8 quarts
-
-1 bushel = 4 pecks
+1 pint = 33.60 cu. inches = 0.550 liter
+1 quart = 2 pints = 1.101 liters
+1 peck = 8 quarts = 8.81 liters
+1 bushel = 4 pecks = 35.3 liters
 
 LIQUID MEASURE
-1 fluid ounce
-
-1 gill = 4 fluid ounces
-
-1 pint = 16 fluid ounces
-
-1 quart = 2 pints
-1 gallon = 4 quarts
+1 fluid ounce = 29.573 milliliters
+1 gill = 4 fluid ounces = 118.294 milliliters
+1 pint = 16 fluid ounces = 0.473 liter = 28.88 cu. inches
+1 quart = 2 pints = 0.946 liter
+1 gallon = 4 quarts = 3.785 liters
 
 Avoirdupois Weight
-1 grain
-1 dram
-1 ounce = 16 drams
-1 pound = 16 ounces
-= 7,000 grains
-1 stone (British) = 14 pounds
-1 ton
-1 hundred weight (US)
-20 hundred weight (US)
+1 grain = 0.065 gram
+1 dram = 1.772 grams
+1 ounce = 16 drams = 28.35 grams
+1 pound = 16 ounces = 7,000 grains = 0.4536 kilograms (0.45359237 exactly)
+1 stone (British) = 14 pounds = 6.35 kilograms
+1 ton = 2,000 pounds
+1 hundred weight (US) = 100 pounds
+20 hundred weight (US) = 2,000 pounds
 
-
-
-
-
-= 1.609 kilometers
-
-= 6.45 sq. centimeters
-= 9.29 sq. decimeters
-= 0.836 sq. meter
-
-= 0.405 hectare
-
-= 259 hectares
-
-= 16.4 cu. centimeters
-= 0.0283 cu. meter
-= 0.765 cu. meter
-
-= 0.550 liter
-= 1.101 liters
-= 8.81 liters
-= 35.3 liters
-
-= 29.573 milliliters
-= 118.294 milliliters
-= 0.473 liter
-
-= 28.88 cu. inches
-= 0.946 liter
-
-= 3.785 liters
-
-= 0.065 gram
-
-= 1.772 grams
-
-= 28.35 grams
-
-= 0.4536 kilograms
-(0.45359237 exactly)
-
-= 6.35 kilograms
-
-= 2,000 pounds
-
-= 100 pounds
-
-= 2,000 pounds
-781
-
-Conversion from Standard to Metric Measurements
-
-Niaodtand
-ad
-
-invhesa
-feet
-yants
-miles
-
-Area
-
-aq: inches
-aq, feet
-sq, yards
-ag. miles
-acres
+# Conversion from Standard to Metric Measurements
+| Standard | Multiply by | to get metric |
+|----------|-------------|---------------|
+|Length    |             |               |
+|inches    | 2.54        |centemeters    |
+|feet      |30.48        |centemeters    |
+|yards     |0.91         |meters         |
+|miles     |1.61         |kilometers     |
+|Area      |             |               |
+|sq. inces |6.45         |sq. centimeters|
 
 Woyght
 
@@ -231,8 +162,7 @@ cu. meters
 cu, meters
 782
 
-Metric Weights and Measures _
-with Standard Equivalents |
+# Metric Weights and Measures with Standard Equivalents 
 1;
 1 millimeter (mm) = 0.039 inch {
 1 centimeter (cm) = 10 millimeters = 0.394 inch 1
@@ -272,9 +202,7 @@ I milligram (mg) = 0.015 grain
 1 ton (metric ton) = 1,000 kilograms
 
  
-783
-
-Conversion from Metric to Standard Measurements
+# Conversion from Metric to Standard Measurements
 
 pre wag’ oye
 
@@ -321,8 +249,7 @@ cu. yards
 |
 :
 
-784
-Signs and Symbols
+# Signs and Symbols
 General
 & and x by, as in an 8 x 12’ room
 &c. et cetera (and so forth) w/ with
@@ -398,8 +325,7 @@ sedilla (as in the word fagade)
  
 —— NS,
 
-786
-Temperature
+# Temperature
 
 Fahrenheit: Water boils at 212° and freezes at 32°.
 Celsius or Centigrade: Water boils at 100° and freezes at 0°,
@@ -426,9 +352,7 @@ as 140° ea 21.1°
 To co)
 
  
-——
-_ 787
-Heat Index
+# Heat Index
 
 As humidity increases, the air at a given temperature feels warmer. The combination
 P of heat and high humidity reduces the body’s natural ability to cool itself. For
@@ -452,16 +376,13 @@ humidity of 80 percent, the air feels like dry air at 97 degrees.
   
    
 
-Windchill Temperatures
+# Windchill Temperatures
 The chart below illustrates the effect of wind speed on perceived air temperature.
 “Windchill,” or the perceived feeling of coldness of the air, increases with higher
 wind speed.
 Wind speed in miles per hour
 
-  
-788
-
-Mathematical Notation
+# Mathematical Notation
 Mathemarical Power Name
 10! or 1,000,000,000,000,000,000 one quintillion =e
 10! or 1,000,000,000,000,000 one quadrillion peta. (Py
@@ -625,64 +546,64 @@ nu
 xi
 
 f
- 
+
 
-bers (Num.)
-wuteronomy (DeUt.)
+# Books of the Bible
+Genesis  (Gen.)
+Exodus (Ex.)
+Numbers (Num.)
+Deuteronomy (Deut.)
 Joshua (Josh.)
 Judges (udg.)
-ok of Samuel
-(1 Sam.)
-Second Book of Samuel
-(2 Sam.)
-First Book of Kings
-1 Kgs.)
-eonlees of Kings
-(2 Kgs.)
+First Book of Samuel (1 Sam.)
+Second Book of Samuel (2 Sam.)
+First Book of Kings (1 Kgs.)
+Second Book of Kings (2 Kgs.)
+First Book of Chronicles (1 Chr.)
+Second Book of Chronicles(2 Chr.)
+Ezra
+Nehemiah (Neh.)
+Esther
+Job
+Psalms (Ps.)
+Proverbs (Prov.)
+Ecclesiastes (Eccles.)
+Song of Songs, Song of Solomon, Canticles (S. of S., Cant.)
+Isaiah (Isa.)
+Jeremiah (Jer.)
+Lamentations (Lam.)
+Ezekiel (Ezek.)
+Daniel (Dan.)
+Hosea (Hos.)
+Joel
+Amos
+Obadiah (Obad.)
+Jonah
+Micah (Mic.)
+Nahum (Nah.)
+Habakkuk (Hab.)
+Zephaniah (Zeph.)
+Haggai (Hag.)
+Zechariah (Zech.)
+Malachi (Mal.)
 
 Apocrypha
-
-First Book of Esdras
-(1 Esd.)
-
-Second Book of Esdras
-(2 Esd.)
-
+First Book of Esdras (1 Esd.)
+Second Book of Esdras (2 Esd.)
 Tobit
-
 Judith
-
-Rest of Esther
-(Rest of Esth.)
-
-Wisdom of Solomon
-(Wisd.)
+Rest of Esther (Rest of Esth.)
+Wisdom of Solomon (Wisd.)
 
 New Testament
-
-Gospel according to St.
-Matthew (Matt.)
-
-Gospel according to St.
-Mark (Mark)
-
-Gospel according to St.
-Luke (Luke)
-
-Gospel according to
-St. John John)
-
+Gospel according to St. Matthew (Matt.)
+Gospel according to St. Mark (Mark)
+Gospel according to St. Luke (Luke)
+Gospel according to St. John (John)
 Acts of the Apostles (Acts)
-
-Epistle to the Romans
-(Rom.)
-
-First Epistle to the
-Corinthians (1 Cor.)
-
-Second Epistle to the
-
-Bpacninthians (2 Cor.
+Epistle to the Romans (Rom.)
+First Epistle to the Corinthians (1 Cor.)
+Second Epistle to the Corinthians (2 Cor.
 istle to the Galati
 
 i
@@ -693,32 +614,7 @@ EU
 
 Books of the Bible
 
-First Book of
-Chronicles (1 Chr.)
-Second Book of Chronicles
-(2 Chr.)
 
-Ezra
-
-Nehemiah (Neh.)
-
-Esther
-
-Job
-
-Psalms (Ps.)
-
-Proverbs (Prov.)
-
-Ecclesiastes (Eccles.)
-
-Song of Songs, Song of
-Solomon, Canticles
-(S. of S., Cant.)
-
-Isaiah (Isa.)
-
-Jeremiah (Jer.)
 
 Ecclesiasticus, Wisdom of
 Jesus the Son of Sirach
@@ -761,25 +657,7 @@ Epistle to Philemon
 
 791
 
-Lamentations (Lam.)
-Ezekiel (Ezek.)
-Daniel (Dan.)
-Hosea (Hos.)
 
-Joel
-
-Amos
-
-Obadiah (Obad.)
-Jonah
-
-Micah (Mic.)
-Nahum (Nah.)
-Habakkuk (Hab.)
-Zephaniah (Zeph.)
-Haggai (Hag.)
-Zechariah (Zech.)
-Malachi (Mal.)
 
 Prayer of Manasseh
 (Pr. of Man.)
