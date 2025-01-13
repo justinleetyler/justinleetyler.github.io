@@ -26,141 +26,108 @@ Weddng Anniversary Gifts
 ## Standard Weights and Measures with Metric Equivalents
 
 Linear Measure
+
 1 inch = 25.4 millimeters
+
 1 foot = 12 inches = 0.3048 meter
+
 1 yard = 3 feet = 36 inches = 0.9144 meter
+
 1 (statute) mile = 1,760 yards = 5,280 feet = 1.609 kilometers
 
 Square Measure
+
 1 sq. inch = 6.45 sq. centimeters
+
 1 sq. foot = 144 sq. inches = 9.29 sq. decimeters
+
 1 sq. yard = 9 sq. feet = 0.836 sq. meter
+
 1 acre = 4,840 sq. yards = 0.405 hectare
+
 1 sq. mile = 640 acres = 259 hectares
 
 Cubic Measure
+
 1 cu. inch = 16.4 cu. centimeters 
+
 1 cu. foot = 1,728 cu. inches = 0.0283 cu. meter
+
 1 cu. yard = 27 cu. feet = 0.765 cu. meter 
 
 Capacity Measure
+
 DRY MEASURE
+
 1 pint = 33.60 cu. inches = 0.550 liter
+
 1 quart = 2 pints = 1.101 liters
+
 1 peck = 8 quarts = 8.81 liters
+
 1 bushel = 4 pecks = 35.3 liters
 
 LIQUID MEASURE
+
 1 fluid ounce = 29.573 milliliters
+
 1 gill = 4 fluid ounces = 118.294 milliliters
+
 1 pint = 16 fluid ounces = 0.473 liter = 28.88 cu. inches
+
 1 quart = 2 pints = 0.946 liter
+
 1 gallon = 4 quarts = 3.785 liters
 
 Avoirdupois Weight
+
 1 grain = 0.065 gram
+
 1 dram = 1.772 grams
+
 1 ounce = 16 drams = 28.35 grams
+
 1 pound = 16 ounces = 7,000 grains = 0.4536 kilograms (0.45359237 exactly)
+
 1 stone (British) = 14 pounds = 6.35 kilograms
+
 1 ton = 2,000 pounds
+
 1 hundred weight (US) = 100 pounds
+
 20 hundred weight (US) = 2,000 pounds
 
 # Conversion from Standard to Metric Measurements
-| Standard | Multiply by | to get metric |
-|----------|-------------|---------------|
-|Length    |             |               |
-|inches    | 2.54        |centemeters    |
-|feet      |30.48        |centemeters    |
-|yards     |0.91         |meters         |
-|miles     |1.61         |kilometers     |
-|Area      |             |               |
-|sq. inces |6.45         |sq. centimeters|
+| Standard  | Multiply by | to get metric |
+|-----------|-------------|---------------|
+|Length     |             |               |
+|inches     | 2.54        |centemeters    |
+|feet       |30.48        |centemeters    |
+|yards      |0.91         |meters         |
+|miles      |1.61         |kilometers     |
+|Area       |             |               |
+|sq. inces  |6.45         |sq. centimeters|
+|sq. feet   | 0.09        | sq. meters |
+|sq. yards  | 0.84        | sq. meters |
+|sq. miles  | 2.59        | sq. kilometers |
+|acres      | 0.4         | hectares|
+|Weight     |             |         |
+|ounces     | 28.35       | grams |
+|pounds     | 0.45        | kilograms |
+|short tons | 0.89        | metric tons |
+|Volume     |             |             |
+|teaspoons  | 4.93        | milliliters |
+|tablespoons| 14.79       | milliliters |
+|cu. inches | 16.38       | milliliters |
+|fluid ounces | 29.5      | milliliters |
+|cups       | 0.24        | liters |
+|pints      | 0.47        | liters|
+|quarts     |0.95         | liters |
+|gallons    | 3.79        | liters|
+|cu. feet  | 0.03         | cu. meters|
+|cu. yards | 0.76         | cu. meters|
+ 
 
-Woyght
-
-ounces
-pounds
-short tons
-
-Volume
-
-teaspoons
-tablespoons
-cu, inches
-fluid ounces
-cups
-
-pin
-
-quarts
-gallons
-
-CU, feet
-
-cu. yards
-
-Multiply By
-
-2.54
-30,48
-0,91
-1.61
-
-6.45
-0,09
-0,84
-2.59
-0.4
-
-28.35
-0.45
-0.89
-
-4,93
-14.79
-16,38
-29.57
-0.24
-0.47
-0.95
-3.79
-0,03
-0.76
-
-To Get Metric
-
-centimeters
-centimeters
-meters
-kilometers
-
-8q. centimeters
-8q. meters
-
-8q. meters
-
-8q. kilometers
-hectares
-
-grams
-kilograms
-metric tons
-
-milliliters
-milliliters
-milliliters
-milliliters
-liters
-
-liters
-liters
-liters
-
-cu. meters
-cu, meters
-782
 
 # Metric Weights and Measures with Standard Equivalents 
 1;
