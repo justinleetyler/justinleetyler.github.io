@@ -515,155 +515,171 @@ xi
 f
 
 
-# Books of the Bible
+##  Books of the Bible
+
+### Hebrew Scriptures
+
 Genesis  (Gen.)
+
 Exodus (Ex.)
+
 Numbers (Num.)
+
 Deuteronomy (Deut.)
+
 Joshua (Josh.)
+
 Judges (udg.)
+
 First Book of Samuel (1 Sam.)
+
 Second Book of Samuel (2 Sam.)
+
 First Book of Kings (1 Kgs.)
+
 Second Book of Kings (2 Kgs.)
+
 First Book of Chronicles (1 Chr.)
+
 Second Book of Chronicles(2 Chr.)
+
 Ezra
+
 Nehemiah (Neh.)
+
 Esther
+
 Job
+
 Psalms (Ps.)
+
 Proverbs (Prov.)
+
 Ecclesiastes (Eccles.)
+
 Song of Songs, Song of Solomon, Canticles (S. of S., Cant.)
+
 Isaiah (Isa.)
+
 Jeremiah (Jer.)
+
 Lamentations (Lam.)
+
 Ezekiel (Ezek.)
+
 Daniel (Dan.)
+
 Hosea (Hos.)
+
 Joel
+
 Amos
+
 Obadiah (Obad.)
+
 Jonah
+
 Micah (Mic.)
+
 Nahum (Nah.)
+
 Habakkuk (Hab.)
+
 Zephaniah (Zeph.)
+
 Haggai (Hag.)
+
 Zechariah (Zech.)
+
 Malachi (Mal.)
 
-Apocrypha
+### Apocrypha
+
 First Book of Esdras (1 Esd.)
+
 Second Book of Esdras (2 Esd.)
+
 Tobit
+
 Judith
+
 Rest of Esther (Rest of Esth.)
+
 Wisdom of Solomon (Wisd.)
 
-New Testament
-Gospel according to St. Matthew (Matt.)
-Gospel according to St. Mark (Mark)
-Gospel according to St. Luke (Luke)
-Gospel according to St. John (John)
-Acts of the Apostles (Acts)
-Epistle to the Romans (Rom.)
-First Epistle to the Corinthians (1 Cor.)
-Second Epistle to the Corinthians (2 Cor.
-istle to the Galati
-
-i
-istle to the 5
-Eph.) Ephesians
-
-EU
-
-Books of the Bible
-
-
-
-Ecclesiasticus, Wisdom of
-Jesus the Son of Sirach
-(Ecclus., Sir.)
+Ecclesiasticus, Wisdom of Jesus the Son of Sirach (Ecclus., Sir.)
 
 Baruch
 
-Song of the Three Children
-(S. of III Ch.)
+Song of the Three Children (S. of III Ch.)
 
 Susanna (Sus.)
 
-Bel and the Dragon
-(Bel & Dr.)
+Bel and the Dragon (Bel & Dr.)
 
-Epistle to the Philippians
-Phil.)
+Prayer of Manasseh (Pr. of Man.)
 
-Epistle to the Colossians
-(Col.)
+First Book of Maccabees (1 Macc.)
 
-First Epistle to the
-Thessalonians
-(1 Thess.)
+Second Book of Maccabees (2 Macc.)
 
-Second Epistle to the
-Thessalonians
-(2 Thess.)
+### Christian Scriptures
 
-First Epistle to Timothy
-(1 Tim.)
+Gospel according to St. Matthew (Matt.)
 
-Second Epistle to Timothy
-(2 Tim.)
+Gospel according to St. Mark (Mark)
+
+Gospel according to St. Luke (Luke)
+
+Gospel according to St. John (John)
+
+Acts of the Apostles (Acts)
+
+Epistle to the Romans (Rom.)
+
+First Epistle to the Corinthians (1 Cor.)
+
+Second Epistle to the Corinthians (2 Cor.)
+
+Epistle to the Galatians (Gal.)
+
+Epistle to the Ephesians (Eph.)
+
+Epistle to the Philippians (Phil.)
+
+Epistle to the Colossians(Col.)
+
+First Epistle to the Thessalonians (1 Thess.)
+
+Second Epistle to the Thessalonians (2 Thess.)
+
+First Epistle to Timothy (1 Tim.)
+
+Second Epistle to Timothy (2 Tim.)
 
 Epistle to Titus (Tit.)
 
-Epistle to Philemon
-(Philem.)
+Epistle to Philemon (Philem.)
 
-791
-
-
-
-Prayer of Manasseh
-(Pr. of Man.)
-
-First Book of Maccabees
-(1 Macc.)
-
-Second Book of Maccabees
-(2 Macc.)
-
-Epistle to the Hebrews
-(Heb.)
+Epistle to the Hebrews (Heb.)
 
 Epistle of James (Jas.)
 
-First Epistle of Peter
-(1 Pet.)
+First Epistle of Peter (1 Pet.)
 
-Second Epistle of Peter
-(2 Pet.)
+Second Epistle of Peter (2 Pet.)
 
-First Epistle of John
-(1 John)
+First Epistle of John (1 John)
 
-Second Epistle of John
-(2 John)
+Second Epistle of John (2 John)
 
-Third Epistle of John
-@ John)
+Third Epistle of John (3 John)
 
-Epistle of Jude (jude)
+Epistle of Jude (Jude)
 
-Revelation,
-(Rev., Apoc.)
+Revelation (Rev., Apoc.)
 
- 
-792
-
-Terms for Groups of Animals, etc, Hf |
+## Terms for Groups of Animals, etc, Hf |
 
 Terms marked + belong to 15th-c. lists of “proper terms,” notably that in the
 Book of St. Albans attributed to Dame Juliana Barnes (1486). Many of these are
@@ -988,122 +1004,103 @@ CRN PVP yw wm
 
 SeSsyessgsy
 
-Presidents of the United States of America
+# Presidents of the United States of America
 
-George Washington 1732-99
-John Adams 1735-1826
-Thomas Jefferson 1743-1826
-James Madison 1751-1836
-James Monroe 1758-1831
-John Quincy Adams 1767-1848
-Andrew Jackson 1767-1845
-Martin Van Buren 1782-1862
+1. George Washington 1732-99, Federalist  1789-97
 
-. William H. Harrison 1773-1841
-. John Tyler 1790-1862
+2. John Adams 1735-1826, Federalist 1797-1801
 
-- James K. Polk 1795-1849
+3. Thomas Jefferson 1743-1826, Democratic-Republican 1801-1809
 
-- Zachary Taylor 1784-1850
+4. James Madison 1751-1836, Democratic-Republican 1809-17
 
-- Millard Fillmore 1800-74
+5. James Monroe 1758-1831, Democratic-Republican 1817-25
 
-- Franklin Pierce 1804-69
+6. John Quincy Adams 1767-1848, Democratic-Republican 1825-29
 
-- James Buchanan 1791-1868
+7. Andrew Jackson 1767-1845, Democrat 1829-37
 
-. Abraham Lincoln 1809-65
+8. Martin Van Buren 1782-1862, Democrat 1837-41
 
-Andrew Johnson 1808-75
-Ulysses S. Grant 1822-85
+9. William H. Harrison 1773-1841, Whig 1841
 
-. Rutherford B. Hayes 1822-93
-. James A. Garfield 1831-81
+10. John Tyler 1790-1862, Whig, then Democrat 1841-45
 
-Chester A. Arthur 1830-86
-Grover Cleveland 1837-1908
+11. James K. Polk 1795-1849, Democrat 1845-49
 
-. Benjamin Harrison 1833-1901
-. Grover Cleveland (see above)
+12. Zachary Taylor 1784-1850, Whig 1849-59
 
-- William McKinley 1843-1901
+13. Millard Fillmore 1800-74, Whig 1850-53
 
-- Theodore Roosevelt 1858-1919
-. Wiliam H. Taft 1857-1930
+14. Franklin Pierce 1804-69, Democrat 1853-57
 
-Woodrow Wilson 1856-1924
+15. James Buchanan 1791-1868, Democrat 1857-61
 
-. Warren G. Harding 1865-1923
-. Calvin Coolidge 1872-1933
+16. Abraham Lincoln 1809-65, Republican 1861-65
 
-Herbert Hoover 1874-1964 >
-Franklin D. Roosevelt 1882-1945
+17. Andrew Johnson 1808-75, Democrat 1865-69
 
-. Harry S Truman 1884-1972
-- Dwight D. Eisenhower 1890-1969
-. John F. Kennedy 1917-63 ’
+18. Ulysses S. Grant 1822-85, Republican 1869-77
+   
+19. Rutherford B. Hayes 1822-93, Republican 1877-81
 
-Lyndon B. Johnson 1908-73
-Richard M. Nixon 1913-94
+20. James A. Garfield 1831-81, Republican 1881
 
-. Gerald R. Ford 1913-2006
+21. Chester A. Arthur 1830-86, Republican 1881-85
 
-. James Earl Carter 1924—
+22. Grover Cleveland 1837-1908, Democrat 1885-89
 
-. Ronald W. Reagan 1911-2004
-. George H.W Bush 1924—
+23. Benjamin Harrison 1833-1901, Republican 1889-93
 
-. William J. Clinton 1946-
+24. Grover Cleveland (see above), Democrat 1893-97
 
-. George W. Bush 1946—
+25. William McKinley 1843-1901, Republican 1897-1901
 
-tie-Republican 1809.1)
-: blican 1817-25
-Democratic-Republican 1825-29
-1829-37
-1837-4)
-184
-Whig, then iting iit
-Democrat 1845-49
-Whig 1849-59
-Whig 1850-53
-Democrat 1853-57
-Democrat 1857-6]
-Republican 1861-65
-Democrat 1865-69
-Republican 1869-77
-Republican 1877-8]
-Republican 1881
-Republican 1881-85
-Democrat 1885-89
-Republican 1889-93
-Democrat 1893-97
-Republican 1897-1901
-Republican 1901-09
-Republican 1909-13
-Democrat 1913-21
-Republican 1921-23
-Republican 1923-29
-Republican 1929-33
-Democrat 1933-45
-Democrat 1945-53
-Republican 1953-61
-Democrat 1961-63
-Democrat 1963-69
-Republican 1969-74
-Republican 1974-77
-Democrat 1977-81
-Republican 1981-89
-Republican 1989-93
-Democrat 1993-2001
-Republican 2001-
+26. Theodore Roosevelt 1858-1919, Republican 1901-09
 
- 
- 
+27. Wiliam H. Taft 1857-1930, Republican 1909-13
 
- 
+28. Woodrow Wilson 1856-1924, Democrat 1913-21
 
-Leaders and Rulers
+29. Warren G. Harding 1865-1923, Republican 1921-23
+
+30. Calvin Coolidge 1872-1933, Republican 1923-29
+
+31. Herbert Hoover 1874-1964, Republican 1929-33
+
+32. Franklin D. Roosevelt 1882-1945, Democrat 1933-45
+
+33. Harry S Truman 1884-1972, Democrat 1945-53
+
+34. Dwight D. Eisenhower 1890-1969, Republican 1953-61
+
+35. John F. Kennedy 1917-63, Democrat 1961-63
+
+36. Lyndon B. Johnson 1908-73, Democrat 1963-69
+
+37. Richard M. Nixon 1913-94, Republican 1969-74
+
+38. Gerald R. Ford 1913-2006, Republican 1974-77
+
+39. James Earl Carter 1924—2024, Democrat 1977-81
+
+40. Ronald W. Reagan 1911-2004, Republican 1981-89
+
+41. George H.W Bush 1924—2018, Republican 1989-93
+
+42. William J. Clinton 1946- , Democrat 1993-2001
+
+43. George W. Bush 1946— , Republican 2001-2009
+
+44. Barack H. Obama 1961- , Democrat 2009-2017
+
+45. Donald J. Trump 1946- , Republican 2017-2021
+
+46. Joseph R. Biden Jr. 1942- , Democrat 2021-2025
+
+47. Donald J. Trump (see above), 2025-
+
+## Leaders and Rulers
 
 gh-ranking official of the Ottoman
 
