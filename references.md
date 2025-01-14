@@ -1,27 +1,27 @@
 # Special Reference Sections
 
-Standard Weights and Measures with Metric Equivalents
-Conversion from Standard to Metric Measurements
-Metric Weights and Measures with Standard Equivalents
-Conversion from Metric to Standard Measurements
-Signs and Symbols
-Temperature
-Heat Index
-Windchill Temperatures
-Mathematical Notation
-Multiplication Tables
-Arabic and Roman Numerals
-Greek Alphabet
-Books of the Bible
-Terms for Groups of Animals, etc.
-Chemical Elements
-Presidents of the United States of America
-Leaders and Rulers
-States of the United States of America
-Area Codes
-Countries of the World
-Time Periods
-Weddng Anniversary Gifts
+Standard Weights and Measures with Metric Equivalents -- 
+Conversion from Standard to Metric Measurements -- 
+Metric Weights and Measures with Standard Equivalents -- 
+Conversion from Metric to Standard Measurements -- 
+Signs and Symbols -- 
+Temperature -- 
+Heat Index -- 
+Windchill Temperatures -- 
+Mathematical Notation -- 
+Multiplication Tables -- 
+Arabic and Roman Numerals -- 
+Greek Alphabet -- 
+Books of the Bible -- 
+Terms for Groups of Animals, etc. -- 
+Chemical Elements -- 
+[Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
+Leaders and Rulers -- 
+States of the United States of America -- 
+Area Codes -- 
+Countries of the World -- 
+Time Periods -- 
+Weddng Anniversary Gifts -- 
 
 ## Standard Weights and Measures with Metric Equivalents
 
@@ -129,94 +129,102 @@ Avoirdupois Weight
  
 
 
-# Metric Weights and Measures with Standard Equivalents 
-1;
-1 millimeter (mm) = 0.039 inch {
-1 centimeter (cm) = 10 millimeters = 0.394 inch 1
-1 decimeter (dm) = 10 centimeters = 3.94 inches ,
+## Metric Weights and Measures with Standard Equivalents 
+
+1 millimeter (mm) = 0.039 inch 
+
+1 centimeter (cm) = 10 millimeters = 0.394 inch
+
+1 decimeter (dm) = 10 centimeters = 3.94 inches
+
 1 meter (m) = 10 decimeters = 1.094 yards
-1 decameter = 10 meters = 10.94 yards {
-1 hectometer = 100 meters = 109.4 yards i
-1 Kilometer (km) = 1,000 meters = 0.6214 mile ‘|
-Square Measure
+
+1 decameter = 10 meters = 10.94 yards
+
+1 hectometer = 100 meters = 109.4 yards
+
+1 Kilometer (km) = 1,000 meters = 0.6214 mile
+
+### Square Measure
+
 1 sq. centimeter = 0.155 sq. inch
-1 sq. meter = 10,000 sq. centimeters
-= 1.196 sq. yards {
-1 are = 100 sq. meters = 119.6 sq. yards i |
-1 hectare = 100 ares = 2.471 acres \4
-1 sq. kilometer = 0.386 sq. mile i
-= 100 hectares |
-Cubic Measure
+
+1 sq. meter = 10,000 sq. centimeters = 1.196 sq. yards
+
+1 are = 100 sq. meters = 119.6 sq. yards
+
+1 hectare = 100 ares = 2.471 acres
+
+1 sq. kilometer = 0.386 sq. mile = 100 hectares
+
+### Cubic Measure
+
 1 cu. centimeter = 0.061 cu. inch
-1 cu. meter = 1,000,000 cu. centimeters = 1.308 cu, yards
-Capacity Measure 2
-1 milliliter (m)) = 0.034 fluid ounces
-1 centiliter (cl) = 10 milliliters = 0,34 fluid ounces
-1 deciliter (dl) = 10 centiliter = 3,38 fluid ounces
-1 liter () = 10 deciliters = 1.06 quarts
+
+1 cu. meter = 1,000,000 cu. centimeters = 1.308 cu yards
+
+### Capacity Measure
+
+1 milliliter (ml) = 0.034 fluid ounces
+
+1 centiliter (cl) = 10 milliliters = 0.34 fluid ounces
+
+1 deciliter (dl) = 10 centiliter = 3.38 fluid ounces
+
+1 liter (l) = 10 deciliters = 1.06 quarts
+
 1 decaliter = 10 liters = 2.20 gallons
+
 1 hectoliter = 100 liters = 2.75 bushels
-Weight |
-I milligram (mg) = 0.015 grain
-1 centigram = 10 milligrams = 0,154 grain
+
+### Weight
+
+1 milligram (mg) = 0.015 grain
+
+1 centigram = 10 milligrams = 0.54 grain
+
 1 decigram (dg) = 10 centigrams = 1.543 grains
+
 1 gram (g) = 10 decigrams = 15.43 grains
+
 1 decagram = 10 grams = 5.64 drams
+
 1 hectogram = 100 grams = 3.527 ounces
+
 1 kilogram (kg) = 1,000 grams = 2.205 pounds
-= 0.984 (long) ton
 
-1 ton (metric ton) = 1,000 kilograms
+1 ton (metric ton) = 1,000 kilogram = 0.984 (long) ton
 
- 
-# Conversion from Metric to Standard Measurements
 
-pre wag’ oye
+## Conversion from Metric to Standard Measurements
 
-Multiply By
+|Metric          | Multiply By | To get Standard |
+|----------------|-------------|-----------------|
+|Length          |             |                 |
+|millimeters     |0.039        |inches           |
+|centimiters     |0.39         |inches           |
+|meters          |3.28         |feet             |
+|meters          |1.09         |yards            |
+|kilometers      |0.62         |miles            |
+|Area            |             |                 |
+|sq. centimeters |0.16         |sq. inches       |
+|sq. meters      |1.19         |sq. yards        |
+|sq. kilometers  |0.39         |sq. miles        |
+|hectaers        |2.5          |acres            |
+|Weight          |             |                 |
+|grams           |0.035        |ounces           |
+|kilgrams        |2.2          |pounds           |
+|metric tons     |1.1          |short tons       |
+|Volume          |             |                 |
+|milliliters     |0.03         |fluid ounces      |
+|milliliters     |0.06         |cu. inches       |
+|liters          |2.11         |pints            |
+|liters          |1.06         |quarts           |
+|liters          |0.26         |gallons          |
+|cu. meters      |35.32        |cu. feet         |
+|cu. meters      |1.31         |cu. yards        |
 
-0.039
-0.39
-3.28
-1,09
-0.62
-
-0.16
-1.19
-0.39
-2.5
-
-0.035
-2.2
-1.1
-
-0.03
-0.06
-2.11
-1.06
-0.26
-35,32
-1,31
-
-To Get Standard
-
-PETTY
-
-fluid ounces
-cu. inches
-pints
-
-gallons
-
-cu. feet
-cu. yards
- 
-
-;
-|
-:
-
-# Signs and Symbols
+## Signs and Symbols
 General
 & and x by, as in an 8 x 12’ room
 &c. et cetera (and so forth) w/ with
