@@ -7,7 +7,7 @@ Conversion from Metric to Standard Measurements --
 Signs and Symbols -- 
 Temperature -- 
 Heat Index -- 
-Windchill Temperatures -- 
+[Windchill Temperatures](#windchill-temperatures) -- 
 Mathematical Notation -- 
 Multiplication Tables -- 
 Arabic and Roman Numerals -- 
@@ -351,11 +351,24 @@ humidity of 80 percent, the air feels like dry air at 97 degrees.
   
    
 
-# Windchill Temperatures
-The chart below illustrates the effect of wind speed on perceived air temperature.
-“Windchill,” or the perceived feeling of coldness of the air, increases with higher
-wind speed.
-Wind speed in miles per hour
+##  Windchill Temperatures
+The chart below illustrates the effect of wind speed on perceived air temperature. “Windchill,” or the perceived feeling of coldness of the air, increases with higher wind speed. Wind speed in miles per hour in the left columns
+
+|Air temperature (F)|0  |5  |10 |15 |20 |25 |30 |35 |40 |
+|-------------------|---|---|---|---|---|---|---|---|---|
+|35                 |3 5|32 |22 |16 |12 |8  |6  |4  |3  |
+|30                 |30 |27 |16 |9  |4  |1  |-2 |-4 |-5 |
+|25                 |25 |22 |10 |2  |-3 |-7 |-10|-12|-13|
+|20                 |20 |16 |3  |-5 |-10|-15|-18|-20|-21|
+|15                 |15 |11 |-3 |-11|-17|-22|-25|-27|-29|
+|10                 |10 |6  |-9 |-18|-24|-29|-33|-35|-37|
+|5                  |5  |0  |-15|-25|-31|-36|-41|-43|-45|
+|0                  |0  |-5 |-22|-31|-39|-44|-49|-52|-53|
+|-5                 |-5 |-10|-27|-38|-46|-51|-56|-58|-60|
+|-10                |-10|-15|-34|-45|-53|-59|-64|-67|-69|
+|-15                |-15|-21|-40|-51|-60|-66|-71|-74|-76|
+|-20                |-20|-26|-46|-58|-67|-74|-79|-82|-84|
+|-25                |-25|-31|-52|-65|-74|-81|-86|-89|-92|
 
 # Mathematical Notation
 Mathemarical Power Name
