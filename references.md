@@ -1,16 +1,16 @@
 # Special Reference Sections
 
-Standard Weights and Measures with Metric Equivalents -- 
-Conversion from Standard to Metric Measurements -- 
-Metric Weights and Measures with Standard Equivalents -- 
-Conversion from Metric to Standard Measurements -- 
+[Standard Weights and Measures with Metric Equivalents](#standard-weights-and-measures-with-metric-equivalents) -- 
+[Conversion from Standard to Metric Measurements](#conversion-from-standard-to-metric-measurements) -- 
+[Metric Weights and Measures with Standard Equivalents](#metric-weights-and-measures-with-standard-equivalents) -- 
+[Conversion from Metric to Standard Measurements](#conversion-from-metric-to-standard-measurements) -- 
 Signs and Symbols -- 
-Temperature -- 
+[Temperature](#temperature) -- 
 Heat Index -- 
 [Windchill Temperatures](#windchill-temperatures) -- 
 Mathematical Notation -- 
 Multiplication Tables -- 
-Arabic and Roman Numerals -- 
+[Arabic and Roman Numerals](#arabic-and-roman-numerals) -- 
 Greek Alphabet -- 
 Books of the Bible -- 
 Terms for Groups of Animals, etc. -- 
@@ -300,32 +300,29 @@ sedilla (as in the word fagade)
  
 —— NS,
 
-# Temperature
+## Temperature
 
-Fahrenheit: Water boils at 212° and freezes at 32°.
-Celsius or Centigrade: Water boils at 100° and freezes at 0°,
+Fahrenheit: Water boils at 212° and freezes at 32°. 
+
+Celsius or Centigrade: Water boils at 100° and freezes at 0°. 
 
 Kelvin: Water boils at 373.15 K and freezes at 273.15 K,
 
-Celsius Fahrenheit Fahrenheit Célsic
-
--17.8° o
--10° 14° . -17.8°
-o° 3 oO 10° ~12.2°
-10° “A = ~6.6°
-20° pa 32° 0.0°
-30° 86° ~ 35°
-40° 104° sad 10.0°
-— 122° a 15.5°
-as 140° ea 21.1°
-70° viel 80 bie:
-80° we 90° So
-~ 194° x00 37.6°
-100° ao 212° .
-12 100.0°
-
-To co)
-
+|Celsius|Fahrenheit|Fahrenheit|Celsius|
+|-------|----------|----------|-------|
+|-17.8° |0°        |0°        |-17.8° |
+|-10°   |14°       |10°       |-12.2° |
+|0°     |32°       |20°       |-6.6°  |
+|10°    |50°       |32°       |0.0°   |
+|20°    |68°       |40°       |3.5°   |
+|30°    |86°       |50°       |10.0°  |
+|40°    |104°      |60°       |15.5°  |
+|50°    |122°      |70°       |21.1°  |
+|60°    |140°      |80°       |26.6°  |
+|70°    |158°      |90°       |32.2°  |
+|80°    |176°      |100°      |37.6°  |
+|90°    |194°      |212°      |100.0° |
+|100°   |212°      |          |       |
  
 # Heat Index
 
@@ -452,44 +449,45 @@ e585 45 765 35
 16
 15 % rio 85 1615
 
-95 1805
- 
+## Arabic and Roman Numerals
+|Arabic|Roman|
+|------|-----|
+|0     |     |
+|1     |I    |
+|2     |II|
+|3     |III|
+|4     |IV or IIII|
+|5     |V|
+|6     |VI|
+|7     |VII|
+|8     |VIII|
+|9     |IX or VIIII
+|10    |X|
+|11    |XI|
+|12    |XII|
+|13    |XIII|
+|14    |XIV|
+|15    |XV|
+|16    |XVI       
+|17    |XVII|
+|18    |XVIII|
+|19    |XIX|
+|20    |XX|
+|30    |XXX|
+|40    |XL|
+|50    |L|
+|60    |LX|
+|70    |LXX|
+|80    |LXXX|
+|90    |XC|
+|100   |C|
+|400   |CD|
+|500   |D|
+|900   |CM|
+|1000  |M|
+|2000  |MM
 
-790
 
-lib sn ba othe on303
-
-Arabic
-17
-18
-19
-20
-30
-40
-50
-60
-70
-80
-90
-100
-400
-500
-900
-1,000
-2,000
-
-E
-
-E
-| muds seEe pHBee
-
-& 58
-
-Arabic and Roman Numerals
-
-qo Sesser ese sae sss
-
-s
 
 Greek Alphabet
 
