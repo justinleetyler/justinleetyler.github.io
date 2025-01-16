@@ -1,4 +1,4 @@
-# Special Reference Sections
+# Quick References
 
 [Standard Weights and Measures with Metric Equivalents](#standard-weights-and-measures-with-metric-equivalents) -- 
 [Conversion from Standard to Metric Measurements](#conversion-from-standard-to-metric-measurements) -- 
@@ -9,7 +9,7 @@ Signs and Symbols --
 Heat Index -- 
 [Windchill Temperatures](#windchill-temperatures) -- 
 [Mathematical Notation](#mathematical-notation) -- 
-Multiplication Tables -- 
+[Multiplication Tables](#multiplication-tables) -- 
 [Arabic and Roman Numerals](#arabic-and-roman-numerals) -- 
 Greek Alphabet -- 
 Books of the Bible -- 
@@ -382,14 +382,30 @@ The chart below illustrates the effect of wind speed on perceived air temperatur
 | 1                                   |one              |  |
 | 10-¹ or 0.1                       |one tenth        |deci- (d)|
 | 10-² or 0.01                      |one hundredth    |centi- (c)|
-| 10-3 or 0.001                     |one thousandth   |milli- (m)|
+| 10-ᶟ or 0.001                     |one thousandth   |milli- (m)|
 | 10-⁶ or 0.000 001                 |one millionth    |micro- (µ)|
 | 10-⁹ or 0.000 000 001             |one billionth    |nano- (n)|
 | 10-¹² or 0.000 000 000 001        |one trillionth   |pico- (p)|
 | 10-¹⁵ or 0.000 000 000 000 001    |one quadrillionth|femto- (f)|
 | 10-¹⁸ or 0.000 000 000 000 000 001|one quintillionth|atto- (a)|
 
-Multiplication Tables
+## Multiplication Tables
+
+|x|1|2|3|4|5|6|7|8|9|10|11|12|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|1|1|2|3|4|5|6|7|8|9|10|11|12|
+|2|2|4|6|8|10|12|14|16|18|20|22|24|
+|3|3|6|9|12|15|18|21|24|27|30|33|36|
+|4|4|8|12|16|20|24|28|32|36|40|44|48|
+|5|5|10|15|20|25|30|35|40|45|50|55|60|
+|6|6|12|18|24|30|36|42|48|54|60|66|72|
+|7|7|14|21|28|35|42|49|56|63|70|77|84|
+|8|8|16|24|32|40|48|56|64|72|80|88|96|
+|9|9|18|27|36|45|54|63|72|81|90|99|108|
+|10|10|20|30|40|50|60|70|80|90|100|110|120|
+|11|11|22|33|44|55|66|77|88|99|110|121|132|
+|12|12|24|36|48|60|72|84|96|108|120|132|144|
+
 
  
    
