@@ -14,7 +14,7 @@ Heat Index --
 Greek Alphabet -- 
 Books of the Bible -- 
 Terms for Groups of Animals, etc. -- 
-Chemical Elements -- 
+[Chemical Elements](#chemical-elements) -- 
 [Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
 Leaders and Rulers -- 
 States of the United States of America -- 
@@ -934,113 +934,123 @@ Nd
 
 Ui eee serome. TE. penn ch weeuaee ices eet gor
 
-Chemical Elements
+## Chemical Elements
 
-i 2G geec hh Sahm bSISr SHOKS8GG sh Roa dbncFSsse
+|Element  |Symbol  |Atomic Number  |
+|---------|------|-------------|
+|actinium |Ac    |89           |
+|aluminum |Al    |13|
+|americium|Am    |95|
+|antimony|Sb|51|
+|argon|Ar|18|
+|arsenic|As|33|
+|astatine|At|85|
+|barium|Ba|56|
+|berkelium|Bk|97|
+|beryllium|Be|4|
+|bismuth|Bi|83|
+|bohrium|Bh|107|
+|boron|B|5|
+|bromine|Br|35|
+|cadmium|Cd|48|
+|calcium|Ca|20|
+|californium|Cf|98|
+|carbon|C|6|
+|cerium|Ce|58|
+|cesium|Cs|55|
+|chlorine|Cl|17|
+|chromium|Cr|24|
+|cobalt|Co|27|
+|copper|Cu|29|
+|curium|Cm|96|
+|darmstadtium|Ds|110|
+|dubnium|Db|105|
+|dysprosium|Dy|66|
+|einsteinium|Es|99|
+|erbium|Er|68|
+|europium|Eu|63|
+|fermium|Fm|100|
+|fluorine|F|9|
+|francium|Fr|87|
+|gadolinium|Gd|64|
+|gallium|Ga|31|
+|germanium|Ge|32|
+|gold|Au|79|
+|hafiium|Ha|105|
+|hassiurn|Hs|108|
+|helium|He|2|
+|holmium|HO|67|
+|hydrogen|H|1|
+|indium|In|49|
+|iodine|I|53|
+|iridium|Ir|77|
+|iron|Fe|26|
+|krypton|Kr|36|
+|Ianthanum|La|57|
+|lawrencium|Lr|103|
+|lead|Pb|82|
+|lithium|Li|3|
+|lutetium|Lu|71|
+|magnesium|Mg|12|
+|manganese|Mn|25|
+|meitnerium|Mt|109|
+|mendelevium|Md|101|
+|mercury|Hg|80|
+|molybdenum|Mo|42|
+|neodymium|Nd|60|
+|neon|Ne|10|
+|neptunium|Np|93|
+|nickel|Ni|28|
+|niobium|Nb|41|
+|nitrogen|N|7|
+|nobelium|No|102|
+|osmium|Os|76|
+|oxygen|O|8|
+|palladium|Pd|46|
+|phosphorus|P|15|
+|platinum|Pt|78|
+|plutonium|Pu|94|
+|polonium|Po|84|
+|potassium|K|19|
+|praseodymium|Pr|59|
+|promethium|Pm|61|
+|protactinium|Pa|91|
+|radium|Ra|88|
+|radon|Rn|86|
+|rhenium|Re|75|
+|rhodium|Rh|45|
+|roentgenium|Rg|111|
+|rubidium|Rb|37|
+|ruthenium|Ru|44|
+|rutherfordium|Rf|104|
+|samarium|Sm|62|
+|scandium|sc|21|
+|seaborgium|Sg|106|
+|selenium|Se|34|
+|silicon|Si|14|
+|silver|Ag|47|
+|sodium|Na|11|
+|strontium|Sr|38|
+|sulfur|s|16|
+|tantalium|Ta|73|
+|technetium|Tc|43|
+|tellurium|Te|52|
+|terbium|Tb|65|
+|thallium|Tl|81|
+|thorium|Th|90|
+|thulium|Tm|69|
+|tin|Sn|50|
+|titanium|Ti|22|
+|tungsten (wolfram)|W|74|
+|uranium|U|92|
+|vanadium|V|23|
+|xenon|Xe|54|
+|ytterbium|Yb|70|
+|yttrium|Y|39|
+|zinc|Zn|30|
+|zirconium|Zr|40|
 
-© 1 Uitte!
-rhodium
-roentgenium
-rubidium
-ruthenium
-rutherfordium
-
-scandium
-seaborgium
-selenium
-silicon
-silver
-sodium
-strontium
-
-tantalum
-
-bol
-
-q
-
-CEEPRPEEERE
-
-Si
-
-Na
-Sr
-
-Ta
-
-Atomic
-Number
-
-86
-75
-45
-ll
-37
-
-104
-62
-21
-106
-34
-14
-47
-11
-38
-16
-73
-
- 
-
-Element
-
-technetium
-tellurium
-terbium
-thallium
-thorium
-thulium
-titanium
-tungsten
-
-(wolfram)
-
-vanadium
-xenon
-
-zirconium
-
-Symbol
-
-d¢egddad
-
-<a
-
-RES Se
-
-795
-Atomic
-
-43
-52
-65
-
-SSsec
-
-74
-92
-23
-54
-70
-39
-
-40
- 
-
-CRN PVP yw wm
-
-SeSsyessgsy
-
-# Presidents of the United States of America
+## Presidents of the United States of America
 
 1. George Washington 1732-99, Federalist  1789-97
 
