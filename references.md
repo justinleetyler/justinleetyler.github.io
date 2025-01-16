@@ -17,10 +17,10 @@ Terms for Groups of Animals, etc. --
 [Chemical Elements](#chemical-elements) -- 
 [Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
 Leaders and Rulers -- 
-States of the United States of America -- 
+[States of the United States of America](#states-of-the-united-states-of-america) -- 
 Area Codes -- 
 Countries of the World -- 
-Time Periods -- 
+[Time Periods](#time-periods) -- 
 Weddng Anniversary Gifts -- 
 
 ## Standard Weights and Measures with Metric Equivalents
@@ -1302,64 +1302,113 @@ vizier high-ranking official, such as pro-
 vincial governor or chief minister, in
 Muslim countries, especially under the
 Ottoman Empire
-States of the United States of Americ,
 
-2 heel ee
+
+## States of the United States of America
 
-State
-postal abbreviations) Capital Area codes
-Alabama Montgomery 205, 251, 256, 334
-(Ala.; AL)
-Alaska Juneau 907
-(Alas.; AK)
-Arizona Phoenix 480, 520, 602, 623, 928
-(Ariz.; AZ) : :
-Arkansas Little Rock 479, 501,870
-(Ark.; AR)
-California Sacramento 209, 213, 310, 323, 408, 415
-ae 510, 5
-(Calif.; CA) 559, 562, 619, 626, 650, 661, 707, nig.
-760, 805, 818, 831, 858, 909, 916,
-Colorado Denver 303, 719, 720, 970 7S, 8
-(Col.; CO)
-Connecticut Hartford 203,860
-(Conn.; CT)
-Delaware Dover 302 i
-(Del.; DE) a
-District of Columbia s 202
-@mce., DC)
-Florida Tallahassee 239, 305, 321, 352, 386, 407, 561, 727,
-Cia.; FL) 772, 786, 813, 850, 863, 904, 941, 954
-Atlanta 229, 404, 470, 478, 678, 706,770, 912
-(Ga.; GA)
-Hawaii Honolulu 808
-(Hl)
-Idaho Boise 208
-€id.; ID)
-Illinois Springfield 217, 224, 309, 312, 618, 630, 708, 773,
-IL; IL) 815, 847
-i . Indianapolis 219, 260, 317, 574, 765, 812
-(nd.; IN)
-lowa Des Moines 319, 515, 563, 641, 712
-(la.; TA)
-Kansas Topeka 316, 620, 785, 913
-(Kan.; KS)
-Kentucky Frankfort 270, 502, 606, 859
-(Ky.; KY)
-Louisiana Baton Rouge 225, 318, 337, 504, 985
-(La.; LA)
-Maine Augusta 207
-(Me.; ME)
-Annapolis 240, 301, 410, 443
-(Md.; MD)
-Massachusetts Boston 339, 351, 413, 508, 617, 774, 781, 857, 978
-(Mass.; MA)
-Michigan Lansing 231, 248, 269, 313, 517, 586, 616, 810,
-(Mich.; MI) 906, 989
-Minnesota St. Paul 218, 320, 507, 612, 651, 763, 952
-(Minn. MD
-Mississippi Jackson 228, 601, 662
-(Miss.; MS)
+State (traditional; postal abbreviations) Capital Area codes
+
+Alabama (Ala.; AL) Montgomery 205, 251, 256, 334
+
+Alaska (Alas.; AK) Juneau 907
+
+Arizona (Ariz.; AZ) Phoenix 480, 520, 602, 623, 928
+
+Arkansas (Ark.; AR) Little Rock 479, 501,870
+
+California (Calif.; CA) Sacramento 209, 213, 310, 323, 408, 415 510, 530, 559, 562, 619, 626, 650, 661, 707, 714, 760, 805, 818, 831, 858, 909, 916, 925, 949
+
+Colorado (Col.; CO) Denver  303, 719, 720, 970
+
+Connecticut (Conn.; CT) Hartford 203, 860
+
+Delaware (Del.; DE) Dover 302
+
+District of Columbia (DC., DC) 202
+
+Florida (Fla.; FL) Tallahassee 239, 305, 321, 352, 386, 407, 561, 727, 772, 786, 813, 850, 863, 904, 941, 954
+
+Atlanta (Ga.; GA) 229, 404, 470, 478, 678, 706,770, 912
+
+Hawaii (HI) Honolulu 808
+
+Idaho (Id.; ID) Boise 208
+
+Illinois (Ill; IL) Springfield 217, 224, 309, 312, 618, 630, 708, 773, 815, 847
+
+Indiana (Ind.; IN) Indianapolis 219, 260, 317, 574, 765, 812
+
+lowa (Ia.; IA )Des Moines 319, 515, 563, 641, 712
+
+Kansas (Kan.; KS) Topeka 316, 620, 785, 913
+
+Kentucky (Ky.; KY) Frankfort 270, 502, 606, 859
+
+Louisiana (La.; LA) aton Rouge 225, 318, 337, 504, 985
+
+Maine (Me.; ME) Augusta 207
+
+Maryland (Md.; MD)Annapolis 240, 301, 410, 443
+
+Massachusetts (Mass.; MA) Boston 339, 351, 413, 508, 617, 774, 781, 857, 978
+
+Michigan (Mich.; MI)  Lansing 231, 248, 269, 313, 517, 586, 616, 810, 906, 989
+
+Minnesota (Minn.; MD) St. Paul 218, 320, 507, 612, 651, 763, 952
+
+Mississippi (Miss.; MS) Jackson 228, 601, 662
+
+Missouri (MO; MO) Jefferson City 314, 417,573,636,660,816 
+
+Montana Helena 406 (Mont.; MT) 
+
+Nebraska (Nebr.; NE) Lincoln 308,402 
+
+Nevada (Nev.; NV) Carson City 702,775 
+
+New Hampshire (N.H.; NH) Concord 603 
+
+New Jersey (N.J.; NJ) Trenton 201, 551,609,732,848, 856, 862,908,973 
+
+New Mexico (N. Mex.; NM) Santa Fe 505 
+
+New York (N.Y.; NY) Albany 212,315,347,516,518,585,607,631,646,716,718,845,914,917 
+
+North Carolina (N.C.; NC). Raleigh 252,336,704,828,910,919,980 
+
+North Dakota (N. Dak.; ND) Bismarck 701  
+
+Ohio (O.; OH) Columbus 216,234,330,419,440,513,567, 614,740,937 
+
+Oklahoma (Okla.; 0K) Oklahoma City 405,580,918 
+
+Oregon (Ore.; OR) Salem 503,541,971  
+
+Pennsylvania (Pa.; PA) Harrisburg 215,267,412,484,570,610,717,724,814,878 
+
+Rhode Island (R.I.; RI) Providence 401  
+
+South Carolina (S.C.; SC) Columbia 803,843,864  
+
+South Dakota (S. Dak.; SD) Pierre 605  
+
+Tennessee (Tenn.; TN) Nashville 423,615,731,865,901,931  
+
+Texas (Tex; TX) Austin 210,214,254,281,325,361,409,430,432, 469,512,682,713,806,817,830,832,903, 915,936,940,956, 972,979 
+
+Utah (Ut.; UT) Salt Lake City 435, 801  
+
+Vermont (Vt.; VIT) Montpelier 802  
+
+Virginia (Va.;VA) ichmond 276,434, 540, 571,703,757,804  
+
+Washington (Wash.; WA) Olympia 206,253, 360,425,509  
+
+West Virginia (W. Va.; WV) Charleston 304
+
+Wisconsin (Wis.;WI) Madison 262,414,608,715,920 
+
+Wyoming Cheyenne (Wyo.;WY) 307  
 
  
 
@@ -1497,229 +1546,8 @@ Code State or Province Code State or Province
 315 New York 509 Washington
 316 Kanses 510 California
 
-317 Indiana 512 ‘Texas
+Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mont.; MT) Nebraska (Nebr.; NE) Lincoln 308,402 Nevada (Nev.; NV) Carson City 702,775 New Hampshire (N.H.; NH) Concord 603 New Jersey (N.J.; NJ) Trenton 201, 551,609,732,848, 856, 862,908,973 New Mexico Santa Fe 505 (N. Mex.; NM) &5 New York Albany 212,315,347,516,518,585,607,631,646, (N.Y.; NY) 716,718,845,914,917 North Carolina (N.C.;NC). Raleigh 252,336,704,828,910,919,980 North Dakota Bismarck 701 (N. Dak.; ND) Ohio Columbus 216,234,330,419,440,513,567, 614, cO.; OH) 740,937 Oklahoma Oklahoma City 405,580,918 (Okla.; 0K) Oregon Salem 503,541,971 (Ore.; OR) Pennsylvania Harrisburg 215,267,412,484,570,610,717,724, (Pa.; PA) 814,878 N•ode Island Providence 401 (R.I.; RI) South Carolina Columbia 803,843,864 (S.C.; SC) South Dakota *s Pierre 605 (S. Dak•, SD) Tennessee Nashville 423,615,731,865,901,931 (Tenn.; TN) Texas Austin 210,214,254,281,325,361,409,430,432, (Tex; TX) 469,512,682,713,806,817,830,832,903, 915,936,940,956, 972,979 Utah Salt Lake City 435, 801 (Ut.; UT) Vermont Montpelier 80? (Vt.; VI') Virginia Richmond 276,434, 540, 571,703,757,804 (Va.;VA) Washington Olympia 206,253, 360,425,509 (Wash.; WA) Vest Virginia (W. Va.; WV) Charleston 304 Wisconsin (Wis.;W1) Madison 262,414,608,715,920 Wyoming Cheyenne 307 (Wyo.;WY)  
 
- 
-Code
-
-513
-514
-515
-516
-517
-518
-519
-520
-540
-541
-561
-562
-573
-601
-602
-603
-604
-605
-606
-607
-608
-
-610
-612
-613
-614
-615
-
-State or Province
-
-Ohio
-Quebec
-Towa
-New York
-Michigan
-New York
-Ontario
-Arizona
-Virginia
-Oregon
-Florida
-California
-Missouri
-Mississippi
-Arizona
-New Hampshire
-British Columbia
-South Dakota
-Kentucky
-New York
-Wisconsin
-New Jersey
-Pennsylvania
-Minnesota
-Ontario
-Ohio
-Tennessee
-Michigan
-Massachusetts
-Illinois
-California
-California
-Illinois
-California
-North Dakota
-levada
-Virginia
-North Carolina
-Ontario
-Georgia
-California
-Minois
-
-Code
-
-709
-710
-712
-713
-714
-715
-716
-wi?
-718
-719
-724
-732
-757
-760
-765
-770
-773
-800
-801
-802
-803
-804
-805
-806
-807
-808
-810
-812
-813
-814
-815
-816
-817
-818
-819
-830
-847
-860
-864
-867
-870
-888
-
- 
-
-State or Province
-
-Newfoundland
-US Government
-Iowa
-
-Texas
-California
-Wisconsin
-New York
-Pennsylvania
-New York
-Colorado
-Pennsylvania
-New Jersey
-Virginia
-California
-Indiana
-Georgia
-Illinois
-
-(toll free)
-Utah
-
-Vermont
-South Carolina
-Virginia
-California
-Texas
-
-Ontario
-Hawaii
-Michigan
-Indiana
-Florida
-Pennsylvania
-Illinois
-Missouri
-Texas
-California
-Quebec
-Texas
-
-Illinois
-Connecticut
-South Carolina
-Yukon/Northwest Territories
-Arkansas
-
-(toll free)
- 
-
-State or Province
-
-(Fee service)
-Tennessee
-
-Nova Scotia/Prince Edward Is].
-
-Code
-
-915
-916
-917
-918
-919
-920
-937
-940
-941
-949
-954
-956
-970
-972
-973
-
-State or Province
-Texas
-California
-
-New York
-Oklahoma
-North Carolina
-Wisconsin
-Ohio
-
-Texas
-
-Florida
-California
-Florida
-
-Texas
-Colorado
-Texas
-
-New Jersey
 Commiry
 Afghanistan
 Albania
@@ -2435,47 +2263,84 @@ Zambian
 Zimbabwean
  
 
-Time Periods
-Name Period
-bicentennial 200 years
-biennial 2 years
-century 100 years
-day 24 hours
-decade 10 years
-centennial 100 years
-decennial 10 years
-duodecennial 12 years
-half-century 50 years
-half-decade 5 years
-half-millennium 500 years
-hour 60 minutes
-leap year 366 days
-millennium 1,000 years
-minute 60 seconds
-month 28-31 days
-novennial 9 years
-octennial 8 years
-olympiad 4 years
-quadrennial 4 years
-quadricentennial 400 years
-quincentennial 500 years
-quindecennial 15 years
-quinquennial 5 years
-semicentennial 50 years
-septennial 7 years
-Sesquicentennial 150 years
-Sexennial 6 years
-tricennial 30 years
-triennial 3 years
-undecennial 11 years
-vicennial 20 years
-week 7 days
-—_ 365 days
-year 12 months
-year
+## Time Periods
 
-52 weeks
-Ist
+bicentennial 200 years
+
+biennial 2 years
+
+century 100 years
+
+day 24 hours
+
+decade 10 years
+
+centennial 100 years
+
+decennial 10 years
+
+duodecennial 12 years
+
+half-century 50 years
+
+half-decade 5 years
+
+half-millennium 500 years
+
+hour 60 minutes
+
+leap year 366 days
+
+millennium 1,000 years
+
+minute 60 seconds
+
+month 28-31 days
+
+novennial 9 years
+
+octennial 8 years
+
+olympiad 4 years
+
+quadrennial 4 years
+
+quadricentennial 400 years
+
+quincentennial 500 years
+
+quindecennial 15 years
+
+quinquennial 5 years
+
+semicentennial 50 years
+
+septennial 7 years
+
+Sesquicentennial 150 years
+
+Sexennial 6 years
+
+tricennial 30 years
+
+triennial 3 years
+
+undecennial 11 years
+
+vicennial 20 years
+
+week 7 days
+
+year 365 days
+
+year 12 months
+
+year 52 weeks
+
+ 
+## Wedding Anniversary Gifts
+
+Ist
 2nd
 3rd
 4th
