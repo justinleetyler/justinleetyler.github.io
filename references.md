@@ -8,7 +8,7 @@ Signs and Symbols --
 [Temperature](#temperature) -- 
 Heat Index -- 
 [Windchill Temperatures](#windchill-temperatures) -- 
-Mathematical Notation -- 
+[Mathematical Notation](#mathematical-notation) -- 
 Multiplication Tables -- 
 [Arabic and Roman Numerals](#arabic-and-roman-numerals) -- 
 Greek Alphabet -- 
@@ -367,27 +367,27 @@ The chart below illustrates the effect of wind speed on perceived air temperatur
 |-20                |-20|-26|-46|-58|-67|-74|-79|-82|-84|
 |-25                |-25|-31|-52|-65|-74|-81|-86|-89|-92|
 
-# Mathematical Notation
-Mathemarical Power Name
-10! or 1,000,000,000,000,000,000 one quintillion =e
-10! or 1,000,000,000,000,000 one quadrillion peta. (Py
-10"? or 1,000,000,000,000 one trillion tera. Ty
-10° or 1,000,000,000 one billion Biga- (G)
-10° or 1,000,000 one million mega- (M)
-10° or 1,000 one thousand kilo- (K, H
-10? or 100 one hundred hecto- CH, by
-10! or 10 ten =
-1 one —
+## Mathematical Notation
 
-10-! or 0.1 one tenth deci- (4)
-10 or 0.01 one hundredth centi- (c)
-10-3 or 0.001 one thousandth milli- (m)
-10-* or 0.000 001 one millionth micro- (1)
-10° or 0.000 000 001 one billionth nano- (n)
-10-!2 or 0.000 000 000 001 one trillionth pico- (p)
-
-10-15 or 0.000 000 000 000 001 one quadrillionth femto- (f)
-10-'® or 0.000 000 000 000 000 001 one quintillionth atto- (a)
+| Mathematical Power                  |Name             |Prefix (symbol)|
+|-------------------------------------|-----------------|---------------|
+| 10¹⁸ or 1,000,000,000,000,000,000 |one quintillion  |exa- (E)|
+| 10¹⁵ or 1,000,000,000,000,000     |one quadrillion  |peta- (P)|
+| 10¹² or 1,000,000,000,000         |one trillion     |tera- (T)|
+| 10⁹ or 1,000,000,000              |one billion      |giga- (G)|
+| 10⁶ or 1,000,000                  |one million      |mega- (M)|
+| 10ᶟ or 1,000                      |one thousand     |kilo- (K, k)|
+| 10² or 100                        |one hundred      |hecto- (H, h)|
+| 10¹ or 10                         |ten              |  |
+| 1                                   |one              |  |
+| 10-¹ or 0.1                       |one tenth        |deci- (d)|
+| 10-² or 0.01                      |one hundredth    |centi- (c)|
+| 10-3 or 0.001                     |one thousandth   |milli- (m)|
+| 10-⁶ or 0.000 001                 |one millionth    |micro- (µ)|
+| 10-⁹ or 0.000 000 001             |one billionth    |nano- (n)|
+| 10-¹² or 0.000 000 000 001        |one trillionth   |pico- (p)|
+| 10-¹⁵ or 0.000 000 000 000 001    |one quadrillionth|femto- (f)|
+| 10-¹⁸ or 0.000 000 000 000 000 001|one quintillionth|atto- (a)|
 
 Multiplication Tables
 
