@@ -12,14 +12,14 @@ Heat Index --
 [Multiplication Tables](#multiplication-tables) -- 
 [Arabic and Roman Numerals](#arabic-and-roman-numerals) -- 
 Greek Alphabet -- 
-Books of the Bible -- 
+[Books of the Bible](#books-of-the-bible) -- 
 Terms for Groups of Animals, etc. -- 
 [Chemical Elements](#chemical-elements) -- 
 [Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
 Leaders and Rulers -- 
 [States of the United States of America](#states-of-the-united-states-of-america) -- 
 Area Codes -- 
-Countries of the World -- 
+[Countries of the World](#countries-of-the-world) -- 
 [Time Periods](#time-periods) -- 
 Weddng Anniversary Gifts -- 
 
@@ -1548,719 +1548,120 @@ Code State or Province Code State or Province
 
 Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mont.; MT) Nebraska (Nebr.; NE) Lincoln 308,402 Nevada (Nev.; NV) Carson City 702,775 New Hampshire (N.H.; NH) Concord 603 New Jersey (N.J.; NJ) Trenton 201, 551,609,732,848, 856, 862,908,973 New Mexico Santa Fe 505 (N. Mex.; NM) &5 New York Albany 212,315,347,516,518,585,607,631,646, (N.Y.; NY) 716,718,845,914,917 North Carolina (N.C.;NC). Raleigh 252,336,704,828,910,919,980 North Dakota Bismarck 701 (N. Dak.; ND) Ohio Columbus 216,234,330,419,440,513,567, 614, cO.; OH) 740,937 Oklahoma Oklahoma City 405,580,918 (Okla.; 0K) Oregon Salem 503,541,971 (Ore.; OR) Pennsylvania Harrisburg 215,267,412,484,570,610,717,724, (Pa.; PA) 814,878 N•ode Island Providence 401 (R.I.; RI) South Carolina Columbia 803,843,864 (S.C.; SC) South Dakota *s Pierre 605 (S. Dak•, SD) Tennessee Nashville 423,615,731,865,901,931 (Tenn.; TN) Texas Austin 210,214,254,281,325,361,409,430,432, (Tex; TX) 469,512,682,713,806,817,830,832,903, 915,936,940,956, 972,979 Utah Salt Lake City 435, 801 (Ut.; UT) Vermont Montpelier 80? (Vt.; VI') Virginia Richmond 276,434, 540, 571,703,757,804 (Va.;VA) Washington Olympia 206,253, 360,425,509 (Wash.; WA) Vest Virginia (W. Va.; WV) Charleston 304 Wisconsin (Wis.;W1) Madison 262,414,608,715,920 Wyoming Cheyenne 307 (Wyo.;WY)  
 
-Commiry
-Afghanistan
-Albania
-Algeria
-Andorra
-Angola
-Antigua and
-Barbuda
-
-Argentina
-Armenia
-Australia
-Austria
-Azerbaijan
-Bahamas, The
-Bahrain
-Bangladesh
-Barbados
-
-Belgium
-
-Brazil
-
-Brunei
-
-Bulgaria
-
-Burkina Faso
-Burma (Myanmar)
-Burundi
-
-Cambodia
-Cameroon
-Canada
-
-Cape Verde
-Central African
-Republic
-
-Chad
-
-Chile
-
-Countries of the World
-Capital Continent/Area
-Kabul Asia
-Tirana Europe
-Algiers Africa
-Andorra la Vella Burope
-Luanda Africa
-Saint John’s North America
-Buenos Aires South America
-Yerevan Asia
-Canberra Australia
-Vienna Europe
-Baku Asia
-Nassau North America
-Manama Asia
-Dhaka Asia
-Bridgetown North America
-Minsk Europe
-Brussels _ Europe
-Belmopan North America
-Porto-Novo Africa
-Thimphu Asia
-La Paz; Sucre South America
-Sarajevo Europe
-Gaborone Africa
-Brasilia South America
-Bandar Seri Begawan Asia
-Sofia Europe
-Ouagadougou Africa
-Rangoon Asia
-Bujumbura Africa
-Phnom Penh Asia
-Yaoundé Africa
-Ottawa North American
-Praia Africa
-Bangui Africa
-N’Djamena Africa
-Santiago South America
-
- 
-
-Nationality
-Afghan
-Albanian
-Algerian
-Andorran
-Angolan
-Antiguan,
-Barbudan
-Argentine
-Armenian
-Australian
-Austrian
-Azerbaijani
-Bahamian
-Bahraini
-Bangaldeshi
-Barbadian
-Belarusian
-Belgian
-Belizean
-Beninese
-Bhutanese
-Bolivian
-Bosnian,
-H ie
-Motswana, sing.,
-Batswana, pl.
-Brazili
-Bruneian
-Bulgarian
-Burkinabe
-Burmese
-Burundian, n.;
-Burundi, adj.
-Cambodian
-Cameroonian
-Canadian
-Cape Verdean
-Central African
-
-Chadian
-Chilean
-
- 
-ES
-
-™
-
-804
-
-Country Capital Continent/Area eee
-
-Ghine Beijing Asia ne
-Colombia Bogota South America Colombian
-Comoros Moroni Africa Comoran
-
-Congo Brazzaville Africa Congolese ms
-
-Congolese vp
-
-Congo (Zaire) Kinshasa Africa o.
-
-Costa Rica San José North America Costa Rican
-
-Céte dIvoire Yamoussoukro Africa Ivorian
-
-(vory Coast)
-Croatia Zagreb Europe Croat, n,; Croatian, a7
-Cuba Havana North America Cuban +
-Cyprus Nicosia Europe Cypriot
-Czech Republic Prague Europe Czech
-Denmark Copenhagen Europe Dane, n. + Danish, adj
-Djibouti Djibouti Africa Djiboutian
-Dominica Roseau North America Dominican
-Dominican Santo Domingo North America Dominican
-Republic
-
-Ecuador Quito South America Ecuadorian
-
-Egypt Cairo Africa Egyptian
-
-El Salvador San Salvador North America Salvadoran
-Equatorial Guinea Malabo Africa Equatorial Guinean or
-
-Equatoguinean
-
-Eritrea Asmara Africa Eritrean
-
-Estonia Tallinn Europe Estonian
-
-Ethiopia Addis Ababa Africa Ethiopian
-
-Fiji Suva Oceania Fijian
-
-Finland Helsinki Europe Finn, n.; Finnish, adj.
-France Paris Europe French
-
-Gabon Libreville Africa Gabonese
-
-Gambia, The Banjul Africa Gambian
-
-Georgia Thilisi Asia Georgian
-
-Germany Berlin Europe German
-
-Ghana Accra Africa Ghanaian
-
-Greece Athens Europe Greek
-
-Grenada Saint George’s North America Grenadian
-Guatemala Guatemala North America Guatemalan
-Guinea Conakry Africa Guinean
-Guinea-Bissau Bissau Africa Guinea-Bissauan
-a Georgetown South America Guyanese
-
-Port-au-Prince North America Haitian
-
- 
- 
-
-_ ets
-
- 
-
-Capital Continent/Area
-Country Vatican City Europe
-Holy See Tegucigalpa North America
-Honduras Budapest Europe
-Hung javik Europe
-Iceland Rey
-: New Delhi Asia
-ES Jokarta Asia
-Indonesia %
-‘Tehran Asia
-Tran \ =
-a0 Baghdad Asia
-Ireland Dublin agian
-acl Jerusalem Asia
-Italy Rome Europe
-Ivory Coast(see
-Céte d’Ivoire)
-Jamaica Kingston North America Jamaican
-Japan Tokyo Asia Japanese
-Jordan Amman Asia Jordanian
-Kazakhstan Astana Asia Kazakhstani
-Kenya Nairobi Africa Kenyan
-Kiribati Tarawa Oceania LKiribati__
-Korea, North P’yongyang Asia North Korean
-Korea, South Seoul Asia South Korean
-Kuwait Kuwait Asia Kowaiti
-Kyrgyzstan Bishkek Asia Kyrgyz
-Laos Vientiane Asia Lao or Laotian
-Latvia Riga Europe Latvian or Lett
-Lebanon Beirut Asia Lebanese
-Lesotho Maseru Africa Mosotho, sing.;
-Basotho, pl.;
-co Basotho, adj.
-Liberia Monrovia Africa Liberian
-Libya Tripoli Africa Libyan
-Liechtenstein Vaduz Europe Liechtensteiner, 7.5
-7 . : Liechtenstein, adj.
-thuania Vilnius Europe Lithuanian
-Luxembourg Luxembourg Europe Luxembourger, 7.5
-hace Luxembourg, adj.
-lonia, The  — Skopj i
-Former Yagoelay pye Europe Macedonian
-Republic of
-Mala ars cae, Antananarivo Africa Malagasy r
-a Lilongwe Africa Malawian
-
-Malaysia Kuala Lumpur Asia Malaysian
- 
-
-Marshall Islands
-
-Mauritania
-Mauritius
-Mexico
-Micronesia,
-
-Federated States
-
-of
-Moldova
-Monaco
-
-Mongolia
-Montenegro
-Morocco
-
-Mozambique
-
-Myanmar
-(see Burma)
-Namibia
-Nauru
-Nepal
-Netherlands
-
-New Zealand
-
-Nicaragua
-Niger
-Nigeria
-Norway
-Oman
-Pakistan
-
-  
-  
-  
-  
- 
-  
-
-Paraguay
-Peru
-Philippines
-
-Poland
-Portugal
-Qatar
-
-  
-
-Papua New Guinea
-
-Capital
-Male
-Ramako
-Valletta
-Majuro
-Novakchort
-Port Louis
-Mexico
-Palikir
-
-Chisinau
-Monaco
-
-Ulaanbaatar
-Podgorica
-Rabat
-Maputo
-
-Windhoek
-Yaren District
-Kathmandu
-Amsterdam; The
-Hague
-
-Wellington
-
-Managua
-Niamey
-Abuja
-Oslo
-Muscat
-Islamabad
-Melekeok
-Panama
-Port Moresby
-Asuncion
-Lima
-Manila
-Warsaw
-
-Lisbon
-Doha
-
-Continent/Area
-Asia
-Africa
-
-Rurope
-Oceania
-Africa
-
-Europe
-Europe
-
-Europe
-Africa
-Africa
-
-Africa
-Oceania
-
-Europe
-
-Oceania
-
-North America
-
-Oceania
-
-North America
-Oceania
-
-South America
-South America
-Asia
-
-Europe
-Europe
-Asia
-
-Nationatiey
-Maldivian
-Malian
-Maltese
-Marshallese
-Mauritanian
-Mauritian
-Mexican
-Micronesian
-
-Moldovan
-Monacan or
-Monegasque
-Mongolian
-Montenegran
-Moroccan
-Mozambican
-
-Namibian
-
-Nauruan
-
-Nepalese
-
-Dutchman or
-Dutchwoman, n.;
-Dutch, adj.
-
-New Zealander, n.;
-New Zealand, adj.
-
-Nicaraguan
-
-Nigerien
-
-Nigerian
-
-Norwegian
-
-Omani
-
-Pakistani
-
-Palauan
-
-Panamanian
-
-Papua New Guinean
-
-Paraguayan
-
-Peruvian
-
-Filipino, 7.5
-oo adj.
-
-Pole, 1.3 Polish ad
-
-Portuguese
-
-Quatari
-
- 
- 
-
-Country
-
-Romania
-
-Russia
-
-Rwanda
-
-Saint Kitts and
-Nevis
-
-Saint Lucia
-
-Saint Vincent and
-the Grenadines
-
-San Marino
-
-Sao Tome and
-Princi
-
-Saudi Arabia
-
-Senegal
-Serbia
-
-Seychelles
-
-Sierra Leone
-Singapore
-
-Slovakia
-Slovenia
-
-Solomon Islands
-
-Somalia
-South Africa
-
-Spain
-Sri Lanka
-Sudan
-Suriname
-
-Swaziland
-Sweden
-
-Switzerland
-Syria
-Tajikistan
-Tanzania
-Thailand
-Togo
-Tonga
-
-Capital
-Bucharest
-Moscow
-
-Basseterre
-Castries
-Kingstown
-San Marino
-Sao Tome
-
-Riyadh
-
-Dakar
-Belgrade
-
-Victoria
-
-Freetown
-Singapore
-
-Bratislava
-Ljubljana
-
-Honiara
-
-Mogadishu
-Pretoria; Cape
-Town;
-Bloemfontein
-Madrid
-Colombo
-Khartoum
-Paramaribo
-
-Mbabane
-Stockholm
-
-Continent/Area
-Europe
-Europe & Asia
-Africa
-
-North America
-
-North America
-North America
-
-Europe
-Africa
-
-Europe
-
-Indian Ocean
-
-Africa
-
-Europe
-
-Asia
-
-Africa
-
-South America
-
-Africa
-Europe
-
-Tu
-
- 
-
-807
-Nationality
-Romanian
-Russian
-Rwandan
-Kittsian; Nevisian
-
-St. Lucian
-
-St. Vincentian or
-Vincentian
-
-Sammarinese
-Sao Tomean
-
-Saudi or Saudi
-Arabian
-Senegalese
-Serb, n.;
-Serbian, adj.
-Seychellois, n.;
-Seychelles, adj.
-Sierra Leonean
-Singaporean, n.;
-Singapore, adj.
-Slovak
-Slovene, n.;
-Slovenian, adj.
-Solomon
-Islander
-Somali
-South African
-
-Spanish
-
-Sri Lankan
-
-Sudanese
-
-Surinamer, n.;
-Surinamese, adj.
-
-Swazi
-
-Swede, n.5
-Swedish, adj.
-
-Swiss
-
-Syrian
-
-Tajik
-
-Tanzanian
-
-Thai
-
-Togolese
-
-Tongan
- 
-
-Country Capital
-Trinidad and Tobago Port-of-Spain
-Tunisia Tunis
-Turkey Ankara
-Turkmenistan Ashgabat
-Tuvalu Funafuti
-Uganda Kampala
-Ukraine Kiev
-United Arab Abu Dhabi
-Emirates
-United Kingdom _ London
-United States Washington, DC
-Uruguay Montevideo
-Uzbekistan Tashkent
-Vanuatu Port-Vila
-Venezuela Caracas
-Viemam Hanoi
-Western Samoa Apia
-Yemen Sanaa
-Zambia Lusaka
-Zimbabwe Harare
-
- 
-
-Continent/Area
-South America
-
-Africa
-
-Asia & Europe
-Asia
-
-Oceania
-Africa
-
-Europe
-
-Africa
-
-Europe
-
-North America
-South America
-Asia
-
-Oceania
-
-South America
-Asia
-
-Asia
-Africa
-Africa
-
- 
-
-Briton, n.; British,
-collective pl. & adj.
-American
-
-Uruguayan
-Uzbek
-Ni-Vanuatu
-Venezuelan
-Vietnamese
-Western Samoan
-Yemeni
-Zambian
-Zimbabwean
+
+
+## Countries of the World
+
+|Country                    | Capital             |Continent/Area   | Nationality|
+|---------------------------|---------------------|-----------------|-------------|
+|Afghanistan                |Kabul                |  Asia           | Afghan|
+|Albania                    |Tirana               | Europe          | Albanian|
+|Algeria                    |Algiers              | Africa          |Algerian|
+|Andorra                    |Andorra              | Europe          |Andorran |
+|Angola                     | Luanda              | Africa          |Angolan |
+|Antigua and Barbuda        |Saint John's         | North America   | Antiquan, Barbadian|
+|Argentine                  |Buenos Aires         | South America   |Argentina|
+|Armenia                    |Yerevan              | Asia            |Armenian|
+|Australia                  |Canberra             | Australia       |Australian|
+|Austria                    |Vienna               | Europe          |Austrian|
+|Azerbaijan                 |Baku                 | Asia            |Azerbaijani|
+|Bahamas, The               |Nassau               | North America   |Bahamian|
+|Bahrain                    | Manama              | Asia            |Bahraini |
+|Bangladesh                 |Dhaka                | Asia            |Bangaldeshi|
+|Barbados                   |Bridgetown           | North America   |Barbadian|
+|Belarus                    |Minsk                | Europe          | Belarusian|
+|Belgium                    |Brussels             | Belgian         | Belgian|
+|Belize                     |Belmopan             | North America   | Belizean|
+|Benin                      | Porto-Novo          | Afirca          |Beninese|
+|Bhutan                     |Thimphu              | Asia            | Bhutanese|
+|Bolivia                    |La Paz; Sucre        | South America   | Bolivian |
+|Bosnia and Herzegovina     |Sarajevo             | Europe          | Bosnian, Herzegovinian |
+|Botswana                   |Goborone             | Africa          | Motswana, sing., Batswana, pl.|
+|Brazil                     |Brasilia             | South Ameirca   | Brazilian|
+|Brunei                     |Bandar Seri Begawana | Asia            | Bruneian|
+|Bulgaria                   |Sofia                | Europe          |Burmese|
+|Burkina Faso               |Ouagadougou          | Africa          |Bukinabe|
+|Burma (Myanmar)            |Rangoon              | Asia            |Burmese|
+|Burundi                    | Bujumbura           | Africa          | Burundian, n.; Burundi, adj.|
+|Cambodia                   |Phnom Penh           | Asia            |Cambodian|
+|Cameroon                   | Yaounde             | Africa          |Cameroonian|
+|Canada                     | Ottowa              | North America   | Canadian|
+|Cape Verde                 | Praia               | Africa          |Cape Verdean|
+|Central African Republic   |Bangui               | Africa          |Central African|
+|Chad                       |N'Djamena            | Africa          |Chadian|
+|Chile                      | Santiago            | South america   |Chilean|
+|China                      |Beijing              |Asia             |Chinese          |
+|Colombia                   |Bogota               |South America    |Colombian |
+|Comoros                    |Moroni               |Africa           |Comoran||
+|Congo                      |Brazzaville          |Africa           |Congolese, n.; Congolese or Congo, adj.|
+|Congo (Zaire)              |Kinshasa             |Africa|          | |
+|Costa Rica                 |San José             |North America    |Costa Rican|
+|Cote d'Ivoire (Ivory Coast)|Yamoussoukro         |Africa           |Ivorian|
+|Croatia                    |Zagreb               |Europe           |Croat, n.; Croatian, adj.|
+|Cuba                       |Havana               |North America    | Cuban|
+|Cyprus                     |Nicosia              |Europe           | Cypriot|
+|Czech Republic             |Prague               |Europe           | Czech|
+|Denmark                    |Copenhagen           |Europe           | Dane, n.; Danish, adj.|
+|Djibouti                   |Djibouti             |Africa           | Djiboutian|
+|Dominica                   |Roseau               |North America    | Dominican|
+|Dominican Republic         |Santo Domingo        |North America    | Dominican|
+|Ecuador                    |Quinto               |South America    | Ecuadorian|
+|Egypt                      |Cairo                |Africa           | Egyptian|
+|El Salvador                |San Salvador         |North America    | Salvadoran|
+|Equatorial Guinea          |Malabo               |Africa           | Equatorial Guinean or Equatoguinean|
+|Eritrea                    |Asmara               |Africa           | Eritrean |
+|Estonia                    |Tallinn              |Europe           |Estonian|
+|Ethiopia                   |Addis Ababa          |Africa           |Ethiopian|
+|Fiji                       |Suva                 |Oceania          |Fijian|
+|Finland                    |Helsinki             |Europe           |Finn, n.; Finnish, adg.|
+|France                     |Paris                |Europe           |French|
+|Gabon                      |Libreville           |Africa            |Gabonese|
+|Gambia, The                |Banjul               |Africa           |Gambian|
+|Georgia                    |Tbilisi              |Asia             |Georgian|
+|Germany                    |Berlin               |Europe           |German|
+|Ghana                      |Accra                |Africa           |Ghanaian|
+|Greece                     |Athens               |Europe           |Greek|
+|Grenada                    |Saint George's       |North America    |Grenadian|
+|Guatemala                  |Guatemala            |North America    |Guatemalan|
+|Guinea                     |Conakry              |Africa           |Guinean|
+|Guinea-Bissau              |Bissau               |Africa           |Guinea-Bissauan|
+|Guyana                     |Georgetown           |South America    |Guyanese|
+|Haiti                      |Port-au-Prince       |North America    |Haitian|
+|Holy See                   |Vatican City|Europe||
+|Honduras                   |Tegucigalpa|North America|Honduran |
+|Hungary                    |Budapest|Europe|Hungarian|
+|Iceland                    |Reykjavik|Europe|Icelander, n.; Icelandic, adj.|
+|India                      |New Delhi|Asia|Indian|
+|Indonesia                  |Jakarta|Asia | Indonesian|
+|Iran|Tehran |Asia|Iranian|
+|Iraq |Baghdad|Asia |Iraqi|
+|Ireland|Dublin|Europe|Irish|
+|Israel|Jerusalem|Asia|Israeli|
+|Italy|Rome|Europe|Italian|
+|Ivory Coast(see Cöte d'Ivoire)||||
+|Jamaica|Kingston|North America|Jamaican |
+|Japan|Tokyo|Asia |Japanese|
+|Jordan|Amman|Asia|Jordanian|
+|Kazakhstan|Astana|Asia|Kazakhstani|
+|Kenya|Nairobi|Africa|Kenyan|
+|Kiribati|Tarawa |Oceania|I-Kiribati|
+|Korea, North (DPRK)|P'yongyang|Asia|North Korean|
+|Korea, South|Seoul|Asia|South Korean|
+|Kuwait|Kuwait|Asia|Kuwaiti|
+|Kyrgyzstan|Bishkek |Asia|Kyrgyz|
+|Laos|Vientiane|Asia|Lao or Laotian|
+|Latvia|Riga|Europe|Latvian or Lett|
+|Lebanon|Beirut|Asia|Lebanese|
+|Lesotho|Maseru|Africa|Mosotho, sing.; Basotho, pl.; Basotho, adj.|
+|Liberia|Monrovia|Africa|Liberian|
+|Libya|Tripoli |Africa|Libyan|
+|Liechtenstein|Vaduz|Europe|Leiechtensteiner, n.; Liechtenstein, adj.|
+|Lithuania|Vilnius|Europe|Lithuanian|
+|Luxembourg|Luxembourg|Europe|Luxembourger, n.; Luxembourg, adj.|
+|Macedonia, The Former Yugoslav Republic of|Skopje|Europe|Macedonian|
+|Madagascar|Antananarivo|Africa|Malagasy|
+|Malawi|Lilongwe|Africa|Malawian|
+|Malaysia|Kuala Lumpur|Asia|Malaysian|
  
 
 ## Time Periods
