@@ -1662,7 +1662,41 @@ Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mo
 |Madagascar|Antananarivo|Africa|Malagasy|
 |Malawi|Lilongwe|Africa|Malawian|
 |Malaysia|Kuala Lumpur|Asia|Malaysian|
- 
+|Maldives|Male|Asia|Maldivian|
+|Mali|Bamako|Africa|Malian|
+|Malta|Valletta|Europe |Maltese|
+|Marshall Islands|Majuro|Oceania|Marshallese|
+|Mauritania|Nouakchott|Africa|Mauritanian|
+|Mauritius|Port Louis|Africa|Mauritian|
+|Mexico|Mexico|North America|Mexican|
+|Micronesia, Federated States of|Palikir|Oceania|Micronesian|
+|Moldova|Chisinau|Europe|Moldovan|
+|Monaco|Monaco|Europe|Monacan or Monegasque|
+|Mongolia|Ulaanbaatar|Asia|Mongolian|
+|Montenegro|Podgorica|Europe|Montenegran|
+|Morocco|Rabat|Africa |Moroccan|
+|Mozambique|Maputo|Africa|Mozambican|
+|Myanmar (see Burma)| | | |
+|Namibia|Windhoek|Africa|Namibian|
+|Nauru|Yaren District|Oceania|Nauruan|
+|Nepal|Kathmandu|Asia|Nepalese|
+|Netherlands|Amsterdam; The Hague|Europe|Dutchman or Dutchwoman, Dutch, adj.|
+|New Zealand|Wellington|Oceania|New Zealander, n.; New Zealand, adj.|
+|Nicaragua|Managua|North America|Nicaraguan|
+|Niger|Niamey|Africa| Nigerien|
+|Nigeria|Abuja|Africa|Nigerian |
+|Norway|Oslo|Europe|Norwegian|
+|Oman|Muscat|Asia|Omani|
+|Pakistan|Islamabad|Asia|Pakistani|
+|Palau|Melekeok|Oceania|Palauan|
+|Panama|Panama|North America|Panamanian|
+|Papua New Guinea| Port Moresby|Oceania|Papua New Guinean|
+|Paraguay|Asuncion|South America|Paraguayan|
+|Peru|Lima| South America|Peruvian|
+|Philippines|Manila|Asia|Filipino, n.; Philippine, adj.|
+|Poland|Warsaw|Europe|Pole, n.; Polish, adj.|
+|Portugal|Lisbon|Europe|Portuguese|
+|Qatar|Doha|Asia|Quatari|
 
 ## Time Periods
 
