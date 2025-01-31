@@ -1592,9 +1592,9 @@ Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mo
 |Chile                      | Santiago            | South america   |Chilean|
 |China                      |Beijing              |Asia             |Chinese          |
 |Colombia                   |Bogota               |South America    |Colombian |
-|Comoros                    |Moroni               |Africa           |Comoran||
+|Comoros                    |Moroni               |Africa           |Comoran|
 |Congo                      |Brazzaville          |Africa           |Congolese, n.; Congolese or Congo, adj.|
-|Congo (Zaire)              |Kinshasa             |Africa|          | |
+|Congo (Zaire)              |Kinshasa             |Africa|          | 
 |Costa Rica                 |San José             |North America    |Costa Rican|
 |Cote d'Ivoire (Ivory Coast)|Yamoussoukro         |Africa           |Ivorian|
 |Croatia                    |Zagreb               |Europe           |Croat, n.; Croatian, adj.|
@@ -1627,7 +1627,7 @@ Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mo
 |Guinea-Bissau              |Bissau               |Africa           |Guinea-Bissauan|
 |Guyana                     |Georgetown           |South America    |Guyanese|
 |Haiti                      |Port-au-Prince       |North America    |Haitian|
-|Holy See                   |Vatican City|Europe||
+|Holy See                   |Vatican City|Europe|
 |Honduras                   |Tegucigalpa|North America|Honduran |
 |Hungary                    |Budapest|Europe|Hungarian|
 |Iceland                    |Reykjavik|Europe|Icelander, n.; Icelandic, adj.|
@@ -1638,7 +1638,7 @@ Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mo
 |Ireland|Dublin|Europe|Irish|
 |Israel|Jerusalem|Asia|Israeli|
 |Italy|Rome|Europe|Italian|
-|Ivory Coast(see Cöte d'Ivoire)||||
+|Ivory Coast(see Cöte d'Ivoire)| | | |
 |Jamaica|Kingston|North America|Jamaican |
 |Japan|Tokyo|Asia |Japanese|
 |Jordan|Amman|Asia|Jordanian|
@@ -1697,6 +1697,57 @@ Missouri (MO; MO) Jefferson City 314, 4/7,573,636,660,816 Montana Helena 406 (Mo
 |Poland|Warsaw|Europe|Pole, n.; Polish, adj.|
 |Portugal|Lisbon|Europe|Portuguese|
 |Qatar|Doha|Asia|Quatari|
+|Romania|Bucharest|Europe|Romanian|
+|Russia|Moscow|Europe & Asia|Russian|
+|Rwanda|Kigali|Africa|Rwandan|
+|Saint Kitts and Nevis|Basseterre|North America|Kittsian; Nevisian|
+|Saint Lucia|Castries|North America |St. Lucian|
+|Saint Vincent and the Grenadines|Kingstown|North America|St. Vincentian or Vincentian|
+|San Marino|San Marino|Europe |Sammarinese |
+|Sao Tome and Principe|Sao Tome|Africa|Sao Tomean|
+|Saudi Arabia|Riyadh|Asia|Saudi or Saudi Arabian |
+|Senegal |Dakar|Africa|Senegalese|
+|Serbia|Belgrade|Europe|Serb, n. ; Serbian, adj.|
+|Seychelles|Victoria|Indian Ocean|Seychellois, n; Seychelles, adj.|
+|Sierra Leone |Freetown|Africa|Sierra Leonean|
+|Singapore|Singapore|Asia|Singaporean, n.; Singapore, adj.|
+|Slovakia|Bratislava |Europe|Slovak|
+|Slovenia|Ljubljana|Europe|Slovene, n.; Slovenian, adj.|
+|Solomon Islands|Honiara|Oceania|Solomon Islander|
+|Somalia|Mogadishu|Africa|Somali|
+|South Africa|Pretoria; Cape Town; Bloemfontein|Africa|South African|
+|Spain|Madrid|Europe|Spanish|
+|Sri Lanka |Colombo|Asia|Sri Lankan|
+|Sudan|Khartoum|Africa|Sudanese|
+|Suriname|Paramaribo| South America|Surinamer, n.; Surinamese, adj.|
+|Swaziland|Mbabane|Africa|Swazi|
+|Sweden|Stockholm|Europe|Swede, n.; Swedish, adj.|
+|Switzerland|Bern|Europe |Swiss|
+|Syria|Damascus|Asia| Syrian|
+|Tajikistan   |Dushanbe|Asia|Tajik|
+|Tanzania|Dar es Salaam|Africa |Tanzanian|
+|Thailand|Bangkok|Asia|Thai|
+|Togo|Lome|Africa|Togolese|
+|Tonga|Nuku'alofa|Oceania|Tongan|
+|Trinidad and Tobago |Port-of-Spain|South America|Trinidadian; Tobagonian|
+|Tunisia|Tunis|Africa|Tunisian|
+|Turkey|Ankara  |Asia & Europe|Turk, n.;Turkish, adj.|
+|Turkmenistan|Ashgabat|Asia |Turkmen |
+|Tuvalu|Funafuti|Oceania|Tuvaluan|
+|Uganda|Kampala|Africa|Ugandan|
+|Ukraine|Kiev|Europe |Ukrainian |
+|United Arab Emirates|Abu Dhabi|Africa|Emirian|
+|United Kingdom|London|Europe|Briton, n.; British, collective pl. & adj.|
+|United States|Washington, DC|North America|American |
+|Uruguay|Montevideo|South America|Uruguayan|
+|Uzbekistan|Tashkent |Asia|Uzbek|
+|Vanuatu|Port-Vila|Oceania|Ni-Vanuatu|
+|Venezuela|Caracas|South America|Venezuelan|
+|Vietnam|Hanoi|Asia|Vietnamese|
+|Western Samoa|Apia|Oceania|Western Samoan|
+|Yemen|Sanaa |Asia|Yemeni|
+|Zambia|Lusaka|Africa|Zambian|
+|Zimbabwe|Harare|Africa|Zimbabwean|
 
 ## Time Periods
 
