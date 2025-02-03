@@ -21,7 +21,7 @@ Leaders and Rulers --
 Area Codes -- 
 [Countries of the World](#countries-of-the-world) -- 
 [Time Periods](#time-periods) -- 
-Weddng Anniversary Gifts -- 
+[Weddng Anniversary Gifts](#wedding-anniversary-gifts)
 
 ## Standard Weights and Measures with Metric Equivalents
 
@@ -1826,71 +1826,31 @@ year 52 weeks
  
 ## Wedding Anniversary Gifts
 
-Ist
-2nd
-3rd
-4th
-
-5th
-6th
-7th
-8th
-9th
-10th
-
-11th
-
-12th
-
-13th
-14th
-15th
-20th
-25th
-30th
-35th
-40th
-45th
-50th
-55th
-60th
-
-CS
-
-Wedding Anniversary Gifts
-Traditional Modern
-(alternative)
-Paper Clocks
-Cotton China
-eames Crystal, Glass
-Flowers, Linen Electrica]
-applianc
-Wood Silverware a
-Iron Wood
-Wool Desk sets
-Bronze Linen, Lace
-Pottery (china) Leather
-Tin, Aluminum Diamond,
-Jewelry
-Steel Fashion, Jewelry,
-Accessories
-Silk Pearls or Colored
-gems
-Lace Textiles, Furs
-Ivory Gold jewelry
-Crystal Watches
-China Platinum
-Silver. Silver
-Pearl Diamond
-Coral Jade
-Ruby Ruby
-Sapphire Sapphire
-Gold Gold
-Emerald Emerald
-Diamond Diamond
-Diamond Diamond
-
-75th
-
-1
+|Year|Traditional|Modern (Alternative)|
+|---|---|---|
+|1st|Paper|Clocks|
+|2nd|Cotton|China|
+|3rd|Leather|Crystal, Glass|
+|4th|Flowers, Linen|Electrical appliances|
+|5th|Wood|Silverware|
+|6th|Iron|Wood|
+|7th|Wool|Desk sets|
+|8th|Bronze|Linen, Lace|
+|9th|Pottery (china)|Leather|
+|10th|Tin, Aluminum|Diamond, Jewelry|
+|11th|Steel|Fashion, Jewelry, Accessories|
+|12th|Silk|Pearls or Colored gems|
+|13th|Lace|Textiles, Furs|
+|14th|Ivory|Gold jewelry|
+|15th|Crystal|Watches|
+|20th|China|Platinum|
+|25th|Silver |Silver|
+|30th|Pearl|Diamond|
+|35th|Coral|Jade|
+|40th|Ruby|Ruby|
+|45th|Sapphire|Sapphire|
+|50th|Gold|Gold|
+|55th|Emerald|Emerald|
+|60th|Diamond|Diamond|
+|75th|Diamond|Diamond|
 
