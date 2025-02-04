@@ -6,7 +6,7 @@
 [Conversion from Metric to Standard Measurements](#conversion-from-metric-to-standard-measurements) -- 
 Signs and Symbols -- 
 [Temperature](#temperature) -- 
-Heat Index -- 
+[Heat Index](#heat-index) -- 
 [Windchill Temperatures](#windchill-temperatures) -- 
 [Mathematical Notation](#mathematical-notation) -- 
 [Multiplication Tables](#multiplication-tables) -- 
@@ -323,30 +323,25 @@ Kelvin: Water boils at 373.15 K and freezes at 273.15 K,
 |80°    |176°      |100°      |37.6°  |
 |90°    |194°      |212°      |100.0° |
 |100°   |212°      |          |       |
- 
-# Heat Index
 
-As humidity increases, the air at a given temperature feels warmer. The combination
-P of heat and high humidity reduces the body’s natural ability to cool itself. For
+## Heat Index
 
-example, when the actual temperature is 85 degrees Fahrenheit with a relative
-humidity of 80 percent, the air feels like dry air at 97 degrees.
+As humidity increases, the air at a given temperature feels warmer. The combination of heat and high humidity reduces the body’s natural ability to cool itself. For example, when the actual temperature is 85 degrees Fahrenheit with a relative humidity of 80 percent, the air feels like dry air at 97 degrees.
 
-110 115 120
-
-99 103 107
-105 ill 116
-112 120 130
-123 120 148
-137 135
-
- 
-  
-
-71 78 86 97 113 136
-
-  
-   
+||70|75|80|85|90|95|100|105|110|115|120|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|Humidity (0%)||||||||||||
+|0|64|69|73|78|83|87|91|95|99|103|107|
+|10|65|70|75|80|85|90|95|100|105|111|116|
+|20|66|72|77|82|87|93|99|105|112|120|130|
+|30|67|73|78|84|90|96|104|113|123|120|148|
+|40|68|74|79|86|93|101|110|123|137|135||
+|50|69|75|81|88|96|107|120|135|150|||
+|60|70|76|82|90|100|114|132|149||||
+|70|70|77|85|93|106|124|144|||||
+|80|71|78|86|97|113|136||||||
+|90|71|79|88|102|122|||||||
+|100|72|80|91|108||||||||
 
 ##  Windchill Temperatures
 The chart below illustrates the effect of wind speed on perceived air temperature. “Windchill,” or the perceived feeling of coldness of the air, increases with higher wind speed. Wind speed in miles per hour in the left columns
