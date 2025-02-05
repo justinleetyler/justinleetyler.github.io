@@ -13,7 +13,7 @@ Signs and Symbols --
 [Arabic and Roman Numerals](#arabic-and-roman-numerals) -- 
 Greek Alphabet -- 
 [Books of the Bible](#books-of-the-bible) -- 
-Terms for Groups of Animals, etc. -- 
+[Terms for Groups of Animals, etc.](#terms-for-groups-of-animals-etc) -- 
 [Chemical Elements](#chemical-elements) -- 
 [Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
 Leaders and Rulers -- 
@@ -710,57 +710,43 @@ Epistle of Jude (Jude)
 
 Revelation (Rev., Apoc.)
 
-## Terms for Groups of Animals, etc, Hf |
+## Terms for Groups of Animals, etc.
 
-Terms marked + belong to 15th-c. lists of “proper terms,” notably that in the
-Book of St. Albans attributed to Dame Juliana Barnes (1486). Many of these are
-fanciful or humorous terms which probably never had any real currency, but
+Terms marked + belong to 15th-c. lists of “proper terms,” notably that in the Book of St. Albans attributed to Dame Juliana Barnes (1486). Many of these are fanciful or humorous terms which probably never had any real currency, but have been taken up by Joseph Strutt in ***Sports and Pastimes of England*** (1801) and by other antiquarian writers.
 
-have been taken up by Joseph Strutt in Sports and Pastimes of England (1801
+a +shrewdness of apes
 
-and by other antiquarian writers.
+a herd or +pace of asses
 
-a tshrewdness of apes
+a +cete of badgers
 
-a herd or tpace of asses
+a +sloth or +sleuth of bears
 
-a tcete of badgers
+a hive of bees; a swarm, drift, or bike of bees
 
-a tsloth or jsleuth of bears
-
-a hive of bees; a swarm, drift, or
-bike of bees
-
-a flock, flight, (dial) parcel, pod (=
-small flock), }fleet, or
-tdissimulation of (small) birds; a
-volary of birds in an aviary
+a flock, flight, (dial.) parcel, pod (=small flock), +fleet, or +dissimulation of (small) birds; a volary of birds in an aviary
 
 a sounder of wild boar
 
-a tblush of boys
+a +blush of boys
 
 a herd or gang of buffalo
 
-a tclowder or fglaring of cats; a
-tdowt or tdestruction of wild cats
+a +clowder or +glaring of cats; a +dowt or +destruction of wild cats
 
-a herd, drove, (dial.) drift, or
-(Austral.) mob of cattle
+a herd, drove, (dial.) drift, or (Austral.) mob of cattle
 
-a brood, (dial.) cletch or clutch, or
-tpeep of chickens
+a brood, (dial.) cletch or clutch, or +peep of chickens
 
-a tchattering or {clattering of
-choughs
+a +chattering or +clattering of choughs
 
-a tdrunkship of cobblers
+a +drunkship of cobblers
 
-a trag or trake of colts
+a +rag or +rake of colts
 
-a thastiness of cooks
+a =hastiness of cooks
 
-a tcovert of coots
+a +covert of coots
 
 a herd of cranes
 
@@ -768,7 +754,7 @@ a litter of cubs
 
 a herd of curlew
 
-a tcowardice of curs
+a +cowardice of curs
 
 a herd or mob of deer
 
@@ -776,12 +762,9 @@ a pack or kennel of dogs
 
 a trip of dotterel
 
-a flight, tdole, or tpiteousness of
-doves
+a flight, +dole, or +piteousness of doves
 
-a raft, bunch, or tpaddling of ducks
-on water; a team of wild ducks in
-flight
+a raft, bunch, or +paddling of ducks on water; a team of wild ducks in flight
 
 a fling of dunlins
 
@@ -789,21 +772,19 @@ a herd of elephants
 
 a herd or gang of elk
 
-a Tbusiness of ferrets
+a +business of ferrets
 
-a charm or tchirm of finches
+a charm or +chirm of finches
 
-a shoal of fish; a run of fish in
-motion
+a shoal of fish; a run of fish in motion
 
 a cloud of flies
 
-a tstalk of foresters
+a +stalk of foresters
 
-a tskulk of foxes
+a +skulk of foxes
 
-a gaggle or (in the air) a skein, team,
-or wedge of geese
+a gaggle or (in the air) a skein, team, or wedge of geese
 
 a herd of giraffes
 
@@ -811,19 +792,17 @@ a flock, herd, or (dial.) trip of goats
 
 a pack or covey of grouse
 
-a Thusk or ¢down of hares
+a +husk or +down of hares
 
 a cast of hawks let fly
 
-an tobservance of hermits
+an +observance of hermits
 
-a tsiege of herons
+a +siege of herons
 
-a stud or tharas of (breeding)
-horses; a (dial.) team of horses
+a stud or +haras of (breeding) horses; a (dial.) team of horses
 
-a kennel, pack, cry, or tmute of
-hounds
+a kennel, pack, cry, or +mute of hounds
 
 a flight or swarm of insects
 
@@ -832,103 +811,109 @@ a mob or troop of kangaroos
 a kindle of kittens
 
 a bevy of ladies
-a tdesert of lapwing
-an texultation or bevy of larks
 
-a tleap of leopards
+a +desert of lapwing
 
- 
+an +exultation or bevy of larks
+
+a +leap of leopards
 
 a pride of lions
 
-ff
-“"y
+a +tiding of magpipes
 
- 
-ae al ies
-in ane suit) of mallard
-: frichesse of martens
-a faith of merchants
-a tlabor of moles
+a +sord of +sute (=suit) of mallard
+
+a +richesse of martens
+
+a +faith of merchants
+
+a +labor of moles
+
 a troop of monkeys
-a tbarren of mules
-a twatch of nightingales
-a tsuperfluity of nuns
+
+a +barren of mules
+
+a +watch of nightingales
+
+a +superfluity of nuns
+
 a covey of partridges
-a ¢muster of peacocks
-a tmalapertness (= impertinence) of
-peddlers
+
+a +muster of peacocks
+
+a +malapertness (= impertinence) of peddlers
+
 a rookery of penguins
+
 a head or (dial.) nye of pheasants
-a kit of pigeons flying together ’
+
+a kit of pigeons flying together 
+
 a herd of pigs
-a stand, wing, or congregation of
-plovers
+
+a +stand, wing, or +congregation of plovers
+
 a rush or flight of pochards
+
 a herd, pod, or school or porpoises
-a tpity of prisoners
+
+a +pity of prisoners
+
 a covey of ptarmigan
+
 a litter of pups
+
 a bevy or drift of quail
+
 a string of racehorses
-an tunkindness of ravens
+
+an +unkindness of ravens
+
 a bevy of roes
 
-793
+a parliament or +building of rooks
 
-a parliament or tbuilding of rooks
 a hill of ruffs
-a herd or rookery of seals; a pod (=
-small herd) of seals
-a flock, herd, (dial.) drift or trip, or
-(Austral.) mob of sheep
-a tdopping of sheldrake
-a wisp or twalk of snipe
-a thost of sparrows
-a ¢murmuration of starlings
+
+a herd or rookery of seals; a pod (=small herd) of seals
+
+a flock, herd, (dial.) drift or trip, or (Austral.) mob of sheep
+
+a +dopping of sheldrake
+
+a wisp or +walk of snipe
+
+a +host of sparrows
+
+a +murmuration of starlings
+
 a flight of swallows
-a game or herd of swans; a wedge of
-swans in the air
-a herd of swine; a sounder of tame
-swine, a tdrift of wild swine
-a tglozing (= fawning) of taverners
-a tspring of teal
+
+a game or herd of swans; a wedge of swans in the air
+
+a herd of swine; a +sounder of tame swine, a +drift of wild swine
+
+a +glozing (= fawning) of taverners
+
+a +spring of teal
+
 a bunch or knob of waterfowl
-a school, herd, or gam of whales; a
-pod (= small school) of whales; a
-grind of bottle-nosed whales
+
+a school, herd, or gam of whales; a pod (= small school) of whales; a grind of bottle-nosed whales
+
 a company or trip of widgeon
-a bunch, trip or plump of wildfowl;
-a knob (less than 30) of wildfowl
-a pack or trout of wolves
+
+a bunch, trip or plump of wildfowl; a knob (less than 30) of wildfowl
+
+a pack or +rout of wolves
+
 a gaggle of women (derisive)
-a ffall of woodcock
+
+a +fall of woodcock
+
 a herd of wrens
  
-
-102
-76
-
-oflessaansze
-
-to a
-i
-
-i Pttnesgist ei xeas Pisses
-
-tidhandballidtdaaiediitill ’
-
-a8
-=
-
-“a
-
-Nd
-
-2222272280 n tk eiucbag c
-
-Ui eee serome. TE. penn ch weeuaee ices eet gor
-
 ## Chemical Elements
 
 |Element  |Symbol  |Atomic Number  |
