@@ -16,7 +16,7 @@ Greek Alphabet --
 [Terms for Groups of Animals, etc.](#terms-for-groups-of-animals-etc) -- 
 [Chemical Elements](#chemical-elements) -- 
 [Presidents of the United States of America](#presidents-of-the-united-states-of-america) -- 
-Leaders and Rulers -- 
+[Leaders and Rulers](#leaders-and-rulers) -- 
 [States of the United States of America](#states-of-the-united-states-of-america) -- 
 Area Codes -- 
 [Countries of the World](#countries-of-the-world) -- 
@@ -1128,160 +1128,121 @@ a herd of wrens
 
 ## Leaders and Rulers
 
-gh-ranking official of the Ottoman
+**aga** high-ranking official of the Ottoman Empire 
 
-aga hi
-afaee chiet magistrate of ancient Athens
+**Archon** chief magistrate of ancient Athens 
 
-Asantehene paramount chief of the Ash-
-anti people of West Africa
+**Asantehene** paramount chief of the Ashanti people of West Africa 
 
-ataman/hetman Cossack chief
+**amman/hetman** Cossack chief 
 
-tollah highest ranking religious leader
+**ayatollah** highest ranking religious leader of the Shiite branch of Islam 
 
-of the Shiite branch of Islam ;
+**bey/beg** provincial governor or other high official in the Ottoman Empire 
 
-bey/beg provincial governor or other high
-official in the Ottoman Empire '
+**cacique** chief of a Native American tribe in Latin America; local political boss in Latin America
 
-cacique chief of a Native American tribe
-in Latin America; local political boss in
-Latin America
+**Caesar** Roman emperor; any powerful or dictatorial leader 
 
-Caesar Roman emperor; any powerful or
-dictatorial leader
+**caliph** ruler of a Muslim state 
 
-caliph ruler of a Muslim state
+**capo** divisional leader in the Mafia 
 
-capo divisional leader in the Mafia
+**caudillo** Spanish military dictator 
 
-caudillo Spanish military dictator
+**chancellor** chief government minister in some parliamentary systems; high university offcial 
 
-chancellor chief government minister in
-some parliamentary systems; high uni-
-versity official
+**chogyal** ruler of Sikkim 
 
-chogyal ruler of Sikkim
+**collector** chief administrative officer of a district of India during British rule 
 
-collector chief administrative officer of a
-district of India during British rule
+**consul** chief offcial or magistrate in the ancient Roman Republic, ruling in a pair 
 
-consul chief official or magistrate in the
-ancient Roman Republic, ruling in a pair
+**czar, tsar** emperor of Russia in former times
 
-czar, tsar emperor of Russia in former
+**Dalai Lama** leader of Tibetan Buddhists 
 
-times
-Dalai Lama leader of Tibetan Buddhists
-dey Turkish governor or commander in
-Algeria in former times
-doge chief magistrate of the old republics
-of Venice and of Genoa
-duce leader (Italian), esp. B. Mussolini
-emir Muslim prince, chieftain, or gover-
-nor in the Middle East
-emperor ruler of an empire
-fugleman political leader; formerly, a
-leader or demonstrator in military drill
-Fiihrer leader (German), esp. A. Hitler
-Gauleiter district governor in Nazi Ger-
-many
-governor chief executive officer of a U.S.
-state government
-imam Muslim religious leader
-kabaka former ruler of the Baganda peo-
-ple of Uganda
-Holy Roman emperor, Austro-
-Hungarian emperor, or German em-
-Peror
-khan/cham medieval emperor or ruler in
-China or central Asia
-Khedive viceroy in t duri
-tiod of Ottoman oman nee Mee
-male ruler of a monarchy
+**dey** Turkish governor or commander in Algeria in former times 
 
- 
+**doge** chief magistrate of the old republics of Venice and of Genoa 
 
-maharajah a ruling prince of India
+**duce** leader (Italian), esp. B. Mussolini 
 
-mandarin senior civil servant in imperial
-China; any powerful and relatively inde-
-pendent official
+**emir** Muslim prince, chieftain, or governor in the Middle East 
 
-mikado, Tenno emperor of Japan
+**emperor** ruler of an empire 
 
-Mogul Mongol ruler of India (1526-
-1857)
+**fugleman** political leader; formerly, a leader or demonstrator in military drill 
 
-nawab Muslim prince or ruler in India in
-former times
+**Fuhrer** leader (German), esp. A. Hitler 
 
-nizam former ruler of Hyderabad
+**Gauleiter** district governor in Nazi Germany 
 
-pasha former provincial governor in the
-Ottoman Empire
+**governor** chief executive officer of a U.S. state government 
 
-pharaoh hereditary sovereign in ancient
-Egypt
+**imam** Muslim religious leader 
 
-premier prime minister
+**kabaka** former ruler of the Baganda people of Uganda
 
-president chief executive officer of a re-
-public or corporation
+**kaiser** Holy Roman emperor, Austro-Hungarian emperor, or German emperor 
 
-prime minister leading government offi-
-cial or top cabinet official, esp. in parlia-
-mentary governments
+**khan/cham** medieval emperor or ruler in China or central Asia 
 
-queen female ruler of a monarchy, or wife
-of a king
+**khedive** viceroy in Egypt during the period of Ottoman control 
 
-sachem,sagamore Native American trib-
-al chief in North America
+**king** male ruler of a monarchy
 
-satrap provincial governor in ancient Per-
-sia; any dictatorial minor ruler
+**maharajah** a ruling prince of India 
 
-shah former ruler of Iran
+**mandarin** senior civil servant in imperial China; any powerful and relatively independent official 
 
-sheikh leader of an Arab tribe or village;
-Muslim religious leader
+**mikado, Tenno** emperor of Japan
 
-shogun Japanese military commander, es-
-pecially any of those who effectively ruled
-Japan in former times :
+**Mogul** Mongol ruler of India (1526 1857) 
 
-sovereign one exercising supreme, esp.
-hereditary power; monarch
+**nawab** Muslim prince or ruler in India in former times 
 
-stadholder chief magistrate or provincial
-governor in the Netherlands in former
-times
+**nizam** former ruler of Hyderabad 
 
-sultan ruler of a Muslim state, especially
-under the Ottoman Empire
+**pasha** former provincial governor in the Ottoman Empire 
 
-suzerain feudal lord
+**pharaoh** hereditary sovereign in ancient Egypt 
 
-Taoiseach prime minister of the Irish Re-
-public
+**premier** prime minister 
 
-tetrarch any of four joint rulers, or ruler
-of a quarter of a region; prince enjoying
-limited power in the Roman Empire
+**president** chief executive offcer of a republic or corporation 
 
-tuchun military governor of a Chinese
-province in former times
+**prime minister** leading government offcial or top cabinet official, esp. in parliamentary governments 
 
-viceroy governor of a country, colony, or
-the like, ruling in the name of his sover-
-eign or government
+**queen** female ruler of a monarchy, or wife of a king 
 
-vizier high-ranking official, such as pro-
-vincial governor or chief minister, in
-Muslim countries, especially under the
-Ottoman Empire
+**sachem, sagamore** Native American tribal chief in North America 
+
+**satrap** provincial governor in ancient Persia; any dictatorial minor ruler 
+
+**shah** former ruler of Iran 
+
+**sheikh** leader of an Arab tribe or village; Muslim religious leader 
+
+**shogun** Japanese military commander, especially any of those who effectively ruled Japan in former times 
+
+**sovereign** one exercising supreme, esp. hereditary power; monarch 
+
+**stadholder** chief magistrate or provincial governor in the Netherlands in former times 
+
+**sultan** ruler of a Muslim state, especially under the Ottoman Empire 
+
+**suzerain** feudal lord
+
+**Taoiseach** prime minister of the Irish Republic 
+
+**tetrarch** any of four joint rulers, or ruler of a quarter of a region; prince enjoying limited power in the Roman Empire 
+
+**tuchun** military governor of a Chinese province in former times 
+
+**viceroy** governor of a country, colony, or the like, ruling in the name of his sovereign or government 
+
+**vizier** high-ranking offcial, such as provincial governor or chief minister, in Muslim countries, especially under the Ottoman Empire
 
 
 ## States of the United States of America
