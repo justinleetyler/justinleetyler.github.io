@@ -18,9 +18,9 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Neuters (Reuters Front-End)](https://neuters.de/)
 
-[my catalog](https://justinleetyler.github.io/catalog)
-
 [light web](https://litew.pages.dev/)
+
+[quick reference](https://justinleetyler.github.io/references)
 
 ## bookmarks-other
 
