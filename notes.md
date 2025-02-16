@@ -24,7 +24,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
-[Youtube downloader](https://transkriptor.com/youtube-video-dowloader/)
+[Youtube downloader](https://transkriptor.com/youtube-video-downloader/)
 [QR code generator](https://qr.io)
 
 [Book of Prayer and Praise for congregational worship](https://archive.org/details/bookprayerandpr01assogoog)
