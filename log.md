@@ -4,6 +4,28 @@ Use ctrl-F to search.
 |date    |grade|title and author|dewey number|notes / favorite quote|
 |--------|-----|----------------|------------|-----|
 |2025-01| C |1 The Turing option / Harry Harrison and Martin Minsky | SCI | Brian Delany is seriously hurt when his lab is attached and A.I. software stolen. "The intellectual life is a good one, to use ones brain, to uncover the secrets of reality, that is a gift granted to very few. But to enjoy one's humanity is an equal pleasure." |
+|2024-12 | C | 38 Orbital / Samantha Harvy. | SCI | A day in the life of Astronauts on the ISS, and reflections of challenges of spaceflight. |
+|2024-12 | D | 37 Shadows beyond the stars / MOses Mutito. | SCI | Two ships follow an unknown signal. Novella. |
+|2024-12 | D | 36 Lion's legacy / L.C. Rosen. | FIC | Tenessee Russo searches for the rings of the Sacred Band of Thebes. |
+|2024-11 | D | 35 Taylor Callahan, Circuit Rider. | WES | 
+|2024-10 | C | 34 True Gretch / Gretchen Whitmer. | 920 |
+|2024-10 | B | 33 Planetside / Michael Mammay. | SCI | Butler, while investigating Mallot's disappearance, uncovers illegal genetic experimentation on Cappa |
+|2024-10 | B | 31 Colonyside / Michael Mammay. | SCI | 
+|2024-10 | C | 30 Cabin at the end of the world / Paul Trembley. | FIC | Andrew, Eric, and Wen's cabin is invavided by cultists. |
+|2024-09 | C | 29 Robert B. Parker's ironhorse / Robert Knott. | WES | V. and H. must rescue the Texas Gov's daughter from bandits. |
+|2024-09 | C | 28 Nine lives and alibis / Cate Conte. | MYS | 
+|2024-08 | C | 27 Bull river / Robert Knott. | WES | 
+|2024-08 | C | 26 Blue-eyed devil / Robert B. Parker. | WES |
+|2024-07 | C | 25 Brime stone / Robert B. Parker. | WES |
+|2024-07 | C | 24 Camino Island / John Grisham. | WES | Fitzgerald manuscripts are stolen and mercer Mann is recuited to help retrieve them. |
+|2024-07 | C | 23 London / Edmond Rutherfurd. | FIC | a two-thousand year history as told through the eyes of the Ducker, Dogget and Silversleeves families.|
+|2024-07 | C | 22 Resolution / Robert B. Parker. | WES | Cole and Hitch 'liberate' a town from Wolfson w/ help from Cato and Rose. |
+|2024-07 | C | 21 Ghost town living / Brent Underwood. | 979 | Abt. Cerro Gordo. "True gratitude is incompatable with selectiveness. It's all encompassing."|
+|2024-07 | C | 20 Robert B. Parker's revelation / Robert Knott. | WES | 
+|2024-06 | D | 19 Windsor knott / S.J. Bennett. | FIC | "... the seven P's: Proper planning and preparation prevents piss poor performance"|
+|2024-05 | C | 18 Without you, there is no us / Suk Kim. | 951 | Suk Kim goes undercover as a missionary to teach at PUST. |
+|2024-05 | D | 17 Bloody Brzos / Jon Sharpe. | WES | Fargo helps Paul Washburn with a shipment to secure a contract from the U.S. Army. |
+|2024-05 | C | 16 The great leader and the fighter pilot / Blaine Harden. | 920 | Abt. Kim Il Song and No Kum Sok.|
 |2024-05 | C | 15 My holiday in North Korea / Wendy E. Simmons | 591 | "Self-expression, freedom of thought, social discourse to effect change, and personal beliefs of any kind are relegated to private thoughts"|
 |2024-05 | C | 14 The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared / J. Jonasson | FIC | Allen tells of his extraordinary life while on the run from the cops and the old folks home.| 
 |2024-04 | D | 13 Aztec Gold / J. Sharpe | WES | Fargo teams up w. Solita to find missing gold from Montizula. |
