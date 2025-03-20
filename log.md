@@ -41,6 +41,39 @@ Use ctrl-F to search.
 |2024-02 | C | 3 Blood on the trail / J. McCauley. 2022. (Jeremiah Halstead Western 1) | WES | Halstead confronts John Hudson, the Hudson gang, and Ed Zimmerman. |
 |2024-01 | D | 2 Facade / Michael Heizer. 2012. | SCI | The gov't. assembles a group of scientists as aliens called "The Watchers" (From Gen. 6) are about to make themselves known. 
 |2024-01 | D | 1 The strange / Nathan Ballingrad. 2023. | SCI | |
+|2023-12 | C | 36 Where's there's a will / E.S. Craig. (Village Library Mystery 5) | MYS | Olivia kills Corneleus. |
+|2023-12 |   | 35 Desolation road. |
+|2023-12 | C | 34 Zoe's tale / John Scalzi. | SCI | Z. must convince the consul to defend Roanoke against the conclave w/ Ovid's help. |
+|2023-12 |   | 33 Brave new world / A. Huxley | FIC |
+|2023-11 | D | 32 Lifeship / Gordon R. Dickson and Harry Harrison. | SCI | Giles goes after Paul, who wants to end the albite system.|
+|2023-11 | D | 31 Salted slug / J. King. | SCI |
+|2023-11 | C | 30 One man's fire / M. Galloway. | WES | Ed, an outlaw, teams up w/ Sherrif Saunders to get the gang that left him behind.|
+|2023-11 | C | 29 Wisker of a doubt / Cate Conte. | MYS |
+|2023-11 | D | 28 Tess / T. Hardy. | FIC | Raped by Alec, marries Angel, but then is estranged for not being a virgin. Murders Angel, and hung.|
+|2023-10 | C | 27 Quiet zone / S. Kurczy | 975 | "Getting away from the bottomless options of Amazon and Google was freeing. It was a relief to be restricted to the basics." p. 283|
+|2023-10 | C | 26 God is not one / Stephen Prothero | 200 | 
+|2023-10 | C | 25 The tell tail heart / Cate Conte | MYS |
+|2023-09 | C | 24 Dark territory / Terrence McCauley | WES | 
+|2023-09 | D | 23 Spine-tingling / E.S. Craig. |   | "Different strokes for different people" |
+|2023-09 | D | 22 The Peninsula / Louis Dickenson Rich. | 
+|2023-08 | C | 21 Swamp story / Dave Barry | FIC |
+|2023-09 | C | 20 Where the bullets fly / Terrence McCauley | WES | After Daramond attacts Dover Station, Mackey forms a possy to go after him. |
+|2023-08 | C | 19 Get out of town / Terrence McCauley | WES | 
+|2023-08 | C | 18 Purder she wrote / Cate Conte. | MYS |
+|2023-06 | C | 17 Wool / Hugh Howey | SCI | Holston, whose wife went out of the Silo three years earlier, leaves as well to discover that the world really is desolate.|
+|2023-06 | C | 16 Vogabonds / Hao Jing Fang. | SCI | Louing, granddaughter of the dictator of Mars, reflects on what freedom really means. |
+|2023-05 |   | 15 Trapped / S. Bartlett. | SCI | Read on cruise |
+|2023-05 | B | 14 Animal farm / George Orwell. | FIC | Animals revolt, only to have the same c onditions as before. Tactics of revisionism and the bogyman. |
+|2023-05 | B | 13 Traitor King / A. Lownie |    | Bio. abt. Edward VIII. Focused on pro-german sympathies w/o real mothering. Read on Cruise.|
+|2023-04 | D | 12 Area 51 / Robert Doherty | SCI | An MJ12 scientist tries to stop the military from flying an alien mothership. |
+|2023-03 | B | 11 Siddhartha / Hermon Hesse. | FIC |   |
+|2023-03 |   | In other worlds / A.A. Attanasio. | SCI | Carl, infected with a spore, travels far in the future to the "werld".|
+|2023-03 | A | 1984 / George Orwell. | SCI |  |
+|2023-03 |   | Before Mars / Emma Newman. | SCI | Dr. Kubren goes to Mars, but seems to have been there before. |
+|2023-04 | C | Exodus / Andreas Chrislenson | SCI | A rogue planet collides w. Earth; a group of 1600 people excape to Aurara. |
+|2023-02 | B | Mayflower / Nathaniel Philbrck. | 973 |
+|2023-02 | C | Silo / D.J. MacHale. | SCI | The U.S. Navy quarantines an island off of Maine.|
+|2023-02 | B | All that's left in the world / Eric J. Brown. | FIC |
 |2021-10 | C | 11 20,000 leagues under the sea / Jules Verne. | 843. | "Our chances seemed slim, but hope springs eternal in the human beast." |
 |2021-10 | C | 10 A memory of Earth / Daniel Arenson | 813 | Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." |
 |2021-09 | D | 9 Any job will do / John Wilker | 813 | |
