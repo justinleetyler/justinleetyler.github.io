@@ -3,7 +3,8 @@ Use ctrl-F to search.
 
 |date    |grade|title and author|dewey number|notes / favorite quote|
 |--------|-----|----------------|------------|-----|
-|2025-01| C |1 The Turing option / Harry Harrison and Martin Minsky | SCI | Brian Delany is seriously hurt when his lab is attached and A.I. software stolen. "The intellectual life is a good one, to use ones brain, to uncover the secrets of reality, that is a gift granted to very few. But to enjoy one's humanity is an equal pleasure." |
+|2024-01 | C | 02 In the lives of puppets / T.J. Klune | FIC |  | 
+|2025-01 | C | 01 The Turing option / Harry Harrison and Martin Minsky | SCI | Brian Delany is seriously hurt when his lab is attached and A.I. software stolen. "The intellectual life is a good one, to use ones brain, to uncover the secrets of reality, that is a gift granted to very few. But to enjoy one's humanity is an equal pleasure." |
 |2024-12 | C | 38 Orbital / Samantha Harvy. | SCI | A day in the life of Astronauts on the ISS, and reflections of challenges of spaceflight. |
 |2024-12 | D | 37 Shadows beyond the stars / MOses Mutito. | SCI | Two ships follow an unknown signal. Novella. |
 |2024-12 | D | 36 Lion's legacy / L.C. Rosen. | FIC | Tenessee Russo searches for the rings of the Sacred Band of Thebes. |
