@@ -1,8 +1,8 @@
 * dFIC  Guidon, E.  Apprentice.  n.p. n.d.  v. 
--f Who: Benen
--f What: a wizard's apprentice
--f When: 7 y/o, through his teens.
--f Where: A place referred to as the four kingdoms.
+ Who: Benen
+ What: a wizard's apprentice
+ When: 7 y/o, through his teens.
+ Where: A place referred to as the four kingdoms.
 -o  Why: Benen could see the stars and constellations in the sky when other kinds his age could not. 
 -f  Benen, m. The protaganist. A boy. from a village called Oster's Gift. 
 -f  Adam Smith, m. The leader of the village. 
@@ -14,11 +14,9 @@
 -f  The Overseer is the ball of light that prods Benen and serves the wizard. 
 -f  Orafin, a rat. The wizards former apprentice. 
 -f  Oster, m, the wizard. 
--q The movements and the incantations are crutches to help you channel the power properly. Once you're used to a spell, you can gradually let those become more and more minimal until eventually you forgo them altogether. 
- 
+ The movements and the incantations are crutches to help you channel the power properly. Once you're used to a spell, you can gradually let those become more and more minimal until eventually you forgo them altogether. -q 
 * dFIC  Hesse, H.  Siddhartha.  n.p. n.d.  v. 
 -q  Sidhartha nd Govinda, his friend. -f -- ... had begun to nurture discontent within. -p. 65 -q -- Atmam, the One and Only. -f -- It doe snot suit the Brahain to speak speak sharp and angry words. -p. 29 -- It is not my place to judge the life of another. p. 29 -q -- You know how to speak clearly, my friend. Beware of too much cleaverness -Buddha -p. 29 -q -- S. meets buddha. G. stays. -p. 22 -s -- Thoughts v.s. senses. p. 37 -f -- The elimination of self. -q -- Dreams of making love to a female Govinda. -p. 37 -s -- Samana, an ascetic. -f -- S. meets kamila. p. 35 -s -- The merchant Kamaswatmi. p. 47 -s -- Everyone takes, everyone gives. Such is life. -S. -p. 46 -q -- I can think. I can wait. I can fast. -S. p. 48 -q. -- S. learned many new things, listened a lot, and spoke little. -p. 49 -q -- He had good intuition and S. suprpassed him, the merchant, in calmness and composure, and the art of being able to list en and to see beneath the surface of people. -p. 50 -q. -- You are Kamala, nothing else, and within you there is a stillness and refuge that you can enter at any time and be at home with yourself. -S. p. 53 -q -- Only slowly and imperceptibly, with the passing of harvests and monsoons, had his mockery grown more weary, had his superiority become more silent.  -p. 56 -q -- I thank you, Siddhartha, that you have told me some of your thougts. They are strange thoughts in part, not all of them were comprehensible to me right away. Be that as it may, I thankyou and I wish you peaceful days. -Govinda. -p. 104 -q -- And here is a teaching that you will laugh at: love, O Govinda, appears to me to be the main thing above all else. To figure out the world, to explain it, to condemn it, may be the task of great thinkers. For me, however, the only important thing is being able to love the world, not to condemn it, not to hate it and myself, but to be able to view it and myself as all beings ith love and admination and awe. -Siddhartha. -p. 104 -q -- Seeking means having a goal. Finding, however, means: being free, being open, having no goal. -Siddhartha. -p. 99 -q -- Vasudeva also remained quiet and waiting, with kindness, wisdom, forbearance. In patience they were both master. -p. 87 -q  Have you [Siddhartha] attained it... have you found peace? -Kamala -p. 82 -q -- No, no teaching could be accepted by a true seeker, one who truly wants to find. But one who has found could approve of each and every teaching, every path, every goal... -p. 80 -q -- The curious people aske dmany questions, but they received no answers, and they foun dneither magicians nore wise men, they found only two old, friendly little men who seemed to be mute and somewhat peculiar and dim-witted. -p. 79 -q -- You see, I am not a scholar, I do not know how to speak, nor do I know how to think. I only know how to listen and be pious; I have learned nothing else. -p. 76 -q -- He only noticed that the bright and cetain inner voice thta had once awoken within him and guided him again and again during his luminous times had become silent. -p. 57 -q --  ... within him for a long time: moderate living, pleasure in thought, hours of meditation, secret knowledge of the Self, of his eternal being that is neither body nor consciousness. -p. 56 
- 
 * d938  Everitt, A.  Alexander the Great.  1st ed.  N.Y. 2009.  O.  9780425286524. 
 -f Damascus, capital of Syria
 -f Parmenion, Alexanders General
@@ -98,153 +96,79 @@
 -q Arrian and Plutarch quote from The Royal Journal, kept by Euthanes.
 -f A. died probably of Malaria in in early 30's.
 -f Arrhideaus and A. Jr. becomes corulers after A. dies. Quickly leads to civil war.
--q Although he often behaved the chivalrously by the standards of his time, even his contemporaries condemned his cruelty, and to day he would undoubiely quality as a war criminal. 
-* p353 Short, Lloyd Milton.  Development of the national administrative organization in the United States.  Baltimore, 1923.  kb. 
- 
+-q Although he often behaved the chivalrously by the standards of his time, even his contemporaries condemned his cruelty, and to day he would undoubiely quality as a war criminal.* p353 Short, Lloyd Milton.  Development of the national administrative organization in the United States.  Baltimore, 1923.  kb. 
 * w353 Short, Lloyd Milton.  Development of the national administrative organization in the United States.  Baltimore, 1923. 1 pdf file kb. via [www](https://archive.org/details/in.ernet.dli.2015.275917
- 
 * vLG+ Khorram, Adib.  Darious the great is not ok.  N.Y. c2018  O 
- 
 * dLG+ Baker, Tamsin.  His city-boy. [U.S.?] 2021.  kb. via Hoopla. ISBN 978139481232
- 
 * d200 Pargament, K.I.  Phychology and religion and coping.  n.p. n.d.  O. 
- 
 * vFIC James, Miranda.  Classified as murder. N.Y. 2011.  S. 
- 
 * dSCI Mutito, Moses.  Shadows beyond the stars.  n.p. n.d.  v. 
- 
 * dSCI Harvey, Samantha.  Orbital.  n.p. n.d.  v. 
- 
 * dSCI Harrison, Harry and Minsky, Martin.  Turing option.  n.p. n.d.  v. 
- 
 * dMYS Craig, E.S.  Where's there's a will.  n.p. n.d.  v.  (Village library mystery 5) 
- 
 * dWES Desolation road.  n.p. n.d.  v. 
- 
 * dSCI Scalzi, John. Zoe's tale.  n.p. n.d.  v. 
- 
 * dFIC Huxley, A.  Brave new world.  n.p. n.d.  v. 
- 
 * dSCI Dickson, G.R [and] Harrison, H.  Lifeship.  n.p. n.d.  v. 
- 
 * dSCI King, J.  Salted slug.  n.p. n.d.  v. 
- 
 * dWES Galloway, M.  One man's fire.  n.p. n.d.  v. 
- 
 * dMYS Conte, Cate.  Whisker of a doubt.  n.p. n.d.  v. 
- 
 * dFIC Hardy, T.  Tess.  n.p. n.d.  v. 
- 
 * d975 Kurczy, S.  Quiet zone.  n.p. n.d.  v. 
- 
 * d200 Prothero, Stephen.  God is not one.  n.p. n.d.  v. 
- 
 * dMYS Conte, Cate.  Tell tail heart.  n.p. n.d.  v. 
- 
 * dWES McCauley, Terrence.  Dark territory.  n.p. n.d.  v. 
- 
 * dMYS Craig, E.S.  Spine-tingling.  n.p. n.d.  v. 
- 
 * d917 Rich, Louis Dickenson.  Peninsula.  n.p. n.d.  v. 
- 
 * d817 Barry, Dave.  Swamp story.  n.p. n.d.  v. 
- 
 * dFIC Hao, Jingfang.  Vagabonds.  N.Y. 2020.  O. 
- 
 * dSCI Bartlett, S.  Trapped.  n.p. n.d.  v. 
- 
 * d920 Lownie, A. Traitor king.  n.p. n.d.  v. 
- 
 * d920 Hesse, H. Siddhartha.  n.p. n.d.  v. 
- 
 * d940 Milton, Nicholas.  Neville Chamberlain's legacy.  n.p. n.d.  v. 
- 
 * d920 Newton, J.  Justice for all.  n.p. n.d.  v. 
- 
 * dFIC Razevich, A.  Snowline drift.  n.p. n.d.  v. 
- 
 * d973 Ellis, J.  Quartet.  n.p. n.d.  v. 
- 
 * dFIC Clarke, A.C. [and] Lee, G.  Rama II.  n.p. n.d.  v. 
- 
 * dFIC Nelson, O.T.  Girl who owned a city.  n.p. n.d.  O. 
- 
 * d271 Clay, R.M.  Hermits and anchorites of England.  n.p. n.d.  O. 
- 
 * d299 Ming-Dao, D. Scholar warrior.  n.p. n.d.  O. 
- 
 * dFIC Pfeffer, S.B. This world we live in.  n.p. n.d.  O. 
- 
 * d133 Miller, T.  How to want what you have.  n.p. n.d.  O. 
- 
 * d289 Buehrens, J.A. and Church, F.  Chosen faith, new forward by Fulghum, R., new preface by Davidoff, D.  n.p. n.d.  O. 
- 
 * dFIC Sawyer, R.J.  FlashForward.  n.p. n.d.  O. 
- 
 * d133 Harvey, G.  Contemporary paganism.  n.p. n.d.  O. 
- 
 * d277 Miles, S.  Take this bread.  n.p. n.d.  O. 
- 
 * dFIC MacDonald, D.R.  Cape Breton Road.  n.p. n.d.  O. 
- 
 * dFIC Brooks, T.  Voyage of Jerle Shannara.  n.p. n.d.  S. 
- 
 * dFIC Waugh, J.C.  On the brink of civil war.  n.p n.d.  O. 
- 
 * dFIC Marcello, P.  Dalai Lama.  n.p. n.d.  O.  
- 
 * dFIC Brooks, T.  Wishsong of Shannara.  n.p. n.d.  S. 
- 
 * dFIC Brooks, T.  Elfstones of Shannara.  n.p. n.d.  S. 
- 
 * kFIC Furlong-Burr, S. Enigma black. n.p. 2012. 488 kb. (Enigma Black)  
- 
 * kFIC Gaddy, A. Wicked roots / by Alex Gaddy and Aaron Roark. n.p. 2012. 786 kb.  
- 
 * kFIC Fauster, T. Deomans of Faerel. CreateSpace, 2013. kb.  
- 
 * kFIC Faw, S. Seer of souls. Susan Faw, 2016. 4462 kb. (Spirit Shield Saga)  
- 
 * kFIC Fay, T. Socrates and the councillor. CreateSpace, 2018. 3605 kb. (John Tesh)  
- 
 * kSCI Gockel, C.F. Star rebels / C Faye Gockel, Christine Pope, Anthea Sharp, [et al.]. n.p., 2016. 790 kb.  
- 
 * kFIC Lukeman, Alex. White jade. n.p. n.d. kb.  
- 
 * kFIC Fitzpatrick, B. Today is too late. n.p. n.d. kb.  
- 
 * kFIC Forbes, M.R. His dark empire. Quirky Algorithms, 2014. 2549 kb. (Tears of Blood)  
- 
 * kSCI Forkey, Elizabeth. Infectious. 3rd rev. ed. Entrada Publishing, 2014. 744 kb. (INFECtIOUS)  
- 
 * kFIC Fortney, R.S. PaxCorpus / Ryan S. Fortney, Meryl S. Fortney. n.p., 2011. 1087 kb. (Pax Series)  
- 
 * kFIC Mayes, L.M. Dark days. BB Books, 2013. k. AISN B00BNZDOFE.  
- 
 * kFIC Ford, D.C. Survival. DHP Publishing Ltd, 2017. 3063 kb. (After it happened ; 1)  
- 
 * kMYS Fowler, A.B. Jesuit papers, The. The Author, 2011. 894 kb.  
- 
 * kFIC Franks, D.J. Order of Ascalon. n.p. 2014. 1341 kb. (Order of Ascalon 1)  
- 
 * kFIC Kennedy, F. Father unbound. n.p., 2018. 973 kb.  
- 
 * kFIC Franklin, T.M. Unscheduled departure. Calava Press, 2015. 2860 kb.  
- 
 * kFIC French, Katie. The Breeders. Katie French Books, 2014. 4017 kb.  
- 
 * kSCI Scalzi, John. The last colony. N.Y. : Tor, c2007. kb. (Old man's war ; 3).  
- 
 * dFIC Wells, Dan. Partials. n.p. n.d. v.   
- 
 * kFIC Galen, S. History of the world's ending. n.p. 2013. 2070 kb.  
- 
 * kFIC Gallagher, B.B. Ark-13. n.p. 2016. 268 kb.  
- 
 * kFIC French, L. Backyard dragons. [U.S.?], Genius Media, Inc., 2016. 548 kb.  
- 
 * kFIC Gillespie, M. Apocolypse No.1. n.p. 2020. 6836 kb.  
- 
 * dFIC Grant, Michael. Gone. N.Y. c2008. 558, 4 p. 22 cm.  
 -r  Read 2014-06. Grade C. 
 -f  Sam Temple, m. Protagonist. 
@@ -261,13 +185,9 @@
 -s   ch 37 Drake kidnaps Luna, but the coyotes find them. They make an arrangement. 
 -q  But Astrid had argued that symbols are important... -p. 439 
  ch 38 Pete caused the FAYZ by stopping a meltdown at the nuclear power plant. Drake and co encounters the darknness. Luna heals drakes arm. -s 
- 
 * dFIC Grahame-Smith, Seth. Abraham Lincoln, vampire hunter. n.p. n.d. v.   
- 
 * kFIC Gaddy, A. Wicked roots / Alex Gaddy [and] Aaron Roark. n.p. 2013. 786 kb. (Elsbeck chronicles)  
- 
 * kFIC Garnsworthy, P. Lost nowhere. U.S., 2013. 1275 kb.  
- 
 * dFIC Grant, Michael. Hunger. N.Y. c2009. 590 p. 22 cm.  
 -r  Read 2014-07. Grade C. 
  WHO: Sam (Protaganist), Caine (Antaganist), Zil (Antaganist)
@@ -300,7 +220,6 @@
 -s  41 Sam takes Morphine, but it doesn't really help. Quinn comes to his help, and they take off. 
  42 Nemesis is the gaiaphage's name for little Pete.
  -s 
- 
 * dFIC Grant, Michael. Lies. N.Y. c2010. 447 p. 21 cm.  
 -r  Read 2024-07. Grade C. 
 -q  Sam, there comes a time when the world no longer needs heroes. And then the the true ero knows to walk away. -Orsay -p. 11 
@@ -321,27 +240,19 @@
  We'll elect a new town council every six months. But the council cannot change these firt nine rules.
 -f  Everyone has to live by these laws. Except in the event of an emergency. The council will have the right to suspend all other rules for a period of twenty-four hours if there's a major emergency. In that case the council can appoint a person, or several people, to act as Town Defenders. 
  He [Alfred] was, as usual, the neatest, cleanest, calmest, most focused person there. -p. 360 -q 
- 
 * kFIC Green, Eliza. Becoming human : a dystopian post apocalyptic novel / Eliza Green. U.S., MPMcD Publishing, 2016. 931 kb.  
- 
 * kFIC Dickens, C. Greatest christmas stories of all time / by Charles Dickens, Beatrix Potter, Lucy Maud Montgomery, [et.al]. Christmas editions, 2021. 5477 kb.  
- 
 * kFIC Guindon, E. Apprentice. n.p. n.d. kb.  
- 
 * kFIC George, Kevin. Cryo-Man. [U.S.?], 2013. kb.  
- 
 * dSCI Attanasio, A.A. In other worlds. Toronto, N.Y., Bantam books, p1986, 1985. 211 p. 17 cm.  
 -r  Read 2023-03. Grade C.  Carl Schirmer, infected with a spore, travel to a place far in the future called Werld, where he meets a girl named Ecoë. He then must come back to Earth on a misson forbthe eld skyle. 
  Gentleness and love will sirvive. -Zeke. -p. 201 -q. -- What goes up is futile - unless it goes out. -Zeke -p. 211 -q -- There, also, is God - the Archon - the metapsycic organizing power: the formless shaper of form. Its presence electrocutes me with feeling, shocking me free of rationality, time, even center. -Zeke -p. 152 -q.
- 
 * w025 Dodd, S. Cataloging machine-readable data files. Chic., American Library Association, 1982. kb. via [www](https://archive.org/details/catalogingmachin00dodd).  
 -f  Call no. -- Melville, Herman, 1819-1891. -- Moby Dick, or The white whale [machine-readable data file] / by Herman Melville ; compiled and produced by Princeton University Computer Center under the direction of Robert Royal Knight. -- MRDF ed. -- Princeton, N.J. : The Center, 1980. -- 1 data file + associated tape layout. -- Title from printed source. -- Faithful transcription in Waterloo Script. Based on: Moby Dick, or The white whale / by Herman Melville. New York : New American Library, 1961. -- File size not verified. -- I. Title. 
  File Characteristics Area: computer data, Computer program, Computer data and program.  ex: Computer data (1 file : 1500 bytes).  Computer program (32 statements)
  300 note: data file -- program file (95 statements, BASIC) -- program
 -q  Do not give a physical description for a computer file that is available only by remote access. -p. 9 
- 
 * kFIC Ratcliffe, Alan. Dawn of the dreamsmith. n.p. n.d. 3370 kb. (Raven's Tale 1)  
- 
 * d922 Leuchtenburg, William E. Herbert Hoover. N.Y. c2009. xviii, 186 p. 22 cm.  
 -r  read 2013-05. Grade C. 
  Ch. 3: Hoovers efforts during WWI. He preached volunteerism and philanthropy; but he also recieved lots of money from the gov't.
@@ -350,18 +261,12 @@
 -f  Henry Wallice dispised him 
 -f  Hoover is our shepherd / We are in want / He maketh us to lie / Down on the park benches / He leadeth us beside the still factories / He disturbeth our soul. -Parody circulated by war veterans in the '32 campaign. -p. 140 
  Critics also misrepresented Hoover as a Wall Street lackey. 'The only trouble with capitalism is the capitalists,' he had told the columnist Mark Sullivan. 'They're too damned greedy.' -q -p. 148 
- 
 * k920 North, Wyatt. J.R.R. Tolkien. Wyatt North Publishing, LLC, 2014 kb.  
- 
 * kFIC McNally, S. Matthew. Reclaiming. Omnifisc, 2013. k. ASIN B00E806C0G.  
- 
 * dFIC White, E.B. Charlotte's web, pictures by Garth Williams. n.p. n.d. v.   
- 
 * k150 Spielman, Rose M. Psychology. Houston, TX, Openstack, [2017] kb.  
- 
 * d204 Wikstrom, Eric Walker. Simply pray. Bost. Skinner House [2005]. x+140 p. 22 cm.  
 -q  Think of it [a prayer list] as allowing your subconscious - the psychological equivalent of the 'still small voice within' - to bring to your attention that about which you care most 
- 
 * dFIC Rowling, J.K. Harry Potter and the order of the phoenix. Ill. by Grandpre, Mary. N.Y. 2003. xi, 870 p. 24 cm.  
 -r  Read 2012-05 and 2017-03. Grade B. 
  CH.5: The Order of the Phoenix is committed to defeating V. Its headquarters is in the family house of Black.
@@ -466,13 +371,9 @@
 -s  -p. 274-396 
  American Colonial Society: 19th-20th c. 'Formed to the belief that blacks would be better off settled in colonies back in Africa.'
  -p. 6 -f 
- 
 * kFIC Stone, Andria. Edge of the future. n.p. 2017. 1071 kb. (Edge 1)  
- 
 * kSCI Troia, Anton. Last overseer. Troy Books, [n.d.] 968 kb.  
- 
 * dFIC Robinson, Kim Stanley. Forty signs of rain. N.Y. 2005. D.  
- 
 * vMYS Carlisle, Kate. One book in the grave. N.Y. 2012. 291 p. 18 cm.  
 -s Joe Taylor was killed; may be set up by Solomon and Angelica.
 -f Melony, Brookly's sister.
@@ -482,27 +383,16 @@
 -f Brooklyn is London Wainright's sister.
 -f The cat is named Clyde
 -f Gab doesn't think solomon or Angelca are smart enough to kill.
- 
 * dMYS Conte, Cate. Cat about town. N.Y. 2017. 295 p. 17 cm. (Cat cafe 1).  
- 
 * d978 Brown, Dee. Wondeous times on the frontier. N.Y. 1991. 324 p.  
- 
 * kFIC Milton, Crain. Dragon egg curse. n.p. n.d. kb.  
- 
 * k918 Mitchell, Jack. Flying asses through Africa. n.p. n.d. 19230 kb.  
- 
 * dSCI Burton, LeVar. Aftermath. N.Y., Grand Central Pub., 1997. 295 p. 20 cm.  
- 
 * dFIC Graudin, Ryan. Walled city. N.Y. : Little, Brown and Co., 2014. 424 p. ; 22 cm.  
- 
 * dSCI Clarke, Arthur C. Prelude to space. N.Y., Ballanti Books, p1981. x+179 p. 18 cm.  
- 
 * dFIC Pargeter, Edith. Bloody field by Shrewsbury. Lond., Headline, 1989. 378 p. 18 cm.  
- 
 * dWES McCauley, Terrence. Where the bullets fly. N.Y., Pinnacle Books, 2018. 345 p. 17 cm. (Sheriff Aaron Mackey Western).  
- 
 * d364 1912. n.p. n.d. v.  
- 
 * dFIC Dickens, Charles. Old curiosity shop. Lon. 2000. xxxi, 575 p. 20 cm.  
 -s  Little Nell, 19th c., F. An orphan who works in her grandfathers curiosity shop. -p. 
 -f  Kit, 18th c., M. -p. 
@@ -512,34 +402,20 @@
 -s  Ch. 6: Ness delivers Mr. Quilp a message, then he takes Ness home and gets Mrs. Quilp to fish for information on Quilps grandfather. -p. 
 -s  Ch. 8: Richard Swiveller goes to a dance but it goes horribly wrong, and reconsiders the possibility of marrying Nelly. -p. 
  I came here... with my bosom expanded, my heart dilated, and my sentiments of a corresponding description. I go away with feelings that my be conceived but cannot be described, feeling within myself the desolating truth that my best affections have been experienced this night a stffler -Richard -p. 75 -q 
- 
 * k321 Seldon, Anthony. The Cabinet Office, 1916-2018: the birth of modern government, [w.] Jonathan Meakin. Biteback Publishing, 2016. 16371 kb.  
- 
 * v920 Coombs, John Dexter. Grandfather's stories. St. Johnsbury, VT., Cowles, [1969]. 104 p. 23 cm  
- 
 * v940 Tuchman, Barbara W. Distant mirror. N.Y. c1978. xx + 677 p. 21 cm.  
- 
 * kSCI Falchetti, S.D. Hayden's World: Volume 1. n.d. 2018. 1848 kb.  
- 
 * kSCI Mont, Francis. Time is running out. Montland, 2023. 4604 kb.  
- 
 * k817 James, Grizzley. How to train your goat : the unconventional memoir of an outdoor humorist. n.p. n.d. kb.  
- 
 * kSCI Christensen, Andreas. Exodus. 2nd ed. U.S.? [2012]. k. 1282 kb.  
 -r  A group of ~1600 escape when a rogue planet is on a collision course with Earth. 
- 
 * kSCI Melia, Sally Ann. Thirteen born of empire. Dickson House, 2023. 11700 kb.  
- 
 * kSCI Maas, Jonathan; Lappas, Manthos, ill.; Economos, Patty Ann, ed. Dead moon. Cynical Optimist Press, 2020. 1540 kb.  
- 
 * dFIC Rollins, James. Starless crown. N.Y. 2021. 550 p. 24 cm.  
- 
 * kSCI Sides, Ricky. Peacekeepers, 1-3. n.p. 2011. 1309 kb.  
- 
 * dMYS Conte, Cate. Purrder she wrote. N.Y. 2018. 310 p. 17 cm. (Cat cafe 2).  
- 
 * vWES McCauley, Terrence. Get out of town. N.Y. 2020. 360 p. 17 cm. (Sheriff Aaron Mackey Western).  
- 
 * dLG+ Mastbaum, Blair. Clay's way. Los Angeles, 2004. 246 p. 21 cm.  
 -r  Read 2011-10. Grade B. 
 -q  I don't know how to seem normal. I need a prop. 
@@ -549,116 +425,65 @@
 -q  Life goes on. -p. 198 
 -q  I think it's disgusting that I'm related to them. They envy dudes that own yachts but don't have any books on the shelves. -p. 21 
  I'm so trapped inside my mind I didn't even notice this shit all over me. -p. 5 -q 
- 
 * dSCI Callenbach, Ernest. Ecotopia. 30th Anniversary ed. Berkeley, c1975, 2004. 172 p. 22 cm.  
- 
 * kWES Hartenhoff, Gerald. Big mistake. n.p. 2017. 259 kb. (Brewster ; 1).  
- 
 * kSCI Fatek, Matt. New starship: discoveries. Tr. by Bien, Jagoda. n.p. 2022. k. 3368 kb.  
- 
 * kWES Stucki, Brad. Lazy Tomas. n.p. 2023. 1112 kb.  
- 
 * kFIC Mathias, M.R. Emerald rider. Michael Robb Mathias Jr., 2013. 2437 kb. Dragoneer Saga 4)  
- 
 * kSCI Miller, Bruno. Impact. [U.S.?], Wordstream Books, 2019. k. 1966 kb. (Cloverdale ; 1).  
- 
 * kSCI Edsand, Matt. In the pursuit. n.p. 2022. k. 1428 kb. (Kyda Tren Space Opera ; 1).  
- 
 * kWES Blevins, Win. Stone song. WordWorx, 2016. 2111 kb. (Native Spirit Adventures 1)  
- 
 * kFIC James, Henry. Washington square. Open Road Media, 2016. 3154 kb.  
- 
 * kFIC Mackay, Andrew. In their shoes. [U.S.?], Chrome Valley Books, 2017. 10337 kb. Contents: The teacher -- The actor -- The model.  
- 
 * kFIC Patterson, M.E. Song and signal. Digimonkey Studios, 2013. 617 kb.  
- 
 * kFIC Lyman, John. Prelude to dystopia. n.p. 2015. 3055 kb.  
- 
 * kWES Ray, Charles. Daniel's journey. [U.S.?], Uhuru, 2021. 695 kb.  
 -r  Daniel's family sets out on the Oregon trail. 
- 
 * k973 Immerwahr, Daniel. How to hide an empire. Farrar, Straus and Giroux, 2019. 75318 kb.  
  On August 7, 1998, al-Qaeda launched simultaneous attacks on U.S. embassies in Nairobi, Kenya, and Dar es Salaam, Tanzania. -q -- Howland, an island in the pacific. -q -- Since 1945, U.S. armed forces have been deployed abroad for conflicts or potential conflicts 211 times in 67 countries. Call it peacekeeping if you want, or call it imperialism. But clearly this is not a country that has kept its hands to itself. -q -- They replaced colonization with globalization. ... It was also startling in how much it centered the world’s trade, transport, and communication on one country, the United States. -q -- It’s hard to know how many Indians inhabited North America before Europeans arrived. Five million for the area now covered by the contiguous United States, calculated by the anthropologist Russell Thornton, is a medium estimate... -q -- In the early years of the republic, their claims had been respected, roughly speaking. -q -- In 1828 the state of Georgia declared the Cherokee constitution invalid and demanded the Cherokees’ land. President Andrew Jackson approved. -q -- Thomas Jefferson had fantasized about dividing the entire country, with Native on one side and European on the other—hence his plan for the Louisiana Purchase. -q -- For the first few decades of the country’s history, this continental-scale apartheid had remained informal and incomplete. -q -- In the end, the thought of a “full-blood savage” with a desk in the Capitol proved too much for the delicate sensibilities of the members of the 23rd Congress. -q -- Guano Islands Act in 1856. -q -- four hundred thousand tons of rock guano off of U.S. appurtenances. That fell short of speculators... -q -- Fritz Haber, a German-Jewish chemist, developed a technique for synthesizing ammonia, -q -- In a delicious historical irony, the man who saved the world from starvation was also the father of weapons of mass destruction.-q -- After the war, Fritz continued his work, and his institute developed a promising insecticide called Zyklon A. In slightly modified form, under the name Zyklon B, it would be deployed on Fritz and Clara’s fellow Jews... -q -- Clara Immerwahr. Her cousin Max was my great-grandfather. -q -- The frontier, Turner argued, had been the great regenerating force in U.S. life—the source of democracy, individualism, practicality, and freedom. -q -- But Roosevelt had an uncanny knack for orchestrating events in his favor. -q -- Edmond Demolins’s book Anglo-Saxon -f -- As the Spanish governor-general explained, he was “willing to surrender to white people but never to Niggers.” -q -- Though the United States had rapidly annexed new territory, it had rarely incorporated large nonwhite populations. -q -- Combine a republican commitment to equality with an accompanying commitment to white supremacy, and this is what you got: a rapidly expanding empire of settlers that fed on land but avoided incorporating people. Uninhabited guano islands—those were fine. But all of Mexico or Nicaragua? No. -q -- Not taking land and flooding it with settlers, but conquering subject populations and ruling them. -q -- Republicanism, white supremacy, and overseas expansion ... -q -- The inalienable rights of man and the injustice of taxation without representation—these were bedrock political values. -q -- Twain’s British counterpart, Rudyard Kipling. -f -- As was often the case in the nineteenth century, most victims of the war died from disease. -q -- Massacres like this weren’t unknown in the United States. Wounded Knee, Sand Creek, Bloody Island—the Indian wars had painted the West red. Yet Bud Dajo dwarfed them all. -q -- Instead, Roosevelt’s government encouraged Panamanian nationalists to secede from Colombia, and then he negotiated for a small zone in which to build the canal. -q -- Looking Backward (1888) by Edward Bellamy. Read this -r -- Bellamy’s dream of efficiency, rationality, and hygiene -q -- “A man of brusque manners and few words” -q -- “Where tyranny is law, revolution is order,” Albizu declared. -q -- Ponce Massacure. -f -- Ever since Fritz Haber released chlorine gas at Ypres in 1915, the threat of chemical warfare had hung in the air. -q -- The colonies had their uses: as naval bases and zones of experimentation for men such as Daniel Burnham and Cornelius Rhoads. But colonial products weren’t integral to the U.S. economy. -q -- Dutch East Indies (now Indonesia) -f -- Aleut internment. -f -- In May 1942 some 112,000 residents of western states, some Japanese nationals and some U.S. citizens of Japanese ancestry, were forcibly removed from their homes and held in camps for years. -q -- And despite the millions the military was pouring into the Alaska Highway, it never found the money to fix the internment camps. -q -- At least, the government was comfortable taking the men of the Pribilof Islands back to their homes to work the 1943 seal harvest (the Fish and Wildlife Service had a lucrative deal with a fur company). -q But in Alaskan camps, by the war’s end, 10 percent had died. -q -- The 150 tons of silver pesos, too bulky to move, were dumped into a secret spot in Manila Bay—a tantalizing challenge for future treasure hunters. -q -- “ABCD encirclement” (American-British-Chinese-Dutch), and it [the philippines]  meant that Japan’s access to oil, rubber, tin, and even food depended on foreign markets. -q -- Minella, The sixth-largest city in the United States—substantially larger than Boston or Washington, D.C. -q -- The Second World War in the Philippines rarely appears in history textbooks. But it should. It was by far the most destructive event ever to take place on U.S. soil. -q -- Ww2 death tolde: fifty-five million living humans -f -- There were only three things wrong with the GIs, the British quip went. They were “overpaid, over-sexed, and over here.” -q -- In late 1945, counting the occupations, 51 percent of the population of the Greater United States lived outside the states. But by 1960, after Hawai‘i and Alaska entered the union, that number had fallen to around 2 percent... -q -- In 1940 nearly one out of every three individuals on the planet was colonized. By 1965, it was down to one in fifty. -q -- shrinking the army from more than 8 million troops in May 1945 to fewer than 1 million by the end of June 1947 -q -- the United States was letting its largest colony go. And it was doing this, remarkably, so as not to look bad in the eyes of Asians. -q -- “intense, fanatical nationalism” -q -- Howard Zinn’s A People’s History of the United States and James Loewen’s Lies My Teacher told me.. Read these.. -q -- Cecil Rhodes -f -- powerful countries project their influence through globalization rather than colonization. -q -- The first plastic, celluloid, was devised to replace ivory in billiard balls -q -- As plexiglass, it could be the cockpit window of a plane. As cellophane, it could replace a tin can in food storage. Mixed with wood fiber as plywood, plastic could substitute for timber and steel in small boats, making them lighter, faster, and cheaper. Mixed with glass as fiberglass, it could be used to make planes. -q -- This was the legacy of the Second World War. Take the world’s most advanced economy, cut it off from most tropical trade, and send it into overdrive—it was the perfect recipe for a synthetic revolution. -q -- At no point in the twentieth century was there a serious possibility that oil would actually run out. Today, with new technologies enabling the exploitation of Canadian tar sands and the partial substitution of natural gas for oil, that danger seems as remote as ever. -q -- snafu. As in, Situation Normal: All Fucked Up. -q -- Aviation, knocked-down shipping, wireless communication, cryptography, chloroquine, DDT, and world-proofing. -q -- Herbert Hoover, as a man, can best be understood as the opposite of Teddy Roosevelt. -q -- But the mere act of the government calling an all-industry convention was often enough to secure agreement. -q -- By the war’s end, the United States had produced 84,000 tanks, 2.2 million trucks, 6.2 million rifles, and 41 billion rounds of small ammunition. The war against Hitler may have been a European fight, but it was very much made in the SA. -q -- Peace and prosperity called for global unification. -q -- Synthetics diminished the great powers’ need for strategic raw materials by offering substitutes. -q -- “psychological violence of the classroom” -q -- The most powerful force for anglicization has been the internet. -q -- Estimates vary widely, but it seems that roughly one in four humans on the planet can now speak it. -q -- The Swans were in the first batch of guano islands the United States had claimed. -q -- Yet Bin Laden’s motives were neither unknowable nor obscure. -q -- September 11 was, in large part, retaliation against the United States for its empire of bases. -q -- Bin Laden got lucky with George W. Bush, who had recently succeeded Bill Clinton. Bush could have treated the 9/11 attacks as a crime, arrested the perpetrators, and brought them to justice. Instead, he declared a “war on terror” of global expanse and promised to “rid the world of evil-doers.” -q -- “We need to create a colonial office—fast,” wrote Max Boot -- Foreign prisons, walled compounds, hidden bases, island colonies, GPS antenna stations, pinpoint strikes, networks, planes, and drones—these are the locales and instruments of the ongoing war on terror. This is the shape of power today. This is the world the United States has made. -q -- There are about four million people living in the territories today, in Puerto Rico, Guam, American Samoa, the U.S. Virgin Islands, and the Northern Marianas.
- 
 * g940 Klee, Kernst, Willi Dressen, Volker Riess, eds; tr. by Deborah Burnstone. Good old days : the Holocaust as seen by its perpetrators and bystander. [n.p. n.d.] kb.  
- 
 * dSCI MacHale, D.J. Storm. N.Y. 2014. (The Sylo chronicles ; 2). 481 p.  
 -r  Tucker and co. travel from Boston to Las Vegas, Nevada to the radio signal, then attack the Air Force at Area 51. 
 -q  Everyone looked at me, hoping for words of wisdom. I hated being the one who was always expected to come up with solutions. -p. 4 
 -q  No, I was just talking to myself. I do that when I get frustrated. I have these debates with myself. You know, I take both sides of an issue and hope that one side can shake some ideas loose from the other. Most times I don't even realize that I'm doing it. I know, stupid. -Jon -p. 243 
 -q  John was an odd guy. He was totally arrogant yet at the same time lacked self-confidence. -p. 243 
- 
 * g351 Naylor, John F. A man and an institution; Sir Maurice Hankey, the Cabinet Secretariat and the custody of Cabinet secrecy. Cambridge, 2008, 1984. 12.5 mb.  
- 
 * k634 Poizner, Susan. Grow fruit trees fast. Orchard People, 2022. kb.  
- 
 * g188 Aurelius, Marcus. Meditations; tr. by Francis Hutcheson and James Moor; ed. and with an intr. by James Moore and Michael Silverthorne. n.p.c2008. kb. ISBN 97808659715101.  
- 
 * dSCI Little, R. Earthweed. 2nd ed. n.p. c2016. kb. via Hoopla. (Sons of Neptune 1) ISBN 9781547268566.   
  Read 2022-05. Grade B. An alien invasion novel. Sayans (inhabitants of Neptune's moon) begin a war to annex Earth.
- 
 * v946 Reston, James, Jr. Dogs of God. N.Y., Anchor, [2005]. xx + 363 p. 21 cm.  
- 
 * v942 Powicke, Michael R. Community of the realm. N.Y., Alfred A. Knopf, [1973]. xii + 194 p. (Borzoi Hist. of England ; 2).  
- 
 * d917 Rich, Louise Dickinson. Peninsula. Dr. by Condon, Grattan. Phil. [1958]. 281 p. 22 cm.  
- 
 * dSCI Holroyde, Claire. Effort. N.Y., Grand Central Publishing, 2022. 364 p. 20 cm.  
- 
 * dFIC Sloan, Robin. Mr. Penumbra's 23-hour bookstore. N.Y. 2013. 288 p. 21 cm.  
 -r  Clay breaks the codes of the codex vitaes using Google. 
- 
 * v264 Book of prayer and praise for congregational worship. Bost. : American Unitarian Association, 1893. x + 377 p. O.  
- 
 * kFIC May, L.M. Dark days, the long road home. n.p. n.d. kb.  
- 
 * dFIC Brooks, Terry. Druid of Shannara. n.p. n.d. v.  
- 
 * vFIC Hawthorne, Nathaniel. Scarlet letter. N.Y., Kaplan, 2006. 553 p. 18 cm.  
- 
 * vFIC Swift, Jonathan. Gulliver's travels, w. foreward by Cunliffe, Marcus. Chic. [1960]. xx + 319 p.  
- 
 * d289 Morales, Peter. Unitarian Universalist pocket guide, foreward by Harris-Perry, Melissa. 5th ed. Bost., Skinner House, [2012]. xvi + 92 p. 18 cm.  
- 
 * v591 Wilson, Edward O. Genesis. N.Y., Liveright Pub. Corp., 2019. 153 p. 22 cm.  
- 
 * v220 Bible. Access Bible, New Revised Standard Version with the Apocryphal/Deuterocannical books, O'Day, Gail R., Petersen, David, general eds. Oxford, N.Y., Oxford University Press, [1999]. v. 23 cm.  
- 
 * kFIC King, Austin. Nimbus : a steampunk novel (part one) / Austin King; B.J. Keeton. n.p. 2012. 803 kb.  
- 
 * p091 [2009 taxes] / Justin Lee Tyler. 2009. file via USB. File Directory: 3221. DBID 3221.  
- 
 * p091 [2012 taxes] / Justin Lee Tyler. file via USB. File Directory: 3261. DBID 3261.  
- 
 * p091 [2016 taxes] / Justin Lee Tyler. file via USB. File Directory: 3359. DBID 3359.  
- 
 * p091 [2020 taxes] / Justin Lee Tyler. file via USB. File Directory: 10142. DBID 10142.  
- 
 * kFIC Stinnett, Wayne. Fallen palm : a Jesse McDermitt novel. n.p. n.d. kb.  
- 
 * kSCI Write, Iain Rob. 2389 : a space horror novel. SalGad Publishing Group, 2015. 1244 kb.  
- 
 * dMYS Bennett, S.J. Windsor knot. Lond. 2010. D. (Her Majesty the Queen investigates).  
- 
 * dWES Knott, R. Revelation. N.Y. c2017. kb. via overdrive. (Cole and Hitch 9)  
- 
 * dWES Sharpe, Jon. Aztec gold. N.Y. : Signet, c2000. 257 p. S. (Trailsman)  
 -r  Read 2024-05. Grade D. Fargo helps Paul Washbarne w. shipment to secure U.S. Army Contract. Fights Reese family and Kiowas. 
- 
 * vSCI Star Wars trilogy. N.Y. : Ballantine, 1993. 471 p. S. Contents: Lucas, George. Star Wars. -- Glut, Donald F. Empire strikes back. -- Kahn, James. Return of the Jedi.   
- 
 * kFIC Storey, Jay Allan. Black heart of the station. n.p. 2017. 1446 kb. (Black Heart 1)  
- 
 * vMYS James, Miranda. Murder past due. N.Y. : Berkley, c2010. 294 p. S. (Cat in the stacks mystery)  
- 
 * vMYS James, Miranda. No cats allowed. N.Y. : Berkley, c2016. 296 p. S. (Cat in the stacks mystery)  
- 
 * vWES L'Amour, Louis. Beyond the great snow mountains. N.Y. : Bantam, 2020. 229 p. S.  
- 
 * vWES McCauley, Terrence. Disturbing the peace. N.Y. : Pinnacle, c2022. 345 p. D. (Jeremiah Halstead western)  
- 
 * kFIC Stoker, Bram. Dracula. Enhanced Media Publishing, [n.d.] k.  
- 
 * d920 Rich, Louise Dickinson. We took to the woods. [Camden, Maine] c1942, 1970. xxv, 325 p. 19 cm.  
 -q  I always like to know what people do for a living. This is probably just plain nosiness, but I like to call it scientific interest. -p. 30 
 -q  come-uppence. what does this mean? -p. 37 
@@ -702,9 +527,7 @@
 -q  They all want to be left alone to conduct their own private search for a personal space, a reasonable security, a little love, a chance to attain happiness through achievement. -p. 320 
 -q  I can't stand being jostled physically, and I can't stand having my actions questinoed or commended upon. I could, quite literally, kill anyone who says to me, "A penny for your thoughts." I'm a New Englander so I can't talk about love. -p. 321 
  Discontent is only the fear of missing something. Content is the knowledge that you aren't missing a thing worth-while. -p. 322 -q 
- 
 * kFIC Lindblom, Tony. Spark of imagination. n.p. 2018. 3175 kb. (Source of Power 1)  
- 
 * kSCI Clarke, Arthur C. Hammer of God. RosettaBooks, 2012. 1297 kb.  
 -r  Read 2020-06. Grade C. 
 -s  4 kali is hitting earth 
@@ -729,22 +552,14 @@
  45 the bomb split the astferoid in two
 -f  kali 2: "but the Great Thaw would change coastlines all around the world." 
  kali 1: "In that two minutes it took a hundred thousand lives and did a trillion dollars' worth of damage." -f 
- 
 * v920 Guinness, J. House of Mitford, w. Guinness, C. Lond. c1984. D.   
- 
 * v242 Leach, Michael and Goodnough, Doris, eds. Maryknoll book of inspiration. Maryknoll, N.Y. : Orbis, c2010. xxvii + 401 p. O.  
- 
 * v973 Allen, Thomas B. Tories. N.Y. c2010. xxiii + 468 p. O.   
- 
 * vSCI Resnick, Mike. ed. This is my funniest. Dallas : Benbella, c2006. 427 p. O.  
- 
 * dFIC Sinclair, Lewis. It can't happen here. n.p. n.d. v.   
  Read on cruise. -r 
- 
 * d817 Barry, Dave. Only travel guide you'll ever need. N.Y. c1991. xi, 171 p. 22 cm.  
- 
 * d241 Jung, Patricia Beattie; Jung, Shannon. Moral issues and Christian respoonses. n.p. n.d. v.  
- 
 * d922 Thatcher, M. Downing Street years. n.p. c1995, c1993. kb. via Overdrive. 
 -r  Read 2012-11. 
 -q  (As Arthur Shenfield put it, the difference between the public and private sectors was that the private sector was controlled by government, and the public sector wasn't controlled by anyone.) - 
@@ -786,11 +601,8 @@
 -q  Home Secretaries never do have an easy time; it is sometimes said that they possess a unique combination of responsibility without power... 
 -q  ... they become touchy and uncertain about their standing; and all this makes them vulnerable. 
  It seemed to me that what happened there contained important lessons which we should heed. First, it is unwise to intervene in such situations unless you have a clear, agreed objective and are prepared and able to commit the means to secure it. Second, there is no point in indulging in retaliatory action which changes nothing on the ground. Third, one must avoid taking on a major regional power, like Syria, unless one is prepared to face up to the full consequences of doing so. -q 
- 
 * kFIC Kent, Jason. New sky, eyes of the watcher. n.p. n.d. kb  
- 
 * kFIC Hinkens, Norma. Immurement. Dunecadia Publishing, 2015. 6229 kb. (Undergrounders ; 1)  
- 
 * dFIC Hautman, Pete. Invisible. n.p. n.d. v.   
 -r  Read 2011-10. 
 -q  I find it hard to get along with people. -p. 142 
@@ -803,9 +615,7 @@
 -q  Some people might disagree..., but they would be wrong. -p. 64 
 -q  My parents thing I'm socially backwards because I don't have any friends. I don't see see it as a problem. Most kids are stupid. -p. 78 
  I'm afraid it's a case of your word against thiers... theirs is wrong. -p. 96 -q 
- 
 * kFIC Lea, Catherine. Candidate's daughter. n.p. n.d. kb.  
- 
 * k920 Stevens, John Paul. Five chiefs. Little, Brown, and Company, 2011. First e-book ed. kb. ISBN 9780316199780.    
  Read 2011-10 and 2020-04. Grade C. -r 
  Article, section, paragraph
@@ -827,7 +637,6 @@
  Historical analysis is usually relevant and interesting, but it is only one of many guides to sound adjudication.
  Moreover, just as the meaning of the Eighth Amendment itself responds to evolving standards of decency in a maturing society...
  As Thurgood Marshall observed on more than one occasion, the Constitution does not prohibit Congress from enacting stupid laws. 
- 
 * d973 Simon, James F. What kind of nation. N.Y. c2002. 348 p. 23 cm.  
 -r  Read 2005-11. 
 -q  Dispite his reservations, Jefferson had ultimately agreed with Madison on the need for ratification. -p. 24 
@@ -844,19 +653,12 @@
 -q  The Pickering impeachment was a partisan brawl. -p. 197 
 -q  He [Jefferson] was the master of indirection. -p. 200 
  ... whether a federal judge could order the president of the United States, the head of a coequal branch of government, to produce evidence for a criminal trial. -p. 239 -q 
- 
 * kFIC Pitts, Leonard, Jr. Freeman. Agate Bolden, 2012. 815 kb.  
- 
 * k920 Bukruian, Christine. Gypsy spirit. CreateSpace, 2012. 1061 kb.  
- 
 * kSCI Zenner, Brandon. After war. n.p. 2016. 3275 kb. (After War 1)  
- 
 * kFIC McAfee, Stephanie. Ace Jones, misadventures in a winter wonderland. n.p. n.d. kb.  
- 
 * kFIC Healy, M.R. After the winter. n.p. 2014. 794 kb (Silent Earth 1)  
- 
 * kFIC Martucci, Jennifer and Martucci, Christopher. Planet Urth. n.p. 2013. 2746 kb (Planet Urth 1)  
- 
 * dFIC Miller, Rand. Myst : the book of Atrus / [by] Rand and Robyn Miller; with Wingrove, David. N.Y. c1995. 422 p. 18 cm.  
  Read 2013-10. Grade C.
  Seven years he had lived with her now; seven years in this dry and desolate place, and never once had she let them go hungry. That in itseld, he [Atrium] knew, was a kind of miracle... 1ach night, surviving, they gave thanks.
@@ -875,17 +677,11 @@
  The story begins with Atrus living with his grandmother; helping her around her estate, and learning about the world. Then his father Ghen comes to take him away to the age of D'ni. Here, the father teaches the son the art of writing. Atrus quickly excels, so quickly that he is able to see fatal flaws in the way that his father writes. After many disagreements, Ghen locks him away. But Ghen's fiance Catherine helps rescues Atrus. The story ends with Catherine and Atrus creating their own age to live in. I would recommend this to one who enjoys fantasy, books, and parent/child relationships.
  -p.
  -r 
- 
 * k920 Harvey, Tom. Eighties. n.p. c2012. 1031 kb.   
- 
 * k896 Finnegan, Ruth. Oral literature in Africa. Open Book Publishers, 2012. 4506 kb. (World Oral Literature 1)  
- 
 * k817 Spears, JoAnne. Seven will out. n.p. 2015. 4419 kb.  
- 
 * kFIC Schannep, James. Infected. n.p. 2013. 804 kb.  
- 
 * kFIC Houston, Allen. Nightfall gardens. Flycatcher Books, 2013. 1029 kb. (Nightfall Gardens 1)  
- 
 * d909 Harari, Yuval Noah. Sapiens. 1st ed. N.Y., c2015. 443 p. 24 cm.  
 -q  The chimpanzees are the closest. Just 6 million years ago, a single female ape had two daughters. One became the ancestor of all chimpanzees, and the other is our own grandmother. -p. 5 
 -q  The more eastern regions of Asia were populated by Homo erectus. 'Upright Man', who survived there for close to 2 million years, making it the most durabe human species ever. This record is unlig\kely to be broken even by our own species. It is douhtful whether Homo sapiens will still be around a thousand years fro nw, so 2 milion years is really out of our leaue. -p. 6 
@@ -921,7 +717,6 @@
  The first Americans arrived on foot, which they could do because, at the time, sa levels were low enough that a land bridge connected north-eastern Siberia with north-western Alaska.	69	q
  According to current estimates, within a short interval, North america lost thirty-four out of its forty-seven genera of large mammals.	71	q
  At the time of the Agricultral Revolution, only about a hundred[large terrestrial mammals] remained. Homo sapiens drove to extinction about half of the planet's big beasts long before humans invented the wheel, writing, or iron tools.	72	q 
- 
 * d970 Fagan, Brian. First North Americans. N.Y. 2011. 272 p. 25 cm.  
  Read 2013-09. Grade B.
 -q  How large this population was [that came across the Bering Land Bridge] is still a matter of debate and guesswork, with figures ranging from a mere seventy individuals to between 1,000 and 5,400 people. -p. 16 
@@ -954,44 +749,25 @@
 -q  Male prisoners were often slain in elaborate sacrifices to the sun, women and childen usually permitted to live. -p. 243 
 -q  Most likely, warfare was a quest for perosnal prestige. As time went on, the basic tasks of hunting, fishing, and forest clearance... became collective tasks... Women, as the frmers, now accounted for more food and were the dominant social lineages. Thus, men had to prove themselves and their worth. -p. 244 
  Bruce Trigger: Increased warfare lead to larger communities = leading to less intervillage marriage = less contact/association = more warfare. "Thus... the men assumed a prestigious role in a society that was becoming more and more sedentary and agricultural". -p. 244-5 -f 
- 
 * k941 Strange, Jack. Strange Tales of Scotland. 2nd ed. n.p. 2017. 372 kb. (Jack's Strange Tales 1)  
- 
 * p892 Coogan, Michael; Smith, Mark S. Stories from ancient Cannan. 2nd ed. John Knox Press, c2012. TXT file via USB. stories2011.txt. ISBN 9780664232429.  
- 
 * p974 Bradford, William. Bradford's history 'Of Plimoth plantation'.  Bost., Wright and Potter, 1898. PDF? via USB. Filename: 3022.  
- 
 * d304 Goodall, Jane. Book of hope / Goodall, Jane and Abrams, Douglas with Hudson, Gail. N.Y. c2021. xiv, 252 p.  
- 
 * kFIC Kroese, Robert. Dream of the Iron Dragon. St. Culain Press, 2018. 2073 kb. (Saga of the Iron Dragon 1)  
- 
 * kFIC Picker, Lester. First Pharaoh. n.p. n.d. kb.  
- 
 * dSCI Martin, S.R. Minders of the mountain. n.p. n.d. v.   
- 
 * kFIC Heldt, John A. Mine. n.p. 2012. 3118 kb. (Northwest Passage 1)  
- 
 * kFIC Isenhoff, Michelle. Song of the mountain. n.p. 2012. 1376 kb. (Mountain 1)  
- 
 * kFIC Smith, Stan C. Diffusion. n.p. 2015. 2669 kb. (Diffusion 1)  
- 
 * k818 Thoreau, Henry David. Walden, and On the duty of civil disobedience / Henry David Thoreau. n.p. n.d. kb.  
- 
 * kFIC Nicolson, Scott. After : first light. Haunted Computer Books, 2014. 4346 kb.  
- 
 * dSCI Newman, Emma. Before Mars. N.Y. 2018. 340 p. 21 cm. (A planetfall novel ; 3).  
 -r  Read 2023-03. Grade C. Emma wakes up on Mars with a note painted in her style, and missing canvases. Having discovered the secret Segundus whose mission is to build a spaceship to go after Pathfinder, her memories of the previous five weeks have been erased. 
- 
 * kFIC Sage, Jennifer. Keltor. n.p. n.d. kb.  
- 
 * k918 Millard, Candice. River of doubt: Theodore Roosevelt's darkest journey. N.Y. 2009. 6303 kb.  
- 
 * kFIC Rice, Morgan. Rise of the dragons. Morgan Rice, 2014. 3105 kb. (Kings and Sorcerers 1)  
- 
 * kFIC Stebbins, Eric. Intel 1 Omnibus : books 1-4.. Twice Pi Press, 2016. 9839 kb.  
- 
 * kFIC Gilvenzan, D. Drowned in the grenadine: or, how to fail in show business by really, really trying. CreateSpace, 2011. 1563 kb.  
- 
 * kFIC Lamoreus, Daniel. Apparition lake / ... [and] Doug Lamoreus. Creativia, 2014. kb.   
 -r  Read 2017-05. Grade C. 
 -q  This we know… the earth does not belong to man, man belongs to the earth. All things are connected; like blood which connects one family. Whatever befalls the earth befalls the children of the earth. Man did not weave the web of life – but is merely a strand in it. Whatever he does to the web, he does to himself.” Chief Seattle, 1854 
@@ -1015,32 +791,19 @@
 -q  I swear he goes on more about Great Spirits and healing the world than any idiot I've ever known. 
 -q  Years of taking game illegally had taught Jessie two things; first, let only your friends watch you work and, second, you have no friends. 
  The Spirit Bear saw my heart and knew I posed no threat to Mother Earth. And, instead of killing me, it delivered a warning. -q 
- 
 * kFIC Mills, Becca. Nolander. n.p. 2013. 863 kb. (Emanations 1)  
- 
 * kFIC Wetherell, Stephen. Last volunteer. n.p. n.d. kb.  
- 
 * k920 Lohnes, William. Ness City chronicles. n.p. 2011. 136 kb.  
- 
 * kFIC Yanez, Jonathan. Decadia code / Jonathan Yanez, Apryl Baker. n.p. n.d. kb.  
- 
 * kFIC Updegrove, Andrew. Lafayette campaign. 1st ed. n.p. 2015. 1819 kb. (Frank Adversego Thrillers 2)  
- 
 * kFIC Snyders, Andrew. Alterium. 1st ed. n.p. 2012. 570 kb.  
- 
 * kFIC Stiff, Kyle B. Demonworld. 1st ed. n.p. 2012. 4880 kb. (Demonworld 1)  
- 
 * k920 Arbiter, Dickie. On duty with the Queen. n.p. 2014. 1984 kb.  
- 
 * dFIC Rowling, J.K. Harry Potter and the deathly hallows. n.p. n.d. v.   
- 
 * kFIC Hertling, William. Last firewall. liquididea press, 2013. 542 kb. (Singularity 1)  
- 
 * dFIC Rowling, J.K. Harry Potter and the prisoner of Askaban. n.p. n.d. v.  
  17 Black and Lupin reveal themselves in the shrieking shack. 
- 
 * dFIC Ingelman-Sunberg, Catharina. Little old lady behaving badly, tr. from the Swedish by Rod Bradbury. First U.S. edition. N.Y. 2018. 443 p. 21 cm.  
- 
 * d923 De Kler, F.W. Last trek. N.Y. c1998. xx, 412 p. 24 cm.  
 -q  At that time we did not regard non-white South Africans as part of the South African nation. We believed that they should find their own political destiny within their own nations and areas. -p. 28 
 -q  On the whole, I believe that sanctions did more to delay the process of transformation than they did to advance it... at a time when our own universities, students, artists, and scientists were ripe to become proponents of change within our society, they were cut off from the very influences that could have encouraged them to play this role. -p. 71 
@@ -1050,25 +813,15 @@
  were dignity, courtesy and self-confidence. He also had the ability to radiate unusual
 -q  warmth and charm - when he so chose. He was every inch a Tembu patriarch and bore the mantle of authority with the ease of those who are not troubled by self-doubt. -p. 157 
  Ch. 16: De Klerk becomes president. Meeting with Mandella. -s 
- 
 * k910 Smith, Gregory Newell. Solitude of the open sea. n.p. n.d. kb.  
- 
 * kFIC Quinn, Susan Kaye. Legacy human. Twisted Space, 2015. 1545 kb. (Singularity 1)  
- 
 * kFIC Nietz, Kerry. A star curiously singing. 2nd ed. n.p. 2016. 645 kb. (DarkTrench 3)  
- 
 * k920 Hewitt, Florian. Einstein. n.p. n.d. kb.  
- 
 * k813 The black pearl of Osis / Ingrid McCarthy; Tom Szyc. 2nd ed. n.p. 2012. 590 kb. (Osis Fantasy 1)  
- 
 * k960 Idjennaden, Bob. Kingdom of Numidia. n.p. 2012. 471 kb. (The Forgotten Civilisations 1)  
- 
 * kFIC Harden, James. Lost journal of Private Kenji Yoshida. n.p. 2013. 567 kb.  
- 
 * kFIC London, Jack. Adventure. n.p. n.d. kb.  
- 
 * k817 Briscoe, Tom. 99 reasons to hate cats. n.p. 2012. 2571 kb.  
- 
 * dFIC Rothfuss, Patrick. Wise man's fear. N.Y. c2011. 993 p. 24 cm.  
 -r  Read 2013-01. 
 -s  Ch. 07: Ambrose drugs Kvothe. 
@@ -1088,21 +841,13 @@
 -q  ... secret craft called the Lethani. This let them wear their quiet like an armor that would turn a blade or stop an arrow in the air. This is why they seldom spoke. They saved their words, keeping them inside liek coals in the belly of a furnace. -p. 279 
 -f  Ciridae: the highest order of the Amyr. -p. 289 
  You might be a see-er eventually, but not yet. Now you are a look-er. YOu'll be a true E'lir at some point. If you learn to relax... Too much looking can get in the way of seeing... -Puppet -p. 299 -q 
- 
 * kFIC Ward, Tracey. In the end. n.p. 2014. 1250 kb. (Quarantined 2)  
- 
 * kFIC Saint, Nic. Between a ghost and a spooky place. Puss in Print Publications, 2016. 1376 kb. (Harry McCabre 1)  
- 
 * k920 Harvey, Rob. Three hours to kaiping. n.p. n.d. kb.  
- 
 * k910 Trease, Geoffrey. Grand tour. The Odyssey press, 2017. kb.  
- 
 * d928 L'Amour, Louis. Education of a wondering man. n.p. n.d. v.  
- 
 * kFIC Goodkind, Terry. Temple of the winds. n.p. n.d. kb.  
- 
 * dFIC Shelley, Mary. Frankenstein. n.p. n.d. v.  
- 
 * dSCI Herbert, Brian. Sisterhood of dune. N.Y. 2012. 496 p. 24 cm.  
 -f  Battle of Corrin: 84 b.y., The defeat of the thinking machines. -p. 13 
 -f  Rossak: Fictional planet, a jungle. -p. 13 
@@ -1113,22 +858,14 @@
  Bilbertus Albans, M, fictional
 -q  Founder of the school on the planet Lampadas where he teaches humans to order minds like machines. -p. 13 
  Dispte the time that has passed since the defeat of the thinking machines, antitechnology fervor continues to weep across the human-settled planets... -p. 14 -q 
- 
 * k920 Hampton, David. Our authentic selves. n.p. n.d. kb.  
- 
 * kFIC Jones, D.F. Colossus. n.p. n.d. kb.  
- 
 * k973 Philbrick, Nathaniel. Mayflower. N.Y., Penguin, 2007. kb.  
 -q  "By the midpoint of the seventeenth century... the attitudes of many of the Indians and English had begun to change... young Pokanokets claimed it was time to rid themselves of the English. The Pilgrims' children... coveted what territory the Pokanokets sill possessed... both sides had begun to envision a future that did not enclude the other." 
- 
 * kFIC Whaler, Jacob. Stones. n.p. 2013. 804 kb. (Stones 1)  
- 
 * k915 Abt, Felix. Capitalist in North Korea. 1st ed. n.p. 2014. 13794 kb.   
- 
 * kFIC Hill, Travis. Big bhang. n.p. 2016. 3032 kb.  
- 
 * kFIC Mohraman, Travis. Humid. n.p. 2015. 4298 kb.  
- 
 * kSCI Scalzi, John. Last Emperox. N.Y. 2020. 4459 kb.  
 -r  Read 2017-06. Grade C. 
 -f  Captain Alexander de Leon, protagonist 
@@ -1146,43 +883,24 @@
 -q  ... an admiral in name more than function. 
 -f  World Peace Treaty of 2793 
  What else was out there? People had been looking up at the stars and asking that question for as long as humans had walked the Earth, and now that they were flying through space, they were still no closer to answering it. -q 
- 
 * kFIC Ringo, John. There will be dragons. n.p. n.d. kb.  
- 
 * d817 Barry, Dave. Money secrets. n.p. n.d. v.  
- 
 * kFIC Konkoly, Steven. Jakarta pandemic. n.p. 2015. 5572 kb. (Alex Fletcher 1)  
- 
 * kFIC Tolstoy, Leo. War and peace : with bonus material from 'Give War and Peace A Chance' by Andrew D. Kaufman. N.Y. 2014. 13296 kb.  
- 
 * kFIC Piperbrook, T.W. Contamination. Post Script Publishing, [n.d.] kb.  
- 
 * k813 The Killing Jar / R.S. McCoy. n.p. 2016. 1484 kb. (Extraction Files 1)  
- 
 * kFIC Hunter, Tab. Janus project. 1st ed. T. Hunter, 2013. 762 kb.  
- 
 * dFIC Slattery, Brian Francis. Lost everything. n.p. n.d. v.   
- 
 * kFIC Nusbaum, J.C. The mystic travelogues. Eltanin Publishing, 2011. 1555 kb.  
- 
 * kFIC Marshall, Harold. Shadow Cabinet. n.p. n.d. kb.  
- 
 * kFIC Robert, J. Kennedy. Protocol. 3rd ed. n.p. 2014. 4405 kb. (James Acton Thrillers 1)  
- 
 * kFIC McPhail, Courtney. Exodus. n.p. 2015. 822 kb. (The Omega Protocol Chronicles 1)  
- 
 * kFIC Sakmyster, David. Pharos objective. n.p. 2016. 4316 kb. (The morpheus initiative ; 1).  
- 
 * kFIC Stokes, Samuel. Coronation of kings. Samuel Stokes, 2015. 3234 kb. (Kingdom Divided 1)  
- 
 * kFIC Stowe, Harriet Beecher. Uncle Tom's cabin. Coterie Classics, p1852. 790 kb.  
- 
 * g813 Wells, Martha. Reliquary. n.p. n.d. kb.  
- 
 * k817 A problem Wwth donuts / Ben Woodard, Wendy Currier. n.p. 2014. 10196 kb.  
- 
 * k813 Logging Off / Caitlin McKenna. n.p. 2013. 835 kb.   
- 
 * dSCI Anderson, Kevin J. Eternity's mind. N.Y. c2016. 572 p. (The Saga of shadows ; 3).  
 -r  2022-11  C  A science fiction novel. The war with Shana Rei is won when Ecco destroys it, and, in the process, destroys the robots by accident. 
 -s  1 The faeros come as Jorah tries to control them 
@@ -1227,19 +945,12 @@
 -s  122 The faeros cause the fireheeart sun to go supernova, and explode. 
 -r  Thd basic idea of this books is that the, when the darkenss appears, just let in the light. 
 -s  124 sensing the light coming in, the orthos, having succumed tocthe shana rei, surrenders. 
- 
 * d870 Kellogg, Michael K. Roman search for wisdom. n.p. n.d. v.   
- 
 * kFIC King, B.J. Nimbus, a steampunk novel / B.J. King ; Austin Keeton. n.p. 2012. 803 kb. (Nimbus 1)  
- 
 * k920 Ruszala, Michael J. Pope Francis. n.p. 2014. 1525 kb.  
- 
 * kFIC Orgambide, Guy. Feeble drift. Guy Orgambide, 2011. 1400 kb. (Fugue Trilogy; 1).  
- 
 * k822 Shaw, George Bernard. Caesar and Cleopatra. n.p. n.d. kb.  
- 
 * kFIC Martucci, Jennifer. Planet Urth. 1st ed. [The authors], c2013. kb.  
- 
 * d973 Kennedy, Roger G. Mr. Jefferson's lost cause. Oxford, 2003. xv, 350 p.  
  How much better to have every 160 acres settled by an able-body militia man, than by purchasers with their hordes of Negroes, to add weakness instead of strength. - T.J. to Albert Galatin, Dec. 24, 1807.
 -q  One reason for Jefferson's bias against cities in general, and against industrial cities expecially, was surely that even in the South cities were places where black articians congregated... Black articians had repeatedly led revolts to overturn slavery... Jefferson could not be expected to look beyond the conventions he feared from the presence of free blacks everywhere in the South to envision a future when a flight of blacks to cities reduced the role of rural slavery and thus not only increase the resilience of yeoman agrarianism but also provided urban markets close by. -p. 53-4 
@@ -1251,48 +962,29 @@
 -q  ... republican order... bottomed [upon]... a mass of small independent farmers... -Thomas Jefferson -p. 67 
  The Lost Cause of Thomas Jefferson
  a Southland republic of free and independent yeoman... -p. 73 -q 
- 
 * kWES Williams, Marty. Kincaid, Bounty Hunter. n.p. 2014. 607 kb.  
- 
 * kFIC Legg, Brandt. Outview. n.p. 2016. 3522 kb. (Inner Movement 1)  
- 
 * kFIC Yauchler, Kyan. Homeostasis lost. n.p. 2014. 655 kb. (Homeostasis Lost 1)  
- 
 * k920 Asbridge, Thomas. Greatest knight. n.p. 2014. 16068 kb.  
 -s  A biography of William Knight, co-judiciar of England in the 12th century. 
- 
 * kFIC Lamb, Lynn. Monte Vista village. 2nd ed. n.p. 2014. 3315 kb. (Survivor Diaries 1)  
- 
 * kFIC Kephart, Carolyn. Wysard. 3rd ed. n.p. 2013. 2964 kb. (Ryel saga ; 1)  
- 
 * kFIC Thomas, Michael G. Siege of Titan. 3rd ed. n.p. 2014. 575 kb. (Star Crusades Uprising 1)  
- 
 * dFIC Mitchell, J. Baron. Midnight city. N.Y. c2012. 392 p. 22 cm. (Conquered Earth 1)  
 -s  10 Holt finds a girl named Zoey; the assembly is after her; she knows his name before he tells it. 
 -q   It's not my problem... I don't get involved. It's my ule. I only do what I have to do to survive, and right no that means taking you back. -Holt -p. 90 
 -s   11-15 S They run into Mantis's; Zoey and Mira get away, but he finds them again. And Holt turns Zoey loose. 
   17 They come across an abandoned city, and a flash flood. Mira saves Holts life. -s 
- 
 * kFIC Hunter, Elizabeth. A Hidden Fire. 2nd ed. n.p. 2011. 3595 kb. (Elemental Mysteries ; 1)  
- 
 * kFIC Johnson, William Crow. Earth 2.1, Regenesis. n.p. 2013. 896 kb.  
- 
 * d327 Vidal, Gore. Dreaming war. N.Y. c2002. 196 p.  
- 
 * kFIC O'Brien, Dan. Path of the fallen. n.p. n.d. kb.  
- 
 * kFIC Stevens, Deborah.  Serpent's disciple. n.p. n.d. kb.  
- 
 * dFIC Weaver, Will. Memory boy. n.p. n.d. v.   
- 
 * kFIC Morgan, Andrew J. Noah's ark. n.p. 2013. k. 3348 kb.  
- 
 * kFIC Malerman, Josh. Bird box. Ecco, 2014. 1912 kb.  
- 
 * kFIC Stevens, Deborah. Serpent's disciple. 1st ed. Smith House Press, 2013.  
- 
 * v289 Cheetham, Henry H. Unitarianism and Universalism, an illustrated history. Drawings by Martin, Roger. Bost. [1962]. 124 p. 21 cm.  
- 
 * dFIC Kress, Nancy. Tomorrow's kin. N.Y. 2017. 367 p.   
  Marianne Jenner, scientist.
  Ryan, Elizabeth, Noah, siblings, Kids of Marianne
@@ -1306,60 +998,37 @@
 -q  Actually, he never weeps at all... [he] holes up in his lab at Cambridge and glowers at the world through medieval arrow slits. -p. 61 
  
  Something about the United States seemed to provide a fertile medium for cultural hate groups, irrational scapegats, mass shootings, and the blame game. -p. 204 -q 
- 
 * k001 Flying saucers. n.p. 2016. 1711 kb.  
- 
 * kFIC Sursum, C.J. Falling as she sings. n.p. 2016. 1271 kb.  
- 
 * k973 50 core American documents. n.p. 2014. 969 kb.  
- 
 * dFIC Russell, Sean. World without end. N.Y., Daw, 1994. 606 p. (Moontide and magic rise 1).  
 -r  A fantasy book. Tristen, a botanist, gets pulled into palace intrigue when called to regarding a plant that can save the kings live.  I found it really slow.9 Tristam attends a society meeting. Meets Lord Trevelyan, who is looaing his mind. Palle says hisbservices are no longer needed. 
- 
 * kFIC Stebbins, Erec. Reader. Twice Pi Press, 2014. 11927 kb. (Daughter of Time 1)  
- 
 * kFIC Vicino, Anthony. Time heist. 1st ed. N.Y. 2014. 4278 kb. (Firstborn Saga 1)  
- 
 * kFIC Wallace, Angela. Elemental magic. n.p. 2011. 3914 kb.  
- 
 * k813 The ancient lands : warrior quest : search for the Ifa Scepter / Jason McCammon; Shawn Alleyne.  Brown-Eyed Dreams LLC., 2009. 4756 kb.  
- 
 * d232 Ehrman, Bart D. How Jesus became God. n.p. n.d. v.  
- 
 * pFIC Rowling, J.K. Harry Potter and the chamber of secrets. N.Y. : Scholastic Inc., 1999. 2 MOBI files via USB. 2792a.mobi and 2792b.epub. ISBN 9780439064864.   
 -s  ch. 1: harry goes to his room to find someone on his bed -p. 
 -s  ch. 2 dobby tells harry he must not go back to hogwarts -p. 
 -f  Wattlebird -p. 84 
 -f  'Flint, Marcus'Captain of the Slytherian Qidditch team. -p. 110 
  the prudent wizard keeps his head down in such times. -Horice Slughorn -q 
- 
 * kFIC Hale, Ben. Last oracle. Snowlight Publishing, 2013. 2449 kb. (The White Mage Saga 1)  
- 
 * dFIC Chichton, Michael. Airframe. n.p. n.d. v.  
- 
 * g823 Rowling, J.K. Harry Potter and the chamber of secrets; ill. by Mary Grandpre. n.p. Pottermore, c1998. kb. ISBN 9781781100356.  
- 
 * g939 Cauvin, Jacques. Birth of the gods and the origins of agriculture, tr. by Trevor Watkins. [U.S.?] Cambridge University Press, 2000. 11.3 mb.  
- 
 * d291 Rites of passage. n.p. n.d. v.  
- 
 * dFIC Willis, Sarah. Some things that stay. n.p. n.d. v.   
- 
 * kFIC Gepner, K. Pavement ends : exodus. n.p. 2015. 1561 kb.  
- 
 * kFIC O'Brien, Terrence. Templar concordat. n.p. 2010. 1117 kb.  
- 
 * kLG+ Nevada, P.J. These Florida nights. n.p. n.d. k.   
  home to Long Branch
  I hope it's more than sex, though. Love and devotion can feel amazing.
  
- 
 * kFIC Miles, Ryan. Void succession : battles won. n.p. n.d. kb.  
- 
 * kFIC Shephard, Luke. Colony Z. n.p. 2013. 2657 kb.  
- 
 * kFIC Hamilton, Kersten. Tyger Tyger. n.p. n.d. kb.  
- 
 * kSCI Clarke, Arthur C. Fall of moondust. n.p., RosettaBooks, c1951, c2012. 1610 kb.  
 -s  3 the selene is missing. 
 -q  “Our big problem,” said the Commodore (and Pat did not in the least resent that ‘our') 
@@ -1378,30 +1047,18 @@
 -q  American astronomer named O'Neill observed something very remarkable here on the Moon. 
  WOTD: Saucerites
  30 they are pulledd out. -s 
- 
 * kFIC Holmberg, D.K. Festival of mourn. n.p., ASH Publishing, 2021. 5477 kb. (Dark Sorcerer 1)  
- 
 * kSCI Westover, Tim. Auraria. n.p., QW Publishers, 2012. 2306 kb.   
- 
 * dFIC Mullin, Mike. Ashen winter. n.p. n.d. v.   
- 
 * d817 Barry, Dave. Hits below the beltway. n.p. n.d. v.   
  A humor book about politics. -s 
- 
 * kFIC Wallace, Benjamin. Post-apocalyptic nomadic warriors. n.p. 2011. 6169 kb. (Duck and Cover 1)  
- 
 * kFIC Zales, Dima. Sorcery code. n.p., Mozaika Publications, 2014. 424 kb. (Sorcery Code 1)  
- 
 * kFIC Sullivan, Phoenix. Sector C. n.p., Steel Magnolia Press, 2014. 1647 bk..  
- 
 * kFIC Kuijpers, Elaina Keighley. Spacegate. n.p. n.d. kb.  
- 
 * dFIC Brooks, Terry. Talismans of Shannara. n.p. n.d. v.  
- 
 * kFIC Smitherd, Luke. Wierd. Dark. n.p., Flying Body Press, 2015. 377 kb.  
- 
 * kFIC Salidas, K.A. Dissension. n.p., Rising Sign Books, 2014. 4824 kb. (Chronicles of the Uprising 1)  
- 
 * d923 Greenberg, David. Calvin Coolidge. N.Y. c2006. xviii, 202 p. 22 cm.  
 -q  Coolidge was fiercely unrevealing about his personal thoughts and feelings. -p. 7 
 -q  If you keep dead still, they will run down in three or four minutes. If you even cough or smile they will start up all over again. -Calvin Coolidge -p. 9 
@@ -1425,31 +1082,19 @@
  Classically conservative on economic policy and averse to progressive leadership on social policy, Coolidge was in foreign affairs a cautious moderate... -p. 88
 -q  
  [Charles Augustus] Lindbergh's solo journey from New York to Paaris on May 20-21, 1927, transformed the blond, twenty-five-year-old aviator into a folk hero... years later, Lindberg would be revealedd as an anti-Semite and Nazi sympathizer... -p. 125-127 -q 
- 
 * kFIC Lalonde, Randolph. Spinward fringe, Broadcast 0, Origins. 5th ed. n.p. 2010. 2715 kb. (Spinward Fringe 1)  
- 
 * kFIC Bronte, Anne. Tenant of Wildfell Hall. n.p. Filibooks, 2016. 4741 kb.  
- 
 * d923 Seward, Igrid. William and Harry. n.p. n.d. v.  
- 
 * kFIC Pfeffer, Susan Beth. This world we live in. Reprint. ed. n.p. 2010. 8777 kb. (Life As We Knew It 3)  
- 
 * kFIC O'Malley, Caris. Egg said nothing, The. n.p., Eraserhead Press, 2010. 1948 kb.  
- 
 * dFIC Rowling, J.K. Harry Potter and the goblet of fire. Ill. by Grandpre, Mary. N.Y. c2000. 734 p. 21 cm.  
- 
 * dFIC Mullin, Mike. Ashfall. Terre Haute, Ind. 2011. 466 p. 23 cm.  
  Catastrophy: An Investigation into the Origins of the Modern World by David Keyd. Ballantine, 1999. Describes how a volcanic event in 535 A.C.E. changed civilizations across the globe. Very useful for considering the possible political, social, and epidemiological consequences of a supervolcano. -p. 460 -q 
- 
 * kFIC Taylor, Keary. Bane, The. n.p., Keary Taylor books, 2013. 2638 kb. (Eden 1)  
- 
 * kFIC Henrikson, Mark. Origins. n.p. 2013. 3747 kb.  
- 
 * k930 Davidescu, Mircea. Lost Romans. 1st ed. n.p., Mircea Davidescu, 2013. 3321 kb.  
- 
 * dFIC Brown, Erik J. All that's left in the world. Lond. 2022. 353 p.  
 -q  "If things get hard again, I'll carry him. and he'll carry me." 
- 
 * dFIC Marsden, John. Tomorrow, when the war began. N.Y. c1993. 277 p. 21 cm.  
 -s  1 introduction to characters. A group of 7 teens plan to go camping. 
 -s  2 hiking. 
@@ -1463,70 +1108,38 @@
 -s  17 a sort of council where the group exchanges information that each has discovered. 
 -q  All these words, words like 'evil' and 'cicious', they meant nothing to nature. Yes, evil was a human invention. -p. 235 
  20 They plan on blowing up the bridge. -s 
- 
 * kFIC Twain, Mark. Tom Sawyer collection - All Four Books. n.p., Enhanced Media Publishing, 2016. kb. Contents: Adventures of Tom Sawyer -- Adventures of Huckleberry Finn -- Tom Sawyer abroad -- Tom Sawyer detective.  
- 
 * kFIC Robertson, Michael. Alpha plague. n.p., Phalanx Press, 2015. 3080 kb. (Alpha Plague 1)  
- 
 * kFIC Gunderson, C. Tier 1. n.p., Button Press, 2019. 4576 kb. (Tier 1)  
- 
 * kFIC Wheeler, Jeff. Landmoor. n.p., Amberlin Books, 2003. 2332 kb.  
- 
 * k980 Rossignol, Ken; Keppler, Udo J., ill. Panama 1914. n.p., Privateer Clause Publishing Co., 2012. 40631 kb. (Twentieth Century History)  
- 
 * kFIC Smash, B.J. Witches of Merribay. 2nd ed. n.p., B.J. Smash, 2013. 2142 kb. (Seaforth 1)  
- 
 * kFIC Smith, E.E. First lensman. n.p., Serapis Classics, 2017. 802 kb. (Lensman 2)  
- 
 * kSCI Into Tolari space / Christie Meierz. n.p. n.d. kb.  
- 
 * gFIC Rowling, J.K. Harry Potter and the Order of the Phoenix; ill. by Mary Grandpre. n.p. c2003. 5 mb. ISBN 9781781100387.  
- 
 * kFIC Strefling, Patricia. Edwina. n.p. 2010. 696 kb.  
- 
 * kFIC Sanderson, Brandon. Way of kings. 1st ed. N.Y. : Tor Books, 2010. 26857 kb. (Stormlight Archive 1)  
- 
 * kFIC Martin, K. Beckner. Million doorways. 1st ed. n.p. 2016. 1608 kb.  
- 
 * kFIC Shaw, A.R. China pandemic. 1st ed. n.p. 2013. 2975 kb. (Graham's Resolution 1)  
- 
 * kFIC Litore, Stant. Ansible 15715, Season 1, episode 1. n.p., Westmarce Publishing, c2014. 641 kb. (Ansible Stories 1)  
  Malala Ali, f 25th c. Graduated from Kaust. She transferred into a male body, and is on a world with lots of hunger. Aliens keep humans as cattle. They enter malala's mind, tell her to tell the humans on earth, but earth won't believe her. There appers to be a time travel dimension. When she comes back, they think she is a heretic, and burn her at the steak. Feels very much like matrix. 
- 
 * kFIC O'Sullivan, John F. Daygo's fury: the Daygo stream. n.p. 2015. 3604 kb.  
- 
 * kFIC Rain, J.R. Lost ark. n.p. 2013. 958 kb.  
- 
 * kWES Macrae, Mason. Sheriff of Elk Ridge. n.p., Pioneering Press, 2016. 875 kb.  
- 
 * kSCI Turnage, William. Extermination day. 1st ed. n.p. 2013. 1773 kb. (Extermination Day 1)  
- 
 * k920 Lillie, Scott. Tents, tortoises, and tailgates : my life as a wildlife biologist. n.p. 2014. 3062 kb.  
- 
 * kFIC Klein, katie. Guardian. n.p. 2011. 346 kb. (Guardians 1)  
- 
 * kFIC Rathbone, Brian. Dawning of power. Rutherfordton, N.C. : White Wolf Press, 2008. 4140 kb. (World of Godsland ; 1-3). Contents: Call of the Herald -- Inherited danger -- Dragon ore.  
- 
 * kSCI Douglas, T. Hunter. Operation Janus. 2nd ed. n.p. 2014. 762 kb.  
- 
 * k923 Doherty, Niall. Cargo ship diaries. n.p. 2014. 446 kb.  
- 
 * g973 Hulse, Carl. Obama is sworn in as 44th president. n.p. 2009. kb.  
- 
 * kFIC Voss, A.R. Key of creation / A.R. Voss, M.D. Bushnell. n.p. 2013. 1291 kb.   
- 
 * k920 Hewitt, Florian. Alexander Hamilton. n.p. n.d. kb.  
- 
 * k920 Roosevelt, Theodore. Theodore Roosevelt : an autobiography. N.Y., HarperTorch, 2015. 1047 kb.  
- 
 * kFIC The chaos protocol / Nancy McKibben; Jim Theodore.  n.p., Malmesbury Books, 2012. 848 kb. (Millennium Trilogy 1)  
- 
 * kFIC Lopez, Rob. Solar storm. 1st ed. n.p., 2017. 743 kb. (Survival EMP 1)  
- 
 * g823 Rowling, J.K. Harry Potter and the half-blood prince; ill. by Mary Grandpre. n.p. c2005. 3.4 mb. ISBN 9781781100394.  
- 
 * vFIC Four great American classics. N.Y. 1986, 2008. 883 p. S. Contents: The scarlet letter / Hawthorne, Nathaniel. -- The adventures of Huckleberry Finn / Twain, Mark. -- The red badge of courage / Crane, Stephen. -- Billy Budd, sailor / Melville, Herman. ISBN 9780553213621.   
- 
 * kSCI Clarke, Arthur C. 2061 : odyssey three. RosettaBooks, c1987, 2012. kb.  
  1 floyd gets ready for cruusing on "tge universe"
  There was surprisingly little opposition when that popular monarch, Edward VIII, was elected the first Planetary President, only a dozen states dissenting.
@@ -1545,46 +1158,26 @@
 -s  48 mt zeus is a diamond. 
 -s  56 mt zeus us gone, but massive duanonds Are all over tge juvian system. 
  epilogue: jupiter dies out. Massive duamoknd space ekevators connect with rings around the planet. -s 
- 
 * kSCI White, Stephen W. New world : a frontier fantasy novel. n.p. n.d. kb.  
- 
 * pFIC Rowling, J.K. Harry Potter and the sorcerer's stone. n.p. n.d. txt file via USB. 8032.txt.  
- 
 * kFIC Gillebaard, P. Moon hoax. Dream Access Books, 2011. 1679 kb. (Hoax 1)  
- 
 * kFIC Stouten, Dann A. Gate. Revell, 2013. 1413 kb.  
- 
 * kFIC White, April. Marking time. Corazon Entertainment, 2012. 2734 kb. (Immortal Descendants 1)  
- 
 * p923 Cathedral Church of Saint Peter and Saint Paul (Washington, D.C.). In celebration and of thanksgiving for the life of Gerald Rudolph Ford. [Washington, D.C. : The cathedral, 2006] File name: (0589.pdf) DBID 0589  
- 
 * kFIC Turkot, Joseph. Rain. n.p. n.d. kb.  
- 
 * k973 Vulich, Nick. Shot all to Hell : bad ass outlaws, gunfighters, and law men of the Old West. n.p. c2016. 3875 kb (Back when the west was wild 1)  
- 
 * kFIC Marcus, Robert B., Jr. Memories of darkness / Robert B. Marcus, Jr. n.p. 2020. 625 kb.  
- 
 * k920 Homer, Jill. Into the north wind : a thousand-mile bicycle adventure across frozen Alaska. Arctic Glass Press, n.p. 2016. 3124 kb.  
- 
 * dSCI Roth, Veronica. Divergent. n.p. n.d. v.   
- 
 * dFIC Tyrannosaur canyon. n.p. n.d. v.  
- 
 * d920 McManus, M. Edward Heath. n.p. n.d. kb. via Hoopla. 
   A biography about E.H., British M.P and Prime Minister. Lots of quotes from other sources. -s 
- 
 * k910 Bunting, Karrie. Trailer life : true tales of a 7 year RV adventure. n.p. n.d. kb.  
- 
 * kFIC Bronte, Charlotte. Jane Eyre. n.p. n.d. kb.  
- 
 * g291 Smith, Mark S.; Patrick D. Miller, fwd. Early history of God : Yahweh and the other deities in ancient Israel. 2nd ed. N.Y. c1990, 2002. kb.  
- 
 * k920 Penhaligon, James. Speak Swahili, dammit : a tragic, funny African childhood. Trevelyan Publishers Ltd, 2013. 921 kb.  
- 
 * kFIC Norwood, Thomas. Conception. 3rd ed. n.p., Global Activision Limited, 2013. 1207 kb. ((Perfectible Animals 1)  
- 
 * kFIC McDonald, M.P. Infection. n.p., MPMcD Publishing, 2016. 931 kb. (Sympatico Syndrome 1)  
- 
 * kFIC Pohl, Laura. The last 8. Sourcebooks Fire, 2019. 4191 kb.  
 -s   2 the aliens arrive. 
 -s  3 clovers bfc boah comes over. 
@@ -1623,45 +1216,25 @@
 -s  44 andy cant unlock fhe knkwledfe jn the spacecraft until she bas a connesxtion with the cosmos. 
 -s  45 a plan is hatched to distroy ghe vhive ship of the hostemn. 
  bubble of happiness growing inside me, and it doesn't matter how long it will last, because at least for tonight, it exists. And that's all that matters. 
- 
 * k917 Damm, nate. Life on foot : a walk across America. n.p. n.d. kb.  
- 
 * k909 Hourly History. Middle Ages. n.p. Hourly History, 2016. 1111 kb. (Medieval History)  
- 
 * k973 Lossing, Benson John. Lives of signers of the Declaration of Independence. n.p. n.d. kb.  
- 
 * kFIC Simmon, J.B. Blue tower. Three Cord Press, 2018. 4033 kb. (Five Towers 1).  
- 
 * k929 Urbanski, Julia. Between a rock and a white blaze. 1st ed. n.p. 2012. 758 kb.  
- 
 * kFIC Swapp, Justin. Magic shop. 1st ed. n.p., Createspace, 2014. 7963 kb. (Shadow Magic 1)  
- 
 * kFIC O'Dwyer, P.J. Relentless. n.p. Black Siren Books, 2012. 3935 kb. (Fallon Sisters 1).  
- 
 * kFIC Reed, N.C. Kid. n.p., Creative Texts Publishers, 2016. 1285 kb.  
- 
 * dFIC Penny, R.S. Symbiosis. n.p. n.d. v.   
- 
 * kFIC Hayes, Griffen. Primal shift, Part 1, collapse. n.p., Trebor Books, 2013. 1984 kb.  
- 
 * k920 Hamilton, Lynn M.; North, Wyatt. Gandhi. n.p., Wyatt North Publishing, 2015. 1018 kb.  
- 
 * k914 Foskett, Keith. Journey in between : Thru-hiking solo on the Camino to Santiago. n.p. 2010. 3004 kb (Thru-Hiking 1)  
- 
 * kFIC Robertson, Edward. Breakers series: Books 1-3. n.p. 2013. 1442 kb. Contents: Breakers -- Meltdown=Melt down -- Knifepoint.  
- 
 * k952 Newby, Jane M. In Japan's backcountry. n.p. 2014. k. 531 kb.  
- 
 * kFIC Poole, Jefferey. Prophecy. Hungry Griffin Publishing, [n.d.] kb.  
- 
 * kFIC Medbury, Scott. After days, affliction. n.p. n.d. kb. via kb.  
- 
 * kFIC Marsh, E.C. In Limbo. n.p. 2014. 1487 kb.  
- 
 * kFIC Zen, Raeden. Phantom of the Earth. n.p. 2015. 7625 kb.  
- 
 * k917 Quinn, Chris. Adventures of a trail stooge. n.p. 2015. 2704 kb.  
- 
 * kSCI Clarke, Arthur C. Childhood's end. n.p., RosettaBooks, c1951, c2013. 378 kb.  
 -q   He didn't like Sandmeyer, and he was sure the feeling was mutual. But neither let that interfere with business. 
 -s   1 the aliens arrive 
@@ -1692,11 +1265,8 @@
 -s   22 jan returns 
 -q   "no one of intelligence resents the inevitable.” 
   23 the overmind completely took over the minds of the kids -s 
- 
 * kFIC Uremovich, Christopher. Fable hill. n.p. 2017. 1797 kb.  
- 
 * kFIC James, Glynn. Thrown away. Element 12, [n.d.] kb.  
- 
 * kSCI James, P.D. The children of men. Vintage books, 1992.  241 p.  
 -f  Helena: Theo's ex-wife. 
 -f  Rupert: Helena's new husband. 
@@ -1717,12 +1287,9 @@
  From being the potent symbol of continuity and tradition, [the king] has become an unemployable archaic reminder of what we have lost.
 -q  -p. 89 
  Security, comfort, pleasure. Xan and his Council would approve. p. 118 -1 
- 
 * gFIC Scalzi, John. Consuming fire. N.Y. 2018. 1.8 mb.   
- 
 * w647 Estrada, Jessica. Five mindful habits that lead to a minimalist home. n.p. 2020. 66 kb. via [www](https://www.apartmenttherapy.com/5-mindful-habits-that-lead-to-a-minimalist-home-238768).  
 -o  1 Wash your dishes as soon as you're done using them.  2 Sort through mail as soon as you recieve it.  3. Clear off counter tops every night.  4. Be very strict about what you bring into your home.  5. De-clutter little spaces on a regular bases. 
- 
 * kFIC Camus, Albert. Plague. Lond., Penguin, 2002. 256 p.   
 -f  'Tarrou, Jean'a visitor to Oran -p. 21 
 -s  -p. 21- 
@@ -1748,21 +1315,13 @@
 -f  'Ramber, Raymond'jounralist (11) -p. 11 
 -q  'The language he [Rieux] used was that of a man who was sick of the world he lived in - though he had much liking for his fellow men - and had resolved, for his part, to have no truck with injustice and compromises with the truth.' -p. 11 
  Father panelouxa 'learned and militant Jesuit' (16) -p. 16 -f 
- 
 * kFIC Lamb, L. Beginning at the end of the world. n.p. 2014. 2750 kb. (Survivor Diaries 2)  
- 
 * kFIC Pass, Martyn J. Project 16. n.p. 2015. 2996 kb. (Tales from the Brink 1)  
- 
 * kFIC Lukeman, Alex. Lance. n.p. 2013. 2963 kb. (Project 2)  
- 
 * kFIC Stephenson, Paul. Last light. n.p., Hollow Stone Press, 2021. 11174 kb. (Sunset 1)  
- 
 * kSCI Ingram, Dennis. Foothold. 3rd ed. n.p., Imaginative Possibilities, 2014. 1615 kb. (Foothold ; 1).  
- 
 * kFIC Wright, Ian Rob. Final winter. n.p. 2014. 3184 kb.  
- 
 * kWES Underwood, Bobby. Wild country. Bobby Underwood, 2016. 1776 kb. (Wild Country 1)  
- 
 * dSCI Herbert, Frank. Dune. Berkley, c1965. 535 p.   
 -s  A group is planning to assassinate the Duke. 
 -f  Dr. Yueh is a spy for the Harkonnen's. 
@@ -1781,12 +1340,9 @@
 -q  Then she said a good ruler has to learn his world's language... the language of the rocks and gowing things, the language you don't hear just with your ears... the Mystery of Life.. [which] isn't a problem to solve, but a reality to experience. -Paul -p. 31 
 -f  SALUSA SECUNUS, the Emperor's prison planet. -p. 44 
  A messianic prophecy surrounds the boy. -f 
- 
 * kFIC Dickens, Charles. Christmas carol. n.p. Atria Books, 2013. 1633 kb.  
- 
 * dFIC Hobin, Robin. Dragon haven. N.Y. c2010. 527 p. 24 cm.  
  'I don't know how to hunt,' Sedred admitted. 'That's why I'll be teaching you,' Carson explained. He caught the hunter's hand, brought it to his mouth, and kissed the palm of it. -p. 501 -q 
- 
 * kLG+ St. Kevern, Gillian. Biggest scoop. n.p. 2017. 2241 kb.  
 -r  Read 2018-04. Grade C. 
  “Milo Markopoulos,
@@ -1795,9 +1351,7 @@
  “Fine, world, I get it”
  his voice inspired a warm flutter in my internal organs.
  The magic that happened whenever Taylor was near me was in full force. 
- 
 * k919 Carter, Jen. My Falkland Islands life. n.p. 2017. 18827 kb.  
- 
 * dFIC Redfield, James. Secret of Shambhala. N.Y. c1999. 251 p. 22 cm.  
 -s  1 Will and Young Natalie tells the narrator to go to Tibet. He was supposed to meet Will there, but Yin shows up saying that Will is busy. But they receive a note from Will saying tat they will be allowed to go to Shambhala. And they're being followed by Chinese intelligence officers. 
  Wilson James a/k/a Will, the narrators friend. -f -20220922
@@ -1834,15 +1388,10 @@
 -q  You are not strong enough to keep all negative thoughts out of your mind -p. 179 
 -q  That's why the idea of this Shambhala legend is so dangerous. It is based on absolute self-direction. - Colonel Chang -p. 189 
 -s  9 The chinese solders capture the narrator. 
- 
 * kFIC Moore, Michael. Talisman of Ictis. Michael J. Moore, n.d. kb.  
- 
 * dFIC Illuminator, The. n.p. n.d. v.  
- 
 * kFIC Mazurek, George. City of Wizards. n.p. 2014. 4097 kb. (Averot'h Saga 1)  
- 
 * kFIC Turner, Richard. Goliath. n.p. 2014. 2065 kb. (Ryan Mitchell 1)  
- 
 * k920 Kerman, Piper. Orange Is the new black. N.Y., Random House, 2010. 2919 kb.  
 -r  Read 2016-09. Grade C. 
  We now lock up one out of every hundred adults, far more than any other country in the world. -q 360
@@ -1866,11 +1415,9 @@
  whose will was in agreement with the natural order. -q 3782
  THE BIGGEST problem with the MCC was that there was nothing to do. -q 4435
  Great institutions have leaders who are proud of what they do, and who engage with everyone who makes up those institutions, so each person understands their role. -q 4588 
- 
 * dFIC Pfeffer, Susan Beth. Life as we knew it. Orlando, c2006. 337 p. 18 cm.  
 -r  Read 2013-01. 
  Explores survival after an asteroid hits the moon; pushes closer to earth. -s 
- 
 * dFIC Rowling, J.K. Harry Potter and the philosopher's stone. N.Y. 2001. 384 p.  
 -r  Read 2012-01 and 2017-03. Grade B. 
 -s  CH. 1: Dumbledore and Hagrid takes Harry to the Dursleys. -p. 
@@ -1933,17 +1480,11 @@
 -q  It takes a great deal of bravery to stand up to our enemies, but just as much to stand up to our friends. -Dumbledore -p. 381 
  ... their wardrobes were empty, their trunks were packed... -p. 382 -q.
  What happened down in the dungeons between you and Professor Quirrel is a complete secret, so, naturally, the whole school knows. -Dumbledore. -q 
- 
 * p909 Johnson, Paul. History of the Jews. [n.p., 19--]. PDB file via USB.  
- 
 * k971 Trudeau, Justin. Common ground. N.Y., HarperCollins, 2014. 58130 kb.  
- 
 * kFIC Austen, Jane. Persuasion. n.p., e-artnow, 2018. bk..  
- 
 * kFIC Marte, Stephen. Wandering King. Stephen Bradford Marte, 2015. 1968 kb. (Wandering King 2)  
- 
 * d920 Krakauer, Jon. Into the wild. n.p. n.d. v.   
- 
 * d921 Axelrod, Alan. Profiles in audacity. N.Y. c2006. x, 309 p. 24 cm.  
 -r  Read 2012-03. 
 -f  Andrew Carnegie, 19th-20th c., m., industrialist; philanthropist. Author of WEALTH -p. 272 
@@ -1952,61 +1493,33 @@
 -q  Yet through a combination of force and personality, economic savvy, and political will, Elizabeth I began the rapid transformation of England from an insular European backwater to the island nexus of what would eventually become the greatest empire since Rome. -p. 25 
 -f  Elizabeth I, f, 16th c. Queen of England. -p. 
  Sir Francis Drake, m, 16th c., English. Seafarer and privateer. -p. -f 
- 
 * k973 Webber, James. American Civil War in 50 events. n.p. n.d. kb.  
- 
 * kSCI Stone, Thomas. To the stars. n.p., Cooper's Press, 2011. 1285 kb. (Harry Irons 1)  
- 
 * kFIC Robertson, Joshua. Melkorka / Joshua Robertson, Winter Bayne, [and] Josephe Vandel. 2nd ed. n.p., Crimson Edge Press, 2015. 3585 kb. (Kaelandur 1)  
- 
 * kFIC Flash Fiction Magazine - Issue 1. n.p., 101 Words, 2017. 1896 kb.  
- 
 * kFIC Nicholson, Scott. After, the shock. n.p., Haunted Computer Books, 2014. 3832 kb. (AFTER post-apocalyptic 1)  
- 
 * kFIC Ryan, Matt. Rise Of The six. 2nd ed. n.p., 32 Novel Publishing, 2015. 2566 kb. (Preston Six 1)  
- 
 * d297 Cederquist, Druzella. The story of Baháʼuʼlláh, promised one of all religions. Wilmette, Ill. : Baháʼí Pub., c2005. xvii, 359 p. ; 23 cm. ISBN: 1931847134.  
- 
 * g941 Mitford, Deborah. Wait for me. U.K. 2010. kb. file   
- 
 * kSCI Sivart, Travis I. Aetheric elements. 3rd ed. n.p., Talk of the Tavern Publishing Group, 2013. 1871 kb.  
- 
 * kSCI Quinn, Matthew W. Pressure suite / Matthew W. Quinn, William R. Eakin, Laura J. Campbell, [et.al.] 2nd ed. n.p., Digital Science Fiction, 2015. 3161 kb.  
- 
 * kFIC Hooke, Isaac. Forever gate series: Books 1-5. n.p. 2013. 2750 kb.  
- 
 * kFIC Sneeden, John. Signal. n.p., John Sneeden, 2014. 3791 kb. (Delphi Group 1)  
- 
 * kFIC Macgregor, Joanne. Recoil. n.p. 2016. 279 kb. (Recoil 1)  
- 
 * kFIC Stovall, Jim. King's legacy. David C. Cook, n.p. kb.  
- 
 * kFIC Hancock, K. Arena. Reprint ed. Bethany House Publishers, 2012. kb.  
- 
 * kFIC Reher, Chris. Only human. n.p. n.d. k. (Targon Tales 3)  
- 
 * k920 North, Wyatt. Life and prayers of Saint Benedict. n.p., Wyatt North, 2013. 218 kb.  
- 
 * kFIC Wharton, Edith. House of mirth. Jovian Press, n.p. kb.  
- 
 * d158 Powell, Barbara. Alone, alive, and well. n.p. n.d. v.  
- 
 * kFIC Lost lore. 1st ed. n.p. 2018. 1580 kb.  
- 
 * kWES Whispers out of the dust / David J. West. Lost Realms Press, 2015. 2109 kb.  
- 
 * kFIC Rand, Ayn. Anthem. n.p. 2012. 266 kb.  
- 
 * kSCI Wells, H.G. War of the worlds. n.p. 2012. 1748 kb.  
- 
 * k813 Day of Reckoning: A Lucas Wade Western - Book 3 / Raylan McCrae n.p. 2016. 1422 kb. (Lucas Wade 3)  
- 
 * dFIC Rowling, J.K. Casual vacancy. n.p. n.d. v.  
- 
 * kFIC Grant, K. Time Traveler's apprentice. n.p. 2013. 1185 kb.  
- 
 * kFIC Twiss, Johan. I am sleepless. n.p. 2015. 1347 kb. (I am sleepless 1)  
- 
 * dFIC Lowry, Lois. Giver. n.p. 1993. 225 p.  
 -r  Read 2015-09. Grade B. 
 -s  5 When puberty comes, they refer to sexual attraction as 'the stirrings', and have a pill to make them go away. 
@@ -2019,21 +1532,13 @@
 -s  10 Jones begins his training with the Receiver. 
 -q  I have great honor... but ou will find that that is not the same as power. -RofM -p. 106 
  11 The RofM gives three memories to Jonas: Snow sliding, sunshine, and a sunburn. the old RofM becomes The Giver. -s 
- 
 * kFIC Stevens, Jeremy David. Jamey Jones and the sons of Noah. Jeremy Stevens, n.d. kb.  
- 
 * gFIC Rowling, J.K. Harry Potter and the prisoner of Azkaban; ill. by Mary Grandpre. n.p. c1999. kb. ISBN 9781781100363.  
- 
 * kWES West, David J. Six-gun serenade. n.p. 2017. 4830 kb.  
- 
 * kFIC Wayne, Kent. Approaching shatter. n.p. 2015. 3241 kb.  
- 
 * k910 Tynan. Life nomadic. n.p. 2010. k. 265 kb. via [www](https://read.amazon.com/?asin=B003RISMM0).  
- 
 * dFIC Parris, S.J. Heresy. N.Y. c2010. 435 p. 25 cm.  
- 
 * kFIC White, E.H. Kasey and his dragon. n.p. n.d. kb.  
- 
 * kSCI Clarke, Arthur C. 2001 : a space odyssey. Reissue ed. Ace, 2000. 1689 kb. (Space Odyssey 1)  
 -r  Read 2020-06. Grade B. 
  The truth, as always, will be far stranger.
@@ -2087,34 +1592,20 @@
 -s  44 dave enters what is a very good creplica of a studio apartment. 
  twenty thousand light-years from Earth,
  47- he comes vacj wuth either a bomb or godxlike powers 
- 
 * kFIC Moore, P.S. Illustrious venom. n.p. 2013. 598 kb.  
- 
 * p973 Stein, Mark. How the states got their names. [n.p, 19--]. PDB file via USB. Title from BN.com.  
- 
 * k940 Hazen, Charles. History of Europe 1870-1919. n.p. n.d. kb.  
- 
 * kFIC Tardiff, Cheryl Kaye. River. n.p. n.d. kb.   
- 
 * k209 Burton, Tara. Strange rites. n.p. 2020. 1813 kb.  
 -r  Read 2020-08. Grade C.  Discusses modern day movements that also have the, pillars of what religion always has: meaning, purpose, community, ritual. 
- 
 * d170 Can ethics be Christian? n.p. n.d. v.  
- 
 * kFIC Jenkins, Suzanne. Liberation of Ravenna Morton. n.p. 2014. 447 kb. (Ravenna Morton 1)  
- 
 * kFIC Gray, C.M. Flight of the Griffin. Creativia, 2012. 2492 kb. (Flight of the Griffin  1)  
- 
 * dFIC Pfitsch, Patricia Curtis. Riding the flume. N.Y. c2002. viii, 232 p. 22 cm.  
- 
 * kFIC Mathias, M.R. First dragoneer. n.p. 2013. 1111 kb.  
- 
 * kFIC Wilson, Jennifer. New world rising. n.p. n.d. kb.  
- 
 * dSCI Chu, Wesley. Time salvager. 1st ed. N.Y. 2015. 380 p. 25 cm.  
- 
 * g892 Coogan, Michael D. Stories from ancient Canaan. Ed. and tr. by Coogan, Michael D. and Smith, Mark S. 2nd ed. n.p. c2012. kb. ISBN 9780664232429.  
- 
 * kFIC Austen, Jane. Emma. [S.l.], 2010. k.   
  CH. 01: Emma Woodhouse is girl who lives in Highbury, and likes matchmaking. She just set up her governess, Mrs. Taylor, with Mr. Weston.
  Mr. Knightly visits the family.
@@ -2125,9 +1616,7 @@
 -s  CH. 09: Mr. Knightly and Emma have a fiece disagreement about Harriet. 
  Isabella Woodhouse: Fictional character.
  Emma Woodhouse's sister. -f 
- 
 * kFIC Willows, Brittany M. Calypsis project. Brittany M. Willows, n.d. kb.  
- 
 * dFIC Ende, Michael. Neverending story. Tr. by Manheim, Ralph, Ill. by Quadflieg, Roswitha.  Garden City, N.Y. c1979, 2005. 444 p.   
 -r  Read 2021-12. Grade: B. 
  'Don't be absurd' replied Engywook, again somewhat nettled. 'I am a scientist. I have collected and collated the statements of individuals who have been there. The ones who have come back, that is. Very important work. I can't afford to take personal risks. It oculd interfear with my work.' -p. 96. -q.
@@ -2143,15 +1632,10 @@
 -q   'We were sent by Ushtu, the Mother of Intuition,' said one of the six owls. 'We are messengers from Ghigam, the Star Cloister.' 'What sort of cloister is that?' Bastian ask. 'It is the home of wisdom,' ssaid another of the owns, 'where the Moks of Knowledge live.' 'And who is Ushtu?' Bastian asked. 'One of the Three Deep Thinkers who direct the cloister and instruct the monks,' said a third owl. 'We are the night messengers, which puts us in her departmeent.' 'If it were daytime,' said the forth owl, 'Shirkry, the Father of Vision, would have sent his messengers, who re eagles. And in the twilight hours between day and night, Yisipu, the Son of Reason, sends his messengers, who are foxes.' -p. 344 
  That night the usual harmony of the Three Deep Thinkers was disturbed by a first ratical difference of opinion, which years later lead to the breakup of the community. Then Ushtu the Mother of Intuition, Shirkry the Father of Vision, and Yisipu the Son of Reason each founded a cloister of his own. But that is another story and shall be told another time. -p. 349 -q.
  So he [Bastian] kept on wishing, but by then he had spent all his memories, and without memories it's not possible to wish. -p. 402 -q 
- 
 * kFIC Hudson, Eva. Loyal servant. n.p. 2014. kb. (Angela Tate Investigations 1)  
- 
 * kFIC Peebles, Chrissy. Rebellious. n.p. 2017. k. (New, Dark World)  
- 
 * kSCI Verne, Jules. From the Earth to the Moon, and, Round the Moon. n.p. 2011. 386 kb.  
- 
 * kFIC Mayes, D.R. Last shaman. 1st ed. n.p. 2013. k. (Last Shaman 1)  
- 
 * d920 Smith, Sally Nedell. Prince Charles. N.Y. c2017. xx, 596 p. 25 cm.  
 -r  Read 2021-05. Grade C. 
 -q  The chores of tilling the soil and taking care of animals had taught him, 'the central purposes of our existance and of our human construction, our dependence on natural things and the ultimate emptiness of the search after our sophistication' -p. 166 
@@ -2163,27 +1647,16 @@
 -q  Prince Charles is a sensitive and shy guy who has stolen himself to do his job. -Shebbeare. -p. 300 
 -q  Asked if as king he would continue to "champion big thesmes," he hedged, saying hat he hoped to use his ability to bring people together to discuss issues. -p. 435. 
  Their [William and Kate] impeccable behavior kept the monarchy on an even keel, and they learned to fuse informality ith dignity - a difficult balance ot achieve. -p. 492. -q 
- 
 * kFIC Luoma, Mike. Vatican assassin. n.p. n.d. kb.  
- 
 * kFIC Halloran, Craig. Supernatural bounty hunter files. 1st ed. n.p. 2015. 5034 kb. (Smoke Special Edition 1)  
- 
 * kFIC Windhalm, Nic. Tenth order. 1st ed. n.p. 2013. 1734 kb.  
- 
 * d647 Tomsky, Jacob. Heads in beds. n.p. n.d. v.   
- 
 * d973 Ellias, Joseph. Quartet. n.p. n.d. v.   
- 
 * kFIC Albrecht, Jack D. Wand-Maker's debate / Jack D Albrecht, Jr. ; Ashley Delay. 1st ed. n.p. 2011. 5773 kb. (Osric's Wand 1)  
- 
 * kSCI Burroughs, Edgar Rice. Princess of Mars. n.p. n.d. kb.  
- 
 * d200 Fuller, Andrew R. Psychology and religion. n.p. n.d. v.  
- 
 * k940 Taylor, A.J.P. War lords. n.p. n.d. kb.  
- 
 * kFIC Dinclair, Darren. Sixth cycle / Darren Sinclair, Carl Wearmouth. n.p. 2014. 2278 kb.  
- 
 * kSCI Hartley, Taylor. The penkeepers. n.p. 2014. 2126 kb.  
 -r  Read 2014-03. Grade C. 
 -s  Prologue: Valil and Kirkook stand at the edge of the kingdom of the penkeepers. They see the penkeepers have found a new writer. 
@@ -2208,7 +1681,6 @@
 -q  "You can't have one side without the other," she said 
 -q  "The world's still here, and you're still in it, and you have to keep going." 
  Confucius believed that the cure for the problems of society was moral, ethical behavior, - p. 18 -q 
- 
 * dFIC Llywelyn, Morgan. Greener shore. N.Y. c2006. 301 p. 25 cm.  
 -r  Read 2011-10. Grade B. 
 -q  Let the past go? How can I let go of something that's entangled with my spirit like mistletoe on an oak tree? -p. 5 
@@ -2238,11 +1710,8 @@
 -q  'Druids may not always recognize lies, but they know the truth when they hear it.' -p. 28 
 -q  Trees are a visible representation of the sacred forces of wind and water and son. Their shapes conform to the wind that swirls around them -p. 27 
  'A conqueror's most dangerous opponents are not the warriors, but the thinkers. Realizing this, Caesar had ordered his legions to hunt down the Order of the Wise and put all thye found to the sword. With those murdered men and women died must of our past.' -p. 70 -q 
- 
 * kFIC Toseland, Graham. Alone. n.p. 2016. 3176 kb. (Spared 1)  
- 
 * pFIC Rollins, James. Black order. [S.n., 19--]. PDB file via USB.  
- 
 * d930 Clayton, Peter; Price, Martin J. Seven wonders of the ancient world. Lond. 1988. xiii, 178 p. 22 cm.  
  Read 2013-10. Grade C.
  The seven wonders of the ancient world: The great pyramid of Giza.
@@ -2267,29 +1736,17 @@
 -f  CTESIAS, fl. 400BC, m., physican. -Wrote about the Hanging Gardens of Babylon. -p. 44 
 -f  STRABO. -Wrote about the Hanging Gardens of Babylon. -p. 44 
  PHILO, of Byzantium, fl. 250 BC. -Wrote about the Hanging Gardens of Babylon. p. 45 -f 
- 
 * kFIC Terry, M.G. Shaman, Healer, Heretic. n.p. 2011. 3779 kb. (Olivia Lawson Techno-Shaman  1)  
- 
 * kLG+ Mastbaum, Blair. Us ones in between. n.p. 2011. 323 kb.  
- 
 * kFIC Vera, S. Last guardians. n.p. n.d. kb.   
- 
 * kFIC Mallery, S.R. Dolan girls. n.p. 2015. 2944 kb. (Dolan Girls 1)  
- 
 * kFIC Mayes, D.R. Last shaman. 1st ed. n.p. 2013. 491 kb. (Last Shaman 1)  
- 
 * v912 Trustees of Reservations. Crane Estate : trail map and guide. Scale 1:21120. [S.l.] : The Trustees of Reservations, c2009. 1 map. DBID 3132  
- 
 * kFIC Sanders, Stacia. Foundling. n.p. 2013. 973 kb.   
- 
 * k818 Barr, Rosanne. Roseannearchy. Reprint ed. n.p. 2011. 4451 kb.   
- 
 * k920 Foskett, Keith. Travelled far : a collection of hiking adventures. n.p. 2017. kb.  
- 
 * k920 Calodoukas, Cleo. All roads led to Shanghai. n.p. 2013. 4058 kb.   
- 
 * kFIC Storm, Matthew. Interesting times. 1st ed. n.p. 2013. 3612 kb. (Interesting Times 1)  
- 
 * dFIC Percy, Benjamin. Dead lands. N.Y. c2015. 403 p. 24 cm.  
 -r  Read 2015-07. Grade C. 
 -f  York, m., Clark's brother. 
@@ -2303,11 +1760,8 @@
 -s  43 Slade breaks into the museum, and breaks off Ella's molar tooth. 
 -q  Trees don't love and they don't mourn, but they strive for sun and for water. They live. That is the one true impulse, she supposes, that everything wants to live. -p. 324 
  44 Gawea was sent to get Lewis, and is planning to betray them. -s 
- 
 * dFIC Mosley, Walter. Futureland. N.Y. c2001. 382 p.  
- 
 * kFIC Reher, Chris. Sky hunter. n.p. 2013. 378 kb. (Targon Tales 1)  
- 
 * kFIC Razevich, Alexes. Shadowline drift. n.p. 2014. 794 kb.  
  Read 2016-10. Grade C.
  Jake, in the Amazon. Tobna, a tribe. Joaquin, the FUNAI rep. 2 Benesha is poisonious to people, and has magical transport properties. 3 Mawgic intends to trade Benesha, so it will kill everyone and rebalance the Earth. He leaves jack stranded in the junge. 4 Jake is hungry, unable to spear a fish. Out of bug spray. 5 Jake lost his knife in the river. He kills a sloth for foot, but without knwing if they eat Benesha, he cannot risk eating it. Ilar Ranirex, an anthropolitis. Naheye, Prist/Shaman. Lulunta Village. 6 Jake stumbles on a village, is saved, but the Shaman doesn't trust him. 7 N. considers J. evil, and they are harvesting a flower that blooms once every three
@@ -2318,17 +1772,11 @@
 -q  The Lalunta believe that when a shaman dies, the soul flies into the next child born in the village. 
 -q   The bigger the river, the mroe chance of people living along it. 
  Why should I believe you?... Because to not believe is to risk that I told the truth and you did nothing to stop it. -q 
- 
 * kFIC Kohlhagen, Derik. Footsteps of Cain. 1st ed. n.p. 2016. 4722 kb.   
- 
 * dFIC McDonald, D.R. Cape Breton road. 1st ed. N.Y. c2000. 288 p. 22 cm.  
- 
 * kFIC Rice, Morgan. Arena one. n.p. n.d. k.  
- 
 * k813 McCloskey, Michael. Trilisk ruins. 1st ed. n.p. 2014. 1200 kb. (Parker Interstellar Travels 1)  
- 
 * kFIC Keohane, Daniel G. Margaret's ark. n.p. 2011. 628 kb.   
- 
 * kFIC Stewart, Katie. Treespeaker. n.p. n.d. kb.  
  Read 2014-01. Grade C.
 -f  Kattanbek, Chief Elder of the Fifth Tribe of Arrakesh, 
@@ -2354,17 +1802,11 @@
 -f  Fifth Protector of the Forest. 
 -q  No. He's a man. Animals don't do evil for the sake of it. 
  "And blaming and doubting, you have still gone on, trying to do his will. Though you couldn't see why he sent you away, you went." -q 
- 
 * kFIC Hopkins, Faleena. Cocky senator. n.p. 2023. 5456 kb. (Cocker Brothers 5)  
- 
 * d916 Palin, Michael. Sahara. n.p. n.d. v.   
- 
 * kWES Taylor, Mark Stephen. Moon of the white wolf. n.p. 2014. 1960 kb. (Lone Pine 4)  
- 
 * d813 Christie, Alix. Gutenberg's apprentice. First edition. N.Y. [2014]. 406 p. 24 cm.  
- 
 * d920 Williams, Dee. Big tiny. n.p. n.d. v.   
- 
 * dSCI Taylor, T.S.; Les Johnson. Saving Proxima. [U.S.?] 2021. v.  
  Read 2022-03. Grade. B.
 -s  2 stephen fhinks the signal is coming cfrom proxima centauri. 
@@ -2388,23 +1830,14 @@
 -s  49 first contact. Going well. 
 -q  We know that lower and microgravity exposure can weaken the immune response to certain Herpes viruses, like Shingles, for example. 
  Emissary: The 2nd ship from earth. -f 
- 
 * kFIC Thomas, Nick S. Battle Earth. 3rd ed. n.p. 2013. kb. (Battle Earth 1)  
- 
 * dFIC Kaine, Daniel A. Jacinto's voyage. n.p. n.d. v.   
- 
 * k917 Moseley, Andy. Around the States in 90 Days. 1st ed. n.p. 2009. 5451 kb.   
- 
 * dFIC Unknown man. n.p n.d. v.   
- 
 * kSCI Penner, Stephen. Mars station alpha. n.p. 2011. 358 kb.  
- 
 * kFIC Newman, Christy. Talwan's vengeance / Christy Newman; Sarah Newman. 3rd ed. n.p. 2014. 4160 kb. (Turn of the Tides 1)  
- 
 * k915 Benzin, Kate. Transformative travel in Nepal. n.p. n.d. kb.   
- 
 * kFIC Hancock, Karen. The light Of Eidon. n.p., Bethany House Publishers, n.d. kb. (Legends of the Guardian-King 1)  
- 
 * kSCI Scalzi, John. Collapsing empire. N.Y. : Tor, 2017. 1790 kb. (Interdependency 1)  
 -r  Read 2020-01. Grade C. 
  Holy Empire of the Interdependent States and Mercantile Guilds, called “the Interdependency” for short.
@@ -2428,17 +1861,11 @@
  Guild Court of Grievances
  finally getting its comeuppance.
  “I'm continually confronted with the human tendency to ignore or deny facts until the last possible instant. And then for several days after that, too. 
- 
 * kWES Taylor, Mark Stephen. Bear Claw. n.p. 2016. 1769 kb. (Lone Pine 6)  
- 
 * kFIC Williams, T.A. After the event. n.p. 2014. 617 kb. (After The Event 1)  
- 
 * k920 White, Jonathan. Everyone said I should write a book : the travels and adventures of a sailor and explorer. 5th ed. n.p. 2012. 1736 kb. (Everyone Said 1)  
- 
 * pFIC Rollins, James. Ice hunt. n.p. n.d. PDB file via USB.  
- 
 * kFIC Maya, Tara. Initiate (Book 1-Episode 7), the unfinished song series. n.p. n.d. kb.  
- 
 * d916 Duncan, David Ewing. From Cape to Cairo. N.Y. c1989. xvii, 330 p. 25 cm.  
 -r  Read 2021-09. Grade C. 
 -s  An african travel autobiography 
@@ -2449,28 +1876,18 @@
 -q  'To make it out here, there is one siimple rule,' said Atom... 'You adapt. When you stop adapting it's time to cash it in.' -p. 98 
 -q  'I'm a family man,' he [Milo] said in a low rumble, adding that he disliked politics. 'I am mostly interested in just living.' -p. 92 
  ... purely Western-looking outposts proclaiming the ethos of the Caucasion pioneer: independence, hard work and self-sufficiency. -p. 34 -q 
- 
 * kFIC Ponticello, Nicholas. Maiden voyage of the destiny unknown. 1st ed. n.p. 2016. 640 kb.  
- 
 * d200 After God. n.p. n.d. v.  
- 
 * kFIC Meyer, Jonathan. G. Al Clark / Jonathan G Meyer, Dawne Dominique. 3rd ed. n.p. 2014. 2071 kb. (Al Clark 1)  
- 
 * v912 Massachussetts. Dept. of Natural Resources. Outdoor recreation map. Scale [1:316800] and [1:158400]. [Mass.] : DCR, [20--?] 2 maps on 1 sheet.  
- 
 * kFIC Sheridan, Kevin P. Under a broken sun. n.p. 2015. 708 kb.  
- 
 * dFIC Kenyon, Nate. Day one. N.Y. c2013. 289 p.  
 -s  1-?: A hacker group, called "Anonymous" has infected thw worlde computers. I'm having trouble determining what the protaagonist, Jonathan Hawke, has to do with the story. 
  ?-230: We learn that a self-aware program named Jane Doe, acting like a virus, has taken over every electronic device in Manhattan (and maybe the world) in order to kill most people. But she seems to be targeting Hawke and a few others. -s 
- 
 * kFIC Massey, M.D. Invasion, zombie apocalypse. n.p. 2016. 1590 kb. (THEM Post-Apocalyptic 1)  
- 
 * kSCI Orwell, George. 1984. N.Y. 2013. 2972 kb.  
 -q  Winston Smith, a clerk in the toltalitarian state of Oceania's Ministry of Truth, is "reintegrated" (tortured) after falling in live and joining the counterrevolution. -r You had to live - did live, from habit that became instinct - in the assumption that every sound you made was overheard, and, except in darkness, every movement scrutinized. -q -- WAR IS PEACE, FREEDOM IS SLAVERY,  IGNORANCE IS STRENGTH. -q -- four Ministries between which the entire apparatus of government was divided: the Ministry of Truth, which concerned itself with news, entertainment, education, and the fine arts; the Ministry of Peace, which concerned itself with war; the Ministry of Love, which maintained law and order; and the Ministry of Plenty, which was responsible for economic affairs. Their names, in Newspeak: Minitrue, Minipax, Miniluv, and Miniplenty... -q -- Emmanuel Goldstein, the Enemy of the People -f -- "freedom of speech, freedom of the press, freedom of assembly, freedom of thought" correspondences to the ministries. -- The Brotherhood, its name was supposed to be. -q  -- To dissemble your feelings, to control your face, to do what everyone else was doing, was an instinctive reaction. -q -- To dissemble your feelings, to control your face, to do what everyone else was doing, was an instinctive reaction. -q -- Oceania was at war with Eurasia and in alliance with Eastasia. -q -- If the Party could thrust its hand into the past and say of this or that event, it never happened -q -- “Who controls the past,” ran the Party slogan, “controls the future: who controls the present controls the past.” -q -- Ingsoc before 1960, but it was possible that in its Oldspeak form—“English Socialism,” -q -- Statistics were just as much a fantasy in their original version as in their rectified version. -q -- ... reconstruct the past... -q -- Floating Fortresses. -f -- More commonly, people who had incurred the displeasure of the Party simply disappeared and were never heard of again. -q -- ... and went on: “Don’t you see that the whole aim of Newspeak is to narrow the range of thought? -q -- The Revolution will be complete when the language is perfect. -q -- Orthodoxy means not thinking—not needing to think. Orthodoxy is unconsciousness.” -q -- There was something that he lacked: discretion, aloofness, a sort of saving stupidity. -q -- Zeal was not enough. Orthodoxy was unconsciousness. -q -- The past was erased, the erasure was forgotten, the lie became truth. -q -- He wondered, as he had many times wondered before, whether he himself was a lunatic. Perhaps a lunatic was simply a minority of one. -q -- ... persuading you, almost, to deny the evidence of your senses. In the end the Party would announce that two and two made five, and you would have to believe it. -q -- The heresy of heresies was common sense. -q -- The Party told you to reject the evidence of your eyes and ears. -q -- It was assumed that when he was not working, eating, or sleeping he would be taking part in some kind of communal recreations; to do anything that suggested a taste for solitude, even to go for a walk by yourself, was always slightly dangerous. There was a word for it in Newspeak: ownlife, it was called, meaning individualism and eccentricity. -q -- stationer’s shop, WOTD -f -- rectification, WOTD -f -- cult of strenuousness and self-denial -q -- If you kept the small rules, you could break the big ones. -q -- It was not merely that the sex instinct created a world of its own which was outside the Party’s control and which therefore had to be destroyed if possible. -q -- She knew when to cheer and when to boo, and that was all one needed. -q -- ... beastly little swine... -q -- The terrible thing that the Party had done was to persuade you that mere impulses, mere feelings, were of no account, while at the same time robbing you of all power over the material world. -q -- They were not loyal to a party or a country or an idea, they were loyal to one another. -q -- Gelatinous, WOTD -f -- The essential act of war is destruction, not necessarily of human lives, but of the products of human labor. -q -- The two aims of the Party are to conquer the whole surface of the earth and to extinguish once and for all the possibility of independent thought. -q -- Everywhere there is the same pyramidal structure, the same worship of semi-divine leader, the same economy existing by and for continuous warfare. -q -- Ingsoc in Oceania, Neo-Bolshevism in Eurasia, Death-worship, as it is commonly called, in Eastasia... -q -- The so-called “abolition of private property” which took place in the middle years of the century meant, in effect, the concentration of property in far fewer hands than before; but with this difference, that the new owners were a group instead of a mass of individuals. -q -- Doublethink lies at the very heart of Ingsoc.. -q -- To tell deliberate lies while genuinely believing in them, to forget any fact that has become inconvenient, and then, when it becomes necessary again, to draw it back from oblivion for just so long as it is needed, to deny the existence of objective reality and all the while to take account of the reality which one denies—all this is indispensably necessary. -q -- For the secret of rulership is to combine a belief in one’s own infallibility with the power to learn from past mistakes. -q -- The Ministry of Peace concerns itself with war, the Ministry of Truth with lies, the Ministry of Love with torture, and the Ministry of Plenty with starvation. -q -- Chapter 1, like Chapter 3, had not actually told him anything that he did not know; it had merely systematized the knowledge that he possessed already. -q -- behind the chimney pots into interminable distances. It was curious to think that the sky was the same for everybody, in Eurasia or Eastasia as well as here. And the people under the sky were also very much the same—everywhere... -q -- Who controls the past controls the future; who controls the present controls the past,’” -q -- You would not make the act of submission which is the price of sanity. You preferred to be a lunatic, a minority of one. -q -- The Party is not interested in the overt act; the thought is all we care about. -q -- THERE ARE THREE STAGES in your reintegration,” said O’Brien. “There is learning, there is understanding, and there is acceptance. It is time for you to enter upon the second stage.” -q -- “How does one man assert his power over another, Winston?” Winston thought. “By making him suffer,” he said. -q -- He was not bored; he had no desire for conversation or distraction. Merely to be alone, not to be beaten or questioned, to have enough to eat, and to be clean all over, was completely satisfying. -q -- Stupidity was as necessary as intelligence, and as difficult to attain. -q -- The thing that is in Room 101 is the worst thing in the world. 
- 
 * pSCI Wies, Margaret. Dragons of summer flame / Margaret Weis and Tracy Hickman. TSR, Inc., 1995, 2001. TXT file on USB driver. 8840.txt.  
- 
 * dFIC Tolstoy, Leo. Death of Ivan Ilych. n.p. n.d. v.  
 -q  Ivan Ilych's life had been most simple and most ordinary and therefore most terrible. -p. 
 -f  Ilya Epimovich GolovinPrivy Councillor -p. 
@@ -2498,47 +1915,26 @@
 -q  This consciousness intensified his physical suffering tenfold. -p. 
 -s  Chapter 11lisa asks if his sickness is their fault. -ivan takes communion. -p. 
  Chapter 12 -p. -s 
- 
 * d966 De Villiers, Marq; Hirtle, Sheila. Timbuktu. N.Y. 2007. xiv, 202 p. 25 cm.  
- 
 * vSCI Orwell, George. 1984, with an afterword by Erich Fromm. N.Y., Signet Classics, 1950. 328 p. 19 cm.  
- 
 * k920 Young, Jacob. Harvest : memoir of a mormon missionary. n.p. 2010. 482 kb.  
- 
 * kFIC Parrish, Robin. Offworld. 1st ed. n.p. 2009. 2281 kb. (Dangerous Times 1)  
- 
 * dFIC Weis, Margaret. Dragons of winter night. n.p. n.d. v.  
- 
 * kFIC Wallace, D. Peach. Melding of Aeris. 2nd ed. n.p. 2016. 2493 kb.  
- 
 * dSCI Kraus, Daniel. Bent heavens. 1st ed. N.Y. 2020. 291 p. 22 cm.  
- 
 * kFIC Matthew, S. McNally. Reclaiming. n.p. 2013. 5093 kb. (Kalatheptoris Cycle 1)  
- 
 * kFIC Turner, Richard. First strike. n.p. 2015. 1970 kb. (Kurgan War 1)  
- 
 * k949 Djuvara, Neagu. Concise history of Romanians. n.p. n.d..  
- 
 * g823 Rowling, J.K. Harry Potter and the philosopher's stone; ill. by Mary Grandpre. n.p. c1997. kb. ISBN 9781781100073.  
- 
 * kFIC Kiernan-Lewis, Susan. Free falling. n.p. 2014. 755 kb. (Irish End Games ; 1)  
- 
 * g941 Anderson, Christopher. Game of crowns : Elizabeth, Camilla, Kate, and the throne. m.p. c2016. 4.4 mb.  
- 
 * d916 Davidson, Basil. African kingdoms. n.p. n.d. v.  
- 
 * g930 Cline, Eric H. 1177 B.C. [U.S.?] Princeton University Press, c2014. 5.2 mb.   
- 
 * kFIC Owen, Julie. kind. n.p. 2017. 637 kb. (Recoverist Quartet 1)  
- 
 * kFIC Scott, W.J.; Helle-Nielsen, John. Hieroglyph. 1st ed. n.p. 2015. 4682 kb. (Adventures 1)  
- 
 * kFIC Parker, Ian. Red light. n.p. 2012. 623 kb. (Chronicles Of Truth 1)  
- 
 * dSCI Howey, Hugh. Beacon 23. n.p. n.d.  v.   
- 
 * p917 Tyler, J.L. [Video of Mt. Wolf summit]. July 21, 2012. MP4 file via USB. 3268.mp4  
- 
 * kSCI Clarke, Arthur C. 3001. n.p. 2012, c1997. 461 kb. (Space Odyssey 4)  
 -r  Read 2020-07. Grade C. 
 -s  1 the spcetug goliath finds an ancient astronaut. 
@@ -2552,67 +1948,39 @@
  It was generally agreed that Communism was the most perfect form of government; unfortunately, it had been demonstrated—at the cost of some hundreds of millions of lives—that it was only applicable to social insects, Robots Class II, and similar restricted categories. For imperfect human beings, the least-worse answer was Democracy, frequently defined as “Individual greed, moderated by an efficient but not too zealous government.
 -s  36 the pico vault has viruses, natural and manmade. Itll be used to destroy the monolith, which has judged life a failure. 
  All energy eventually degrades to heat, and if everyone had a few million kilowatts to play with, this planet would soon be heading the way of Venus—several hundred degrees in the shade. 
- 
 * kFIC Kaden, John. Alexandria. n.p. 2014. 563 kb.  
- 
 * kFIC Gockel, C. Wolves. n.p. 2014. 1528 kb. "Loci series"--cover. (I Bring the Fire 1)  
- 
 * k910 Lonely Planet. 25 city adventures for families. n.p. n.d. kb.  
- 
 * kFIC Howey, Hugh. Wool, Part 1. n.p. n.d. kb.  
- 
 * kFIC Linn, Eugene. Red dot, contact. n.p. 2015. 692 kb.  
- 
 * kFIC Sawyers, J.T. Until morning comes. n.p. 2014. 3082 kb. (Carlie Simmons 1)  
- 
 * dSCI MacHale, D.J. Sylo. N.Y. 2013. 406 p. (The Sylo chronicles ; 2).  
 -r  The US Navy quarantines an island off of Maine. 
- 
 * kSCI Scalzi, John. Old man's war. N.Y. 1997. 1452 kb. (Old man's war 1)  
 -r  A science fiction novel. At the age of 75, John Perry joins the Colonial Defense Forces. 
- 
 * kFIC March, Holland. Way home. 2nd ed. n.p. 2013. 1683 kb.  
- 
 * kFIC Razevich, Alexes. Shadowline drift. n.p. 2014. 794 kb.  
- 
 * k920 McConnell, M.M. Deliverance Mary Fields. n.p. 2016. 4035 kb.  
- 
 * g927.8 John, Elton. Me. [U.S.?] c2019. 46.7 mb.   
- 
 * d927 Madigan, Tim. I'm proud of you. n.p. n.d. v.   
- 
 * kFIC Hailey, S.J. 5th amulet. n.p. n.d..  
- 
 * kFIC Schafer, Sean. Project Neptune. n.p. 2012. 506 kb.  
- 
 * g823 Rowling, J.K. Harry Potter and the deathly hollows; ill. by Mary Grandpre. n.p. c2007. 1.4 mb. ISBN 9781781100400  
- 
 * kLG+ Nevada, P.J. A princely affair. n.p. n.d. k.   
  Read 2018-05. Grade C.
  think many people are more excited about having a relationship than who they have in that relationship.
  Principality of Raska.”
  Being together is doing something 
- 
 * k920 Foskett, Keith. Last Englishman, a thru-hiking adventure on the Pacific Crest Trail. n.p. 2014. 3504 kb. (Thru-Hiking Adventures 2  
- 
 * kFIC Gleason, C. Rest falls away. n.p. n.d. kb. (Victoria ; 1)  
- 
 * kFIC Spackman, Anne. Osiris invasion. n.p. n.d. 832 kb. (Seeds of a Fallen Empire 2)  
- 
 * v917 Buchsbaum, Robert N. AMC's best day hikes in the White Mountains. 3rd ed. Bost., Appalachian Mountain Club Books, [2016]. xxvii + 338 p. 23 cm.  
- 
 * kFIC Platt, Sean. Yesterday's gone: Season One / Sean Platt; David Wright. n.p. 2011. 3770 kb. (Yesterday's Gone 1)  
- 
 * kFIC Williamson, Jill. By darkness hid / Jill Williamson; Jeff Gerke. n.p. n.d. kb.  
- 
 * kFIC Hanson, D. Matriarch manifesto. n.p. 2018. k. AISN B07JGZ1W8S.  
- 
 * kFIC Scott, Jasper T.; Edwards, Tom. Excelsior. 3rd ed. n.p. 2013. 1069 kb. (New frontiers ; 1)  
- 
 * kFIC Hicks, Michael R. From chaos born. n.p. 2012. 432 kb. (In Her Name 1)  
- 
 * kFIC Keys, Logan. Last city. n.p. 2015. 2966 kb. (Last City 1)  
- 
 * kSCI Clarke, Arthur C. 2010. n.p, 2012, c1982. kb. (Space Odyssey 2)  
 -r  Read 2020-06. Grade C. 
 -s  1 leonov and heywood have xa secret meeting about discovery. 
@@ -2641,28 +2009,17 @@
 -s  52 jupiter ecplodes. 
 -s  53 they send a msg to eatth saying to stay iff of europa. 
  epilogue: life is developing on europa -s 
- 
 * d917 Bryson, Bill. Walk in the woods. 1st ed. N.Y. 2007, c1998. 397 p. 18 cm.  
  Life takes on a neat simplicty, too. Time ceases to have any meaning. When it is dark, you go to bed, and when it is light again you get up, and everything in between is just in between... All that is requird of you is a wilingness to truge. There is no point in hurrying ecause you are not actually going anywhere. However far or long you plod, you are always in the same place: in the woods. -p. 101 -q 
- 
 * kFIC Smith, Clayton. Apocalypticon. n.p. 2014. 4737 kb. (Apocalypticon 1)  
- 
 * kFIC Sherman, jory. Arkansas river. n.p. n.d. kb.  
- 
 * kFIC Mead, Charles. 20XX. n.p. n.d. kb.  
- 
 * k920 Kelly, Susie. Bon voyage. n.p. n.d..  
- 
 * kFIC Silvers, Shayne. Obsidian son. 2nd ed. n.p. 2012. 2863 kb (Nate Temple series)  
- 
 * d923 Course of my life, The. n.p. n.d. v.  
- 
 * kFIC Geobey, R.A. Gods of Kiranis. n.p. n.d. kb.  
- 
 * kFIC Grainger, J. Under Heaven's shining stars. n.p. 2016. 5245 kb.  
- 
 * kFIC Harden, James. Secret apocalypse. n.p. 2011. 1857 kb. (Secret Apocalypse 1)  
- 
 * kSCI Goodkind, Terry. Wizard's first rule. n.p. n.d. kb.  
 -r  Read 2016-10. Grade B. 
 -s  2 richard and kjaylen kills men of thge quad. she came from the boarder. 
@@ -2740,9 +2097,7 @@
 -q  Wizard's First Rule: people are stupid, they believe what they want to believe. 
  46 r fins zedd and co, but tghe spell sides his identity from them. he fibds michael, and learns hge is the one whok betrayed.
  -s 
- 
 * kFIC LaPoma, Jonathan. Developing minds, an American ghost story. n.p. n.d. kb.  
- 
 * dSCI Anderson, Kevin J. Blood of the cosmos. First ed. U.S. 2015. 607 p. (The saga of shadows ; 2).  
 -r  Read 2022-09. Grade C.  A science fiction novel. The war with between the Shana Rei, CDF, and Solar Navy begins. 
 -s  122 Tasia, during a meeting of the Roamers, tells all of how the ekti-x fuel comes from the bloaters, and how Eliza killed those at the clan Duqeusne operation. Iswander is ruined. 
@@ -2824,13 +2179,9 @@
 -s  130 New Onthos are grown in the worldtrees. The trees are like an incubator 
 -s  131 The mad designate calls the faeros in the fight against the Shana Rei. 
 -s  132 With all but three robots left, the Shana Rei agree to create more. 
- 
 * kFIC LaPiana, David. Seeds of Akara. n.p. 2018. 538 kb. (New sky 1)  
- 
 * kFIC Lozito, Ken. Star shroud. n.p. n.d. kb.  
- 
 * kFIC Olezek, Julie. Fifth floor. n.p. 2015. 493 kb. (Fifth Floor 1)  
- 
 * d923 Baker, Jean H. James Buchanan. N.Y. c2004. xviii, 172 p. 22 cm.  
  Read 2013-11. Grade C.
  On the basis of slender evidence, mostly the circumstances of his bachelorhood and three asides by contemporaries about his effeminacy, Buchanan has been dubbed America's first homosexual president. Referring to his femininity, Andrew Jackson once calleed him an 'Aunt Nancy'... Absent the discovery of new material, no one will ever know whether Buchanan and King (the only man whom his name was ever erotically connected) had sexual relations.
@@ -2848,18 +2199,12 @@
 -q  ... palpable characteristics of failed presidencies - the arrogant, wrongheaded, uncompromising use of power. -p. 149 
  In this crisis three presidential failings - Buchanan's arrrogance that hecould
  achive peace by being a partisan of the South, his ideological commitment to southern values, and his vision of the future with slavery gradually dying out - all came together to buttress a terrible presidential miscalculation. -p. 151 -q 
- 
 * kFIC Kingsley, Charles. Water-babies / Charles Kingsley; Jessie Willcox Smith. n.p. 2011. 249 kb.  
  Ch. 3: Tom becomes a waterbaby. 
- 
 * kFIC Walters, Chris. Age of mystics. 1st ed. n.p. 2016. 543 kb. (Saga of Mystics 1)  
- 
 * kFIC Stewart, Katie W. Treespeaker. n.p. 2011. 780 kb.  
- 
 * v912 Rand McNally and Co. Road atlas. Scales vary. Chicago, Il. : Rand McNally and Company, c2012. 1 atlas (184 p.) ISBN 9780528003639 : $9.95. DBID 10110  
- 
 * kFIC Isbell, Megan Nugan. Last train home. n.p. 2013. 2429 kb. (Home Series 1)  
- 
 * d973 Masur, Louis P. Civil war. Oxf., c2011. xii, 118 p. 22 cm.  
 -r  Read 2012-06. 
 -q  In the late eighteenth century, when Americans spoke of their country they still meant their state, not the nation. -p. 4 
@@ -2868,20 +2213,14 @@
 -q  He [Joseph Hooker] was ambitious, and after making the appointment Lincoln warned him to 'beware of rashness.' -p. 49 
 -f  Ralph Waldo Emerson: 19th c., m., Founder of transcendentalism and public lecturer. -p. 11 
  Hartford Convention: 19th c. American (New England. A federalist movement for succession in response to anti-federalist (particularly, Jefferson's and Madison's) policies. -p. 5 -f 
- 
 * dFIC Weis, Margaret. Dragons of autumn twilight. n.p. n.d. v.  
- 
 * d923 Obama, Barack. Audacity of hope. N.Y. c2006. 365 p. 25 cm.  
 -r  Read 2012-03. 
 -q  Or should we just stick to the Sermon on the Mount - a passage so radical that it's doubtfull that our Defence department would survive its application? -p. 218 
  'What our deliberative, pluralistic democracy does demand is that the religiously motivated translate their concerns into universal, rather than religion-specific, values.' -p. 219 -q 
- 
 * kFIC Miller, Anthony. What would satan do? n.p. n.d. kb.  
- 
 * v912 Exploring New Hampshire's White Mountains. 1st ed. Scale 1:62,500. and 1:100,000. Twin Mt., N.H. : Wilderness Map Co., 2009. 2 maps on 1 sheet. ISBN 0978593242 : $7.95. DBID 3123  
- 
 * kSCI Stephens, Elijah. Harvest of Area 51. n.p. n.d. kb.  
- 
 * d970 Brinkbaumer, Klaus. Voyage of the Vizcaína. By Brinkbäumer, Klaus and Höges, Clemens ; tr. from the German by Streck, Annette. Orlando, Fla. c2006. 328 p. 24 cm.  
  Is. conveniens a commission
  "Columbus probably did not help his case. He is known to have been a terrible diplomat, both obstinate and dogmatic, and very likely he told the experts exactly what he tought of their calculations." -p. 6
@@ -2909,9 +2248,7 @@
 -q  Christopher Columbus could be both remarkably cover and astonishingly dense. He was driven hard by hopes and dreams and yet unable to leet go of his misprisions and unwilling to correct his mistakes. The combination led him to make grotesquely bad decisions. -p. 285 
 -q  Unlike his father, he [Diego] never spoke openly of his goals. -p. 287 
  Columbus was nothing if not persistent - even obsessed, egocentric, narcissistic. -p. 292 -q 
- 
 * kFIC Quarles, Dylan James. Ruins of Mars, waking Titan. n.p. 2013. 2373 kb. (Ruins of Mars 2)  
- 
 * d930 Cantor, Norman. Antiquity. 1st ed. HarperCollins, c2003. ix, 240 p. 22 cm.  
 -f  Prometheus: the personification of reason. -p. 131 
  Sophists: A philosophical school that would teach anyone for a price
@@ -2921,28 +2258,18 @@
 -q  All of Western philosophy, as the eminent twentieth-century thinker A.N. Whitehead hs said, is but 'a series of footnotes to Plato'. -p. 138 
  The Laws / by Plato: May have been Plato's last work
  attempted to draw up a constitution of the perfect state. -p. 139 -q 
- 
 * kFIC Lake, E.A. WWIV : in the beginning. n.p. 2014. 4517 kb.  
- 
 * kFIC Johnson, Glen. Sixth extinction. n.p. n.d. kb.  
- 
 * dFIC Philbrick, Rodman. Big dark. N.Y. c2016. 178 p. 22 cm.  
 -r  Read 2016-03. Grade C. 
 -q  'don't be afraid... Some of my residence [in the mental institution] may say things you find strange, but hey won't harm you. Best just do nod and agree.' -p. 124 
  Nobody knows how many people died when the lights went out. Millions, probably. But more of us survived. They said it would take years to rebuild the power rid and get back to nromal, and they're still working on it. Until then, we'll get by with the generosity of our neighbors, and with the help of those who have the courage to rise in defiance of tyranny and ignorance. From the storis people have told and are still telling, Reggie Kingman was far from alone. All across the nation and all around the world, good people helped us find our way. They shone a light, and the light is love. Remember that and you'll be okay. -p. 176 -q 
- 
 * kFIC Langlois, Michael. Bad radio. n.p. 2011 755 kb. (Emergent Earth 1)  
- 
 * d155 Happy introvert, The. n.p. n.d. v.  
- 
 * kFIC Kanaparti, Priya. Dracian legacy. n.p. n.d. k.  
- 
 * kFIC Kerley, Brian. Octagon key / Brian Kerley, Brandi Kerley [and] Safan Coleman, ills. [et al]. n.p. 2014. 1002 kb.  
- 
 * k821 Milton, John. Paradise Lost in plain english / John Milton; John Lanzara. n.p. 2012. 1166 kb.  
- 
 * kFIC Renae, Cameo. ARV-3. n.p. n.d. kb.  
- 
 * d973 Archer, Richard. As if an enemy's country. Oxford, c2010. xviii, 284 p.  
 -r  Read 2014-08. Grade C. 
 -s  This book explores the major events (sugar, stamp, and townshend acts, Boston's occupation, and the massacre) that lead to the revolution. 
@@ -2954,9 +2281,7 @@
 -s  2 Opposition forms against the stamp act; effegies of duty collectors, intimidation of officers of the crown, stubborness of Brit. parliament 
 -s  3 The group of nine, lead by Ebenezer Macintosh, lead thousands in protest. 
  4 Repeal of the stamp actin 1766; frayed relationship between the crown and Mass. house; intrusion into the house of Daniel Malcolm. -s 
- 
 * d364 Pirates of Somalia, The. n.p. n.d. v.  
- 
 * d920 Burroughs, Augusten. Running with scissors. N.Y. c2011. 304 p. 22 cm.  
 -r  Read 2016-04. Grade C. 
 -s  A.'s mom goes nuts. 
@@ -2992,63 +2317,35 @@
 -s  The christmas tree, which never comes down. -p. ?-281 
 -s  Whale Watch. -p. 282-292 
  I [Augusten] entered a period of sleepwaling. A low=intensity time where the worse thing that could happen to me was that i spilled French onion soup on my apron. -p. 300 -q 
- 
 * kSCI Jones, Ethan. Arctic wargame. n.p. n.d. kb.  
- 
 * kFIC Hill, Liesel K. Quantum entanglement. n.p. 2014. 702 kb. (Interchron 2)  
- 
 * d190 Philosophy. n.p. n.d. v.  
- 
 * kFIC Pearson, Ryne Douglas. Cloudburst. n.p. 2016. 646 kb. (Art Jefferson 1)  
- 
 * kSCI Hooke, Isaac. Bug hunt. n.p. 2017. 2301 kb. (Argonauts; 1).  
- 
 * kFIC Heneghan, Lou. Turnarounders and the Arbuckle rescue. n.p. 1047 kb.  
- 
 * kFIC Laurent, Peter. Covert Academy. n.p. 2013. 3058 kb.  
- 
 * kFIC Neal, Donavan. Third heaven. 3rd ed. n.p. 2014. 2283 kb. (Third Heaven 1)  
- 
 * kFIC Wharton, Edith. Age of innocence. n.p. 2014. 2009 kb.  
- 
 * kFIC More, Ranjit. Underworld king. n.p. n.d. kb.  
- 
 * kFIC Trigili, Vincent. Enemy of an enemy. 4th ed. n.p. 2010. 5943 kb. (Lost Tales of Power 1)  
- 
 * kFIC Taylor, Keary. Bane. n.p. 2014. 2638 kb. (Eden 1)  
- 
 * dFIC Rudnick, Paul. Playing the palace. 1st ed. N.Y. : Jove, 2021. 262 p. ; 21 cm. ISBN: 9780593099414.  
  Read 2022. Grade C.
--q  ...if you love someone, you don't try to change them. You honor them. You listen to them. You believe them. You hate them and love them and if you're very lucky, they change you. Above all else, you trust them. I have what they call trust issues, as a result of past betrayals. -Edgar. -p. 239  
-* w912 Kayak. n.p. c2012- kb. via [www](http://www.kayak.com).  
- 
+-q  ...if you love someone, you don't try to change them. You honor them. You listen to them. You believe them. You hate them and love them and if you're very lucky, they change you. Above all else, you trust them. I have what they call trust issues, as a result of past betrayals. -Edgar. -p. 239 * w912 Kayak. n.p. c2012- kb. via [www](http://www.kayak.com).  
 * dFIC Brooks, Terry. Elfqueen of Shannara. n.p. n.d. v.  
- 
 * v188 Aurelius, Marcus. Meditations. Tr. and w. notes by Hammond, Martin w. intro. by Clay, Diskin. Lond. 2014. lxi + 351 p., 17 cm.  
- 
 * k818 Tomczak, Jimmy. Lakeside and tide. n.p. 2016. 481 kb.  
- 
 * kWES Dragon Drive on Terul / Wyatt McLaren. n.p. 2014. 327 kb.  
- 
 * kFIC Nelson, Resa. Dragonfly, Eric Wilder, ill. n.p., 2015. 2342 kb. (Dragonfly series 1).  
- 
 * kFIC Wharton, Edith. Hermit and the wild woman, and other stories. n.p. n.d..  
- 
 * k973 Vulich, Nick. History bytes : 37 people, places, and events that shaped American history. n.p. 2015. 21306 kb.  
- 
 * dSCI Anderson, Kevin J. The dark between the stars. N.Y., Tor, c2014. 672 p. (The Saga of shadows ; 1).  
 -r  A science fiction novel. The Shana Rei, along with the bloaters, begin to appear. 
- 
 * kSCI Moan, Lee. Symbiosis. n.p. 2011. 7256 kb.  
- 
 * kFIC Wood, Aderyn. Journey. n.p. 2014. 3244 kb. (The borderlands ; 1)  
- 
 * dSCI Larson, Glen A. Battlestar Galactica / ... [and] Robert Thurston. n.p. n.d. v.   
- 
 * dSCI BBC Doctor who, 11 doctors 11 stories. N.Y., Puffin, 2013. 516 p.  
- 
 * kFIC Asthana, S.A. Final wars begin. n.p. 2019. 1052 kb. (Final Wars 1)  
- 
 * kLG+ Starr, D.H. Meant for him. n.p. 2014. 1179 kb. (Meant for Each Other 1)  
  Read 2018-05. Grade C.
  He shut out the self-pitying thoughts,
@@ -3061,17 +2358,11 @@
  There's a light inside you and since you met Andrew, it's glowed brighter.
  “You each have strengths where the other doesn't. It's that simple.
  There was no thinking involved, just being and doing. 
- 
 * dSCI Knight, E.E. Dragon strike. N.Y., Roc, 2008. 353 p. (The age of fire ; 4).  
- 
 * kFIC Mountjoy, G.R. 3 years after. kb.  
- 
 * kFIC Roquet, Angela. Graveyard shift. n.p. 2014. k. (Lana Harvey, Reapers Inc. 1)  
- 
 * kWES Thomas, Robert J. Reckoning. Robert J. Thomas, Barb Gunia, Dave Hile. 1st ed. n.p. 2011. 533 kb. (Jess Williams 1)  
- 
 * kFIC Wendelberg, Annelie. 1/2986. n.p. c2014. kb.  
- 
 * d973 Roberts, Cokie. Founding mothers. 1st Perennial ed. N.Y. 2005, c2004. xx, 359 p. 24 cm.  
 -f  Eliza Lcas Pickney, F, American. -p. 1 
 -f  Ester Edwards Burr, F, American. Mother of Aaron Burr. -p. 15 
@@ -3085,9 +2376,7 @@
 -f  Jane Franklin Mecom, 18th c., F, American. Youngest sibling to Benjamin Franklin. -p. 27 
 -f  Lord Loudon, 18th c., M, British. Commander of British forces in America. -p. 28 
  Catharine Ray Greene, 18th c., F, American. Friend (maybe more?) of Benjamin Franklin. -p. 30 -f 
- 
 * kFIC Jensen, Megg. Dragonlands, books 1 - 3, Hidden, Hunted, and Retribution. n.p. n.d. kb.  
- 
 * dFIC Rothfuss, Patrick. Name of the wind. Dow Books, Inc., c2007. 722 p. ISBN 9780756404741.   
 -q  I'm an arcanist, you great dithering heap of idiot. -Kvothe's father. -p. 54 -q REFLECTION: I need to use this phrase botany, astronomy, psychology, anatomy, alchemy, geology, chemistry... -Kvothe -71 
 -q  That is a true GILTHE. Or guilder if you prefer... It's the only sure way to be certainof who is and who isn't an arcanist. -Abenthy -p. 72 
@@ -3147,47 +2436,26 @@
 -q  ... E'lir, which means see-er. -p. 669 
 -q  I will teach you to understand... the nature of names cannot be described, only experienced and understood. -p. 672 
  'This is what I do,' Chronicler said, irritated. 'I collect stories. And when I get the chance I investigate odd rumors and see if there's any truth behind them.' -p. 715 -q 
- 
 * v912 Map and Guide : White Mountains and New Hampshire Attractions 2012; highways and byways; listings for dinning, lodging, shopping scenic tours and more; also, statewide attractions inside. Scale indeterminable-- [S.l. : White Mountains New Hampshire], 2012. 2 maps on 1 sheet. DBID 3124  
- 
 * kFIC Humble Nations. Alien baggage allowance. n.p. c2015. kb.  
- 
 * dLG+ Sanchez, Alex. So hard to say. n.p. n.d. v.  
- 
 * dFIC North, Anna. America pacifica. n.p. n.d. v.   
- 
 * k940 Cambridge medieval history collection. n.p. 2024. 5805 kb.  
- 
 * k817 Taylor, Michael Ray. Cat manual. n.p. 2012. 169 kb.  
- 
 * k930 Assyrian empire, The. Sea Vision Publishing, c2021, 2019. 2843 kb.  
- 
 * kFIC Huxley, Vance. Fall of the cities, planting the orchard. n.p. 2015. 2354 kb. (Fall of the Cities 1)  
- 
 * kFIC Legg, Brandt. Last librarian. n.p. 2015. 3223 kb. (Justar Journal 1)  
- 
 * g823 Rowling, J.K. Harry Potter and the goblet of fire; ill. by Mary Grandpre. n.p. c2000. kb. ISBN 9781781100370.  
- 
 * kFIC Norwood, Thomas. Perfect animals. 3rd ed. n.p. 2014. 1207 kb. (Perfectible Animals 1)  
- 
 * kSCI Harmon, Casey Sean. Rev. ed. Thousand year voyage. n.p. 2012. 581 kb.  
- 
 * dSCI Doherty, Robert. Area 51. N.Y., 1997. 372 p. 18 cm.  
- 
 * k920 Damm, Nate. Buddha on The bus. n.p. n.d. kb.  
- 
 * kLG+ Kaine, Daniel A. Jacinto's voyage. n.p. 2012. 252 kb.  
- 
 * kFIC Hudson, Grace. Ferts. n.p. 2015. 1156 kb. (FERTS 1)  
- 
 * kFIC Gisham, John. Pelican brief. Reprint ed. n.p. 2010. 5138 kb.  
- 
 * kFIC Raine, J.R.; Anthony, Piers. Worm returns. n.p. 2016. 5321 kb.  
- 
 * kFIC King, Sarah. Forging zero. n.p. 2013. 5003 kb. (Legend of ZERO)  
- 
 * kFIC Rice, Morgan. March of kings. n.p. 2013. 1549 kb. (Sorcerer's Ring 2)  
- 
 * dSCI Hawks, John Twelve. The traveler. N.Y., Doubleday, 2005. 456 p.   
 -r  Read 2012-09. 
  Citizens are people who think they understand what's going on in the world -Maya -p. 9.
@@ -3208,7 +2476,6 @@
 -q  Money buys protection. It's a wall between yourself and the rest of the world. -p. 111 
  A Harlequin child could renounce the way of the sword, accept a citizen name, and find a plaace in the Vast Machine. If he stayed out of trouble, the Tabula would leave him alone.
  -p. 7-8 -q 
- 
 * dSCI Verne, Jules. 20,000 leagues under the sea. Bantam Books, 1964. 371 p. ISBN 0553212524.   
 -r  Read 2021-10. Grade C. 
 -q  Our chances seemed slim, but hope springs eternal in the human beast. p. 60 
@@ -3235,29 +2502,17 @@
 -s  38. Arrived at soouth pole. 
 -s  42. A squid / octopus, which Nemo Kills. 
   44. They find the the Revenge. 
- 
 * k910 Bergren, Travis. Cruisin' the Caribbean : a newbie's guide to your first cruise. n.p. 2016. 2192 kb.  
- 
 * kFIC Dickens, Charles. Complete works. 2nd ed. n.p. 2016. 56530 kb.  
- 
 * a977 Moscow story, The. n.p. n.d. 18 p. DBID 1651  
- 
 * kSCI Richman, L.L. Chiral agent. n.p. 2020. 4666 kb. (Biogenesis War 1)  
- 
 * kFIC Sanders, Richard. Phoenix conspiracy. n.p. 2011. 1268 kb. (Phoenix Conspiracy 1)  
- 
 * d981 Wallace, Scott. Unconquered, The. n.p. n.d. v.   
- 
 * dFIC Wilker, John. Any job will do. n.p. n.d. v.   
- 
 * k910 Kopar, Istvan. Kihivas. n.p. 2015. 4547 kb.  
- 
 * dSCI Clarke, Arthur C. Rama II / Arthur C. Clarke and Gentry Lee. [S.l., n.d.] v.   
- 
 * kWES West, David J. Scavengers. n.p. 2016. 2061 kb. (Dark Trails 1)  
- 
 * kFIC Halstead, Jason. Child of fate. n.p. 2014. 1162 kb. (Blades of Leander 1)  
- 
 * kFIC Reid, Ruthanne. Sundered. n.p. 2013. 2160 kb. (Among the Mythos 6)   
  Read 2013-12. Grade C.
 -q  Questions aren't really encouraged among the Iskinder bloodline. We paddle the world, scavenging salvage, and looking for the Hope. It's what we do, what my father did, and what I do, and what my son will someday be expected to do, end of story. 
@@ -3276,23 +2531,14 @@
 -q  It's so old the title page is typeset—books today are entirely handwritten and Sundered-copied. 
 -q  I'm cursed with an analytical mind, and I could not see how the world would change so much... 
  I don't know what's right. I just know what's wrong. -q 
- 
 * dFIC Harbinson, W.A. Eden. N.Y. c1987. 367 p. 17 cm.  
- 
 * kFIC Hopkins, J.E. Saffron falcon. n.p. n.d. kb. (Transition magic ; 2)  
- 
 * kFIC Herrera, Devon. Sapphire universe. n.p. n.d. k. (Universe 1)  
- 
 * kFIC Minkman, Jen. The island. n.p. n.d. kb.  
- 
 * k915 Scheffler, Dan. Island explorer : an Indonesian travelogue. n.p. 2012. 2357 kb.  
- 
 * kFIC Kerley, Brian K. Octagan key. 2nd ed. n.p. 2013. 1002 kb.  
- 
 * v220 Bible. Message, Peterson, Eugene H. Colorado Springs, Co., NavPress, 2002. 906 p. 21 cm.  
- 
 * vWES L'amour, Louis. Lonigan. N.Y. 2013. vi, 177 p. ; 18 cm.  
- 
 * dFIC Weis, Margaret. Dragons of a vanished moon. n.p. n.d. v.  
 -s  6 Seth discovers a tracker that Elisa put on the ship. And he wants a compy, which I think is a robot..
 -s  7 Lee is running for roamer speaker,, against SamRick's.
@@ -3394,12 +2640,10 @@
 -f  Whistlers, a species of cactus on Eliid that seems to communicate. 
 -f  Zhett Kellum. Lives on Golgen. Wife of Patrick. Mother of Toff and Rex. Daughter of Del. 
 -f  Zoe Alakis, researches on the planet Pergamus. 
- 
 * dSCI Niven, Larry. Ringworld. [U.S.?] c1970. 342 p.   
 -r  A group of adventurers find that civilization has collapsed on Ringworld.
  100 pages in, just wasn’t interested in either the characters or the story. but I finished it. -r.
  To help a suffering human being, one plays a good listener. -p. 326. -q 
- 
 * k646 Allen, David. Getting things done. n.p., 2015. kb.   
 -s  Point is to reduce frustration and anxiety; “stress free productivity”. 
 -q  …capturing, clarifying, and organizing… 
@@ -3412,7 +2656,6 @@
 -q  … Getting Things Done is not some new technology or invention - it simply makes explicit the principles at work within what we al do implicity. 
 -f  … I'm in the focus business. As a consultant, coach, and educator I ask simple questions that often elicit very creative and intelligent responses from others (and even myself any outcome requiring more than one step that you're committed to achieve within a year. 
   
- 
 * kFIC Klune, T.J. House in the Cerulean sea. N.Y. 2020. kb.  
 -r  Read partly during my Michigan trip, and partly on the Friday afternoon, after pip, when I had nothing at all to do, and it was very quiet. Grade B. 
 -q  He'd learned early on in life that if he didn't speak, people often forgot he was there or even existed. 
@@ -3454,7 +2697,6 @@
 -s  18 back home now, he's very unsatisified. 
 -q  she didn't say a word. In fact, he was ignored. Linus was just fine with that. 
 -s  Linus goes back. 
- 
 * kSCI Bova, Ben. Mars. n.p. kb.  
 -s  Jamie goes sky divinvg. 
  On Earth life has crawled into every crevice and corner it can find, from pole to pole.
@@ -3462,154 +2704,84 @@
  traveler's secret years earlier: sleep whenever you can.
 -q  The second rule of the inveterate traveler: never pass a toilet without using it. 
  “So would a properly motivated chimpanzee. 
- 
 * dSCI Howey, Hugh. Half way home. Boston : Houghton Mifflin Harcourt, 2019. 228 p.  
- 
 * dSCI Wells, H.G. The time machine. N.Y. 1895, 2003. 122 p. 18 cm.  
- 
 * d001 McLachlan, Sean and Charles River, eds. Flying saucers. n.p. n.d. v.   
- 
 * k001 Goldstein, Jack. 101 amazing facts. 1st ed. n.p. 2014. kb.  
- 
 * w001 Hine, Dougald. What good is information. n.p. n.d. online via [www](https://Aeon.com). (Mar 6, 2014).   
  The trouble is that information doesn't nourish us. Worse, in the end, it turns out to be boring. -q -- Knowledge has a point when we start to find and make connections, to weave stories out of it, stories through which we make sense of the world and our place within it. -q -- And if there is an antidote to boredom, it is not information but meaning. -q 
- 
 * w001 Journey into the hidden web. n.p., n.d. via [www](https://www.makeuseof.com/tag/journey-into-the-hidden-web-a-guide-for-new-researchers/).  
- 
 * w001 Lifehacker. n.p. c2017. [www](http://www.lifehacker.com). Daily.  
- 
 * d001 MacKay, C. Memoirs of extraordinary popular delusions and the madness of crowds. Lond. 1852. v. DBID 3064  
- 
 * w001 1 MB club. n.p. n.d. 15 kb. via [www](https://1mb.club/).  
- 
 * k001 Open University. Information on the web. n.p. n.d. kb.  
- 
 * w002 eBooks habit. eBooksHabit, c2012. [www](ebookshabit.com). Daily.  
- 
 * w002 Free kids books. Free Kids Books, 2021. [w.](https://freekidsbooks.org/).  
- 
 * w002 Kindle Buffet. n.p. n.d. [www](http://www.weberbooks.com/kindle/). Daily.  
- 
 * k002 Lyons, Rebecca E. and Samantha J. Rayner. The Academic Book of the Future. n.p. 2016. kb.  
- 
 * w002 Openstax. Rice University, c2021. [www](https://openstax.org/).  
- 
 * w002 University of Minnesota. Open textbook library. The author, [202-?] [www](https://open.umn.edu/opentextbooks/).  
- 
 * p003 Operating system interface design between 1981-2009. n.p., 2009? file via USB. PDF file. via USB. Also available on the [World Wide Web](http://www.webdesignerdepot.com/2009/03/operating-system-interface-design-between-1981-2009/). DBID 8816.  
- 
 * k004 Adams, Mark. Python programming. n.p. c2015. kb.  
- 
 * kWES Annan, R. Lightning riders. n.p. 2016. 447 kb.  
- 
 * w004 Caard. n.p. n.d. via [www](https://carrd.co/build).  
- 
 * k004 Cannon, Jason. Linux administration. n.p., 2016. 856 kb.  
- 
 * k004 Cannon, Jason. Linux for beginners. n.p., 2013. 2688 kb. kindle.  
- 
 * w004 How-to geek. HowToGeek.com, c2006- . via [www](http://www.howtogeek.com/). Daily.  
- 
 * g004 Hughes, Matthew. Learn to build with PHP. 2014. 1.1 mb.  
- 
 * w004 Hughes, Matthew. Learn to build with PHP. M. Hughes, 2014. 2331 kb. via [www](http://manuals.makeuseof.com.s3.amazonaws.com/for-mobile/Build_With_php_-_MakeUseOf.com.pdf).  
- 
 * k004 Loukides, Mike. What Is Data Science? n.p. n.d. kb.  
- 
 * w004 Suehring, Steve. Learn JavaScript. n.p. 2012. [www](http://proquest.safaribooksonline.com).  
- 
 * k004 Suellentrop, Claire. Websites that convert. n.p. 2017. 2355 kb.  
- 
 * p004.6 U.S. Department of Defense. Chief Information Officer. Cloud computing strategy. [Washington, D.C. : Dept. of Defense], 2012. PDF file. via USB. File name: 3000.pdf. DBID 3100.  
- 
 * g005 Bachaalany, Elias. Batchography. n.p., 2016. 1.4 mb.  
- 
 * k005 Cooper, Peter. Beginning Ruby. n.p., n.d. kb.  
- 
 * k005 Dumbill, Edd. Planning for big data. n.p. 2012. 1525 kb.  
- 
 * w005 EPUB to PDF converter. n.p. c2021. [www](https://go4convert.com/ebook-to-pdf).  
- 
 * k005 Forta, Ben. Sams Teach Yourself Regular Expressions in 10 Minutes. n.p. 2004. 904 kb.  
- 
 * w005 Glide. n.p. n.d. [www](https://www.glideapps.com/).  
- 
 * k005 Holzner, Steven. Perl Core language. n.p. n.d. kb.  
- 
 * w005 Kindle4Rss. n.p. c2019. 2 kb. via [www](http://kindle4rss.com/).  
- 
 * k005 McLaughlin, Brett. What Is HTML5?. n.p. 2011. 243 kb.  
- 
 * g005 Nixon, Robin. Learning PHP, MYSQL, and Javascript. Beijing; Cambridge, c2009. 7.2 mb.   
 -q  The process of separating your data into tables and creating primary keys is called normalization. , p. 203 
 -q  E. F. Codd: inventor of the relational model. -p. 203 
  On a very popular site, if you have normalized tables, your database access will slow down considerably once you get above a few dozen concurrent users. -p. 210 -q 
- 
 * g005 DataCamp. Python basics cheat sheet. [n.p. 200?]. 1 mb.  
- 
 * g005 Regular expression reference. n.p. n.d. 4.1 mb.  
- 
 * k005 Tennison, Jeni. Beginning XSLT. n.p. n.d. kb.  
- 
 * k005 Williams, Jake Day. Learn PHP. n.p., 2015. 6574 kb.  
- 
 * w006 10 Simple CSS Code Examples You Can Learn in 10 Minutes. n.p. n.d. [www](https://www.makeuseof.com/tag/simple-css-code-examples/).  
- 
 * k006 Open University. Introduction to computational thinking. n.p. 2016. 812 kb.  
- 
 * w017 Curlie. n.p. c2018. [www](https://curlie.org).  
- 
 * w019 Mercantile Library of Boston, Catalogue of. John Wilson and Son, 1854. [www](https://archive.org/details/supplementtocat01massgoo).   
  Good example of a Cutter's, "short-title" type of library catalog. -r 
- 
 * p020 American Library Association. Frontline Fundraising toolkit. American Library Association, c2011. PDF file. via USB. File name: (10096.pdf). DBID 10096  
- 
 * d020 Battles, Matthew. Library : an unquiet history. n.p. n.d. v.   
 -q  The library in the digital age is in a state of flux, which is indistinquishable from a state of crisis - not only for institutions but for the books they contain, preserve, and propogate, a crisis for the culture of letters whose roots are firmly planted in the library. -p. 212 
 -q  And yet, they very fact that the library has endured these cycles seems to offer hope. -p. 213 
 -q  Destroying a library, however, is mearly the crudest form of editorializing. Libraries left intact can become tools of oppression and genocide, too, since they offer cannons that reflect the counceits of mystical nationalism and the will to purify. -p. 180 
  Perhaps the first prominant card catalog was Edward Gibbon's inventory on playing cards. -q 
- 
 * p020 De Rosa, Cathy. Perceptions of libraries and Information Resources / principal contributors: Cathy De Rosa , Joanne Cantrell , Diane Cellentani, ... [et al. ]; graphics, layout and editing: Brad Gauder, Andy Havens, [and] Rick Limes. Dublin, Ohio : OCLC Online Computer Library Center, Inc., c2005. PDF file. via USB. File name: 0349.pdf.  
- 
 * k020 Hammer, Joshua. Bad-ass librarians of Timbuktu. N.Y. 2016. 7111 kb.  
- 
 * g020 Small school library. Juneau, 1967. 675 kb.  
- 
 * w020 Small school library. Juneau, 1967. 710 kb. via [www](http://files.eric.ed.gov/fulltext/ED035508.pdf).  
- 
 * k020 Open University. Library of Alexandria. n.p. n.d. kb.  
- 
 * g023 Miller, Zana Kate. How to organize a library. Chic. c1921. 1.3 mb.  
- 
 * p024.4 Premis Editorial Comittee. Data dictionary for preservatino metadata. n.p. 2008. PDF file. via USB. File name: 8001.pdf  
- 
 * p025 Dillon, Martin. Assessing information on the internet / Martin Dillon [et.al.] ERIC, 1993. PDF file. via [www](http://files.eric.ed.gov/fulltext/ED354906.pdf).   
- 
 * p025 U.S. Government Printing Office. Instructions to depository libraries. [United States] : U.S. G.P.O., 2000. PDF file. via USB. File name: 0067.pdf.  
- 
 * p025 Library of Congress. Disseminating information on the internet. Wash. 1994. 1.5 mb. via [USB](40069.PDF).  
- 
 * p025 Mering, Margaret. RDA workbook. n.p. c2014. 4 mb. via [USB](400779.pdf).  
- 
 * d025 Taylor, Arlene G.; David P. Miller. Introduction to cataloging and classification. 10th ed. Westport, Connecticut c2006. xviii, 589 p. 24 cm.  
- 
 * k025 Open University. The digital literacy. n.p. 2018. 1451 kb.  
- 
 * w025.06 Kahn, Salman. Khan academy. [Menlo Park, CA] 2004- . [www](http://www.khanacademy.org/).  
- 
 * p025.17 Buckley, Karen. Partners needed. n.p. n.d. 2006. PDF file. via USB. File name: 0153.pdf.  
- 
 * p025.3 American Library Association. Anglo-American cataloguing rules / prepared under the direction of the Joint Steering Committee for Revision of AACR, a committee of the American Library Association ... [et al.]. Ottawa : Canadian Library Association ; Chicago : American Library Association, 2002-2005. 1 v. (loose-leaf). ISBN 0888023006. DBID 8377  
- 
 * p025.3 Brenndorfer, Thomas. RDA in 10 easy steps (for cataloging a book). [T. Brenndorfer, 2012?]. PDF file. via USB. File name: 10179.txt.  
- 
 * p025.3 Brazier, Caroline. Cataloguing policy and practice - 2007 and beyond: a view from the British Library. n.p. 2007. PPT file. via USB. File name: 1399.ppt.  
- 
 * g025.3 Calhoun, Karen. Online catalogs : What users and librarians want / Principal contributors: Karen Calhoun, Joanne Cantrell, Peggy Gallagher [et.al.]... ; Graphics, layout and editing: Brad Gauder, Rick Limes, Sam Smith; Contributor: Diane Cellentani. Dublin, Ohio, c2009. 1.4 mb.  
- 
 * w025.3 Cutter, Charles. A. Rules for a printed dictionary catalog. Wash, Government Printing Office, 1876. 734 kb. via [www](https://www.gutenberg.org/ebooks/59215).  
- 
 * g025.3 Edgar, Neal L. What every librarian should know about proposed changes in cataloging rules. [n.p., 1975]. kb. IN American Libraries. (Nov. 1975).   
  Figure 1: Title proper == parallel tile
  parallel title: other titles / statement of authorship.
@@ -3619,16 +2791,12 @@
  (Series; number: Subseries; number).
  Notes.
  ISBN Binding: price. 
- 
 * g025.3 Ercegovac, Zorana. Minimal level cataloging. IN Journal of the American Society for Information Science. (Jun. 1998).   
 -q  There is evidence attesting that most academic library users at the University of Bath are not interested in more than five bibliographic elements (e.g.. Seal 1983; Stamm 1996). 
 -q  others have experimented with their own in-house standards of what minimal-level cataloging should be (e.g., Stanford's Freund, 1990; Northwestem's Homy, 1991; Stamm, 1996; Michigan's Marko & von Wahlde, 1986). 
  Core Record Pilot Project -f 
- 
 * p025.3 Fattahi, Rahmatollah. AACR2 and catalogue production technology. n.p. 2007. PDF file. via USB. File name: 1079.pdf.  
- 
 * p025.3 Fox, Michael. Professional training for Encoded Archival Description in Europe. PDF file. IN Journal of archival organization. Vol. 3, no. 2/3 (Apr. 1, 2005) via USB. File name: 10067.pdf. DBID 10067.  
- 
 * w025.3 Gorman, Michael. Concise AACR2. 1988 revision. Chic. 1989. kb. via [USB][40086.pdf]. Also avail. via [www](https://archive.org/details/conciseaacr28800mich). 
  As a basic minimum, include at least the areas and elements (provided that they apply to the bibliographic resource) set out in this illustration: Title proper / first statement of responsibility[2].
  Edition statement.
@@ -3637,69 +2805,40 @@
  Extent of item.
  Required note(s).
  Standard number... 2. If the person or body named in this statement is recognizably the same as the person or body chosen as the main entry heading (see rules 23–28) and there are no other words or only the word “by” (or its equivalent in another language) in the statement, you may omit the statement. 
- 
 * d025.3 Minimal-level cataloging: a look at the issue. v. IN The Journal of Academic Librarianship. Vol. 11, no. 6 (1986).   
  National Level Bibliographic Record
 -f  Books (NLBR) 
  These records must contain the title proper, first statement of responsibility, pubilsher's name, date of publication, and extent of the item. -q 
- 
 * p025.3 Howard, Lynne C. Area 0: Content Form and Media Type Area / [Introduction written by] Lynne C. Howarth. IFLA, 2009. PDF file. via USB. File name: 10077.pdf.  
- 
 * p025.3 International Federation of Library Associations and Institutions. ISAD (G). 2nd ed. Ottawa : ICA, 2000. PDF file. via USB. File name: 0455.pdf.  
- 
 * g025.3 ISBD Review Group. International standard bibliographic description (ISBD). Consolidated ed. [n.p.], 2010. kb.  
- 
 * p025.3 Luther, Judy. Streamlining book metadata workflow. NISO, c2009. PDF file. via USB drive. File name: (10076.pdf)  
- 
 * d025.3 McClaskey, Marilyn H. and Swanson, Edward, eds. Manual of AARC2 level 1 examples. Lake Crystal, Minn. 1981. v, 32 p. ISBN 9780936996035  
- 
 * w025.3 Moulton, Mary; Megan Tietjen. National Transportation Library: minimal cataloging. n.p. 2013. [w.](https://vdocuments.net/12-december-2013-implementing-a-minimal-cataloging-standard-at-the-national.html)  
- 
 * g025.3 Steele, Bill. After 32 years, the library card catalog is retired. [n.p., 2007]. kb. IN Chronicle Online. (Oct. 1,2007).  
- 
 * g025.3 Tillett, Barbara. What is FRBR?. [W.], Library of Congress, 2003. kb.  
- 
 * g025.3 Follett. What the card catalog tells us. n.p. n.d. kb.  
- 
 * p025.4 Cutter, O.A. Cutter's three figure author table. Englewood, CO : Libraries Unlimited, Inc., 1969. PDF file. via USB. File name: 10064.pdf.  
- 
 * p025.4 Delta College. Library. Outline of the Library of Congress Classification system. [University Center, Mich. n.d.] kb. via [USB](40099.pdf). 
- 
 * p025.5 Redford Township District Library. [Michicard Letter]. Redford, MI : RTDL, 2007. PDF file. via USB. File name: 7022.pdf.  
- 
 * g025.8 Casey, Mike and Bruce Gordan. Sound directions : best practices for audio preservation. [n.p.], c2007. kb.  
- 
 * d027 Casson, Lionel. Libraries in the ancient world. New Haven, c2001. xii, 177 p. 22 cm.  
  The BeginningsA. Clay 1. Durable 2. ok in fire -p. -
  PrefaceA. covers from 3000 BCE-500 CEB. -p. -
  'Writing, it would appear, started as a primitive form of bookkeeping.' -p. 2 -o 
- 
 * p027 Duff, Wendy. Finding and using archival resources. PDF file. via USB. File name: 10065.pdf. DBID 10065. ISSN 0318-6954. IN Archicaria. No. 58 (Aug. 1, 2004)  
- 
 * p027 Evans, Joanne and Nadav Rouche. Utilizing systems development methods in archival systems. kb. via USB/10066.pdf.  (IN Archival Science. Vol. 4, 2004)  
- 
 * p027 Fredriksson, Berndt. Postmodernistic archival science. PDF file. via USB. File name: 10068.pdf. DBID 10068. IN Archival Science. Vol. 3 (2003)  
- 
 * g027 Library of Congress. Using ... MELVEL gopher. [n.p. n.d.] 6 kb.  
- 
 * p028 Kosciejew, Marc. Inside an axis of evil library. n.p. 2009. 164 kb. via [USB](40107.pdf).  
- 
 * k031 Janssen, Sarah. The World Almanac and Book of Facts 2016. n.p. 2016. 211722 kb.  
- 
 * k031 Janssen, Sarah. The World Almanac and Book of Facts 2020. n.p. 2020. 211884 kb.  
- 
 * k031 Janssen, Sarah. The World Almanac and Book of Facts 2021. n.p. 2021. 191386 kb.  
- 
 * kSCI Asthana, S.A. At the edges. n.p. 2021. 1960 kb.  
- 
 * p090 [Photographs and Videos of Las Vegas, Nevada and the Grand Canyon, Arizona / taken by Justin Lee Tyler]. [October, 2014]. JPG files. via USB. File directory: 3349.  
- 
 * p091 [eMail, 2013 Jan. 10, Mich. to Justin Lee Tyler, Ipswich, Mass. / Rex Dotson]. [2013]. TXT file. via USB. File name: 3246.txt.  
- 
 * p090 Marriage Licence [between George Thompson and Julie Jacobs]. 1923 Aug. 1st. PDF file. via USB. File name: 1443.pdf.  
- 
 * p090 Tyler, Justin Lee. [eMail, 2013 Feb. 26, Ipswich, Mass. to Rex Dotson, Mich. TXT file. via USB. File name: 3248.txt.  
- 
 * d100 Kellogg, Michael K. Three questions we never stop asking. Amherst, N.Y. 2010.  282 p. 24 cm.  
  I. What can I know?
  II What may I hope?
@@ -3754,7 +2893,6 @@
 -f  Proust. Author of IN SEARCH OF LOST TIME. -p. 221 
 -q  Their [a penal code/morality] origins lie instead in altogether human concepts of retribution and revenge. -p. 146 
  The religious person is an exception in every religion. -p. 147 -q 
- 
 * d100 Samuelson, Scott. Deepest human life. Chic. c2014. xiv, 216 p. 24 cm.  
 -q  Religion is built on authority, which could be wrong. Science is built on the senses, which could be wrong. Mathematics and logic are built on reason, which could be wrong. -p. 86 
 -q  ... a few things become clear beyond all doubt to al-Ghazali: first, God is real; second, at our innermost point we are connected to God (in other words, the soul is immortal); and third, od wants something of us, namely, for us to be and do good. -p. 89 
@@ -3773,7 +2911,6 @@
 -q  In short, Pascal thinks that Christianity, the most scandalous of all religions, is our only hope. Islam and Judaism makes too much sense. I can only imagine what he would have made of Unitarianism. -p. 133 
 -q  'Man's greatness comes from knowing he is wretched,' in Pascal's fine phrase. We stand a much better chance of winning hte forgiveness game than the law game. Yet forgiveness can take place only within a context of the law. -p. 134 
  Christianity is, as I said, a religion that stretches credulity. To be a Christian is to belive any number of paradoxes: that true morality appears in the context of immorality, that god is human, that power is expressed in suffering, and that this human God, uttering the famous cry of abandonment on the cross, is something of an athiest. -p. 135 -q 
- 
 * d113 Swimme, Brian. Hidden heart of the cosmos. Maryknoll, N.Y. c1996. x, 115 p. 24 cm.  
 -s  7 Live with a sence of cosmic spacialness. Find the constellation Sagittarious in the gallactic center of the universe. It took light 30,000 to reach earth. On earth 30,000 y/o, 'giant wolly mammohs roamed the North American continent.' -p. 59 Then find the Andromeda Galaxy. It took light 2.5 m years to reach earth. 2.5 mya on Earth, 'humans were first discovering the use of tools'. The Milky Way and Andromedia is part of the Virgo Super Cluster, consisted of thousands of galaxies and ten million planets. -p. 58-62 
 -s  8 Our generation is the first to begin seeing the vastness and complexity of space. 
@@ -3791,11 +2928,8 @@
 -q  Instead, I want to remember that humans have a variety of paths to the truth and when these various of paths to the truth and when these various routes arrive at a common consensual knowledge we have he possibility of a story of the universe that can guide us as a whole species as we enter a new millennium. -p. 79 
 -q  Earth is one planet moving around one start, which in turn is one of the three hundred billion stars of the Milky Way Galaxy, which in turn is one of a trillion galaxies in the wide universe. -p. 80 
  Space and ime erupt together with mass and energy in he pre\imordial mystery of the universe's flaring forth. -. 85 -q	 
- 
 * p128 Fulghum, Robert. All I really need to know I learned in kindergarden. 25th anniversary ed. Ballantine books, c2003. EPUB file. via USB. File name: 3355.epub. ISBN 9780345479105.  
- 
 * k133 Evans, Max and Maria. In the land of broken time. 2nd ed. n.p. 2016. 18065 kb.  
- 
 * d133 Cunningham, Scott. Wicca. Woodbury, Minn. c2004. xiv, 239 p. 23 cm.  
 -q  The person practicing the ritual or spell determines its success. -p. ix 
 -q  In Wicca, as with every region, ritual is a means of contacting the divine. -p. ix 
@@ -3872,16 +3006,13 @@
  6. White: purification
  7. Orange/red: protective rites/ when attuning with the god in his fiery solar aspect
  8. Black: absence of color/ the ultimate source of divine energy.) 
- 
 * k133 Farrell, Drea. Wicca. n.p. 2016. 6566 kb.  
- 
 * d142 Panza, Christopher and Gale, Gregory. Existentialism for dummies. Hoboken, N.J. c2008. xvi, 366 p. 24 cm.  
 -q  Having the constant luxury and responsibility to make a choice is part of the human condition. Why? Because no matter what your situation is, you choose that situation. -p. 159 
 -q  When we're born, we're simply there, no reason or meaning. -p. 165 
 -q  So by saying that existence precedes essence, Sartre means that human beings exist - are born and are conscious of their lives - before they 'are' anything. -p. 164 
 -q  If God doesn't esist, no eternal, objective measure of value exists, and nothing has any inherent meaning. This doesn't mean, however, that life has no meaning or value at all. It's just that every meaning and value is a human meaning or a human value. And because human beings have no human nature and no inherent values or meaning, we're constantly creating those human meanings and values. -p. 
  The only measure of what a person is capable of is what she actually does... Therefore, you're no more than the sum of your actions. -p. -q 
- 
 * w150 Klosowski, Thorin. Best productivity tricks used by evil dictators. 23 kb. via [www](http://lifehacker.com/5952815/the-best-productivity-tricks-used-by-evil-dictators). IN Lifehacker. (Oct. 18, 2012).   
  1. Force difficult decisions on people when their willpower is weak.
  2. Create a five-year plan.
@@ -3889,7 +3020,6 @@
  4. Embrace your "Cult of Personality" .
  5. Give direct, powerful speeches.
  6. Learn from experiences, not books. 
- 
 * w150 Winfrey, Sarah. 29 scientifically proven ways to be happy this year. n.p. n.d. 62 kb. via [www](http://www.wisebread.com/29-scientifically-proven-ways-to-be-happier-this-year). IN: Wisebread.com, 2014.  
  Work with your hands
  Practice 'taking in the good'
@@ -3918,11 +3048,8 @@
  Don't eat alone
  Get creative
  Dream about getting away. -o 
- 
 * k152 Brodie, Paul. Just do it. n.p. n.d. kb.  
- 
 * k152 Kohn, Sally. The opposite of hate. Reprint ed. n.p. 2018. 923 kb.  
- 
 * w152 Luther, Kate. 7 ways to get your life back into balance. Temple city, Calif. 2014. 62 kb. via [www](https://www.wisebread.com/7-ways-to-get-your-life-back-into-balance).  
  1 Learn to say no.
  2 Let go of guilt
@@ -3931,7 +3058,6 @@
  5 Let good be good enough
  6 Meditate
  7 Choose 
- 
 * w152 Michael, Paul. 10 mantras that will transform your life. wisebread.com, 2013. 63 kb. via [www](http://www.wisebread.com/10-mantras-that-will-transform-your-life).   
  'We see what we look for' -Sir John Lubbock
   'The past has no power over the present moment' -Echart Tolle.
@@ -3943,7 +3069,6 @@
  "You are who you are when nobody is watching." — Stephen Fry
  "Believe you can and you're halfway there." — Theodore Roosevelt
  "Be the change you wish to see in the world." — NOT Gandhi 
- 
 * w152 Stulberg, Brad. 8 rules to do everything better. [n.p., 2021?]. kb. via [www](https://getpocket.com/explore/item/8-rules-to-do-everything-better).  
  Stress + Rest = Growth
  Focus on the Process, Not Results
@@ -3954,7 +3079,6 @@
  Make the Hard Thing Easier
  Remember to Experience Joy
  There's an old saying that you're the average of the five people you spend the most time with. -q. 
- 
 * w152 12 rituals happy, successful people practice every day. n.p. n.d. 34 kb. via [www](http://www.marcandangel.com/2014/05/11/12-rituals-happy-successful-people-practice-every-day).  
  1. Exercise your integrity.
  2. Steer clear of drama and those who create it.
@@ -3976,20 +3100,13 @@
 -q  What's the next step I can take right now? 
  A relationship should be healthy, caring, loving, kind, upbeat and positive.
  It should make your smile a little wider... -q 
- 
 * p153 Fritzler, James and Susan G. Friedman. Behavior toolkit. [n.p], c2010. 574 kb. via [USB](40140.pdf). 
- 
 * k153 Gibbs, Jake J. and Roddy O. Gibbs. Mindful way to study. O'Connor Press, 2013. 831 kb.  
- 
 * w153 Pinola, Melanie. Why you learn more effectively by writing then typing. 19 kb. via [www](http://www.lifehacker.com/5738093). (In Lifehacker.com, Jan 21, 2021)  
  The act of writing helps you clarify your thoughts, remember things better, and reach your goals more surely. -q 
- 
 * p155 Bennington-Castro, Joseph. Science of what makes an introvert and an extrovert. n.p. 2013. 492 kb. via [USB](40143.pdf). 
- 
 * p155 5 tactics for relieving work-related stress. n.p. n.d. TXT file. via USB. File name: 3252.txt  
- 
 * k155 Wingo, Mary. Impact of the human stress response. n.p. 2016. 9074 kb.  
- 
 * g158 Hustad, Megan. Benefits of being stupid at work. [n.p] 2013. 37 kb.   
  'disquieting questions about decisions and structures'
  Stupidy has a unifying effect, boosts productivity
@@ -4002,21 +3119,17 @@
  If you're not worried about being perceived as a bit slow, you can ask better questions
 -q  better in the sense that they will likely yield more illuminating answers. 
  'Functional' is the key word here. Stupid works if you're smart enough to know when not to be. 
- 
 * g158 Murray, Katherine. Own your future. [U.S.?] c2010. 2.5 mb.  
- 
 * w158 Pinola, Melanie. Four signs your relationship might be doomed. 17 kb. via [www](http://lifehacker.com/5990762/four-signs-your-relationship-may-be-doomed). (In Lifehacker.com, Mar. 15, 2013).   
  Four signs your relationship might be doomed: Criticism
  Defensiveness
  Contempt
  Stonewalling 
- 
 * w158.1 Klosowski, Thorin. Importance of self-awareness, and how to become more self aware. 22 kb. via [www](http://lifehacker.com/the-importance-of-self-awareness-and-how-to-become-mor-1624744518). (In lifehacker.com, Aug. 21, 2014)  
  Learn to look at yourself objectively
  Write your own manifesto
  Keep a journal
  Perform a self interview. -o 
- 
 * d170 Fletcher, Joseph F. Situation ethics. Phil. [1966]. 176 p.  
 -r  Read 2011-10. 
 -q  The classic rule of moral theology has been to follow lasws but do in as much as possible according to love and according to reason. -p. 
@@ -4024,27 +3137,22 @@
 -q  To jump from one polarity to the other would be only to go from the frying pan to the fire. -p. 
 -o  'Three Approaches -by Joseph FletcherI. Three Approaches to Moral Theology A. Legalism 1. Two Types a. Reason (based on natural law) b. Revelation (based on scripture) B. Antinomianism (literally 'against law') 1. Types a. libertinism 1) Saved by grace, so who cares? b. special knowledge 2) We just know c. existentialism (Sartre) 1) unity or coherence in life is 'bad faith' C. Situational 1. Ethical principles are not codes' -p. 
  They [the legalists] have lost touch with the headaches and heartbreaks of life. -p. -q 
- 
 * d170 Framework for a feminist ethics. n.p. n.d. v. DBID 1037.   
 -q  '?the analysis of the root of oppression is a key factor in feminist ethics? Self-determination for woemn, autonomy, and an inviolable sence of embodiedness figure prominently in all feminists' visions of a new social order.' -p. 
  A. Types of Feminist Ethics 1. Radical feminist perspective 2. Sex-rolism 3. Socialist feminism 4. Marxist-Leninist feminism -p. -o 
- 
 * w170 Parliament of World's Religions. Editorial Committee. Declaration toward a global ethic. PWR, 1993. PDF file. via [www](http://www.parliamentofreligions.org/_includes/FCKcontent/File/TowardsAGlobalEthic.pdf).   
  Irrevocable directives 1) a commitment to a culture of nonviolence and respect for life; 2) a commitment to a culture of solidarity and a just economic order; 3) a commitment to a culture of tolerance and a life of truthfulness; and 4) a commitment to a culture of equal rights and partnership between men and women. -s 
- 
 * d171 Responsible self. n.p. n.d. v.  
 -r  Read 2011-10. 
 -q  ?our quest for truth about oursleves and in our quest for true existence. -p. 
 -q  'The Stoic's main question is: 'How may one react to events not with passion - that is, as one whois passive or who is subject to raw emotions called for by events - but with reason?'' -p. 
 -q  Two things in particular we say about ourselves: we act toward an end or ore purposive -p. 
  I. What is a good person? A. Man the Maker B. Man the Citizen C. Man the Answerer 1. Dialogue is important 2. A 'psychology of interaction' 3. Elements a. idea of response b. our interpretation c. anticipation of reaction to our action -p. -o 
- 
 * d171 Sheng, C.L. Defense of utilitarianism. Lanham, MD. 2003. 236 p. 22 cm.  
 -r  Read 2011-10. 
 -q  'I regard the aggregated or social utility as the ultimate objective of human beings. The ultimate objective naturally leads to the principle of utility, which is the core of utilitiarianism.' -p. 8 
 -o  'I. Introduction A. Development of Modern Unilitarianiam 1. Plato a. 'greatest balance of pleasure over pain' yes 2. Aristotle a. Happeness is the greatest attainable virtue. 3. Francis Hutcheson a. came up with the phrase 'greatest happiness for the greatest number' yes 4. Jeremy Bentham a. hutchesons phrase is 'the measure of right and wrong' yes 5. John Steward Mills 6. Henry Sidgwich a. wrote 'Method of Ethics': exploring self-interest and altruism. 7. Hastings Rashdall a. Ethics must be teleological.Traditional utilitariansim v.s rule-utilitariasm act utilitarianism a. a comparison of values instead of rules rule-utiliariansim a. nonstrict moral principles as thumb for guidance S.E. ToulminJ.O. urmson also must be teleologicalC. Difficulties with utilitariansim 1. Interpretation of the principle of utility. 2. Determination of value and utility 3. Individual v.s. societal points of view. 4. Distribution a. 'involved in the very meaning of utility, or the great' -p. 1- 
  During much of modern philosophy the predominant systematic theory has been some form of utilitariansim. -p. 9 -q 
- 
 * d174 Pauchant, Thierry C., ed. Ethics and spirituality at work. Westport, Conn. 2002. xii, 266 p. 24 cm.  
 -r  Read 2011-10. 
 -o  Limit race for dominiation 2. Rediscover notion of limit 3. See institutions as both good and evil 4. Go beyond economic considerations 5. Secure and democritize work 6. Favor concordance btw thought and action 7. Root thought in person 8. Reinvent politics 9. Encourage ability of subtle mindfulness' -p. 130-146 
@@ -4058,7 +3166,6 @@
 -q  ...spirituality at work would allow them to live a more integrated and more systemic life? -p. 35 
 -o  'VI. The Cooperative by Claude Beland A. Desjardins 1. A banking company in Quebec, Canada. 2. Cooperative ethics 3. Began with Alphones Desjardin B. Principles 1. solidarity 2. Mutual help 3. fraternity 4. charity 5. Education the public about a. democracy b. economy c. responsibility d. solidarity' -p. 77- 
  'XI. For a spiritual ethic of work : some inspiriation from Simone Weil. by Thierry C. Pauchant 
- 
 * d174 Theology and Christian ethics. n.p. n.d. v.  
 -o  Priestly 2. 7th - 6th BCE 3. Worked in Jerusalem F. Redactist 1. Editor 2. After the Exile 3.' -p. 
 -s  'I. Genesis 1-2 A. a 'theological meditiation in story form.' 1. Not scientific fact B. Gen 1 1. Priestly account 2. Written 2nd 3. transcentdent C. Gen 2 1. Yahwist 2. Written 1st 3. anthropormiphic D. Humans given central part of creation' -p. 
@@ -4072,23 +3179,14 @@
 -o  'II. Death of Ivan Illich A. General Notes 1. Death disappears. 2. A remarkable change of outlook 3. What is his sin? He's a clone of convention. He's caught up in his ''roll''. a. inauthentic self 4. Guilt is ''existential guilt. 5.' -p. 
  'III. Wellhausen Hypothosis A. Torah written in three different schools B. J 1. Yahwist 2. 950BCE C. E 1. Elohist D. D
  DDC Dutoronomist E. P 
- 
 * k174 Thomas, Ryan. Become a natural leader. n.p. 2014. 1209 kb.  
- 
 * d177 Einhorn, Stefan. Art of being kind. n.p. n.d. v.   
- 
 * k178 Bivans, Steve. Be a hobbit, save the Earth: the guide to sustainable shire living. 1st ed. n.p. 2014. 2934 kb.  
- 
 * k178 Dawson, William J. The quest of the simple life. n.p. 2012. 228 kb.  
- 
 * k178 Janes, Faith. The beauty of simplicity: a photobook of inspiration. n.p. 2013. 37502 kb.  
- 
 * k178 Hays, Ronald. Life lived simply: meditation, spirituality, and conscious living. n.p. 2013. 3344 kb.  
- 
 * k178 Lippincott, Lorilee. Simple Living - 30 days to less stuff and more life. n.p. 2012. 492 kb.  
- 
 * k178 McHenry, Nate. Live simple: 31 tips To declutter, simplify, and organize your life. n.p. 2013. 1308 kb.  
- 
 * d178 Pierce, Linda. Choosing simplicity. n.p. n.d. v.   
 -q  The fact, we are struggling to make sense of the spiritual an emotional wasteland we call modern life. We feel trapped in an almost compulsive drive to amass more wealth, status, and power. There is an addictive quality to this consumer-driven lifestyle. -p. 22 
 -q  Living simply can facilitate a life of balance, purpose, and joy. -p. 24 
@@ -4103,13 +3201,9 @@
 -q  Living simply and fugally... -182 
 -q  Her [Melissa] typical day starts with rising early and spending some quiet time reading or meditating. She then progresses to her puttering phase - listening to the radio while she waters the plants, doing some light housekeeping or sewing, filing papers or taking care of minor household repairs. After a light breakfast, Melissa might tend the garden or start baking a few loaves of bread, followed by some time on her computer, either writing letters, organizing recipes, or helping out a local charitable organization by entering data on spreadsheets for them. By late morning, melissa takes off on her bicycle to visit family or fiends, go to the library (where she spends time on personal research projects), or run errands. Lunch and dinner are usually simple one-dish affairs made from scratch. She spends her afternoons and evenings either taking care of her friend's daughter or working on whatever I might be interested in [...]. I go to bed fairly early and usually read again until I get tired. It's a low-key life but very satisfying for me.' - p. 192 
   I think that a bicycle is the essence of simple, effective technology. there's very little to learn about riding or maintaining one, and much of that is readily apparent. -188 -q 
- 
 * k178 Robbins, Hannah. Minimalist living. n.p. 2017. 5503 kb.  
- 
 * k178 Scott, Grace. The materialistic world. n.p. 2013. 3415 kb.  
- 
 * k178 Strauss, Alex. The mindful walker. n.p. n.d. kb.  
- 
 * w178 [21 simple actions towards a simpler life]. [S.n., 2012?]. www.   
  1 Perform a cluttee bust
  2 Practice gratitude
@@ -4134,13 +3228,9 @@
  21 Unplug "You need time to think, time to dream, time to talk and time to do nothing at all"
 -q   Meditation brings perspective, it brings calm, it brings peace and leaves you feeling grounded and well-prepared for the day. 
  Steps to meditation: Take a deep breath, close your eyes, and think of your five senses. Immerse yourself in your immediate surroundings; be present in the moment. -o 
- 
 * k178 Wonderful, Jessica. Voluntary Simplicity: How to downsize, simplify, and retire early. n.p. n.d. kb.  
- 
 * k178 Zislis, Evan Michael. ClutterFree revolution. n.p. n.d. kb.  
- 
 * k188 Aurelius, Marcus. Meditations. n.p. n.d. kb.  
- 
 * k188 Irving, William. The stoic challenge. n.p. 2019. 717 kb.  
 -r  Read 2021-12. Grade C. 
 -q  I reflected on what a bunch of spoiled brats we twenty-first-century humans are. 
@@ -4162,20 +3252,15 @@
 -q  It might then dawn on you that what you previously thought of as hunger wasn't biological hunger at all; it was instead a psychological mélange of boredom and discontent. 
 -q  ... be sure to notice the sky: it didn't have to be blue, but it is, and isn't that wonderful? 
  His [a stoics] primary goal in life is to attain and then maintain tranquilityAnother central principle of Stoicism is that we should be socially useful -q 
- 
 * k188 James, Ryan. Stoicism. n.p. 2017. 4381 kb.  
- 
 * k188 Seneca. Letters from a Stoic. n.p. 2016. 886 kb.  
- 
 * d193.9 Nietzsche, Friedrich Wilhelm, selected and translated, with an introduction, prefaces, and notes, by Walter Kaufmann. The portable Nietzsche. Harmondsworth England : Penguin, 1976. x, 692 p.   
 -r  Read 2012-03. 
 -q  The time has come for a man to set himself a goal. The time has come for man to plant the seed of his highest hope. -Zarathustra -p. 129 
 -q  I teach you the overman. -Zarathustra -p. 124 
 -q  When Zarathustra was thirty years old he left his home and went into the mountains. Here he enjoyed his spirit and his solitude, and for ten years did not tire of it. But at last a change came over his heart. -p. 121 
  Sex, the lust to rule, selfishness [are the three evils]: these three have so far been best cursed and worst reputed and lied about... -p. 300 -q 
- 
 * d200 Buehrens, John A. and Parker, Rebecca Ann. House for Hope. n.p. n.d. v.  
- 
 * d200 Livingston, James C. Anatomy of the sacred. 2nd ed. N.Y. c1993. xvi, 460 p. 23 cm.  
 -r  Read 2011-10. 
 -o  'I. What is Religion A. Defining Religion 1. Theism v.s. Non-Theism 2. Sacred v.s. secular 3. Mono v.s. polytheism 4. Why define religion a. religions do share charactoristics b. avoid confusion 5. Substantive v.s. functional B. Why are humans religious? C. Why Study Religion D. How to study religion' -p. 3-23 
@@ -4200,11 +3285,8 @@
 -d  Ethics of Virtueof what is morally commendable or ideal -p. 305 
 -d  Ethics of obligation/dutyof what ought to be done -p. 306 
  Is something right because God commands it or does He command it because it is right?Socrates -p. 322 -q 
- 
 * g200 Mann, Charles C. Birth of religion. n.p. 2011. kb.  
- 
 * d200 Paragament, Kenneth I. Psychology of religion and coping. N.Y. c1997. xii, 548 p. 24 cm.  
- 
 * d200 Religion and Psychology. n.p. n.d. v.    
 -r  Read 2011-10 
 -q  'Science is grounded in reason, religion in mystical experience? both provide genuine access to an incredibly rich universe.' -p. 25 
@@ -4217,19 +3299,12 @@
  'IV. Faith Development (Fowler) A. Stages of Development 1. Intuitive Projective a. children dominated by fantasy b. Begininnings of awareness 2. Undifferentiated faith a. must have consistency of care 3. Mythic-literal faith a. Legalism 4. Synthetic-conventional faith a. Concerned with fairness and reciprocity b. Abstractness 5. Individuative-Reflective faith a. Sence of self b. critical reflection 6. Paradoxical-Consolidated Faith a. Re-work the past b. evertything falls apart 7.Universalizing Faith a. A sense of inclusiveness with everyone b. A power to see diversity' -p. -o -- 'I. What is Psychology A. Def
 -o  DDC Give more control over what we have no conrol of. 2. The science of mental life 3. How ppl behave ; looking at behavior. B. Systematic and objective C. Theoretical Perspectives 1. Nural-biological approach 2. Psycho-anolytic approach a) keeps part of experience out of awareness. 3. Cognitive approach 4. Humananist a. a/k/a Phenominological b. Subjective c. Individualistic d. Self-actualization a. Becoming all that you can be. b. Enviroment to flurish D. Areas of PSY 1. Expirimental 2. Socia 3. Clinical 4. Developmental 5. And Others?' -p. 
  'II. What is Religion B. Def 
- 
 * k200 Smith, Christian, Patricia Snell. Souls in transition. 1st ed. n.p. 2009. 7041 kb.  
- 
 * k200 Hendren, Trista, Pat Daly, ed. Whatever works: Feminists of faith speak. n.p. 2015. 3949 kb.  
- 
 * d204 Who is my God. n.p. n.d. v.   
- 
 * k210 Maziarek, Jeff. Spirituality simplified. n.p. 2012. 981 kb.  
- 
 * k210 Horsfield, J. The Golden Rule - Pathways to peace. n.p. n.d. kb.  
- 
 * k210 Mercer, John Edward. Nature Mysticism. n.p. 2012. 429 kb.  
- 
 * d210 Peters, Karl E. Dancing with the sacred. Trinity Press International, c2002. x, 171 p. ISBN 1563383934.   
 -q  We become part of hte dance of the sacred - the danceof that system of interactions in the universe and society that brought us into being, that sustains us in our living, and that continually transforms us as part of the ever changing future. -p. 51 
 -q  If we regard ideas as tools to help us get around in the world, we might say that he sciences and various religions offer different maps of the same world. -p. 52 
@@ -4243,9 +3318,7 @@
  How then can we live more at peace with ourselves and more in tune with our social and natural worlds? ... see
  our sacred center... -p. 97
  Religions have different names for what I am calling our sacred center. It is efered to as Soul, Spirit, Christ Nature, ... Buddha Nature... These names point to a stte of mind that is centered, calm, creative, and compassionate - present fully in the mooment for oneself and for others... The self is thus the mindful observer of all that is happening. -p. 99 -q 
- 
 * k220 Bible. Holy Bible, English Standard Version. n.p., 2011. 17720 kb.  
- 
 * d220 Ferlo, Roger. Opening the Bible. Cambridge, Mass., c1997. xv, 153 p. 22 cm.  
 -r  Read 2011-10. 
 -q  'When Jesus read in the synagogue, it is possible that he used the Targum (Arabic translation/parahrase of the Hebrew Scriptures) as the starting place for his dramatic reinterpretation of Scripture.' -p. 35 
@@ -4259,9 +3332,7 @@
 -o  'I. The Bible A. Reading the bible responsibly 1. The context of public worship 2. The context of ancient cultures and languages in which thee bible first was written and published. 3. The context of tradition, expecially the first four centuries of Christian believing, when characteristically Christian methods of reading the Bible began to take coherent shape. 4. The context of almost two thousand years of intellectural, scientific, religious, and social change, in the midst of which, in diverse times and places, Episcopalians have wrestled with the meaning of the Bible in our lives B. Citing Chapter and Verse 1. Began with the Rabbi Nathan in the middle ages 2. Further exteded by humanist scholar Robert Estienne in 1551. C. Midrash 1. 'The central conviction ? that God's voice, hidden in the sacred text, can be heard in the midst of human voices reading the text. 2. Allegorical reading. a. '? he [paul] neglects the specifics of language and context in order to reveal the rea' -p. 6 
 -q  'In the end, God's truth is to be found not in the book, but in the presence of the risen Christ, recognized in the breaking of the bread.' -p. 13 
  'It is our history, the history of God's continuing actions among us - a history of God's relationship with humanity in Jesus the Christ that is at once cosmic and intimate, both timeless and immediate. Though our baptism, we laim God's history as our own.' -p. 8 -q 
- 
 * d220 Bible. Message. Peterson, Eugene H. Large Print Numbered ed. Colorado Springs, c2002. v. ISBN 1576836738.   
- 
 * k220 Bible. Message. Peterson, Eugene H. Colorado Springs, 2014. 14347 kb.  
 -q  Prosperity is as short-lived as a wildflower, so don't ever count on it. -James 1 
 -q  The temptation to give in to evil comes from us and only us.... Lust gets pregnant, and has a baby: sin Reach out to the homeless and loveless in their plight, and guard against corruption from the godless world. -James 1. 
@@ -4270,11 +3341,8 @@
 -q  Don't be in any rush to become a teacher, my friends... We get it wrong nearly every time we open our mouths. -James 3. 
 -q  A word out of your mouth may seem of no account, but it can accomplish nearly anything—or destroy it Be healed of your plague. -Jesus (Mk. 5) 
  Don't listen to them; just trust me. -Jesus (Mk. 5) -q 
- 
 * k220 Bible. NET bible noteless. 1st ed. n.p. c1996. 3459 kb. "New English Translation"--cover.  
- 
 * p220 Bible. New oxford annotated bible : New revised standard version with the Apocrapha. Googan, Michael D., ed., Marc Z. Brettler, Carol A. Newsom, and Pheme Perkins, Associate Editors. 4th ed. n.p. c2010. 46.6 mb.  
- 
 * p220 Bible. Holy bible. Minneapolis, M.N. c1989. kb. via USB/8331.pdb. "The New Revised Standard Version" -cover.  
 -q  'You faithless and perverse generation, how much longer must I be with you and bear with you? Bring you son here.' -p. Lk. 9:41 
 -q  'Do not work for the food that perishes, but for the food that endures for eternal life, which the Son of Man will give you. For it is on him that God the Father has set his seal.' -p. JN. 6:27 
@@ -4333,7 +3401,6 @@
 -r  DBID1200p15 -p. LK. 23:42 
 -r  Gen. 1-3 -p. 
  -p. JN. 2-3 -r 
- 
 * d220 Spong, John Shelby. Re-claiming the bible for a non-religious world. N.Y. c2011. xviii, 414 p. 24 cm.  
 -q  We know now that the Bible is a small library of books composed over a period of about one thousand years between 1000 BCE and 135 CE. Many of the biblical books did not have a single author. Some of them were edited and re-edited over a period of time as long a period of time as five hundred years before they reached the form in which they found inclusion in the Bible. -8 
 -q  I am not the enemy of the Bible. I am the enemy of the way the Bible has been understood and the way the Bible has been used. -15 
@@ -4348,9 +3415,7 @@
 -s  Elohist document: northern tribes extablished capital in city of samaria-- hero is Joseph 
 -f  Jebusites 
  Kadesh -f 
- 
 * p220 Spong, John Shelby. Rescuing the bible from fundamentalism. n.p. n.d. PDB file via USB.  
- 
 * d225 Ehrman, Bart D. New testament. N.Y. 2004. xxxiii, 506 p. ISBN 0195154622   
 -r  Read 2011-10. 
 -o  Cultic practices a. animal sacrifices b. prayer 2. Monotheistic 3. The Covenant a. The Law b. The temple 1) perhaps the size of 25 football fields. 4. Jewish Sects a. Pharisees 1) believed in resurrection b. Sadduccees 1) the aristicrates c. Essenes 1) produced dead sea scrolls 2) Conservative d. Fourth Philosophy 1) militant' -p. 
@@ -4392,13 +3457,9 @@
 -o  'I. What is the New Testament A. diversity in Early Christianity 1. Jewish Christian Adoptionists a. Christ adapted by God to be Gods son b. Jesus was not divine. c. continue to follow OT rules except sacrifice d. considered paul a heritic. 2. Marcionite Christians a. Followed Marcion. b. Gospel over law. c. Two gods in the bible. d. Jesus completely divine 1) a phantasm 3. Gnostic Christians a. claimed a special knowledge for salvation. b. Jesus only one of the divine beings c. Salvation meant excaping the material world. 4. Proto-orthodox a. Jesus as both human and divine B. NT 1. 27 books 2. ~15 authors 3. Written btw 50 and 120 AD 4. Formalized by Athanasius in 367 AD.' -p. 
  'II The world of early Christian Traditions A. The problems 1. Where do you start reading? a. Matthew, the first book of the bible, isn't the first one written. b. 1Thes. is, but paul never met Jesus; lived after he died 2. Conditions of 1st century Rome. a. No middle class b. travel was horrendous B. Religiosity in the Greco-roman world
  DDC Terms a. Pagan: Anyone who is not a Jew or a Christian. b. Gentile: Anyone who is not a Jew; christian or not. 2. Nature of religion a. no hierarchy b. no creeds c. no ethical committments d. no sacred writings e. no church/state separation f. no exclusive comittments g. ritual was important 3. The Divine Pyramid a. The one God b. The great Gods 1) mentioned in the Iliad and Odyssey c. Daimonia, loal gods, etc. d. Divine beings, demigods, immortals, heros e. Humans. B. Judiasm in the Greco-Roman world 
- 
 * g226 Growth of the gospel tradition. n.p., 2007. 379 kb.  
- 
 * k226 Bible.  The Jefferson Bible. Jefferson, Thomas. n.p. 2011. 304 kb.  
- 
 * d229 Jeffery, Peter. The secret Gospel of Mark unveiled. n.p. n.d. v.   
- 
 * d230 Prothero, Stephen R. American Jesus. N.Y. 2003. 364 p. 24 cm.  
 -q  Nearly one-quarter of the Christians in the United States now believe in reincarnation. -p. 6 
 -q  'While there are likely more Muslims than Episcopalians in the United States, there are infinitely more Episcopalians than Muslims (44 to 0, to be exact) in the 108th Congess.' -p. 6 
@@ -4426,9 +3487,7 @@
 -q  His [Joseph Smith] was unabashedly masculine and unapologetically majestic -p. 178 
 -q  'The book of morman as ''choloform in print.'''Mark Twain -p. 182 
  Mormons continued to accept the Bible as God's word only 'as far as it is translated correctly.' -p. 186 -q 
- 
 * p230 Smith, Huston. The soul of Christianity. n.p. n.d. kb. via USB/PDB  
- 
 * d230 Spong, John Shelby. New Christianity for a new world. 1st ed. San Francisco c2001. xxv, 276 p. 22 cm.  
 -q  ...the reassessment of Christianity that I seek to develop... -p. 8 
 -q  The primary apologietic task facing the Christian church today is that of separating the extraneous from the essential, the timeless God-experience from the tie-wared God-explanations of the ast. -p. 12 
@@ -4475,11 +3534,8 @@
 -q  The Christians of the theistic past and the Christians of the post-theistic future will be united not by their explanations, but by their experiences, which are finally all we have of the divine. -p. 216 
 -q  We can avoid relivin these destructive and demonic moments of shame in Christian history by keeping our focus off the church and its needs, concentrating instead on the task of proclaiming and expanding the realm of God. -p. 216 
  Yet we human beings cannot know God; we can only experience God. -p. 237 -q 
- 
 * p230 Spong, John Shelby. Why Christianity must change or die. n.p. n.d. PDB file via USB.  
- 
 * k230 Tolstoy, Leo. The Kingdom of God is within you. Garnett, C., tr. n.p. 2011. 460 kb.  
- 
 * d232 Aslan, Reza. Zealot. N.Y. c2013. xxxiv, 296 p. 24 cm.  
 -r  Read 2013-09. Grade B. 
 -s  Ch. 7: a discussion of John the Baptist; how Jesus likely began his ministry as a disciple of John; and how the early Christians needed to present Jesus as superior then John. 
@@ -4515,7 +3571,6 @@
 -f  HEGESIPPUS, 110-180 A.D., Roman. Early Christian historyian. -p. 197 
 -f  ARIUS: A bishop during the 4th century who taught that Jesus seemed to be just a man; "there was a time when [Jesus] was not" -p. 214 
  
- 
 * d232 Four faces of Jesus. n.p. n.d. v.   
 -r  Read 2012-03. 
 -q  'Luke, like Mark, sought out others in compiling his portrait?' -p. 
@@ -4524,7 +3579,6 @@
 -q  'Luke, like Mark, sought out others in compiling his portrait?' -p. 
 -o  'A. Mark 1. Writing for a Roman Audience B. Matthew 1. Written in Antioch, Syria. 2. Written for Jews; a ''new moses'' 3. Works similar to a catechism 4. A work of several discources a.The Sermon on the Mount (Matthew 5:3-7:27) b. The Missionary Discourse (Matthew 10:5-42) c. The Parable Discourse (Matthew 13:3-52) d. The Church Community Discourse (Matthew 18:3-35) e. The Eschatological (Last Things) Discourse (Matthew 24:4-25:46) C. Luke 1. Achaia D. John 1. Jesus is divine.' -p. 
  'The way to assimilate Mark is in a single gulp: Sit down and read all 16 chapters as you would any other book. Forget about footnotes and cross references. Simply read it whole and entire in one sitting, and you'll be introduced to a Jesus you may not have met before.' -p. -q 
- 
 * k232 McLennan, Scotty. Christ for Unitarian Universalists. Bost. 2016. 2038 kb.  
 -q  Borg ... finds ... Jesus does not about being the messiah ... the pre-easter Jesus was a Jewish Prophet (ad mystic, wisdom teacher, leader, and mevemtn builder), but but the jewish messiah. 
 -q  He was a Jewish Prophet, who proclaimed the in-breaking kingdom of God, which was to change the course of human history. He was also a mystic, wisdom teacher, and healer. 
@@ -4539,9 +3593,7 @@
 -q  Worldly power comes and goes, but the power that eminates from this poor baby's birth last forever. 
  Ch 2: Jesus as the one who so completely incarnates spiritual gifts.
  How does this help us get through the day or experience a better tomorrow? -q 
- 
 * p232 Spong, John Shelby. Born of a women. n.p. n.d. PDB file via USB.  
- 
 * d234 Nouwen, Henri J.M. With burning hearts. Maryknoll, N.Y. c1994. 95 p. 22 cm.  
  III Inviting the stranger; 'I believe'.
 -q  Their empty house has become a place of welcome, a place to receive guests, a place to continue the conversation they had so unexpectedly begun. -p. 53 
@@ -4549,9 +3601,7 @@
  In a society with such an informational overload, even the most significant encounters can be reducuded to 'something interesting'... only with an invitation to 'come and stay with me' can an interesting encounter develop into a tranforming relationship. -p. 57 -
 -q  That's what true hospitality is all about, to offer a safe place, where the stranger can become friend. -p. 60 
  We are most vulnerable when we sleep or eat together. Bed and table are the two places of intimacy. Also the two places of greatest pain... There is intimacy, friendship, community... And as their host he invites them to enter into full communion with him. -p. 61 -q 
- 
 * d238 Van Harn, Roger E., ed. Exploring and proclaiming the Apostles' Creed. Grand Rapids, Mich. 2004. xix, 297 p. 24 cm.  
- 
 * d240 Sinke, Beverly Lancour. Wrestling with God and cancer. n.p. n.d. v.  
 -q  'I realize now that if we can handle with gracefulness what life brings our way, we will do will.' -p. 8 
 -q  What started out as a very restful day would end up sapping the very life force out of me and strain to the breaking point my relationship with my God. -p. 10 
@@ -4564,9 +3614,7 @@
 -q  It was in readign over my journal that I recognized a gradual awareness unfolding. -p. 56 
 -s  'IV. The dividing line. -Bev learns that God is no santa clause. Makes connection btw faith, wisdom, and love.' -p. 56-59 
  'V. The uphill struggle. -Bev sees suffering as part of faith journey.' -p. 59-64 -s 
- 
 * k242 Diack, Michael. Light and the glass. n.p. 2013. 960 kb. (Empyria ; 2).  
- 
 * d242 Jacobs, Donald R. Consider Jesus. Scottdale, Pa. c2006. 367 p. 19 cm.  
 -r  Read 2011-10. 
 -o  Chapter 1 : A living tradition -p. 1-18 
@@ -4581,19 +3629,12 @@
 -o  Chapter 4 : The History of Jesus -p. 49- 
 -q  '? love is heart of the reign of God; not an easy love but a self-giving love on the model of God. Such love grounds the law, puts it in correct perspective, and fulfills it. Loving this way, Jesus creatres a liberating life-style and shows a wonderful freedom to do good.' -p. 56 
  Chapter 6 : Liberation Christology -p. 83- -o 
- 
 * k242 Tarbox, Elizabeth. Life tides, meditations. Bost. 2012. 229 kb.  
- 
 * g247 [Celtic cross. n.p. n.d.] kb.  
- 
 * d248 Broyles, Anne. Journaling. n.p. n.d. v.   
- 
 * d248 de Jaegher, Paul. One with Jesus. Westminster, Md. 1993. xv, 93 p.   
- 
 * k248 Kelsey, Morton T. Companions on the inner way. Crossroad, 1985. xiii, 222 p. ISBN 0824505603   
- 
 * k248 Smith, Stephen W. The Jesus life, eight ways to recover authentic Christianity. n.p. 2012. 3300 kb.  
- 
 * d252 Jefferts-Schori, Katharine. A wing and a prayer. Harrisburg, PA. 169 p. 22 cm.  
 -q  'Breathe deeply, know the wind of God is always beneath your wings, receive holy spirit, and change the world.' -p. 4 
 -q  Is there anyone we feel we have no need of? A good spiritual exercise might be to figure out where and howw we can reach out to someone we would rather ignore. -p. 10 
@@ -4602,22 +3643,14 @@
 -q  The ministry we receive at baptism calls us to transform our communities into something that looks more like the reign of God. -p. 22 
  We need leades in the church
  and I insist -p. 23 -q 
- 
 * p260 King, Martin Luther. The influence of the mystery religions on Christianity. n.p. n.d. DOC file. via USB. File name: 1453.doc.  
- 
 * d261 Johnston, Robert. Reel spirituality. 2nd ed., Rev. and expanded. Grand Rapids, Mich. c2006. 351 p. 23 cm.  
- 
 * d262 Thavis, John. Vatican diaries. Viking, c2013. 321 p. 22 cm.  
  Ch. 05: The fight between SSPX and the Vatican. -s 
- 
 * k262 Viola, Frank. Reimagining church. n.p. 2012. 2983 kb.  
- 
 * g264 Episcopal Church, USA. The Book of Common Prayer... Church Publishing, [2007?] kb.  
- 
 * k264 Daily Prayer for All Seasons. n.p. 2014. 471 kb.  
- 
 * g264 Boy Scouts of America. Reverence. n.p. 2010. kb.  
- 
 * d264 Unitarian Universalist Association. Singing the living tradition. Bost. c1993. v.   
 -q  We, the member congregations of the Unitarian Universalist Association, covenant to affirm and promote: The inherent worth and dignity of every person; Justice, equity and compassion in human relations; Acceptance of one another and encouragement to spiritual growth in our congregations; A free and responsible search for truth and meaning; The right of conscience and the use of the democratic process within our congregations and in society at large; The goal of world community with peace, liberty, and justice for all; Respect for the interdependent web of all existence of which we are a part. 
 -q  423 It is a joy to give thanks to the Eternal, to sing thy praises, O thou Most High, to proclaim thy goodness in the morning to the sweet music of the lyre. I sing for joy at all that thou has done. -Psalm 92 
@@ -4628,11 +3661,8 @@
 -q  380 From all that dwell below the skies / Let faith and hope with love arise / Let beauty, truth and good be sung / Through every land, by every tongue. 
 -q  501 Spirit of Community, in which we share and find strength and common purpose, we turn our minds and hearts toward one another seeking to bring into our circle of concern all who need our love and support: those who are ill, those who are in pain, either in body or in spirit, those who are lonely, those who have been wronged. [Here, people my say the names of those to be remembered]. We are grateful for the miracle of consciousness that we share, the consciousness that gives us the power to remember, to love, to care. 
  601 May the Love which overcomes all differences, which heals all wounds, which puts to flight all fears, which reconciles all who are separated, be in us and among us now and always. -q 
- 
 * k265 Medd, P.G. Priest to the Altar. n.p. n.d. kb.  
- 
 * k266 Bensh, Sean. Bikeable church: A bicyclist's guide to church planting. [forward by] Caleb Crider. n.p. n.d. kb.  
- 
 * k270 Augustine, Saint. Confessions of Saint Augustine. n.p. n.d. v. DBID 1725.   
 -q  'Butelder folks' idleness is called 'business' ; that of bys, being really the same, is punished by those elders ; and none commiserates either boys or men.' -p. 
 -q  'But no one doth well against his will, even though what he doth, be well.' -p. 
@@ -4706,15 +3736,10 @@
 -q  'My heart warm to him [Bishop Ambose], not at first as a teacher of the truth, which I had quite dispaired of finding in your Church, but simply as a man who showed me kindness.' -p. 
 -q  Elpidius -p70. 
  FaustusA teacher of the Manacians -p. -f 
- 
 * k270 Cox, Harvey. The future of faith. N.Y. 2009. 403 kb.  
- 
 * k270 Hodges, George. The early Church, from Ignatius to Augustine. n.p. 2007. 369 kb.  
- 
 * p270 Jenkins, Phillip. The lost history of Christianity. n.p. n.d. PDB file. via USB. Title from BN.com.  
- 
 * k270 Jenkins, John Philip. Jesus wars. N.Y. 2010. 699 kb.  
- 
 * d270 Merton, Thomas. Waters of Siloe. N.Y. c1949. xxxvii, 377 p.   
 -q  They [the trappists] have not come to the monastery to escape from the realities of life but to find those realities: they have felt the terrible insufficiency of life in a civilization that is entirely dedicated to the pursuit of shadows. -p. xvii 
 -q  That is what is called the contemplative life: a life that is devoted before all else to the knowledge and love of God and to the love of other men in him and For His sake. -p. xix 
@@ -4723,25 +3748,16 @@
 -q  It [the contemplative life] takes a man above the terrors and sorrows of modern life as well as above its passing satisfactions. It elevates his life to a superhuman level to the peace of the spiritual stratosphere where the storms of human existence become a distant echo and do not disturb the center of the sou - no matter how much they may rage in the senses ad feelings. -p. xxviii 
  This means that the best Orders
  are the ones which are able to cling most closely to the ideal of their founders and to live their lives most perfectly according to their own particular Rules. -p. xxxiv -q 
- 
 * k273 Herrou, Jose M. Argon. The forbidden religion. n.p. 2012. 439 kb.  
- 
 * k282 North, Wyatt. A History of the Popes: Volume I: Origins to the Middle Ages. n.p. 2015. 625 kb.  
- 
 * k283 Doyle, Andrew. Unabashedly Episcopalian. n.p. 2012. 428 kb.  
- 
 * d284 Empty mirror. n.p. n.d. v. DBID 1728.   
 -r  Read 2011-10 
  '?In India a hermit was meditating on the shore of a river when he was disturbed by a young man. The young man knelt down and said: ?Master, I want to become your disciple.? ?Why?? asked the master. ?Because I want to find God.? The master jumped up, took the young man by the scruff of the neck, dragged him to the river and pushed his head under water. After a minute the master released the young man and pulled him out of the river. The young man spat out some of the water which he got in his mouth and began to cough. After a while he became quiet. ?What did you want most of all while I kept you under water?? asked the master. ?Air,? said the young man. 'Very well,? the master said. ?Go back to wherever you have come from, and come back to me when you want God as much as you wanted air just now.?' -p. 88 -q 
- 
 * k287 Sutton, Nicolas. Bhagavad Gita: the Oxford Centre for Hindu Studies guide. n.p. 2020. 20586 kb.  
- 
 * w288 Bennett, Margaret. Day unto day. U.S., American Unitarian Association, 1883. kb. via [www](https://archive.org/details/dayuntoday00benngoog).  
- 
 * k289 Brent, J. Bill. Mind the light. n.p. 2012. 239 kb.  
- 
 * v230 Frevert, Patricia, ed. Welcome : a Unitarian Universalist primer. B., Skinner House, 2009. 77 p. ISBN 9781558965447.  
- 
 * k289 Grigg, Richard. To Re-Enchant the world. n.p. 2004. 780 kb.  
 -r  Read 2014-07. Grade B. 
 -s  2: Five (and more)-in-one: humanism, nature, social justice, the arts, a creative source/Abyss of the Universe 
@@ -4788,17 +3804,11 @@
 -q  ... the Mysterious Depth... 
 -q  ... can we help our society uncover the "divine," the sacred, the Mysterious Depth? 
 
- 
 * k289 Jessop, Flora, Paul T. Brown. Church of lies. n.p. n.d. kb.  
- 
 * k289 Church of Jesus Christ of Latter-day Saints. Book of Mormon. n.p. 2013. 4463 kb.  
- 
 * k289 Nelson, Brian. Earth bound. Bost. c2004. 370 kb.  
- 
 * k289 Church of Jesus Christ of Latter-day Saints. Preach my Gospel. n.p. 2012. 6394 kb.  
- 
 * k289 Tittle, Gale, Matt Tittle. Bless all who serve. Bost. 2010. 747 kb.  
- 
 * k289 Alexander, Scott W. Everyday spiritual practice. Bost. 2001. 613 kb.  
 -q  On some days mere survival—without murdering spouse, children, or pets—seems downright miraculous. 
 -q  The whole point of the monastic life is to frame our world so that prayerfulness lies at the very center of the frame. 
@@ -4830,7 +3840,6 @@
 -q  ... the 'Observer Self.". This is the part of our make-up that notices what is going on around and within us, that listens to the significant messages our bodies are sending at all times... the Observer Self is a basic aspect of human transformation... 
 -q  All of us have become dis-integrated and experienced the mind-body split. If re-integration is our goal, then the methods involved should include something physical as well as mental. To the extent that there is re-integration, there is healing, and he furthering of one's spiritual journey. 
  ... in his A Brief History of Everything, philosopher Ken Wilber argues that many of our current difficulties can be traced to the Western world's failure to develope any 'truly contemplative practices.' -q 
- 
 * w289 Unitarian Universalist Association. Evangelism. [Bost.] 2000. kb. via [www](http://www.uua.org/growth/midsize/conferences/2000/129093.shtml).   
 -q  Before we can be an inviting church that attracts and keeps visitors, we have to know who we are, what we stand for, what we have to offer. It arises from the deepest place of our sense of what is sacred, of what it means to live religiously. 
 -q  Evangelism is founded on the beliefs that people have a need for religious community, for deep relationships, for spiritual exploration, for social involvement. 
@@ -4839,19 +3848,13 @@
 -q  Evangelism is, then, a religious orientation based on an eagerness to share something precious, to share our good news. Evangelism goes to the core of a church's culture and identity. 
  The beginning of a transition to a culture of evangelism, a culture of reaching out and sharing, is for our members to touch again the source of their connection to their faith.
  
- 
 * d289 Hayes, Will, cp. Every nation kneeling. n.p. 1954. kb.  
- 
 * w289 Fulbright, Audette. UU Evangelism : sharing our good news. UUCR, c2006. kb. via [www](http://www.uuroanoke.org/sermon/060521Sermon.htm).   
 -q  This is what an evangelist believes: that there is a wonderful idea that should be shared, because it is likely to be gift to others; because it has the power to transform people and lives for the better; because it is an idea that can save something worth saving. 
  1: Live the faith. 2: Be comfortable in talking about the faith. -o 
- 
 * k289 Frederick-Gray, Susan [and] Harris-Perry, Melissa. Unitarian Universalist pocket guide. 6th ed. Bost. 2019. 4209 kb.  
- 
 * g289 General Assembly of the Unitarian and Free Christian Churches. Worship Panel. A generous communion. n.p. 2008. kb.  
- 
 * g289 Greenwood, Andrea [and] Mark W. Harris. Introduction to the unitarian and universalist traditions. n.p. c2011. kb.   
- 
 * d289 Guengerich, Galen. 10 things I wish everyone knew about Unitarian Universalism. onfaith.com, [20--?]. kb. via [www](http://www.faithstreet.com/onfaith/2015/03/17/10-things-i-wish-everyone-knew-about-unitarian-universalism/36374).   
  Unitarians played a pivotal role in founding the United States.
  Religiously speaking, we're in our adolescence.
@@ -4863,24 +3866,17 @@
  We're the gratitude people.
  The discipline of gratitude calls us to worship together.
  The ethic of gratitude calls us to serve a broken and needy world. -o 
- 
 * g289 McGuiffie, Duncan. Hymn sandwich : a brief history of Unitarian worship. n.p. 19--. kb.  
- 
 * g289 Morales, Peter. Sanctuary and gospel. [Bost.] 2017. kb.  
- 
 * d289 Opton, Frank G. Liberal religion. Buffalo, N.Y. 1982. 295 p. 24 cm.  
 -r  Read 2012-3 
 -q  Liberal Religion requires everybody to think of himself or herself as part of the whole. -p. 
 -q  The root of the evil is apathy and indifference -p. 11 
 -q  Those who accept and absorb Liberal Religion feel no anxiety and are able to help overcome the disarray of society.? -p. 12 
  Our age does not lack reflection but passion. -Soren Kierkegaard -p. 12 -q 
- 
 * g289 Reed, Cliff. We are here; a book of prayers for corporate worship. n.p. c1992. 685 kb.  
- 
 * d289 UU Church of the Palouse. Celebrant's guide. [The author], 2013. webpage. via [www](http://www.palouseuu.com/#/worship-services/4556396206).  
- 
 * w289 Unitarian Universalist Fellowship of Alexandria. n.p. n.d. 6 kb. via [www](http://pages.suddenlink.net/uufoa/index.htm).  
- 
 * k289 Kraybill, Donald B. Amish of Lancaster County. Photographs by Rodriguez, Daniel. n.p. 2008. 13534 kb.  
 -r  Read 2014-03. Grade C. 
 -q  ... a combination of biological reproduction, cultural resistance, and cultural 
@@ -4910,17 +3906,13 @@
 -q  Amish voters tend to favor Republican candidates. 
 -q  Championing self-sufficiency and the separation of church and state, the Amish worry that the hand that feeds them will also control them. 
  ... core Amish values of simplicity, humility, and mutual aid... -q 
- 
 * k290 Carpenter, Edward. Pagan and Christian creeds. n.p. 2012. 396 kb. kindle.  
- 
 * g290 Santsevi Ji Maharaj, Maharishi. Harmony of all religions; tr. from Hindi by Veena Rani Howard. n.p. c2006. 6.5 mb.  
- 
 * d291 Meyer, Marvin W., ed. Ancient mysteries. 1st ed. San Francisco, c1987. xii, 267 p. 25 cm.  
 -r  Read 2011-10 
 -o  'I. Introduction A. Secret ceremonies 1. The legomena (things recited) a. 'mythological foundation for the celebration of the mysteries.' -10 b. performed by Priests. 2. The deiknymena (things shown) a. Visual images 3. The dromena (things performed) a. variety of rituals' -p. 1- 
 -q  'The development of early agrarian or fertility festivals into the mystery religions involved, first and foremost, the conviction on the part of the worshippers that the cycle of nature related directly to human life? Hence, if human beings could assimilate the power that made life triumphant in the world of nature, they too might live in a more complete way.' -p. 7-8 
  'Aristotle concludes that initiates into the mysteries do not learn anything, but rather have an experience and are put in a certain state of mind.' -p. 12 -q 
- 
 * d291 Cenkner, William. Evil and the response of world religion. 1st ed. St. Paul, Minn. 1997. ix, 256 p. 24 cm.  
 -r  Read 2011-10. 
 -q  ? The concept of God inposing order on chaotic material is central in understanding P's world view. -p. 13 
@@ -4952,7 +3944,6 @@
 -f  Midrash -p. 17 
 -s  Divine Goodness and Demonic Evil -by David Ray Griffin -p. 223-240 
  'We have created the possibility of utterly destroying the planet, a possibility that Jewish and Christian imagination had relegated to God alone. This is a unique situation that has already streated traditional teologies and theodicies, often beyond the breaking point. Certainly one result of the Holocause has been that Jews have plunged into theological crisis. The old images and beliefs do not satisfy the vast manjority. The evolution of this mellennia-old tradition requires that we move into a new phase of conversation about God and evil.' -p. 16 -q 
- 
 * w291 Pinola, Melanie. Seven important lessons from world religions everyone should know. 24 kb. via [www](https://lifehacker.com/seven-important-lessons-from-world-religions-everyone-s-1613615832). (In Likehacker, Aug. 1, 2014)  
  The golden rule
  Work for the happiness of others, especially the poor and unfortunate.
@@ -4962,9 +3953,7 @@
  Take responsibility for your actions.
  Know yourself (make up your own mind).
  Bonus: "Do. Or do not. There is no try."
- 
 * g291 Raines, John C. Justice men owe women, The. n.p. 2001. 6.5 mb.   
- 
 * d291 King, Ursula, ed. Women in the world's religions, past and present. N.Y. c1987. x, 261 p. 24 cm.  
 -r  Read 2011-10. 
 -q  'The God of Abraham, Isaac and Jacob did not turn out to be, in the same way, the God of Sarah, Rebecca and Rachel.' -p. 
@@ -4974,9 +3963,7 @@
 -q  'Others have noted the correspondence between the Christian doctrine of the Holy Spirit and the Hindu idea of shako, the generating strength, the creative power of God, thought of as female in Hinduism' -p. 
 -d  theopathy -p. 
  I. The Image of the Biblical God -p. -o 
- 
 * d291.1 Bilberman, Jerry, Michael D. Whitty, eds. Work and spirit. n.p. n.d. v.   
- 
 * d291 Moore, Thomas. Soul's religion. 1st ed. N.Y. c2002. xx, 294 p. 25 cm.  
  Foundation of religious experience: Emptiness
 -f  Mystery. 
@@ -5034,13 +4021,9 @@
 -q   Secularism might be defined as a life without sacrifice. -p. 211 
 -q   We have yet to learn that the only humanism which is ultimately effective is religious humanism, a combination of human effort and divine influence. -p. 211 
  
- 
 * k294 Gise, Kevin. Buddhism...for beginners. n.p. 2016. 1996 kb.  
- 
 * k294 Kato, John. Zen : simplify life with Zen. n.p. n.d. kb.  
- 
 * k294 Selected passages from the Chinese philosophers in the path / Confucius, Mencius, Laozi... [et.al.]; tr. by Michael Puett and Christine Gross-Loh. n.p. 2016. 1664 kb.  
- 
 * d294 Bhagavad-Gita: The song of God, Christopher Ishwood, tr. New York : Signet Classic, 2002. 143 p. ISBN 9780451528445 . DBID 0115.   
 -q  Here, Krishna is an Incarnation of the Divine Ground in human form. -p. 17 
 -q  At the core of the Perennial Philosophy we find four fundamental doctrines: First, the phenomenal world of matter and of individualized consciousness... is the manifestation of a Divine Ground within... second: human beings... can... realize its existence by a direct intuition... Third: man possesses a double nature, a phenomenal ego and an external Self... Fourth: mans life on earth has only one purpose: to identify himself with the eternal Self and so to come to unitive knowledge of the Divine Ground. -p. 13 
@@ -5064,9 +4047,7 @@
 -q  A man will reach perfection if he does his duty as an act of worship to the Lord, who is the source of the universe, prompting all action, everywhere present. -p. 127 
 -q  Now I have taght youu that wisdom is the secret of secrets. Ponder it carefully. Then act as you think best. -p. 129 
  You must never tell this holy truth to anyone who lacks self-control and devotion. -p. 129 -q 
- 
 * k297 Quran: A Simple English Translation, Maulana Wahiduddin, Goodword Khan, trs. n.p. 2013. 4648 kb.  
- 
 * d297 Ali, Ayaan Hirsi. Heretic. N.Y. c2015. 272 p. 24 cm.  
  3 Muhammad and the Qur'an
 -q  Until Islam can do what Judaism and Christianity have done - question, critique, interpret, and ltimately modernize its holy scripture - it cannot free Muslims of a host of anacharonistic and at times deadly beliefs and practices. -p. 90 
@@ -5080,7 +4061,6 @@
 -q  It was, after all, Lock who gave us the notion of a 'natural right' to the fundamentals of 'life, liberty, and property.' -p. 209 
 -q  And religious toleration, howver long it took to tbe established in practice, is one of the greatest achivements of the Western world. -p. 209 
  The extremists are afraid of books and pens. The power of education frightens them. -Malala Yousafzai -p. 289 -q 
- 
 * p299 Ancient Order of Druids in America.  AODA new candidate guide. 1st ed. Telluric Press, c2016. kb. via [USB](40297.pdf) 
 -q  For example, for the element of air, positive qualities include focus, clarity, justice, reason, learning, and clear articulation of ideas, while negative qualities might be pride, aloofness, anger, or detachment. The element of fire might include the positive qualities of passion, determination, inspiration, and creativity, while negative qualities might involve intensity, ego, or rashness. The element of water might include the positive qualities of intuition, compassion, empathy, and being in tune with one's own heart, while the negative qualities might involve emotional volatility, irritability, and oversensitivity. The positive qualities of earth might include steadfastness, never giving in, and staying the course, while the negative qualities might include stubbornness and not letting go. -p. 38 
  V. The Sun Path
@@ -5128,31 +4108,22 @@
   2. Write about a practice right after doing it.
   3. Write detailed account on seasonal celebrations.
   4. Write abuot nine books, and studies. -s 
- 
 * d299 Ruiz, Miguel. Four agreements. San Rafael, Calif. c1997. xix, 138 p. 19 cm.  
- 
 * d299 Hifler, Joyce Sequichie. Cherokee feast of days. n.p. c1992. 412 p.   
 -q  Words are alive... nothing reveals the inner status of a person like talk. -p. 287 
   
- 
 * k299 Waller, Dennis. Tao Te Ching : an ancient philosophy for the modern world. 4th ed. n.p. 2012. 409 kb.  
- 
 * w299 Greer, John Michael. The druid magic handbook. Red Wheel/Weiser, c2007. [w.](https://justinleetyler.github.io/greer2007). ISBN 9781578633975.  
- 
 * w299 Greer, John Michael. The druidry handbook. Red Wheel/Weiser, c2006. [w.](https://justinleetyler.github.io/greer2006). ISBN 1578633540.  
- 
 * p299.5 Daoism. file via USB. Filename: 3309.pdf. IN World religions reference library. Cengage Learning, c2007.   
 -q  Religious Daoism is also known as Dao jiao (also spelled Tao chiao). 
  ... Daoism emphasizes following one's own instincts to reach a true awareness and understanding of existence. Simplicity and spontaneity, or following natural impulses, are also important. To return to the Dao, a person needs to remove the clutter from his or her life.
  
- 
 * k299 Deng, Ming Dao. 365 Tao. 1st ed. N.Y. 1992. 9171 kb.  
- 
 * d299 Laozi. Sayings of Lao Tzu, tr. by Lionel Giles. N.Y. 1905. v.   
 -q  'Weapons, however beautiful, are instruments of ill omen, hateful to all creatures. Therefore he who has Tao will have nothing to do with them.' -p. 
 -q  'This is the Way of Heaven, which benefits, and injures not. This is the Way of the Sage, in whose actions there is no element of strife.' -p. 
  'Temper your sharpness, disentangle your ideas, moderate your brilliancy, live in harmony with your age. This is being in conformity with the principle of Tao. Such a man is impervious alike to favour and disgrace, to benefits and injuries, to honour and contempt. And therefore he is esteemed above all mankind.' -p. -q 
- 
 * d299 Laozi. Tao te ching / Lao Tsu ; translated by Feng, Gia-Fu and English, Jane ; photography by English , Jane; calligraphy by Feng, Gia-Fu. 25th anniversary ed. N.Y. 1997. 1 v. 28 cm.   
 -q  Tao means 'The Way.'. The Tao is the Way to live in order to achive by non-doing. 
 -q  The basic tenets [of Taoism] are four: 1) that the "Way" of Tao underlies all things, 2) that human action that is harmonious with Tao is spontaneous, effortless, and inexhaustible, 3) that the perfected individual is a sage, free from desire and strife, and 4) that the sage conducts government by guiding his people back to a state of harmony with the Tao. 
@@ -5172,9 +4143,7 @@
 -q  A content man is never disappointed. 
 -q  There is no greater sin than desire, no greater curse than discontent, no greater misfortune than wanting something for oneself. Therefore he who knows that enough is enough will always have enough. 
  The sage has no mind of his own. He is aware of the needs of others. ... The sage is shy and humble - to the world he seems confusing. Men look to him and listen. He behaves like a little child. -q 
- 
 * d299 Yamakage, Motohisa. Essence of Shinto, [translated by] Mineko S. Gillespie, Gerald L. Gillespie, Yoshitsugu Komuro ; [edited by] Paul de Leeuw, Aidan Rankin. n.p. n.d. v.   
- 
 * d302 Junger, Sebastian. Tribe. N.Y. c2016. xvii, 168 p. 20 cm.  
 -r  Read 2016-08. Grade B. 
 -q  Financial independence can lead to isolation, and isolation can put people at a greatly increased risk of depression and suicide. -p. 91 
@@ -5191,9 +4160,7 @@
 -q  It was the absence of competition and bounaries and all those phony standards that created the thing I love most about the Army. Studs Terkel. -p. 91 
 -q  What peopel miss [is] the unity that these things often engender. p. 92 
  ... the individualized lifestyle that these [modern society] technologies spew seems to be deeply brutalizing to the human spirit. -p. 93 -q 
- 
 * d303 Johnson, Clay A. Information diet. Shebastopol, Calif. c2012. ix, 150 p. 24 cm.  
- 
 * d303 Keen, Andrew. Cult of the amateur. N.Y. c2007. 228 p.  
 -r  Read ? Grade ? 
  Talent, as ever, is a limited resource, the needle in today's digital haystack
@@ -5240,11 +4207,8 @@
 -q  -p. 204 
  ... I believe our real moral responsibility is to protect mainstream media against the cult of the amateur.
  -p. 204 -q 
- 
 * g305 Odell, Jenny. How to do nothing; resisting the attention economy. n.p. c2019. 3.1 mb.  
- 
 * k305 Ashcroft, Richard T.; Bevir, Mark, eds. Multiculturalism in the British Commonwealth. n.p. 2019. 3428 kb.  
- 
 * d305 Diamond, Jared. World until yesterday. Penguin Books, c2012. xi, 498 p. 22 cm.  
 -r  Read 2014-09. Grade C. 
  Older
@@ -5282,7 +4246,6 @@
 -q  ... Brazil's Yanomamo Indians, whose staple food is low-sodium bananas. -p. 416 
  Those changes include: not smoking; exercising regularly; limiting our intake of total calories, alcohol, salt and salty foods, sugar and sugared soft drinks, saturated and trans fats, processed foods, buttter, cream, and red meat; and increasing our intake of fiber, fruits and vegetables, calcium, and cmplex carbohydrates. Another simple change is to eat more slowly... italians are slim... because they linger talking over their
 -q  meals. -p. 451 
- 
  
 * d305 Vance, J.D. Hillbilly elegy. N.Y. 2016. 264 p. 24 cm  
  As the manufacturing center of the industrial Midwest has hollowed out, the white working class has lost both its economic security and the stable home and family life that comes with it. -location 201
@@ -5325,21 +4288,17 @@
  "I think you have to have good role models around you. -location 3204
  I've learned that the very traits that enabled my survival during childhood inhibit my success as an adult. -location 3293
  whether he can access a church that teaches him lessons of Christian love, family, and purpose; -location 3392 
- 
 * k305 Veblen, Thorstein. Theory of the leisure class. Rev. ed. n.p. 2012. 744 kb.  
- 
 * d305 Bands and tribes. n.p. n.d.. v.   
  However, some individuals in a band stand out for their skills and knowledge.
  These often are the people who have the best memories, are the best hunters, most successful curers, most gifted speakers, or have some other special ability.
 -q  Such people become informal leaders. 
 -q  They [Informal leaders] can give advice and propose action, but they do not have the formal authority to force others to accept their decisions. 
  The principle goal of politics in most bands is making sure that people get along with each other. -q 
- 
 * d305 Basic concepts : sociopolitical typology : Band-Tribe-Chiefdom-State. n.p. n.d. v.   
 -q  Decisions made through consensus ... The disgruntled members leave. 
  Religion is generally based on family tradition, individual experience, or counsel from a shaman.
  However they do have a leader that settles disputes and fulfills ceremonial roles. The Kung leader is known as the 'headman.' -q 
- 
 * d305 Elwell, Frank. Hunting and gathering socities. [F. Elwell, n.d.]. v.   
  Tools: Spears, Bows and arrows, nets and traps, digging sticks, needles, pin awls, antler hammers, axes
  H&Gs are notoriously lacking in occupation specialization beyond subsistence tasks.
@@ -5352,9 +4311,7 @@
 -q  The political structure is thus a loosly organized pattern of frquently shifting, informal leadership. 
 -q  This leadership is typcally invested in a person known as the headman... 
  Not 'do this Sympathetic magic and Ceremony and ritual -q 
- 
 * k306 Brown, Michael L. In the line of fire: 70 articles from the front lines of the culture wars. 1st ed. n.p. c2012. 448 kb.  
- 
 * d306 Carter, Jimmy. Our endangered values. N.Y. c2005. x, 212 p. 23 cm.  
 -r  read 2005-11. Grade B. 
 -q  Such confessions [resulting from torture] are, of course, not admissible in trials in civilized nations. -p. 129 
@@ -5378,7 +4335,6 @@
 -q  The peace to be extablished must be a clear improvement over what exists. -p. 154 
 -q  ... the war was unjust and unnecessary. Has the Iraqi war reduced the threat of terrorism. No. -regarding the iraqi war of 2005 -p. 157 
  Our nation had long raised the banner of human rights for all others to see and follow, a role that has been described as a 'self-assigned Messianic role in world affairs. -p. 116 -q 
- 
 * d306 Gilbert, Elizabeth. Eat, pray, love. n.p. n.d. v.   
 -q  In desperate love, we always invent the charators of our partners, demanding that they be what we need hem, and then feeling devastated when they refused to perform the role we created in the first place.	19 
  I had become addicted to David...	20
@@ -5399,9 +4355,7 @@
  There is a theory tht if you yearn sincerey enough for a Guru, you will find one. The universe will sift, , detiny's molecules will get themselves organized and your pathwil soon intersect will the aath of the master you need.	124
  'Remember - everything you do, you do for God. And everything God does, He do for you.' -unknown.	-131
  In a way, this little episode had all the hallmarks of a typical Christian conversion experience - the dark night of the soul, the call for help, the responding voice, the sense of transformation.	16 
- 
 * k306 Hunter, Daniel. Building a movement to end the new Jim Crow. n.p. 2015. 1515 kb.  
- 
 * d306 McCartney, Jennifer. Little book of sloth philosophy. Lond. 2018. 170 p. 16 cm.  
 -r  Read 2019-07. Grade B. 
 -q  The Slow Book Movement advocates reading at a relaxed pace - the idea being that slow reading increases pleasure, insight and comprehension. -p. 86 
@@ -5412,11 +4366,8 @@
 -q  They avoid predators by staying completely still. p. 141 
 -q  It's OK to just exist in the world sometimes without seeking the spotlight - just watching, observing and learning. p. 141 
  They die in a place they love and cherish (a tree), clinging to the things they probably love most (a branch). What more could we hope for when it comes times for our own passing? -p. 168 -q 
- 
 * k310 United States. Central Intelligence Agency. World factbook 2018-2019. n.p. 2018. 50484 kb.  
- 
 * k320 Darlin, Alistair. Back from the brink: 1000 days at number 11. n.p. 2012. 1581 kb.  
- 
 * d320 Kazin, Michael. American dreamers. N.Y. 2011. xix, 329 p. 25 cm  
 -q  It is a sttled maxim with me... that the existing public sentiment on any subject is wrong. -Elizabeth Cady Stanton. -p. 38 
 -q  As long as property is unequal... then those who possess it will live on the labors of others. -Thomas Skidmore -p. 4 
@@ -5437,13 +4388,9 @@
  MARGARET SANGER, f. 20th c., f, American. Nurse, feminist.
  coined "birth control"
  Thus the dream of a joyful march to socialist democracy ws buried in the mire of government crackdowns and internal conflict. -p. 153 -q 
- 
 * w320 Ogg, Frederi Austin. Governments of Europe. N.Y. 1923. 2250 kb. via [www](https://www.gutenberg.org/cache/epub/21006/pg21006-images.html).  
- 
 * k320 Rawnsley, Andrew. Servants of the people. U.K. 2001. 1745 kb.  
- 
 * k320 Seldon, Anthony. Brown at 10, [w.] Guy Lodge. n.p. 2010. kb.  
- 
 * k320 Seldon, Anthony. May at 10, the verdict. n.p. 2020. 9830 kb.  
 -r  Read 2022-02. Grade C. 
 -q  It has become fashionable to blame officials. The failures of our age are those of ministers. 
@@ -5473,18 +4420,13 @@
 -q  ...she [May] could come across as petulant and unsure. -q Yet she [May] never found the words, a vision or the empathy and it is not obvious she ever realised the need. 
 -q  ...continuously battling against unreasonable expectations... 
  Brexiteer panacea -f 
- 
 * k320 Hain, Peter. Outside in. Lond., 2012. kb.  
 -q  ... the usual British pattern: first, say something won't happen and then, when it does, saying it's going to be a failure and then, when it's a success, desperately trying to catch up. -p. 
 -s  CH. 8: The Chapter BRITISH OUTSIDER IN EUROPE begins with Hain's responsibilities in Europe as a negotiator for British interests. As a pro-European, he worked to change Britain's image as hostile to Europe. While forging personal relationships, he made little progress. The events in this chapter include the negotiations and politics of the Euro, and the Gibraltar co-soverenty referrendum (that failed specacularly) -p. 
  Ch.8: This begins with Hain as a foreign office minister. Points include dealing with other government departments, and with civil servants, advocacy for 'complementary' (alternative) medicine (also called 'integrated healthcare' in the book), his rather muted admiration of the queen and royal family (Hains' background is as a republican), unguarded remarks he made to the press about tax policy, and reflections of the state (bad state, according to Hain) of journalism, or investigative journalism. Hain seems to take great pride in actually not taking advice from the civil service, and forcing his will upon officials and departments. This is viewed as true leadership. He also shows distress when the press digs into the politics of a story rather than the story. One wonders what the press is to do. While saying that the press doesn't pay attention to serious, intelligent information and true debate. Yet when they do, Hain says they become part of the story. One also wonders what is virtuous with not listen to what is usually well-informed and cautious advice from his officials. -p. -s 
- 
 * g320 Canada. Crown of maples. 2012 ed. [Canada] c2012. 14.2 mb. ISBN 9781100200798  
- 
 * k321 Bagehot, Walter. The English constitution. n.p. 2012. 355 kb.  
- 
 * k321 Bogdanor, Vernon. The Monarchy and the constitution. n.p. 1995. 5015 kb.  
- 
 * d321 The Governor-General is the guardian of our Constitution v. IN CCPA Monitor. Vol. 17, no. 1 (May 2000)   
  [It is] our business ?to govern ourselves. [It?s] the Queen?s business to see that our power to govern ourselves is
  reserved, and that her servants, our servants, do not become our masters.
@@ -5494,9 +4436,7 @@
  encourage or warn them. They almost invariably must act on their ministers? advice, though there may be very rare occasions when they must, or may, act without advice or even against the advice of the ministers in office.
  -p.
  -q 
- 
 * k321 Nozick, Robert. Anarchy, state, and utopia. n.p. 2013. 1070 kb.  
- 
 * v321 Snyder, Timothy. On tyranny : twenty lessons from the twentieth century. 1st ed. N.Y., Tim Duggan Books, 2017. 126 p.  
  Contents: 1. Do not obey in advannce.
  2. Defend institutions.
@@ -5519,40 +4459,24 @@
  19. Be a patriot.
  20. Be as courageous as you can.
  ISBN 9780804190114. 
- 
 * g321 Streit, Clarence K. Union now : a proposal for a federal union of the democracies of the north Atlantic. Lond. 1940. 31.7 mb.   
- 
 * d321 Tudor, Philippa. Ceremony of the Introduction of Bishops to the House of Lords. kb. (In Parliamentary History, Vol. 221.)  
- 
 * k321 Wexler, Jay. Odd clauses. Bost. 2011. 620 kb.  
- 
 * k321 Whittle, Peter. Monarchy matters. n.p. 2011. 501 kb.  
- 
 * k324 Hason, Medhi. Ed. n.p. n.d. kb.  
- 
 * k324 Mandelson, Peter. Third man. N.Y., 2010. 2 mb..  
- 
 * g324 Neary, Peter. Morning after a general election; the vice-regal perspective. 298 kb. (In Canadian Parliamentary Review, 2012.)  
- 
 * d324 Heilemann, John and Mark Halperin. Game Change. n.p. n.d. v.   
- 
 * k324 Rawnsley, Andrew. The end of the party: [the rise anf fall of New Labour]. U.S., Viking, n.d. kb.  
- 
 * k327 Foner, Eric. The second founding. n.p. n.d. kb.  
- 
 * g330 Huber, Joseph and James Robertson. Creating new money. Lond. n.d. 378 kb.  
- 
 * p330 Jantsch, John. How to build a remarkable business by focusing on the total customer experience. n.p. Ducktapemarketing.com, 2012?. PDF file via USB. File name: (3126.pdf) DBID 3126  
- 
 * w330 Mead, Walter Russell. One and future liberalism. 10 kb. via (https://www.historynewsnetwork.org/article/walter-russell-mead-the-once-and-future-liberalism). (In American Interest, Jan 24, 2012).   
 -q  A rich and rewarding human life neither comes from nor depends on consumption, even lots of consumption; it comes from producing goods and services of value through the integration of technique with a vision of social and personal meaning. Being fully human is about doing good work that means something. -p. 
 -q  A liberal is someone who seeks ordered liberty through politics?namely, the reconciliation of humanity?s need for governance with its drive for freedom in such a way as to give us all the order we need (but no more) with as much liberty as possible. -p. 
  Americans want to believe that all four goals work together: that defending their security, promoting their prosperity, preserving their freedom and equality and fulfilling their global mission are all part of an integrated package and worldview -p. -q 
- 
 * k330 Smith, Adam. Wealth of Nations. [Into. by] Alan B. Krueger. n.p. 2015. 1612 kb.  
- 
 * d330 McKibben, Bill. Deep economy. N.P. 2007. 361 p. 25 cm.  
- 
 * d331 Hudson, Christopher. Do you want fries with that. n.p. 2005. v.  
 -r  Read 2011-10. 
  Creating an effective resume (Write mini autobiography
@@ -5584,16 +4508,11 @@
  Ethics (1. I will maintain the highest standards in dealing with clients and coworkers.
  2.
  
- 
 * k331 Lu, Heath. Secrets to early retirement planning that generation X never learned.  n.d. 2021. 3257 kb.  
- 
 * d332 Gerber, Larry. Top ten tips for developing money management skills. n.p. n.d. v.   
- 
 * k332 Hamm, Trent A. Simple dollar. n.p. 2010. 395 kb.  
- 
 * k332 Klein, Ezra. This 4x6 index card has all the financial advice you'll ever need. 18 kb. via [www](http://www.washingtonpost.com/blogs/wonkblog/wp/2013/09/16/this-4x6-index-card-has-all-the-financial-advice-youll-ever-need/). (In Washington Post, 2013)  
  Max your 401(k) or equivalent employee contribution -- Buy inexpensive, well-diversified mutual funds such as Vangard Target 20xx funds. -- Never buy or sell an individual security. The person on the other side of the table knows more than you do about this suff. -- Save 20% of your money. -- Pay your credit card balance in full every month -- Maximize tax-advantage savings vehicles like Roth, Sep, and 529 accounts. -- Pay attention to fees. Avoid actively managed funds. -- Make financial advisor commit to a fiduciary standard. -- Promote social insurance programs to help people when things go wrong. 
- 
 * d332 Sundeen, Mark. Man who quit money. N.Y. c2010. 260 p. 21 cm.  
 -r  Read 2012-07. 
  Suelo outlined his philosophy of moneyless living...
@@ -5665,39 +4584,22 @@
 -q  -p. 230 
  Freegans are the latest in a tradition of radical simplicty dating back to the Shaker colonies of the eighteenth century and to Thoreau and the Transcendentalists in the nineteenth century.
  -p. 228 -q 
- 
 * k333 Revkin, Andrew. The burning season: the murder of Chico Mendes and the fight for the Amazon rain forest. n.p. 2012. 2736 kb.  
- 
 * d335 Hoffman, Abbie. Steal this book. N.Y. 1971. xxi, 308 p.  
- 
 * k335 Rush, Brian. Reclaiming Socialism, or: Economic Democracy. n.p. 2012. 197 kb.  
- 
 * k338 Hay, Fraser. J. 90 minute business plan. n.p. 2013. kb.  
- 
 * k338 Hippel, Eric von. Free innovation. n.p. n.d. kb.  
- 
 * k338 Sirkin, Harold L. US manufacturing renaissance, [w.] Justin Rose, Michael Zinser. n.p. n.d. kb.  
- 
 * d338 Schor, Juliet. Plenitude. New York, N.Y. c2010. 258 p. 24 cm.  
- 
 * d339 Kasser, Tim. High price of materialism. Cambridge, Mass. c2002. xvi, 149 p. 24 cm.  
- 
 * d339 Schor, Juliet. Overspent American. N.Y. c1999. 253 p. 25 cm.  
- 
 * k339 Scott, Grace. The materialistic world. G. Scott, 2013. k. 3415 kb.  
- 
 * p342 U.K. House of Lords Reform Draft Bill / presented to Parliament by the Deputy Prime Minister by Command of Her Majesty. PDF file via USB. File name: 10104.pdf. DBID 10104. ISBN 9780101807722.  
- 
 * k342 Hamilton, Alexander. The Federalist Papers, [w.] James Madison, John Jay. n.p. 2012. 777 kb.  
- 
 * g342 U.K. Ministry of Justice. Review of the executive royal prerogative powers: final report. [Lond.] 2009. 282 kb.  
- 
 * k342 Scott, Rachel M. Recasting Islamic law. n.p. 2021. 1124 kb.  
- 
 * k342 United States. Constitution. n.p., 2014. 87 kb.  
- 
 * k343 Hart, James. Business law basics: a legal handbook for online entrepreneurs and startup businesses. n.p. 2016. 1336 kb.  
- 
 * d347 Greenburg, Jan Crawford. Supreme Conflict. N.Y. 2007. 340 p. 22 cm.  
 -r  Read 2020-03. Grade C. 
 -q  Criminal laws are supposed to be clear, and most justices accept that when laws are unclear, the criminal defendant should get the benefit of the doubt, since he may not have known his conduct was wrong. -p. 131 
@@ -5708,7 +4610,6 @@
 -q  As such, his opinion was considered a 'plurality,' which does not have precedent-setting value or bind lower courts. -p. 137 
  
  cch. 4 about keennedy's drift to the left. -s 
- 
 * d347 Newman, Jim. Justice for all. N.Y. c2006. 614 p. ; 25 cm.   
 -r  Read 2020-05. Grade C. 
  Trop Cuse, Jenner - Butler Bill
@@ -5781,7 +4682,6 @@
 -q  nation's unwinnable argument between the forces of security and those of liberty. 
 -q  Must liberty be curtailed in order to preserve the nation, or is the nation better understood as an expression of its freedoms? 
  Eldridge Cleaver -f 
- 
 * k347 Toobin, Jeffrey. The nine. N.Y. c2007. kb.   
 -r  ReadRead 2011-10 and 2020-04. Grade C. 
  for O'Connor there was little difference between a judicial and a political philosophy.
@@ -5824,9 +4724,7 @@
 -q  The framers viewed freedom from unlawful restraint as a fundamental precept of liberty, and they understood the writ of habeas corpus as a vital instrument to secure that freedom. 
 -q  These meditations were in the tradition of ‘penumbras,' ‘emanations,' and other airy constructs the Court has employed over the years as poor substitutes for clear and rigorous constitutional reasoning.” 
  As a result of the Court's decision in Heller, it will be judges, not voters and elected officials, who will be answering these questions. And it will be years, and perhaps decades, before the courts even debate them. -q 
- 
 * d347 Toobin, Jeffrey. The oath. n.p., 2012?. v. DBID 3202  
- 
 * d352 Raphael, Ray. Mr. President. N.Y. 2012. 324 p. 25 cm.  
 -r  Read 2012-05. 
 -q  He [James Wilson] alone among the delegates believed that representatives, senators, and the president should all be elected directly by the people. -57 
@@ -5842,58 +4740,32 @@
  To avoid intrigue and cabal, electors were to meet simultaneously in their separate staates. To offset the favorite-son temptation, each elector was to vote or two men, including at least one from another state... the runner-up vice president, an office that made its first appearance in the Committee of Eleven's report... but the second ballot created a problem: there was no appropriate office for that man fill...
  -109-118
  -q 
- 
 * g355 Camp Delta standard operating procedures (SOP). n.p., 2003. 4.2 mb.  
- 
 * k355 Sun Tzu. The art of war. n.p. n.d. kb.  
- 
 * k361 Spirer, Gary. Crowdfunding. n.p. 2014. 2852 kb.  
- 
 * p363 National Geographic. Evacuate Earth. National Geographic, [20--?]. MP4 file via USB. Filename: 3317.mp4. DBID 3317.  
- 
 * k364 Birdsong, Leonard. 147 Dumbest Criminal Stories: Florida. n.p. 2015. 791 kb.  
- 
 * k370 Lele, Chris, and Mike McGarry. GRE Prep by Magoosh. n.p. 2017. 17838 kb.  
- 
 * k370 Newport, Tuck. Reinventing the liberal arts. n.p. 2014. 370 kb.  
- 
 * k370 10 Common Core Essentials: Nonfiction: Selections from New and Classic Books for the English Language Arts Standards for Middle and High School. N.Y. 2013. 4348 kb.  
- 
 * g370 Zakaria, Fareed. In defense of a liberal education. n.p. c2015. 516 kb.  
- 
 * k371 Adams, Jeremy. Full classrooms, empty Selves. n.p. 2012. 523 kb.  
- 
 * k371 Mills, Michael. Effective classroom management. n.p. n.d. kb.  
- 
 * k371 Open University. Learning how to learn. n.p. n.d. kb.  
- 
 * k372 William, Andrew. ESL classroom games. n.p. n.d. kb.  
- 
 * k374 Eng, Norman. Teaching college: the ultimate guide to lecturing, presenting, and engaging students. n.p. 2017. 5066 kb. kindle.  
- 
 * k374 McKay, Brett. How and why to become a lifelong learner. art of manliness, 2013. 56 kb. via [www](http://artofmanliness.com/2013/03/18/how-and-why-to-become-a-lifelong-learner/).   
  Why become a lifelong learner? 1) You'll earn more 2) You'll be more interesting and charismatic. 3) You'll be a better leader. 4) You'll be a better leader. 5) You'll be independent and handy. 6) It keeps your brain healthy 7) You'll feel more satisfied with life 8) You'll become more human. 
- 
 * w375 MIT. OpenCourseWare. n.p. MIT, c2002- kb. [www](http://ocw.mit.edu/).  
- 
 * w375 OpencourseWare Consortium [website]. Newton, MA. n.d. online via [www](http://www.ocwconsortium.org/).  
- 
 * w375 Open Yale courses [website]. n.p. c2012- . online via [www](http://oyc.yale.edu/).  
- 
 * k378 Open University. How to be a critical reader. n.p. n.d. kb.  
- 
 * p384 Tyler, Justin Lee. [Videos of Colleen's trip to the wildlife sanctuary]. 2012 Oct. 20. file via USB. mp3 files via USB. File name: 3215. DBID 3215.  
- 
 * k387 Thompson, Willard. Keepers of the light. n.p. n.d. kb.  
- 
 * k390 Duckworth, Jean Ann. The simple joy of Thanksgiving. n.p. n.d. kb.  
- 
 * g395 Nemko, Marty. Simple techniques to increase your likeability at work. 324 kb. (In U.S. News and World Report, 2013).  
- 
 * k395 Schreiber, Niel. How to be a gentleman. 3rd ed. n.p. 2014. 1434 kb.  
- 
 * k398 Bulfinch, Thomas. Bulfinch's mythology. n.p. n.d. kb.  
- 
 * p398 Coelho, Paul. The alchemist. [San Francisco] : HarperSanFrancisco, c1993. PDB file on USB. DBID 8337.   
 -r  Read 2011-06. 
 -q  '...they would have to share living space with those who lived there, and would be given the best accommodations. That was the law of hospitality.' -p. 
@@ -5905,9 +4777,7 @@
 -q  '...and their eyes meet, the past and the future become unimportant... 'Without such love, one's dreams would have no meaning.' -p. 
 -q  '... My john never drinks in the day. Only at night, when the longing overcomes him' -p. 99 
  '...when we strive to become better than we are, everything around us becomes better, too.' -p. -q 
- 
 * k398 Nye, Jody Lynn. Mythology 101. n.p. n.d. kb.  
- 
 * w428 Onelook.com. n.p. n.d.  [www.](http://www.onelook.com).   
 -f  ACUMEN, noun, shrewdness shown by keen insight. 
 -f  BELLICOSE, adj, someone who is bellicose enjoys fighting or arguing. 
@@ -5922,13 +4792,9 @@
 -f  PHYSIOGNOMY, noun: they way that someone's face looks. 
  PROFUNDITY, noun:
  intellectual depth; penetrating knowledge; keen insight; etc -q 
- 
 * k500 Rhea, John. CSS animation. n.p. 2020. 776 kb. (Undead Institute)  
- 
 * d500 Tanner, Ogden. New England wilds. n.p. n.d. v.   
- 
 * k508 The natural history of eastern Massachusetts. n.p. 2018. 44845 kb.  
- 
 * d508 Lindborg, Kristina. Natural history of Boston's North Shore. n.p. c2007. xviii, 121 p. 23 cm.  
 -r  Read 2020-08. Grade D 
 -q  Geologists say that ther ehave been at least four major ice ages spanning the Earth's dynamic past. The most recent glaciation started about three million years ago in parts of Canada, northern Europe, and Asia. -p. 8 
@@ -5946,30 +4812,20 @@
 -q  The adult life of an insect is not a long one, generally about a month. -p. 46 
 -q  The great horned owl is one of the first birds to nest and will lay its eggs as early as January despite a snow-covered landscape. -p. 84 
  ... life span [of the fox] is sadly brief, only four to five years. Predation and competition for resources are the main cause. -p. 98 -q 
- 
 * k520 Open University. Galaxies, stars and planets. n.p. n.d. kb.  
- 
 * k523 Smolin, Lee. Life of the Cosmos. n.p. 1999. 1637 kb.  
- 
 * g523 Tyson, Neal deGrasse; Goldsmith, Donald. Origins : fourteen billion years of cosmic evolution. n.p. 2004. 4.5 mb.  
- 
 * g525 Gribbin, John. Alone in the universe. n.p. c2011. 1.7 mb.   
- 
 * v526 Hoag, John S. Fundamentals of land measurement. Chic. n.d. iii, 35 p. DBID 1650. Gift from Cherie Thompson.  
- 
 * k527 O'Neill, Gerald K. The high frontier. 1st ed. n.p. 2013. 7542 kb.  
- 
 * g530 College physics. n.p. c2013.97.1 mb.  
- 
 * d530 Crease, Robert P. World in the balance. N.Y. c2011. 317 p. 25 cm.  
 -q  Nothing is inherently unscientific about using improvised measures, as long as they are accessible, appropriate, and assured. -p. 21 
  We tend to trust measurements
  and without such trust, modern life would grind to a halt like a michine drained of oil. -p. 32 -q 
- 
 * d551 Jorgensen, Neil. Guide to New England's landscape. n.p. n.d. v.   
  Read 2020-11. Grade C.
  A non-fiction book about the landforms and forest ecology of New England. -s 
- 
 * d552 Dennen, W.H. The rocks of Cape Ann. [S.n., 2001]. 32 p.   
 -r  Read 2020-10. Grade D. 
 -q  Rocks may appear to be permanent features of the landscape but over time are changed from one kind to another. -p. 5 
@@ -5980,9 +4836,7 @@
  Glaciers are born when yearly snowfall exceeds its melting, annual accumulation builds... -p. 13
 -q  Temperature rises about 35 degrees Fahrenheit per mile as you travel downward [through the earth]... -p. 23 
  The plates move at about the rate that your fingernails grow, an inch or so a year. -p. 28 -q 
- 
 * k574 Bates, Henry Walter. The naturalist on the River Amazons. n.p. 2011. 1076 kb.  
- 
 * d574 White, Laurence B. Life in the shifting dunes, ill. by Henry B. Kane. Museum of Science, Boston, c1960. ix, 85 p.   
 -r  Read 2020-12. Grade C. 
 -q  In the beginningm, our dune dweller must be born, a difficult enough task without interferance from unkind surroundings; it must feed itself, here in a n erea where meals would certainly seem at a premium; it must grow, oftentimes shedding its skin in the process; it must live not only in the summer's heat but, if its life span is that long, in the winter's cold; it must endure long periods of drought, flood, wind, and storm; and most important of all, it must survive long enough to reporduce its kind, or else it has missed its goal. - p. 6. 
@@ -5993,12 +4847,10 @@
  chipmonks nest underground
  Fox's eat mice
  weasals kill for the fun of it 
- 
 * d576 Benton, Michael J. When life nearly died. n.p. c2003. 336 p.  
 -q  ... fishes came first, then amphibians evolved from fishes when they took their first faltering steps on to land, and finally the reptiles evolved from the amphibians by dispensing with liffe in the water altogether. -p. 19 -20150607 
 -f  SYNAPSIDS, mammal-life reptiles. -p. 20 
  Lystrosaurus was a survivor... since it was probably a generalist, without specific adaptions in its diet, living requirements or mode of locomotion. -p. 22 -q 
- 
 * g576 Brannen, Peter. Ends of the world. N.Y. c2017. 12.9 mb.   
  After a 4-billion-year prologue that started in fire and ended in Snowball Earth, the pageant of animal life had begun
  Like the Cambrian burrowers [500 million years ago] that reshaped the microbial mat world to their own ends, humans have converted half the planet's land surface to farmland... So I just think, here's an example from the past when an ecological crisis happened because of ecosystem engineering
@@ -6007,15 +4859,10 @@
  the earth was a desolate wasteland for 90 percent of its history
 -q  Currently the carbon dioxide concentration in the atmosphere hovers at around 400 parts per million (ppm). 
   
- 
 * d576 MacLeod, Norman. Great extinctions. N.Y. c2013. 208 p. 26 cm.  
- 
 * g576 Mesler, Bill. Brief history of creation, [w.] H. James Cleaves II. n.p. c2016. 3 mb.  
- 
 * k576 Shapiro, James A. Evolution: A View from the 21st Century. n.p. n.d. kb.  
- 
 * k596 Dinerstein, Eric. The kingdom of rarities. n.p. 2013. 3848 kb.  
- 
 * d599 Wall, Frans De. Bonobo and the atheist. N.Y. c2013. 289 p. 25 cm.  
 -s  CH. 1: What if human morality is not top-to-bottom, but bottom-to-top based on our experience, and interactions in community? 
 -s  CH. 2: Things (such as sex, love; for reproduction) evolved for a reason, but we are not a slave to it. 
@@ -6055,34 +4902,20 @@
  known as 'Adamites' -f -p. 73
  ERASMAS OF ROTTERDAM, m. Called the 'Prince of the Humanists'. -f -p. 74
  The sudden outbreak of violence suggests a deeper layer to monobo society... it resembles a moral code to defend the interests of the most vulnerable. -p. 78 -q 
- 
 * k600 Hippel, Eric von. Democratizing innovation. n.p. n.d. kb.  
- 
 * d611 Shubin, Neil. Your inner fish. n.p. n.d. v.   
  Don't even bother trying to compare... You could try, but the mere fact that you were trying would reveal something more psychiatric than anatomical. -p. 97 -q 
- 
 * k613 Davenport, Gregory J. Wilderness survival. 2nd. ed. n.p. 2006. 13403 kb.  
- 
 * g613 Kling, Michael. 9 frugal ways to treat the common cold. n.p. 2012. 1.5 mb.  
- 
 * p613 Swedo, Suzanne. Wilderness survival. 3rd ed. FalconGuides, c2016. MOBI file on USB. Filename: 3357.mobi ISBN 9781493017355.  
- 
 * w613 Bruce, James. Surviving an apocalypse. makeuseof.com, 2013. [w.](https://makeuseof.com).  
- 
 * d614 Kolata, Gina. Flu, the story of the great influenza pandemic of 1918 and the search for the virus that caused it. N.Y. c1999, 2005. xi, 338 p. 22 cm.  
- 
 * w616.9 Halford, W.P. Herpes Simplex Virus 2 ICP0- mutant viruses are avirulent and immunogenic: implications for a Genital Herpes vaccine / [by] Halford, William P., Püschel, Ringo, [and] Rakowski, Brandon. PLOS ONE, 2010. kb. via [www](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0012251).  
- 
 * k621 Foreth, Mike. Free TV over the air. n.p. n.d. kb.  
- 
 * k629 Catchpole, John. E. International Space Station. n.p. 2008. 6883 kb.  
- 
 * k629 Gibson, Philip. Apollo 11. n.p. 2014. 6456 kb. (APOLLO Missions to the Moon 2)  
- 
 * d629 Jenkins, Dennis R. Space Shuttle. Cape Canaveral, Fla. c2001. 513 p. ; 23 cm.  
- 
 * k630 Beuning, Eric. Modern Rustic. n.p. n.d. kb.  
- 
 * d634 Connors, Philip. Fire season. HarperCollins, c2011. 246 p. 24 cm.  
 -r  Read 2015-04. Grade B. 
 -q  ... I'd have told you you were stark raving mad... -p. 80 
@@ -6104,27 +4937,18 @@
  Have a hobby: readying, knitting, playing the ukelele. Something.
  Sleep outside when the weather permits
  Love you neightbor as yourself (lacking human neighbors, love he bobcats andn the turkeys, the chimpmunks and the tassel-eared squirrels.) -Connors code for lookoutry. -p. 196 -q 
- 
 * k635 Grant, Brian. Vertical gardening. n.p. c2014. k..  
- 
 * w635 Rains, Julie. Only 4 things a vegetable garden needs. WiseBread, 2013. 63 kb. via [www](https://www.wisebread.com/the-only-4-things-a-vegetable-garden-needs)  
  Soil
  Sun
  Water
  Seeds. -o 
- 
 * k636 Barnes, Max. Raising goats for beginners. n.p. 2021. 2021 kb.  
- 
 * k636 Anon. Working chicken. 4th ed. n.p. 2008. 5771 k. (Permaculture Chicken 1)  
- 
 * k636 Lewis, Catherine. Dog Training. n.p. 2016. 610 kb.  
- 
 * k640 Dean, Jenny. Couponing for the beginner. n.p. 2012. 5143 kb.  
- 
 * k640 Gehring, Abigail R. Illustrated Encyclopedia of Country Living. 1st ed. n.p. 2011. 32626 kb.  
- 
 * k640 McDonald, Sara Simmons. One Acre Homestead. n.p. n.d. kb.  
- 
 * w640 Rubin, Gretchen. Nine quick tips to identify clutter. zenhabits.com, 2012. HTML file via [www](http://zenhabits.net/identify-clutter/).   
  Does this thing work?
  Would I replace it if it were broken or lost?
@@ -6135,29 +4959,18 @@
  Is it nicely put away in an out-of-the-way place?
  Does this memento actually prompt any memories?
  Have I ever used this thing? -o 
- 
 * k640 Rivers, Nik. Complete guide to house sitting. n.p. 2015. 1151 kb.  
- 
 * k641 Collins, Jackie. Vegetarian...slow cooker...recipes. n.p. n.d. kb.  
- 
 * k641 Green, Cara. Vegan instant pot cookbook. n.p. 2018. kb.  
- 
 * k641 Spitler, Sue. 1,001 best slow-cooker recipes... [and] Linda R. Yoakam. n.p. n.d. kb.  
- 
 * w641 Stoll, Scott. Yes, plants have protein. 19 kb. via [www](http://www.wholefoodsmarket.com/blog/whole-story/yes-plants-have-protein). (In Whole Foods Market.com, Jan. 15, 2013).  
 -q  Broccoli contains more protein per calorie than steak and, per calorie, spinach is about equal to chicken and fish. 
  How can you add more plant-based protein to your diet? By simply eating more plants. Beans (27% protein) lentils (36%), chickpeas (33%), peas (30%), and kale (22%)... -q 
- 
 * k641 Scott, Hannie. P. Easy recipes in 5 or less ingredients. n.p. 2015. 3557 kb.  
- 
 * k641 Stone, Jeremy. Microwave mug recipes...ketogenic... n.p. n.d. kb.  
- 
 * k642 Caldwell, James. Restaurant managers' and waiters' guide book, [by] ... Patrick Caldwell, Michael Rathke. n.p. 2017. 4782 kb.  
- 
 * k643 Benson, Patricia. DIY household hacks. n.p. n.d. kb.  
- 
 * k643 Forseth, Mike. Free TV over the air. n.p. c2014. kb.  
- 
 * w646 Becker, Josua. 10 most important things to simply your life. 40 kb. via [www](http://www.becomingminimalist.com/the-10-most-important-things-to-simplify-in-your-life/). (In Becoming minimalist, n.d.)  
  1. Your Posessions
  2. Your Time Commitments
@@ -6176,38 +4989,25 @@
 -o  10. Your multitasking (a. Increases stress and lowers productivity.) 
  most quests for unusual goals are motivated by the conviction that the end is attainable if only the correct combination of fortune and persistence can be struck.
   -p. 52 -q 
- 
 * p646 Anon. Bruce Lee's top 20 tips for living a successful life. PDF file via USB. File name: 10094.pdf. DBID 10094. (IN Wake Up Cloud, Apr. 4, 2011)  
- 
 * k647 Babauta, Leo. Focus. [n.p. 2010?] kb.   
- 
 * w647 Jabr, Ferris. Why your brain needs more downtime. 43 kb. via [www](http://www.scientificamerican.com/article.cfm?id=mental-downtime). (In Scientific American, Oct. 15, 2013)  
 -q  For 92 days he lived at Insight Meditation Society's Forest Refuge facility... He spent most of his time meditating, practicing yoga and walking through fields and along trails in surrounding farmland and woods... 
  Downtime replenishes the brain's stores of attention and motivation, encourages productivity and creativity, and is essential to both achieve our highest levels of performance and simply form stable memories in everyday life. -q 
- 
 * k648 Singh, Kate. Homemade housewife. n.p. 2017. 5173 kb.  
- 
 * d650 Charlier, M. Developing your career strategy, tr. by Neal, R. n.p. c2017. kb. via Hoopla. ISBN 9782808000390. 
  Formulate a plan: Analyze your professional history; analyze your ambitions, motivations, and potential; define your professional cand career choices; identify the means at your disposal; implement a strategy and plan of action towards your objectives.
  Stages in drawing up your career strategy: set deadlines; use various tools to create your personal brand; network effectively; establish a career plan in line with your skills, objectives and career path; evaluate your skills and objectives ; identify your personality type; analysis your professional journey. 
- 
 * g650 Dragon, Debbie. Organized year. 1.4 mb. IN Wise Bread. (Jan. 3, 2013).  
- 
 * w650 Ellefson, Lindsey. How to take control of a micromanaging boss. 19 kb. via [www](https://lifehacker.com/how-to-take-control-of-a-micromanaging-boss-1847468589) (In Lifehacker. Oct. 13, 2021)   
 -q  Calmly address the situation with your boss: I feel ___ when you ___ because I think it means ___. 
 -q  ... remind them that you'll show them your results through your output, not minute-by-minute updates on what you're doing, how you're doing it, and what you've accomplished that day. 
  Show, don't tell. -q 
- 
 * p650 Khoo, Christopher S.G. How users organize electronic files on their workstations in the office environment, [by] Christopher S.G. Khoo, Brendan Luyt, Caroline Ee ... [et al.] MHT file via USB. File name: (1688.mht). DBID 1688. (IN Information Research, vol. 11, no. 2, Jan. 2007)  
- 
 * w650 13 important characteristics and qualities of a great boss. 23 kb. via [www](http://www.officevibe.com/blog/infographic-great-boss). (In Workleap, Mar. 27, 2017).  
- 
 * w651 Saffady, William. Records and information management. Lenexa, Kansas c2004. x, 218 p. 25 cm.  
- 
 * g651 Recommended record retention periods for business records. n.p. n.d. 21 kb.  
- 
 * k657 Open University. Introduction to bookkeeping and accounting. n.p. n.d. kb.   
- 
 * w657 Becker, Joshua, ed. Becoming minimalist. online via [www](http://www.becomingminimalist.com/).   
  I. Benefits from resting one day a week: (healthier body
  less stress
@@ -6224,13 +5024,9 @@
 -o  Realize the shallow nature of results-oriented culture). 
 -q  What we create becomes meaningful to us only once we stop creating it and start to think about why we did so. -Rabbi Elijah of Vilna. 
  It is true that many of the benefits from concentrated rest are not tangible; but then again, only a fool believes all good things can be counted. -q 
- 
 * k658 Hay, Fraser J. 90 minute business plan. n.p. n.d. kb.  
- 
 * k658 Bowd, Thomas B., III.  Transformation of a doubting Thomas: growing from a cynic to a professional in the corporate world. n.p. 2012. 804 kb.  
- 
 * k658 Roedel, Jemma. She thinks like a boss. n.p. 2021. 482 kb.  
- 
 * w658 Kashyap, Sandeep. How to make your team more perceptive to change. 12 kb. via [www](https://thriveglobal.com/stories/how-to-make-your-team-more-perceptive-to-change/). (In Thrive Global, Oct 27, 2021)   
  A. Include Them In Decision Making (consensus, transparency, same boat)
  B. Communicate Changes Effectively (Why is it happening?
@@ -6248,15 +5044,10 @@
 -o  Let your team know that the particular change is going to be permanent till a better idea comes your way) 
 -q  More often than not a state of confusion is the primary factor that messes with your team. 
  
- 
 * k658 Rose, Nathan. Equity crowdfunding. n.p. 2016. 14213 kb. (Alternative Finance Series)  
- 
 * k658 Stonestreet, J.P. Web startup roadmap. 1st ed. n.p. 2013. 788 kb.  
- 
 * k658 Open University. Facilitating group discussions. 1.0 ed. n.p. 2016. 681 kb.  
- 
 * k658 Open University. Project management. n.p. n.d. kb.  
- 
 * d668 Orton, Linda. Soapmaking for the first time. N.Y. c2001. 112 p. 27 cm.  
 -q  More recently, melt-and-pour soap bases have become the trend since the materials for them can be purchased at any the local craft store and need only be melted, colored, sented, and poured into molds. -p. 8 
 -q  Scented oils and botanicals can bed added to soap for softening and soothing skin, along with any aromatherapy benefits derived from essential oils. -p. 8 
@@ -6281,467 +5072,244 @@
  Fragrance Oils (usually less expensive)-- Botanicals (can be used in conjunction with essential or fragrance oils.
 -q  Calendula leaves, chamomile, ground cinnamon, lemon verbena, oatmeal, peppermint, rosebuds, and rosemary are some of the most common botanicals used in soapmaking. -p. 20 
   
- 
 * k690 Miller, Evan. Shipping container homes. n.p. n.d. kb.  
- 
 * p724 Anon. [Duke and Dutchess of Windor's home in France]. n.p. n.d. MP4 file via USB. Filename: 3308.mp4.  
- 
 * p728 Anon. [Balmoral]. [BBC, n.d.] FLV file via USB. File name: 3267.flv.  
- 
 * p736 Anon. How To whittle a wood duck. n.p. n.d. HTML file via [www](https://chestofbooks.com/home-improvement/woodworking/Whittle/How-To-Whittle-a-Wood-Duck.html). Title from homepage viewed Sat 10/09/2021.  
- 
 * k737 Ford, Lincoln. Coin collecting. n.p. 2021. kb.  
- 
 * k745 Moore, Kitty. Trash To treasure. n.p. n.d. kb.  
- 
 * d759 Lewis-Williams, David. Deciphering ancient minds, David Lewis-Williams and Sam Challis. n.p. n.d. v.   
- 
 * d771 Ritzenthaler, M.L. Photographs : archival care and management / by Mary Lynn Ritzenthaler and Diane Vogt-O'Connor with Helena Zinkham, Brett Carnell, and Kit Peterson. Chicago, Il : Society of American Archivists, c2006. xvi, 529 p. ISBN 1931666172  
- 
 * p779 Berry, N. [Photgraph of Shawn Lysik, Kathy, Jim Berry, Justin Lee Tyler, Colleen Tyler, Will, Jim Berry, Lynne, and Brian at Jim and Natalie Berry's house on Memorial day]. 2013. JPG file via USB. File name: 3280.jpg. DBID 3280.  
- 
 * p779 Berry, N. [Photograph of Colleen Tyler in a Kayak on the Ipswich River]. [2013]. JPG file via USB. File name: 3281.jpg. DBID 3281.  
- 
 * p779 Berry, N. [Photograph of Colleen Tyler, Jim Berry, and Justin Lee Tyler at Biolabs] / Natalie Berry. 2013. JPG file via USB.  File name: 3276.jpg. DBID 3276.  
- 
 * p779 Berry, N. [Photograph of Colleen Tyler, Will, and Milo at Natalies]. 2013. JPG file via USB. File name: 3278.jpg. DBID 3278.  
- 
 * p779 Berry, N. [Photograph of Justin Lee Tyler and Shawn Lysik at Natalies] / Natalie Berry. [2013]. JPG file via USB. File name: 3279.jpg. DBID 3279.  
- 
 * p779 Berry, N. [Photograph of Justin Lee Tyler in a Kayak on the Ipswich River]. [2013]. JPG file via USB. File name: 3282.jpg. DBID 3282.  
- 
 * p779 Berry, N. [Photograph of Justin Lee Tyler, Hugh and Gary, and Colleen Tyler at the Thai restaurant in Ipswich]. [2013]. JPG file via USB. File name: 3823.jpg.  
- 
 * p779 Berry, N. [Photograph of turtles on a log at Biolabs]. 2013. JGP file via USB. File name: 3277.jpg. DBID 3277.  
- 
 * p779 Flaherty, R. [Justin Tyler looking out a window]. 2014 May. JPG file via USB. DBID 3352.  
- 
 * p779 Anon. [Jim Berry looking through binoculars]. 2014 May. JPG file via USB. DBID 3351.  
- 
 * p779 Lysik, S. [Photographs of Ward Reservation and Justin Lee Tyler]. 2012- . JPG file via USB. File name: 3271.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Colleen Tyler overlooking a lake in Pinckney/Waterloo, Mich. 2013 Oct 23. JPG file via USB. Filename: 3346.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Colleen Tyler photographing a butterfly.] 2013 Oct 22. JPG file via USB. 3345.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Colleen Tyler, Jim and Natalie Berry, and Jan]. [2012]. JPG file via USB. 3256.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Grace Cathedral gardens]. [2002]. JPG file via USB. 5654.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Justin Tyler's bedroom in Saginaw]. 2002. JPG file via USB. 8818.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Mass at Grace Cathedral, San Francisco, Calif.] [2007?]. JPG file via USB: 5658.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Peconte]. JPG file via USB. 5541.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of San Francisco skyline]. [2007]. JPG file via USB. 5652.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of San Fransisco Chinatown]. [2007]. JPG file via USB. 5656.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Shawn]. [2012]. JPG file via USB. 3254.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Shawn in sunlight at Crane Beach]. 2013 July 17. JPG file on USB. 3344.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Shawn near a railroad crossing sign]. [2012]. JPG file via USB. 3255.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Shawn under cover bridge in Vermont]. 2014. JPG file via USB. 3353.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a Flume Gorge informational sign]. [2014 Oct 25]. JPG file via USB. 2014-10-25 10.49.48.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a Mourning Cloak butterfly taken at Po Hill, Amesbury, MA]. JPG file via USB. 3323.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a butterfly on Paw-Paw's land]. 2013 Oct 24 JPG file via USB. 3347.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a cover bridget in Stowe, Vt.] 2015 May 04. JPG file via USB. 2014-05-04 12.45.09.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a crab] 2013 May 30. JPG file via USB. Filename: 3334.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a duck at Crane Beach (in the dunes), Ipswich, Mass.]. 2013 May 30. JPG file via USB. 3335.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a frog]. 2013 June 30. JPG file via USB. 3343.jpg.  
- 
 * p779 Rominski, C.R. [Photograph of a painting by Colleen Rominski]. 1999. JPG file via USB. 2058.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of a tree across a bridget at the bird sanctuary]. 2013 Oct 20. JPG file via USB. 2012-10-20 13.32.04.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of an old building in San Fransisco]. [2007]. JPG file on USB. 5655.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of map of Hamilton Reservation]. 2011 May 26. JPG file on USB. 3023.jpg  
- 
 * p779 Tyler, J.L. [Photograph of marshes at Crane Castle, Ipswich, Mass.] 2013 June 15. JPG file on USB. 3338.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of sun shining through trees]. 2012 Oct 18. JPG file via USB. 3321.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of sunrays hitting a snow-covered lake]. 2012 Oct 18. JPG file via USB. 3322.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of sunrays over a trail at Crane Castle, Ipswich, Mass.] 2013 June 15. JPG file via USB. 3341.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of sunrays over the marshes at Crane Castle, Ipswich, Mass.] 2013 June 15. JPG file via USB. 3340.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of the Academy of Art University building in San Francisco, Calif.] [2007?]. JPG file via USB. 5657.jpg.  
- 
 * p779 Tyler, J.L. [Photographs of Chicago] [2010?] JPG files in directory via USB. /6000/.  
- 
 * p779 Anon. [Photographs of Haley, Justin, and Shawn] 2015-2017. JPG files in directory via USB. 7069.  
- 
 * p779 Tyler, J.L. [Photographs of Justin Tyler's dinning room in Saginaw] [200-?] JPG files in directory via USB. 8825.  
- 
 * p779 Tyler, J.L. [Photographs of Mt. Oceola hike with Justin and Shawn]. [2013-05-19]. JPG files in directory via USB. 3283.  
- 
 * p779 Tyler, J.L. [Photographs taken around the Blue Hills, Ipswich, Massachusetts]. [n.d.] JPG files via USB. 3326.  
- 
 * p779 Tyler, J.L. [Photographs taken at Biolabs, Ipswich, Massachussets]. 2012-10-18. JPG file(s)? via USB. 3274.  
- 
 * p779 Tyler, J.L. [Photographs taken at the Rearing Ponds (Hillsdale, Mich.)]. [2013]. JPG files via USB.  
- 
 * p779 Tyler, J.L. [Photograph of Grace Cathedral courtyard]. [2007]. JPG file via USB. DBID 5652.  
- 
 * p779 Tyler, J.L. [Photograph of caterpille / Justin Lee Tyler]. JPG file via USB. 3337.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of Carwash]. [2007?]. JPG file via USB. 5542.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of clouds on the mountains in Lincoln, N.H.] [2014 May 23]. JPG file via USB. 3327.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of the mountains from an overlook on N.H. route 118]. [2014 May 25]. JPG file via USB. 3330.JPG.  
- 
 * p779 Tyler, J.L. [Photograph of Byron G. Merrill Library, Rumney, N.H.. [2014 May 25]. JPG file via USB. 3328.jpg.  
- 
 * p779 Rominski, C.R. [Photograph of a painting by Colleen Rominski] 200-? JPG file via USB. 8821.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of mural in San Fransisco / Justin Lee Tyler]. [2007]. JPG file via USB. 5650.jpg.  
- 
 * p779 Tyler, J.L. [Photograph of the Redstone Rocket in Warren, N.H.. [2015 May 25]. JPG file via USB. 3329.jpg.  
- 
 * k780 Diouf, Mamadou and Nwankwo, Ifeoma Kiddoe, eds. Rhythms of the Afro-Atlantic world: rituals and remembrances. Ann Arbor, c2010. 1029 kb.  
- 
 * p781 -NSYNC. No strings attached. [S.l.], 2000. MP3 files via USB.   
- 
 * p781 John, E. Greatest Hits, 1970-2002 / [by] Elton John, Bernie Taupin, Tim Rice ... [et al.] New York: Mercury Records, 2002. MP3 files via USB.   
- 
 * p781 Anon. Positive Evolutions. [KPM, c1999]. MP3 files via USB.  
- 
 * p781 Pritchard, Paul. Way forward. [KPM, c1996]. MP3 files via USB.  
- 
 * p781 Dudley, A. 10th kingdom [soundtrack] / Anne Dudley, Miriam Stockley, Rolf Wilson... [et al.] New York: Hallmark Entertainment, 2000. MP3 file via USB.  
- 
 * p781 Grease: The Original Soundtrack from the Motion Picture. New York: Polydor, 1991. MP3 files via USB.  
- 
 * p781 Gregson-Williams, H. Chronicles of Narnia [soundtrack] / [by] Harry Gregson-Williams ... [et al.] Burbank, CA: Walt Disney Records, 2005. MP3 files via USB.  
- 
 * p781 Horner, J. Beautiful Mind, A: Original Motion Picture Soundtrack. / [by] James Horner, Charlotte Church, and Ron Howard. New York, N.Y: Decca Records, 2001. MP3 files via USB.  
- 
 * p781 Hooper, N. Harry Potter and the Order of the Phoenix: Original Motion Picture Soundtrack / [by] Nicholas Hooper and Alastair King. Burbank, CA: Warner Bros, 2007. MP3 files via USB.  
- 
 * p781 John, E. Road to El Dorado, The. / [by] Elton John, Randy Newman, and Tim Rice. Beverly Hills, CA: DreamWorks, 2000. MP3 files via USB.  
- 
 * p781 Morris, T. Tudors, The: Music from the Showtime Original Series. Studio City, Calif: Vare?se Sarabande, 2007. MP3 files via USB.  
- 
 * p781 Schnauss, U. Goodbye. Brooklyn, N.Y: Domino Recording Co, 2007. MP3 file via USB.  
- 
 * p781 All-American Rejects. Move Along. Santa Monica, CA: Interscope/Doghouse Records, 2005. MP3 files via USB.  
- 
 * p781 Blunt, James. All the lost souls. New York: Custard/Atlantic, 2007. MP3 file via USB.  
- 
 * p781 Cher. Very best of Cher. Burbank, CA: Warner Bros. Records, 2003. MP3 files via USB.  
- 
 * p781 Essential Leonard Cohen. New York, NY: Columbia, 2002. MP3 files via USB.  
- 
 * p781 Collins, Phil. Face value. New York, NY: Atlantic, 1985. MP3 files via USB.  
- 
 * p781 Diamond, Neal. 12 Songs, [by] Neal Diamond and David Campbell. New York, NY: Columbia, 2005. MP3 files via USB. Title from Compact Disc.  
- 
 * p781 Diamond, Neal. His 12 Greatest Hits. Universal City, Calif: MCA Records, 1985. MP3 files via USB. Title from Compact Disc.  
- 
 * p781 Dion, Celine. New day has come, A. New York, NY: Epic, 2002. MP3 files via USB.  
- 
 * p781 Dion, Celine. All the way. New York: Sony Music Entertainment, 1999. MP3 files via USB.  
- 
 * p781 Hybrid. Morning Sci-Fi. S.l.: Distinctive, 2003. MP3 files via USB.  
- 
 * p781 Islam, Yusuf. An other cup. New York, NY: Atlantic, 2006. MP3 files via USB.  
- 
 * p781 Joel, Billy. Greatest Hits: Vol. III. New York, NY: Sony Music Entertainment; Manufactured by Columbia Records, 1997. MP3 files via USB.  
- 
 * p781 John, Elton. Greatest hits: v.3, 1979-1987. Los Angeles: Geffen Records, 1987. MP3 files via USB.  
- 
 * p781 Kater, Peter. In a Dream. S.l.: Q-rious Music, 2009. MP3 files via USB.  
- 
 * p781 Keating, Ronan. 10 Years of Hits. London: Wise, 2004. MP3 files via USB.  
- 
 * p781 Kooks. Inside in, inside out. file via USB. England: Virgin Records, 2006. MP3 file via USB.  
- 
 * p781 Lightfoot, Gordon. If you could read my mind. Burbank, Calif.: Reprise Records, 1980. MP3 files via USB.  
- 
 * p781 MTV. First 1000 Years: New Wave, The. New York: MTV Networks, 1999. MP3 files via USB.  
- 
 * p781 Anon. Now that's what I call music: 13. Santa Monica, CA: Universal Music Group, 2003. Mp3 files via USB.  
- 
 * p781 Pet Shop Boys. Very. New York: EMI Records, 1993. MP3 files via USB.  
- 
 * p781 Anon. Rough guide to the music of Zimbabwe, The. London: World Music Network, 1996. MP3 files via USB.  
- 
 * p781 Rybak, Alexander. No boundaries. n.p. Art, 2010. MP3 files via USB.  
- 
 * p781 Savage Garden. Affirmation. S.l: Columbia, 1999. MP3 files via USB.  
- 
 * p781 Take That. Beautiful world. n.p. n.d. MP3 files via USB.  
- 
 * p781 Blunt, James. Back to Bedlam. West Hollywood, Calif.: Custard Records, 2005. MP3 files via USB.  
- 
 * p781 Buble, Michael. Call me irresponsible / Michael Buble and Ivan Lins. Burbank, CA: 143 Records, 2007.  MP3 files via USB.  
- 
 * p781 John, Elton. Live in Australia / [by] Elton John, Bernie Taupin, [and] James N. Howard. Universal City, Calif: MCA Records, 1987. MP3 files via USB.  
- 
 * p781 John, Elton. Love songs. New York, NY: Mercury, 1996. MP3 files via USB.  
- 
 * p781 John, Elton. One night only: the Greatest hits / [by] Elton John, Bernie Taupin, Kiki Dee ... [et al.] New York: Universal Records, 2000. MP3 files via USB.  
- 
 * p781 John, Elton. Peachtree Road / by Elton John and Bernie Taupin. New York, N.Y: Rocket/Universal Records, 2004. MP3 files via USB.  
- 
 * p781 John, Elton. Reg strikes back. Universal City, Calif: MCA, 1988. MP3 files via USB.  
- 
 * p781 Klass, Mylene. Moving on. United Kingdom: Universal Classics and Jazz, 2003. MP3 files via USB.  
- 
 * p781 Pet Shop Boys. Discography: the complete singles collection. Hollywood, CA: Capitol Records, 1991. MP3 files via USB.  
- 
 * p781 Presley, Elvis. Golden records. N.Y: RCA Victor, 1985. MP3 files via USB.  
- 
 * p781 Sleepthief. Labyrinthine heart. Weston, FL: Neurodisc Records, 2009. MP3 files via USB.  
- 
 * p781 Tears for Fears. Tears Roll Down. N.Y.: Mercury, 2004. MP3 files via USB.  
- 
 * p781 Achillea. Nine worlds, The. BSC Music GmbH, c2005. MP3 files via USB.  
- 
 * p781 Ackerman, Will. Sound of wind driven rain. N.Y. : Winham Hill, c1998. MP3 files via USB.  
- 
 * p781 Adiemas. Adiemus III: Dances of time. Mississauga, Ont: Virgin Music Canada/Venture, 1998. MP3 files via USB.  
- 
 * p781 Adiemus. Songs of sanctuary. N.Y.?, Virgin Records, 1995. MP3 files via USB.  
- 
 * p781 Adiemas. Eternal knot, The. Great Britain: Karl Jenkins Music Ltd, 2000. MP3 files via USB.  
- 
 * p781 Amethystium. Aphelion. Ft. Lauderdale, Fl.: Neurodisc, 2003. MP3 files via USB.  
- 
 * p781 Amethystium. Evermind. Ft. Lauderdale, FL: Neurodisc Records, 2004. MP3 files via USB.  
- 
 * p781 Amethystium. Odonata. Ft. Lauderdale, Fl.: Neurodisc, 2001. MP3 files via USB.  
- 
 * p781 Arkenstone, David. Atlantis. Milwaukee: Narada Classics, 2004. MP3 files via USB.  
- 
 * p781 Arkenstone, David. Sketches from an American Journey. U.S.: Paras Recordings, 2002. MP3 files via USB.  
- 
 * p781 Arkenstone, David. Spirit of Olympia, The, David Arkenstone, Kostia, with David Lanz. Milwaukee, WI : Narada Productions, p1992. MP3 files via USB. Contents: Prelude. Let the games begin Savannah runner (3:33) Memories of gold (3:14) Keeper of the flame (3:23) From the forge to the field (3:35) Heartfire (3:19) Celebration (5:00) Close without touching (5:24) Glory (2:19) A night in the village (14:44) Walk with the stars (4:45) Marathon man (5:29) The spirit of Olympia (3:41).  
- 
 * p781 Arkenstone, Diane. Ancient voices. Cortez, Colo.: Paras/Neo Pacifica, 2001. MP3 files via USB.  
- 
 * p781 Australis. Life giving. n.p. 2005. MP3 files via USB.  
- 
 * p781 Benedictine Monks of St. Michael's. [Gregorian chant]. Santa Monica, CA: LaserLight, 1994. MP3 files via USB.  
- 
 * p781 Brickman, Jim. Destiny / [by] Jim Brickman, Herb Alpert, Carly Simon, ... [et al]. N.Y: Windham Hill, 1999. MP3 files via USB.  
- 
 * p781 Brickman, Jim. Escape / [by] Jim Brickman , Marc Antoine, Sara Evans, ... [et al]. Santa Monica, CA: Savoy Label Group, 2006. MP3 files via USB.  
- 
 * p781 Brickman, Jim. From the heart. Toronto, Ontario: Avalon/Somerset Entertainment, 2009. MP3 files via USB.  
- 
 * p781 Brickman, Jim. Jim Brickman. S.l.: Renegade Entertainment, 1998. MP3 files via USB.  
- 
 * p781 Brickman, Jim. My romance. Stanford, CA : Windham Hill, p2000. MP3 files via USB.  
- 
 * p781 Brickman, Jim. Peace / [by] Jim Brickman, Anne Cochran, Tracy S. Silverman, ... [et al]. N.Y. : Arista, 2003. USB files via USB.  
- 
 * p781 Brickman, Jim. Picture this. Beverly Hills, Calif: Windham Hill Records, 1997. USB files via USB.  
- 
 * p781 Brickman, Jim. Simple things. N.Y : Windham Hill, 2001. MP3 files via USB.  
- 
 * p781 Caballero, David. Ethereality. Hollywood, CA: Only New Age Music, 2005. USB files via USB.  
- 
 * p781 Cerdwen. Or Mabinogi. n.p. 1997. USB files via USB.  
- 
 * p781 Anon. Chant Gregorien: Liturgie Dominicaine. France: Jade, 2007. USB files via USB.  
- 
 * p781 Cistercian Monks of Stift Heiligenkreuz. Chant. Universal Music Classics, c2008. MP3 files via USB.   
- 
 * p781 Cusco. Ancient journeys. n.p. 2000. MP3 files via USB.  
- 
 * p781 Cusco. Apurimac III. n.p. 1997. MP3 files via USB.  
- 
 * p781 Cusco. Inner journeys. n.p. 2003. MP3 files via USB.  
- 
 * p781 Deep Forest. Boheme n.p. Columbia, 1995. MP3 files via USB.  
- 
 * p781 Deep Forest. Made in Japan. N.Y. : Epic/550 Music, 1999. MP3 files via USB.  
- 
 * p781 DeJohnette, Jack. Peace time. Golden Beams Productions, 2007. MP3 files via USB.  
- 
 * p781 Elysium Mind. Desert wind. n.p. 2012. MP3 file via USB. ElysiumMind_DesertWind.mp3.  
- 
 * p781 Elysium Mind. Lay it down. n.p. 2006. MP3 file via USB. ElysiumMind_LayItDown.mp3.  
- 
 * p781 Elysium Mind. Marginal illusion. n.p. n.d. MP3 file via USB. ElysiumMind_MarginalIllusion.mp3 .  
- 
 * p781 Enigma. Cross of changes. N.Y. : Charisma Records America, 1993. MP3 files via USB.  
- 
 * p781 Enya. Day Without Rain, A. Burbank, CA: Reprise Records, 2000. MP3 files via USB.  
- 
 * p781 Enya. Amarantine. [n.p. : Reprise, 2005.] MP3 files via USB.  
- 
 * p781 Enya. Paint the sky with stars : the best of Enya. Burbank, CA: Reprise Records, 1997. MP3 files via USB.  
- 
 * p781 Enya. Shepherd moons. Burbank, Calif: Reprise Records, 1991. MP3 files via USB.  
- 
 * p781 Enya. Celts. Burbank, CA: Reprise, 1992. MP3 files via USB.  
- 
 * p781 Enya. Watermark. N.Y. : Reprise, 1988. USB files via USB.  
- 
 * p781 Farish, Ryan. Life in stereo. RYTONE Entertainment, LLC., c2012. MP3 files via USB. File directory: 3275.  
- 
 * p781 Gandalf. Colors of a new dawn. Sausalito, CA: Real Music, 2004. MP3 files via USB.  
- 
 * p781 Goodall, Medwyn. Ancient Nazca: Inca mysteries. Aerdenhout, Holland: Oreade Music, 1997. MP3 files via USB.  
- 
 * p781 Iglasias, Enrique. Enrique / [by] Enrique Iglasias and Whitney Houston. Los Angeles: Interscope, 1999. MP3 files via USB.  
- 
 * p781 Isham, Mark. Vapor drawings. Stanford, CA: Windham Hill Records, 1983. MP3 files via USB.  
- 
 * p781 John, Elton. Goodbye yellow brick road / [by] Elton John and Bernie Taupin. N.Y. : Rocket, 1995. MP3 files via USB.  
- 
 * p781 Lanz, David. Cristofori's dream. Milwaukee: Etats-Unis, 1998. MP3 files via USB.  
- 
 * p781 Lasar, Mars. Tahoe spirit. n.p. 2009. MP3 files via USB.  
- 
 * p781 Lasar, Mars. Yosemite. n.p. 2006. MP3 files via USB.  
- 
 * p781 Lesium. Auracle. City Hall Records, 2004. MP3 files via USB.  
- 
 * p781 Lesium. Illumination. Anaheim, CA: Intentcity, 2003. MP3 files via USB.  
- 
 * p781 Lesium. Mystic spirit voices. Miami, FL: Alcione, 2001. MP3 files via USB.  
- 
 * p781 Lynch, Ray. Nothing above my shoulders but the evening. Stanford, CA: Windham Hill Records, 1993. MP3 files via USB.  
- 
 * p781 McKennitt, Loreena. Winter garden : five songs for the season. Burbank, CA: Warner Bros, 1995. MP3 files via USB.  
- 
 * p781 McKennitt, Loreena. Ancient muse, An. N.Y. : Verve Music Group, 2006. MP3 file via USB.  
- 
 * p781 McKennitt, Loreena. Parallel dreams. Stratford, Ontario: Quinlan Road Limited, 1989. MP3 files via USB.  
- 
 * p781 McKennitt, Loreen. Book of secrets, The. Burbank, Calif: Warner Bros, 1997. MP3 files via USB.  
- 
 * p781 Moods Unlimited Orchestra. Elton John Story: Vol. 2. St-Laurent, Quebec: Image, 1995. MP3 files via USB.  
- 
 * p781 New England Collective. Seasons of New England. n.p. Agents C. Records, 1998. MP3 files via USB.  
- 
 * p781 O'Hearn, Patrick. Indigo. Private Music, p1991. MP3 files via USB.  
- 
 * p781 Anon. Pure Moods III. Beverly Hills, Calif: Virgin Records America, 2000. MP3 files via USB.  
- 
 * p781 Anon. Pure Moods. Beverly Hills, CA: Virgin Records America, 1997. MP3 files via USB.  
- 
 * p781 Anon. Pure Moods: IV. Beverly Hills, CA: Virgin Records America, 2002.  MP3 files via USB.  
- 
 * p781 Schwartz, Paul. Aria 3: Metamorphosis / [by] Paul Schwartz, Rebecca Luker, and Michelle Ivey. N.Y: KOCH Records, 2004. MP3 files via USB.  
- 
 * p781 Schwartz, Paul. State of grace : turning to peace / [by] Paul Schwartz, Lisbeth Scott, and Shimoo. N.Y. : BMG, 2003.  
- 
 * p781 Schwartz, Paul. State of grace. New York, NY: Sony Music Entertainment, 2000. MP3 file via USB.  
- 
 * p781 Secret Garden. Dawn of a new century. Norway: Universal Music, 1999. MP3 files via USB.  
- 
 * p781 Secret Garden. Dreamcatcher. U.K.: Philips, 2001. MP3 files via USB.  
- 
 * p781 Secret Garden. Earthsongs. N.Y. : Decca, 2005. MP3 files via USB.  
- 
 * p781 Secret Garden. Once in a red moon. N.Y. : Decca Records, 2002. MP3 files via USB.  
- 
 * p781 Secret Garden. White stones. N. Y. : Philips, 1997. MP3 files via USB.  
- 
 * p781 Secret Garden. Winter Poem. Dreamcatcher Productions, [2011]. MP3 files via USB.  
- 
 * p781 Shore, Howard. Music from the Lord of the Rings, the trilogy. Portugal: IMC Music, 2003. MP3 files via USB.  
- 
 * p781 Stadler, Gary. Deep within a faerie forest / [by] Gary Stadler, Lisa Lynne, and Wendy Rule. Topanga, CA: Sequoia Records, 2004. MP3 files via USB.  
- 
 * p781 Taliesin Orchestra. Maiden of mysteries: [the Music of Enya]. Roswell, GA: Intersound, 1998. Mp3 file via USB.  
- 
 * p781 Taliesin Orchestra. Jean D'arc. Berlin, Germany: TDI, 2005. MP3 files via USB.  
- 
 * p781 Taliesin Orchestra. Tyranny of beauty. Seattle, Wash: Miramar Recordings, 1995. MP3 files via USB.  
- 
 * p781 Tate, Paul A. Seasons of grace: piano reflections. Chicago, Ill.: GIA Publications, 2006. MP3 files via USB.  
- 
 * p781 Tin, Christopher. Calling all dawns : a song cycle. n.p. Tin Works Pub, 2009. MP3 files via USB.  
- 
 * p781 Tingstad, Eric. In the garden / Eric Tingstad and Nancy Rumbel. Milwaukee, WI : Narada ; Universal City, CA : Distributed by UNI Distribution Corp., c1991. MP3 files via USB. Contents: The gardener (3:37) Bonsai picnic (3:45) Ghostwood (4:34) The parterre (4:05) Harvest (3:26) Hanging in Babylon (3:18) Big weather (4:23) Iris in moonlight (4:33) Medicine tree (5:04) Roses for Jessie (5:30) Monticello (4:44).  
- 
 * p781 Tin, Christopher. The drop that contained the sea. Tin Works, 2014. MP3 files via USB.  
- 
 * p781 Vagelis. Odyssey : the definitive collection / [by] Vangelis and Jon Anderson. Santa Monica, CA: Hip-O, 2003. MP3 files via USB.  
- 
 * d973 McCullough, D. Pioneers. N.Y. c2019. O.  
- 
 * dWES Parker, Robert B. Resolution. Detroit, 2008. 325 p. O. (Cole and Hitch 2)  
 -r  2024-07 C. C. and H. "liberate" a town from Wolfson w/ help from Cato and Rose. 
  I'm not hard to get along with, but I'm not convivial. I like your company, and I like space. p. 18 -q.	
 -q  I [Hitch] knew she didn't understand him. Most people didn't. There was about him a flat deadliness that frightened people. -p. 163. 
 -q  It's funny, you know? If you boys are right, then the way you know a guy's not scared is if he don't start trouble. And the way you know he is if he does. -Billie. -p. 128. 
- 
 * dWES Parker, Robert B. Appaloosa. N.Y. c2001. S. (Cole and Hitch 1) 
 -q  ... you got to prepare for what your enemy can do, not what you think he might do. -p. 122 
 -q  Keeping quiet never caused me [Hitch] no trouble. -p. 133 
 -q  Don't think about it too much... keep it simple. You [Hitch] represent the law. -Cole. p. 285. 
- 
 * v031 World almanac and book of facts 2024. N.Y. c2023. 1006 p. O. 
- 
 * d158 Birch, Amy. Wellbeing activity book. Ill. by Kalindi, Kat. Naperville, Ill. c2023. 159 p. D. 
- 
 * dWES Parker, Robert B. Blue-eyed devil. Detroit, c2010. 271 p. O. (Cole and Hitch 4). 
- 
 * dMYS Conte, Cate. Gone but not furgotten. N.Y. c2022. viii + 294 p. (Cat cafe 6).  
  Grade C. Bea, who has a gambling problem, murders both Laurel and Jonathan. -r Laurel McKenna is dead; falls down a flight of stairs. -s. 22 J.J. jumps on Maddie's face, and Val is doing a wedding for Nicole Jennings. -s. 23 Jonathan Arquette is dead. -s. 26 J. was killed with a brick. -s. 27 Cass is arrested. -s 35 Ethan hires Mads sister Sam to assist in the kitchen.-s 36 Mads calls Becky the newspaper editor. She is completely out of the loop!
- 
 * d818 Barry, Dave. Live right and find happiness. Farmington Hills, Mich. c2015. 237 p. O. ISBN 9781410475084. 
- 
 * dMYS Ralph, G.B. Murder on Milverton Square. Middletown, DE. c2022. 282 p. 21 cm. (Milverton mysteries 1) 
- 
 * dMYS Conte, Cate. Nine lives and alibris. N.Y. : St. Martin's paperbacks, c2023. 327 p. 18 cm. (Cat Cafe 7) 
- 
 * dWES Parker, Robert D. Brimstone. N.Y. 2009. O. (Cole and Hitch 3)  
- 
 * dFIC Grisham, John. Camino island. N.Y. c2017. kb. via Overdrive. 
 Read 2024-07. Grade C. -r  Fitzgerald manuscripts are stolen and Mercer Mann is recruited to help retrieve them. 
- 
 * d920 Kim, S. Without you, there is no us. n.p. 2014. kb. via Overdrive
  Read 2024-05. Grade C. Suki Kim goes as a teacher and missionary to PUST in North Korea. -r 
- 
 * d951 Harden, Blaine. Great leader and the fighter pilot. N.Y. c2015. O.  
  About Kim Il Song and Kenny Rowe, a/k/a No Kum Sok.
- 
 * d599 Rauch, Alan. Sloth. Lond. c2023. D.  
- 
 * g296 Jay, J. Yahweh and the gods and goddesses of Canaan. N.Y. c2023. kb.  
- 
 * dSCI Scalzi, John. Kaija Preservation Society. N.Y. c2022. D. 
- 
 * dMYS Craig, Elizabeth Span. Overdue. n.p. n.d. S. (Village Mystery 2) 
 -r  Read 2024-02. Grade C. Tonya, Robert's (the mayor) wife, kills him and Carrmon for having an affair. 
- 
 * dWES McCauley, Terrence. Blood on the trail. N.Y. 2022. D.  
  Read 2024-02. Grade C. Halstead arrests John Hudson. Then the Hudson gang, and Ed Zimmerman, goes after him. 
- 
 * kSCI Heizer, Michael. Facade. n.p. 2012. kb.  
  Read 2024-01. Aliens are about to make themselves known, so the gov't assembles a group of specialists. The aliens are 'watchers' from Genesis 6. 
- 
 * dSCI Ballingrad, Nathan. Strange, The. Lond. 2023. v.  
- 
 * dMYS Conte, Cate. Nine lives and alibis. N.Y. c2023. S. (Cat Cafe 7) 
 -r Read 2024-09. Grade C. Salsutore Bonnadonna murders psychic Balfour Dempsey. B. discoveres that Donald H. Tunnicliffe, who S. was protecting, murdered Archibald Lang 40 years ago. 
- 
 * dWES Knott, Robert. Robert B. Parker's ironhorse. Det. c2013. 469 p. O. (Cole and Hitch 5) 
 Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugters from bandits.
- 
 * d306 Hudson, Alexandra. Soul of civility. N.Y. c2023. 399 p. O. 
- 
 * dSCI Taylor, T.S.  On to the asteroid.  N.Y. 2016. S. 
 -s 1 Paul Gesling, employee of Space Excursions, lands on the moon and stays at the 1st moon hotel.
 -s 2 Gary Childers, leader of S.E., is shot along w/ Carolyn, Paul's wife.
@@ -6764,34 +5332,20 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s 43 Zhi Feng, the saboteur, was captured by the FBI, but takes the gun and kills them.
 -f Spaceship Tamaroa.
 -s 44 Mission control, having been notified of their signal, is now in contact with them.
--s 46 The sun is making hthe asteroid break apart. 
-* dFIC Ackerman, E.  2034.  N.Y. 2021.  O. 
+-s 46 The sun is making hthe asteroid break apart.* dFIC Ackerman, E.  2034.  N.Y. 2021.  O. 
  Nuclear war breakes out btw U.S. and China. -r 
- 
 * d599 Ranch, A.  Sloth.  Lond. c2023.  D.  
- 
 * dMYS Conte, Cate.  Claws for alarm.  N.Y. c2021.  S.  (Cat cafe mys 5). 
- 
 * dFIC Child, L.  Crysalis.  N.Y. c2023.  O. 
- 
 * dFIC  Jonasson, J.  Hundred-year-old man who climbed out the window and disappeared.  n.p. n.d.  v.  
- 
 * d951  Simmons, W.E.  My holiday in North Korea.  N.Y. c2015.  O. 
- 
 * dWES  Sharpe, J.  Bloody Brazos.  N.Y. 2002.  S.  (Trailsman 245). 
- 
 * dWES Knott, R.  Bull river.  N.Y. 2014.  O.  (Cole and Hitch 6). 
- 
 * dFIC Trembley, P.  Cabin at the end of the world.  N.Y. c2018.  O. 
- 
 * dSCI  Mammay, M.  Colonyside.  N.Y. 2021.  S.  (Planetside 3). 
- 
 * dSCI Mammay, M.  Planetside.  N.Y. c2018.  S.  (Planetside 1) 
- 
 * d920 Whitmer, G.  True Gretch.  N.Y. c2024.  O. 
- 
 * dWES Johnstone, W.W. and J.A.  Taylor Callahan, circuit rider.  N.Y. 2022.  v.  
- 
 * kFIC Klune, T.J. In the lives of puppets. N.Y. c2023. kb. ISBN 9781250217424. 
 -r  Read 2025-01. Grade C. 
 -f  Giovanni Lawson 
@@ -6867,38 +5421,23 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -r  The new heart cures some of thenaltimers, sometimes. 
 -q  "Memory, Victor. There is power to memory. It's tied to the head and- Hello! My designation is General Intelligence Oper-" He grimaced, rubbing his chest. "It's tied to the head and heart but in the end, if there is a war between the two, the heart usually wins out, even to its own detriment." 
 -q  rage so black it felt like midnight. 
--q  "Fuck the rules," Jesse snaps at him. "They don't help you. They control you."  
-* dLG+ Mone, Patrick E. Petrol bomb of love. [North Haven, CT. 2023]. 251 p. O.   
+-q  "Fuck the rules," Jesse snaps at him. "They don't help you. They control you." * dLG+ Mone, Patrick E. Petrol bomb of love. [North Haven, CT. 2023]. 251 p. O.   
 -r  Read 2024-08. Grade D. Will, a Protestant, and Conor, a Catholic, fall in love in 1980's Northern Ireland. 
 -q  So, Will wasn't coming to England. If Conor wanted Will to respect and understand his reasons then he had to respect and understand Will's. -p. 209 
- 
 * v932 Cooney, Kara. Good kings. Wash. c2021. 399 p. O.   
- 
 * vLG+ Rosen, L.C. Lion's legacy. N.Y. c2023. 298 p. O.   
- 
 * vLG+ Clark, Jody and Taylor, Jessie. Wild Irish rose. [U.S.?] c2017. 296 p. O.   
- 
 * v299 Lao Tzu. Tao te ching. An english version by LeGuin, Ursula K., with the collaboration of Seaton, J.P. Boulder, 2019.  x + 126 p. O.  
- 
 * vWES Maule, Harry E. Pocket book of western stories, ed. and w. intro. by Hary E. Maule. N.Y. c1945. S.  
- 
 * kFIC Proust, Marcel. In search of lost time. n.p. 2018. 5340 kb.  
- 
 * d979 Underwood, B. Ghost town living. N.Y. c2024. O.  
 -q  Read 2024-07. Grade C. About Cerro Gordo. -r  True gratitude is incompatable with selectiveness. It's all-encompassing. 
- 
 * vFIC Rutherfurd, Edmund. London. N.Y. c1997. 1126 p. S.  
--r  History of London as told through the Ducker, Dogget, and Silversleeve families.  
-* k808 Wright, J. 510 creative writing prompts. n.p. n.d. kb.  
- 
+-r  History of London as told through the Ducker, Dogget, and Silversleeve families. * k808 Wright, J. 510 creative writing prompts. n.p. n.d. kb.  
 * k808 Weselby, J.M. Citations made simple. n.p. n.d. kb.  
- 
 * kFIC Kalquist, A. Legacy. [U.S.? n.d. kb.  
- 
 * p781 Vollenweider, A. Behind the gardens. [U.S.?] 2005. kb. via USB/music.  
- 
 * p781 Lislevand, R. Diminuito. Munchen: n.p. 2009. kb. via USB/music.  
- 
 * dFIC Reeve, P. Mortal engines. N.Y. c2001. v.   
 -d  CH 25: The historians meet to discuss what to do about MEDUSA. 
 -q  Up at the mooring platform Anna Fang had stooped to kiss the feet of one [monk], and given six bronze coins for him to bless the Jenny Haniver. 
@@ -6911,55 +5450,30 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  I used to think you [V] were the wonderful... I used to think that you were the best, bravest, wisest person in the world. But you're not. You're not een very clever, are you?" -K. -p. 244 
 -s  CH 31 K. and B. decides to build a bomb and destroy MEDUSA. 
  
- 
 * p781 Sissel. Into paradise. N.Y. 2006. kb. via USB/music.  
- 
 * p781 Twelve Girls Band. Eastern energy. Los Angeles, Calif. 2004. kb. via USB/music.  
- 
 * p781 Anon. Classics for Relaxation and Meditation. St.-Laurent, Canada 1994. kb. via USB/music.  
- 
 * p781 Anonymous 4. Legends of St. Nicholas : medieval chant and polyphony. Lond. 1999. kb. via USB/music.  
- 
 * kFIC terSteeg, D. Radio sphere. n.p. n.d. kb.  
- 
 * dFIC Miller, J.J. Precipice. [U.S.] 2009. v.  
- 
 * k423 Forgotten founding father, The. n.p. n.d. v.  
- 
 * kFIC Brown, Shane. Plaza. n.p. n.d. kb.  
- 
 * kFIC Brozik, M.D Taking Ivy seriously. n.p. n.d. kb.  
- 
 * p781 Anon. Chants of the Season. N.Y. 1994. kb. via USB/music.  
- 
 * p781 Davis, C. and Rutter, J. Fresh aire Christmas. Omaha, Neb. 1988. kb. via USB/music.  
- 
 * kFIC Steampunk fairy tales. n.p. n.d. kb.  
- 
 * kFIC Andreas, M. Glass gargoyle. n.p. n.d. kb.  
- 
 * p781 McCoo, M. White Christmas. Santa Monica, Calif?], Mich. 2005. kb. via USB/music.  
- 
 * k791 Blake, B. Family road trip trivia. n.p. n.d. kb.  
- 
 * k791 Oppenheimer, J. and Oppenheimer, G. Laughs, luck...and Lucy : how I came to create the most popular sitcom of all time / Jess Oppenheimer, Gregg Oppenheimer. 2nd kindle. ed. n.p. 2012. 7072 kb.  
- 
 * p782 Manilow, B. Ultimate Manilow. N.Y. 2002. kb. via USB/music.  
- 
 * k790 Massey, M.M. 100 RV tips and tricks. n.p. n.d. kb.  
- 
 * p791 Colony. [U.S.? 2013]. kb. via USB/3316.mp4.  
- 
 * p791 Queen. [Lond.] c2007. kb. via USB/9056.mp4.  
- 
 * k942 Rofheart, M. Glendower country. [U.S.?] n.d. kb.  
- 
 * p793 LeClair, D. Elder scolls is going to be massive; massively multiplayer, that is [updates]. kb. via USB/3004.pdf. (IN MakeUseOf.com. May 4, 2012)  
- 
 * k793 Puzzleland. 30 interactive brainteasers to warm up your brain. n.p. n.d. kb.  
- 
 * kFIC Surmelis, A. Dangerous art of blending in. [U.S.?] 2018. kb.  
- 
 * dFIC Brown, P. Red rising. N.Y. c2014. 25 cm.  
 -r  Read 2016-03. Grade C. 
 -q  Those who bow their heads and accept the rule of Society and their place in Society, as all Colors do, live on wih relative freedom. -p. 70 
@@ -6972,64 +5486,37 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Man cannot be freed by the same injustice that enslaved it. -p. 282. 
 -q  Laws are silent in time of war. -Tactus. -p. 301 
  You tried to take something beyond the bounds of hte game. You gave in to your pathetic animal insticts. Here that is less forgivable than murder; I hope you feel shame when you look back at this moment fifty years from now and realize your weakness. -p. 302 -q 
- 
 * dFIC Brown, D. Da Vinci code. N.Y. c2003. 25 cm.  
 -r  Read 2011-10. 
 -q  Those who seek the truth are more than friends. They are brothers. 
  Your Heart is true my friend.
  Those who truly understnd their faiths understand the stories are metaphorical. -p. 342 -q 
- 
 * kFIC MacLean, C.H. One is come. [U.S.? n.d.] kb.  
- 
 * k817 Lastowka, Cr. Gone whalin'. n.p. n.d. n.p. n.d. kb.  
- 
 * kFIC McMeins, E. Retribution. n.p. n.d. kb.  
- 
 * kWES Gray, Z. Border legion. [U.S.? n.d.] kb.  
- 
 * kFIC Stracher, Cn. Water wars. [U.S.? n.d.] kb.  
- 
 * w794 Classic arcade games. [U.S.? 2012]. kb. via [www](http://www.classicgamesarcade.com/).  
- 
 * p794 Dube, R. Be the king of the world with Imperia Online. kb. via USB/3005.txt. (In MakeUseOf.com. May 4, 2012).  
- 
 * kFIC Pendleton, P.W. and Block, T. Keeper and the rune stone. n.p. n.d. kb.  
- 
 * p794 Snyder, C. Emulating and playing classic NES games on your computer with Nestopia. kb via USB/3006.txt. (In MakeUseOf.com. May 4, 2012)  
- 
 * p794 Snyder, Chris. 3 MMOs to play in beta and pre-order before summer [MUO gaming]. kb. via USB/3008. (In MakeUseOf.com. Apr. 29, 2012)  
- 
 * kSCI Vasicek, J. Genesis Earth. n.p. n.d. kb.  
- 
 * d817 Barry, D. in cyberspace. N.Y. 1996. 22 cm.  
- 
 * kFIC Bradley, Arthur. Frontier justice. [U.S.? n.d.] kb.  
- 
 * kFIC Elliot, S. Brandis. Irradiated. [U.S.? n.d.] kb.  
- 
 * p796 Driscoll, S. Hiking. kb. via USB/10123.pdf. (In Hobby Profile. U.S. 2007)  
- 
 * w796 Essex County Greenbelt. [Mass.?] 2011- 12 kb. via [www](http://www.ecga.org/).  
- 
 * w796 Essex County Trail Association. [Mass.?] 2011- 29 kb. via [www](http://www.ectaonline.org/).  
- 
 * w796 Hike New England. n.p. c1998-. 10 kb. via [www](http://www.hikenewengland.com).  
- 
 * p799 Tyler, J.L. [Photographs of Burlington and Shelborne, Vermont with Robbie, Shawn, and Calab]. [2014-05-13]. kb via USB/3321.  
- 
 * k808 Carroll, J. and Dendy, C. Where the joys are. [U.S.? n.d.] kb.  
- 
 * p808 Delta College. Library. Publication manual of the American Psychological Association (APA) for citing resources in print form. [University Center, Mich. 2006]. kb. via USB/1366.doc  
- 
 * w808 Greenbaum, D. Journaling at the end of the day could increase your productivity. 17 kb. via [www](http://lifehacker.com/1590024732).  (In lifehacker.com, 2014)  
  ... a recent study shows that 15 minutes of reflection at the end of the day leads to better productivity. -q 
- 
 * kFIC Lethem, J. Arrest. [U.S.?] c2020. kb.  
- 
 * k808 Hughes, M.E., ed. Letting go. [U.S.?] 2016. kb.  
- 
 * d808 Johnson, A. Leaving a trace. Bost. 2001. v.  
- 
 * k808 Mandel, E. St. John. Station eleven. N.Y. 2014. kb.  
 -s  5 The guard calls Arthurs wife. 
 -s  6 The world colapses. 
@@ -7068,33 +5555,21 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  So the prophet is shot ded as he tries to take Kirsten, Amanda, and Sayid. 
 -f  Miranda gives the comics to Arthur, and he gives them to Tonya. 
  The Symphony goes to the Airport -s 
- 
 * k808 Rayappan, A. Non-fiction writing machine. n.p. 2013. 999 kb.  
- 
 * k808 Scott, S. How to write a nonfiction eBook in 21 Days. n.p. c2015. kb.  
- 
 * kSCI Thacker, N. Relics. [U.S.? n.d.] kb. (Relics singularity ; 1)  
- 
 * d808 Progoff, I. At a journal workshop. Jeremy P. Tarcher, c1975, 1992. x, 422 p. ISBN 0874776384.   
 -s  Ch. 5: Twilight Imagery and Life Correlation. 
  Ch. 6: Daily Log: 'keep a current basis with the movement of our lives'
  Basically, diary writing.
  Two types: Recapitulation, and current recording. -s 
- 
 * p808 Rowe, S. Write it out. kb. via USB/3205.pdf. (In Vibrant life. Vol. 28, no. 2, Mar.-Apr. 2012)  
- 
 * kFIC Scott, J.T. Escape. n.p. n.d. kb.  
- 
 * kFIC Akers, D.C. Haven. n.p. 2013. kb.  
- 
 * kSCI Albert, B. Time web tremors. n.p. n.d. kb.  
- 
 * gSCI Weis, M. Soulforge. n.p. c1998. 1 mb.  
- 
 * kFIC Berkeley, H. Rourke. Tall man rides. n.p. n.d. kb.  
- 
 * kFIC Bourke, M. Jaguar sun. n.p. 2012. kb.  
- 
 * kFIC Bova, Ben. Mars. N.Y. c1992. kb.  
 -r  Read 2019-08 and 2022. Grade C. 
 -f  Jame Waterman, m, Protagonist. 
@@ -7130,27 +5605,16 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  "You can become the unofficial biographer of the Mars mission. Go where I go. No doors will be closed to you. You will see everything and meet everyone." 
  It correlates," Yang said, eyeing the new data displayed on the computer screen. "They all show the symptoms of scurvy." -q 
 
- 
 * kFIC Adair, B. Black virus. n.p. n.d. kb.  
- 
 * kFIC Vanasse, D.; Marusek, D. eds. Alaska Sampler 2014. [U.S.?] 2014. kb.  
- 
 * dFIC Niven, L.; Lerner, E.M. Destroyer of worlds. N.Y. 2010. 18 cm.  
- 
 * dFIC Orwell, G. Animal farm. Prefix by Baker, R. Intro. by Woodhouse, C.M. N.Y. 1996. 18 cm.  
- 
 * kFIC Bower, B.M. Cabin fever. [U.S. n.d.] kb.  
- 
 * kFIC Bowring, S. Prophecy's ruin. [U.S.? n.d.] kb.  
- 
 * k811 Standlee, D. and Bossarte, D. Dreams of the turtle king. n.p. n.d. kb.  
- 
 * d811 Dwight, T. Conquest of Canaan. [U.S.?] 1970. 23 cm.  
- 
 * k811 Poe, E.A. Complete tales and poems of Edgar Allan Poe. [U.S.? n.d.] kb.  
- 
 * k811 Wellemeyer, M. Admire the moon. Bost. [n.d.] kb.  
- 
 * kLG+ Fox, M. Just stay. n.p. n.d. kb.  
 -r  Read 2018-05. Grade B. 
  He doesn't like parties. Hell, he barely even likes people. So why is he currently on his way to a place where the two intersect in the most horrible way, with two strangers, no less?
@@ -7158,29 +5622,17 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  his way of voicing his own insecurities, the ones he keeps constantly hidden beneath a hundred layers of sarcasm and cynicism.
  He doesn't like big social gatherings much, after all, despite having an easier time with it, since he met Evan.
  They doesn't say any vows 
- 
 * kFIC Vanasse, D.; Marusek, D. eds. Alaska sampler 2015. [U.S.?] 2014. kb.  
- 
 * kFIC Albrinck, A. Activate. n.p. n.d. 6276 kb.  
- 
 * kFIC Albrecht, J.D., Jr.; Delay, A. High-Wizard's hunt. n.p. n.d. 5483 kb. (Osric's Wand 2)  
- 
 * d909 Woody, A. Coming of age in Mississippi. n.p. n.d. v.   
- 
 * kWES Fearn, J.R. Tornado trail. [U.S.?] 2016. 974 kb.  
- 
 * kWES Fearn, J.R. Town without law. [U.S.?] 2016. 914 kb.  
- 
 * d941 Ronald, S. Hitler's aristocrats. 1st ed. N.Y. 2023. 25 cm.  
- 
 * dWES Galloway, Marcus. Compton, Ralph's one man's fire. N.Y. 2012. 18 cm.  
- 
 * kFIC Tolstoy, L. Anna Karenia. n.p. 2017, p1878. kb.  
- 
 * kFIC Tomlin, J.R. Kingdom's coast. [U.S.?] 2016. kb.  
- 
 * v299 Deng, Ming-Dao. 365 Tao. 1st ed. N.Y., HarperSanFrancisco, 1992. xii, 380 p. 18 cm.  
- 
 * dFIC Allende, I.; Peden, M.S., tr. City of the beasts. N.Y. c2002. 406, 15 p. 20 cm.  
  Read 2013-09. Grade B.
 -s  Ch. 06: Mauro Carias and Captain Ariosto are up to something. 
@@ -7208,25 +5660,19 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  The People of the Mist had disappeared, as they always did at the first hint of danger. -p. 325 
 -q   'There are many victims in this world, Alexander, and many noble causes to defend. A good warrior name helps in the fight of justice.' -Kate -p. 338 
  Tapirawa-teri: the village of the People of the Myst. -p. 199 -f 
- 
 * dFIC Anderson, M.T. Feed. n.p. n.d. v.   
- 
 * dSCI Anderson, K.J. Ruins. N.Y. 1996. 291 p. 25 cm.   
  Read 2013-03. Grade C.
  Cassandra: Daughter of Vladimir Rubicon; goes missing during an archological expedition in Central America.
 -s  Ch. 06: Mulder, Scully, and Rubiicon fly to Cancun on their way to the Yucatan. 
 -s  Ch. 07: A guy named Pepe Candelaria is attacked by 'feathered serpents'. 
  
- 
 * kFIC Anderson, J.A. Jager journal. n.p. 2013. kb.   
- 
 * kFIC Arenson, D. Legacy of light. [U.S.?] 2013. 3106 kb. (Dragon War 1)  
- 
 * kFIC Arenson, Daniel. Memory of Earth, A. Moonclipse, 2018. 1626 kb. (Children of Earthrise 2)  
 -r  Read 2021-10 Grade C. 
 -s  Leona travels to earth, Emit and Raven battle Jade, and Coral attempts to find the Godblade. 
  "Let us cling to whatever joy, whatever laughter we can find... There's always time for joy." -q 
- 
 * kLG+ Argent, Jay. Fairmont boys series. 2nd ed. Jay Argent Books, 2018. 2947 kb. Contents: Swimmer boy -- I am not gay. -- You are not my son. -- Death of a good guy. -- Best friends forever.  
 -r  Read 2018-05. Grade B. 
  "Actually, I am sure it likes you, and I like you, too. I mean, I like you in that way,"
@@ -7244,56 +5690,35 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  6 brandon comes out to alez but roy is watching
  8 m is on drugs, and comes on tk l
  10 m and a finally meet. There is tention 
- 
 * dSCI Asimov, Isaac. Foundation. N.Y. : Del Rey, c1951, 2021. S. ISBN 9780553293357.  
  Read 2021-09. Grade C.
 -q  It is uncientific to suppose meaningless cases. -p. 259. 
 -q  I was sent - to quote yourself - to keep my eyes open. They were never shut. -p. 264 
  A nuclear blast is a good weapon, but it can point both ways. -p. 269 -q 
- 
 * dSCI Asimov, Isaac. Second foundation. New York : Del Rey, c1953, c1981, 2017. 256 p. ISBN 9780553293364.  
- 
 * kFIC Adair, Bobby. Ebola K: A Terrorism Thriller: book 1. n.p. n.d. 1665 kb. (Ebola K 1)  
- 
 * k813 Adair, Bobby. Last survivors, The. / Bobby Adair [and] T.W. Piperbrook. n.p. n.d. 3247 kb. (Last Survivors 1)  
- 
 * k930 Weber, James. Ancient history in 50 Events : from ancient civilizations to the fall of the Roman Empire. n.p. 2015. 3222 kb.  
- 
 * kFIC Alexi, Sara. Illegal gardener, The. Oneiro Press, 2013. 1447 kb. (Greek Village 1)  
- 
 * kFIC Allan, Jay. Gehenna dawn. System 7 n.p. 2013. 438 kb. (Portal wars ; 1).  
- 
 * dSCI Farland, David. Wizardborn. N.Y., Tor, 2002. 502 p. 18 cm. (Runelords ; 3).  
- 
 * dSCI Golding, William. Lord of the flies. N.Y, Penguin, [1954]. 219 p. 19 cm.  
- 
 * kSCI All these shiny worlds [v.1] Creativity Hacker Press, 2016. 1044 kb.  
- 
 * kFIC Kristian Alva. Dragon stone trilogy, The. Defiant Pres International, 2015. 3410 kb. Contents: Dragon Stones, Return of the Dragon Riders, Vosper's Revenge. (Dragon Stones 1)  
- 
 * k813 Amaris, Isabella. Sanctuary. [U.S.?] 2012.  684 kb. (Three Towers 1)  
- 
 * k915 Margaret, A. Hole in my boot : Southern India to Everest Basecamp / Anne Margaret, Joanne Mercia Oliver. Anne Margaret Oliver, 2014. 2119 kb.  
- 
 * kSCI Zales, D. Oasis. Mozaika Publications, 2016. 401 kb.  
  Read 2024-03 at the Grand Hotel in North Conway, N.H. Grade C. -r  In the end, modern civilization was not undone by a comet, but by tis very threat. -q 
- 
 * p091 [2007 taxes] / Justin Lee Tyler. 2007. file via USB. File Directory: 3219. DBID 3219.  
- 
 * d028 Bauer, S.W. Well-educated mind. n.p. n.d. v.  
- 
 * kFIC Leverone, Allan. Paskagankee. StoneGate Ink, 2016. 3431 kb. (Paskagankee 1)  
- 
 * dFIC Taylor, Meadows. Confessions of a thug. Stein and Day, c1968. vii, 338 p.   
  Ch. 01: Writing a letter to Sahib
  A robbery; his parents die, but the Thugs spare him.
  Ch. 02: He learns about Islam.
   
- 
 * kFIC Moore, Clement. Twas The Night Before Christmas / by Clement C. Moore; ill. by Elena Almazove and Vitaly Shvarov. Grafton and Scratch Publishers, 2012. 8463 kb.  
- 
 * kFIC Clifton, Lu. Scalp dance. n.p. n.d. kb.  
- 
 * kFIC Anderson, John A. Jäger journal. John A. Anderson III, 2013. 1150 kb.  
  Ch. 13: Greta is at the family home. There is a spy watching them.
  They attack, but Jim and Stuart save them.
@@ -7302,7 +5727,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  Michelle
  Annette
  Jim Harrison 
- 
 * kFIC Arenson, Daniel. Heirs of Earth, The. n.p. 2017. 560 kb. (Children of Earthrise 1)  
 -r  Read 2021-06. Grade C. 
  Palaevia was the largest city on the warm, verdant planet of Paev.
@@ -7323,20 +5747,14 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  "Today goodness won," she finally said. "Today I was kind, and I swayed him with my kindness, without needing your gun." She looked at him. "Sir, perhaps I'm naive. But I believe that goodness always wins."
  Elysium, the planet of the Weeping Guildhall.
  13 they made it through rhe front line on the way to the weavers ghildhall planet. -s 
- 
 * kFIC Arroyo, E.R. Sovereign. n.p. 2012. 2546 kb. (Antius Ascending 1)  
- 
 * kFIC Arzu, M.N. Librarian, The. [U.S.?] 2015. 2237 kb.  
- 
 * dFIC Vinge, Vernor. Children of the sky. 1st ed. N.Y. c2011. 444 p. ISBN 9780312875626. DBID 3065   
 -r  Read 2015-05. 
  Vendacious and Chitiratifor visits the tycoon; offering information about the humans.
  -p. 11-16 -o 
- 
 * kFIC Atchity, Kenneth John. Messiah matrix, The. Imprimatur Britannia and Story Merchant Books, 2014. 4215 kb.  
- 
 * k813 Auden, Audrey. Realms Unreel. Temen Books, 2011. 697 kb.  
- 
 * d181 I-ming, Liu. Awakening to the Tao, tr. by Cleary, Thomas. 1st ed. Bost. 1988. xvi, 105 p. ; 22 cm. ISBN: 087773447X.  
 -r  Read 2022-05. Grade B. 
 -f  Cal Potter. 
@@ -7355,21 +5773,15 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -r  So what do I think is paramount? 
 -q  For the egg! -p. 227 
 -q  Coexistance had to be learned, and the very hardest coexistance was with oneself. -p. 248 
- 
 * dFIC Barry, Dave; Zweibel, Alan. Lunatics. n.p. n.d. v.   
- 
 * kFIC Barnes, Gary. Aquifer. Blue Spring Press, 2012. 601 kb.  
- 
 * dFIC Collins, Suzanne. Hunger games. New York : Scholastic Press, c2008. 374 p. DBID 3200. ISBN 9780439023481   
  So I learned to hold my tongue and to turn my features into an indifferent mask so that no one could ever read my thoughts. Do my work quietly in school. Make only polite small talk in the public market... I avoid discussing tricky topics.
  -p. 6 -q 
- 
 * dFIC Cole, Allan and Bunch Chris. Wolf worlds. N.Y. : Ballantine Books, c1984. 298 p. 18 cm. ISBN 0345312295.   
  3. Sten encounters the natives who challenge him to a fight. Sten wins.
   
- 
 * k930 Jackson, Roy. Ancient Rome. Healing Habits Publishing, LLC, 2015. 1431 kb.  
- 
 * dFIC Barry, Dave. Insane city. G.P. Putnam's sons, c2013. 341 p. ISBN 9780399158681.   
  Read 2013-08. Grade B.
  Ch. 1-2: Marty puts a male sex device in Seth's carry-on.
@@ -7383,14 +5795,11 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  It's Miami... There's drug dogs in the preschools. -Seth -p. 22 
 -q  But he [Sid] preferred to perceive the world through the ever-present interface of Rose so that his impressions and opinions would always be in sync with hers; this, Sid had learned over the years, was the key to a peaceful marriage, if not necessarily a happy one. -p. 77 
   ... whose official title was Director of Operations, in which capacity he spent the bulk of his day picking up monkey shit. p. 105 -q This is how I feel at work, with my title; compared to what I actually do. -r 
- 
 * dSCI Bellin, Joshua David. Survial colony 9. New York : Margaret K. McElderry Books, c2014. 325 p. 22 cm. ISBN 9781481403542.   
 -r  Read 2015-08. Grade C. 
 -q  I'd been so fcused on tracking this wounded thin, I'd forgotten that wounded things can be the most dangerous. -p. 258 
  A global war has decimated humanity. A boy named Querry is found by survival colony 9, but he has no memory. Creatures known as the Scaldi are after him. -s 
- 
 * kFIC Roquet, Angela. Graveyard shift. n.p. 2014. kb.  
- 
 * kFIC Bowden, William. Port state. n.p. 2020. 909 kb.   
 -r  Read 2020-12. Grade D. 
  NOTE: summaries are in reverse order.
@@ -7401,19 +5810,13 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  Minal and jakes spend the night in Cygent. 
 -q  “Can't be bothered with all the academia bullshit,” says Minal. “Corporate bullshit's worse. Port State Control pays well. It's a good life.” 
  Mr. Day announces tgat he wants a trade deal. -s 
- 
 * kFIC Boyle, C.J. Adventures of Kirk Rogers inside the moon. Createspace, 2017. 5477 kb. (Dark Sorcerer 1)  
- 
 * kFIC St. Clare, Kelly. Retreat. n.p. n.d. kb.  
- 
 * kFIC Craig, C.C. Dragon ring. n.p. 2014. 1402 kb. (Neuyokkasinian Arc Of Empire 1)  
- 
 * dFIC Brown, Dan. Inferno. N.Y. c2013. kb. via Overdrive. ISBN 9780385537865.   
  Madness breeds madness. -q 
- 
 * dFIC Brown, Dan. Angels and demons. New York : Pocket Books, c2000. 430 p. 25 cm. ISBN 0671027352   
  'Earth = Power Air = Intellect Wind = Ardor Fire = Water' -p. -f 
- 
 * pFIC Brooks, Terry. Armageddon's children. New York : Del Roy, 2006. PDF file via USB. 8353.pdf.   
 -r  Read 2011-06. 
 -f  Sparrow -p. 
@@ -7451,20 +5854,13 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -f  Quick Drain -p. 
 -q  'He [Hawk] liked her [Owl] face, liked the way you could always tell what she was thinking.' -p. 
  Cycles come and go. One day the world will be new again. -p. -q 
- 
 * kFIC Wilson, John S. Joshua. n.p. 2014. 1097 kb.  
- 
 * dSCI Verne, Jules. Round the moon. n.p. n.d. v.   
- 
 * dSCI Critchen, Michael. Jurassic park. n.d. n.p. v.   
- 
 * kFIC McKenna, Caitlin. Logging off. [U.S.?] c2006, 2012. 835 kb.  
- 
 * kFIC McLay, C. Village books. n.p. 2012. 787 kb.  
- 
 * dFIC Brooks, Terry. Bearers of the black staff. 1st ed. New York : Ballantine Books, c2010. 352 p. 25 cm. ISBN 9780345484178   
  CH.1: Creatures get through the ward -p. -s 
- 
 * dFIC Brooks, Terry. First king of Shannara. 1st ed. New York : Ballantine Books, 1996. 489 p. 24 cm. ISBN 0345396529   
 -r  Read 2011-12 and 2020-09 Grade C. 
 -q  ... the First Council of Druids... met at Paranor, a gathering of the wisest men and women of all the Races, those who had memories of the old world, those who retained a few tattered, crumbling books, those who learning had survived the barbarism of a thousand years... [they] had begun the laborious task of assembling their combined knowledge... the goal... was to work for the betterment of all people... -p. 7 
@@ -7507,11 +5903,8 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  He [Vree] was tolerated because he enjoyed occasional, verifiable success, and because the Elvin people were understing of differences in general... -p. 151 
 -q  Mystics operated on prescience, intuition, evenn hunches, all of them stronger than the instincts normal men and women might experience, all of them impossible to see. -p. 151 
  
- 
 * kFIC Feldman, R.N. Creator's eye : mover of fate, part I / R.N. Feldman. CreateSpace, 2014. kb.  
- 
 * kFIC Fisher, Suzanne Woods. Choice, The. Revell, [n.d.] k. 5889 kb. (Lancaster County Series; 1)  
- 
 * dFIC Brooks, Terry. Genesis of Shannara. Ballantine Books, c2007. 379 p. ISBN 978034484116.   
 -f  Arissen Belloruus, King of the Elves. -p. 68 
 -q  He sleeps poorly this night, his mind restless, his thoughts dark and rife with foreboading. -p. 57 
@@ -7530,11 +5923,8 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  38 Tom Logan kills Krilka. 
  KIRISIN, m, elf. Brother of Simralia.
  29 The loden stone is in a dragon. -s 
- 
 * g813 Brooks, Terry. Skaar invasion. N.Y. 2018. 4.2 mb.   
- 
 * dFIC Brooks, Terry. Elves of Cintra. n.p. n.d. v.   
- 
 * dFIC Brooks, Terry. Measure of the magic, The. 1st ed. New York : Ballantine Books, c2011. 383 p. ISBN 9780345484208. DBID 1867.   
 -r  Read 2011-11. 
 -s  Ch. 3. The demon finds the hospital, and the girl, but a strange light consumes her, and she disappear. He's searching for the bearer of the black staff. -p. 
@@ -7584,12 +5974,9 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  CH. 32: The queen is deposed
  Prue keeps the elfstones
  The group goes off in their own directions. -p. 379-383 -q 
- 
 * dFIC Peterfreund, Diana. In the hall with the knife. New York : Amulet Books, 2019. 298 p. 22 cm. (A Clue mystery ; [#1]) ISBN: 9781419738340.  
- 
 * kSCI Anderson, Kevin J. Hidden empire. Aspect, 2002. 857 kb. (Saga of the seven suns ; 1). ISBN 9780759527218.  
 -r  Hydrogues, aliens that live inside of gas giants, attack colonies across the solar arm after humans make a new sun using the Klikiss torch. 
- 
 * dFIC Brooks, Terry. Scions of Shannara. n.p. n.d. v.   
 -r  Read 2013-03. 
 -q  We cannot pretend that the world begins and ends at the boundaries we might make for it. Sometimes, we must achnolodge that it extends itself into our lives in ways we might prefer it wouldn't, and we must face up to the challenges it offers. -Walker Boh. 
@@ -7598,7 +5985,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Am I a parrot to repeat the phrases of others for your amusement? 
 -q  It is not nearly so important to know who you are as who you might be. -Cogline. 
  The question plagues me like flies on a sweating horse. -p. 252 -q 
- 
 * dFIC Brooks, Terry. Sword of Shannara. N.Y. c1977. 726 p.  
 -r  Read 2003-01 Grade B 
 -s  Ch. 4: Shea and Flick leave the Vale. -p. 58-75 
@@ -7658,7 +6044,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Verre Erreden was not well regarded among the Elves, a reclusive, distracted, shy man with little concern for anything besides his work. he was a locat, a mystic who specializes in finding people who were missing and objects that were lost. -p. 150 
 -q  He [Vree] was tolerated because he enjoyed occasional, verifiable success, and because the Elvin people were understing of differences in general... -p. 151 
  Mystics operated on prescience, intuition, even hunches, all of them stronger than the instincts normal men and women might experience, all of them impossible to see. -p. 151 -q 
- 
 * dFIC Brooks, Terry. Voyage of the Jerle Shannara. N.Y. 2000. 456 p. 18 cm.  
 -r  Read 2011-10. 
 -q  They are one step above rocks on the evolutionary latter. -p. 
@@ -7670,7 +6055,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -o  'CH. 5: ''The Star of the West''' -p. 
 -o  CH. 1: Storm Clouds RisingNorth wanted new territory from the Mexican War to be non-slavery; South wanted territory slave while allowing the states to be carved out if it in the future to choose when the time came. -p. 
  'I shall not place myself in any leading position. But I shall seek to be a calm and quiet looker on, rarely speaking and when I do endevering to throw oil on the trouble waters.' -p. -q 
- 
 * dFIC Brooks, Terry. Wards of faerie. N.Y. c2012. 371 p. 24 cm.  
 -f  Aphenglow, f., Member of the Order of the Druids. 
 -f  Sen Dunsidan, m., Prime Minister of the Federation. -p. 17 
@@ -7716,13 +6100,9 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  Walker Boh: The Ard Rhys ship; the Druids flagship. -f -236
  She [the Ard Rhys] war the familiar black robes,, but unike the others she bore a silver path sewn into the left front panel. -q -236
  'He [Farshaun] just doesn't want to make the decision for us. He doesnt want to have to live with the responsibility.' -Reden -243 -q 
- 
 * kFIC Rivet, Jordan. Seabound. n.p. 2014. 1494 kb. (Seabound Chronicles 1)  
- 
 * dFIC Burroughs, Edgar. Tarzon of the apes. n.p. n.d. v.   
- 
 * kWES Lee, J. Butts. Bad Day to die. n.p. 2016. 2348 kb. (Lucius Dodge 1)  
- 
 * kFIC Ducie, J. Distant star. Cedar Sky Publishing, 2012. 571 kb. (Reminiscent Exile 1)  
  Who: Declan Hale, 24 y/o
  What: a bookstore owner in True Earth who is on the run for causing the "degregation" (unraveling of the story line) in forget; a Shadowless Arbiter
@@ -7756,9 +6136,7 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  I wept. My irrelevance was infinite. 
 -q  I may have been less than an insignificant speck on the face of an immense and cold universe, but I still found meaning... I mattered to me. 
  Don't touch me — you'll create a paradox that'll destroy the universe. -q 
- 
 * kFIC Dunn, B. Thaw. Bryan Dunn, 2007. 613 kb.  
- 
 * kFIC Byrne, Logan. Banded. Logan Byrne, 2014. 2754 kb. (Banded 1)  
 -r  Read 2017-05. Grade D. 
 -q  Those who were physically strong were placed into Stalwart. Those who were mentally smart were placed into Astute. Those who were greedy were placed into Collusive. Those who were beautiful were placed into Radiant. Those who were dreamers and had no sense of direction were placed into Quixotic. 
@@ -7774,7 +6152,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Sure, no unemployment seemed like a great idea, but was it worth the cost? Everybody worked, but nobody prospered, and that was the problem with this model. 
 -q  You're really good at this. You just need to calm yourself down and think rationally. 
  My goal is to coast through HQ without any incidents -q 
- 
 * kFIC Baker, Keith. City of towers. Wizards of the Coast, 2010. 3742 kb. (Dreaming dark ; 1)  
 -r  Read 2013-04. 
  Who: Protagonists: Daine, Pierce, Jani Onyll, the healer Jode, and Lei d'Cannith.
@@ -7783,71 +6160,39 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  Cannith family known as Artificers
  Lei enters the city of Sharn to find that she's an outcast. Her Uncle Jura who tells her it was personally ordered by the new Baron, Baron Merrix, for treason (she had fought for the Cyre).
  Daine and Co., soldiers of the defeated nation of Cyre, must begin their life again after years of war. But to do so, they take a rather unpleasant job from a rich women named Alina. 
- 
 * k973 Weber, James. American history in 50 events. n.p. 2015. 3473 kb.  
- 
 * kFIC Baker, Elliott. Return. Hypatia Press, 2017. 2189 kb. (Sun God's Heir ; 1)  
- 
 * kFIC Baldron, NAK. Sorcerer's quest. Aconite Cafe, n.d. kb.  
- 
 * d338 Sovereign individual, The. n.p. n.d. v.  
- 
 * kFIC Boyson, Cassandra. Seeker's call. Kingdom House Press, 2014. 1284 kb. (Seeker's Trilogy 1)  
- 
 * kFIC Brait, Lee. Picnic. 6th ed. [U.S.?] 2014. 624 kb. (Oil to Ashes ; 1)  
- 
 * kFIC Baltakmens, Andrei. Raven's seal. Top Five Books, 2012. 3149 kb.  
- 
 * kFIC Bannister, Paul. King's cavalry. Endeavour Press, 2014. 3323 kb. (Forgotten Emperor 4)  
- 
 * k398 Barrow, J. Cherokee mythology. [U.S.?] 2021. 3076 kb. (Easy history)  
- 
 * kFIC Barnes, A.E. Raven son. n.p. n.d. kb.  
- 
 * kFIC Frank, L. Baum. Complete wizard of Oz collection. [U.S.?] n.d. kb.  
- 
 * kFIC Frank, L. Baum. Wonderful wizard of Oz. [U.S.?] n.d. kb.  
- 
 * kFIC Beam, Brian. Dragon gem. Brian Beam, 2013. 1559 kb. (Korin's Journal 1)  
- 
 * kFIC Beers, David. Heretic. [U.S.?] 2014. 6383 kb. (Singularity 1)  
- 
 * kFIC Harris, R.J. Beginning. [U.S.?] 2014. 286 kb. (Starfall 1)  
- 
 * kFIC Belliston, Rebecca. Life. Gated Publishing, 2015. 3628 kb. (Citizens of Logan Pond 1)  
- 
 * kFIC Billig Griffin, Barbara C. Nuclear catastrophe. 4th ed. n.p. 2011. 883 kb. (Nuclear Fiction Novels of Survival 1)  
- 
 * kFIC Twain, Mark. Adventures of Huckleberry Finn : Tom Sawyer's comrade. [U.S. 2011]. 457 kb.  
- 
 * kFIC Birtolo, Dyan. Shadow chaser. Apocalypse Ink Productions, n.d. kb.  
- 
 * kFIC Blackaby, Daniel. Legend of the book keeper. Elevate Fiction, 2012. kb. (Lost City Chronicles 1)  
- 
 * kFIC Bobrov, Amit. Journals of Raymond Brooks / Amit Bobrov [and] Omri Koresh. Speaking Words Publishing, [n.d.] kb.  
- 
 * kFIC Boland, Shalini. Outside. Adrenalin Books, 2023. 1859 kb.  
- 
 * kFIC Rathbone-Rex, Brian; Studios, T. Call of the herald. White Wolf Press, LLC, 2010. 3319 kb (Godsland Series 1)  
- 
 * kFIC Boman, John. Spirit of the moon. CreateSpace Independent Publishing Platform, 2011. kb. (Sovereign Creek)  
- 
 * kFIC Bosgoed, Reed. Purging. n.p. 2013. 794 kb. (Eons of Darkness 1)  
- 
 * kFIC Bounds, S.J. Fighting blacksmith. n.p. n.d. kb.  
- 
 * kFIC Boyce, S.M. Lichgates. n.p. n.d. kb. (Grimoire saga ; 1)  
- 
 * d923 Nasaw, David. Andrew Carnegie. N.Y. 2006. xiv, 878 p.   
 -r  Read 2012-03. 
  Bond trading was then as now, an extraordinarily lucrative line of work for those who were neither risk-adverse, risk-happy, nor weak-hearted. It was, in short, the ideal profession for thirty-five-year-old Andrew Carnegie. -p. 117 -q 
- 
 * kFIC Wright, Iain Rob. Ravage. SalGad Publishing Group, 2014. 1886 kb. (Ravaged World 2)  
- 
 * kFIC Messenger, Jon. Wind qarrior. Clean Teen Publishing, 2013. 3800 kb. (World aflame 1)  
- 
 * k920 Hamilton, Lynn M.; North, Wyatt. Dalai Lama, a life inspired. Wyatt North Publishing, LLC, 2013. 312 kb.  
- 
 * kLG+ Nevada, P.J. Sunrise in the Afternoon. n.p. n.d. kb.   
 -r  Read 2018-05. Grade C. 
  home to Long Branch
@@ -7855,9 +6200,7 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
  Nick Esposito,
  Why are you grinning like a baboon?”
  “All I will say is that you need to relax and go with the flow. 
- 
 * k930 King, Charles R. Their greatest hour : Rome, Carthage, and the Second Punic War. [U.S.?] 2012. 1574 kb.  
- 
 * kFIC Braun, E. and Byars, C.M. Book of creation. [U.S.?] 2013. 678 kb. (Watchers 1)  
 -r  Read 2020-10 Grade D. 
 -q  The only word I can use is heavy. I've been feeling heavy all day... 
@@ -7867,35 +6210,20 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Typical religious doublespeak, 
 -q  He wanted to close his eyes, to shut out the struggle, but he could not look away. 
  All he could do was present the information; what Wörtlich did with it was his own choice. -q 
- 
 * kFIC Briar, Perrin. Z-Minus. n.p. n.d. kb. (Zombie apocalypse series)  
- 
 * kFIC Lewis, Ron. Ambush at Kansas City. n.p. n.d. kb.  
- 
 * kFIC Garrett, M.L. Spirit keeper. U.S., Plume, 2013. 1746 kb.  
- 
 * kFIC Gatewood, J.G. Unknown man. J.G. Gatewood, 2012. 2274 kb. (Keepers of the orbs ; 1)  
- 
 * dSCI Anthony, Piers. Orn. N.Y. c1970, 1971. 256 p. 18 cm.  
- 
 * kFIC Mary, Kate L. Broken world. [U.S.?] 2014. 2682 kb.  
- 
 * k910 Open University. World Heritage. n.p. n.d. kb.  
- 
 * kFIC Broderick, Andrew. Extinction switch. n.p. n.d. kb.  
- 
 * kFIC Broomall, Robert. Conroy's first command. n.p. n.d. kb.  
- 
 * g813 Reynolds, Alastair. Revelation space. n.p. c2000. 2.5 mb.  
- 
 * kFIC Emerson, W. Object: Book One / Winston Emerson [and] Justin Comley. CreateSpace, 2012. kb.  
- 
 * kFIC Erin, N. Kiatana's journey. Gryfyn Publishing, 2014. 1325 kb. (Creatures of the lands 1)  
- 
 * g923 Woodward, Bob. Fear; Trump in the White House. N.Y. c2018. 4 mb.  
- 
 * kFIC Brown, Richard. Dead highways: origins. n.p. n.d. kb.  
- 
 * kFIC Brown, Ryk. Ep.#1 - Aurora: CV-01. Ryk Brown, 2011. 1120 kb. (Frontiers Saga 1)  
 -f  Dayton Scott, m. Senator in the North American Union 
 -f  Nathan Scott, m. Son of Dayton Scott. In the EDF 
@@ -7903,45 +6231,25 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -f   Junk. A race that Earth is at war with (I think). 
 -f  United Earth Republic. A fictional type of United Nations. 
  CH. 01: Nathan Scott causes a bit of a scene at his fathers campaign announcement when he sleeps with some women; and makes a passing comment about his father. -s 
- 
 * kSCI Reine, S.M. Starbound : eleven tales of interstellar adventure / S.M. Reine, Christine Pope, Anthea Sharp, [et. al.] n.p. n.d. kb.  
- 
 * kFIC Brown, Christian A. Feast of fates. Forsythia Press, 2014. 3864 kb. (Four Feasts Till Darkness 1)  
- 
 * kFIC Brodin, Erik. Lost sons of Asgard. [U.S.?] 2015. 3465 kb (Endangered Norse Gods 1)  
- 
 * kFIC Brooke, Katlynn. Six and the Crystals of Ialana, The. Katlynn Brooke, 2014. 1646 kb. (Ialana 1)  
- 
 * kFIC Brumm, Robert. Windigo soul. DeadPixel Publications, 2014. 2813 kb.  
- 
 * kFIC Bryan, J.L. Inferno park. J.L. Bryan, 2014. 2814 kb.  
- 
 * kFIC Buckmann, Jacinda. Indigo incite. Jacinda Buchmann, 2014. 2060 kb. (Indigo trilogy ; 1)  
- 
 * d923 Keneally, Thomas. Abraham Lincoln. N.Y. 2003. 175 p. 20 cm. (Penguin Lives)  
- 
 * kFIC Buchan, John. Mr. Standfast. n.p. 2012. 546 kb.  
- 
 * kFIC Bunyan, John. Pilgrim's progress. Coterie Classics, 2016. 470 kb.  
- 
 * d923 Gandhi, Mohandas K. An autobiography. Tr. by Mahadev Desai, with a fwd by Sissela Bok. Bost. c1993. xxix, 528 p. 21 cm.  
- 
 * kFIC Camden, Kay. Alignment. [U.S.?] 2013. 2788 kb. (Alignment 1)  
- 
 * kFIC Carter, T.K. Collapse. My Ms.Adventures LLC, 2013. 2366 kb. (Yellow flag series; 1)  
- 
 * kFIC Hall of heroes: a fellowship of fantasy anthology. H.L. Burke, c2017. 4106 kb. (Fellowship of Fantasy 2)  
- 
 * kFIC Wesley, J. Bush. Knox's irregulars. n.p. n.d. kb.  
- 
 * kFIC Lee, J. Butts. Lawdog : the life and times of Hayden Tilden. Beyond the Page, 2015. 3137 kb. (Hayden Tilden 1)  
- 
 * kFIC Byrne, Arthur. Killing Hemingway. Brian D. Meeks, 2015. 558 kb.  
- 
 * g910 Winchester, Simon. Outposts. N.Y., 2003. 2.2 mb.  
- 
 * p091 [2008 taxes] / Justin Lee Tyler. 2008. file via USB. File Directory: 3220. DBID 3220.  
- 
 * gFIC Caine, Rachel. Ink and bone. New American Library, c2015. kb.   
 -r  Read 2017-04. Grade C. 
 -f  Guillaume Danton 
@@ -7968,31 +6276,20 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  After all, the Library provided them free on the birth of a child, and encouraged every citizen of the world to write their thoughts and memories from the earliest age possible. Everyone kept a record of the days and hours of their lives to be archived in the Library upon their deaths. The Library was a kind of memorial, in that way. It was one reason the people loved it so, for the fact it lent them a kind of immortality. 
 -q  When you steal a book, you steal from the world, the Library propaganda said 
  St Paul's Serapeum, the physical presence of the Great Library -q 
- 
 * dFIC Cameron, Joy. Gabe and the mystery light. n.p. n.d. v.   
- 
 * kFIC Carson, Heather. Project Dandelion. n.p. 2019. 1383 kb. (Project Dandelion 1)  
- 
 * kFIC Chastain, Coleman. Earth and shadows. [The author], c2013. kb.  
- 
 * kSCI Ellis, George. Wreckers. n.p. n.d. 4607 kb.  
- 
 * kSCI Iovino, Lou. Data mine. [U.S.?], LAB Press, 2022. k. 1212 kb.  
- 
 * kFIC McCarthy, Ingrid. Black pearl of Osis. [U.S.?] 2012. 590 kb.  
- 
 * kFIC Ellis, B. Veil rising. LMBPN publishing, 2020. 2452 kb. (Star Guild saga 1)  
- 
 * dFIC Emerson, K. Lost code. n.p. c2012. 435 p.  
 -s  Ch. 1: Owen almost (does he?) dies during a swim test. He is in Camp Eden. 
 -s  Ch. 5: Owen tours the EdenEast control center. A fire breaks out, and he wonders how safe the dome actually is. 
 -s  Ch. 6: It turns out the 'injury' in his neck are gills. And Owen meets more kids who developed gills. 
  Ch. 11: An explosion, caused by the Nomads. The nomad says that they must stop Project Elysium. -q 
- 
 * k913 Douglas, Karlton B. Griffin island. n.p. n.d.. k. ASIN B003ICXHJ8.  
- 
 * dFIC Child, Lincoln. Full wolf moon. n.p. n.d. v.   
- 
 * dFIC Child, Lincoln. Terminal freeze. 1st ed. N.Y. c2009. x + 320 p. 24 cm.  
  Read 2013-04. Grade C.
 -f  Old Rag Lodge: Secret goverment hideaway. -p. 41. Based on Project Greek Island 
@@ -8010,18 +6307,13 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Ultimately, it becomes its own worse enemy. It kills everything - leaving itself without sustenance. -p. 182 
  Ch. 42-45: The truck carrying the evacuees hit a rock, and the fuel take is punctured. They may not have enough fuel to make it back.
  The creature may be susseptable to sound. 
- 
 * k940 Open University. Early modern Europe. The Open University, 2018. 850 kb.  
- 
 * dSCI Hobb, Robin. Dragon keeper. N.Y. 2010. xiii, 473 p. 24 cm.  
 -r  Read 2012-03. 
 -q  'My name is Sedric Meldar... I am accompanying Trader Finbok's wife, Alise, as her chronicler and protector'[...] 'What's a chronicler?' Tats demanded abruptly. 'I write down what she does. Where she goes, the gist of her conversations, and sometimes, when she is doing research, I write down in detail what she learns. Later, she'll be able to look back over what I've written to be sure she is remembering every detail correctly. -p. 335-336 
  Yet he [Leftrin] wondered at how small a life he'd been willing to settle for. He wished in vain that he'd foreseen tat some day a woman might walk into his life. -p. 346 -q 
- 
 * k932 Clayton, Matt. Egyptian mythology. n.p. c2017. kb.  
- 
 * v912 Franconia Notch [map] : Franconia Notch State Park, New Hampshire. Scale: 1:40,000) Twin Mt, NH : The Wilderness Map Company, c2007. 1 map. ISBN 0974843989 : :$2.95. DBID 3125  
- 
 * vFIC McCarthy, Cormac. Road, The. 1st Vintage International ed. N.Y., Vintage International, [2009]. 287 p. 21 cm.  
 -q  A person who had no one would be well advised to cobble together some pasable ghost. -57 
 -q  All of this like some ancient anointing. So be it. Evoke the forms. Where you've nothing else construct ceremonies out of the air and breathe upon them. -p. 74 
@@ -8034,69 +6326,39 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  You need to find the good guys but you cant take any chances. -p. 278 
 -q  You have to carry the fire. It's inside you. It was always there. I can see it. -p. 279 
  If I'm not here you can still talk to me. You can talk to me and I'll talk to you. You'll see. -p. 279 -q 
- 
 * kSCI Chaney, J.N. Amber project. Variant Publications, 2015. 1691 kb. (Variant saga 1)  
- 
 * kFIC Weiland, K.M. Dreamlander. n.p. n.d. kb.  
- 
 * kFIC Padron, Paul. Gift of Samuel. [U.S.?] 2021. 2455 kb.  
- 
 * dFIC Foresters. n.p. n.d. v. DBID 1729.   
 -r  Read 2011-10. 
 -q  '?but with the whole passion of love that existed in her nature, she embraced her husband's neck, and with every kindest and most encouraging word, addressed to his own ear, mingled prayers of holiest fervour for his peace of mimd to the Giver of all merices.' -p. 38-39 
 -s  'Chapter 5-Able forged a document to pay off a businessman from Edinburgh. Michael took responsibility for the debt, and after his father dies, will have to sell Dovenest. -Agnes is pregnant.' -p. 37-44 
  His [Michael Forester] whole appearance betokened no ordinary character -p. 9 -q 
- 
 * k973 Dawson, Sarah Morgan. Confederate girl's diary. n.p. 2011. 472 kb.  
- 
 * dFIC Child, Lincoln. The forgotten room. n.p. n.d. v.   
- 
 * kFIC Colombus, Nocomus. 3:53 am : Book 1. [U.S.?] 2014. 222 kb.  
- 
 * kFIC Cole, Jerry. Awaiting orders. n.p. n.d. kb.  
- 
 * dFIC Collins, Max Allan. Waterworld. n.p. n.d. v.   
- 
 * dFIC Corey, James S.A. Leviathan wakes. n.p. n.d. v.   
- 
 * kFIC Cartwright, Christopher. Last airship. [U.S.?] 2015. 4353 kb. (Sam Reilly 1)  
- 
 * kFIC Rice, Morgan. A quest for heroes. M. Rice, 2013. 1682 kb. (Sorcerer's ring 1)  
- 
 * kFIC Cartwright, Christopher. Sam Reilly collection. [U.S.?] 2016. 1936 kb.  
- 
 * kFIC Casey, Elle. Drifters' Alliance, book 1. Elle Casey, 2015. 3843 kb.  
- 
 * kFIC Casey, Elle. Kahayatle. Elle Casey, 2012. 4022 kb.  
- 
 * kFIC Charles, H.O. City of Blaze. Idol: a Tree, 2014. 4578 kb.  
- 
 * kFIC Charlton, Reno. Secret portal. [U.S.?] 2012. 438 kb. (Secret portal 1)  
- 
 * kFIC Ching, G.P. Grounded. 2nd ed. [U.S.?] 2012. 3133 kb. (Grounded 1)  
- 
 * k920 Phillips, Hillary. Teacher : a woman's true adventure living and working on a remote Canadian First Nations reserve. n.p. n.d. kb.  
- 
 * kFIC Sawers, Robert J. Flashforward. N.Y. : Tor Books, n.d. kb.  
- 
 * kFIC Christie, Judy. Wreath, a Girl. [U.S.?] 2015. 4316 kb. (Wreath Willis 1)  
- 
 * kFIC St. Clair, Julius. Last of the sages. n.p. n.d. kb.  
- 
 * dFIC Rowling, J.K. Harry Potter and the half-blood prince. n.p. n.d. v.   
- 
 * kFIC Comer, V. Raspberries and vinegar. 2nd ed. [U.S.?] 2014. 1165 kb (Farm Fresh Romance 1)  
- 
 * kFIC Cooper, G. Tenth chamber. n.p. n.d. kb.  
- 
 * kFIC Coryell, S. God virus. [U.S.?] 2013. 641 kb. (God virus 1)  
- 
 * kFIC Craft, S.F. Cassia. n.p. n.d. kb.  
- 
 * kFIC Cramer, S. Night of the purple moon. n.p. 2012. 382 kb. (Toucan 1)  
- 
 * kFIC Crawford, A.C.F. Sailor of the Skysea. 2nd ed. n.p. 2012. 3317 kb.  
- 
 * dFIC Miller, Rand. Myst, the book of Ti'ana. W. Wingrove, David. 1st ed. N.Y. c1996. 322 p. 25 cm.  
 -r  Read 2013-10. Grade C. 
 -s  p. 1-28: A tunnel is being built to make contact with the surface dwellers; The Book of Earth, written by Grand Master Ri'Neref, is mentioned. 
@@ -8106,42 +6368,25 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  but it had not proved so. -p. 50 
 -q  You were born old, Aitrus... too old and too serious... -p. 51 
  The rock was predictable. It had its moods, yet it could be read, its actions foreseen. But who could say as much of a man? -p. 56 -q 
- 
 * k817 Douglas, Adam. Crazy true tales. n.p. 2021. 1938 kb.  
- 
 * kFIC Crouch, J. Eerie / Jordan Crouch, Blake Crouch. n.p. 2012. 362 kb.  
- 
 * kFIC Cunningham, Andrew. Eden rising. n.p. n.d. kb.  
- 
 * d920 Flurry, Stephen. Raising the ruins, the fight to revive the legacy of Herbert W. Armstrong. Edmond, Okla., Philadelphia Church of God, 2006. xiii, 414 p.  
- 
 * kFIC Curtis, G. Seventh mountain. 1st ed. n.p. 2012. 858 bk. (Chronicles of a Magi 1)  
- 
 * kFIC D'aigle, R. Awaken. n.p. n.d. kb.  
- 
 * kSCI Daniels, V. Forbidden the stars. Los Gatos, 2010. kb.  
- 
 * kWES David, A. All guns blazing. n.p. n.d. kb.  
- 
 * kSCI Roth, Veronica. Divergent series complete collection. [U.S.?] Katherine Tegen Books, 2013. 5430 kb. Contents: Divergent -- Insurgent -- Allegiant.  
- 
 * dFIC David, Joanne. Book of the shepherd. Ill. by McCollum, Sudi. N.Y. c2009. xiii, 187 p. 19 cm.  
- 
 * kFIC Diack, M. Light and the glass. n.p. c2013. 960 kb. (Empyria 2)  
- 
 * kFIC Dockins, Brian. Betrayal of magic / Brian Dockins (Author); Onaje Beal (Illustrator). n.p. 2011. 1028 kb.  
  Ch. 03: Cadan learns that Simon isn't his father, and that his real parents are dead. But his real last name must remain a secret. He decides to run away.
  Ch. 04: Cadan runs away, hitchhikes to New York City, and get's captured by monsters in the alley.
  Monsters were indeed alive and roaming the earth. -q 
- 
 * kFIC Dorsey, Brian. Gateway. 2nd ed. n.p. 2016. 518 kb. (Gateway 1)  
- 
 * kFIC Dale, R. Pardner's trust. Horizons West Publishing, [n.d.] kb.  
- 
 * kFIC Damon, N. Shadow of Oz. Secret Origin Press, 2014. 3650 kb.  
- 
 * k979 Cremony, John. Life among the Apaches. n.p. n.d. kb.  
- 
 * kFIC DeLancey, Craig. Well of Furies. n.p. n.d. k.  
 -r  Read 2020-12 Grade C. 
 -q  This was the Sussurat expression for you are being such an idiot that I must spare you the shame of looking at you with all four eyes. 
@@ -8156,15 +6401,10 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  11 brias dead. 
 -f  bria's daughter Treuntilliasussarius 
  Theyre going to the wondering double-world system to find the ultrans. -s 
- 
 * kFIC Delport, M. Cathedral of Cliffdale. n.p. 2015. 644 kb. (Guardians of Summerfeld)  
- 
 * kFIC Seeley, Randall. Dragonlyst. Vigon Press, 2014. 1085 kb. (Drahiad Chronicles Prologues 1)  
- 
 * kFIC Deskins, B. Sorcerer's ascension. Dingo Dog Publishing, 2014. 1680 kb. (Sorcerer's path ; 1)  
- 
 * kFIC DiSilverio, Laura. Incubation. diAgio Publishing, 2016. 820 kb. (Incubation 1)  
- 
 * kFIC Quinn, Susan Kaye. Open minds. n.p. 2013. 4278 kb. (Mindjack 1)  
 -r  Read 2014-08. Grade D. 
 -s  At the end of the 22nd century, the world is composed of readers (those who can read minds). While Kira believes she is a "zero" (a non-reader), she meets Simon, and learns she's actually a powerful jacker, someone who can "jack" into people's minds and control them. Simon introduces her to a secret society to jackers. During Simons initiation ceremony, govn't agents, being afraid of their abilities, take them to a jacker concentration camp where jackers can be control, and to perform experiments. She excapes, and is able to go to the press and expose the scandal. 
@@ -8187,17 +6427,11 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  31 Kira visits her father, who tells her to turn herself in, then goes to raf, who gives her some money. 
 -s  32 Kira goes to the press with the stoiry. Then goes to kestrels apt, discovers where Laney is being kept, and shoots kestral. 
  CHANGLINGS: kids who are developing jacker abilities. -f 
- 
 * kFIC Healey, David. First voyage. Intracoastal Media, 2012. 1514 kb. (Sea Lord Chronicles)  
- 
 * kFIC Larson, R.J. Prophet. Bethany House Publishers, 2012. 1658 kb. (Books of the Infinite)  
- 
 * dFIC Brooks, Terry. Fall of Shannara, The. n.p. n.d. v.   
- 
 * kFIC Dicksion, W.W. Sagebrush. n.p. 2013. 684 kb.  
- 
 * kFIC Dixon, A.L. Killing of Sam Luke. n.p. 2016. 1009 kb.  
- 
 * kSCI Roth, Veronica. Insurgent. kb. IN Roth, Veronica. The Divergent Series. Katherine Tegen Books, [20--]?.   
 -r  Read 2014-04. Grade C. 
 -s  Ch. 2: Amity extablishes their headquarters as a safehouse for all factions with 4 rules: 1) No weapons 2) If any serious conflict arises, all involved parties will be asked to leave 3) The civil war cannot be discussed in the compound 4) everyone must contribute to the welfare by working. 
@@ -8214,19 +6448,12 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  ch21 new leadership is elected. tobias becomes a leader. 
 -s  Jeanine announces she will kill a doughtless every so often until Tris turns herself in. 
  ch 29 tris turns herself in -s 
- 
 * k910 Pfeifer, Deb. Cruising with confidence. n.p. n.d. k.  
- 
 * kFIC Engel, M. 2084. CreateSpace, 2017. kb.  
- 
 * kFIC Elliott, B.T. Sifting through static. Contronym Press, 2015. 2490 kb.  
- 
 * kFIC Escobar, A. Tower's alchemist. Creative Alchemy, Inc., 2011. 1598 kb. (Gray Tower)  
- 
 * kFIC McElhaney, Scott. Mystic saga. Superluminal, 2012. kb.  
- 
 * kFIC Estes, D. Moon dwellers. n.p., 2014. 1667 kb. (Dwellers saga)  
- 
 * dFIC Fisher, Catherine. Relic master. Part 1. N.Y. 2013. 362 p. 21 cm.  
 -r  Read 2014-05. Grade C. 
  I The dark City
@@ -8261,7 +6488,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q  Arno Braylin -p. 265 
 -f  Awen: energy, power, life -p. 282 
  ch 19 the break into the watchhouse and get the girl, the interrex. -s 
- 
 * dFIC Fisher, Catherine. Hidden coronet. N.Y. 2011. 421 p. 22 cm.  
  Read 2014-06. Grade C.
 -r  Over the centuries the Order built up these fancy stories about them [the makers] and forgot all the important bits. -Marco -p. 141 -q A reference to the Church, and the story of Jesus. 
@@ -8278,17 +6504,11 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s  25 Galin and co. finds the hoard, but the sekoi know their there 
 -s   26 at the center of the hoard lies Kest, and in his hands, the coronet. 
  27 The sekoi uses the coronet. -s 
- 
 * kFIC Forster, E.M. Room with a view. Warbler Classics, 2021. kb.  
- 
 * p025 Miller, J. ed. and Bristow, B.A. associate ed. Sears list of subject headings. N.Y. 2007. kb. via [USB](10116.pdf). 
- 
 * p299 O'Driscoll, D. [et.al.] AODA guide to home circles, study groups, and groves. n.p. c2020. kb. via [USB](10117.pdf). 
- 
 * p242 Lundy, J.L. My deepest me. Traverse City, Mich. kb. 
- 
 * p221 Cross, F.M. Canaanite myth and Hebrew epic. Cambridge, Mass. c1973. kb. ISBN 0674091760. 
- 
 * kSCI Roth, Veronica. Divergent. kb. IN Roth, Veronica. The Divergent Series. Katherine Tegen Books, [20--]? 
 -r Read 2025-03. Grade C.
 -s 11 Trus discovers that dauntless guards lock the gate from the outside. 
@@ -8346,7 +6566,6 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -q "When you are entrusted with all the information, you have to decide how much other people should know," says Marcus.
 -q "We believe in a God who gives peace and cherishes it," she says. "So we give peace to each other, and cherish it."
 -s ch 39 marcus and trus tells amnity of dountless and the factionless plan to attack euridite. amnity votes to remain nutral, but joanne splits. the faction system is breaking down.
- 
 * dFIC Theroux, Paul. Mosquito coast. N.Y. 1982. S. 
 -s 2 Charlie's dreams that his dad is killed in the scarecrow ceremony.
 -f Jerry, C.'s brother. 
@@ -8378,4 +6597,4 @@ Read 2024-10. Grade C. Virgil and Hitch must rescue the Texas Governor's daugter
 -s 29 Allie sets the missionaries airplane on fire. But the kids tie him up in anger over the lies. He was shot. 
 -s 30 Mother drives, then they all take a boat to the coast. But there's no Dr, and they have no money. Allie is paralyzed.  Vultures start attacking him. One takes his tongue.
 -q p. 307 Nature tried to burn you, then starve you, then drown you, and it made you dig a garden like a savage with a stick. It surprised you and mdade you fearful that something was going to go wrong. That fear made people religious nuts instead of innovators. -Allie
- 
+
