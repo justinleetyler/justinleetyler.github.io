@@ -1,3 +1,6 @@
+Justin's title-a-liner catalog
+===
+
   bFIC  Adams, T.  Last word.  N.Y. 2023.  O.
   bFIC  Bergmoser, G.  Hunted.  Lond. 2020.  O.
   bFIC  Bergmoser, G.  Inheritance.  Lond. 2021.  O.
@@ -5,11 +8,15 @@
   bFIC  Dietrich, C.  Pledge.  N.Y. 2023.  O.
   bFIC  Elston, A.  First lie.  [N.Y.] c2024.  O.
   bFIC  Finch, S.  Senseless.  N.Y. c2021.  O.
+  vFIC  Four great American classics.  N.Y. 2008.  S.  Hawthorne, N.  Scarlet letter -- Taain, M.  Adventures of Huckleberry Finn. -- Crane, S.  Red badge of courage. -- Melville, H.  Billy Budd, sailor.  
   bFIC  Gattis, R.  Kung Fu High School.  Orlando 2005.  O.
+  vFIC  Glut, D.F.  Empire strikes back.  (IN Star wars.  N.Y. 1993)
   bFIC  Harding, R.  Drowning women.  N.Y. 2023.  O.
   bLG+  Jeffrey, J.  Boyfriend material.  N.Y. 2002.  O.
+  vSCI  Kahn, J.  Return of the Jedi.  (IN Star wars.  N.Y. 1993)
   bFIC  Klune, T.J.  House in the cerulean sea.  N.Y. 2020.  O
   bFIC  Klune, T.J.  Somewhere beyond the sea.  N.Y. 2024.  O.
+  vSCI  Lucas, G.  Star wars.  (IN Star wars.  N.Y. 1993).  r2024-01C.
   bFIC  Morgan-Bentley, R.  Guest house.  Napperville. Ill. c2022.  O.
   bFIC  Penny, L.  Better man.  N.Y. 2019.  O.
   bFIC  Penny, L.  Glass houses.  N.Y. 2018 c2017.  O. 
@@ -23,6 +30,8 @@
   bLG+  Rowley, S.  Guncle abroad.  N.Y. c2024.  O.
   bFIC  Ryan, T.  Keep this to yourself.  Chic. c2019.  O.
   bFIC  Sierra, T.  Night watching.  n.p. c2024.  O.
+  vSCI  Star wars trilogy.  N.Y. 1993. 
   bFIC  Vernon, P.J.  Bath haus.  N.Y. c2021.  O.
   bFIC  Walter, B.P.  Dinner guest.  Lond. 2021.  O.
+  v031  World almanac and book of facts. 2025.  n.p. c2024.  O.
   bMYS  Xander, I.  Love, mom. n.p. c2024.  O. 
