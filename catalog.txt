@@ -17,6 +17,7 @@ Justin's title-a-liner catalog
   bFIC  Klune, T.J.  House in the cerulean sea.  N.Y. 2020.  O
   bFIC  Klune, T.J.  Somewhere beyond the sea.  N.Y. 2024.  O.
   vSCI  Lucas, G.  Star wars.  (IN Star wars.  N.Y. 1993).  r2024-01C.
+  v299  Ming-Dao, D.  365 Tao.  N.Y. 1992.  O.
   bFIC  Morgan-Bentley, R.  Guest house.  Napperville. Ill. c2022.  O.
   bFIC  Penny, L.  Better man.  N.Y. 2019.  O.
   bFIC  Penny, L.  Glass houses.  N.Y. 2018 c2017.  O. 
