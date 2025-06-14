@@ -32,6 +32,7 @@ Justin's title-a-liner catalog
   bLG+  Rowley, S.  Guncle abroad.  N.Y. c2024.  O.
   bFIC  Ryan, T.  Keep this to yourself.  Chic. c2019.  O.
   bFIC  Sierra, T.  Night watching.  n.p. c2024.  O.
+  wFIC  Twain, M.  Adventures of Huckleberry Finn.  N.Y. c1885.  kb. via https://www.gutenberg.org/ebooks/76
   vSCI  Star wars trilogy.  N.Y. 1993. 
   bFIC  Vernon, P.J.  Bath haus.  N.Y. c2021.  O.
   bFIC  Walter, B.P.  Dinner guest.  Lond. 2021.  O.
