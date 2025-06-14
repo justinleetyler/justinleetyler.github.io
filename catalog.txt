@@ -2,10 +2,19 @@ Justin's title-a-liner catalog
 ===
 
   bFIC  Adams, T.  Last word.  N.Y. 2023.  O.
+  bLG+  Beck, T.J.  He's the one.  N.Y. c2003.  O.
+  bLG+  Beck, T.J.  I'm your man.  N.Y. c2004.  O.
+  bLG+  Beck, T.J.  It had to be you.  N.Y. c2001.  O.
+  bLG+  Beck, T.J.  Someone like you.  N.Y. c2006.  O.
+  bLG+  Beck, T.J.  When you don't see me.  N.Y. c2007.  O.
   bFIC  Bergmoser, G.  Hunted.  Lond. 2020.  O.
   bFIC  Bergmoser, G.  Inheritance.  Lond. 2021.  O.
   v917  Buchsbaum, R.N.  AMC's best day hikes in the White Mountains.  3e.  Bost. c2016.  O.
   vMYS  Burns, V.M  Murder on tour.  N.Y. c2023.  O.  (Mystery Bookshop)
+  bLG+  Cohen, J.  Bear like me.  N.Y. c2003.  O.
+  bMYS  Copp, R.  Actor's guide to adultery.  n.Y. c2004.  O.
+  bMYS  Copp, R.  Actor's guide to greed.  N.Y. c2005.  O. 
+  bMYS  Copp, R.  Actor's guide to murder.  N.Y.  c2003.  O.
   vFIC  Dickens, C.  Christmas stories.  n.p. 2005.  O.  
   bFIC  Dicks, M.  Memoirs of an imaginary friend.  N.Y. 2012.  O.
   bFIC  Dietrich, C.  Pledge.  N.Y. 2023.  O.
@@ -16,13 +25,17 @@ Justin's title-a-liner catalog
   vFIC  Glut, D.F.  Empire strikes back.  (IN Star wars.  N.Y. 1993)
   bFIC  Harding, R.  Drowning women.  N.Y. 2023.  O.
   v188  Holiday R. and Hanselman, S.  Daily Stoic.  N.Y. c2016.  O.
+  bMYS  Hollis, L.  My father always finds coorpses.  N.Y. c2025.  ).
   bLG+  Jeffrey, J.  Boyfriend material.  N.Y. 2002.  O.
-  oWES  Johnstone, W.W. and J.A.  Biscuits and gravy.  N.Y. c2021.  kb.  (Chuckwagon trail)
+  oWES  Johnstone, W.W. and J.A.  Biscuits and gravy.  N.Y. c2021.  kb.  (Chuckwagon trail).  r2025-06C.
   vSCI  Kahn, J.  Return of the Jedi.  (IN Star wars.  N.Y. 1993)
   bFIC  Klune, T.J.  House in the cerulean sea.  N.Y. 2020.  O
   bFIC  Klune, T.J.  Somewhere beyond the sea.  N.Y. 2024.  O.
   v299  Lao Tzu.  Tao te Ching. An Eng. version by Le Guin, Ursula K. with the collaboration of Seaton, J.P.  Boulder 2019.  O.
   vSCI  Lucas, G.  Star wars.  (IN Star wars.  N.Y. 1993).  r2024-01C.
+  bLG+  Mann, W.J.  Men from the boys.  N.Y. c2007.  O.
+  bLG+  Mann, W.J.  Men who love men.  N.Y. c2007.  O.
+  bLG+  Mann, W.J.  Where the boys are.  N.Y. c2003.  O.
   vFIC  McCarthy, C.  Road.  N.Y. 2006.  O.
   v299  Ming-Dao, D.  365 Tao.  N.Y. 1992.  O.
   bFIC  Morgan-Bentley, R.  Guest house.  Napperville. Ill. c2022.  O.
@@ -40,9 +53,19 @@ Justin's title-a-liner catalog
   bLG+  Rowley, S.  Guncle abroad.  N.Y. c2024.  O.
   bFIC  Ryan, T.  Keep this to yourself.  Chic. c2019.  O.
   bFIC  Sierra, T.  Night watching.  n.p. c2024.  O.
+  bLG+  Truman, A.J.  Advanced chemistry.  n.p. c2003.  O.  (South Rock high)
+  bLG+  Truman, A.J.  Advanced languages.  n.p. c2023.  O.  (South Rock high)
+  bLG+  Truman, A.J.  Ancient history.  n.p. c2022.  O.  (South Rock high)
+  bLG+  Truman, A.J.  Drama!  n.p. c2022.  O.  (South Rock high)
+  bLG+  Truman, A.J.  Barkeep and the bro.  n.p. c2022.  (Single Dads Club)
+  bLG+  Truman, A.J.  Fireman and the flirt.  n.p. c2024.  (Single Dads Club)
+  bLG+  Truman, A.J.  Falcon and the foe.  n.p. c2023.  (Single Dads Club)
+  bLG+  Truman, A.J.  Gross misconduct.  n.p. c2025.  O.  (Comebacks 1)
+  bLG+  Truman, A.J.  Mayor and the mystery man.  n.p. c2022.  (Single Dads Club)
   wFIC  Twain, M.  Adventures of Huckleberry Finn.  N.Y. c1885.  kb. via https://www.gutenberg.org/ebooks/76
   vSCI  Star wars trilogy.  N.Y. 1993. 
   bFIC  Vernon, P.J.  Bath haus.  N.Y. c2021.  O.
+  bMYS  Waddell, M.  Body in the back yard.  N.Y. c2023.  O.  (Crescent Cove)
   bFIC  Walter, B.P.  Dinner guest.  Lond. 2021.  O.
   v031  World almanac and book of facts. 2025.  n.p. c2024.  O.
   bMYS  Xander, I.  Love, mom. n.p. c2024.  O. 
