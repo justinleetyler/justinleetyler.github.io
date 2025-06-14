@@ -4,8 +4,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 # NOTES
 ## bookmarks-text-based stuff
 
-[FrogFind!](http://www.frogfind.com/)
-
 [nws](https://forecast.weather.gov/MapClick.php?lat=42.7843&lon=-71.0862&unit=0&lg=english&FcstType=text&TextType=1)
 
 [facebook](https://mbasic.facebook.com/)
@@ -16,8 +14,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [NPR](https://text.npr.org/)
 
-[Neuters (Reuters Front-End)](https://neuters.de/)
-
 [light web](https://litew.pages.dev/)
 
 [quick reference](https://justinleetyler.github.io/references)
@@ -25,6 +21,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 ## bookmarks-other
 
 [Youtube downloader](https://transkriptor.com/youtube-video-downloader/)
+
 [QR code generator](https://qr.io)
 
 [Book of Prayer and Praise for congregational worship](https://archive.org/details/bookprayerandpr01assogoog)
@@ -45,15 +42,11 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [new age radio](https://player.live365.com/a55861?l)
 
-[Spaceship Bedroom Ambience – Relaxing in the Sleeping Quarters (White Noise, ASMR, Relaxation) - YouTube](https://www.youtube.com/watch?v=HFBjfzsOtx0)
-
 [Guide collection 100 one hundred important Questions Newcomers ask about World Religions Faith Moral Values Church what is cons](http://www.uupuertorico.org/100_Questions_eng/100_Questions.html)
 
 [PDF to Markdown](https://pdf2md.morethan.io/)
 
 [Brainfarts Livin' La Vida Aburrida](https://web.archive.org/web/20031215180208/http://untitled.the-protagonist.net/)
-
-[CrushEntropy Plan Your Day](https://crushentropy.com/plan)
 
 [Pocket civ](http://www.backglass.org/scotts/games/PocketCiv/html/index.htm)
 
@@ -67,7 +60,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Unitarian Church of Underwood](https://www.ucofu.org/newcomers.php)
 
-[Rules for a Dictionary Catalogue - Charles Ammi Cutter - Google Books](https://books.google.com/books?id=t1Xfj7wCbBMC&hl=en)
+[Rules for a Dictionary Catalogue - Charles Ammi Cutter]([https://books.google.com/books?id=t1Xfj7wCbBMC&hl=en](https://www.gutenberg.org/ebooks/59215))
 
 [Source code for mergepdfs.bat](https://www.robvanderwoude.com/sourcecode.php?src=mergepdfs_nt)
 
