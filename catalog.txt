@@ -4,6 +4,9 @@ Justin's title-a-liner catalog
   bFIC  Adams, T.  Last word.  N.Y. 2023.  O.
   bFIC  Bergmoser, G.  Hunted.  Lond. 2020.  O.
   bFIC  Bergmoser, G.  Inheritance.  Lond. 2021.  O.
+  v917  Buchsbaum, R.N.  AMC's best day hikes in the White Mountains.  3e.  Bost. c2016.  O.
+  vMYS  Burns, V.M  Murder on tour.  N.Y. c2023.  O.  (Mystery Bookshop)
+  vFIC  Dickens, C.  Christmas stories.  n.p. 2005.  O.  
   bFIC  Dicks, M.  Memoirs of an imaginary friend.  N.Y. 2012.  O.
   bFIC  Dietrich, C.  Pledge.  N.Y. 2023.  O.
   bFIC  Elston, A.  First lie.  [N.Y.] c2024.  O.
@@ -12,14 +15,18 @@ Justin's title-a-liner catalog
   bFIC  Gattis, R.  Kung Fu High School.  Orlando 2005.  O.
   vFIC  Glut, D.F.  Empire strikes back.  (IN Star wars.  N.Y. 1993)
   bFIC  Harding, R.  Drowning women.  N.Y. 2023.  O.
+  v188  Holiday R. and Hanselman, S.  Daily Stoic.  N.Y. c2016.  O.
   bLG+  Jeffrey, J.  Boyfriend material.  N.Y. 2002.  O.
   oWES  Johnstone, W.W. and J.A.  Biscuits and gravy.  N.Y. c2021.  kb.  (Chuckwagon trail)
   vSCI  Kahn, J.  Return of the Jedi.  (IN Star wars.  N.Y. 1993)
   bFIC  Klune, T.J.  House in the cerulean sea.  N.Y. 2020.  O
   bFIC  Klune, T.J.  Somewhere beyond the sea.  N.Y. 2024.  O.
+  v299  Lao Tzu.  Tao te Ching. An Eng. version by Le Guin, Ursula K. with the collaboration of Seaton, J.P.  Boulder 2019.  O.
   vSCI  Lucas, G.  Star wars.  (IN Star wars.  N.Y. 1993).  r2024-01C.
+  vFIC  McCarthy, C.  Road.  N.Y. 2006.  O.
   v299  Ming-Dao, D.  365 Tao.  N.Y. 1992.  O.
   bFIC  Morgan-Bentley, R.  Guest house.  Napperville. Ill. c2022.  O.
+  vSCI  Orwell, G.  1984.  N.Y. 1949.  D.
   bFIC  Penny, L.  Better man.  N.Y. 2019.  O.
   bFIC  Penny, L.  Glass houses.  N.Y. 2018 c2017.  O. 
   bFIC  Penny, L.  Great reckoning.  N.Y. c2016.  O.
@@ -28,6 +35,7 @@ Justin's title-a-liner catalog
   bFIC  Penny, L.  Madness of crowds.  N.Y. 2021.  O.
   bFIC  Penny, L.  World of curiosities.  N.Y. 2022.  O.
   bFIc  Plantinga, A.  Ascent.  N.Y. c2024.  O.
+  vMYS  Ralph, G.B.  Murder on Milverton Square.  n.p. c2022.  O.  (Milverton mystery)
   bLG+  Rowley, S.  Guncle.  N.Y. c2021.  O.
   bLG+  Rowley, S.  Guncle abroad.  N.Y. c2024.  O.
   bFIC  Ryan, T.  Keep this to yourself.  Chic. c2019.  O.
