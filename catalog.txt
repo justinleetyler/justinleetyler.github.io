@@ -17,6 +17,7 @@ Justin's title-a-liner catalog
 * bMYS  Copp, R.  Actor's guide to adultery.  n.Y. c2004.  O.
 * bMYS  Copp, R.  Actor's guide to greed.  N.Y. c2005.  O. 
 * bMYS  Copp, R.  Actor's guide to murder.  N.Y.  c2003.  O.
+* w025  Cutter, C.A.  Rules for a dictionary catalog.  Wash. 1891.  kb. via https://www.gutenberg.org/ebooks/59215
 * vFIC  Dickens, C.  Christmas stories.  n.p. 2005.  O.  
 * bFIC  Dicks, M.  Memoirs of an imaginary friend.  N.Y. 2012.  O.
 * bFIC  Dietrich, C.  Pledge.  N.Y. 2023.  O.
