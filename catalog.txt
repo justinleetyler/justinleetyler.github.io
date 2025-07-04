@@ -31,8 +31,10 @@ Justin's title-a-liner catalog
 * bFIC  Harding, R.  Drowning women.  N.Y. 2023.  O.
 * v188  Holiday R. and Hanselman, S.  Daily Stoic.  N.Y. c2016.  O.
 * bMYS  Hollis, L.  My father always finds corpses.  N.Y. c2025.
-* vMYS  James, M.  Classified as murder.  N.Y. [c2011].  S.  (Cat in the stacks)
-* vMYS  James, M.  No cats allowed.  N.Y. [c2016]  S.  (Cat in the stacks)
+* bMYS  James, M.  Cat me if you can.  N.Y. c2020.  O.  (Cat in the stacks 13)
+* vMYS  James, M.  Classified as murder.  N.Y. [c2011].  S.  (Cat in the stacks 2)
+* vMYS  James, M.  No cats allowed.  N.Y. [c2016]  S.  (Cat in the stacks 7)
+* kMYS  James, M.  Requiem for a mouse.  N.Y. c2024.  kb.  (Cat in the stacks 16)
 * bLG+  Jeffrey, J.  Boyfriend material.  N.Y. 2002.  O.
 * d271  Jones, D.  Templars.  1st large print ed.  n.Y. c2017.  O.
 * oWES  Johnstone, W.W. and J.A.  Biscuits and gravy.  N.Y. c2021.  kb.  (Chuckwagon trail).  r2025-06C.
