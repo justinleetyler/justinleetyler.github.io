@@ -2,6 +2,7 @@ Justin's title-a-liner catalog
 ===
 
 * bFIC  Adams, T.  Last word.  N.Y. 2023.  O.
+* bMYS  Aleman, D.  I might be in trouble.  1st ed.  N.Y. 2024.  O.
 * bLG+  Beck, T.J.  He's the one.  N.Y. c2003.  O.
 * bLG+  Beck, T.J.  I'm your man.  N.Y. c2004.  O.
 * bLG+  Beck, T.J.  It had to be you.  N.Y. c2001.  O.
@@ -11,12 +12,14 @@ Justin's title-a-liner catalog
 * bFIC  Bergmoser, G.  Hunted.  Lond. 2020.  O.
 * bFIC  Bergmoser, G.  Inheritance.  Lond. 2021.  O.
 * v917  Buchsbaum, R.N.  AMC's best day hikes in the White Mountains.  3e.  Bost. c2016.  O.
+* bLG+  Buckland, P.  Buckland, P.  Chorus of witches.  1st Valancourt Books ed.  Richmond 2011, c1959.  O.
 * vMYS  Burns, V.M  Murder on tour.  N.Y. c2023.  O.  (Mystery Bookshop)
 * bLG+  Cohen, J.  Bear like me.  N.Y. c2003.  O.
 * bMYS  Connor, C.J.  Board to death.  N.Y. c2023.  O.
 * bMYS  Copp, R.  Actor's guide to adultery.  n.Y. c2004.  O.
 * bMYS  Copp, R.  Actor's guide to greed.  N.Y. c2005.  O. 
 * bMYS  Copp, R.  Actor's guide to murder.  N.Y.  c2003.  O.
+* bMYS  Cordani, A.  Twelve days of murder.  N.Y. 2023.  O.
 * w025  Cutter, C.A.  Rules for a dictionary catalog.  Wash. 1891.  kb. via https://www.gutenberg.org/ebooks/59215
 * vFIC  Dickens, C.  Christmas stories.  n.p. 2005.  O.  
 * bFIC  Dicks, M.  Memoirs of an imaginary friend.  N.Y. 2012.  O.
@@ -24,8 +27,11 @@ Justin's title-a-liner catalog
 * bFIC  Ellis, D.  Look closer.  N.Y. c2022.  O.
 * bFIC  Elston, A.  First lie.  [N.Y.] c2024.  O.
 * bFIC  Finch, S.  Senseless.  N.Y. c2021.  O.
+* bMYS  Fluke, J.  Christmas dessert murder.  N.Y. 2021.  O. (Queen of the culinary)
 * vFIC  Four great American classics.  N.Y. 2008.  S.  Hawthorne, N.  Scarlet letter -- Twain, M.  Adventures of Huckleberry Finn. -- Crane, S.  Red badge of courage. -- Melville, H.  Billy Budd, sailor.  
+* bMYS  Fram, J.  No road home.  1st ed.  N.Y. 2024.  O. 
 * bFIC  Gattis, R.  Kung Fu High School.  Orlando 2005.  O.
+* bMYS  George, N.  Deadly walk in Devon.  N.Y. c2024.  O.  (Walk through England)
 * bFIC  Glass, S.N.  Nothing ever happens here.  Toronto c2025.  O.
 * vFIC  Glut, D.F.  Empire strikes back.  (IN Star wars.  N.Y. 1993)
 * bFIC  Harding, R.  Drowning women.  N.Y. 2023.  O.
@@ -41,6 +47,7 @@ Justin's title-a-liner catalog
 * vSCI  Kahn, J.  Return of the Jedi.  (IN Star wars.  N.Y. 1993)
 * bFIC  Klune, T.J.  House in the cerulean sea.  N.Y. 2020.  O
 * bFIC  Klune, T.J.  Somewhere beyond the sea.  N.Y. 2024.  O.
+* bFIC  Koepp, D.  Aurora.  1st ed.  N.Y. c2022.  O.
 * vWES  L'amour, L.  Lonigan.  N.Y. [2020].  S.
 * v299  Lao Tzu.  Tao te Ching. An Eng. version by Le Guin, Ursula K. with the collaboration of Seaton, J.P.  Boulder 2019.  O.
 * vSCI  Lucas, G.  Star wars.  (IN Star wars.  N.Y. 1993).  r2024-01C.
@@ -50,6 +57,8 @@ Justin's title-a-liner catalog
 * vFIC  McCarthy, C.  Road.  N.Y. 2006.  O.
 * v299  Ming-Dao, D.  365 Tao.  N.Y. 1992.  O.
 * bFIC  Morgan-Bentley, R.  Guest house.  Napperville. Ill. c2022.  O.
+* bFIC  Murray, J.S.  Awakened; w. Wearmouth, D.  1st. ed.  N.Y. c2018.  O.
+* bFIC  Newman, N.  How to leave the house.  1st US ed.  Lond. c2024.  O.
 * vSCI  Orwell, G.  1984.  N.Y. 1949.  D.
 * bFIC  Penny, L.  Better man.  N.Y. 2019.  O.
 * bFIC  Penny, L.  Glass houses.  N.Y. 2018 c2017.  O. 
@@ -63,9 +72,12 @@ Justin's title-a-liner catalog
 * bLG+  Rowley, S.  Guncle.  N.Y. c2021.  O.
 * bLG+  Rowley, S.  Guncle abroad.  N.Y. c2024.  O.
 * bFIC  Ryan, T.  Keep this to yourself.  Chic. c2019.  O.
+* bMYS  Ryan, T.  Treasure hunters club.  1st ed.  N.Y. 2024.  O.
 * bFIC  Sierra, T.  Night watching.  n.p. c2024.  O.
+* bFIC  Silver, J.  Happy head.  Lond. c2023.  O.
 * v321  Snyder, T.  On Tyranny.  N.Y. [c2017].  D. 
 * vSCI  Star wars trilogy.  N.Y. 1993. 
+* bFIC  Straka, V.M.  Ship of Theseus.  n.p. n.d.  O.
 * vFIC  Toole, J.K.  Confederacy of dunces. Fwd. by Percy, W.  N.Y. 1995.  D.  r2025-06B.
 * bLG+  Truman, A.J.  Advanced chemistry.  n.p. c2003.  O.  (South Rock high)
 * bLG+  Truman, A.J.  Advanced languages.  n.p. c2023.  O.  (South Rock high)
