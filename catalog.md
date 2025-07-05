@@ -20,7 +20,7 @@ Justin's title-a-liner catalog
 * bMYS  Copp, R.  Actor's guide to greed.  N.Y. c2005.  O. 
 * bMYS  Copp, R.  Actor's guide to murder.  N.Y.  c2003.  O.
 * bMYS  Cordani, A.  Twelve days of murder.  N.Y. 2023.  O.
-* w025  Cutter, C.A.  Rules for a dictionary catalog.  Wash. 1891.  kb. via https://www.gutenberg.org/ebooks/59215
+* w025  Cutter, C.A.  Rules for a dictionary catalog.  Wash. 1891.  kb. via [www](https://www.gutenberg.org/ebooks/59215)
 * vFIC  Dickens, C.  Christmas stories.  n.p. 2005.  O.  
 * bFIC  Dicks, M.  Memoirs of an imaginary friend.  N.Y. 2012.  O.
 * bFIC  Dietrich, C.  Pledge.  N.Y. 2023.  O.
@@ -88,7 +88,7 @@ Justin's title-a-liner catalog
 * bLG+  Truman, A.J.  Falcon and the foe.  n.p. c2023.  (Single Dads Club)
 * bLG+  Truman, A.J.  Gross misconduct.  n.p. c2025.  O.  (Comebacks 1)
 * bLG+  Truman, A.J.  Mayor and the mystery man.  n.p. c2022.  (Single Dads Club)
-* wFIC  Twain, M.  Adventures of Huckleberry Finn.  N.Y. c1885.  kb. via https://www.gutenberg.org/ebooks/76
+* wFIC  Twain, M.  Adventures of Huckleberry Finn.  N.Y. c1885.  kb. via [www](https://www.gutenberg.org/ebooks/76)
 * bFIC  Vernon, P.J.  Bath haus.  N.Y. c2021.  O.
 * bMYS  Waddell, M.  Body in the back yard.  N.Y. c2023.  O.  (Crescent Cove)
 * bFIC  Walter, B.P.  Dinner guest.  Lond. 2021.  O.
