@@ -75,6 +75,7 @@ Justin's title-a-liner catalog
   bMYS  Ryan, T.  Treasure hunters club.  1st ed.  N.Y. 2024.  O.
   bFIC  Sierra, T.  Night watching.  n.p. c2024.  O.
   bFIC  Silver, J.  Happy head.  Lond. c2023.  O.
+  bFIC  Smith, B.  Selfish and perverse.  1st Carroll & Graf ed.  N.Y. [2007].  O.   
   v321  Snyder, T.  On Tyranny.  N.Y. [c2017].  D. 
   vSCI  Star wars trilogy.  N.Y. 1993. 
   bFIC  Straka, V.M.  Ship of Theseus.  n.p. n.d.  O.
