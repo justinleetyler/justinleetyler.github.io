@@ -20,6 +20,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[1440](https://join1440.com/today)
+
 [Youtube downloader](https://transkriptor.com/youtube-video-downloader/)
 
 [QR code generator](https://qr.io)
