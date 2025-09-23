@@ -12,6 +12,11 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 ## bookmarks-other
 
+[Bible Gateway](https://www.biblegateway.com/)
+> m: Ps. 51:10-11, 1 Tim. 1:17, 1 Pet. 1:3, Lk. 1:68-79, Phil. 2:6-11, Matt. 6:7-13
+> a: Ps. 117, Isa. 26:3; 30:15, Matt. 6:7-13
+> e: ps. 100, 1 tim. 1:17, 2 cor. 4:5-6, Matt. 6:7-13
+
 [1440](https://join1440.com/today)
 
 [Youtube downloader](https://transkriptor.com/youtube-video-downloader/)
