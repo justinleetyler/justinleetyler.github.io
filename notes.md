@@ -17,6 +17,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 > a: Ps. 117, Isa. 26:3; 30:15, Matt. 6:7-13
 > e: ps. 100, 1 tim. 1:17, 2 cor. 4:5-6, Matt. 6:7-13
 
+[freebooksy lgbt](https://www.freebooksy.com/read/lgbt/)
+
 [1440](https://join1440.com/today)
 
 [Youtube downloader](https://transkriptor.com/youtube-video-downloader/)
