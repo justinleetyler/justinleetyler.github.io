@@ -5,20 +5,50 @@ In the morning
 
 *From Psalm 51*
 
-Tune me in to foot-tapping songs,
-  set these once-broken bones to dancing.
+Unbutton my lips, dear God;
+    I’ll let loose with your praise.
 God, make a fresh start in me,
   shape a Genesis week from the chaos of my life.
 Don’t throw me out with the trash,
   or fail to breathe holiness in me.
 Bring me back from gray exile,
   put a fresh wind in my sails!
+Deep honor and bright glory to the King of All Time--
+  One God, Immortal, Invisible, ever and always. Oh, yes!
 
 *A reading*
 
 What a God we have! And how fortunate we are to have him, this Father of our Master Jesus! Because Jesus was raised from the dead, we’ve been given a brand-new life and have everything to live for. Pet. 1.3
 
-*A hymn or canticle may be used; the Apostles' Creed may be said.*
+*A hymn or canticle may be used*
+
+I’m bursting with God-news;
+    I’m dancing the song of my Savior God.
+God took one good look at me, and look what happened—
+    I’m the most fortunate woman on earth!
+What God has done for me will never be forgotten,
+    the God whose very name is holy, set apart from all others.
+His mercy flows in wave after wave
+    on those who are in awe before him.
+He bared his arm and showed his strength,
+    scattered the bluffing braggarts.
+He knocked tyrants off their high horses,
+    pulled victims out of the mud.
+The starving poor sat down to a banquet;
+    the callous rich were left out in the cold.
+He embraced his chosen child, Israel;
+    he remembered and piled on the mercies, piled them high.
+It’s exactly what he promised,
+    beginning with Abraham and right up to now. Lk. 1:46-55
+
+*The Mystery of Faith may be said.*
+
+He appeared in a human body,
+    was proved right by the invisible Spirit,
+        was seen by angels.
+He was proclaimed among all kinds of peoples,
+    believed in all over the world,
+        taken up into heavenly glory. 1 Ti. 3:14-16
 
 *Prayers may be offered for ourselves and others.*
 
@@ -83,21 +113,23 @@ In the Early Evening
 ---
 *This devotion may be used before or after the evening meal.*
 
-*Phos Hilaron*
+*From Psalm 100*
 
-O gracious light,
-pure brightness of the everliving Father in heaven,
-O Jesus Christ, holy and blessed!
-
-Now as we come to the setting of the sun,
-and our eyes behold the vesper light,
-we sing your praises, O God: Father, Son, and Holy Spirit.
-
-You are worthy at all times to be praised by happy voices,
-O Son of God, O Giver of Life,
-and to be glorified through all the worlds.
+ On your feet now—applaud God!
+    Bring a gift of laughter,
+    sing yourselves into his presence.
+Know this: God is God, and God, God.
+    He made us; we didn’t make him.
+    We’re his people, his well-tended sheep.
+Enter with the password: “Thank you!”
+    Make yourselves at home, talking praise.
+    Thank him. Worship him.
+For God is sheer beauty,
+    all-generous in love,
+    loyal always and ever.
 
 *A reading*
+
 Remember, our Message is not about ourselves; we’re proclaiming Jesus Christ, the Master. All we are is messengers, errand runners from Jesus for you. It started when God said, “Light up the darkness!” and our lives filled up with light as we saw and understood God in the face of Christ, all bright and beautiful. 2 Corinthians 4:5-6
 
 *Prayers may be offered for ourselve and others.*
