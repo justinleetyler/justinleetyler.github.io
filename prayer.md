@@ -17,7 +17,7 @@ Deep honor and bright glory to the King of All Time--
 
 *A reading*
 
-What a God we have! And how fortunate we are to have him, this Father of our Master Jesus! Because Jesus was raised from the dead, we’ve been given a brand-new life and have everything to live for. Pet. 1.3
+What a God we have! And how fortunate we are to have him, this Father of our Master Jesus! Because Jesus was raised from the dead, we’ve been given a brand-new life and have everything to live for, including a future in heaven—and the future starts now!. Pet. 1.3-4
 
 *A hymn or canticle may be used*
 
