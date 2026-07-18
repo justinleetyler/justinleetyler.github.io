@@ -1,7 +1,6 @@
-Daily devotions from the Bible
-===
-In the morning
----
+# Daily devotions from the Bible
+
+## In the morning
 
 *From Psalm 51*
 
@@ -198,4 +197,102 @@ You’re ablaze in beauty!
   Yes. Yes. Yes.
   
 *The Collect*
+
+---
+
+## An Order of Service for Noonday 
+
+*Officiant* God! Please hurry to my rescue!
+
+*People* God, come quickly to my side! [^01]
+
+*Officiant and People*
+
+Deep honor and bright glory to the King of All Time— One God, Immortal, Invisible, ever and always. Oh, yes! [^08]
+
+*A suitable hymn may be sung.*
+
+*The fallowing Psalm is sung or said. Other suitable selections include the Psalms Appointed, Psalms 19,67, one or more sections of Psalm 119, or a selection from Psalms 120 through 133.*
+
+By your words I can see where I’m going;
+    they throw a beam of light on my dark path.
+I’ve committed myself and I’ll never turn back
+    from living by your righteous order.
+Everything’s falling apart on me, God;
+    put me together again with your Word.
+Adorn me with your finest sayings, God;
+    teach me your holy rules.
+My life is as close as my own hands,
+    but I don’t forget what you have revealed.
+The wicked do their best to throw me off track,
+    but I don’t swerve an inch from your course.
+I inherited your book on living; it’s mine forever—
+    what a gift! And how happy it makes me!
+I concentrate on doing exactly what you say—
+    I always have and always will. [^09]
+
+*At the end of the Psalms is sung or said*
+
+Deep honor and bright glory to the King of All Time— One God, Immortal, Invisible, ever and always. Oh, yes!
+
+*One of the following, or some other suitable passage of Scripture, is read*
+
+We can’t round up enough containers to hold everything God generously pours into our lives through the Holy Spirit! [^10]
+
+*or the following*
+
+Jesus said, "The first in importance is, 'Listen, Israel: The Lord your God is one; so love the Lord God with all your passion and prayer and intelligence and energy.' And here is the second: 'Love others as well as you love yourself.' There is no other commandment that ranks with these." [^06]
+
+*or this*
+
+"I am honored all over the world. And there are people who know how to worship me all over the world, who honor me by bringing their best to me. They're saying it everywhere: 'God is greater, this God-of-the-Angel-Armies.' [^07]
+
+*A meditation, silent or spoken, may follow.*
+
+*The Officiant then begins the Prayers*
+
+God, have mercy on me. [^01]
+
+*Master, have mercy on [us].* [^02]
+
+God, have mercy on me. [^01]
+
+*Officiant and People*
+
+Our Father in heaven,
+Reveal who you are.
+Set the world right;
+Do what's best-
+  as above, so below.
+Keep us alive with three square meals.
+Keep us forgiven with you and forgiving others.
+Keep us safe from ourselves and the Devil.
+You're in charge!
+You can do anything you want!
+You’re ablaze in beauty!
+  Yes. Yes. Yes. [^03]
+
+*Officiant* God, listen! Listen to my prayer
+
+*People* listen to the pain in my cries. [^04]
+
+*The Officiant then says one or more of the Collects. If desired, the Collect of the Day may be used.* 
+
+*Free intercessions may be offered.*
+
+*The service concludes as follows*
+
+*Officiant*  And what a blessing he is! [^05]
+
+*People* God, come quickly to my side!
+[^01]: Ps. 31:9
+[^02]: Mt. 20:30
+[^03]: Mt. 6:9-13
+[^04]: Ps. 102:1
+[^05]: Eph. 1:3
+[^06]: Mk. 12:29-31
+[^07]: Malachi 1:11
+[^08]: 1 Ti. 1:19
+[^09]: Ps. 119:105-112 *Lucerna pedibus meis*
+[^10]: Rom. 5:5
 
