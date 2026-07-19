@@ -13,9 +13,9 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 ## bookmarks-other
 
 [Bible Gateway](https://www.biblegateway.com/)
-> m: Ps. 51:10-11, 1 Tim. 1:17, 1 Pet. 1:3, Lk. 1:68-79, Phil. 2:6-11, Matt. 6:7-13
+> m: Ps. 51:7-15, 1 Ti. 1:17, 1 Pet. 1:3, Lk. 1:68-79, 1 Ti. 3:16, Matt. 6:7-13
 > a: Ps. 117, Isa. 26:3; 30:15, Matt. 6:7-13
-> e: ps. 100, 1 tim. 1:17, 2 cor. 4:5-6, Matt. 6:7-13
+> e: ps. 100, 1 tim. 1:17, 2 cor. 4:5-6, Lk. 1:46-55, Matt. 6:7-13
 
 [freebooksy lgbt](https://www.freebooksy.com/read/lgbt/)
 
@@ -36,7 +36,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [HPL digital resources](https://haverhillpl.org/digital-resources/) 21479
 
-- [Boston Globe](https://libraries.state.ma.us/login?db=pq_globe&locid=mlin_n_haverpub)
 - [Britannica](https://libraries.state.ma.us/login?eburl=https%3A%2F%2Flibrary.eb.com&ebtarget=%2Flevels%2Freferencecenter&ebboatid=9265643)
 
 [APL - newsbank](http://infoweb.newsbank.com/signin/AmesburyPublicLibrary) 22114
@@ -77,7 +76,7 @@ https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
 
 [obooks](https://www.obooko.com/)
 
-[Shelburne Public Library](https://www.townofshelburnenh.com/shelburne-public-library)
+[Chris Koehnke's Webpage](https://chriskoehnke.com/)
 
 ---
 
