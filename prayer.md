@@ -233,7 +233,7 @@ I concentrate on doing exactly what you say—
 
 *At the end of the Psalms is sung or said*
 
-Deep honor and bright glory to the King of All Time— One God, Immortal, Invisible, ever and always. Oh, yes!
+Deep honor and bright glory to the King of All Time— One God, Immortal, Invisible, ever and always. Oh, yes! [^08]
 
 *One of the following, or some other suitable passage of Scripture, is read*
 
@@ -282,9 +282,184 @@ You’re ablaze in beauty!
 
 *The service concludes as follows*
 
-*Officiant*  And what a blessing he is! [^05]
+*Officiant*  Blessed is God! 
 
-*People* God, come quickly to my side!
+*People* What a blessing he is! [^05]
+
+---
+
+## Common Prayer
+
+**The Invitatory and Psalter**
+
+*All stand*
+
+*Officiant* Unbutton my lips, dear God
+
+*People*  I’ll let loose with your praise. [^11]
+
+*Officiant* Deep honor and bright glory to the King of All Time— 
+
+*People* One God, Immortal, Invisible, ever and always. Oh, yes! [^08]
+
+*Officiant* Praise God!
+ 
+*People* Just to speak his name is praise! [^12]
+
+*Then follows one of the Invitatory Psalms, Venite or Cantate Domino.*
+
+ Come, let’s shout praises to God,
+    raise the roof for the Rock who saved us!
+Let’s march into his presence singing praises,
+    lifting the rafters with our hymns!
+And why? Because God is the best,
+    High King over all the gods.
+In one hand he holds deep caves and caverns,
+    in the other hand grasps the high mountains.
+He made Ocean—he owns it!
+    His hands sculpted Earth!
+So come, let us worship: bow before him,
+    on your knees before God, who made us!
+Oh yes, he’s our God,
+    and we’re the people he pastures, the flock he feeds. [^13]
+
+*or*
+
+Sing to God a brand-new song.
+He’s made a world of wonders!
+He rolled up his sleeves,
+He set things right.
+God made history with salvation,
+He showed the world what he could do.
+He remembered to love us, a bonus
+To his dear family, Israel—indefatigable love.
+The whole earth comes to attention.
+Look—God’s work of salvation!
+Shout your praises to God, everybody!
+Let loose and sing! Strike up the band!
+Round up an orchestra to play for God,
+Add on a hundred-voice choir.
+Feature trumpets and big trombones,
+Fill the air with praises to King God.
+Let the sea and its fish give a round of applause,
+With everything living on earth joining in.
+Let ocean breakers call out, “Encore!”
+And mountains harmonize the finale—
+A tribute to God when he comes,
+When he comes to set the earth right.
+We’ll straighten out the whole world,
+He’ll put the world right, and everyone in it. [^14]
+
+*Then follows*
+
+**The Psalm or Psalms Appointed**
+
+**At the end of the Psalms is sung or said**
+
+Deep honor and bright glory to the King of All Time— One God, Immortal, Invisible, ever and always. Oh, yes! [^08]
+
+*A lesson, taken out of the Hebrew scriptures, is read.*
+
+*The following canticle is sung or said after the Reading.*
+
+I’m bursting with God-news;
+    I’m dancing the song of my Savior God.
+God took one good look at me, and look what happened—
+    I’m the most fortunate woman on earth!
+What God has done for me will never be forgotten,
+    the God whose very name is holy, set apart from all others.
+His mercy flows in wave after wave
+    on those who are in awe before him.
+He bared his arm and showed his strength,
+    scattered the bluffing braggarts.
+He knocked tyrants off their high horses,
+    pulled victims out of the mud.
+The starving poor sat down to a banquet;
+    the callous rich were left out in the cold.
+He embraced his chosen child, Israel;
+    he remembered and piled on the mercies, piled them high.
+It’s exactly what he promised,
+    beginning with Abraham and right up to now. [^14]
+
+*A second lesson, taken out of the Christian scriptures, is read.*
+
+*One of the following canticles is sung or said after the Reading.*
+
+Blessed be the Lord, the God of Israel;
+    he came and set his people free.
+He set the power of salvation in the center of our lives,
+    and in the very house of David his servant,
+Just as he promised long ago
+    through the preaching of his holy prophets:
+Deliverance from our enemies
+    and every hateful hand;
+Mercy to our fathers,
+    as he remembers to do what he said he’d do,
+What he swore to our father Abraham—
+    a clean rescue from the enemy camp,
+So we can worship him without a care in the world,
+    made holy before him as long as we live.
+And you, my child, “Prophet of the Highest,”
+    will go ahead of the Master to prepare his ways,
+Present the offer of salvation to his people,
+    the forgiveness of their sins.
+Through the heartfelt mercies of our God,
+    God’s Sunrise will break in upon us,
+Shining on those in the darkness,
+    those sitting in the shadow of death,
+Then showing us the way, one foot at a time,
+    down the path of peace. [^15]
+
+*or this*
+
+God, you can now release your servant;
+    release me in peace as you promised.
+With my own eyes I’ve seen your salvation;
+    it’s now out in the open for everyone to see:
+A God-revealing light to the non-Jewish nations,
+    and of glory for your people Israel. [^16]
+
+**The Prayers**
+
+*The People stand or kneel*
+
+*Officiant* God be with you!
+
+*People* And God bless you! [^17]
+
+*Officiant*  Show us how much you love us, God!
+
+*People* Give us the salvation we need! [^18]
+
+*Officiant*  God, make a fresh start in me,
+
+*Officiant*  Breathe holiness in me. [^19]
+
+
+*Officiant and People*
+
+Our Father in heaven,
+Reveal who you are.
+Set the world right;
+Do what's best-
+  as above, so below.
+Keep us alive with three square meals.
+Keep us forgiven with you and forgiving others.
+Keep us safe from ourselves and the Devil.
+You're in charge!
+You can do anything you want!
+You’re ablaze in beauty!
+  Yes. Yes. Yes. [^03]
+
+*Then follows the Suffrages*
+
+*The Officiant may then conclude with one of the following*
+
+*Officiant*  Blessed is God! 
+
+*People* What a blessing he is! [^05]
+
+
 [^01]: Ps. 31:9
 [^02]: Mt. 20:30
 [^03]: Mt. 6:9-13
@@ -295,4 +470,12 @@ You’re ablaze in beauty!
 [^08]: 1 Ti. 1:19
 [^09]: Ps. 119:105-112 *Lucerna pedibus meis*
 [^10]: Rom. 5:5
-
+[^11]: Ps. 51:15
+[^12]: Ps. 113:1
+[^13]: Ps. 95:1-7
+[^14]: Lk. 1:46-55
+[^15]: Lk. 1:68-79
+[^16]: Lk. 2:29-32
+[^17]: Ru. 2:4
+[^18]: Ps. 85:7
+[^19]: Ps. 51:10a,11b
