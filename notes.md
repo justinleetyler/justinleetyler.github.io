@@ -17,6 +17,7 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 > **a:** Ps. 117, Isa. 26:3; 30:15, Matt. 6:9-13
 > **e:** ps. 100, 1 tim. 1:17, 2 cor. 4:5-6, Lk. 1:46-55, Matt. 6:9-13
 > **Common Prayer**: ps. 51:15, 1 ti. 1:17, ps. 113.1, ps. 95:1-7, 1 ti. 1:17, mal. 1:11, lk. 1.46-55, rom. 5:5, lk. 1:68-79, ru. 2:4, ps. 85.7, ps. 51:10-11, mt. 6:9-13, 2 cor. 13:14 .
+> **Noonday Prayer**: ps. 70:1, 1 ti. 1:17, ps. 119: 105-112, ps. 121:1-8, ps. 126:1-7, 1 ti. 1:17, rom. 5:5, 2 cor. 5:17-18, mal. 1:11, mt. 20:30, Mt. 6:9-13, ps. 102.1, eph. 1:3
 
 [BCP Reading Plan](https://www.biblegateway.com/reading-plans/bcp-daily-office/next)
 
