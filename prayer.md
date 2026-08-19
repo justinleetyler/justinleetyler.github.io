@@ -17,7 +17,7 @@ Deep honor and bright glory to the King of All Time--
 
 *A reading*
 
-What a God we have! And how fortunate we are to have him, this Father of our Master Jesus! Because Jesus was raised from the dead, we’ve been given a brand-new life and have everything to live for, including a future in heaven—and the future starts now!. Pet. 1.3-4
+Jesus said, "'Love the Lord your God with all your passion and prayer and intelligence.' This is the most important, the first on any list. But there is a second to set alongside it: 'Love others as well as you love yourself.' These two commands are pegs; everything in God’s Law and the Prophets hangs from them." *Matt. 22:37-40*
 
 *A hymn or canticle may be used*
 
@@ -38,7 +38,7 @@ The starving poor sat down to a banquet;
 He embraced his chosen child, Israel;
     he remembered and piled on the mercies, piled them high.
 It’s exactly what he promised,
-    beginning with Abraham and right up to now. Lk. 1:46-55
+    beginning with Abraham and right up to now. *Lk. 1:46-55*
 
 *The Mystery of Faith may be said.*
 
@@ -47,7 +47,7 @@ He appeared in a human body,
         was seen by angels.
 He was proclaimed among all kinds of peoples,
     believed in all over the world,
-        taken up into heavenly glory. 1 Ti. 3:14-16
+        taken up into heavenly glory. *1 Ti. 3:14-16*
 
 *Prayers may be offered for ourselves and others.*
 
@@ -87,7 +87,7 @@ God, People with their minds set on you,
   you keep completely whole,
 Our strength will come from settling down
   in complete dependence on you.
-Isaiah 26:3; 30:15
+*Isaiah 26:3; 30:15*
 
 *Prayers may be offered for ourselves and others.*
 
@@ -129,9 +129,9 @@ For God is sheer beauty,
 
 *A reading*
 
-Remember, our Message is not about ourselves; we’re proclaiming Jesus Christ, the Master. All we are is messengers, errand runners from Jesus for you. It started when God said, “Light up the darkness!” and our lives filled up with light as we saw and understood God in the face of Christ, all bright and beautiful. 2 Corinthians 4:5-6
+Remember, our Message is not about ourselves; we’re proclaiming Jesus Christ, the Master. All we are is messengers, errand runners from Jesus for you. It started when God said, “Light up the darkness!” and our lives filled up with light as we saw and understood God in the face of Christ, all bright and beautiful. *2 Corinthians 4:5-6*
 
-*Prayers may be offered for ourselve and others.*
+*Prayers may be offered for ourselves and others.*
 
 *The Lord's Prayer*
 
@@ -168,7 +168,7 @@ In turn, may God of Zion bless you—
 But God, you are, in fact, here, here with us!
     You know who we are—you named us!
     Don’t leave us without a leg to stand on.
-Jeremiah 14:9
+*Jeremiah 14:9*
 
 *The following may be said*
 
