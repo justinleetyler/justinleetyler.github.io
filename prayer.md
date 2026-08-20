@@ -459,6 +459,84 @@ You’re ablaze in beauty!
 
 *People* What a blessing he is! [^05]
 
+---
+
+## Communion under Special Circumstances
+
+*The Celebrant reads a passage of Scripture appropriate to the day or occasion, or else one of the following*
+
+Jesus said, "I am the Bread of Life. The person who aligns with me hungers no more and thirsts no more, ever." (John 6:35)
+
+*After the Reading, the Celebrant may comment on it briefly.*
+
+*Suitable prayers may be offered, concluding with a Collect*
+
+*A Confession of Sin may follow. The following or some other form is used*
+
+Take away our sin,
+    accept our confession.
+Receive as restitution
+    our repentant prayers.
+Assyria won't save us;
+    horses won’t get us where we want to go.
+We'll never again say 'our god'
+    to something we’ve made or made up.
+You’re our last hope. Is it not true
+    that in you the orphan finds mercy? 
+(Hos. 14:2-3)
+
+*The Celebrant then says*
+
+God says, "I've wiped the slate of all your wrongdoings.
+    There's nothing left of your sins.
+Come back to me, come back.
+    I've redeemed you." (Isa. 44:6,22)
+
+*The Peace may then be exchanged.*
+
+A little later Boaz came out from Bethlehem, greeting his harvesters, **“God be with you!”** They replied, **“And God bless you!”** (Ruth 2:4)
+
+*The Lord's Prayer is said*
+
+Our Father in heaven,
+Reveal who you are.
+Set the world right;
+Do what's best—
+    as above, so below.
+Keep us alive with three square meals.
+Keep us forgiven with you and forgiving others.
+Keep us safe from ourselves and the Devil.
+You’re in charge!
+You can do anything you want!
+You’re ablaze in beauty!
+    Yes. Yes. Yes.
+(Matthew 6:7-13)
+
+*The Celebrant may say the following Invitation*
+
+The Master, Jesus, on the night of his betrayal, took bread. Having given thanks, he broke it and said,
+
+*The Sacrament is administered with the following or other words*
+
+This is my body, broken for you.
+Do this to remember me.
+
+After supper, he did the same thing with the cup:
+
+This cup is my blood, my new covenant with you.
+Each time you drink this cup, remember me.
+
+*The following is then said*
+
+What you must solemnly realize is that every time you eat this bread and every time you drink this cup, you reenact in your words and actions the death of the Master. (1 Cor 16:23-26)
+
+*The service concludes with a blessing or with a dismissal*
+
+Blessed is God!
+
+What a blessing he is! (Eph. 1:3)
+
+---
 
 [^01]: Ps. 31:9
 [^02]: Mt. 20:30
