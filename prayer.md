@@ -42,6 +42,7 @@ It’s exactly what he promised,
 
 *The Mystery of Faith may be said.*
 
+That there’s one God and only one, and one Priest-Mediator between God and us—Jesus, who offered himself in exchange for everyone held captive by sin, to set them all free. 
 He appeared in a human body,
     was proved right by the invisible Spirit,
         was seen by angels.
@@ -267,10 +268,7 @@ Do what's best-
 Keep us alive with three square meals.
 Keep us forgiven with you and forgiving others.
 Keep us safe from ourselves and the Devil.
-You're in charge!
-You can do anything you want!
-You’re ablaze in beauty!
-  Yes. Yes. Yes. [^03]
+[^03]
 
 *Officiant* God, listen! Listen to my prayer
 
@@ -538,6 +536,31 @@ What a blessing he is! (Eph. 1:3)
 
 ---
 
+## Baptism
+
+*Any baptized person may administer Baptism according to the following form.*
+
+[Name], I baptize you in the threefold name: Father, Sone, and Holy Spirit. (Mt. 28:19)
+
+*The Lord's Prayer is said*
+
+Our Father in heaven,
+Reveal who you are.
+Set the world right;
+Do what's best—
+    as above, so below.
+Keep us alive with three square meals.
+Keep us forgiven with you and forgiving others.
+Keep us safe from ourselves and the Devil.
+You’re in charge!
+You can do anything you want!
+You’re ablaze in beauty!
+    Yes. Yes. Yes.
+*(Matthew 6:7-13)*
+
+*Other prayers may be added*
+
+---
 [^01]: Ps. 31:9
 [^02]: Mt. 20:30
 [^03]: Mt. 6:9-13
