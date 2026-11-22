@@ -540,7 +540,7 @@ What a blessing he is! (Eph. 1:3)
 
 *Any baptized person may administer Baptism according to the following form.*
 
-[Name], I baptize you in the threefold name: Father, Sone, and Holy Spirit. (Mt. 28:19)
+[Name], I baptize you in the threefold name: Father, Son, and Holy Spirit. (Mt. 28:19)
 
 *The Lord's Prayer is said*
 
