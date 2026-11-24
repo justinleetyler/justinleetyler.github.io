@@ -33,6 +33,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Daily prayer and praise](https://archive.org/details/dailypraisepraye00ship_0/page/1/mode/1up)
 
+[Book of Worship](https://archive.org/details/bookofworshipfor0000unse_x4w4/)
+
 [uu eucharist](https://www.uumin.org/sam/writings/UUcommunion.htm)
  - [gathered here](https://m.youtube.com/watch?v=Lb9ZsP_1zaM)
  - [Let us Break Bread Together](https://m.youtube.com/watch?v=1AGEloqeAx4)
