@@ -31,6 +31,8 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Book of Prayer and Praise for congregational worship](https://archive.org/details/bookprayerandpr01assogoog)
 
+[Daily prayer and praise](https://archive.org/details/dailypraisepraye00ship_0/page/1/mode/1up)
+
 [uu eucharist](https://www.uumin.org/sam/writings/UUcommunion.htm)
  - [gathered here](https://m.youtube.com/watch?v=Lb9ZsP_1zaM)
  - [Let us Break Bread Together](https://m.youtube.com/watch?v=1AGEloqeAx4)
