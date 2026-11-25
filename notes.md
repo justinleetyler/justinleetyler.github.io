@@ -6,6 +6,12 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [nws](https://forecast.weather.gov/MapClick.php?lat=42.7843&lon=-71.0862&unit=0&lg=english&FcstType=text&TextType=1)
 
+[npr](https://text.npr.org/)
+
+[cnn](https://lite.cnn.com/)
+
+[cbc](https://www.cbc.ca/lite/news)
+
 [light web](https://litew.pages.dev/)
 
 [quick reference](https://justinleetyler.github.io/references)
@@ -50,8 +56,6 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [new age radio](https://player.live365.com/a55861?l)
 
-[Guide collection 100 one hundred important Questions Newcomers ask about World Religions Faith Moral Values Church what is cons](http://www.uupuertorico.org/100_Questions_eng/100_Questions.html)
-
 [PDF to Markdown](https://pdf2md.morethan.io/)
 
 [Brainfarts Livin' La Vida Aburrida](https://web.archive.org/web/20031215180208/http://untitled.the-protagonist.net/)
@@ -64,23 +68,15 @@ https://en.m.wikipedia.org/wiki/Monarchianism
 
 [Archer A7](http://192.168.0.1/webpages/login.html?t=1565084106403)
 
-[How to Deep-Clean Every Room in Your House](https://www.bhg.com/homekeeping/house-cleaning/tips/how-to-deep-clean-your-house/#:~:text=How%20to%20Deep%20Clean%20Your%20House%201%20Brush,cycle%20on%20cold%2C...%206%20...%20%28more%20items%29%20)
-
-[Unitarian Church of Underwood](https://www.ucofu.org/newcomers.php)
-
 [Source code for mergepdfs.bat](https://www.robvanderwoude.com/sourcecode.php?src=mergepdfs_nt)
 
 [DOS - String Manipulation](https://www.dostips.com/DtTipsStringManipulation.php)
 
 [FOR loop in Windows](https://www.windows-commandline.com/windows-for-loop-examples/)
 
-[Split string by delimiter in String manipulation of MS-DOS Commands](https://www.knowledgewalls.com/johnpeter/books/msdos-commands/split-string-by-delimiter)
-
 [hgazette.com](https://www.hgazette.com/)
 
 [History](http://www.freeland-holmes.lib.me.us/Board_Staff.html)
-
-https://coda.io/@jessica-powell/jessica-powells-guide-to-great-one-on-ones
 
 [obooks](https://www.obooko.com/)
 
